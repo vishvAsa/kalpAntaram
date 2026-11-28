@@ -3,6 +3,11 @@ title = "323 पुरुषाणाङ् कुलीनानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+323	For stealing men of noble family and especially women and the most precious gems, (the offender) deserves corporal (or capital) punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing noble men, and specially women, and the precious gems, the thief deserves ‘immolation.’—(323)
@@ -87,9 +92,4 @@ a man or woman, he shall be fined not less than 500 or more than 1,000
 <details><summary>भारुचिः</summary>
 
 अत्र ह्रियमाणहर्तृजातिगुणापेक्षया विधिप्रपञ्चः कल्पनीयः॥ ८.३२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-323	For stealing men of noble family and especially women and the most precious gems, (the offender) deserves corporal (or capital) punishment.
 </details>

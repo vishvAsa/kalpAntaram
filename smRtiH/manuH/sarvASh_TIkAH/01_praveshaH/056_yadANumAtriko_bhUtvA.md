@@ -3,6 +3,11 @@ title = "056 यदाणुमात्रिको भूत्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, invested with minute particles, the Individual enters the moveable or immoveable Seed;—then, becoming united with the aforesaid (Subtile body), it assumes the (new) body.—(56)
@@ -25,9 +30,4 @@ When, invested with minute particles, the Individual enters the moveable or immo
 <details><summary>गोविन्दराजः</summary>
 
 किं शरीरान्तरनिरपेक्ष एव मूर्तिं परित्य्जतीत्य् आह – **यदेति ।** **यदा** सूक्ष्मप्रमाणः सन् स्थावरबीजं जङ्गमबीजं वा अन्यद् अधितिष्ठति **तदा** इदं शरीरं त्यजति । **संसृष्टः** प्राणादिसंयुक्तः, यथोक्तं बृहदारण्यके- “तम् उत्क्रामन्तं प्राणो ऽनूत्क्रामति प्राणम् अनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति” इति ॥ १.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.
 </details>

@@ -2,6 +2,11 @@
 title = "144 य आवृणोत्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who rightly fills one’s both ears with the Veda should be regarded as his Father and Mother; one should not, at any time, do him harm.—(144)
@@ -93,11 +98,6 @@ regarded as similar to Viṣṇu.’
 <details><summary>गोविन्दराजः</summary>
 
 **य आवृणोतीति **। आपूरयत्य् **अवितथं** विस्वरादिरहितं कृत्वा वेदेनोभौ कर्णौ **स मातापितृवत् ज्ञेयः** । तस्मै चाध्ययनोत्तरकाले ऽपि द्रोहं न कुर्यात् ॥ २.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
 </details>
 
 <details><summary>भारुचिः</summary>

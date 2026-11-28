@@ -3,6 +3,11 @@ title = "278 अग्निदान् भक्तदांश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+278	Those who give (to thieves) fire, food, arms, or shelter, and receivers of stolen goods, the ruler shall punish like thieves.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall strike like thieves those who provide fire, offer food and supply arms and lodging, as also those who abet their escape.—(278)
@@ -63,9 +68,4 @@ It is quoted in *Aparārka* (p. 849);—and in *Vyavahāra-Bālambhaṭṭī* (p
 <details><summary>भारुचिः</summary>
 
 विज्ञाय चोरांस् तत्साहाय्येनाइतानि कुर्वतां चोरवच् छिष्टिस् ताडनबन्धनपरिभाषणादिरूपा । न तु वराङ्गच्छेदो ऽर्थदण्डनं वा शिष्टिः । प्रथमम् एवानुक्तापि चौर्यं वर्णानां चोरवच् छिष्टिर् अल्पेष्व् अपराधेषु चोरस्यापि स्यात् ॥ ९.२७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-278	Those who give (to thieves) fire, food, arms, or shelter, and receivers of stolen goods, the ruler shall punish like thieves.
 </details>

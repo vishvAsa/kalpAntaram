@@ -3,6 +3,11 @@ title = "069 अह्ना रात्र्या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	In order to expiate (the death) of those creatures which he unintentionally injures by day or by night, an ascetic shall bathe and perform six suppressions of the breath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By day and by night, if the Renunciate unintentionally injures some living creatures, he shall, for the purpose of expiating it, bathe and then perform six ‘breath-suspensions.’—(69)
@@ -43,9 +48,4 @@ By day and by night, if the Renunciate unintentionally injures some living creat
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-069	In order to expiate (the death) of those creatures which he unintentionally injures by day or by night, an ascetic shall bathe and perform six suppressions of the breath.
 </details>

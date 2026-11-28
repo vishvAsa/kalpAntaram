@@ -3,6 +3,11 @@ title = "229 वारिदस् तृप्तिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of water obtains satisfaction, the giver of food imperishable happiness, the giver of sesamum desirable offspring, and this giver of lamp most excellent eyesight.—(229)
@@ -61,9 +66,4 @@ clothes becomes endowed with beauty, and the man who gives land is always a king
 <details><summary>गोविन्दराजः</summary>
 
 **वारिद** इति । उदकप्रदः सौहित्यम्, **अन्नदः **अनन्तसुखम्, **तिलप्रदः **ईप्सितान्य् अपत्यानि, **दीपदः **तिमिराद्यनुपहतं **चक्षुः** प्राप्नोति ॥ ४.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.
 </details>

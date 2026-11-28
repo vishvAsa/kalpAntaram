@@ -2,6 +2,11 @@
 title = "118 सावित्रीमात्र-सारो ऽपि"
 +++
 
+<details><summary>Bühler</summary>
+
+118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Better the Brāhmaṇa knowing the Sāvitrī alone, if he is thoroughly self-controlled,—and not he who knows all the three Vedas, but is not self-controlled, and eats all things and sells all things.—(118)
@@ -57,11 +62,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460).
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादः **सावित्रीमात्रसार** इति । यदि **विप्रः सुयन्त्रितः **अभिवादाचारानुष्ठानयन्त्रितात्मा भवति तदा **सावित्रीमात्र**प्रधानो ऽपि तावन्मात्राध्येतापि **वरं** प्रशस्तः । न त्व् अनाचारस् **त्रिवेदो ऽपि **प्रशस्यः, यतः असाव् अयन्त्रितत्वात् **सर्वाशी सर्वविक्रयी **च भवति ॥ २.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
 </details>
 
 <details><summary>भारुचिः</summary>

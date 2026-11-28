@@ -2,6 +2,11 @@
 title = "239 चाण्डालश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Cāṇdāla, the pig, the cock, as also the dog, the unclean woman and the eunuch should not look at the Brāhmaṇas while eating.—(239)
@@ -75,11 +80,6 @@ leper, the outcast, the embryo-killer, one of doubtful birth, relatives of outca
 <details><summary>गोविन्दराजः</summary>
 
 तथा च कार्यं यथा **चण्डालश् च वराहश् च कुक्कुट** इति । चण्डालवराहग्रामसूकरकुक्कुटश् चोदक्यानपुंसकानि द्विजभोजनकाले ततो ऽपसारयेत् ॥ ३.२३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
 </details>
 
 <details><summary>भारुचिः</summary>

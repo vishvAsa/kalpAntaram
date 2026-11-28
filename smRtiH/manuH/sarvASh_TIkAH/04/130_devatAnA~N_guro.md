@@ -2,6 +2,11 @@
 title = "130 देवतानाङ् गुरो"
 +++
 
+<details><summary>Bühler</summary>
+
+130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not intentionally step over the shadow of the gods, of a superior, of the king, of an Accomplished Student, of his own Preceptor, of the tawny thing, or of the Initiated Person.—(130)
@@ -62,11 +67,6 @@ shadow of a deity, the twice-born, the teacher, the wise man, the accomplished s
 <details><summary>गोविन्दराजः</summary>
 
 **देवतानाम्** इति । **देवतानां **चित्रपुस्तकादिकृतानां **गुरोः** पित्रादेः नृपतेः **स्नातकाचार्यस्य **च प्राधान्याद् गुरुतः पृथगुपदिष्टस्य कपिलस्य यज्ञार्थं कृतदीक्षस्येच्छातः **छायां नाक्रामेत् **॥ ४.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
 </details>
 
 <details><summary>भारुचिः</summary>

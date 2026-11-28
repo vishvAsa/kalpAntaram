@@ -3,6 +3,11 @@ title = "086 सर्वान् रसान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+086	He must avoid (selling) condiments of all sorts, cooked food and sesamum, stones, salt, cattle, and human (beings),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall avoid all savoury substances as also cooked food and sesamum, stores, salt, animals and human beings.—(86)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 अत्र च रसप्रधानं द्रव्यं गुऌआदि सामर्थ्याद् रस उच्यते । यथा तगरोशीरचन्दनसमुदायो गन्धप्रधानो गन्धशब्देन । **कृतान्नं** च तण्डुलादि, पक्वम् अपरे । **अश्मानः** सर्वपाशाणाः । **लवणस्या**पाषाणार्थे आरम्भः । न तु सैन्धवार्थः, तस्य पाषाणशब्देन ग्रहणात् । रसपक्षे च लवणस्य नित्यार्थ आरम्भः । **पशवो ये च मानुषाः**- पशवश् च ग्राम्यारण्या मानुषाश् च पशवो ऽपि ॥ १०.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	He must avoid (selling) condiments of all sorts, cooked food and sesamum, stones, salt, cattle, and human (beings),
 </details>

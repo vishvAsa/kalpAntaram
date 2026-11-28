@@ -2,6 +2,11 @@
 title = "060 सपिण्डता तु"
 +++
 
+<details><summary>Bühler</summary>
+
+060	But the Sapinda-relationship ceases with the seventh person (in the ascending and descending lines), the Samanodaka-relationship when the (common) origin and the (existence of a common family)-name are no (longer) known.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Sapiṇḍa-relationship’ ceases with the person in the seventh-degree and the ‘Samānodaka-relationship,’ when the origin and the name become unrecognisable—(60).
@@ -224,11 +229,6 @@ seventh degree, in the case of their being all of the same caste; in the ease of
 <details><summary>गोविन्दराजः</summary>
 
 अलौकिकत्वात् सपिण्डस्य लक्षणम् आह **सपिण्डतेति** । षट् पुरुषान् पितृपितामहादीन् अतिक्रम्य सप्तमे प्राप्ते सपिण्डत्वं निवर्तते । एवं पुत्रपौत्रादिष्व् अपि विज्ञेयम् । समानोदकत्वं पुनर् अयम् अस्मत्कुले जात एवन्नामश् चास्मद्वंश्यो ऽस्यादिपुरुष इत्येवं जन्मनामोभयापरिज्ञाने सति निवर्तते ॥ ५.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	But the Sapinda-relationship ceases with the seventh person (in the ascending and descending lines), the Samanodaka-relationship when the (common) origin and the (existence of a common family)-name are no (longer) known.
 </details>
 
 <details><summary>भारुचिः</summary>

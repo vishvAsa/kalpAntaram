@@ -2,6 +2,11 @@
 title = "072 देवतातिथि-भृत्यानाम् पितॄणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who does not make offerings to the five—viz., gods, guests, dependents, Pitṛs and himself,—does not live, even though breathing.—(72)
@@ -73,11 +78,6 @@ See Comparative notes for [Verse 3.71].
 > अप्य् अकार्यशतं कृत्वा भर्तव्या मनुर् अब्रवीत् ॥
 
 इत्य् उक्त्वा एषां देवतादीनां **पञ्चानां** यो न ददाति सः प्राणान् धारयन्न् अपि **न जीवति** जीवितकार्याभावात् ॥ ३.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "204 तेषाम् आरक्षभूतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first engage the Brāhmaṇa in honour of the gods, as a protection to these (offerings to) Pitṛs; for the Rākṣasas take away the śrāddha that is devoid of protection.—(204)
@@ -59,11 +64,6 @@ Pitṛs.’
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । पितॄणां रक्षाभूतम्, गृह्यदर्शनात् विश्वान् देवान् उद्दिश्य **पूर्वं** ब्राह्मणं निमन्त्रयेत् । यस्माद् रक्षोदर्शितं श्राद्धं **रक्षांस्य्** आच्छिन्दन्ति यस्माद् रक्षाभूतं पित्र्यस्य दैवं तस्मात् ॥ ३.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
 </details>
 
 <details><summary>भारुचिः</summary>

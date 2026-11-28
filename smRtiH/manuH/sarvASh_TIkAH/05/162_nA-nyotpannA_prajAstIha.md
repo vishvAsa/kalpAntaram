@@ -2,6 +2,11 @@
 title = "162 नाऽन्योत्पन्ना प्रजास्तीह"
 +++
 
+<details><summary>Bühler</summary>
+
+162	Offspring begotten by another man is here not (considered lawful), nor (does offspring begotten) on another man's wife (belong to the begetter), nor is a second husband anywhere prescribed for virtuous women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is born of another is not a ‘child’: nor is one begotten on another man’s wife; for good women a second husband is nowhere ordained.—(160).
@@ -40,11 +45,6 @@ See Comparative notes for [Verse 5.154].
 <details><summary>गोविन्दराजः</summary>
 
 **नान्योत्पन्ना **इति । भर्तृव्यतिरिक्ततया उत्पादिता प्रजासेहशास्त्रे तस्मात् पौनर्भवसंस्कारादि योगेनापि न भर्त्रान्तरम् आश्रयणीयम् ॥ ५.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	Offspring begotten by another man is here not (considered lawful), nor (does offspring begotten) on another man's wife (belong to the begetter), nor is a second husband anywhere prescribed for virtuous women.
 </details>
 
 <details><summary>भारुचिः</summary>

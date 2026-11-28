@@ -3,6 +3,11 @@ title = "303 अभयस्य हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+303	That king, indeed, is ever worthy of honour who ensures the safety (of his subjects); for the sacrificial session (sattra, which he, as it were, performs thereby) ever grows in length, the safety (of his subjects representing) the sacrificial fee.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King who imparts security is ever to be honoured; his sacrificial session constantly prospers, accompanied as it is by the gift of ‘security.’—(303)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 8.302].
 <details><summary>भारुचिः</summary>
 
 येन सत्त्रं हि वर्धते तस्य तस्य न निग्रहरूपं सदैव यावज्जीवम् इत्य् अर्थः । न तु यथा वैताने नियतकालम् । तच् आस्य भवति अभयदक्षिणम्- सत्त्रे दक्षिणा[भावात् तद्वैलक्ष्यण्यम् अस्य सत्त्रस्य ॥ ८.३०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-303	That king, indeed, is ever worthy of honour who ensures the safety (of his subjects); for the sacrificial session (sattra, which he, as it were, performs thereby) ever grows in length, the safety (of his subjects representing) the sacrificial fee.
 </details>

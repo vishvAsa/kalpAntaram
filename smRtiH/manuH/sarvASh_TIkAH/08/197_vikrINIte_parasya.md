@@ -3,6 +3,11 @@ title = "197 विक्रीणीते परस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+197	If anybody sells the property of another man, without being the owner and without the assent of the owner, the (judge) shall not admit him who is a thief, though he may not consider himself as a thief, as a witness (in any case).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man sells another man’s property, without being its owner, and without the owner’s consent, the judge shall not admit him as a witness,—he being a thief; though he may not be regarded as a thief.—(197)
@@ -62,9 +67,4 @@ sealed or open, or anything stolen from another,—if any of these is sold by a 
 <details><summary>भारुचिः</summary>
 
 न तं नयेत साक्ष्यम् इत्य् अस्य प्रदर्शनार्थत्वात् सर्वाप्रामाण्याद् एव तं निवर्तयति ॥ ८.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	If anybody sells the property of another man, without being the owner and without the assent of the owner, the (judge) shall not admit him who is a thief, though he may not consider himself as a thief, as a witness (in any case).
 </details>

@@ -3,6 +3,11 @@ title = "215 यतात्मनो ऽप्रमत्तस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+216	A fast for twelve days by a man who controls himself and commits no mistakes, is called a Paraka Krikkhra, which removes all guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, self-controlled and guarded, fasts for twelve days,—this constitutes the ‘Kṛcchra’ name ‘Parāka’, which removes all sins.—(215)
@@ -50,9 +55,4 @@ during twelve days, that is called the *Parākakṛcchra*, which destroys all si
 <details><summary>भारुचिः</summary>
 
 स चायं कृच्छ्रातिकृच्छ्रो गौतमीयो ऽभिहितः ॥ ११.२१२–२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	A fast for twelve days by a man who controls himself and commits no mistakes, is called a Paraka Krikkhra, which removes all guilt.
 </details>

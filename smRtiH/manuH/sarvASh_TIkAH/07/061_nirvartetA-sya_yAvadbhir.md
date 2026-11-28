@@ -3,6 +3,11 @@ title = "061 निर्वर्तेताऽस्य यावद्भि
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	As many persons as the due performance of his business requires, so many skilful and clever (men), free from sloth, let him appoint.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall appoint as many industrious, clever and skilful men as may be required for the accomplishment of his business.—(61)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 7.60].
 <details><summary>भारुचिः</summary>
 
 कार्यपरिमाणेनाइषां राज्ञः सचिवानां संग्रहः स्यात् । यत्कारणं कार्यसमावेशाद् अन्येनोपयोगेन हि कश्चिद् विषादं गच्छेत्, समर्थो ऽपि च प्रमाद्यति ॥ ७.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	As many persons as the due performance of his business requires, so many skilful and clever (men), free from sloth, let him appoint.
 </details>

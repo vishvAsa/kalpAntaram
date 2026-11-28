@@ -2,6 +2,11 @@
 title = "007 वृथा कृसर-संयावम्"
 +++
 
+<details><summary>Bühler</summary>
+
+007	Rice boiled with sesamum, wheat mixed with butter, milk and sugar, milk-rice and flour-cakes which are not prepared for a sacrifice, meat which has not been sprinkled with water while sacred texts were recited, food offered to the gods and sacrificial viands,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Needlessly cooked Rice-sesamum and Butter-sugar-sesamum, milk-rice and flour-cakes, unconsecrated meat, food of the gods and sacrificial viands;—(7)
@@ -142,11 +147,6 @@ meat, rice-sesamum or butter-sugar-wheat, or milk-rice or flour-cakes or wheaten
 <details><summary>गोविन्दराजः</summary>
 
 **वृथाकृसरसंयावम्** इति । कृसरं तिलमुद्गसिद्धम् ओदनम्, संवायं घृतगुडक्षीरादिकृतं पुष्करिकेति प्रसिद्धम्, **पायसम् अपूपं च **वास्तुयज्ञादिविशिष्टदेवतायागोद्देशम् अन्तरेण कृतम् । कृतान्वाहिकवैश्वदेवकार्यम् अपि न भक्षयेत् । तथा उपाकरणाख्यश्रौतसंस्कारविशेषार्हणां गोऽव्यजानां यान्य् अनुपाकृतानि मांसानि तानि कल्पयता न भक्षयेत् । अतिथ्यादेस् तु “अनर्चितं वृथामांसम्” इत्य् उक्त्वा **देवान्नानि च **नेवेदकादीनि **हवींषि च** प्राग्घोमात् वर्जयेत् । हविःशेषस्य हि भक्ष्यत्वं वक्ष्यति ॥ ५.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	Rice boiled with sesamum, wheat mixed with butter, milk and sugar, milk-rice and flour-cakes which are not prepared for a sacrifice, meat which has not been sprinkled with water while sacred texts were recited, food offered to the gods and sacrificial viands,
 </details>
 
 <details><summary>भारुचिः</summary>

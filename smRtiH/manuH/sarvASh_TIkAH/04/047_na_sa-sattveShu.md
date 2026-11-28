@@ -3,6 +3,11 @@ title = "047 न स-सत्त्वेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	Nor in holes inhabited by living creatures, nor while he walks or stands, nor on reaching the bank of a river, nor on the top of a mountain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor in holes inhabited by living creatures, nor walking, nor standing, nor on reaching the banks of a river, nor on the mountain-top.—(47)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 4.45].
 <details><summary>गोविन्दराजः</summary>
 
 **न ससत्त्वेष्व्** इति । तथा सप्राणिषु बिलेषु न कुर्यात्, न व्रजन् **न स्थितो** वा नापि **नदीतीरम्** आश्रित्य कुर्यात् पर्वतशृङ्गे वा । पर्वतग्रहणास् एव पर्वतमस्तकनिषेधसिद्धौ पुनर्वचनं न शृङ्गाद् अन्यत्र पर्वते विकल्पार्थम् । न च तुल्यविकल्पः । तथाविधौ स्वेच्छासिद्धत्वात् सामान्यप्रतिषेधानर्थक्यम् । तस्माद् अत्यन्तार्तस्य पर्वते न दोषः, अन्यदा तु दोष इति व्यवस्थितो ऽयं विकल्पः ॥ ४.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	Nor in holes inhabited by living creatures, nor while he walks or stands, nor on reaching the bank of a river, nor on the top of a mountain.
 </details>

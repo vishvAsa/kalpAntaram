@@ -3,6 +3,11 @@ title = "124 ये कार्यिकेभ्यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+124	Let the king confiscate the whole property of those (officials) who, evil-minded, may take money from suitors, and banish them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those evil-minded persons who would take money from men engaged in business—of these the King shall confiscate the whole property and ordain banishment.—(124)
@@ -45,9 +50,4 @@ This verse is quoted in *Vivādaratnākara* (p. 367), which explains ‘*kāryik
 <details><summary>भारुचिः</summary>
 
 ज्ञातव्यतिक्रमाणां राजाधिकृतानां सर्वस्वादानप्रवासने कारेयेत्, जनपदरक्षार्थीत्य् अर्थः ॥ ७.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	Let the king confiscate the whole property of those (officials) who, evil-minded, may take money from suitors, and banish them.
 </details>

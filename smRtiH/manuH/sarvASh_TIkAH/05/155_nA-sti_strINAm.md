@@ -2,6 +2,11 @@
 title = "155 नाऽस्ति स्त्रीणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+155	No sacrifice, no vow, no fast must be performed by women apart (from their husbands); if a wife obeys her husband, she will for that (reason alone) be exalted in heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no separate sacrificing for women, no observances, no fastings; it is by means of serving her husband that she becomes exalted in heaven.—(153).
@@ -57,11 +62,6 @@ See Comparative notes for [Verse 5.152].
 <details><summary>गोविन्दराजः</summary>
 
 यथा भर्तृर् भार्यान्तरम् अवलम्बनेन यज्ञकरणम् अस्ति, नैवं भर्तारं विना स्त्रीणां यज्ञो ऽस्ति, न च तदनुज्ञातानां कृच्छ्रादिर् उपवासो विद्यते । किं तर्हि । भर्तृपरिचरणेन स्वर्गे महिमानं प्राप्नोमि । तस्मात् परलोकोपयान्तरं यस्माच् च भावात् ॥ ५.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	No sacrifice, no vow, no fast must be performed by women apart (from their husbands); if a wife obeys her husband, she will for that (reason alone) be exalted in heaven.
 </details>
 
 <details><summary>भारुचिः</summary>

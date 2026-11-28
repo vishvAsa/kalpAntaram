@@ -3,6 +3,11 @@ title = "111 त्रैविद्यो हेतुकस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	Three persons who each know one of the three principal Vedas, a logician, a Mimamsaka, one who knows the Nirukta, one who recites (the Institutes of) the sacred law, and three men belonging to the first three orders shall constitute a (legal) assembly, consisting of at least ten members.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A person learned in the three Vedas, a logician, an investigator, a person knowing the Nirukta, a lawyer and three men belonging to the first three life-stages, shall constitute the ‘Assembly’; which shall consist of at least ten members.—(111)
@@ -121,9 +126,4 @@ Mīmāṃsā, one knowing the subsidiary sciences, a teacher of the sacred law, 
 <details><summary>भारुचिः</summary>
 
 **त्रैविद्य**ग्रहणेन वेदत्रयाधेतारो गृह्यन्ते । **हेतुकश्** चात्रैविद्यो ऽप्य् आगमन्यायाविरोधिनस् तर्कशास्त्राध्येता । **तर्की** चाहैतुको ऽपि यः प्रतिभानवान् ऊहते ऽपोहते च । यथान्यायं चाभिनिविशते अश्रुततर्कशास्त्रो ऽपि स्वभावतः । **नैरुक्तः** केवलो ऽपि । **धर्मपाठकश्** चानित्थंभूतो ऽपि । **त्रयश् चाश्रमिणः पूर्वे** प्रव्रजिताद् अन्ये गृहस्थादयः । अपरे तु तापसान् (?) पूर्वांस् त्रीन् आहुः, गौतमपाठम् आश्रित्य- "ब्रह्मचारी गृहस्थो भिक्षुर् वैखानसः" इति, तापसस्य ग्रामप्रवेशप्रतिषेधाच् च । दश धर्मसंशये अद्विष्टारक्ताश् च शास्त्रज्ञाः सन्तः प्रमाणीभवन्ति, तथा चोक्तं सामान्यं सर्वस्मृतिलक्षणं "विद्वद्भिः सेवितः सद्भिः" इत्य् एवमादि । अथ वाइतान्य् एव समासतस् त्रित्वेन ब्रवीति ॥ १२.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	Three persons who each know one of the three principal Vedas, a logician, a Mimamsaka, one who knows the Nirukta, one who recites (the Institutes of) the sacred law, and three men belonging to the first three orders shall constitute a (legal) assembly, consisting of at least ten members.
 </details>

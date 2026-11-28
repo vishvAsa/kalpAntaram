@@ -3,6 +3,11 @@ title = "346 साहसे वर्तमानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+346	But that king who pardons the perpetrator of violence quickly perishes and incurs hatred.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king who condones the perpetrator of violence quickly falls into destruction and incurs hatred.—(346)
@@ -36,9 +41,4 @@ See Comparative notes for [Verse 8.345].
 <details><summary>गोविन्दराजः</summary>
 
 **साहस** इति । साहसे प्रवृत्तस्य यः क्षमते सो ऽतिमात्रं प्रसङ्गात् साहसकारिभिः क्षिप्रम् एव विनाश्यते द्वेष्यतां च लोके प्राप्नोति ॥ ८.३४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-346	But that king who pardons the perpetrator of violence quickly perishes and incurs hatred.
 </details>

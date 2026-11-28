@@ -3,6 +3,11 @@ title = "133 पौत्र-दौहित्रयोर् लोके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+133	Between a son's son and the son of an (appointed) daughter there is no difference, neither with respect to worldly matters nor to sacred duties; for their father and mother both sprang from the body of the same (man).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this world, between the son’s son and the daughter’s son there is no difference, in law; for the father and mother of each of them were both born of h is own body.—(133)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.127](http://www.wisdomlib.org/hinduism/book/m
 > **तयोर् हि मातापितरौ संभूतौ तस्य देहतः  ॥ ९.१३३ ॥**
 
 पुत्रिकापुत्रस्तुतिः पूर्वविध्यर्था ॥ ९.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Between a son's son and the son of an (appointed) daughter there is no difference, neither with respect to worldly matters nor to sacred duties; for their father and mother both sprang from the body of the same (man).
 </details>

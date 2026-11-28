@@ -2,6 +2,11 @@
 title = "012 कलविङ्कम् प्लवम्"
 +++
 
+<details><summary>Bühler</summary>
+
+012	The sparrow, the Plava, the Hamsa, the Brahmani duck, the village-cock, the Sarasa crane, the Raggudala, the woodpecker, the parrot, and the starling,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Sparrow, the Plava, the Haṃsa, the Cakravāka; the village-cock, the Crane, the Rajjudāla, the Dātyūha, the Parrot and the Starling.—(12).
@@ -118,11 +123,6 @@ partridge, the Vārdhrīṇasa bird and the duck, these Yama has himself declare
 <details><summary>गोविन्दराजः</summary>
 
 **कलविङ्कम्** इति । **कलविङ्को** ग्रामचटकः निगमेषु पाठात् । तस्य वर्षासु वनवासत्वेनोभयनिवासात् ग्रामनिवासप्रतिषेधः । वृत्त्याशङ्कायाम् इदं वचनम् । तथा **प्लवं** सङ्कटविलाख्यं पक्षिणं **हंसचक्रवाकग्रामकुक्कुटशुकशारिकां** वर्जयेत् । ग्रामकुक्कुटग्रहणम् आरण्याभ्यनुज्ञानार्थम् । तस्य ग्रामनिवासित्वाद् एव प्रतिषेधे सिद्धे जात्यैकाच् चारण्यस्याभ्यक्ष्यताशङ्का स्यात् । तदर्थं वचनम् । _ननु_ ग्रामनिवासित्वाद् एव प्रतिषेधसिद्धेः (ग्रामकुक्कुटप्रतिषेधसिद्ध्यै) ग्रामकुक्कुटग्रहणम् एतद्व्यतिरिक्तग्रामनिवासिविकल्पार्थम् किं न व्याख्यायते किम् आरण्याभ्यनुज्ञानपरत्वेनेति । _नैवम्_, स्वपदार्थगतप्रयोजनसद्भावे सति वाक्यान्तरगतविशेषावधारणपरत्वस्यान्याय्यत्वात् **सारसं **लक्ष्मणाख्यं पक्षिणं **रज्जुवालं** च पायिकाख्यं **दात्यूहं** चक्रवाकजलकुक्कुटशब्दाभ्यां प्रसिद्धं वर्जयेत् ॥ ५.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	The sparrow, the Plava, the Hamsa, the Brahmani duck, the village-cock, the Sarasa crane, the Raggudala, the woodpecker, the parrot, and the starling,
 </details>
 
 <details><summary>भारुचिः</summary>

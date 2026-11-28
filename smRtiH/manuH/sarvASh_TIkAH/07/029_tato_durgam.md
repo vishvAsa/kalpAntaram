@@ -3,6 +3,11 @@ title = "029 ततो दुर्गम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	Next it will afflict his castles, his territories, the whole world together with the movable and immovable (creation), likewise the sages and the gods, who (on the failure of offerings) ascend to the sky.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Then it will afflict his fortress and kingdom, the world along with movable and immovable things, as also the sages and the gods inhabiting the heavenly regions.—(29)
@@ -56,9 +61,4 @@ This verse is quoted in *Vivādaratnākara* (p. 647), which explains ‘*tataḥ
 
 > वर्णाश्रमेभ्यस् त्व् इज्या तु लोके ऽस्मिन् या प्रवर्तते ।  
 > सर्वासां देवयोनीनां स्थितिहेतुः स वै स्मृतः ॥ इति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-029	Next it will afflict his castles, his territories, the whole world together with the movable and immovable (creation), likewise the sages and the gods, who (on the failure of offerings) ascend to the sky.
 </details>

@@ -3,6 +3,11 @@ title = "107 त्रिपक्षाद् अब्रुवन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+107	A man who, without being ill, does not give evidence in (cases of) loans and the like within three fortnights (after the summons), shall become responsible for the whole debt and (pay) a tenth part of the whole (as a fine to the king).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man, who, without being ill, does not give evidence for three fortnights, in regard to debts and other matters, should hear that entire debt, as also a penalty of the tenth part in all cases.—(107)
@@ -103,9 +108,4 @@ witness is punishable.’
 <details><summary>भारुचिः</summary>
 
 यावतो द्रव्यस्याभियोगः तद्दशभागः साक्षिणं दापयेत् । येनारोगः सन् त्रिपक्षाद् अपि साक्षी नान्यतरं ब्रवीति । दण्डयित्वापि तं साक्षिणं व्यवहारदर्शनम् अनुतिष्ठेत्, एवम् अपरिसमाप्तत्वाद् अस्येत् । ऋणव्यवहाराद् अन्यत्र साक्षी कार्यद्रव्यापेक्षया दण्डयितव्यः ॥ ८.१०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	A man who, without being ill, does not give evidence in (cases of) loans and the like within three fortnights (after the summons), shall become responsible for the whole debt and (pay) a tenth part of the whole (as a fine to the king).
 </details>

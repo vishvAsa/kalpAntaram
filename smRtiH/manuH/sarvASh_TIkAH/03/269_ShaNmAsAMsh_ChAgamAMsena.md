@@ -3,6 +3,11 @@ title = "269 षण्मासांश् छागमांसेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+269	Six months with the flesh of kids, seven with that of spotted deer, eight with that of the black antelope, but nine with that of the (deer called) Ruru,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For six months by the meat of goat; for seven by that of spotted deer; for eight by that of the black antelope, and for nine by that of the Ruru deer.—(269)
@@ -46,9 +51,4 @@ buffalo.’
 
 *Viṣṇu* (80.10-12).—‘For ten months, with the meat of the buffalo; for
 eleven months, with the meat of the Tapara goat; for one year, with cow’s milk and with preparations of milk.’
-</details>
-
-<details><summary>Bühler</summary>
-
-269	Six months with the flesh of kids, seven with that of spotted deer, eight with that of the black antelope, but nine with that of the (deer called) Ruru,
 </details>

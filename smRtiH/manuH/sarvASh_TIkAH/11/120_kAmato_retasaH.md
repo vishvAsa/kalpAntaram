@@ -3,6 +3,11 @@ title = "120 कामतो रेतसः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+121	Those who know the Veda declare that a voluntary effusion of semen by a twice-born (youth) who fulfils the vow (of studentship constitutes) a breach of that vow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Persons learned in the Veda and knowing the law declare that for the twice-born person keeping up his vows, the intentional emission of semen means a ‘transgression of the vow.’—(120)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 11.118].
 <details><summary>भारुचिः</summary>
 
 एवं चाकामतो दिवा रात्रौ वा प्रच्युतेन्द्रियस्य लघुतरं प्रायश्चित्तं स्यात् । ततो ऽपि स्वप्न इति । तथा चोक्तं स्वप्ने रेतःसेके ब्रह्मचारिणः "पुनर् माम् इत्य् ऋचं जपेत्" इति ॥ ११.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	Those who know the Veda declare that a voluntary effusion of semen by a twice-born (youth) who fulfils the vow (of studentship constitutes) a breach of that vow.
 </details>

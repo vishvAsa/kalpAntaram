@@ -2,6 +2,11 @@
 title = "189 व्रतवद् देव-दैवत्ये"
 +++
 
+<details><summary>Bühler</summary>
+
+189	At his pleasure he may eat, when invited, the food of one man at (a rite) in honour of the gods, observing (however the conditions on his vow, or at a (funeral meal) in honor of the manes, behaving (however) like a hermit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During a performance in honour of gods and in honour of ancestors, he may, when invited, eat freely, like an ascetic, in due accordance with his observances. by this his observances do not suffer.—(189)
@@ -349,11 +354,6 @@ See Comparative notes for [Verse 2.188].
 <details><summary>गोविन्दराजः</summary>
 
 **व्रतवद्** इति । दैवे कर्मणि व्रतार्थं मध्वादिवर्जितम् । श्राद्धे च **ऋषिवत्** अरण्यनीवारादि न ग्राम्यम्, प्रार्थितः सन् (अ) **कामं **इच्छते एकान्नं समश्नीयात् । नास्यैवं कुर्वतो व्रतलोपो भवति । ऋषिशब्दश् च वसिष्ठादौ प्रसिद्धप्रयोगो न वैखानसे येन तदर्हान्नाभ्यनुज्ञाने चैकम् अप्य् उपभुञ्जीतेति मांसाशनाशङ्का स्यात् । श्राद्धभोजनस्याचाराधिकदुष्टत्वाद् **ऋषिवद्** इति नियमातिशयम् आह ॥ २.१८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-189	At his pleasure he may eat, when invited, the food of one man at (a rite) in honour of the gods, observing (however the conditions on his vow, or at a (funeral meal) in honor of the manes, behaving (however) like a hermit.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "054 मौलाञ् शास्त्रविदः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Let him appoint seven or eight ministers whose ancestors have been royal servants, who are versed in the sciences, heroes skilled in the use of weapons and descended from (noble) families and who have been tried.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall appoint seven or eight ministers, with respectable status, versed in law, of heroic temperament, experienced in business, born of noble families, and thoroughly tested.—(54)
@@ -164,9 +169,4 @@ Do. (p. 76).—‘The cabinet of ministers shall consist of twelve—say the fol
 <details><summary>भारुचिः</summary>
 
 _यस्मात्_,
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Let him appoint seven or eight ministers whose ancestors have been royal servants, who are versed in the sciences, heroes skilled in the use of weapons and descended from (noble) families and who have been tried.
 </details>

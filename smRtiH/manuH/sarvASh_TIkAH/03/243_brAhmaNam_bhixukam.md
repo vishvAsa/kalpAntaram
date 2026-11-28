@@ -2,6 +2,11 @@
 title = "243 ब्राह्मणम् भिक्षुकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa or the mendicant who comes seeking for food, he shall entertain, to the best of his ability, on being permitted by the Brāhmaṇas.—(243)
@@ -54,11 +59,6 @@ one shall welcome the Ascetic and the Religious Student.’
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणं भिक्षुकं वापीति** । **ब्राह्मणम् **अतिथिरूपं अन्यं वा **भिक्षुकं भोजनार्थं** तत्कालम् आगतं श्राद्धब्राह्मणैर् अनुज्ञातो दाता यथाशक्त्या अन्नदानेन पूजयेत् ॥ ३.२४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
 </details>
 
 <details><summary>भारुचिः</summary>

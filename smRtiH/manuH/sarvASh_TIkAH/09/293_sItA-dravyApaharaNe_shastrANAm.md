@@ -3,6 +3,11 @@ title = "293 सीता-द्रव्यापहरणे शस्त्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+293	For the theft of agricultural implements, of arms and of medicines, let the king award punishment, taking into account the time (of the offence) and the use (of the object).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the stealing of agricultural implements, of arms or of medicines, the king shall determine the punishment, after taking into consideration the time and uses.—(293)
@@ -49,9 +54,4 @@ implements at the time of cultivation, 108 *Paṇas*.’
 <details><summary>भारुचिः</summary>
 
 **सीताद्रव्याणि** कलयुग, प्रतोदादीनि । **शस्त्राणि** फलदात्रादीनि तत्साहचर्यात् । **औषधं** तद्गतं लशुनादि । अथ वा [ओ]षधयो सामान्येन ग्रहणं युक्तम्, समानत्वाद् अपराधस्य । **कालम् आसाद्य कार्यं** च तेषां **दण्डं राजा** यथेष्टं कुर्यात् । तद् अपराधनिवृत्तिहेतुम् अन्येषाम् अपि ॥ ९.२९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-293	For the theft of agricultural implements, of arms and of medicines, let the king award punishment, taking into account the time (of the offence) and the use (of the object).
 </details>

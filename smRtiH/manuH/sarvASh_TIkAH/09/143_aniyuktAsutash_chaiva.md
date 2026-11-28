@@ -3,6 +3,11 @@ title = "143 अनियुक्तासुतश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+143	The son of a wife, not appointed (to have issue by another), and he whom (an appointed female, already) the mother of a son, bears to her brother-in-law, are both unworthy of a share, (one being) the son of an adulterer and (the other) produced through (mere) lust.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offspring of a wife not ‘authorised,’ and the offspring obtained from her younger brother-in-law by a woman who has already got a son,—both of these are undeserving of a share; one being born of an adulterer, and the other being the product of lust.—(143)
@@ -119,9 +124,4 @@ not authorised, by one or many persons, are not entitled to inherit,—they bein
 <details><summary>भारुचिः</summary>
 
 **अनियुक्तासुतश् चैवे**[ति देवराज् जातो] ज्येष्ठभार्यायाम् इत्य् अर्थः । एवं च सति नियुक्तासुतस्य तत्र समांशत्वम् उक्तं विज्ञेयम् । **पुत्रिण्य् आप्तश् च देवराद्** इत्य् एतद् अनपत्याय्[आ एव देवरोत्पन्नस्य नान्योत्पन्नस्य भागहर]त्वम् । देवराद् अपि किम्, उतान्यस्माद् इत्य् "अपि"शब्दलोपः सामर्थ्याद् विज्ञेयः । **देवर**ग्रहणं चोभयविशेषः । अस्यार्थवादः यस्मात् तौ **जारजात**[**ककामजौ** इति] कथंचिन् निन्देयम् उभयोः, येन तन्निन्दावचनम् उभयत्र युज्यते, अविधिनोत्पन्नत्वाद् उभयोः ॥ ९.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	The son of a wife, not appointed (to have issue by another), and he whom (an appointed female, already) the mother of a son, bears to her brother-in-law, are both unworthy of a share, (one being) the son of an adulterer and (the other) produced through (mere) lust.
 </details>

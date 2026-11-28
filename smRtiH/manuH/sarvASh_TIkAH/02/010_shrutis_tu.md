@@ -2,6 +2,11 @@
 title = "010 श्रुतिस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Veda should be known as the ‘revealed word,’ and the Dharmaśāstra as the ‘recollections’; in all matters, these two do not deserve to be criticised, as it is out op these that Dharma shone forth.—(10)
@@ -175,11 +180,6 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 <details><summary>गोविन्दराजः</summary>
 
 **श्रुतिर्** इति । मन्दबुद्धिव्युत्पादनार्थं मीमांसाप्रतिषेधादिव्यवहारफलं लोकसिद्धपदार्थकथनम् । श्रुतिर् वेदो धर्मशास्त्रं स्मृतिर् इति । स्मृतिग्रहणं शीलादेर् अपि समरणप्रभेदत्वात् प्रदर्शनार्थम् । ते श्रुतिस्मृती **सर्वार्थेषु **आशुनरकफलसुरापानाद्यात्मकेषु कुतर्कविकल्पैः न विचारयितव्ये । कथम् एतत् स्याद् इति यतः प्रमाणान्तरागोचरो **धर्मः ताभ्यां निर्बभौ **प्रकाशतां गतः ॥ २.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
 </details>
 
 <details><summary>भारुचिः</summary>

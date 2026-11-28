@@ -3,6 +3,11 @@ title = "018 पादो ऽधर्मस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	One quarter of (the guilt of) an unjust (decision) falls on him who committed (the crime), one quarter on the (false) witness, one quarter on all the judges, one quarter on the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One quarter of the Injustice falls on the man who commits it, one quarter on the witness, one quarter on the members of the Court and one quarter on the king.—(18)
@@ -59,9 +64,4 @@ perpetrator, one quarter on the witness, one quarter on all the members of the C
 <details><summary>भारुचिः</summary>
 
 यतो नैवम् उपेक्षा कर्तव्या, "कर्ता साक्षिणो वा दोषेण संबध्यन्ते, किम् अस्माकम् उदासीनानां भविष्यति" इति । असम्यग्व्यवहारदर्शने हि सर्वत्रैनो विभज्यते । यद्य् अपि चैनसो ऽन्येन कृतस्य विभागो नास्ति, दोषसंबन्धार्थवादस् त्व् अनेन न्यायेन प्रदर्श्यते असम्यग्दर्शननिवृत्त्यर्थम् ॥ ८.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	One quarter of (the guilt of) an unjust (decision) falls on him who committed (the crime), one quarter on the (false) witness, one quarter on all the judges, one quarter on the king.
 </details>

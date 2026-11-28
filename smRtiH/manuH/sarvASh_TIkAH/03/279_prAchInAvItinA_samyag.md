@@ -2,6 +2,11 @@
 title = "279 प्राचीनावीतिना सम्यग्"
 +++
 
+<details><summary>Bühler</summary>
+
+279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Until death, one shall perform, with assiduity, the rite in honour of the Pitṛs, according to rule, with the sacred thread passing over the right shoulder, making offerings “from off the left” (to the right) with kuśa-grass in his hand.—(279)
@@ -57,11 +62,6 @@ shoulder, he shall make the offering to the Pitṛs.’
 <details><summary>गोविन्दराजः</summary>
 
 **प्राचीनावीतिनेति** । सर्वेण प्राचीनावीतीत्युक्तप्राचीनावीतयुक्तेनानलसेन दर्भपवित्रहस्तेन **अपसव्य**पितृतीर्थेन यथाशास्त्रं सम्यक् **पित्र्यं **कर्म यावज्जीवं **कार्यम्** ॥ ३.२७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "132 भ्रातुर् भार्योपसङ्ग्राह्या"
 +++
 
+<details><summary>Bühler</summary>
+
+132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brother’s wife, if of the same caste, should be clasped in the feet day by day; but the wives of other paternal, maternal and other relatives should be so clasped only when one has gone on a journey.—(132)
@@ -44,11 +49,6 @@ mother-in-law, there should be no clasping of the feet.’
 <details><summary>गोविन्दराजः</summary>
 
 **भ्रातुर् भार्येति **। पूजाप्रकरणात् ज्येष्ठ**भ्रातृभार्या उपसङ्ग्राह्या** पादयोः, “नाभिवाद्येह पादयोः” इति दर्शनात् । **सवर्णा** समानजातीया प्रत्यहम् । **ज्ञतयो** मातृपितृपक्षाः **सम्बन्धिनो** वैवाह्याः तद्भार्याः पुनः प्रवासप्रत्यागतेन्**ओपसङ्ग्राह्याः,** न त्व अहर् अहः ॥ २.१३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
 </details>
 
 <details><summary>भारुचिः</summary>

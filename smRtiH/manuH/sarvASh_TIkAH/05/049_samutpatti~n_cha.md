@@ -2,6 +2,11 @@
 title = "049 समुत्पत्तिञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+049	Having well considered the (disgusting) origin of flesh and the (cruelty of) fettering and slaying corporeal beings, let him entirely abstain from eating flesh.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 अशुचिस्थाने कुक्षौ गर्भवृद्धिः, शुक्रशोणिताभ्यां वाशुचिभ्यां प्रभावः । तथा **वधबन्धौ** शरीरवतां तत्कृतौ । एतत् सर्वं **प्रसमीक्ष्य** निपुणबुद्ध्या तत्वतो निरूप्य । **निवर्तेत सर्वमांसस्य भक्षणात्** सर्वस्याप्रतिषिद्धस्यापि, किं पुनः प्रतिषिद्धस्य । 
@@ -38,11 +43,6 @@ See Explanatory notes for [Verse 5.48].
 <details><summary>गोविन्दराजः</summary>
 
 **समुत्पत्तिं चेति **। शुक्रशोणिताभ्यां चिकित्सकोत्पादनाग्रेसराभ्यां **समुत्पत्तिं** मारणकाले च सकलक्रूरकर्माग्रणीभूतौ **वधबन्धौ** पर्यालोच्य विहितमांसभक्षणाद् अपि **निवर्तेत** ॥ ५.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	Having well considered the (disgusting) origin of flesh and the (cruelty of) fettering and slaying corporeal beings, let him entirely abstain from eating flesh.
 </details>
 
 <details><summary>भारुचिः</summary>

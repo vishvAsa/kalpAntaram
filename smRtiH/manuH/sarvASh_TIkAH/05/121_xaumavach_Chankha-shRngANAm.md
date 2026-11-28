@@ -2,6 +2,11 @@
 title = "121 क्षौमवच् छङ्ख-शृङ्गाणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+121	A man who knows (the law) must purify conch-shells, horn, bone and ivory, like linen cloth, or with a mixture of cow's urine and water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The learned man should purify conch-shells, horn and things mads of bone and tusk, like linen; and by c ow’s urine or water.—(120).
@@ -63,11 +68,6 @@ fire and sun’s rays; they are not defiled by the touch of semen or of a dead b
 <details><summary>गोविन्दराजः</summary>
 
 **क्षौमवद्** इति । शङ्खशृङ्गास्पृश्यास्थिदन्तमलानां **क्षौमवद्** गौरसर्षपचूर्णेन सोदकेन गोमूत्रेण वा मलोपघातविशेषज्ञेन **शुद्धिः कार्या** ॥ ५.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	A man who knows (the law) must purify conch-shells, horn, bone and ivory, like linen cloth, or with a mixture of cow's urine and water.
 </details>
 
 <details><summary>भारुचिः</summary>

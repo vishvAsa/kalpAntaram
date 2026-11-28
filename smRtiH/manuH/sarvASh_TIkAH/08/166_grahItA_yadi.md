@@ -3,6 +3,11 @@ title = "166 ग्रहीता यदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+166	If the debtor be dead and (the money borrowed) was expended for the family, it must be paid by the relatives out of their own estate even if they are divided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the borrower is lost, and the expenditure was incurred by the family, the debt is to be paid by the relatives out of their own property, even though these may have been separated.—(166)
@@ -105,9 +110,4 @@ invalid, even though alive,—or if he has been away from the country for twenty
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थ एव श्लोकः ॥ ८.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	If the debtor be dead and (the money borrowed) was expended for the family, it must be paid by the relatives out of their own estate even if they are divided.
 </details>

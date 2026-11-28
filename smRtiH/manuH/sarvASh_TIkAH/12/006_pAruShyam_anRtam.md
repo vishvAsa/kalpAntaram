@@ -3,6 +3,11 @@ title = "006 पारुष्यम् अनृतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+006	Abusing (others, speaking) untruth, detracting from the merits of all men, and talking idly, shall be the four kinds of (evil) verbal action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Abusing, lying, calumniating all men, and idle prattling,—are the pour kinds of ‘verbal action.’—(6)
@@ -46,9 +51,4 @@ in speech, or talks irrelevantly, is born among animals and birds.’
 <details><summary>भारुचिः</summary>
 
 सत्यानृतविपरीतोद्देशादि तथाख्यः । एतद्विपरीतास् तु शुभाः प्रियं सत्यं हितं स्वाध्यायश् चेति ॥ १२.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	Abusing (others, speaking) untruth, detracting from the merits of all men, and talking idly, shall be the four kinds of (evil) verbal action.
 </details>

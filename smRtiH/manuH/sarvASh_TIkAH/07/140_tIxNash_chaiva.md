@@ -3,6 +3,11 @@ title = "140 तीक्ष्णश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	Let the king, having carefully considered (each) affair, be both sharp and gentle; for a king who is both sharp and gentle is highly respected.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King shall be severe and mild, after having duly examined the work (of each man); it is only the severe-mild King who is highly respected.—(140)
@@ -52,9 +57,4 @@ punishment with care.’
 <details><summary>भारुचिः</summary>
 
 संसत एतद्राजवृत्तं नित्यम् अभ्यससीयं ॥ ७.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	Let the king, having carefully considered (each) affair, be both sharp and gentle; for a king who is both sharp and gentle is highly respected.
 </details>

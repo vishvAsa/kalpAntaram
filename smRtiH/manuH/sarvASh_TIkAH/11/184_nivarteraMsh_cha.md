@@ -3,6 +3,11 @@ title = "184 निवर्तेरंश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+185	But thenceforward it shall be forbidden to converse with him, to sit with him, to give him a share of the inheritance, and to hold with him such intercourse as is usual among men;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thenceforth shall cease all conversation with him, sitting with him, his sharing in property, as also all ordinary intercourse.—(184)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 11.182].
 <details><summary>गोविन्दराजः</summary>
 
 **निवर्तेरन्न्** इति । **दायाद्यस्य प्रदानं च यात्राम् एव च लौकिकीम्** । तेन च पतितेन सह सम्भाषणसहावस्थाने न कर्तव्ये न च तस्मै रिथदेयं नाप्य् उत्सवादौ निमन्त्रणादि तस्य लोकव्यवहारः कार्यः ॥ ११.१८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	But thenceforward it shall be forbidden to converse with him, to sit with him, to give him a share of the inheritance, and to hold with him such intercourse as is usual among men;
 </details>

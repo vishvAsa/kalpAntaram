@@ -3,6 +3,11 @@ title = "206 ऋत्विग् यदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+206	If an officiating priest, chosen to perform a sacrifice, abandons his work, a share only (of the fee) in proportion to the work (done) shall be given to him by those who work with him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a priest appointed at a sacrifice abandons his work, his associates shall pay him only such share as may be in keeping with the work actually done by him.—(206)
@@ -94,9 +99,4 @@ should happen to die, what should be done is that his work should be completed b
 <details><summary>भारुचिः</summary>
 
 प्रधानर्त्विक् प्रक्रान्तकर्मा यदि **परिहापयेत् स्वकर्म** देशान्तरगमनापाटवादिभिर् अर्थलक्षणैः **तस्य कर्मानुरूप्येण** दक्षिणांशः स्यात् । कथम् । कर्मण[श् चतुर्थे कृते दक्षिणा]या अपि चतुर्भागः । एवं त्रिभागादिष्व् अपि योज्यम् । सह कर्तृभिर् इति [प्रति]प्रस्थातृप्रभृतींस् तत्पुतुषान् आह । अस्यापवादः — ॥ ८.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	If an officiating priest, chosen to perform a sacrifice, abandons his work, a share only (of the fee) in proportion to the work (done) shall be given to him by those who work with him.
 </details>

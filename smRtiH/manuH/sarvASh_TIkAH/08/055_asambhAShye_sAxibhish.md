@@ -3,6 +3,11 @@ title = "055 असम्भाष्ये साक्षिभिश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Or who converses with the witnesses in a place improper for such conversation; or who declines to answer a question, properly put, or leaves (the court);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who secretly converses with the witnesses in a place not fit for conversation, or who does not like the question being investigated, or who falls back;—(55)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 8.53].
 <details><summary>भारुचिः</summary>
 
 सभातो ऽन्यत्रोपह्वर एकाकी साक्षिभिः सह **संभाषते मिथः** । असाव् अपि साक्षिभेदाशङ्कया जीयते । साक्षिणश् च पृच्छ्यमानान् नेच्छति, केनचिद् व्याजेन व्यवहारगतेनैव राजतन्त्रानुग्रहप्रदर्शनेन वा साक्षिप्रश्नकाले कार्यान्तरव्यासङ्गेन केनचिद् व्यवहारस्थानान् निष्पतिः, राजोपकारप्रदर्शनेन वेत्य् उक्तम्, यतः "तस्माद् अर्थात् स हीयते" इत्य् एवं वक्ष्यति ॥ ८.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Or who converses with the witnesses in a place improper for such conversation; or who declines to answer a question, properly put, or leaves (the court);
 </details>

@@ -3,6 +3,11 @@ title = "290 अभिचारेषु सर्वेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+290	For all incantations intended to destroy life, for magic rites with roots (practised by persons) not related (to him against whom they are directed), and for various kinds of sorcery, a fine of two hundred (panas) shall be inflicted.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In all cases of malevolent rites, the fine shall be two hundred; as also in a case of magic spell by persons not related, or in those of various kinds of sorcery.—(290)
@@ -60,9 +65,4 @@ It is quoted in *Aparārka* (p. 821);—and in *Vivādacintāmaṇi* (Calcutta, 
 <details><summary>भारुचिः</summary>
 
 श्रुतिस्मृतिबाह्येष्व् अभिचारेषु खादिरसूचीनिखननपदपांशुग्रहणादिष्व् इदम् उच्यते । अत्राभिचारार्हस्यायं दण्डो न विद्यते । तथायं प्रायश्चित्तं वक्ष्यत्य् अनभिचरणीयस्याभिचारे "अभिचारम् अहीनं च त्रिभिः कृच्छ्रैर् व्यपोहति" इति । **मूलकर्मणि चानाप्तैः** क्रियमाणे । न मातृभगिन्यादिभिः, अधिकारात् तासाम् । **कृत्यासु** च वैताऌआद्यासु भूततन्त्रविहितास्व् असंबन्धकृतास्व् एव । अपरे तु **सर्व**ग्रहणसामर्थ्यात् सर्वाभिचारेष्व् एतद् दण्डम् आहुः ॥ ९.२९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-290	For all incantations intended to destroy life, for magic rites with roots (practised by persons) not related (to him against whom they are directed), and for various kinds of sorcery, a fine of two hundred (panas) shall be inflicted.
 </details>

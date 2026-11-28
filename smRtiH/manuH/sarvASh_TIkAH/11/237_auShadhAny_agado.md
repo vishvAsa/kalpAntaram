@@ -3,6 +3,11 @@ title = "237 औषधान्य् अगदो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+238	Medicines, good health, learning, and the various divine stations are attained by austerities alone; for austerity is the means of gaining them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Medicines, drugs, science and the various kinds of divine condition are acquired by austerity; as austerity is the means of their accomplishment.—(237)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>गोविन्दराजः</summary>
 
 **औषधानीति** । औषधानि व्याध्युपशमनान्य् अगदानि विषापहारद्रव्याणि विद्या तपसा ब्रह्मविजिज्ञासा चेति श्रुतेर् आत्मज्ञानरूपाणि देवसम्बन्धिनी च नानारूपा स्वर्गादावस्थितिर् इत्य् एतानि तपसैव प्राप्यन्ते । तस्मात् तपस् तेषां प्राप्तिनिमित्तम् ॥ ११.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	Medicines, good health, learning, and the various divine stations are attained by austerities alone; for austerity is the means of gaining them.
 </details>

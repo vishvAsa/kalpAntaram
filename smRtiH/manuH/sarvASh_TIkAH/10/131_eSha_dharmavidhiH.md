@@ -3,6 +3,11 @@ title = "131 एष धर्मविधिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+131	Thus all the legal rules for the four castes have been proclaimed; I next will promulgate the auspicious rules for penances.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the entire law relating to the duties or the four castes been described; after this I am going to expound the excellent law relating to Expiatory Rites.—(131)
@@ -58,9 +63,4 @@ End of Discourse X.
 पूर्वार्धश्लोकश् चात्र सर्वधर्मोपसंहारार्थ उत्तरः प्रायश्चित्तोपन्याससिद्दय इति ॥ १०.१३१ ॥
 
 **इति भारुचिकृते दषमो ऽध्यायः ।**
-</details>
-
-<details><summary>Bühler</summary>
-
-131	Thus all the legal rules for the four castes have been proclaimed; I next will promulgate the auspicious rules for penances.
 </details>

@@ -2,6 +2,11 @@
 title = "186 वेदार्थ-वित् प्रवक्ता"
 +++
 
+<details><summary>Bühler</summary>
+
+186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who understands the meaning of the Veda, he who expounds it, the Student, the giver of a thousand, the centenarian;—these Brāhmaṇas should be known as “Sanctifiers of Company.”—(186)
@@ -70,11 +75,6 @@ See Comparative notes for [Verse 3.184].
 <details><summary>गोविन्दराजः</summary>
 
 **वेदार्थविद्** इति । अन्तरेणाप्य् अङ्गानि यो वेदार्थं प्राज्ञतया वेत्ति **प्रवक्ता** अध्यापयिता व्याख्याता धर्मार्थं वेदवेदार्थयोः **ब्रह्मचारी **। “गावो वै यज्ञस्य मातरः” इति वेददर्शनात् इहापि वेदमूलत्वात् गोसहस्रस्य दाता बहुप्रदश् च, एवं शतवर्षश् च इत्य् एते ब्राह्मणाः “श्रोत्रियायैव देयानि” इति नियमात् । सति श्रोत्रियत्वे एतद्गुणयोगे पङ्क्तिपावना बोद्धव्याः ॥ ३.१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.
 </details>
 
 <details><summary>भारुचिः</summary>

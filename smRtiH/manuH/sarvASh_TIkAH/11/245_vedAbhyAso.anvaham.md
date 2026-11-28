@@ -3,6 +3,11 @@ title = "245 वेदाभ्यासो ऽन्वहम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+246	The daily study of the Veda, the performance of the great sacrifices according to one's ability, (and) patience (in suffering) quickly destroy all guilt, even that caused by mortal sins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The daily recitation of the Veda, to the best of one’s ability, the ‘Great Sacrifices,’ and ‘tolerance,’ quickly destroy all sins,—even those due to heinous offences.—(245)
@@ -60,9 +65,4 @@ who is tolerant and addicted to the performance of the Great Sacrifices.’
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तप्रकरणे नित्यकर्मप्रशंसना कस्माद् युज्यत इति । यतः एतेषाम् अपि पापक्षयहेतुत्वं विज्ञेयम् । न केवलम् उत्कर्षार्थम् एवेति । अपरे त्व् आहुः- अनिर्दिष्टप्रायश्चित्तानाम् एनसां प्रत्ययकृतानाम् अप्रत्ययकृतानां चेतन[भूतान्]आम् एतत् प्रायश्चित्तम् इति । अत्र दृष्टान्तम् आह ॥ ११.२४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-246	The daily study of the Veda, the performance of the great sacrifices according to one's ability, (and) patience (in suffering) quickly destroy all guilt, even that caused by mortal sins.
 </details>

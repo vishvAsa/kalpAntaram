@@ -3,6 +3,11 @@ title = "089 कामम् आ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	(But) the maiden, though marriageable, should rather stop in (the father's) house until death, than that he should ever give her to a man destitute of good qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Well might the maiden, even though she may have reached puberty, remain in the house till her death; but the father shall never give her to a man destitute of good qualities.—(89)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 9.88].
 <details><summary>भारुचिः</summary>
 
 अनेन चाप्राप्तकालदानेन परस्याप्राप्तकालस्य कन्याप्रतिग्रहो ऽनुमीयते । येन प्राप्नोत्य् अप्राप्तां न प्रतिग्रहीष्यति । अर्थगृहीतत्वाच् च प्राप्तकालसंयोगस्याप्राप्ते काले दानकीर्तनं नार्थवादिक्रियते ॥ ९.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	(But) the maiden, though marriageable, should rather stop in (the father's) house until death, than that he should ever give her to a man destitute of good qualities.
 </details>

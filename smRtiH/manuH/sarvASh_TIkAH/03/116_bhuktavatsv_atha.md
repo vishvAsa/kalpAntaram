@@ -2,6 +2,11 @@
 title = "116 भुक्तवत्स्व् अथ"
 +++
 
+<details><summary>Bühler</summary>
+
+116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the Brāhmaṇas, his own people and servants have dined,—the husband and wife should afterwards eat what is left.—(116)
@@ -62,11 +67,6 @@ rest.’
 <details><summary>गोविन्दराजः</summary>
 
 **भुक्तवत्स्व्** इति । अतिथ्यादिज्ञातिसम्बन्धेषु दासेषु कृतभोजनेषु ततो ऽन्नावशिष्टं जायापती पश्चाद् अश्नीयाताम् ॥ ३.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
 </details>
 
 <details><summary>भारुचिः</summary>

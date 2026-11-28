@@ -2,6 +2,11 @@
 title = "024 कालङ् कालविभक्तीश्"
 +++
 
+<details><summary>Bühler</summary>
+
+024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [He created] also Time, the Divisions of Time, the Lunar Mansions, the Planets, the Rivers, the Oceans, the Mountains and the tracts of land, plain and rugged.—(24)
@@ -49,11 +54,6 @@ reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 <details><summary>गोविन्दराजः</summary>
 
 **कालम्** इति । आदित्यादिगतिप्रतिबन्धप्रवृत्तिमान् **कालः **। **कालविभक्तयो** मासाद्याः । **नक्षत्राणि** अश्वयुक्प्रभृतीनि । **ग्रहाः** अर्कादयः । नदीसमुद्रपर्वतसमविषमस्थानानि च । अत्र ससर्जेत्य् वक्ष्यमाणक्रिया ॥ १.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
 </details>
 
 <details><summary>भारुचिः</summary>

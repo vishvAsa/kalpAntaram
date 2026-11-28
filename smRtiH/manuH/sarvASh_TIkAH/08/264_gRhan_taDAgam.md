@@ -3,6 +3,11 @@ title = "264 गृहन् तडागम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+264	He who by intimidation possesses himself of a house, a tank, a garden, or a field, shall be fined five hundred (panas); (if he trespassed) through ignorance, the fine (shall be) two hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a person, by intimidation, appropriates a house, a tank, a garden, or a field, he shall be fined five hundred; but only two hundred, if he does it in ignorance.—(264)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 ज्ञानाज्ञानहरणे ऽयं दण्डः ॥ ८.२६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-264	He who by intimidation possesses himself of a house, a tank, a garden, or a field, shall be fined five hundred (panas); (if he trespassed) through ignorance, the fine (shall be) two hundred (panas).
 </details>

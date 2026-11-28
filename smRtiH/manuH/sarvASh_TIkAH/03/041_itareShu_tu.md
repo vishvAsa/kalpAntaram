@@ -2,6 +2,11 @@
 title = "041 इतरेषु तु"
 +++
 
+<details><summary>Bühler</summary>
+
+041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the other remaining inferior marriages are born sons, addicted to saying harsh and untrue words, and despisers of the Vedic Dharma.—(41)
@@ -46,11 +51,6 @@ See Comparative notes for [Verse 3.39].
 <details><summary>गोविन्दराजः</summary>
 
 **इतरेष्व्** इति । ब्राह्मादिभ्यश् चतुर्भ्यो ऽन्येषु आसुरादिषु दुष्ट**विवाहेषु** क्रूरकर्माणो ऽ**नृतवादिनो **वेदयागादिद्वेषिणश् च **सुता जायन्ते **॥ ३.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
 </details>
 
 <details><summary>भारुचिः</summary>

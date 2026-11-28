@@ -2,6 +2,11 @@
 title = "006 महान्त्य् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In female connection one should avoid these (following) ten families,—even though they be great and rich in the possession of cattle, goat and sheep and grain.—(6).
@@ -68,11 +73,6 @@ for sacrificial performances; and one in which the Veda is unknown is to be avoi
 <details><summary>गोविन्दराजः</summary>
 
 **महान्तीति ।** इमानि **दश** वक्ष्यमाणानि **कुलानि **उत्कृष्टान्य् अपि **वर्जयेत् **। तथा गोछागाविमहिषीधान्यैः **समृद्धान्य् अपि** तच्छीलप्रजोत्पत्तिव्याधिसङ्क्रान्तिपरिहारार्थं शास्त्रनोदनासामर्थाद् अदृष्टदोषपरिहारार्थं च दारसम्बन्धीति **वर्जयेत्** ॥ ३.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
 </details>
 
 <details><summary>भारुचिः</summary>

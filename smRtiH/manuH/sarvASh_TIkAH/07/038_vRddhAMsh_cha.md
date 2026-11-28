@@ -3,6 +3,11 @@ title = "038 वृद्धांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	Let him daily worship aged Brahmanas who know the Veda and are pure; for he who always worships aged men, is honoured even by Rakshasas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every day he shall wait upon elderly persons, Brāhmaṇas, pure and learned in the Vedas; he who constantly waits upon elderly persons is honoured even by Rākṣasas.—(38)
@@ -55,9 +60,4 @@ esteem by the pious; though induced by vile men, he commits no vile deeds.’
 <details><summary>भारुचिः</summary>
 
 इमान् अपरान् विद्यावृद्धान् ब्राह्मणान् धर्मायैव केवलाय सेवेत । येन **वृद्धसेवी** न केवलं धर्मेण युज्यते, लोके ऽपि च विश्वसनीयतमो भवति । अतश् च **रक्षोभिर् अपि पूज्यते** इत्य् उच्यते ॥ ७.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	Let him daily worship aged Brahmanas who know the Veda and are pure; for he who always worships aged men, is honoured even by Rakshasas.
 </details>

@@ -3,6 +3,11 @@ title = "167 कुटुम्बार्थे ऽध्यधीनो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+167	Should even a person wholly dependent make a contract for the behoof of the family, the master (of the house), whether (living) in his own country or abroad, shall not rescind it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Should even a servant effect a transaction for the sake of the family,—the master, whether in his own country or abroad, should not repudiate it.—(167)
@@ -93,9 +98,4 @@ See Comparative notes for [Verse 8.166].
 
 
 "मम परोक्षे ऽप्य् एतद् अध्यधीनेन त्वया कर्म कस्मात् क्र्तम्" इति न विचारयेत् । एवम् अविचार्य तद्धनं प्रतिकुर्यात् । अथ वा पूर्वश्लोकशेषार्थो ऽयं वर्णनीयः । कथं कृत्वा । **कुटुम्बार्थे** ऽप्य् अधीनो ऽपि तावद् **व्यवहारं यम् आचरेत्** प्रमाणीभवेत् ज्यायसः, किं पुनर् बान्धवानाम् । एवं च सति मत्तोन्मत्ताध्यधीनकृतो व्यवहारो न सिध्यतीत्य् उक्तम् । अथ त्व् "असंबन्धकृतो व्यवहारो न सिध्यति" इत्य् एतस्माच् छक्यते कथंचिद् अध्यधीनस्य ज्यायसि परोक्षे गृहार्थे स्वातन्त्र्यं कल्पयितुम् । ततः सार्थ एवायं श्लोको यथैनम् अवोचाम सामर्थम् । कुटुम्बार्थं पुनर् अध्यधीनस्य धनं प्रयुक्तम् — ॥ ८.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	Should even a person wholly dependent make a contract for the behoof of the family, the master (of the house), whether (living) in his own country or abroad, shall not rescind it.
 </details>

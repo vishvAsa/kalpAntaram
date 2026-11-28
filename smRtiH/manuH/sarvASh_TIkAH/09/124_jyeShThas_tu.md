@@ -3,6 +3,11 @@ title = "124 ज्येष्ठस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+124	But the eldest (son, being) born of the eldest wife, shall receive fifteen cows and a bull, the other sons may then take shares according to (the seniority of) their mothers; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The elder son born of the younger wife may take (fifteen cows with) a bull as the sixteenth; the others may take shares according to the seniority of their mothers; such is the settled rule.—(124)
@@ -66,9 +71,4 @@ See Comparative notes for [Verses 9.122-123].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः । एतद् एकीयमतम्, मनुस् तु भगवान् आह ॥ ९.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	But the eldest (son, being) born of the eldest wife, shall receive fifteen cows and a bull, the other sons may then take shares according to (the seniority of) their mothers; that is a settled rule.
 </details>

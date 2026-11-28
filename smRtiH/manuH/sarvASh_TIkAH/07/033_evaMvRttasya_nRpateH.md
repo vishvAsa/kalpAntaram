@@ -3,6 +3,11 @@ title = "033 एवंवृत्तस्य नृपतेः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	The fame of a king who behaves thus, even though he subsist by gleaning, is spread in the world, like a drop of oil on water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the King who behaves thus, even though he may subsist up on gleanings, his fame spreads in the world, like the drops of oil on water.—(33)
@@ -41,9 +46,4 @@ gleaning, the fame is far spread in the world, like a drop of oil in water.’
 <details><summary>भारुचिः</summary>
 
 **एवंवृत्तस्य** राज्ञो ऽन्तरेणापि कोशं केवलेनैव सम्यग्दण्डप्रणयनेन **विस्तीर्यते** राजयशः, येन शक्नोति परराष्ट्राण्य् अप्य् आत्मीकर्तुं परिपालयितुं च ॥ ७.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	The fame of a king who behaves thus, even though he subsist by gleaning, is spread in the world, like a drop of oil on water.
 </details>

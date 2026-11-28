@@ -2,6 +2,11 @@
 title = "122 अभिवादात् परम्"
 +++
 
+<details><summary>Bühler</summary>
+
+122	After the (word of) salutation, a Brahmana who greets an elder must pronounce his name, saying, 'I am N. N.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, when greeting an elder, should, after the accosting, pronounce his name, (saying) “this here, I am named so and so,”—(122)
@@ -96,11 +101,6 @@ am*.’
 <details><summary>गोविन्दराजः</summary>
 
 कथं पुनर् अभिवादनं कार्यम् इत्य् अत आह **अभिवादात् परम्** इति । ज्येष्ठाभिवादनं कुर्वन् “अभिवादये” इत्य् एतच्छब्दात् परं “भद्रनामास्मि” इत्य् एवं **स्वं नाम्**ओच्चारयेत् । विप्रग्रहणम् इह प्रत्यभिवादवाक्ये च द्विजोपदर्शनार्थं त्रयाणां प्रकृतत्वात् ॥ २.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	After the (word of) salutation, a Brahmana who greets an elder must pronounce his name, saying, 'I am N. N.'
 </details>
 
 <details><summary>भारुचिः</summary>

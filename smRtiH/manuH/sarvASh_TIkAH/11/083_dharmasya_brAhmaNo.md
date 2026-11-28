@@ -3,6 +3,11 @@ title = "083 धर्मस्य ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+084	The Brahmana is declared (to be) the root of the sacred law and the Kshatriya its top; hence he who has confessed his sin before an assembly of such men, becomes pure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa is called the root of righteousness, and the Kṣatriya its top; hence one who confesses his guilt before their congregation becomes pure.—(83)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 11.72].
 <details><summary>भारुचिः</summary>
 
 "शिष्ट्वा वा भूमिदेवानां नरदेवसमागमे" यजमानर्त्विजां "स्वम् एनो ऽवभृथस्नातो हयमेधे विमुच्यते" इत्य् अस्य विधेर् अर्थवादः ॥ ११.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	The Brahmana is declared (to be) the root of the sacred law and the Kshatriya its top; hence he who has confessed his sin before an assembly of such men, becomes pure.
 </details>

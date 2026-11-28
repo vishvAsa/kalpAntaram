@@ -2,6 +2,11 @@
 title = "124 भोःशब्दङ् कीर्तयेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In saluting, one should pronounce the term “Oh, Sir” at the end op his own name; since it has been declared by the sages that the form “Oh, Sir” represents the form of all names.—(124)
@@ -56,11 +61,6 @@ and at the end the word *bhoḥ*.’
 <details><summary>गोविन्दराजः</summary>
 
 **भोशब्दम्** इति । **अभिवादने** यत् स्वं नाम तदन्ते **भोःशब्दं कीर्तयेत्** । स चाभिवाद्यसम्बोधनार्थम्, यत आह **नाम्नाम्** इति । यस्मान् **नाम्नां **या **स्वरूप**सत्ता सैव **भोभागः **भो इत्य् अस्य सत्ता इति मन्वादिभिः **स्मृतः । **अतश् चाभिवाद्यनामस्थानापन्नं तत्सम्बोधनार्थं** भोःशब्दं कीर्तयेत्** । तेनाभिवादयेत् “भद्रनामाहम् अस्मि भो” इत्य् अभिवादनरूपम् ॥ २.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
 </details>
 
 <details><summary>भारुचिः</summary>

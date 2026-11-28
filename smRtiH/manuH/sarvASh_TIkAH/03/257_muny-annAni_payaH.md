@@ -2,6 +2,11 @@
 title = "257 मुन्य्-अन्नानि पयः"
 +++
 
+<details><summary>Bühler</summary>
+
+257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of hermits, milk, the soma-herb, meat that is not forbidden, salt other than alkaline. are, by nature, called “sacrificial food.”—(257)
@@ -57,11 +62,6 @@ This verse is quoted in *Smṛtitattva* (p. 225), which explains ‘*anupaskṛt
 <details><summary>गोविन्दराजः</summary>
 
 **मुन्यन्नानीति **। आरण्यान्नं क्षीरं **सोमो मांसं **चानतितीक्ष्णं बिडलवणादिवर्जितं लवणं सैन्धवं स्वभावत एवैतद् **धविर्** इति मन्वादिभिर् उच्यते ॥ ३.२५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
 </details>
 
 <details><summary>भारुचिः</summary>

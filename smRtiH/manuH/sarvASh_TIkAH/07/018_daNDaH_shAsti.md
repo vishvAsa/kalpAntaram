@@ -3,6 +3,11 @@ title = "018 दण्डः शास्ति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	Punishment alone governs all created beings, punishment alone protects them, punishment watches over them while they sleep; the wise declare punishment (to be identical with) the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Punishment governs all creatures; Punishment alone protects them; Punishment lies awake while all are asleep; the wise regard Punishment as Law itself.—(18)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 7.17].
 एवं च स **एवाभिरक्षति**, अकार्यकारिभ्य इतरान् ।  
 **सुप्तेष्व्** अपि राजपुरुषेष्व्  
 ऐहिकभयात् परलोकभयाद् वा न यथाकामं प्रवर्तते लोकः ॥ ७.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	Punishment alone governs all created beings, punishment alone protects them, punishment watches over them while they sleep; the wise declare punishment (to be identical with) the law.
 </details>

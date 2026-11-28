@@ -2,6 +2,11 @@
 title = "169 मातुर् अग्रे"
 +++
 
+<details><summary>Bühler</summary>
+
+169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 According to the directions of the Revealed Word, the first birth of the twice-born man is from the mother, the second, after the Ggirdle-tying ceremony, and the third, after sacrificial initiation.—(169)
@@ -62,11 +67,6 @@ and the Vaiśya are born from their mother; for the second time, out of the gird
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं वेदाध्ययनम् एव तस्करणस्तुतिद्वारेण स्रोतम् इदम् आह **मातुर् अग्रे ऽधिजननम्** इति । **मातुः** सकाशात् प्रथमं पुरुषस्य जन्म । **द्वितीयं** मेखलानिबन्धनम् । **तृतीयं **यागार्थं **दीक्षा**काले **द्विजस्य **सतः, “पुनर् वा एतम् ऋत्विजो गर्भं कुर्वन्ति यद् दीक्षयन्ति” इत्य् एवं श्रुतिचोदनात् ॥ २.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
 </details>
 
 <details><summary>भारुचिः</summary>

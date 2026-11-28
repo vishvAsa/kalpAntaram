@@ -3,6 +3,11 @@ title = "038 प्राजापत्यम् अदत्त्वाश्
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	A Brahmana who, though wealthy, does not give, as fee for the performance of an Agnyadheya, a horse sacred to Pragapati, becomes (equal to one) who has not kindled the sacred fires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa, possessed of wealth, does not give a ‘prājāpatya’ horse as the ‘fee’ foe the fire-laying, he becomes as good as one who has not laid the fire at all.—(38)
@@ -43,9 +48,4 @@ In connection with the Fire-laying rite, a horse is to be given as the ‘fee.�
 <details><summary>भारुचिः</summary>
 
 **ब्राह्मण**ग्रहणाच् च क्षत्रियवैश्ययोः प्राजापत्याश्वदाने न नियमः । ब्राह्मणस्याप्य् अश्वदानं विभवापेक्षत्वाद् अनित्यं दर्सयति । समुच्चयन्यायत्वाच् च दक्षिणानाम् अश्वः समुच्चीयते । अग्न्याधेयदक्षिणादानसंबन्धेन चेदम् अन्यद् उच्यते । समग्रदक्षिणा यज्ञाः स्युः । एवं च सति दक्षिणावैगुण्ये दोषम् आह ॥ ११.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	A Brahmana who, though wealthy, does not give, as fee for the performance of an Agnyadheya, a horse sacred to Pragapati, becomes (equal to one) who has not kindled the sacred fires.
 </details>

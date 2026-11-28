@@ -3,6 +3,11 @@ title = "019 तौ धर्मम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	Those two together examine without tiring the merit and the guilt of that (individual soul), united with which it obtains bliss or misery both in this world and the next.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those two together carefully look into his merit and demerit, invested with which both, he obtains happiness or unhappiness, here and after death.—(19)
@@ -127,9 +132,4 @@ It is for this reason that in the sentence ‘*the two look into his merit and d
 <details><summary>भारुचिः</summary>
 
 तौ च तत्कृतां धर्मगतिं दृष्ट्वा ॥ १२.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	Those two together examine without tiring the merit and the guilt of that (individual soul), united with which it obtains bliss or misery both in this world and the next.
 </details>

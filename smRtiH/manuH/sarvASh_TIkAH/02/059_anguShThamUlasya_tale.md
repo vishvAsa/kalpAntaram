@@ -2,6 +2,11 @@
 title = "059 अङ्गुष्ठमूलस्य तले"
 +++
 
+<details><summary>Bühler</summary>
+
+059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The part of the palm at the root of the thumb they call ‘the receptacle dedicated to Brahmā’; that which is at the root of the finger ‘Sacred to Prajāpati’; that on the finger-tops ‘dedicated to the Gods’; and that which is below these two ‘dedicated to the Pitṛs.’—(59)
@@ -86,11 +91,6 @@ See Comparative notes for [Verse 2.58].
 <details><summary>गोविन्दराजः</summary>
 
 अर्थसिद्धत्वाल् लक्षणम् आह – **अङ्गुष्ठमूलस्येति **। “ब्राह्मणस्य दक्षिणहस्ते पञ्चतीर्थानि भवन्ति” इति प्रचेतसः स्मरणात् । दक्षिणहस्ताङ्गुष्ठमूलस्याधोभागे **ब्राह्मं तीर्थं प्रचक्षते । कायम् **अङ्गुलीनां** मूले । अग्रे दैवम्, **अङ्गुलीनाम् एवाग्रशब्दस्य साकाङ्क्षत्वात् । **पित्र्यं तयोर् अधः । **अधस्तयोर् इत्य् अस्यापि साकाङ्क्षत्वात् प्रकृतेनाङ्गुष्ठाङ्गुलिना सम्बन्धः॥ २.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

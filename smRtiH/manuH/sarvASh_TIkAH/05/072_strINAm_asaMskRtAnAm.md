@@ -2,6 +2,11 @@
 title = "072 स्त्रीणाम् असंस्कृतानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+072	(On the death) of females (betrothed but) not married (the bridegroom and his) relatives are purified after three days, and the paternal relatives become pure according to the same rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of women whose sacramentary rite has not been performed, the marital relations become pure after three days; and their paternal relations also become pure according to the rule prescribed before—(71).
@@ -112,11 +117,6 @@ days for her relations on both sides. In the case of girls, betrothed or not bet
 <details><summary>गोविन्दराजः</summary>
 
 **स्त्रीणाम्** इति । वाग्दत्तानां न विवाहितानां भर्त्रादयस् त्र्यहाच् छुध्यन्ति । भ्रात्रादयः पुनः स्त्रीणाम् अकृतचूडानाम् इत्य् एतद् उक्तेन विधिनेति ॥ ५.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	(On the death) of females (betrothed but) not married (the bridegroom and his) relatives are purified after three days, and the paternal relatives become pure according to the same rule.
 </details>
 
 <details><summary>भारुचिः</summary>

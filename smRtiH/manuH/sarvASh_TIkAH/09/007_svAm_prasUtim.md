@@ -3,6 +3,11 @@ title = "007 स्वाम् प्रसूतिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+007	He who carefully guards his wife, preserves (the purity of) his offspring, virtuous conduct, his family, himself, and his (means of acquiring) merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who carefully protects his wipe preserves his offspring, his character, his family, his own self, and also his religion.—(7).
@@ -87,9 +92,4 @@ See Comparative notes for [Verse 9.5].
 स्वां प्रसूतिम् अपत्यशुद्धिं जायां रक्षन् हि रक्षति यथा तथैव । चरित्रम् आचारम् । भार्या संरक्षणियेत्य् एवम् । कुलं च पूर्वपुरुषान् । आत्मानं च, प्रेतं सन्तम् असंकीर्णापत्यपिण्डोदकरियया, जीवन्तं चापत्यसंकरपरिहारेण । तथा च स्मृत्यन्तर-
 
 स्वधर्मं श्रौतं येनासंकीर्णापत्यस्याधानादिभिर् अधिकारः भवति गौणं वा तद् इति वक्ष्यामः । नामधेयं च स्त्रियाः संरक्षणार्थवादी कुर्वन्न् इदम् आह ॥ ९.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	He who carefully guards his wife, preserves (the purity of) his offspring, virtuous conduct, his family, himself, and his (means of acquiring) merit.
 </details>

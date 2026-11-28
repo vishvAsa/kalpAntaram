@@ -2,6 +2,11 @@
 title = "179 वेदविच् चाऽपि"
 +++
 
+<details><summary>Bühler</summary>
+
+179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa, though learned in the Veda, should, through covetousness, accept a gift from him,—he quickly perishes; just like the unbaked vessel in water.—(170)
@@ -48,11 +53,6 @@ by water.’
 <details><summary>गोविन्दराजः</summary>
 
 वेदज्ञो ऽपि **विप्रः** शूद्रयाजकसकाशाल् लोभेन दानादि प्रतिगृह्य मृन्मयापक्वशरावाद्युदक इवाशु **विनाश्म् **उपैति । प्रसङ्गाल् लाघवार्थं अप्रकृतम् अप्य् एतद् उक्तम् । अन्यत्र हि क्रियमाणे शूद्रयाजकग्रहणं कर्तव्यं स्यात् ॥ ३.१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
 </details>
 
 <details><summary>भारुचिः</summary>

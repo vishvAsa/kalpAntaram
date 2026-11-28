@@ -3,6 +3,11 @@ title = "159 तान् सर्वान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+159	Let him overcome all of them by means of the (four) expedients, conciliation and the rest, (employed) either singly or conjointly, (or) by bravery and policy (alone).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All these he shall win over by means of conciliation and the other expedients, severally as well as collectively, as also by prowess and policy.—(159)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 7.155].
 <details><summary>भारुचिः</summary>
 
 **सामादिभिश्** चतुर्भिः **समस्तैर् व्यस्तैर्** वा **पौरुषेण नयेन** वा केवलेन दण्डेन वा । केवलेन दण्डेनेति समासिकः षाड्गुण्यक्रम उच्यते ॥ ७.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	Let him overcome all of them by means of the (four) expedients, conciliation and the rest, (employed) either singly or conjointly, (or) by bravery and policy (alone).
 </details>

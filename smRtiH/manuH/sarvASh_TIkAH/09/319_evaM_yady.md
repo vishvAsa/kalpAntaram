@@ -3,6 +3,11 @@ title = "319 एवं यद्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+319	Thus, though Brahmanas employ themselves in all (sorts of) mean occupations, they must be honoured in every way; for (each of) them is a very great deity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though in the cremation-ground, the brilliant fire is not defiled, and it flourishes again when libations are poured unto it at sacrifices.—(318)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.313].
 <details><summary>कुल्लूकः</summary>
 
 एवं कुत्सितकर्मस्वपि सर्वेषु यद्यपि ब्राह्मणाः प्रवर्तन्ते तथापि सर्वप्रकारेण पूज्याः। यस्मात् प्रकृष्टं तद् दैवतम्। स्तुत्वर्थत्वाच्चास्ययताश्रुतार्थविरोधः शङ्कनीयः॥ ३१९॥
-</details>
-
-<details><summary>Bühler</summary>
-
-319	Thus, though Brahmanas employ themselves in all (sorts of) mean occupations, they must be honoured in every way; for (each of) them is a very great deity.
 </details>

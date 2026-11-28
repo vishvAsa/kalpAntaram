@@ -3,6 +3,11 @@ title = "062 व्रात्यता बान्धवत्यागो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	Living as a Vratya, casting off a relative, teaching (the Veda) for wages, learning (the Veda) from a paid teacher, and selling goods which one ought not to sell,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Apostacy, abandoning a relative, teaching for wages, learning from a paid teacher and the selling of what should not be sold.—(62)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 11.58].
 आत्मार्थं च क्रियारम्भो निन्दितान्नादनं तथा॥ ६४॥  
 अनाहिताग्निता स्तेयमृणानामनपक्रिया।  
 असच्छास्त्राधिगमनं कौशीलव्यस्य च क्रिया॥ ६५॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	Living as a Vratya, casting off a relative, teaching (the Veda) for wages, learning (the Veda) from a paid teacher, and selling goods which one ought not to sell,
 </details>

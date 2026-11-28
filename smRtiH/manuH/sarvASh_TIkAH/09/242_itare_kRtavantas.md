@@ -3,6 +3,11 @@ title = "242 इतरे कृतवन्तस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+242	But (men of) other (castes), who have unintentionally committed such crimes, ought to be deprived of their whole property; if (they committed them) intentionally, they shall be banished.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But others who have committed these offences unintentionally, deserve to have the entire property confiscated; and death, in the case of their being intentional.—(242)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 एतान्य् एव महापातकानि कृतवन्तः क्षत्रियादयो ऽकामतः सर्वस्वहरणं कार्याः पूर्वोक्तं वोत्तमसाहसं दण्ड्याः । एवं ब्राह्मणस्य प्रायश्चित्तम् अकु[र्व]तो ऽकामतो मध्यमसाहसो दण्डः, कामतो विवासनम् । क्षत्रियवैश्ययोर् अकामत उत्तमसाहसः सर्वस्वहरणं वा । कामतश् च वधः । शूद्रस्य त्व् अकामतः सर्वस्वहरणम् अङ्कनं च । कामतस् तु वधः ॥ ९.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-242	But (men of) other (castes), who have unintentionally committed such crimes, ought to be deprived of their whole property; if (they committed them) intentionally, they shall be banished.
 </details>

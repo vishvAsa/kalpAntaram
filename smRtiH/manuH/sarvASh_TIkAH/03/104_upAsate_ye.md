@@ -2,6 +2,11 @@
 title = "104 उपासते ये"
 +++
 
+<details><summary>Bühler</summary>
+
+104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those foolish householders who wait upon the food cooked by others, become, after death, on that account, cattle belonging to the givers of food.—(104).
@@ -45,11 +50,6 @@ the house of others, except when one has been invited; he should avoid ficklenes
 <details><summary>गोविन्दराजः</summary>
 
 **उपासत** इति । आतिथेयोद्देशत एव ग्रामान्तराणि गत्वा **ये** **गृहस्थाः **दुर्मेधसः औदरिकतया परान्नं सेवन्ते तेन परान्नभोजनेन ते जन्मान्तरे **अन्नाद्यदायिनां** गृहे **पशुतां व्रजन्ति** इति फलप्रतिपादनपरम् एतत् । अतः परपाकोपसेवनं न कार्यम् ॥ ३.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
 </details>
 
 <details><summary>भारुचिः</summary>

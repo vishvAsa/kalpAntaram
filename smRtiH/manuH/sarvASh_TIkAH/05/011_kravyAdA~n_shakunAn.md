@@ -2,6 +2,11 @@
 title = "011 क्रव्यादाञ् शकुनान्"
 +++
 
+<details><summary>Bühler</summary>
+
+011	Let him avoid all carnivorous birds and those living in villages, and one-hoofed animals which are not specially permitted (to be eaten), and the Tittibha (Parra Jacana),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall avoid all carnivorous birds, and also those living in villages, the one-hoofed animals not specified, and also the Ṭiṭṭibha.—(11)
@@ -115,11 +120,6 @@ mouse, the twice-born becomes purified by living on barley-meal for one day.’
 > वार्ध्रीणसं वर्तकं च भक्ष्यान् आह यमः सताम् ॥ इति ।
 
 **ग्रामनिवासिनश् **च पक्षिणः पारावतादीन् वर्जयेत् । तथा श्रुतौ भक्ष्यत्वेन च “उष्ट्रं वडवम् आलभेत तस्य च मांसम् अश्नीयात्” इतिवत् ये न** निर्दिष्टा एकशफाः** तान् वर्जयेत् । ये तु यत्र निर्दिष्टाः तांस् तत्रैव भक्षयेत् यज्ञाङ्गत्वेन तेषां तत्रैव भक्ष्यत्वनोदनात् नान्यत्र **टित्तिभा**ख्यं च पक्षिणं वर्जयेत् ॥ ५.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	Let him avoid all carnivorous birds and those living in villages, and one-hoofed animals which are not specially permitted (to be eaten), and the Tittibha (Parra Jacana),
 </details>
 
 <details><summary>भारुचिः</summary>

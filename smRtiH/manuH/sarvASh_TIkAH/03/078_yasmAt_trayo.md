@@ -2,6 +2,11 @@
 title = "078 यस्मात् त्रयो"
 +++
 
+<details><summary>Bühler</summary>
+
+078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because men in all the three states are sustained by householders only, with knowledge and food, therefore the householder’s is the highest state.—(78)
@@ -77,11 +82,6 @@ the others being unproductive.’
 <details><summary>गोविन्दराजः</summary>
 
 एवं च **यस्माद्** इति । **यस्मात्** गृहस्थव्यतिरिक्ताः **त्रयो ऽप्य् आश्रमिणो **वेदार्थोपदेशान्नदानाभ्यां गृहस्थैर् एवोपक्रियन्ते तस्मात् **श्रेष्टाश्रमो **गृहस्थः । गृहा पत्नी मेधो यज्ञः । गृहाधीनो मेधो यस्य गृहमेधी । गृहायां तिष्ठन्तीति गृहस्थाः । गृहा अस्यास्तीति **गृही** ॥ ३.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	Because men of the three (other) orders are daily supported by the householder with (gifts of) sacred knowledge and food, therefore (the order of) householders is the most excellent order.
 </details>
 
 <details><summary>भारुचिः</summary>

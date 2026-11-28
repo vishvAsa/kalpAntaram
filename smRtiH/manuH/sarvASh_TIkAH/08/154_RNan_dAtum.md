@@ -3,6 +3,11 @@ title = "154 ऋणन् दातुम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+154	He who, unable to pay a debt (at the fixed time), wishes to make a new contract, may renew the agreement, after paying the interest which is due.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, unable to repay the debt, wishes to renew the contract, shall change the bond, after paying the accrued interest.—(154)
@@ -139,9 +144,4 @@ money to repay the debt, he shall liquidate it by giving grains, gold, or cattle
 <details><summary>भारुचिः</summary>
 
 मूलहिरण्यस्य पुनः क्रिया न वृद्धेः । कथम् । यो हि गृहीता मूलं वृद्धिं च दातुम् अशक्तः करणं साक्ष्यादि परिवर्तयितुम् इच्छेत्, स पूर्व**निर्जितां वृद्धिं** दत्वा मूलमात्रस्य **करणं परिवर्तयेत्** । न तत्र वृद्धिम् आरोपयेत् । यच् च दद्यात् तद् वृद्धितः शोधयेत्, न तु मूलतः । अयं च राज्ञ उपदेशः । पीडितस्य वृद्ध्या राज्ञैवाकारयितव्यम् ॥ ८.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	He who, unable to pay a debt (at the fixed time), wishes to make a new contract, may renew the agreement, after paying the interest which is due.
 </details>

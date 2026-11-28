@@ -3,6 +3,11 @@ title = "094 त्रिंशद्वर्षो वहेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	A man, aged thirty years, shall marry a maiden of twelve who pleases him, or a man of twenty-four a girl eight years of age; if (the performance of) his duties would (otherwise) be impeded, (he must marry) sooner.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man thirty years old shall marry a charming maiden twelve years old; or one twenty four years old, a damsel eight years old; in the event of his duties suffering, he may do it sooner.—(94)
@@ -70,9 +75,4 @@ eighteen years of age shall marry her; a maiden eight years old is called *Gaur�
 <details><summary>भारुचिः</summary>
 
 गुरुणानुमत् इयता कालेन यवीयसीम् उद्वहेत् कन्याम् ॥ ९.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	A man, aged thirty years, shall marry a maiden of twelve who pleases him, or a man of twenty-four a girl eight years of age; if (the performance of) his duties would (otherwise) be impeded, (he must marry) sooner.
 </details>

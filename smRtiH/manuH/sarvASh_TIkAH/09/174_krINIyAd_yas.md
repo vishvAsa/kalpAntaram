@@ -3,6 +3,11 @@ title = "174 क्रीणीयाद् यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+174	If a man buys a (boy), whether equal or unequal (in good qualities), from his father and mother for the sake of having a son, that (child) is called a (son) bought (Kritaka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man buys a boy, worthy or unworthy, from his father and mother, with a view to making him his son, that son is called ‘bought.’—(174)
@@ -59,9 +64,4 @@ parents.’
 अपरे त्व् आहुः क्रीतः सदृशो ऽसदृशो वेति गुणतः कल्प्यते ।  
 वर्णतो हि कल्पनायाम् असमवर्णग्रहणे न्यायविरोधः ।  
 अन्यस् तु ब्राह्मणविषयम् एव न्यायविरोधम् आह ॥ ९.१७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	If a man buys a (boy), whether equal or unequal (in good qualities), from his father and mother for the sake of having a son, that (child) is called a (son) bought (Kritaka).
 </details>

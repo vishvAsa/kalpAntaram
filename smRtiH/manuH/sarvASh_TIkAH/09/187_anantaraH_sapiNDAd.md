@@ -3,6 +3,11 @@ title = "187 अनन्तरः सपिण्डाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+187	Always to that (relative within three degrees) who is nearest to the (deceased) Sapinda the estate shall belong; afterwards a Sakulya shall be (the heir, then) the spiritual teacher or the pupil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The property shall always devolve upon him who is nearest to the (deceased) ‘Sapiṇḍa’; after these either a ‘Sakulya’; or the Spiritual Preceptor, or the pupil.—(187)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.186].
 <details><summary>भारुचिः</summary>
 
 सकुल्यग्रहणेन समानोदका गृह्यन्ते । **आचार्यः शिष्यो वा** । तदभावे ॥ ९.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	Always to that (relative within three degrees) who is nearest to the (deceased) Sapinda the estate shall belong; afterwards a Sakulya shall be (the heir, then) the spiritual teacher or the pupil.
 </details>

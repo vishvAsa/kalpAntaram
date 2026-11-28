@@ -3,6 +3,11 @@ title = "345 वाग्दुष्टात् तस्कराच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+345	He who commits violence must be considered as the worst offender, (more wicked) than a defamer, than a thief, and than he who injures (another) with a staff.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who commits violence is to be regarded as the worst offender, as compared to one who is wicked of speech, to a thief and to one who hurts with a staff.—(310)
@@ -49,9 +54,4 @@ inflamed with strength is called *Violence*. Manslaughter, robbery, indecent ass
 <details><summary>गोविन्दराजः</summary>
 
 **वाग्दुष्टाद् **इति । वाक्पारुष्यकृच् चौरदण्डकारिभ्यः सकाशात् साहसकृन् मनुष्यो ऽतिशयेन पापकृद् बोद्धव्यः ॥ ८.३४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-345	He who commits violence must be considered as the worst offender, (more wicked) than a defamer, than a thief, and than he who injures (another) with a staff.
 </details>

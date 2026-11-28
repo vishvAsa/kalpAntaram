@@ -3,6 +3,11 @@ title = "106 ज्येष्ठेन जातमात्रेण"
 
 +++
 
+<details><summary>Bühler</summary>
+
+106	Immediately on the birth of his first-born a man is (called) the father of a son and is freed from the debt to the manes; that (son), therefore, is worthy (to receive) the whole estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the mere birth of the eldest son, a man becomes ‘with son,’ and (hence) free from the debt to Pitṛs; it is for this reason that he deserves the whole.—(106)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 9.105].
 <details><summary>भारुचिः</summary>
 
 यतश् च,
-</details>
-
-<details><summary>Bühler</summary>
-
-106	Immediately on the birth of his first-born a man is (called) the father of a son and is freed from the debt to the manes; that (son), therefore, is worthy (to receive) the whole estate.
 </details>

@@ -3,6 +3,11 @@ title = "005 सूक्ष्मेभ्यो ऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+005	Women must particularly be guarded against evil inclinations, however trifling (they may appear); for, if they are not guarded, they will bring sorrow on two families.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Women should be specially guarded against even small attachments; for, if not guarded, they would bring grief to both families.—(5).
@@ -79,9 +84,4 @@ wife: lest there he a confusion of castes.’
 <details><summary>भारुचिः</summary>
 
 सूक्ष्मप्रसङ्गाश् चासां व्यभिचारहेतवो लोके प्रसिद्धाः परिव्राजिकादिसंसर्गाख्याः अननुशिष्टा अपि ॥ ९.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	Women must particularly be guarded against evil inclinations, however trifling (they may appear); for, if they are not guarded, they will bring sorrow on two families.
 </details>

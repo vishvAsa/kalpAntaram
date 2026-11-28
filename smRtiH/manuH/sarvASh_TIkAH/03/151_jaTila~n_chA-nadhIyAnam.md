@@ -2,6 +2,11 @@
 title = "151 जटिलञ् चाऽनधीयानम्"
 +++
 
+<details><summary>Bühler</summary>
+
+151	Let him not entertain at a Sraddha one who wears his hair in braids (a student), one who has not studied (the Veda), one afflicted with a skin-disease, a gambler, nor those who sacrifice for a multitude (of sacrificers).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not feed, at a Śrāddha, one with braided hair, who is not learned, one who is hairless, the gambler, and those who sacrifice for hosts.—(151)
@@ -114,11 +119,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **जटिलम्** इति । ब्रह्मचारिणम् अस्वीकृतवेदम् अत्यन्तानध्ययनस्य श्रोतिर्यायैव देयानीति नियमे सति प्राप्त्यभावात् । तथा दुश्चर्मद्यूतवृत्त्ययाज्ययाजकान् श्राद्धे न भोजयेत् । दैवे त्व् अनिषेधः, तथा यत्रोभयनिषेधम् इच्छति तत्र हव्यकव्यग्रहणम् उभयत्र चेति करोति ॥ ३.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	Let him not entertain at a Sraddha one who wears his hair in braids (a student), one who has not studied (the Veda), one afflicted with a skin-disease, a gambler, nor those who sacrifice for a multitude (of sacrificers).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "010 कार्यं सो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+010	Having fully considered the purpose, (his) power, and the place and the time, he assumes by turns many (different) shapes for the complete attainment of justice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the proper fulfilment of his duty, he assumes many forms re peatedly, after having carefully considered the nature of his business, his power and the conditions of time and place.—(10)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 <details><summary>भारुचिः</summary>
 
 अतश् चासौ वाल्लभ्यान् मैत्र्यात् स्वाजन्यद्वारेण वा नावमन्तव्यः ॥ ७.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	Having fully considered the purpose, (his) power, and the place and the time, he assumes by turns many (different) shapes for the complete attainment of justice.
 </details>

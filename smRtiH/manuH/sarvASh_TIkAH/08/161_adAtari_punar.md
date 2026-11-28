@@ -3,6 +3,11 @@ title = "161 अदातरि पुनर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+161	On what account then is it that after the death of a surety other than for payment, whose affairs are fully known, the creditor may (in some cases) afterwards demand the debt (of the heirs)?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “By what means then would the creditor seek to obtain his dues, in the event of the death of the surety other than that for ‘payment,’ whose character is fully known?”—(161)
@@ -74,9 +79,4 @@ See Comparative notes for [Verse 8.159].
 <details><summary>भारुचिः</summary>
 
 समानविभक्तीनि पदान्य् एकार्थतया व्याख्येयानि । **अदातरि प्रतिभुवि प्रेते विज्ञातप्रकृतौ** विज्ञातं कारणं लग्नकत्वे यस्य, सो ऽयं विज्ञातप्रकृतिः । किं पुनस् तत्संबन्धकार्पणम् । एवं च धनावष्टम्भेनायम् अस्याधमर्णस्य, यस्मान् न किंभूतः । तत इत्तंभूते ऽस्मिन् **प्रतिभुवि प्रेते** पश्चाद् **दाता** प्रयुक्तम् ऋणं **परीप्सेत् केन हेतुना** संदिह्य पृच्छति । कथं च संदिह्यते यतः तत्कारणम् उच्यते । येन तावद् दानप्रतिभुवः पुत्रस्यास्ति संबन्ध इत्य् उक्तम्, न दर्शनप्रतिभुवः । अतः सत्य् अपितृरिक्थसंबन्धे शास्त्रसामर्थ्यान् न युक्तो दापयितुम्, यतश् च गृहीतधने [प्रतिभुवि] प्रेते दर्शनलग्नकपुत्रो ऽपि सन् दापयितुम् इति एवम् उभयथा दर्शनात् संदेहे सतीदम् आह — ॥ ८.१६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	On what account then is it that after the death of a surety other than for payment, whose affairs are fully known, the creditor may (in some cases) afterwards demand the debt (of the heirs)?
 </details>

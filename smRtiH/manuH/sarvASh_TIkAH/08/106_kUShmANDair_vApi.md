@@ -3,6 +3,11 @@ title = "106 कूष्माण्डैर् वापि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+106	Or such (a witness) may offer according to the rule, clarified butter in the fire, reciting the Kushmanda texts, or the Rik, sacred to Varuna, 'Untie, O Varuna, the uppermost fetter,' or the three verses addressed to the Waters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or he shall offer according to rule, clarified butter into the fire, with the ‘kuṣmāṇḍa’-texts or with the verse ‘ut, etc.’ sacred to varuṇa, or with the three verses sacred to the waters.—(106)
@@ -95,9 +100,4 @@ See Comparative notes for [Verse 8.105].
 <details><summary>भारुचिः</summary>
 
 अग्निग्रहणं जुहोतिसिद्धम् अप्य् अग्निविशेषार्थं विज्ञेयम् । इदं च पूर्वप्रायश्चित्तवैकल्पिकम् । उत्तरे च —
-</details>
-
-<details><summary>Bühler</summary>
-
-106	Or such (a witness) may offer according to the rule, clarified butter in the fire, reciting the Kushmanda texts, or the Rik, sacred to Varuna, 'Untie, O Varuna, the uppermost fetter,' or the three verses addressed to the Waters.
 </details>

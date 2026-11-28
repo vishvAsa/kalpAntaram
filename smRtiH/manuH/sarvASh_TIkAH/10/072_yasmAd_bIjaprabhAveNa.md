@@ -3,6 +3,11 @@ title = "072 यस्माद् बीजप्रभावेण"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	As through the power of the seed (sons) born of animals became sages who are honoured and praised, hence the seed is declared to be more important.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because through the power of the seed, those born of animals became sages, honoured and extolled, therefore it is the seed that is more important.—(72)
@@ -60,9 +65,4 @@ seq*.\]]
 > **तस्माद् बीजं प्रशस्यते  ॥ १०.७२ ॥**
 
 इत्य् आहुः एतच् चैकान्तपरिग्रहे सत्य् उक्तदोषं बीजप्राधान्यं पुनर् निगमनायैतज् ज्ञापयति । बीजयोन्योः बीजोत्कृष्टजातिः प्रशस्यत इति । तथा च सत्य् अनुलोमान् उत्कृष्टान् एव सतः स्तौति क्षत्रियावैश्याजान् शूद्रावर्जम् । अयं च बीजयोन्योर् एवम् आत्मेति ॥ १० ७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	As through the power of the seed (sons) born of animals became sages who are honoured and praised, hence the seed is declared to be more important.
 </details>

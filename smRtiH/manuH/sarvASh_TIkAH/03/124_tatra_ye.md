@@ -2,6 +2,11 @@
 title = "124 तत्र ये"
 +++
 
+<details><summary>Bühler</summary>
+
+124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am now going to describe fully which and how many Brāhmaṇas should be fed at it, and on what food,—as also those that should be avoided.—(124)
@@ -54,11 +59,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 377).
 <details><summary>गोविन्दराजः</summary>
 
 **तत्रेति **। तस्मिन् श्राद्धे **भोजनीया ये च **वर्जनीयाः यथासङ्ख्याकाश् च **यैश् चान्नैस्** तत् कर्तव्यं तत् सर्वं **प्रवक्ष्यामि **॥ ३.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
 </details>
 
 <details><summary>भारुचिः</summary>

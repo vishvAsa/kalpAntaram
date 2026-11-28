@@ -2,6 +2,11 @@
 title = "125 पक्षि-जग्धङ् गवा"
 +++
 
+<details><summary>Bühler</summary>
+
+125	(Food) which has been pecked at by birds, smelt at by cows, touched (with the foot), sneezed on, or defiled by hair or insects, becomes pure by scattering earth (over it).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What has been eaten by a bird, what has been smelt by a cow, blown upon, or sneezed at, or defiled by hair and insects, becomes pure by scattering earth.—(123).
@@ -103,11 +108,6 @@ one shall throw about a handful of it, and sprinkling water and scattering ashes
 <details><summary>गोविन्दराजः</summary>
 
 **पक्षिदग्धम्** इति । अत्यन्तानुपहतं शुकादिपक्ष्युच्छिष्टं गो**घ्रातं** **अवधूतं** कृतवासोपरि अवधूननं तस्योपरि (?) क्षुवथुकं केशापहतम् अमेध्यसंसर्पिकृम्युपहतं जग्धशब्दाद् अन्नं **मृप्रक्षेपेण शुध्यति** ॥ ५.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	(Food) which has been pecked at by birds, smelt at by cows, touched (with the foot), sneezed on, or defiled by hair or insects, becomes pure by scattering earth (over it).
 </details>
 
 <details><summary>भारुचिः</summary>

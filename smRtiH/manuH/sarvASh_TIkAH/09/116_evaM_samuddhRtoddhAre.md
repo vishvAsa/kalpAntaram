@@ -3,6 +3,11 @@ title = "116 एवं समुद्धृतोद्धारे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+116	If additional shares are thus deducted, one must allot equal shares (out of the residue to each); but if no deduction is made, the allotment of the shares among them shall be (made) in the following manner.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the ‘additional share’ has been thus deducted, equal shares shall be allotted. But if no additional share has been deducted, the allotment of shares shall be in this (following) manner,—(116)
@@ -50,9 +55,4 @@ equally;—or the eldest may have two shares,—and the rest one each.’
 <details><summary>भारुचिः</summary>
 
 एवं यथोक्तन्यायाविरोधेनोद्धृत्य शिष्टस्य समो विभागः ॥ ९.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	If additional shares are thus deducted, one must allot equal shares (out of the residue to each); but if no deduction is made, the allotment of the shares among them shall be (made) in the following manner.
 </details>

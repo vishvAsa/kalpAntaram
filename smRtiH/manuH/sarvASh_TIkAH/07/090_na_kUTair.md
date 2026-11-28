@@ -3,6 +3,11 @@ title = "090 न कूटैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	When he fights with his foes in battle, let him not strike with weapons concealed (in wood), nor with (such as are) barbed, poisoned, or the points of which are blazing with fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While fighting his enemies in battle, he shall hot strike with concealed weapons; nor with arrows that are poisoned, or barbed, or with flaming shafts. (90)
@@ -47,9 +52,4 @@ arrows.’
 <details><summary>गोविन्दराजः</summary>
 
 **न कूटैर्** इति । **न कर्णिकैर् नापि दग्धैर् नाग्निज्वलिततेजनैः **। सङ्ग्रामे युद्धं कुर्वन् कूटशस्त्रादिभिः शत्रून् हन्यमानो ऽपि कृतकर्णाकारफलकैर् नापि विषलिप्तैर् न चाग्निज्वलितफलकैः ॥ ७.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	When he fights with his foes in battle, let him not strike with weapons concealed (in wood), nor with (such as are) barbed, poisoned, or the points of which are blazing with fire.
 </details>

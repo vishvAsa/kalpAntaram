@@ -2,6 +2,11 @@
 title = "022 यो यस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Which (of these) is lawful for which caste, what are the good and bad points of each, the good and bad effects of each upon the offspring,—all this I shall explain to you.—(22)
@@ -50,11 +55,6 @@ keeping with the form of marriage.’
 <details><summary>गोविन्दराजः</summary>
 
 **ये यस्य धर्मा** इति । **ये **विवाहा **यस्य वर्णस्य **धर्मानपेता **यस्य च **विवाहस्य **यौ गुणदोषौ **वोढुर् इष्टानिष्टफलदातारौ प्रतिनियतविवाहोत्पन्नायत्तेषु च ये **गुणदोषौ तत् सर्वं** युष्माकं **प्रवक्ष्यामि **॥ ३.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
 </details>
 
 <details><summary>भारुचिः</summary>

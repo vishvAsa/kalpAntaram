@@ -3,6 +3,11 @@ title = "189 चौरैर् हृतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+189	(A deposit) which has been stolen by thieves or washed away by water or burned by fire, (the bailee) shall not make it good, unless he took part of it (for himself).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The depositary shall not hake good what has been stolen by thieves, or carried away by water, or burnt,—if he does not extract anything from it.—(189)
@@ -63,9 +68,4 @@ the fault of some one, that person should be made to pay the value of the deposi
 <details><summary>भारुचिः</summary>
 
 चोरादिभ्यो ऽपि नाशे ऽयम् एव समुद्रयानविधिर् व्याख्यात इति । यतः पूर्व एव श्लोकार्थो ज्यायान् ॥ ८.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-189	(A deposit) which has been stolen by thieves or washed away by water or burned by fire, (the bailee) shall not make it good, unless he took part of it (for himself).
 </details>

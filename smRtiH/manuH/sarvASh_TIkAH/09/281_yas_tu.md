@@ -3,6 +3,11 @@ title = "281 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+281	But he who shall take away the water of a tank, made in ancient times, or shall cut off the supply of water, must be made to pay the first (or lowest) amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man take away the water of a tank dug in ancient times, or cut off the supply of water,—he shall be made to pay the lowest amercement.—(281)
@@ -34,9 +39,4 @@ See Comparative notes for [Verse 9.279].
 <details><summary>भारुचिः</summary>
 
 देवताघातकत्वात् पूर्वनिवेश उच्यते । इतरथा वा । तत्र यद् उक्तम्- सस्यसकार्यं **यो हरेत्** अनागत एवोदकस्य्[आलादि]न्**आगमं वा भिन्द्यात् स** दण्ड्यः **पूर्वसाहसम्** । एवं च सति यद् उक्तम्, दण्डं दातुम् अशक्ताः क्षत्रियादयः "आनृण्यं कर्मणा" गच्छेयुर् इति, तत्कार्यसामान्याद् अत्र सर्वत्र प्रत्येतव्यम् ॥ ९.२८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-281	But he who shall take away the water of a tank, made in ancient times, or shall cut off the supply of water, must be made to pay the first (or lowest) amercement.
 </details>

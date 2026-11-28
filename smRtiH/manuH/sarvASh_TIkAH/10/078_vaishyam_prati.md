@@ -3,6 +3,11 @@ title = "078 वैश्यम् प्रति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	The same are likewise forbidden to a Vaisya, that is a settled rule; for Manu, the lord of creatures (Pragapati), has not prescribed them for (men of) those two (castes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Vaiśya also these three should cease,—such is the law; since Prajāpati Manu has not prescribed these duties for those two (castes).—(78)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 10.77].
 <details><summary>भारुचिः</summary>
 
 वृत्तिकर्मप्रति[षेधो वैश्या]नाम् । इज्यादीनां पूर्ववद् इहाप्य् अप्रतिषेधो विज्ञेयः । तथा च तानि वक्ष्यति ॥ १०.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	The same are likewise forbidden to a Vaisya, that is a settled rule; for Manu, the lord of creatures (Pragapati), has not prescribed them for (men of) those two (castes).
 </details>

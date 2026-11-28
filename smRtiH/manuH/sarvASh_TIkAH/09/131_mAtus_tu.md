@@ -3,6 +3,11 @@ title = "131 मातुस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+131	But whatever may be the separate property of the mother, that is the share of the unmarried daughter alone; and the son of an (appointed) daughter shall take the whole estate of (his maternal grandfather) who leaves no son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever may be the separate property of the mother is the share of the unmarried daughter alone; and the daughter’s son shall inherit the entire property of the man who has no son.—(131)
@@ -115,9 +120,4 @@ has been declared to belong to her unmarried daughter; if the daughter has been 
 <details><summary>भारुचिः</summary>
 
 अस्येशिन्य् एव सा । पुत्रिकापुत्रस् त्व् अपुत्रे मातामहे प्रमीते ऽखिलं धनं हरेत्, पुत्रिका वा । यदा पुत्रिकायां कृतायां मातामहस्य तु पुत्रो जायते दैवात् कथंचित्, तदा भ्रात्रंशस्यैव पुत्रिकापुत्र ईशत इति । अथ तु पुत्रिका कृता तथापि प्राक् प्रयाणात् प्तुर् न पितू रिक्थभागिनी ॥ ९.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-131	But whatever may be the separate property of the mother, that is the share of the unmarried daughter alone; and the son of an (appointed) daughter shall take the whole estate of (his maternal grandfather) who leaves no son.
 </details>

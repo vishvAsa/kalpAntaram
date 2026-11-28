@@ -3,6 +3,11 @@ title = "004 सर्वरत्नानि राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+004	But a king shall bestow, as is proper, jewels of all sorts, and presents for the sake of sacrifices on Brahmanas learned in the Vedas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On Brāhmaṇas learned in the veda, the king shall bestow, according to their desert, all kinds of jewels, as also presents for sacrificial performances.—(4)
@@ -42,9 +47,4 @@ If the king is possessed of much wealth, he ‘*shall bestow on*,’—give to, 
 <details><summary>भारुचिः</summary>
 
 राज्ञस् तु नियमो बहुधनत्वात् । एवं च राज्ञा सान्तानिकादिव्यतिरेकेणान्येभ्यः स्नातकेभ्यो नियमतो देयं स्थितिभोगार्थम् । **यज्ञार्थं** चेत्य् एतद् आरम्भसामर्थ्याद् गम्यते । नायियक्षमाणाय देयम् इति । अनेन संबन्धेनेदम् उच्यते ॥ ११.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	But a king shall bestow, as is proper, jewels of all sorts, and presents for the sake of sacrifices on Brahmanas learned in the Vedas.
 </details>

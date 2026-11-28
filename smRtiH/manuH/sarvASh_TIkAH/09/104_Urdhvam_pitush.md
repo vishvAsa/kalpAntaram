@@ -3,6 +3,11 @@ title = "104 ऊर्ध्वम् पितुश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+104	After the death of the father and of the mother, the brothers, being assembled, may divide among themselves in equal shares the paternal (and the maternal) estate; for, they have no power (over it) while the parents live.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the death of the father and of the mother, the brothers, being assembled, shall divide equally the paternal property; while the parents are alive, they have no power.—(104)
@@ -93,9 +98,4 @@ property may be divided on his death, even while the mother is living; as apart 
 <details><summary>भारुचिः</summary>
 
 तदनुज्ञाता जीवद्पितृमातृका अपि धर्मकार्यापेक्षया भजेरन्न् इत्य् एतद् अर्थाद् आपद्यते । तथा च गौतम आह- "जीवति चेच्छति पितरि" इति । मातुर् अपि चोर्ध्वं तदीयद्रव्यविभागः पाक्षिको विज्ञेयो भगिनीभिः सह ॥ ९.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	After the death of the father and of the mother, the brothers, being assembled, may divide among themselves in equal shares the paternal (and the maternal) estate; for, they have no power (over it) while the parents live.
 </details>

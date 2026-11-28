@@ -3,6 +3,11 @@ title = "084 कृषिं साध्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+084	(Some) declare that agriculture is something excellent, (but) that means of subsistence is blamed by the virtuous; (for) the wooden (implement) with iron point injuries the earth and (the beings) living in the earth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 People think agriculture to be good; but that occupation is despised by the righteous; the iron-tipped wood injures the earth and the earthly creatures.—(84)
@@ -74,9 +79,4 @@ See Comparative notes for [Verse 10.81].
 <details><summary>भारुचिः</summary>
 
 कृष्यपवादो ऽयम् इतरवैश्यवृत्तिस्तुत्यर्थम् (?), कृषेर् उपदेशसामर्थ्याद् एतद् विज्ञायते । इतरथानुपदेशार्हेव सा प्रसज्येत । "निन्दितं न समाचरेत्" इत्य् अनेनाकरेण भूमिविलेखनप्रतिषेधार्थो ऽर्थवादः । न चैतन्याद् भुवः यथा भूमिशयानाम् । अपरे त्व् आहुः- एतस्माद् एव नखाग्रेणापि भूमिविलेखनं न कर्तव्यम् इति ॥ १०.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	(Some) declare that agriculture is something excellent, (but) that means of subsistence is blamed by the virtuous; (for) the wooden (implement) with iron point injuries the earth and (the beings) living in the earth.
 </details>

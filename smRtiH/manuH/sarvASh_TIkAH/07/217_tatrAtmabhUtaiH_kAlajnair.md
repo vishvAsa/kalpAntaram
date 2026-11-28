@@ -3,6 +3,11 @@ title = "217 तत्रात्मभूतैः कालज्ञैर्
 
 +++
 
+<details><summary>Bühler</summary>
+
+217	There he may eat food, (which has been prepared) by faithful, incorruptible (servants) who know the (proper) time (for dining), which has been well examined (and hallowed) by sacred texts that destroy poison.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There he shall eat the food that has been thoroughly tested by such servants as are his own very self, as are conversant with the peculiarities of time, and are uncorruptible,—with such sacred texts as are destructive of poison,—(217)
@@ -70,9 +75,4 @@ his food through monkeys and cocks. At the very sight of poisoned food, drakes b
 <details><summary>गोविन्दराजः</summary>
 
 **तत्रेति** । **तत्रा**न्तःपुर आत्मतुल्यैर् भोजनकालवेदिभिर् अभेद्यैः सूपकारादिभिर् यत् कृतम् **अन्नाद्यं** **सु**ष्ठु च **परीक्षितम्** अग्निप्रक्षेपचकोरादिदर्शनेन अग्निर् हि सविषान्नप्रक्षेपे सति चतचटायते चकोरस्याक्षिणी रक्ते भवत इत्य् एव्मादिना परीक्षितं **विषापहारैश्** च **मन्त्रैर्** जप्तम् **अद्यात्** ॥ ७.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-217	There he may eat food, (which has been prepared) by faithful, incorruptible (servants) who know the (proper) time (for dining), which has been well examined (and hallowed) by sacred texts that destroy poison.
 </details>

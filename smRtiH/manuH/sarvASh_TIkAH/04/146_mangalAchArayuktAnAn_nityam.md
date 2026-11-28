@@ -2,6 +2,11 @@
 title = "146 मङ्गलाचारयुक्तानान् नित्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For those who are ever intent upon auspicious customs, who have their mind under control, and who go on reciting prayers and offering oblations,—there is no calamity.—(146)
@@ -38,11 +43,6 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 <details><summary>गोविन्दराजः</summary>
 
 यथा चाह **मङ्गलाचारयुक्तानाम्** इति । मङ्गलाद्यनुष्ठानशीलानां शुद्धानां जपहोमपरायणानां दैवपुरुषकृत उपद्रवो **न विद्यते** ॥ ४.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
 </details>
 
 <details><summary>भारुचिः</summary>

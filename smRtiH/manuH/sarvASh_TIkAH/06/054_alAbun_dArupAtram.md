@@ -3,6 +3,11 @@ title = "054 अलाबुन् दारुपात्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	A gourd, a wooden bowl, an earthen (dish), or one made of split cane, Manu, the son of Svayambhu, has declared (to be) vessels (suitable) for an ascetic.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu, the son of Svayambhu, has declared that the vessels of the renunciate shall be a gourd, a vessel of wood or of earthenware, or of splits. (54)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 6.53].
 <details><summary>गोविन्दराजः</summary>
 
 **अलाबुं वा दारुपात्रम्** इति । अलाबुदारुमृत्तरुत्वङ्निर्मितानि पात्राणि प्रव्रजितानां स्वायम्भुवो मनुर् आह ॥ ६.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	A gourd, a wooden bowl, an earthen (dish), or one made of split cane, Manu, the son of Svayambhu, has declared (to be) vessels (suitable) for an ascetic.
 </details>

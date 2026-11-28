@@ -3,6 +3,11 @@ title = "082 या रोगिणी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+082	But a sick wife who is kind (to her husband) and virtuous in her conduct, may be superseded (only) with her own consent and must never be disgraced.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if a wife, who is an invalid, is well-disposed and endowed with modesty, she may be superseded after her consent has been obtained; and in no case is she to be disgraced.—(82)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.77].
 <details><summary>भारुचिः</summary>
 
 अस्याश् चावमानप्रतिषेधाद् इतरा न केवलम् अधिवेद्याः, किं तर्हि शिष्ट्यर्थम् परिभाष्याश् च ॥ ९.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	But a sick wife who is kind (to her husband) and virtuous in her conduct, may be superseded (only) with her own consent and must never be disgraced.
 </details>

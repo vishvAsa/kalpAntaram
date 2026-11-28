@@ -3,6 +3,11 @@ title = "013 आहरेत् त्रीणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	(Or) the (sacrificer) may take at his pleasure two or three (articles required for a sacrifice) from the house of a Sudra; for a Sudra has no business with sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may freely take away two or three things from the house of a Śūdra; for the Śūdra has nothing to do with acrifices.—(13)
@@ -98,9 +103,4 @@ See Comparative notes for [Verse 11.11-12].
 > तस्मात् सर्वं यज्ञ एवोपयोज्यं धनं न कामाय एतत् प्रशस्तम् ॥
 
 ननु शूद्रधनेन यागप्रतिषेधं वक्ष्यति, "न यज्ञार्थं धनंशूद्रात्" इत्य् एवमादिभिः । [भि]क्षित्वा तत्र प्रतिषेधः, इदं च परादानं पदार्थान्तरम् । यतो न विरोधः । अथ वा शूद्रधनैर् एव केवलैस् तत्र प्रतिषेधः, इह तु द्वित्रिमात्राङ्गवैकल्ये ऽसंभवद्वित्तस्य तत आदाय यागो युक्तः । वचनाद् वात्रैवं भविष्यति, निमित्ते भेदे सति । न वचनस्यातिभारो ऽस्त्य् उपदेशपरत्वाच् छस्त्रस्य । इदानीं ब्राह्मणक्षत्रियाभ्याम् इदम् आदानम् उच्यते, असंभवति शूद्रे ॥ ११.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	(Or) the (sacrificer) may take at his pleasure two or three (articles required for a sacrifice) from the house of a Sudra; for a Sudra has no business with sacrifices.
 </details>

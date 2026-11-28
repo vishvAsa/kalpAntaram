@@ -3,6 +3,11 @@ title = "027 आच्छाद्य चाऽर्चयित्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one himself invites a man endowed with learning and character and gives to him his daughter, after having dressed and worshipped (them),—this is called the “Brāhma” form.—(27)
@@ -145,9 +150,4 @@ bridegroom, you give the girl, with proper faith and confidence, after having ad
 <details><summary>गोविन्दराजः</summary>
 
 **आच्छाद्य चार्चयैत्वेति **। वासोविशेषैः कन्याम् **आच्छाद्या**लङ्कारादिभिश् **चार्हयित्वा श्रुता**चारवन्तं वरं याच्ञारहितं **स्वयम्** आनीय यत् तस्मै **कन्यादानं** स **ब्राह्मो** विवाहो मन्वादिभिः **स्मृतः** ॥ ३.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.
 </details>

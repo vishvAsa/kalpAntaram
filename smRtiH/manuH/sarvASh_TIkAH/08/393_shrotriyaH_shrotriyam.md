@@ -3,6 +3,11 @@ title = "393 श्रोत्रियः श्रोत्रियम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+393	A Srotriya who does not entertain a virtuous Srotriya at auspicious festive rites, shall be made to pay him twice (the value of) the meal and a masha of gold (as a fine to the king).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vedic scholar who does not entertain a worthy Vedic scholar at such auspicious rites, should be made to pay twice the quantity of that meal, and also a ‘māṣa’ of gold.—(393)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 8.392].
 > **तद् अन्नं द्विगुणं दाप्यो हैर्ण्यं चैव माषकम्  ॥ ८.३९१ ॥**
 
 अर्हब्राह्मणातिक्रमदण्डो ऽयम् । **भूतिकृत्येष्व्** इति वचनाद् आरम्भसामर्थ्याच् च पूर्वस्मात् कल्याणान् महत्तरम् इदं विज्ञायते । एतौ च दण्डाव् अर्हादाने सति स्याताम् ॥ ८.३९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-393	A Srotriya who does not entertain a virtuous Srotriya at auspicious festive rites, shall be made to pay him twice (the value of) the meal and a masha of gold (as a fine to the king).
 </details>

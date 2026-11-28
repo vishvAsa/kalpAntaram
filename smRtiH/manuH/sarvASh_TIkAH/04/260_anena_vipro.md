@@ -2,6 +2,11 @@
 title = "260 अनेन विप्रो"
 +++
 
+<details><summary>Bühler</summary>
+
+260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, learned in the Vedic soriptures, who conducts himself by this course of life, has his sins removed, and remains for ever exalted in the region of Brahman.—(260)
@@ -72,11 +77,6 @@ the night and the twilights offers prayers, becomes purified by Brahman and beco
 मन्वाशयसारिण्यां टीकायां गार्हस्थसदाचारश्   
 चतुर्थो ऽध्यायः  
 पञ्चमो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
 </details>
 
 <details><summary>भारुचिः</summary>

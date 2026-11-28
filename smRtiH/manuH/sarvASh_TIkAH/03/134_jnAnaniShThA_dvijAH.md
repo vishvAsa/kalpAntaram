@@ -2,6 +2,11 @@
 title = "134 ज्ञाननिष्ठा द्विजाः"
 +++
 
+<details><summary>Bühler</summary>
+
+134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some twice-born persons excel in learning; others excel in austerities; some others excel in austerities and Vedic study, and others again excel in rites.—(134)
@@ -86,11 +91,6 @@ the performance of their duties, devoted to austerities, and devoted to parents,
 <details><summary>गोविन्दराजः</summary>
 
 **ज्ञाननिष्ठा** इति । **केचिद् **आत्मज्ञानपरा विप्रा भवन्ति । **अपरे** कृच्छ्रादितपःप्रधानाः । अन्ये तु तपोऽध्ययननिरताः । **अपरे** यागादितत्पराः ॥ ३.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
 </details>
 
 <details><summary>भारुचिः</summary>

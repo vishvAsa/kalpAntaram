@@ -3,6 +3,11 @@ title = "171 यदा मन्येत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+171	When he knows his own army to be cheerful in disposition and strong, and (that) of his enemy the reverse, then let him march against his foe.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he thinks that his own army is happy and strong in condition, and that of the enemy is the reverse, then shall he march against the enemy—(171)
@@ -49,9 +54,4 @@ when it is full of crops, and the king thereof is weak, while the attacking king
 <details><summary>भारुचिः</summary>
 
 प्रहृष्टपुष्टैः स्वकेवलकारणतः परस्य च विपरीते [सति] विगृह्य संधाय वा यायात् ॥ ७.१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	When he knows his own army to be cheerful in disposition and strong, and (that) of his enemy the reverse, then let him march against his foe.
 </details>

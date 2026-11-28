@@ -2,6 +2,11 @@
 title = "028 यन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 अस्यायम् अर्थः । यद्य् अपि प्रजापतिर् ईश्वरो भूतसृष्टौ शक्नोति यथेच्छं प्राणिनः स्रष्टुं तथापि न पूर्वकल्पकृतानि कर्माण्य् अनपेक्ष्य प्राणिनः सृजति । येन यादृशं पुराकल्पे कर्म कृतं तत्कर्माक्षिप्तायां जातौ तं जनयति, न जात्यन्तरे । शुभेन कर्मणा तत्फलोपभोग्यायां देवमनुष्यादिजातौ जनयति, विपरीतेन तिर्यक्प्रेतादिषु । यथैव भूतेन्द्रियगुणाः कल्पादौ प्रकृतिस्था उद्भवन्ति एवं कर्माण्य् अपि प्रलये स्वप्रकृतिस्थानि पुनर् उद्भवन्ति सर्गादौ । "ततः शेषेण" इत्य् एष न्यायस् तत्राप्य् अस्त्य् एव ।
@@ -94,11 +99,6 @@ The idea contained in this verse is further expanded in the following verse.—(
 <details><summary>गोविन्दराजः</summary>
 
 **यम्** इति । **यं** जातिविशेषं सिंहादिकं **यस्मिन् कर्मणि** द्विरदमारणादौ प्रजापतिः सृष्ट्यादौ नियुक्तवान् । **स** जातिविशेषः प्रथमसृष्ट्युत्तरकालम् अपि स्वार्जितकर्मवशेन यदा यदा सृज्यमानो भवति तदा तदा तद् एव द्विरदमारणादि स्वयम् एव भजते न भूयः प्रजापतिनियोगम् अपेक्षते जातिधर्मत्वेन प्रजापतिना तस्य कृतत्वात् ॥ १.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.
 </details>
 
 <details><summary>भारुचिः</summary>

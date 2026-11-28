@@ -3,6 +3,11 @@ title = "219 चतुरः प्रातर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+220	If a Brahmana, with concentrated mind, eats (during a month daily) four mouthfuls in a morning and four after sunset, (that is) called the lunar penance of children.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, with concentrated mind, shall eat four morsels in the morning, and four when the sun has set this is called the ‘Śiśu-Cāndrāyaṇa.’—(219)
@@ -43,9 +48,4 @@ mouthfuls in the morning and four mouthfuls when the sun has set, he performs th
 <details><summary>गोविन्दराजः</summary>
 
 **चतुर** इति । शुशुचान्द्रायणाख्यं चान्द्रायणं ब्राह्मणादि कुर्वंश् चतुरो ग्रासान् दिनादौ चतुरश् चादित्ये ऽस्तङ्गते संयमितात्मा समश्नीयात् ॥ ११.२१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	If a Brahmana, with concentrated mind, eats (during a month daily) four mouthfuls in a morning and four after sunset, (that is) called the lunar penance of children.
 </details>

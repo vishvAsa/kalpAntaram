@@ -3,6 +3,11 @@ title = "210 विभक्ताः सह"
 
 +++
 
+<details><summary>Bühler</summary>
+
+210	If brothers, (once) divided and living (again) together (as coparceners), make a second partition, the division shall in that case be equal; in such a case there is no right of primogeniture.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If brothers, living together, after having divided once, happen to make a second partition, the division in that case shall be equal; in such cases there is no ‘primogeniture.’—(210)
@@ -53,9 +58,4 @@ together through affection, and arrange a second partition, the right of primoge
 <details><summary>भारुचिः</summary>
 
 संसृष्टानां यो ज्येष्ठः नासौ ज्येष्टांशं गृह्णीयात् । यत्र तु ज्येष्ठः सह ज्येष्ठांशेन संसृज्यते तत्र पुनर् अस्य ज्य्ष्ठांश उद्ध्रियते ॥ ९.२१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-210	If brothers, (once) divided and living (again) together (as coparceners), make a second partition, the division shall in that case be equal; in such a case there is no right of primogeniture.
 </details>

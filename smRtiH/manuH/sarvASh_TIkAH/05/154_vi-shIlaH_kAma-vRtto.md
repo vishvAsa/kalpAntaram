@@ -3,6 +3,11 @@ title = "154 वि-शीलः काम-वृत्तो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+154	Though destitute of virtue, or seeking pleasure (elsewhere), or devoid of good qualities, (yet) a husband must be constantly worshipped as a god by a faithful wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Be he ill-mannered or of licentious habits or destitute of good qualities,—the husband should always be attended upon like a god by the true wive.—(152).
@@ -69,9 +74,4 @@ perform penances only with the permission of her husband.’
 <details><summary>गोविन्दराजः</summary>
 
 **विशील** इति । दुराचारो भार्यान्तरासक्तो वा विद्यानुष्ठानादिवर्जितो वा तथापि **साध्व्या स्त्रिया** सर्वदा देव इव **पतिर्** आराधनीयः ॥ ५.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	Though destitute of virtue, or seeking pleasure (elsewhere), or devoid of good qualities, (yet) a husband must be constantly worshipped as a god by a faithful wife.
 </details>

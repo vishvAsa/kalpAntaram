@@ -2,6 +2,11 @@
 title = "188 निमन्त्रितो द्विजः"
 +++
 
+<details><summary>Bühler</summary>
+
+188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brāhmaṇa invited at a rite in honor of Pitṛs shall remain self-controlled and shall not recite the Veda; so also the man who performs the śrāddha.—(188)
@@ -69,11 +74,6 @@ Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his 
 <details><summary>गोविन्दराजः</summary>
 
 **निमन्त्रित** इति । श्राद्धे ब्राह्मणो **निमन्त्रितः **स्त्रीनिवृत्तियमनियमानुष्ठानवान् **सदा** निमन्त्रणात् प्रभृति श्राद्धाहोरात्रं यावत् स्यात् । वेदांश् च जपाद्यवश्यकर्तव्यव्यतिरेकेण **नाधीयीत** **।** श्राद्धकृच् च तद्वद् एव स्यात् ॥ ३.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
 </details>
 
 <details><summary>भारुचिः</summary>

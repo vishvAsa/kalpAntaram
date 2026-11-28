@@ -3,6 +3,11 @@ title = "203 यद्य् अर्थिता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+203	If the eunuch and the rest should somehow or other desire to (take) wives, the offspring of such among them as have children is worthy of a share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the eunuch and the rest should somehow happen to have longing for a wife, the child of such of them as have issue is entitled to inheritance.—(203)
@@ -125,9 +130,4 @@ entitled to inheritance when he belongs to the same caste as his father; so also
 <details><summary>भारुचिः</summary>
 
 **क्लीबादीनाम्** इति चात्र सामर्थ्यान् न बहुव्रीहौ तद्गुणसंविज्ञानं भवति । एवं च क्लीबाद् अपरे तु गृह्यन्ते । येन धर्मप्रजार्थं दाराणां संग्रहः यतस् तद् अभावात् क्लीबस्य नास्ति संग्रहः । अपुत्रस्यानधिकाराद् आधाने । अथ स्मार्तकर्मापेक्षो दारसंग्रहः । ततः क्लीबस्याप्य् अत्र ग्रहणं युक्तं तद्गुणसंविज्ञानबहुव्रीहिणा ॥ ९.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	If the eunuch and the rest should somehow or other desire to (take) wives, the offspring of such among them as have children is worthy of a share.
 </details>

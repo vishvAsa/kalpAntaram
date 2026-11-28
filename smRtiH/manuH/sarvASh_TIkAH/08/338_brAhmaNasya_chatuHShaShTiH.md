@@ -3,6 +3,11 @@ title = "338 ब्राह्मणस्य चतुःषष्टिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+338	That of a Brahmana sixty-fourfold, or quite a hundredfold, or (even) twice four-and-sixtyfold; (each of them) knowing the nature of the offence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of theft, the guilt of a Śūdra is eightfold, that of the Vaiśya sixteen-fold, and that of the Kṣatriya thirty-two-fold;—(337) that of the Brāhmaṇa sixty-four-fold, or fully hundred-fold, or twice sixty-four-fold; when he is cognisant of the good or bad quality of the act.—(338)
@@ -126,9 +131,4 @@ also makes a difference; for knowing persons, the punishment is specially severe
 <details><summary>भारुचिः</summary>
 
 उक्तशेषाणां च द्रव्याणाम् अपहरणे एष दण्डः स्यात् । एतेषाम् एव वा स्तेयाभ्यासे सुवर्ण[स्तेये वा । विदुषो ऽतिर]मे दण्डभूयस्त्वम् । एवं राज्ञो ऽपि स्यात् । तथायं पूर्वशेषत्वाद् अर्थवाद एष, न दण्डविधिः । यदि चास्यार्थवादत्वं भवति ततो वाग्दण्डपारुष्यादिषु [यत् यत्] दण्डालपत्वम् उक्तं तत् समञ्जसं भवति । अथ श्रुतिसामर्थ्याद् यथोपदेशम् अयं दण्डविकल्प इष्यते, यथा प्रकाशरहस्यप्रायश्चित्तेषु ततो ऽस्य विधित्वम् । एवं च सति ब्राह्मणदण्डविकल्पश् च वृद्धस्वाध्याय्यपक्षया (?) वेदितव्यः, यथान्यत्र । स्तेयापवादार्थं त्व् इदम् अधुनोच्यते ॥ ८.३३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-338	That of a Brahmana sixty-fourfold, or quite a hundredfold, or (even) twice four-and-sixtyfold; (each of them) knowing the nature of the offence.
 </details>

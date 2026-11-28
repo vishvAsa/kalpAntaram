@@ -2,6 +2,11 @@
 title = "125 आयुष्मान् भव"
 +++
 
+<details><summary>Bühler</summary>
+
+125	A Brahmana should thus be saluted in return, 'May'st thou be long-lived, O gentle one!' and the vowel 'a' must be added at the end of the name (of the person addressed), the syllable preceding it being drawn out to the length of three moras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On saluting, the Brāhmaṇa should he answered with the words ‘Be long lived, O Gentle One’; and at the end of his name the vowel “a,” which occurs at the end of the consonant, should be pronounced ultra long.—(125)
@@ -106,11 +111,6 @@ greeting is ultra-long.’
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं प्रत्यभिवादनविधिम् आह **आयुष्मान्** इति । **अभिवादने** कृते **आयुष्मान् भव सौमे**त्य् एवम् अभिवादयिता वाच्यः अभिवादयितुश् च **नाम्नो ऽन्ते** यः अकारादिवर्णः नाम्नाम् अकारान्तत्वनियमाभावात् स प्लुतः कार्यः । पूर्वाण्य् अक्षराणि यस्मात् सः **पूर्वाक्षरः **नागन्तुकः ततो ऽपकृष्य वा । तेन्**आयुष्मान्** **भव** सौम्य (म्येति) भद्रा ३ इति प्रत्यभिवादरूपम् ॥ २.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	A Brahmana should thus be saluted in return, 'May'st thou be long-lived, O gentle one!' and the vowel 'a' must be added at the end of the name (of the person addressed), the syllable preceding it being drawn out to the length of three moras.
 </details>
 
 <details><summary>भारुचिः</summary>

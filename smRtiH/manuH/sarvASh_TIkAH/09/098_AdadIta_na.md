@@ -3,6 +3,11 @@ title = "098 आददीत न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	Even a Sudra ought not to take a nuptial fee, when he gives away his daughter; for he who takes a fee sell his daughter, covering (the transaction by another name).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even a Śūdra should not take a nuptial fee, when he is giving away his daughter; by accepting a fee, what he does is disguised bartering.—(98)
@@ -49,9 +54,4 @@ marriage, a gift, with a view to meet the father’s wishes, should be made by t
 <details><summary>भारुचिः</summary>
 
 **न शूद्रो ऽपीति** वचनात् शुल्कग्रहणं दोषवद् इत्य् एतद् दर्शयति । न तु शूद्रस्य प्रतिषेधः ॥ ९.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	Even a Sudra ought not to take a nuptial fee, when he gives away his daughter; for he who takes a fee sell his daughter, covering (the transaction by another name).
 </details>

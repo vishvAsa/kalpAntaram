@@ -3,6 +3,11 @@ title = "261 ते पृष्टास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+261	As they, being examined, declare the marks for the meeting of the boundaries (to be), even so the king shall justly cause them to be fixed between the two villages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As they, on being questioned in fairness, declare the marks of boundary-lines between two villages, even so shall the king fix it.—(261)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ८.२६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-261	As they, being examined, declare the marks for the meeting of the boundaries (to be), even so the king shall justly cause them to be fixed between the two villages.
 </details>

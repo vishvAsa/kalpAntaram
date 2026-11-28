@@ -3,6 +3,11 @@ title = "056 कृमि-कीट-पतङ्गानां विड्-भ
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	A Brahmana who drinks (the spirituous liquor called) Sura shall enter (the bodies) of small and large insects, of moths, of birds, feeding on ordure, and of destructive beasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who drinks wine shall enter the womb of worms, insects, moths, of birds feeding on ordure, or of carnivorous animals.—(56)
@@ -40,9 +45,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **कृमिकीटपतङ्गानाम्** इति । कृमिकीटशलभानां पुरीषबक्षिणां च पक्षिणां हिंसनशीलानां च व्याघ्रादीनां प्राणिनां च सम्बन्धिनीं योनिं सुरापो ब्राह्मणो याति ॥ १२.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	A Brahmana who drinks (the spirituous liquor called) Sura shall enter (the bodies) of small and large insects, of moths, of birds, feeding on ordure, and of destructive beasts.
 </details>

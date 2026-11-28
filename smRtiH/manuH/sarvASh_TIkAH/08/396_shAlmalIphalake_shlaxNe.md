@@ -3,6 +3,11 @@ title = "396 शाल्मलीफलके श्लक्ष्णे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+396	A washerman shall wash (the clothes of his employers) gently on a smooth board of Salmaliwood he shall not return the clothes (of one person) for those (of another), nor allow anybody (but the owner) to wear them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The washerman shall wash (clothes) gently on a smooth board of cotton-tree wood; he shall not carry clothes in other clothes; nor shall he allow them to be worn.—(396)
@@ -83,9 +88,4 @@ others, he should he made to pay 3 *Paṇas*; and 10 *Paṇas*, if he sells or l
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थः श्लोकः ॥ ८.३९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-396	A washerman shall wash (the clothes of his employers) gently on a smooth board of Salmaliwood he shall not return the clothes (of one person) for those (of another), nor allow anybody (but the owner) to wear them.
 </details>

@@ -3,6 +3,11 @@ title = "082 साक्ष्ये ऽनृतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+082	'He who gives false evidence is firmly bound by Varuna's fetters, helpless during one hundred existences; let (men therefore) give true evidence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Stating the untruth in his evidence, he becomes firmly bound in Varuṇa’s fetters, helpless during a hundred births. One should, therefore, give true evidence.’—(82)
@@ -76,9 +81,4 @@ See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/ma
 <details><summary>भारुचिः</summary>
 
 यस्मात् —
-</details>
-
-<details><summary>Bühler</summary>
-
-082	'He who gives false evidence is firmly bound by Varuna's fetters, helpless during one hundred existences; let (men therefore) give true evidence.
 </details>

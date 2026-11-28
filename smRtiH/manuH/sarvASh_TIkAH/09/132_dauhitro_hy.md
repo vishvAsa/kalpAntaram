@@ -3,6 +3,11 @@ title = "132 दौहित्रो ह्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+132	The son of an (appointed) daughter, indeed, shall (also) take the estate of his (own) father, who leaves no (other) son; he shall (then) present two funeral cakes to his own father and to his maternal grandfather.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The daughter’s son should inherit the entire property of the sonless father; he shall also offer two cakes—to the ‘father’ and to the ‘maternal grandfather.’—(132)
@@ -115,9 +120,4 @@ See Comparative notes for [Verse 9.127](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 यस्मिन् पक्षे ऽपुत्रो मातामहः पुत्रिकासुतश् चाखिलद्रव्यहारी, तस्मिन् पक्षे तस्य पिण्डदाननियमः । यदा तु मातामहः सपुत्रः संपद्यते दैवात् पुत्रिकापुत्रे सति, तदा पुत्रिकापुत्रो ऽपि सन् नैव पिण्डं मातामहाय दद्यात् । हरेद् यदि, यस्मिन् पक्ष इत्य् अर्थः । तच् च पिण्डदानं पितृमातामहयोः प्रथमम् । एवम् उत्तरयोर् अपि द्वयोर् द्वयोः पिण्डो देयः । यस्मात् ॥ ९.१३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	The son of an (appointed) daughter, indeed, shall (also) take the estate of his (own) father, who leaves no (other) son; he shall (then) present two funeral cakes to his own father and to his maternal grandfather.
 </details>

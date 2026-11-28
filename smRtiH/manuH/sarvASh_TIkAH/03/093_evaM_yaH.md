@@ -2,6 +2,11 @@
 title = "093 एवं यः"
 +++
 
+<details><summary>Bühler</summary>
+
+093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who thus daily honours all beings, becomes endowed with a body of light, and goes to the highest place, by the straight path.—(93)
@@ -73,11 +78,6 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवम्** उक्तनीत्या अभिहितसर्वभूतानि नित्यम् अन्नादिना यः पूजयति सः तेजःशरीरो भूत्वा स्पष्टेन मार्गेण येनाशुप्राप्येन शरीरपातसमनन्तरम् एव तेन ब्रह्मलोकं गच्छति इति पञ्चयज्ञफलकथनम्, न चानित्यतापत्तिर् इत्य् उक्तम् ॥ ३.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "040 देवत्वं सात्त्विका"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	Those endowed with Goodness reach the state of gods, those endowed with Activity the state of men, and those endowed with Darkness ever sink to the condition of beasts; that is the threefold course of transmigrations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those partaking of ‘Sattva’ reach the state of the gods, those endowed with ‘Rajas,’ the state of men, and those characterised by ‘Tamas,’ the state of beasts; such is the threefold migratory state.—(40)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 समासनिर्देशो गतेर् गुणनिमित्तायाः ॥ १२.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Those endowed with Goodness reach the state of gods, those endowed with Activity the state of men, and those endowed with Darkness ever sink to the condition of beasts; that is the threefold course of transmigrations.
 </details>

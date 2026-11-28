@@ -3,6 +3,11 @@ title = "147 यत् किम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+147	(But in general) whatever (chattel) an owner sees enjoyed by others during ten years, while, though present, he says nothing, that (chattel) he shall not recover.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever thing the owner meekly sees being used by others in his presence, for ten years,—that thing he does not deserve to recover.—(147)
@@ -116,9 +121,4 @@ enjoyed by others for twenty years, his ownership to it is not restored.’
 <details><summary>भारुचिः</summary>
 
 प्रीतिरहितं यति किंचिद् ॥ ८.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	(But in general) whatever (chattel) an owner sees enjoyed by others during ten years, while, though present, he says nothing, that (chattel) he shall not recover.
 </details>

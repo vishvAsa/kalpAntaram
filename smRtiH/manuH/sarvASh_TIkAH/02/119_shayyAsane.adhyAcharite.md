@@ -2,6 +2,11 @@
 title = "119 शय्यासने ऽध्याचरिते"
 +++
 
+<details><summary>Bühler</summary>
+
+119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not sit with a superior upon the couch or seat prepared for him. and if he himself should happen to be seated on a couch or skat, he should rise to meet (the superior) and salute him.—(119)
@@ -71,11 +76,6 @@ seat before the Teacher.’
 <details><summary>गोविन्दराजः</summary>
 
 **शय्यासने** इति । **शय्यासनं** यत् गुर्वादिना सेवितं सेव्यमानं वा तत्र नोपविशेत् । **शय्यासनस्थश् चैनम्** आयान्तं दृष्ट्वा ततः **उत्थायाभिवादयेत्** ॥ २.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
 </details>
 
 <details><summary>भारुचिः</summary>

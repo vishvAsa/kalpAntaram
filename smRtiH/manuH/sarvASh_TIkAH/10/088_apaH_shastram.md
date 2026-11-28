@@ -3,6 +3,11 @@ title = "088 अपः शस्त्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	Water, weapons, poison, meat, Soma, and perfumes of all kinds, fresh milk, honey, sour milk, clarified butter, oil, wax, sugar, Kusa-grass;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Water, weapons, poison, meat, soma and all kinds of perfume; milk, honey, curds, butter, oil, honey-wax, sugar and kuśa-grass.—(88)
@@ -75,9 +80,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 **क्षीरदधिघृत**ग्रहणम् इह सर्वक्षीरविकारप्रदर्शनार्थम् । एवं च मस्तुकिलाटादीन्य् अप्य् अविक्रेयाणि । क्षीऋआदीणां च प्राधान्यात् ग्रहणं प्रदर्शनाथं (?) युक्तम्, न तु परिसंख्यार्थम् । स्मृत्यन्तरे चोक्तम्- "क्षीरं सविकारम्" इति । रसशब्देन गुऌअम् [अपि] निषिद्धं पूर्वश्लोके तत इह गुऌअग्रहणं नित्यार्थम् । एवं चेतररसानां विकल्पेन प्रतिषेधः । अथ तु रसशब्देन गुऌओ न गृह्यते । तत एष रसानां विकल्पो नास्ति । एतेन मधु [व्याख्यातम्] ॥ १०.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	Water, weapons, poison, meat, Soma, and perfumes of all kinds, fresh milk, honey, sour milk, clarified butter, oil, wax, sugar, Kusa-grass;
 </details>

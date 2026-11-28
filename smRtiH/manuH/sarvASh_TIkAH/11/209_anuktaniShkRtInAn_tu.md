@@ -3,6 +3,11 @@ title = "209 अनुक्तनिष्कृतीनान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+210	For the expiation of offences for which no atonement has been prescribed, let him fix a penance after considering (the offender's) strength and the (nature of the) offence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the atonement of offences for which no expiation has been prescribed, one should fix an expiation after taking into consideration the man’s capacity and the nature of the offence.—(209)
@@ -93,9 +98,4 @@ indicated, the penance should be prescribed after due consideration of the place
 <details><summary>भारुचिः</summary>
 
 चण्डालादीनां प्रतिलोमानां हिंसायाम् **अनुक्ता निष्कृतिः**, अथ वा कारणे कृतानुज्ञायां च **नोक्ता निष्कृतिः**, ब्राह्मणवधादिषु आयुधदानादिभिर् हन्तुः प्रीत्यर्थम् । एतेषु **शक्तिं चावेक्ष्य** साधनवयोऽवस्थाशरीरसामर्थ्यकृताम् च पापं च गुरुलघुताविशेषेण सप्रत्ययाप्र्त्ययविशेषेण च । सप्रत्यये ऽपि च क्रोधाद्यनुबन्धेन **प्रायश्चित्तं प्रकल्पयेद्** इत्य् अर्थः । परिषद् दशावरा त्र्यवरा वा । अथ वा "एको ऽपि वेदविद् धर्मम्" इत्य् वक्ष्यति ॥ ११.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-210	For the expiation of offences for which no atonement has been prescribed, let him fix a penance after considering (the offender's) strength and the (nature of the) offence.
 </details>

@@ -3,6 +3,11 @@ title = "155 अदर्शयित्वा तत्रैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+155	If he cannot pay the money (due as interest), he may insert it in the renewed (agreement); he must pay as much interest as may be due.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Not having brought forward the gold, he should renew the bond; and he should pay as much interest as may be possible.—(155)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 8.154].
 <details><summary>भारुचिः</summary>
 
 अशक्तस्य काकिणिम् अपि दातुं सह वृद्ध्या पुनः क्रिया ॥ ८.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	If he cannot pay the money (due as interest), he may insert it in the renewed (agreement); he must pay as much interest as may be due.
 </details>

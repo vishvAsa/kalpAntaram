@@ -2,6 +2,11 @@
 title = "158 आसीता८ मरणात्"
 +++
 
+<details><summary>Bühler</summary>
+
+158	Until death let her be patient (of hardships), self-controlled, and chaste, and strive (to fulfil) that most excellent duty which (is prescribed) for wives who have one husband only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Till her death, she should remain patient, self-controlled and chaste,—seeking that most excellent merit that accrues to women having a single husband. (156).
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 5.154].
 <details><summary>गोविन्दराजः</summary>
 
 एवं च **आसीतेति** । एकभर्तृकाणां यो **धर्मस् तं** सर्वधर्मोत्कृष्टम् अभिलषन्ती **आ मरणात्** क्षुद्दुःखं सहमानान्यमनस्का पुंसः प्रयोगं वर्जयेत् । न चापत्यार्थम् अपि प्रीतिमयेनान्तरेण तिष्ठेत् ॥ ५.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	Until death let her be patient (of hardships), self-controlled, and chaste, and strive (to fulfil) that most excellent duty which (is prescribed) for wives who have one husband only.
 </details>
 
 <details><summary>भारुचिः</summary>

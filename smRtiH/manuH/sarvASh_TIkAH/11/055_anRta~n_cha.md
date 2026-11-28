@@ -3,6 +3,11 @@ title = "055 अनृतञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	Falsely attributing to oneself high birth, giving information to the king (regarding a crime), and falsely accusing one's teacher, (are offences) equal to slaying a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Lying for self-aggrandisement, caluminating before the king, and falsely harassing the Preceptor are equal to ‘Brāhmaṇa -killing.’—(55)
@@ -85,9 +90,4 @@ killing a friend, forgetting what has been learnt, these are equal to Brāhmaṇ
 <details><summary>भारुचिः</summary>
 
 प्रत्येकम्, न समस्तानि एवम् उत्तरत्रापीति । अनृतं जातिसमुत्कर्षे, यद् अब्राह्मणः सन् "ब्राह्मणोऽस्मि" इति ब्रवीति ब्राह्मणप्रयोजनेषु । एवं क्षत्रियवैश्यजाताव् अपि योज्यम् । कर्मोत्कर्षे वा यद् अनृतं "अनेन क्रतुनेष्टं मया" इति । एवं अध्ययनतपःप्रभृतिष्व् अपीति । समुत्कर्षकरणे कन्यलाभदौ यद् अनृतं तद्दूषणार्थं दातृसंनिधौ कौटसाक्ष्यम्, येन तद् उत्तरश्लोके वक्ष्यति । सुरापानसमं **राजगामिपैशुनं** (?) हेऌअकत्वं प्रसिद्धम् । **गुरोर् अऌईकनिर्बन्धः** । अऌईकस् चित्तसंक्षोभः । अऌईकर्थो निर्बन्धः स गुरोर् अभ्युपेत्य द्वेषादिभिः पौनः पुन्येन क्रियमाणो **ऽऌईकनिर्बन्धः** । ब्रह्महत्यासमः । गुरोर् अनृताबिशंसनं वाऌईकनिर्बन्धः । तथा च गौतमः- "गुरोर् अनृताबिशंसनम्" इति । पातकसमानीति ॥ ११.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Falsely attributing to oneself high birth, giving information to the king (regarding a crime), and falsely accusing one's teacher, (are offences) equal to slaying a Brahmana.
 </details>

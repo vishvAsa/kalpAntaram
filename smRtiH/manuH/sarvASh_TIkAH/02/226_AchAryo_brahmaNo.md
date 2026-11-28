@@ -3,6 +3,11 @@ title = "226 आचार्यो ब्रह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The preceptor is the embodiment of Brahman; the father is the embodiment of Prajāpati; the Mother is the embodiment of the earth, and one’s own brother is the embodiment of the self.—(226)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 2.225].
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्यो ब्रह्मणो मूर्तिर्** इति । ब्रह्मोपदेशोत्पादनसाधारणैकोदरनिवासालम्बनम् एतद् एषां ब्रह्मादिशरीरत्वाभिधानं प्रकृतविध्यर्थवादार्थं ब्रह्माप्रजापती परमात्महिरण्यगर्भो **स्वः **सोदर्यः ॥ २.२२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.
 </details>

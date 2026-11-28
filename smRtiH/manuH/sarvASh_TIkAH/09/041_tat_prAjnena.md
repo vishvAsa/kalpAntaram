@@ -3,6 +3,11 @@ title = "041 तत् प्राज्ञेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	Never therefore must a prudent well-trained man, who knows the Veda and its Angas and desires long life, cohabit with another's wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [The established conclusion]—for this reason he who is intelligent, well-trained, and conversant with the sciences and the arts, should never, if he desires longevity, sow in another’s wife.—(41)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 क्षेत्रप्राधान्यात्, मा भूत् परक्षेत्रे बीजापहारः । [अनादिपरंपरासिद्धं च यतः परक्षेत्रजातं न] बीजिनो ऽपत्यम् ॥ ९.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Never therefore must a prudent well-trained man, who knows the Veda and its Angas and desires long life, cohabit with another's wife.
 </details>

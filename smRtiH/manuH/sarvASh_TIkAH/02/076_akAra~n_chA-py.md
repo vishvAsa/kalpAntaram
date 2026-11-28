@@ -2,6 +2,11 @@
 title = "076 अकारञ् चाऽप्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the three Vedas, Prajāpati milked the letter ‘a,’ the letter ‘u’ and the letter ‘m’; as also the syllables ‘bhūḥ-bhuvaḥ-svaḥ.’—(76)
@@ -41,11 +46,6 @@ Veda.’
 <details><summary>कुल्लूकः</summary>
 
 "एतदक्षरमेतां च" ( म० स्मृ० २-७८ ) इति वक्ष्यति तस्यायं शेषः । अकारमुकारं मकारं च प्रणवावयवभूतं ब्रह्मा वेदनयादृग्यजुःसामलक्षणाद्भूर्भुवः स्वरिति व्याहृतित्रयं च क्रमेण निरदुहृदुद्धतवान् ॥७६॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.
 </details>
 
 <details><summary>भारुचिः</summary>

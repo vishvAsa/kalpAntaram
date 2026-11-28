@@ -3,6 +3,11 @@ title = "077 वायोर् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	Next from wind modifying itself, proceeds the brilliant light, which illuminates and dispels darkness; that is declared to possess the quality of colour;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After wind, from out of the same Evolvent, emanates the bright and radiant light, the dispeller of darkness; it is said to be endowed with the quality of colour.—(77)
@@ -31,9 +36,4 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 <details><summary>गोविन्दराजः</summary>
 
 **वायोर्** इति । **वायोः **पूर्ववत् तेजः **विरोचिष्णु **परप्रकाशकं तमोनाशनं **भास्वत् **प्रकाशकम् उत्पद्यते । तच् च स्वरूपाख्यगुणयुक्तं कथ्यते ॥ १.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	Next from wind modifying itself, proceeds the brilliant light, which illuminates and dispels darkness; that is declared to possess the quality of colour;
 </details>

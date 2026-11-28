@@ -3,6 +3,11 @@ title = "197 उपजप्यान् उपजपेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+197	Let him instigate to rebellion those who are open to such instigations, let him be informed of his (foe's) doings, and, when fate is propitious, let him fight without fear, trying to conquer.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall alienate all who are alienable, keep himself informed of the enemy’s doings, and when fate is propitious, he shall fight, devoid of fear and determined to co nquer.—(197).
@@ -56,9 +61,4 @@ of conquest, in accordance with his own capacity; with those equal, or superior,
 <details><summary>भारुचिः</summary>
 
 दुर्गाश्रितस्याप्रतियुध्यत उपरोधविधिस् त्रिभिः शोकैः ॥ ७.१९५–९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	Let him instigate to rebellion those who are open to such instigations, let him be informed of his (foe's) doings, and, when fate is propitious, let him fight without fear, trying to conquer.
 </details>

@@ -3,6 +3,11 @@ title = "141 एकदेशन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He is called “Upādhyāya,” “Sub-teacher,” who teaches, for a living, only a part of the Veda, or only the Vedic subsidiary sciences.—(141)
@@ -66,9 +71,4 @@ teaches a portion of the Veda, is the *Upādhyāya*.’
 <details><summary>गोविन्दराजः</summary>
 
 **एकदेशम्** इति । वेदभागं वेदाङ्गानि वा शिक्षाकल्पनिरुक्तव्याकरणज्योतिषछन्दांसि यो जीविकार्थम् अर्पणपूर्वम् **अध्यापयति स उपाध्याय उच्यते **॥ १.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).
 </details>

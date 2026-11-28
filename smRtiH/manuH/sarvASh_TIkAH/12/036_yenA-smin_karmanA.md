@@ -3,6 +3,11 @@ title = "036 येनाऽस्मिन् कर्मणा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	But, when (a man) desires (to gain) by an act much fame in this world and feels no sorrow on failing, know that it (bears the mark of the quality of) Activity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, by a certain act, the man desires great fame in this world, and does not mind failure—this should be understood to partake of the quality of ‘Rajas.’—(36)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **येनेति** । इह लोके महतीं कीर्तिं प्राप्नुयाम् इत्य् एवम् अर्थम् एव यत् कर्म करोति न च परलोकार्थं न च तत्कर्मसम्पत्तौ दुःखी भवति तद् रजःकार्यं विज्ञेयम् ॥ १२.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	But, when (a man) desires (to gain) by an act much fame in this world and feels no sorrow on failing, know that it (bears the mark of the quality of) Activity.
 </details>

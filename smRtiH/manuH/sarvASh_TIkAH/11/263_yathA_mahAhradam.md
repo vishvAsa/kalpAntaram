@@ -3,6 +3,11 @@ title = "263 यथा महाह्रदम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+264	As a clod of earth, falling into a great lake, is quickly dissolved, even so every sinful act is engulfed in the threefold Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As a clod of earth, being thrown, becomes dissolved as soon as it gets into the water,—even so does all sin become engulfed in the threefold Veda.—(263)
@@ -31,9 +36,4 @@ As a clod of earth, being thrown, becomes dissolved as soon as it gets into the 
 <details><summary>भारुचिः</summary>
 
 तच् च वेदस्य त्रिवृत्यर्थम् इदं दर्शयति ॥ ११.२६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-264	As a clod of earth, falling into a great lake, is quickly dissolved, even so every sinful act is engulfed in the threefold Veda.
 </details>

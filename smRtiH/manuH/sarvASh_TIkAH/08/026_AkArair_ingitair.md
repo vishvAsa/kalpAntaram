@@ -3,6 +3,11 @@ title = "026 आकारैर् इङ्गितैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	The internal (working of the) mind is perceived through the aspect, the motions, the gait, the gestures, the speech, and the changes in the eye and of the face.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The inner mind is indicated by such variations as those of aspect, gait, gesture, speech, and by changes in the eye and the face.—(26)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 8.25].
 <details><summary>भारुचिः</summary>
 
 आकरणं **आकारः** शरीरेन्द्रियविकरः । अस्य सामान्यवचनस्यायं विशेषः । **आकारैः** तैश् तद्विकारैर् इङ्गितादिभिः व्य्वहाराद् अन्यत्रापि चापराभिप्रायो लोके **गृह्यते** । एवं व्यवहारकाले ऽप्य् अधिकृतैर् अद्विष्टैर् अरक्तैश् च निपुणतो दत्तप्रणिधानैर् ग्राह्यम् । एवं च पूर्वश्लोकशेष एवायं विज्ञेयः ॥ ८.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	The internal (working of the) mind is perceived through the aspect, the motions, the gait, the gestures, the speech, and the changes in the eye and of the face.
 </details>

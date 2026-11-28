@@ -2,6 +2,11 @@
 title = "162 आचार्यञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not injure his Preceptor, or Teacher or Father, or mother, or another elder, or Brāhmaṇas, or Cows, or any persons performing austerities.—(162)
@@ -85,11 +90,6 @@ from whom he acquires any knowledge, temporal or scriptural or spiritual...... o
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्यं चेति** । **आचार्यम्** अध्यापयितारं चोपनयनमात्रकारिणं लोकवत् **पितरं मातरं गुरुम्** “अल्पं वा बहु वा यस्य” (२.१४९) इत्य् उक्तम् गोब्राह्मणतपोनिष्ठांश् च आततायिनो ऽपि **न हिंस्यात्** । अन्यथा सामान्यहिंसानिषेधे सति इदं पृथग्वचनम् अनर्थकं स्यात् ॥ ४.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
 </details>
 
 <details><summary>भारुचिः</summary>

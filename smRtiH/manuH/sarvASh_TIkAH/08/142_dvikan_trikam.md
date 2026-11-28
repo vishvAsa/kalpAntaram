@@ -3,6 +3,11 @@ title = "142 द्विकन् त्रिकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+142	Just two in the hundred, three, four, and five (and not more), he may take as monthly interest according to the order of the castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may charge just two, three, four or five per cent. per month from the four castes respectively.—(142)
@@ -88,9 +93,4 @@ See Comparative notes for [Verse 8.140].
 <details><summary>भारुचिः</summary>
 
 अयं च वर्णानुपूर्व्यात् तृतीयः कल्पः । एषां तु पूर्वः पूर्वो ज्यायान् । अन्ये ऽपि तु समाम् इति पठन्ति । समाग्रहणाद् अत्रेयं वृद्धिर् न संवत्सरात् परतः । पूर्वातः स्यात् । परतो ऽपि अल्पत्वाद् वृद्धेः । प्रयोगश् च द्विविधो भवति । गृहीत्वा चाधिम् अन्यथा च । तत्राधिग्रहणपक्षे विशेषार्थम् इदम् उच्यते — ॥ ८.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	Just two in the hundred, three, four, and five (and not more), he may take as monthly interest according to the order of the castes (varna).
 </details>

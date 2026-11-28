@@ -3,6 +3,11 @@ title = "237 गुरुतल्पे भगः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+237	For violating a Guru's bed, (the mark of) a female part shall be (impressed on the forehead with a hot iron); for drinking (the spirituous liquor called) Sura, the sign of a tavern; for stealing (the gold of a Brahmana), a dog's foot; for murdering a Brahmana, a headless corpse.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For violating the preceptor’s bed the sign of the female organ shall be branded; for drinking wine that of the tavern; for theft that of the dog’s foot; and for killing a Brāhmaṇa that of a headless man.—(297)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 ललाटे ऽङ्कनप्रतिषेधविधौ ललाटग्रहणात् ॥ ९.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	For violating a Guru's bed, (the mark of) a female part shall be (impressed on the forehead with a hot iron); for drinking (the spirituous liquor called) Sura, the sign of a tavern; for stealing (the gold of a Brahmana), a dog's foot; for murdering a Brahmana, a headless corpse.
 </details>

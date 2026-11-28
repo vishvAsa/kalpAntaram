@@ -3,6 +3,11 @@ title = "057 नैकः सुप्याच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone he shall not sleep in a deserted house. He shall not offer advice to his superior. He shall not converse with a woman in her courses. He shall not go to a sacrifice uninvited.—(57).
@@ -49,9 +54,4 @@ shall not arouse a sleeping man.’
 <details><summary>गोविन्दराजः</summary>
 
 **नैकः स्वप्याद्** इति । उद्वसितगृहे **एको** न शयीत वित्ताद्यभ्यधिकं सुप्तं च **न प्रोबोधयेत् **। रजस्वलया सह सम्भाषणं न कुर्यात् । **यज्ञं** चाकृतवरणं ऋत्विक् **न गच्छेत्** । “दर्शनार्थं तु कामम्” इति गौतमः ॥ ४.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).
 </details>

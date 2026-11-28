@@ -3,6 +3,11 @@ title = "135 ज्ञाननिष्ठेषु कव्यानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+135	Oblations to the manes ought to be carefully presented to those devoted to knowledge, but offerings to the gods, in accordance with the reason (of the sacred law), to (men of) all the four (above-mentioned classes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offerings to the pitṛs should be carefully presented to those excelling in learning; and the offerings to gods to all the four, according to law.—(135)
@@ -54,9 +59,4 @@ born in our family as may feed at the Śrāddha the Brāhmaṇa who is a Yogin! 
 <details><summary>गोविन्दराजः</summary>
 
 इति किम् आह **ज्ञाननिष्ठेष्व्** इति । ज्ञानप्रधानेभ्यो यत्नेन पित्रर्थानि देयानि । देवार्थानि पुनः शास्त्रमर्यादानतिक्रमेण चतुर्भ्यो ज्ञाननिष्ठादिभ्यो ऽपीति ॥ ३.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Oblations to the manes ought to be carefully presented to those devoted to knowledge, but offerings to the gods, in accordance with the reason (of the sacred law), to (men of) all the four (above-mentioned classes).
 </details>

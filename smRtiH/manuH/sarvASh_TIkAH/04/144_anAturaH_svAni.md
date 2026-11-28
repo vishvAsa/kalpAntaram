@@ -2,6 +2,11 @@
 title = "144 अनातुरः स्वानि"
 +++
 
+<details><summary>Bühler</summary>
+
+144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Unless he be in trouble, he shall not, without cause, touch his cavities. He shall also avoid all secret hairs.—(144)
@@ -38,11 +43,6 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 <details><summary>गोविन्दराजः</summary>
 
 **अनातुर **इति । स्वस्थः सन् **स्वानि **छिद्राणि **रोमाणि च **पायूपस्थगतानि **अनिमित्तं न स्पृशेत् **॥ ४.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "075 अध्यापनम् अध्ययनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	Teaching, studying, sacrificing for himself, sacrificing for others, making gifts and receiving them are the six acts (prescribed) for a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Teaching, studying, sacrificing for oneself, sacrificing for others, giving and receiving gifts are the six functions for the ‘first born’.—(75)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.74].
 <details><summary>भारुचिः</summary>
 
 विध्यर्थम् एषाम् इहोपदेशः । प्रथमे ऽध्याये शास्त्रस्तुत्यर्थ उक्तः । अथ तु विधिर् एषां पूर्वशास्त्राद् एव विज्ञातुं शक्यस्, तत आपत्प्रकरणार्थम् एषाम् इहोपदेशो विज्ञेयः । इदानीं वर्गद्वयप्रविभागो दृष्टादृष्टार्थत्वाद् एषां प्रतिक्रियते ॥ १०.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Teaching, studying, sacrificing for himself, sacrificing for others, making gifts and receiving them are the six acts (prescribed) for a Brahmana.
 </details>

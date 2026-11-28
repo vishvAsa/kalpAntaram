@@ -3,6 +3,11 @@ title = "073 बहुत्वम् परिगृह्णीयात्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	On a conflict of the witnesses the king shall accept (as true) the evidence of the) majority; if (the conflicting parties are) equal in number, (that of) those distinguished by good qualities; on a difference between (equally) distinguished (witnesses, that of) the best among the twice-born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On a conflict among witnesses, the king shall accept the majority; in the case of equality (of number) those possessed of superior qualifications; and in the case of conflict between equally qualified witnesses, the best among the twice-born.—(73)
@@ -74,9 +79,4 @@ majority should be accepted; when the number is equal on both sides, the testimo
 <details><summary>भारुचिः</summary>
 
 विधिविप्रतिपत्ताव् एष एव न्यायः । अनुमाने यथोक्ते, क्वचिच् च शपथाद्य् अपि वक्ष्यति- "असाक्षिकेषु त्व् अर्थेषु । । । शपथेनापि लम्भयेत्" इति । अपि च "जागर्ति भगवान् धर्मः" । स एव साम्ये ऽपि सति केनचित् कारणेनात्मानं दर्शयति । **द्विजोत्तमान्** इति चेदं लिङ्गं ब्राह्मणानां साक्षित्वे तथा चोक्तम् "आप्ताः सर्वेषु वर्णेषु" इति । न चैतद् उक्तवर्णानुवादार्थं **सर्व**ग्रहणम् । किं तर्हि ब्राह्मणवर्णावबोधार्थम् । तथा च कृत्वैवमादीनि लिङ्गानि श्रोत्रियप्रतिषेधस्य ॥ ८.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	On a conflict of the witnesses the king shall accept (as true) the evidence of the) majority; if (the conflicting parties are) equal in number, (that of) those distinguished by good qualities; on a difference between (equally) distinguished (witnesses, that of) the best among the twice-born.
 </details>

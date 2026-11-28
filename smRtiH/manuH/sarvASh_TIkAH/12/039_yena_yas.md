@@ -3,6 +3,11 @@ title = "039 येन यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	I will briefly declare in due order what transmigrations in this whole (world a man) obtains through each of these qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am now going to describe, briefly, in due order, those migratory states into which one falls through each quality from among these.—(39)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 उपक्षेपो वक्ष्यमाणस्यायम् । सो ऽयम् उच्यते ॥ १२.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	I will briefly declare in due order what transmigrations in this whole (world a man) obtains through each of these qualities.
 </details>

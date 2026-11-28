@@ -3,6 +3,11 @@ title = "238 तत्राऽपरिवृतन् धान्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+238	If the cattle do damage to unfenced crops on that (common), the king shall in that case not punish the herdsmen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the cattle damage the unfenced crops therein, the king, in that case, shall not inflict punishment on the cattle-keepers.—(238)
@@ -51,9 +56,4 @@ near a highway, or near a village, or in a field adjacent to the pasture-ground;
 <details><summary>भारुचिः</summary>
 
 यदि तु तत्र भूलोपात् समुप्यते न केनचित् परिवृतं च भवेत्, ततस् तद्भक्षणे गोभिर् न दोषः स्यात् पशुरक्षिणाम् ॥ ८.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	If the cattle do damage to unfenced crops on that (common), the king shall in that case not punish the herdsmen.
 </details>

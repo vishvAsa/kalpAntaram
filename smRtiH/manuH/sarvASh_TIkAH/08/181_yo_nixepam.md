@@ -3,6 +3,11 @@ title = "181 यो निक्षेपम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+181	He who restores not his deposit to the depositor at his request, may be tried by the judge in the depositor's absence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 व्यत्यस्तक्रमो ऽयं श्लोकः समाम्नाये पठ्यते । प्रथमम् अस्यार्धश्लोकं पठित्वा "साक्ष्यभावे" (८.१८२) इति पठितव्यं, ततः "स याच्यः" इति । एवं पाठो युक्तः । तथा ह्य् अर्थसङ्गतिर् भवति । 
@@ -52,9 +57,4 @@ title = "181 यो निक्षेपम्"
 <details><summary>भारुचिः</summary>
 
 ऽसाक्ष्यभावे" इत्य् उपरिष्टाद् वक्ष्यति । तेनास्य सामर्थ्यात् संबन्धो द्रष्टव्यः । साक्ष्यभावे **यो निक्षेपं याच्यमानो न प्रयच्छति** ततो निक्षेप्त्रा प्राङ्विवाको विज्ञापि[तः इमं] कुर्यात्- पूर्वनिक्षिप्तस्य परिमाणवयोरूपसादृश्येन कैश्चिद् अपदेशैः केनचिद् हिरण्यादि तस्मिन्न् एव निक्षेपं पूर्वनिक्षेपधारिणि निक्षिपेत् । ततः कस्मिंश्चित् काले गते पूर्वनिक्षे[प्तु]र् **असंनिधौ** प्राङ्विवाको द्वितीयेन निक्षेप्त्रा द्वितीयं निक्षेपं याचयेत् ॥ ८.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	He who restores not his deposit to the depositor at his request, may be tried by the judge in the depositor's absence.
 </details>

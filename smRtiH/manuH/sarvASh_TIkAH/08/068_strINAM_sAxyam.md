@@ -3,6 +3,11 @@ title = "068 स्त्रीणां साक्ष्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	Women should give evidence for women, and for twice-born men twice-born men (of the) same (kind), virtuous Sudras for Sudras, and men of the lowest castes for the lowest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —Woman should give evidence for women; and for twice-born persons similar twice-born men, virtuous śūdhas for śūdras, and men of the lowest caste for the lowest men.—(68)
@@ -76,9 +81,4 @@ or in any other association, anyone falls out with his associates, they should n
 <details><summary>भारुचिः</summary>
 
 अर्थव्यवहारेषु स्वस्थवृत्तयः आत्मनो जात्यादिसादृश्येन साक्षिणः स्युः, अर्थप्रयोक्तारो ऽन्ये वार्थसंबन्धिनः । एवं च प्रदर्शनार्थत्वाद् अस्य तापसप्रव्रजितवणिक्कुशीलवगोपालकादीनां सादृश्येन साक्षिणः स्युः । तथा च ऽक्षत्रविट्शूद्रयोनयः" इति सामान्यनिर्देशो ऽयं द्रष्टव्यः । अर्थव्यवहारेभ्यस् त्व् अन्यत्र —
-</details>
-
-<details><summary>Bühler</summary>
-
-068	Women should give evidence for women, and for twice-born men twice-born men (of the) same (kind), virtuous Sudras for Sudras, and men of the lowest castes for the lowest.
 </details>

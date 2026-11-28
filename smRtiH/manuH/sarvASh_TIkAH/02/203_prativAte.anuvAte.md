@@ -3,6 +3,11 @@ title = "203 प्रतिवाते ऽनुवाते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When sitting in the company of his teacher, uk should not sit either to the lee-ward or to the wind-ward of him; nor should he say anything beyond the hearing of his teacher.—(203)
@@ -49,9 +54,4 @@ windward of the Teacher;—or to the leeward,’
 <details><summary>गोविन्दराजः</summary>
 
 **प्रतिवात** इति । **प्रतिवातो **मुखीभूतः पुरोवर्ती गुरुदेशाच् छिष्यदेशं प्रति वायुः यस्मिन् प्रदेशे, यत्र चानुगतशिष्यः गुरुदेशं **प्रतिवातः** । तत्र पश्चाद् **गुरुणा सह नासीत** । तथा गुरुसन्निधाने यस्मिन् देशे गुरोः संश्रवः आकर्णनं नास्ति तत्रान्यस्य तत्रान्यस्य कस्यचित् **न किञ्चिद् अपि **कथयेत् ॥ २.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.
 </details>

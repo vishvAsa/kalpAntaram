@@ -3,6 +3,11 @@ title = "171 अनादेयस्य चादानाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+171	In consequence of his taking what ought not to be taken, or of his refusing what ought to be received, a king will be accused of weakness and perish in this (world) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the taking of what he ought not to take and by the relinquishing of what he ought to take the king’s weakness becomes proclaimed, and he becomes ruined here as also after death.—(171)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.170].
 <details><summary>भारुचिः</summary>
 
 अत्र चादेयापरिवर्जननियमः शास्त्रसामर्थ्यात् । अतो वर्ज[नीयवर्जयितुः ॥ ८.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	In consequence of his taking what ought not to be taken, or of his refusing what ought to be received, a king will be accused of weakness and perish in this (world) and after death.
 </details>

@@ -2,6 +2,11 @@
 title = "015 उदिते ऽनुदिते"
 +++
 
+<details><summary>Bühler</summary>
+
+015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At sunrise, or before sunrise, or at early dawn,—the sacrificial act may be performed at any time,—such is the pronouncement of the Veda.—(15)
@@ -124,11 +129,6 @@ death.’
 <details><summary>गोविन्दराजः</summary>
 
 अत्रोदाहरणम् आह – **उदित** इति । **उदिते** होतव्यम् **अनुदिते** होतव्यं **समयाध्युषिते** रात्रिविवासकाले होतव्यम् इति इतरेतरविरुद्धहोमकालश्रवणे ऽपि **सर्वथा **सर्वं प्राप्नोति । अन्यस्मिन्न् अपि काले होमे कृते सम्पद्यते होमः । न हि कालाभ्याङ्गानुरोधेन होमाख्यं प्रधानम् आवर्तयितुं युक्तम् इत्य् एवम् उदिते होतव्यम् इत्य् एवमादिकं वैदिकं वाक्यम् इति ॥ २.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.
 </details>
 
 <details><summary>भारुचिः</summary>

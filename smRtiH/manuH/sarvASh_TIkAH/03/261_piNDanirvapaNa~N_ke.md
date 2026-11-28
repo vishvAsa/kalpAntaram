@@ -2,6 +2,11 @@
 title = "261 पिण्डनिर्वपणङ् के"
 +++
 
+<details><summary>Bühler</summary>
+
+261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people do the ball-offering afterwards, others cause them to be eaten by birds, or throw them into fire or water.—(261)
@@ -67,11 +72,6 @@ See Comparative notes for [Verse 3.260].
 <details><summary>गोविन्दराजः</summary>
 
 **पिण्डनिर्वपणम्** इति । पिण्डदानं **केचिद्** आचार्याः ब्राह्मणभोजनाद् अर्वाक् कुर्वते । **अन्ये** पक्षिभिः **खादयन्ति** । इदं पूर्वप्रतिपत्तिवैकल्पिकम् । अप्य् **अन्ये** अग्न्युदकप्रक्षेपं पक्षिभक्षणं वैकल्पिकम् इच्छन्ति ॥ ३.२६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
 </details>
 
 <details><summary>भारुचिः</summary>

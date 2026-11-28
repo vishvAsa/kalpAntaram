@@ -3,6 +3,11 @@ title = "118 लोभान् मोहाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	Evidence (given) from covetousness, distraction, terror, friendship, lust, wrath, ignorance, and childishness is declared (to be) invalid.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Evidence is called ‘false,’ when it is due to greed, or embarrassment, or fright, or friendship, or lust, or anger, or ignorance, ok childishness.—(118)
@@ -68,9 +73,4 @@ punished with line which is double the value of the suit; but the Brāhmaṇa sh
 <details><summary>भारुचिः</summary>
 
 अनृतवचने कारणनिर्देशो ऽयंदण्डविशेषार्थः ॥ ८.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	Evidence (given) from covetousness, distraction, terror, friendship, lust, wrath, ignorance, and childishness is declared (to be) invalid.
 </details>

@@ -2,6 +2,11 @@
 title = "118 चोरैर् उपद्रुते"
 +++
 
+<details><summary>Bühler</summary>
+
+118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the village has bees beset with thieves, when alarm has been caused by fire, it is unfit for study, till the same time next day; as also at the appearance of all portents.—(118)
@@ -50,11 +55,6 @@ meteor-shower, or earthquake, or fire-calamity till the same time next day;—du
 <details><summary>गोविन्दराजः</summary>
 
 **चौरैर्** इति । **चौरैर् उपप्लुते ग्रामे **अग्निदाहकृते च भये दिव्यान्तरिक्षभौमेषु चाश्वर्यरूपेषु उत्पातेषु रुधिरवर्षणादिषु **आकालिकम् अनध्यायं** जानीयात् ॥ ४.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
 </details>
 
 <details><summary>भारुचिः</summary>

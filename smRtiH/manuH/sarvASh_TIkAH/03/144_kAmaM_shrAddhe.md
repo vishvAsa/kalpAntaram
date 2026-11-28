@@ -2,6 +2,11 @@
 title = "144 कामं श्राद्धे"
 +++
 
+<details><summary>Bühler</summary>
+
+144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One may entertain a friend at Śrāddhas, but never a foe, even though qualified. The offering eaten by the enemy becomes futile after death.—(144)
@@ -40,11 +45,6 @@ with the Ṛk, the Yajuṣ and the Sāman.’
 <details><summary>गोविन्दराजः</summary>
 
 **कामम्** इति । वरं गुणवद्ब्राह्मणान्तराभावे सगुणं **मित्रं श्राद्धे** भोजयेत् न योग्यम् अपि शत्रुम्, यतो ऽरिणा श्राद्धादि **भुक्तं** परलोके **निष्फलं भवतीति** । अन्याभावे गुणवान् मित्रप्रतिप्रसवार्थम् एतत् । छन्दोमात्राध्यायिनि श्रोत्रियशब्दप्रयोगात् तदाश्रयणं नैयमिकम् उक्तम् ॥ ३.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "023 अक्षमाला वसिष्ठेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+023	Akshamala, a woman of the lowest birth, being united to Vasishtha and Sarangi, (being united) to Mandapala, became worthy of honour.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The low-born Akṣamālā united with Vaśiṣṭha, and the doe united with Mandapālū, became worthy of worship.—(23)
@@ -37,9 +42,4 @@ This verse is quoted in *Vivādaratnākara* (p. 416), which reads ‘*śārṅg�
 <details><summary>गोविन्दराजः</summary>
 
 अत दृष्टान्तम् आह **अक्षमालेति** । **शार्ङ्गेति **च । अक्षमालाख्या चण्डाली परिणीता वसिष्ठेन चाटविका शार्ङ्गी च मन्दपालाख्येन ऊढा सती पूयतां प्राप्ता ॥ ९.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	Akshamala, a woman of the lowest birth, being united to Vasishtha and Sarangi, (being united) to Mandapala, became worthy of honour.
 </details>

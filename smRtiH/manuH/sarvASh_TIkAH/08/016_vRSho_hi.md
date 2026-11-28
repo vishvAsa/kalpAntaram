@@ -3,6 +3,11 @@ title = "016 वृषो हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+016	For divine justice (is said to be) a bull (vrisha); that (man) who violates it (kurute 'lam) the gods consider to be (a man despicable like) a Sudra (vrishala); let him, therefore, beware of violating justice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For Justice is the revered ‘Vṛṣa,’ Bull; and he who commits the violation, ‘alam,’ of it, him the gods regard as ‘vṛṣala,’ low-born; hence one shall not violate Justice.—(16)
@@ -55,9 +60,4 @@ Do. (Anuśāsana, 173.14.16).—‘When one abandons his body, Dharma alone goes
 <details><summary>भारुचिः</summary>
 
 न जातिवृषल एव वृषलः, किं तर्हि विकर्मणात्र वृषलो भवति । तथा च सति किं ब्राह्मणजातिस् ते करिष्यति व्यतिक्रमाद् अधर्मेण ग्रस्यमानस्य । यत्कारणाद् राजनियुक्तब्राह्मणोपालम्भ एवायम् ॥ ८.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	For divine justice (is said to be) a bull (vrisha); that (man) who violates it (kurute 'lam) the gods consider to be (a man despicable like) a Sudra (vrishala); let him, therefore, beware of violating justice.
 </details>

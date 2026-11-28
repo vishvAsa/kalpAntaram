@@ -3,6 +3,11 @@ title = "105 वाग्-गैवत्यैश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+105	Such (witnesses) must offer to Sarasvati oblations of boiled rice (karu) which are sacred to the goddess of speech, (thus) performing the best penance in order to expiate the guilt of that falsehood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They should offer sacrifices to Sarasvati with half-boiled rice dedicated to the speech-goddess,—doing the best expiation for the sin of untruthfulness.—(105)
@@ -158,9 +163,4 @@ reason) drink hot milk during twelve days and nights, and pour oblations into th
 <details><summary>भारुचिः</summary>
 
 सरस्वतीं यजेरन्न् "अहं रुद्रेभिर् वसुभिश् चरामि" इत्य् अनेनाष्टर्चेन सूक्तेन । त्रिर् अभ्यासश् चरोः । अनाश्रितबहुत्वविशेषाच् चोदनाया, यथा "वसन्ताय कपिञ्जलान् आलभते" इति ॥ ८.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	Such (witnesses) must offer to Sarasvati oblations of boiled rice (karu) which are sacred to the goddess of speech, (thus) performing the best penance in order to expiate the guilt of that falsehood.
 </details>

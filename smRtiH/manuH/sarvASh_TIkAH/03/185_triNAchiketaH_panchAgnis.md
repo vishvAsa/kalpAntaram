@@ -2,6 +2,11 @@
 title = "185 त्रिणाचिकेतः पञ्चाग्निस्"
 +++
 
+<details><summary>Bühler</summary>
+
+185	A Trinakiketa, one who keeps five sacred fires, a Trisuparna, one who is versed in the six Angas, the son of a woman married according to the Brahma rite, one who sings the Gyeshthasaman,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who has learnt the “Triṇāciketa,” one who knows the science of the five fires, one who has learnt the “Trisuparṇa,” one who knows the six-limbed science, one who is born of a woman married in the “Brahma (Brāhma)” form, one who sings the Jyeṣṭha-sāmas.—(185)
@@ -85,11 +90,6 @@ See Comparative notes for [Verse 3.184].
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिणाचिकेत** इति । त्रिणाचिकेताख्याध्वर्यव वेदव्रताचरणात् गुणात् ब्राह्मणो ऽपि **त्रिणाचिकेतः, पञ्चाग्निर् **व्याख्यातः, त्रिसुपर्णाख्यऋग्वेदव्रतयोगात् पूर्ववत् **त्रिसुपर्णः** । व्याकरणादीनि षडङ्गानि यो वेत्ति । “सर्वप्रवचनेषु” इत्य् अनेन अङ्गाध्येता उक्तः । अनेन त्व् अङ्गज्ञ उच्यते । ब्राह्मविवाहोढापत्यं ज्येष्ठसामाख्यसामवेदव्रतयोगात् **ज्येष्ठसामगः** ॥ ३.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	A Trinakiketa, one who keeps five sacred fires, a Trisuparna, one who is versed in the six Angas, the son of a woman married according to the Brahma rite, one who sings the Gyeshthasaman,
 </details>
 
 <details><summary>भारुचिः</summary>

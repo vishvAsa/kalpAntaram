@@ -3,6 +3,11 @@ title = "095 अन्धो मत्स्यान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+095	'That man who in a court (of justice) gives an untrue account of a transaction (or asserts a fact) of which he was not an eye-witness, resembles a blind man who swallows fish with the bones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘He who, having entered the court, bears testimony to what is contrary to facts and what he has not seen, swallows fish along with the bones,—just like a blind man.’—(95)
@@ -48,9 +53,4 @@ people, this and the preceding two verses are to be addressed to witnesses of th
 <details><summary>गोविन्दराजः</summary>
 
 **अन्ध** इति । यः सभां प्राप्तः तत् त्व् अस्य विप्रलब्धं मुखलेखभ्रान्त्या चादृष्टं भाषते सो ऽन्ध इव सकण्टकान् मत्स्यान् भक्षयति सः । सुखहेतोर् वर्तमानो दुःखम् एवातिशयं तद् उपार्जयति ॥ ८.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	'That man who in a court (of justice) gives an untrue account of a transaction (or asserts a fact) of which he was not an eye-witness, resembles a blind man who swallows fish with the bones.
 </details>

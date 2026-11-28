@@ -3,6 +3,11 @@ title = "062 सर्वेषां शावम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	(Or while) the impurity on account of a death is common to all (Sapindas), that caused by a birth (falls) on the parents alone; (or) it shall fall on the mother alone, and the father shall become pure by bathing;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus also should it be at a birth; but the parturient disability attaches to the parents only; or, the parturient disability would attach to the mother alone, and the father would become purified by bathing.—(61)
@@ -99,9 +104,4 @@ has no contact with the female.’
 > माता सुद्ध्येद् दशाहेन स्नात्वा तु स्पर्शनं पितुः ॥
 
 इति संवर्तदर्शनेन कृतस्नानोपस्पर्शणः पिता शुद्धो भवति । यत् त्व् अत्र दशाह एतैः को ऽतिदिश्यते नान्ये कल्पाः सर्वातिदेशे मातुर् अप्य् आचारविरोधस्येकाहादिप्राप्नोतीत्य् आहुः । तद् असत्, य अध्ययनाद्यर्थात्वेनैकाहादेर् इष्यमाणत्वात् कुतो मातुः प्राप्तिः ॥ ५.६१–६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	(Or while) the impurity on account of a death is common to all (Sapindas), that caused by a birth (falls) on the parents alone; (or) it shall fall on the mother alone, and the father shall become pure by bathing;
 </details>

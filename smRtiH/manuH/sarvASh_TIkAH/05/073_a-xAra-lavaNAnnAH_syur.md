@@ -2,6 +2,11 @@
 title = "073 अ-क्षार-लवणान्नाः स्युर्"
 +++
 
+<details><summary>Bühler</summary>
+
+073	Let (mourners) eat food without factitious salt, bathe during three days, abstain from meat, and sleep separate on the ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For three days they should eat food free from salines and salts, should bathe, should not eat meat-food and should sleep apart on the ground.—(72).
@@ -85,11 +90,6 @@ three days.’
 <details><summary>गोविन्दराजः</summary>
 
 **अक्षारलवणान्ना **इति । बिडलवणादिक्षारवर्जितम् अन्नम् अश्नीयुः । नदादौ मृद्वावर्जं स्नानं कुर्युः । “मांसवर्जं चान्नम् आ शुद्धेः” इति गौतमस्मरणात् । यावद् आशौचं नाश्नीयुर् भूमौ चैककाः शयीरन् ॥ ५.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	Let (mourners) eat food without factitious salt, bathe during three days, abstain from meat, and sleep separate on the ground.
 </details>
 
 <details><summary>भारुचिः</summary>

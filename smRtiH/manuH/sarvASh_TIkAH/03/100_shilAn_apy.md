@@ -3,6 +3,11 @@ title = "100 शिलान् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa staying unhonoured (in one’s house) takes away all his merit, even though he be one who subsists by gathering harvest-droppings, or offers oblations into the five fires.—(100)
@@ -92,9 +97,4 @@ day after day, the Vedas and the subsidiaries, if he honours not his guest, all 
 <details><summary>गोविन्दराजः</summary>
 
 **शिलान् अप्य् उञ्छतो नित्यम्** इति । अतिदौर्गत्या वृत्तिसंयमातिशयार्थितया शिलान् क्षेत्रफलदोषान् अप्य् उच्चिन्वतः सभ्यावसथ्याभ्यां सह त्रेतया पञ्चस्व् अप्य् अग्निषु होमं वा कुर्वाणस्य सर्ववृत्तिसङ्कोचाग्निहोमार्जितं पुण्यं अनर्चितो ऽतिथिर् वसन् स्वीकरोति । अदानदोषकथनेन नियमान् आह सभ्यो नामाग्निः महासाधन इति । सीताद्यपनुत्त्यर्थं यस् तत्र तत्र विहीयते ॥ ३.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.
 </details>

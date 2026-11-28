@@ -3,6 +3,11 @@ title = "101 यथा जात-बलो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	As a fire that has gained strength consumes even trees full of sap, even so he who knows the Veda burns out the taint of his soul which arises from (evil) acts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as fire, having gained strength, burns even green trees, even so does the person knowing the Veda consume all the evil effects of his deeds.—(101)
@@ -38,9 +43,4 @@ trees, even so does the fire of the Veda destroy one’s guilt caused by one's d
 <details><summary>भारुचिः</summary>
 
 एतस्मात् कारणात्,
-</details>
-
-<details><summary>Bühler</summary>
-
-101	As a fire that has gained strength consumes even trees full of sap, even so he who knows the Veda burns out the taint of his soul which arises from (evil) acts.
 </details>

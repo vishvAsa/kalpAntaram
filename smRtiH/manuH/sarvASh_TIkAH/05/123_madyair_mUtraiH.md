@@ -3,6 +3,11 @@ title = "123 मद्यैर् मूत्रैः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	An earthen vessel which has been defiled by spirituous liquor, urine, ordure, saliva, pus or blood cannot be purified by another burning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An earthen vessel which has been defiled by spirituous liquor, urine, ordure, saliva, pus or blood cannot be purified by another burning.—(122) (1).
@@ -46,9 +51,4 @@ away.’
 <details><summary>कुल्लूकः</summary>
 
 मद्यादिभिस्तु संस्पृष्टं मृन्मयपोत्रं पुनःपाकेनापि न शुद्ध्यति । ष्टीवनं श्लेष्मा । पूयं शोणितविकारः ॥१२३॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	An earthen vessel which has been defiled by spirituous liquor, urine, ordure, saliva, pus or blood cannot be purified by another burning.
 </details>

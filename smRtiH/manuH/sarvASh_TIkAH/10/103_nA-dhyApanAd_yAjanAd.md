@@ -3,6 +3,11 @@ title = "103 नाऽध्यापनाद् याजनाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+103	By teaching, by sacrificing for, and by accepting gifts from despicable (men) Brahmanas (in distress) commit not sin; for they (are as pure) as fire and water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No sin attaches to Brāhmaṇas, either by teaching or by sacrificing for others or by receiving reprehensible gifts; for they are like fire and water.—(103)
@@ -77,9 +82,4 @@ See Comparative notes for [Verse 10.101].
 <details><summary>भारुचिः</summary>
 
 अत्राध्यापनयाजनयोर् गर्हितयोर् नानुज्ञानम् । असत्प्रतिग्रहस्तुत्यर्थत्वात् तयोर् ग्रहणस्य । स चाधिकृत एव "सर्वतः प्रतिगृह्णीयात्" इति । न त्व् असदध्यापनयाजने ऽधिकृते । तथा च सति पूर्ववद् अयम् अप्य् अर्थवादो व्याख्यातः ॥ १०.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	By teaching, by sacrificing for, and by accepting gifts from despicable (men) Brahmanas (in distress) commit not sin; for they (are as pure) as fire and water.
 </details>

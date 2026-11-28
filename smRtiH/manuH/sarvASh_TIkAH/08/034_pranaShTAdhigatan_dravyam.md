@@ -3,6 +3,11 @@ title = "034 प्रनष्टाधिगतन् द्रव्यम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	Property lost and afterwards found (by the king's servants) shall remain in the keeping of (special) officials; those whom the king may convict of stealing it, he shall cause to be slain by an elephant.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the property that has been lost and found, the king, remembering the duty of good men, shall take the sixth part, or the tenth, or the twelfth.—(34)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.33].
 <details><summary>भारुचिः</summary>
 
 अस्वामिकत्वाद् अस्य प्रयत्नेन रक्षणार्थम् इदम् उच्यते । युक्तानां च रक्षिणां हस्तिवधो दृष्टप्रयोजनः ॥ ८.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	Property lost and afterwards found (by the king's servants) shall remain in the keeping of (special) officials; those whom the king may convict of stealing it, he shall cause to be slain by an elephant.
 </details>

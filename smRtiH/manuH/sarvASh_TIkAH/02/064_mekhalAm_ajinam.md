@@ -2,6 +2,11 @@
 title = "064 मेखलाम् अजिनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the girdle, the skin, the staff, the sacred thread or the water-pot becomes damaged, he should throw it into the water and take up another with the proper formulas.—(64)
@@ -79,11 +84,6 @@ broken, the Brāhmaṇa should bathe and then wear a new one.’
 <details><summary>गोविन्दराजः</summary>
 
 **मेखलाम्** इति । **विनष्टानि** मेखलादीनि **अप्सु** प्रक्षिप्य्**आन्यानि **समन्त्रकाणि गृह्णीयात् तानि । तथा च बौधायनेन सर्वेषां मन्त्र आम्नातः मेखलादिभिश् च शास्त्रवद्ग्रहणैः सह प्रतिपत्तिनियमात् “गृह्णीतान्यानि मन्त्रवत्” इति च कमण्डलोर् अप्य् उक्तत्वात् कमण्डलोर् अप्य् उदकार्थं शास्त्रवद्ग्रहणम् इत्य् अवसीयते । पुनर्ग्रहणाच् चोपनयनोत्तरकालम् अप्य् एषाम् अनुवृत्तिर् अनुमीयते नोपनयनगतैव ॥ २.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.
 </details>
 
 <details><summary>भारुचिः</summary>

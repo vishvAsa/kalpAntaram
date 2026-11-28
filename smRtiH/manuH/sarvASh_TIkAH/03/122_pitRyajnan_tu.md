@@ -2,6 +2,11 @@
 title = "122 पितृयज्ञन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Month after Month, on the moonless day, the Brāhmaṇa with the Fire shall, after having performed the Pitṛyajña, offer the “Piṇḍānvāhāryaka.”—(122)
@@ -102,11 +107,6 @@ shall offer Śrāddha every day—be he with Fire or without Fire; also every mo
 <details><summary>गोविन्दराजः</summary>
 
 **पितृयज्ञम्** इति । आहिताग्निर् अमावास्यायां श्रौतं पिण्डयज्ञाख्यं कर्म कृत्वा, “औपसदाग्निर् अपि एवम् अनाहिताग्निर् नित्ये श्रपयित्वा” इति सूत्रवचनात् सूत्रोक्तं तद् एव कृत्वा मासि भवं पिण्डपितृयज्ञाङ्गभूतानां पिण्डानाम् अनु पश्चात् आह्रियत इति **पिण्डान्वाहार्यकं श्राद्धं कुर्यात्** । विप्रग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.
 </details>
 
 <details><summary>भारुचिः</summary>

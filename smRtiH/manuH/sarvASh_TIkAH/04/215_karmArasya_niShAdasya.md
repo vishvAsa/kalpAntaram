@@ -3,6 +3,11 @@ title = "215 कर्मारस्य निषादस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Nor or the blacksmith, of the Niṣāda, of the stage-player, of the goldsmith, of the plater of musical instruments, or of the dealer in weapons,—(215).’
@@ -60,9 +65,4 @@ the maleless woman;—of multitudes, of villages, of the accused and of those wh
 <details><summary>गोविन्दराजः</summary>
 
 **कर्मारस्येति** । **कर्मारस्य **निषादवेणयोश् च दशमाध्यायवक्ष्यमाणयोः नटगायनव्यतिरिक्तस्यापि च **रङ्गावतरणजीविनः **सुवर्णकारशस्त्रविक्रयिणोश् चान्नं नाश्नीयात् ॥ ४.२१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,
 </details>

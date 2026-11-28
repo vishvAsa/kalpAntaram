@@ -3,6 +3,11 @@ title = "309 परिपूर्णं यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+309	He is a king, taking upon himself the office of the Moon, whose (appearance) his subjects (greet with as great joy) as men feel on seeing the full moon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The people rejoice at seeing the full moon; the king at whose appearance the people rejoice in that manner is a king who fulfills the functions of the moon.—(309)
@@ -45,9 +50,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19).
 <details><summary>कुल्लूकः</summary>
 
 यथा पूर्णेन्दुदर्शनेन मनुष्या हर्षमुत्पादयन्त्येवमनात्यादयो यस्मिन्दृष्टेतुष्टिमुपगच्छन्ति स चन्द्राचारचारी नरेन्द्रः॥ ३०९॥
-</details>
-
-<details><summary>Bühler</summary>
-
-309	He is a king, taking upon himself the office of the Moon, whose (appearance) his subjects (greet with as great joy) as men feel on seeing the full moon.
 </details>

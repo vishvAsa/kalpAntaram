@@ -2,6 +2,11 @@
 title = "029 आसनाशन-शय्याभिर् अद्भिर्"
 +++
 
+<details><summary>Bühler</summary>
+
+029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No guest shall dwell in his house without being honoured, to the best of his ability, with seat, food, bed, or with water, fruits and roots.—(29).
@@ -58,11 +63,6 @@ himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should re
 <details><summary>गोविन्दराजः</summary>
 
 **आसनाशनशय्याभिर्** इति । आसनादनादिभिर् यथाशक्ति अतिथिं पूजयेत् इत्य् उक्त्वा अतिथ्यनुवादो महायज्ञप्रसङ्गेन वक्ष्यमाणः पाखण्ड्यादिनिषेधार्थः ॥ ४.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
 </details>
 
 <details><summary>भारुचिः</summary>

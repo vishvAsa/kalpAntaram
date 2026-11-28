@@ -2,6 +2,11 @@
 title = "075 स्वाध्याये नित्ययुक्तः"
 +++
 
+<details><summary>Bühler</summary>
+
+075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should be constantly engaged in Vedic Study, as also in acts in honour of the gods; one who is engaged in acts in honour of the gods upholds the world, moveable as well as immoveable.—(75)
@@ -40,11 +45,6 @@ towards the east or the north............ one should study the Veda.’
 <details><summary>गोविन्दराजः</summary>
 
 “स्वाध्याये नित्ययुक्तः स्यात् दैवे पित्र्ये च कर्मणि । उभयत्रापि युक्तो हि” (३.७५) इति । ब्रह्मयज्ञदेवयज्ञानुष्ठाने नित्यं यत्नवान् स्यात् । तस्माद् एवं यज्ञानुष्ठानपर इदं स्थावरजङ्गमरूपं जगत् धारयति ॥ ३.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
 </details>
 
 <details><summary>भारुचिः</summary>

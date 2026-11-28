@@ -3,6 +3,11 @@ title = "157 समुद्रयानकुशला देश-काला�
 
 +++
 
+<details><summary>Bühler</summary>
+
+157	Whatever rate men fix, who are expert in sea-voyages and able to calculate (the profit) according to the place, the time, and the objects (carried), that (has legal force) in such cases with respect to the payment (to be made).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As regards the exact amount to be paid, the interest shall be that which is fixed by persons expert in sea-voyages, and those capable of calculating the profits in connection with a particular place and time.—(157)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 8.156].
 <details><summary>भारुचिः</summary>
 
 तत्र ते वणिजो यां वृद्धिं स्थापयेयुः, सा प्रतीयेत, ये हि तत्र क्षयव्ययाध्वलाभद्रव्यसारज्ञाः । ऋणसंबन्धेन, अयम् अपरः प्रतिभुवो धर्मः शिष्यते ॥ ८.१५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	Whatever rate men fix, who are expert in sea-voyages and able to calculate (the profit) according to the place, the time, and the objects (carried), that (has legal force) in such cases with respect to the payment (to be made).
 </details>

@@ -2,6 +2,11 @@
 title = "236 तेषाम् अनुपरोधेन"
 +++
 
+<details><summary>Bühler</summary>
+
+236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should communicate to them by thought, word or deed whatever he may do without injury to them, for the sake of the next life.—(236)
@@ -64,11 +69,6 @@ anything until permitted by them.’
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । तच्छुश्रूषाविरोधेन परलोकार्थं यागार्थं **यद् यद् आचरेत् तत् तद्** एषां तत्फलं स्याद् इत्य् एवं मनोवाक्कायव्यापारेण **तेभ्यो** दद्यात् ॥ २.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
 </details>
 
 <details><summary>भारुचिः</summary>

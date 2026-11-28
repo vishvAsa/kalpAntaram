@@ -3,6 +3,11 @@ title = "222 महाव्याहृतिभिर् होमः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+223	Burnt oblations, accompanied by (the recitation of) the Mahavyahritis, must daily be made (by the penitent) himself, and he must abstain from injuring (sentient creatures), speak the truth, and keep himself free from anger and from dishonesty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Homa-offerings shall be made by the man himself everyday, with the ‘Mahāvyāhṛtis,’ and he should practise harmlessness, truthfulness, freedom from anger, and mercy.—(222)
@@ -67,9 +72,4 @@ clothes and speaking the truth, he shall enter the fire-house... Heaping fuel on
 <details><summary>गोविन्दराजः</summary>
 
 **महाव्याहृतिभिर्** इति । महाव्याहृतिभिर् भूर् भुवः स्वर् इत्य् एताभिः “आज्ये हविर् अनादेश” इति सूत्रकारवचनात् आज्येन स्वयं प्रत्यहं होमं कुर्यात् । अहिंसा सत्यम् अक्रोधाकौटिल्यानि पुरुषार्थयोक्तान्य् अपि व्रताङ्गतयानुतिष्ठेत् ॥ ११.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	Burnt oblations, accompanied by (the recitation of) the Mahavyahritis, must daily be made (by the penitent) himself, and he must abstain from injuring (sentient creatures), speak the truth, and keep himself free from anger and from dishonesty.
 </details>

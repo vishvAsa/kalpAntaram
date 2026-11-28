@@ -3,6 +3,11 @@ title = "024 एताश् चाऽन्याश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	These and other females of low birth have attained eminence in this world by the respective good qualities of their husbands.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These as well as other women, of low birth, have attained eminence in the world, through the good qualities of their respective husbands.—(24).
@@ -40,9 +45,4 @@ This verse is quoted in *Vivādaratnākara* (p. 416).
 <details><summary>भारुचिः</summary>
 
 अतश् चात्मसंयमे यत्नः कर्तव्यः, स्त्रीरक्षणार्थतः तस्येति ॥ ९.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	These and other females of low birth have attained eminence in this world by the respective good qualities of their husbands.
 </details>

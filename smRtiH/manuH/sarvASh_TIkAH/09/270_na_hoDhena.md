@@ -3,6 +3,11 @@ title = "270 न होढेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+270	A just king shall not cause a thief to be put to death, (unless taken) with the stolen goods (in his possession); him who (is taken) with the stolen goods and the implements (of burglary), he may, without hesitation, cause to be slain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The righteous king shall not put a thief to death unless caught with the stolen goods; when however one is caught with the stolen goods, and the implements of burglary, he may, without hesitation, put him to death.—(270)
@@ -38,9 +43,4 @@ seized, the King should examine, when they have been arrested on suspicion; thei
 <details><summary>भारुचिः</summary>
 
 होढो [लोप्त्रम् । सह] तेन ग्रस्तः स्यात्, नान्यथा । यदि तावल् लोप्त्रं दर्शनविचार्यमानं प्रमाणतः शुद्धं भवति । एवम् उपकरणं विवरसाधनादि विज्ञेयम् ॥ ९.२७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-270	A just king shall not cause a thief to be put to death, (unless taken) with the stolen goods (in his possession); him who (is taken) with the stolen goods and the implements (of burglary), he may, without hesitation, cause to be slain.
 </details>

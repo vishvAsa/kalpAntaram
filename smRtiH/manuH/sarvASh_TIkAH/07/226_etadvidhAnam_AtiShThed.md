@@ -3,6 +3,11 @@ title = "226 एतद्विधानम् आतिष्ठेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+226	A king who is in good health must observe these rules; but, if he is indisposed, he may entrust all this (business) to his servants.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king, who is free from diseases, shall act up to this ordinance; but when indisposed, he shall entrust all this to his servants.—(226)
@@ -54,9 +59,4 @@ This verse is quoted in *Mitākṣarā* (on 1.330);—and in *Vīramitrodaya* (R
 **इति ऋजुविमलस्य कृतौ मनुशास्त्रविवरणे**
 
 **सप्तमो ऽध्यायः ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-226	A king who is in good health must observe these rules; but, if he is indisposed, he may entrust all this (business) to his servants.
 </details>

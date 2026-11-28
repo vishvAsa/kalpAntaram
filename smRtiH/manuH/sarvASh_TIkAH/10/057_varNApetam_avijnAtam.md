@@ -3,6 +3,11 @@ title = "057 वर्णापेतम् अविज्ञातम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	A man of impure origin, who belongs not to any caste, (varna, but whose character is) not known, who, (though) not an Aryan, has the appearance of an Aryan, one may discover by his acts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man of impure origin, who is devoid of caste, unknown, a non-Aryan, even though having the appearance of an Aryan,—one shall discover by his acts.—(57)
@@ -54,9 +59,4 @@ from his deeds (then the same as Manu 58 and 59).’
 <details><summary>भारुचिः</summary>
 
 **वर्णेभ्यो** ब्राह्मणादिभ्यो [**ऽपेतम्** अ]नार्यं **कर्मभिः स्वैः कलुषयोन्य्**अनुरूपैर् इत्य् अर्थः । कानि पुनस् तानि । यत इदम् उच्यते ॥ १०.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	A man of impure origin, who belongs not to any caste, (varna, but whose character is) not known, who, (though) not an Aryan, has the appearance of an Aryan, one may discover by his acts.
 </details>

@@ -3,6 +3,11 @@ title = "032 स्ववीर्याद् राजवीर्याच्
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	His own power is greater than the power of the king; the Brahmana therefore, may punish his foes by his own power alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His own power is more forcible than the King’s power; the twice-born man shall, therefore, punish his enemies by his own power.—(32)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 11.31].
 <details><summary>भारुचिः</summary>
 
 केन पुनर् उपायेन । यतस् तद् आह ॥ ११.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	His own power is greater than the power of the king; the Brahmana therefore, may punish his foes by his own power alone.
 </details>

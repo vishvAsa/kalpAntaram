@@ -3,6 +3,11 @@ title = "049 अध्यात्म-रतिर् आसीनो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+049	Delighting in what refers to the Soul, sitting (in the postures prescribed by the Yoga), independent (of external help), entirely abstaining from sensual enjoyments, with himself for his only companion, he shall live in this world, desiring the bliss (of final liberation).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Centered in spirituality, disinterested, free from longings, with himself as his sole companion, he shall wander forth in the world, seeking bliss.—(49).
@@ -49,9 +54,4 @@ who constantly dwells in the forest, who has subdued his organs of sensation and
 <details><summary>गोविन्दराजः</summary>
 
 **अध्यात्मरतिर्** इति । उपनिषदाद्यध्यात्मवृत्तिः सन् दण्डकमण्डल्वादिष्व् अपगताविशेषापेक्षो निःस्पृहो असहायः सण् सुखान्य् अस्मिन् संसारे विचरन् ॥ ६.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	Delighting in what refers to the Soul, sitting (in the postures prescribed by the Yoga), independent (of external help), entirely abstaining from sensual enjoyments, with himself for his only companion, he shall live in this world, desiring the bliss (of final liberation).
 </details>

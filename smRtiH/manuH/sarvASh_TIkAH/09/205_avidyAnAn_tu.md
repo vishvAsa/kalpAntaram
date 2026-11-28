@@ -3,6 +3,11 @@ title = "205 अविद्यानान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+205	But if all of them, being unlearned, acquire property by their labour, the division of that shall be equal, (as it is) not property acquired by the father; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if all of them are unlearned, and the property is acquired by their labour,—the division in that case shall be equal, the property being not ancestral. such is the settled rule.—(205)
@@ -65,9 +70,4 @@ See Comparative notes for [Verse 9.204].
 <details><summary>भारुचिः</summary>
 
 ईहातः चेष्टातः कृष्यादित इत्य् अर्थः । सर्वे चेच् चेष्टन्ते समस् तत्र विभागः स्यात्, न तु गुणापेक्षः कश्चिद् विभागकल्प आश्रयितव्यः ॥ ९.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	But if all of them, being unlearned, acquire property by their labour, the division of that shall be equal, (as it is) not property acquired by the father; that is a settled rule.
 </details>

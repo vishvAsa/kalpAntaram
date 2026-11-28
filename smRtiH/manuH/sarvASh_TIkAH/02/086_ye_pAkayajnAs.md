@@ -2,6 +2,11 @@
 title = "086 ये पाकयज्ञास्"
 +++
 
+<details><summary>Bühler</summary>
+
+086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The four cooked offerings, along with the enjoined sacrifices,—all these are not worth the sixteenth part of the offering that consists in the repeating of mantras.—(86)
@@ -68,11 +73,6 @@ Manu\].
 <details><summary>गोविन्दराजः</summary>
 
 **ये पाकयज्ञा**दयश् **चत्वारो **ज्योतिष्टोमादि**विधियज्ञसहिताः ते सर्वे जपयज्ञस्य **षडशभागं मूल्यार्थं न लभन्ते इति श्रौतस्मार्तकर्मनिन्दया इदं आत्मज्ञानवान् (-वतां) प्रकृष्टफलदर्शनेन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
 </details>
 
 <details><summary>भारुचिः</summary>

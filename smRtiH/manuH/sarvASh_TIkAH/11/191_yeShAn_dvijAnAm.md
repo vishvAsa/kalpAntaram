@@ -3,6 +3,11 @@ title = "191 येषान् द्विजानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+192	Those twice-born men who may not have been taught the Savitri (at the time) prescribed by the rule, he shall cause to perform three Krikkhra (penances) and afterwards initiate them in accordance with the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Though twice-born men to whom the Sāvitrī has not been taught according to rule, should be made to perform three Kṛcchra penances and then initiated in due form.—(191)
@@ -69,9 +74,4 @@ the *Uddālaka* penance. Let him subsist, during two months, on barley-gruel, du
 <details><summary>भारुचिः</summary>
 
 त्रयः कृच्छ्राः, आद्यत्वात् प्राजापत्याः । कृच्छ्रातिकृच्छ्रपराका इत्य् अपरे ॥ ११.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	Those twice-born men who may not have been taught the Savitri (at the time) prescribed by the rule, he shall cause to perform three Krikkhra (penances) and afterwards initiate them in accordance with the law.
 </details>

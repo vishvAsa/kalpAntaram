@@ -2,6 +2,11 @@
 title = "218 यथा खनन्"
 +++
 
+<details><summary>Bühler</summary>
+
+218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as a man digging with the spade obtains water,—even so one who is eager to serve acquires the learning that is in the Teacher.—(218)
@@ -59,11 +64,6 @@ service of the Teacher, or by much wealth, or by knowledge (in exchange); there 
 <details><summary>गोविन्दराजः</summary>
 
 युक्तम् एतत् पुत्रदारादिपर्यन्तं गुरुपरिचरणं यस्मात् **यथेति** । यथा कुद्दालादिना **खनित्रेण** महता यत्नेन **खनन् नरः** पातालगतम् उदकं प्राप्नोति एवम् आचार्यस्थां **विद्यां **परिचरणशीलः प्राप्नोति न त्व् आलस्यात् ॥ २.२१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "097 नश्यन्ति हव्य-कव्यानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Rites in honour of the gods and those in honour of the Pitṛs performed by ignorant men become lost, when they are presented by the givers, through folly, to ash-like Brāhmaṇas.—(97)
@@ -70,9 +75,4 @@ man learned in the Veda, he becomes freed from heinous sins, and attains union w
 <details><summary>गोविन्दराजः</summary>
 
 **नश्यन्तीति** । यानि पितृदैवोद्देशेन अन्नानि **मोहात्** दानशास्त्रानभिज्ञतया **दातृभिः** अध्ययनविधियज्ञानुष्ठानतेजःशून्यत्वात् **भस्म**रूपेषु **विप्रेषु** **दत्तानि** तानि तेषां दानशास्त्रानभिज्ञानां मनुष्याणां निष्फलीभवन्ति ॥ ३.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.
 </details>

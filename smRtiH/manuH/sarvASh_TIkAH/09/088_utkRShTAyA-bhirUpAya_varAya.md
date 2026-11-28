@@ -3,6 +3,11 @@ title = "088 उत्कृष्टायाऽभिरूपाय वरा
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	To a distinguished, handsome suitor (of) equal (caste) should (a father) give his daughter in accordance with the prescribed rule, though she have not attained (the proper age).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall give his daughter in the proper form, even though she may not have attained (the age), to a bridegroom who is of exceptionally distinguished appearance, and her equal.—(88)
@@ -91,9 +96,4 @@ seeking for a wife and is endowed with good family and character, handsome, lear
 <details><summary>भारुचिः</summary>
 
 आत्मनो विद्यादिभिर् उत्कृष्टकारणैर् **उत्कृष्टायाभिरूपाय वराय** तदभावे **सदृशाय वा** । ऋज्व् अन्यत् । "उत्तमैर् उत्तमैर् नित्यं संबन्धान् आचरेत्" इत्य् अत्रोक्तम् अप्य् एतत् सदृशदानार्थं पुनर् आरभ्यते । एवं च गुणहीने ददतः प्रत्यवायः । तथा चेदम् अनूद्यते ॥ ९.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	To a distinguished, handsome suitor (of) equal (caste) should (a father) give his daughter in accordance with the prescribed rule, though she have not attained (the proper age).
 </details>

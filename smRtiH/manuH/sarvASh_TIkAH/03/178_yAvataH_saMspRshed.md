@@ -2,6 +2,11 @@
 title = "168 यावतः संस्पृशेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+178	The giver (of a Sraddha) loses the reward, due for such a non-sacrificial gift, for as many Brahmanas as a (guest) who sacrifices for Sudras may touch (during the meal) with his limbs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many Brāhmaṇas the officiator at the sacrifices performed by Śūdras may happen to touch with his limbs,—the reward relating to charity in connection with the gift to so many Brāhmaṇas fails to accrue to the giver.—(178)
@@ -54,11 +59,6 @@ heretic, the decrier of the Veda, the sophist, the sacrificer for the Śūdra, a
 <details><summary>गोविन्दराजः</summary>
 
 **यावतः संस्पृशतीति** । शूद्रस्य पाकयज्ञादेर् उपदेष्टा कर्ता च यत्सङ्ख्याकान् ब्राह्मणान् **अङ्गैः स्पृशति **आसनेषूपकॢप्तेषु बर्हिष्मत्सु पृथग् इति स्पर्शनिषेधात् यावतां पङ्क्ताव् उपविशति तत्सङ्ख्याकानां सम्बन्धि **भोजनफलं** न भवतीति । शूद्रयाजकभोजनफलम् । अत एव चाग्रनिषिद्धगणपठितस्यापि निषेधो बोद्धव्यः ॥ ३.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	The giver (of a Sraddha) loses the reward, due for such a non-sacrificial gift, for as many Brahmanas as a (guest) who sacrifices for Sudras may touch (during the meal) with his limbs.
 </details>
 
 <details><summary>भारुचिः</summary>

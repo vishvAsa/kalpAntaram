@@ -3,6 +3,11 @@ title = "030 ऋषिभिर् ब्राह्मणैश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	(As well as those rites and texts) which have been practised and studied by the sages (Rishis), and by Brahmana householders, in order to increase their knowledge (of Brahman), and their austerity, and in order to sanctify their bodies;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such of these as have been attended to by sages and Brāhmaṇa householders, for the advancement of knowledge and austerities, and also for the purification of the body—(30).
@@ -50,11 +55,6 @@ This verse is quoted in *Aparārka* (p. 943).
 </details>
 
 <details><summary>भारुचिः</summary>
-
-030	(As well as those rites and texts) which have been practised and studied by the sages (Rishis), and by Brahmana householders, in order to increase their knowledge (of Brahman), and their austerity, and in order to sanctify their bodies;
-</details>
-
-<details><summary>Bühler</summary>
 
 030	(As well as those rites and texts) which have been practised and studied by the sages (Rishis), and by Brahmana householders, in order to increase their knowledge (of Brahman), and their austerity, and in order to sanctify their bodies;
 </details>

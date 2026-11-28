@@ -3,6 +3,11 @@ title = "068 संरक्षणार्थञ् जन्तूनाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	In order to preserve living creatures, let him always by day and by night, even with pain to his body, walk, carefully scanning the ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to the safety of living beings, he shall always, during day and night, even during bodily illness, walk after having scanned the ground.—(68)
@@ -46,9 +51,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 570.)
 <details><summary>भारुचिः</summary>
 
 अप्रत्ययाद् धर्मोत्पत्तिर् एव यत्नवतो ऽपि, यस्माद् **समीक्ष्य वसुधां चरेद्** इति । तस्य च प्रायश्चित्तम् अप्रकरणे ऽप्य् आदरार्थम् ॥ ६.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	In order to preserve living creatures, let him always by day and by night, even with pain to his body, walk, carefully scanning the ground.
 </details>

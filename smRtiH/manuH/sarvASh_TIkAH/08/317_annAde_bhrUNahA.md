@@ -3,6 +3,11 @@ title = "317 अन्नादे भ्रूणहा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+317	The killer of a learned Brahmana throws his guilt on him who eats his food, an adulterous wife on her (negligent) husband, a (sinning) pupil or sacrificer on (their negligent) teacher (or priest), a thief on the king (who pardons him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Embryo-killer expurgates his guilt on him who eats his food, the misbehaving wife on her husband, the disciple and the sacrificer on the preceptor, and the thief on the king.—(317)
@@ -93,9 +98,4 @@ Brāhmaṇa learned in the Veda heaps his guilt on his guest; an innocent man on
 <details><summary>भारुचिः</summary>
 
 अन्नम् अत्तीत्य् **अन्नादः** । तस्मिन् **अन्नादे भ्रूणहा किल्बिषं मार्ष्टि** । एवम् इतरे ऽपि योज्याः । अतः स्थितप्रज्ञेन राज्ञा निश्शङ्केन तदनिग्रहदोषम् आत्मनः परिहरता स्तेननिग्रहे यथाशास्त्रं वर्तितव्यम् आत्मपरानुग्रहार्थम् इति । यतः स्वयम् उपगतत्वाच् च कदाचिद् अयं भिन्नदृष्टिर् उपहतप्रतिज्ञानस् तन्निग्रहे न प्रवर्तेत ॥ ८.३१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-317	The killer of a learned Brahmana throws his guilt on him who eats his food, an adulterous wife on her (negligent) husband, a (sinning) pupil or sacrificer on (their negligent) teacher (or priest), a thief on the king (who pardons him).
 </details>

@@ -3,6 +3,11 @@ title = "012 यो वैश्यः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	That article (required) for the completion of the sacrifice, may be taken (forcibly) from the house of any Vaisya, who possesses a large number of cattle, (but) neither performs the (minor) sacrifices nor drinks the Soma-juice;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the reign of a righteous king, if the sacrificial rite of a sacrificer, specially of a Brāhmaṇa, be interrupted for want of one requisite,—that substance may be appropriated, for the completion of that sacrifice, from the house of a Vaiśya possessed of many cattle, who does not perform sacrifices and does not drink the Soma.—(11-12)
@@ -151,9 +156,4 @@ when engaged in a rite enjoined by the secred texts, one may take money from a �
 <details><summary>भारुचिः</summary>
 
 हीनक्रतुश् च बहुपशुः स्यात् । हीनकर्मा । अहीनक्रतुर् अपि यद्य् असोमपो भवति, ततः कुटुम्बात् तस्य तद् द्रव्यम् आहरेत् । तद् असंभवे च ॥ ११.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	That article (required) for the completion of the sacrifice, may be taken (forcibly) from the house of any Vaisya, who possesses a large number of cattle, (but) neither performs the (minor) sacrifices nor drinks the Soma-juice;
 </details>

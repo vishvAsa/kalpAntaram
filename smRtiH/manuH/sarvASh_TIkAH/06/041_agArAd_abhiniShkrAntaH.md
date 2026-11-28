@@ -3,6 +3,11 @@ title = "041 अगाराद् अभिनिष्क्रान्तः
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	Departing from his house fully provided with the means of purification (Pavitra), let him wander about absolutely silent, and caring nothing for enjoyments that may be offered (to him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having departed from his house, fully equipped with the sacred things, he shall go forth, silent and wholly indifferent towards pleasures that may be presented to him.—(41.)
@@ -66,9 +71,4 @@ desisting from activities, having no possessions, abandoning of attachment, alms
 <details><summary>भारुचिः</summary>
 
 अनेन श्लोकत्रयेण सर्वभूताभयप्रदानं प्रव्रजितस्य विधीयते । एकारामता चानेन ॥ ६.४०–४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Departing from his house fully provided with the means of purification (Pavitra), let him wander about absolutely silent, and caring nothing for enjoyments that may be offered (to him).
 </details>

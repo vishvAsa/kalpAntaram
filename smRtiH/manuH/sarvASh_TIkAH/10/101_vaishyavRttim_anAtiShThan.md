@@ -3,6 +3,11 @@ title = "101 वैश्यवृत्तिम् अनातिष्ठन
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	A Brahmana who is distressed through a want of means of subsistence and pines (with hunger), (but) unwilling to adopt a Vaisya's mode of life and resolved to follow his own (prescribed) path, may act in the following manner.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa, distressed through want of livelihood, pines, because resolved to stick to his own path, he does not adopt the occupation of the Vaiśya,—he shall adopt this (following) procedure.—(101)
@@ -73,9 +78,4 @@ money-lending, cart, hill, attendance, land covered with wood and water, king, a
 <details><summary>भारुचिः</summary>
 
 **स्वे पथि स्थित** इति च लिङ्गात् क्षत्रियवृत्तिम् अप्य् अनातिष्ठन्न् इति गम्यते । एवं च ब्राह्मणस्यासत्पर्तिग्रहः क्षत्रियादिवृत्तेर् अभावे वैकल्पिको गम्यते । न तु समुच्चयेन ॥ १०.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	A Brahmana who is distressed through a want of means of subsistence and pines (with hunger), (but) unwilling to adopt a Vaisya's mode of life and resolved to follow his own (prescribed) path, may act in the following manner.
 </details>

@@ -3,6 +3,11 @@ title = "136 एका लिङ्गे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+136	He who desires to be pure, must clean the organ by one (application of) earth, the anus by (applying earth) three (times), the (left) hand alone by (applying it) ten (times), and both (hands) by (applying it) seven (times).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who desires cleanliness should apply earth—once to the urinary organ, thrice to the anus, ten times to one hand and seven times to both hands.—(134).
@@ -103,9 +108,4 @@ both... Half of this serves to purify Śūdras and women. The purification at ni
 > तथैव वामहस्तेन नाभेर् ऊर्ध्वं न शोधयेत् ॥
 
 इति देवलदर्शनेन तेनैव शौचविधिना दश दातव्यास् तत्र उभयोर् हस्तयोः सप्त दातव्याः । यत् तूक्तसङ्ख्यया गन्धलेपक्षयो न भवति तदा “यावन् नापैत्य् अमेध्याक्ताद्” इति वचनात् उक्तसङ्ख्यानतिक्रमेणापि तत्क्षयपर्यन्तं शौचं कार्यम् अर्वाक् सङ्ख्यापूरणाल् लेपादिक्षये ऽपि सङ्ख्यावाक्यारम्भसामर्थात् सङ्ख्या पूरयितव्यैव ॥ ५.१३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-136	He who desires to be pure, must clean the organ by one (application of) earth, the anus by (applying earth) three (times), the (left) hand alone by (applying it) ten (times), and both (hands) by (applying it) seven (times).
 </details>

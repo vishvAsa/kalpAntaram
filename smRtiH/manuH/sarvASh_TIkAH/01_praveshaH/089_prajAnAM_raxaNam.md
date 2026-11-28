@@ -3,6 +3,11 @@ title = "089 प्रजानां रक्षणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Kṣatriya he ordained protecting of the people, giving of gifts, sacrificing and studying, as also abstaining prom being addicted to the objects of sense. (89).
@@ -33,9 +38,4 @@ This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads �
 <details><summary>गोविन्दराजः</summary>
 
 **प्रजानाम्** इति । **इज्या** यागः । **विषयेषु **स्त्र्यादिगतरूपादिषु । अत्यन्तम् एव परिहारः । **समासतः **सङ्क्षेपेण ॥ १.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;
 </details>

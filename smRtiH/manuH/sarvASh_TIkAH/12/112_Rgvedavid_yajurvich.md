@@ -3,6 +3,11 @@ title = "112 ऋग्वेदविद् यजुर्विच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	One who knows the Rig-veda, one who knows the Yagur-veda, and one who knows the Sama-veda, shall be known (to form) an assembly consisting of at least three members (and competent) to decide doubtful points of law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A person knowing the Ṛgveda, a person knowing the Yajurveda, and a person knowing the Sāmaveda, shall be understood to form the assembly of at least three members, competent to decide doubtful points of law.—(112)
@@ -49,9 +54,4 @@ or learned in the three Vedas, constitute the *Pariṣad*, Assembly; whatever th
 <details><summary>भारुचिः</summary>
 
 चतुर्दशविद्यास्थानपारगा एवैते पूर्वोक्ताः शिष्टलक्षणप्राप्तास् त्रित्वेनोच्यन्ते । अथ वा तल्लक्षणयुक्तः ॥ १२.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	One who knows the Rig-veda, one who knows the Yagur-veda, and one who knows the Sama-veda, shall be known (to form) an assembly consisting of at least three members (and competent) to decide doubtful points of law.
 </details>

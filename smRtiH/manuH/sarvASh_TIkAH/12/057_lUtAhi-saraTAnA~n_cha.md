@@ -3,6 +3,11 @@ title = "057 लूताहि-सरटानाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	A Brahmana who steals (the gold of a Brahmana shall pass) a thousand times (through the bodies) of spiders, snakes and lizards, of aquatic animals and of destructive Pisakas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who steals gold shall (enter) a thousand times into the womb of the spider, the snake, the lizard, of aquatic animals or of carnivorous Piśācas.—(57)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **लूताहिसरटानाम्** इति । वृश्चिकसर्पकृकलासानां जलचारिणां चेति तिरश्चां मकरादीनां हिंसनशीलानां च पिशाचानां सम्बन्धिनीं ब्राह्मणसुवर्णापहारी ब्राह्मणः प्राप्नोति ॥ १२.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	A Brahmana who steals (the gold of a Brahmana shall pass) a thousand times (through the bodies) of spiders, snakes and lizards, of aquatic animals and of destructive Pisakas.
 </details>

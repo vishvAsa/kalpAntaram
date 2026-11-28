@@ -3,6 +3,11 @@ title = "166 स्वक्षेत्रे संस्कृतायाम
 
 +++
 
+<details><summary>Bühler</summary>
+
+166	Him whom a man begets on his own wedded wife, let him know to be a legitimate son of the body (Aurasa), the first in rank.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Him whom a man himself begets in his own sanctified ‘soil,’—one shall know as the ‘body-born’ (legitimate) son, (declared) to be the first in order.—(166)
@@ -180,9 +185,4 @@ lawfully wedded wife is the body-born son.’
 <details><summary>भारुचिः</summary>
 
 या यस्य स्वर्णा सा तस्य **क्षेत्रम्** । तस्याम् उत्पन्नः **प्राथमकल्पिक औरसो** ऽपि **विज्ञेयः** । क्षत्रियवैश्ययोस् तु जाता न संपूर्णलक्षणा औरसाः सुताः । अतस् तेषाम् [विभा]गो न्यायविरोधेन कल्पयितव्यः । अपरे तु क्षत्रियवैश्याव् एवाउरसौ क्षेत्रजादिभ्यो ज्यायांसौ मन्यन्ते ॥ ९.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	Him whom a man begets on his own wedded wife, let him know to be a legitimate son of the body (Aurasa), the first in rank.
 </details>

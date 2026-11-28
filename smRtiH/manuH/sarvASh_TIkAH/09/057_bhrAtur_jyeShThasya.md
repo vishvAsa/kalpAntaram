@@ -3,6 +3,11 @@ title = "057 भ्रातुर् ज्येष्ठस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	The wife of an elder brother is for his younger (brother) the wife of a Guru; but the wife of the younger is declared (to be) the daughter-in-law of the elder.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wife of the elder brother is, for the younger, a ‘wife of the preceptor’; and the wife of the younger brother has been declared to be a ‘daughter-in-law’ for the elder.—(57)
@@ -37,9 +42,4 @@ These two verses (57 and 58) describe the actual state of things, for the purpos
 <details><summary>भारुचिः</summary>
 
 एतस्यां च व्यवस्थायां सत्याम् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-057	The wife of an elder brother is for his younger (brother) the wife of a Guru; but the wife of the younger is declared (to be) the daughter-in-law of the elder.
 </details>

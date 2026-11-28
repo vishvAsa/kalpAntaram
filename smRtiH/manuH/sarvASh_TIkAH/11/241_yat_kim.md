@@ -3,6 +3,11 @@ title = "241 यत् किम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+242	Whatever sin men commit by thoughts, words, or deeds, that they speedily burn away by penance, if they keep penance as their only riches.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever sin people commit by thought, word or deed,—all that they speedily burn away, having Austerity as their sole wealth.—(241)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 यतश् च,
-</details>
-
-<details><summary>Bühler</summary>
-
-242	Whatever sin men commit by thoughts, words, or deeds, that they speedily burn away by penance, if they keep penance as their only riches.
 </details>

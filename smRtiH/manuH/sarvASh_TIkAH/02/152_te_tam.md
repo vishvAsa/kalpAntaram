@@ -2,6 +2,11 @@
 title = "152 ते तम्"
 +++
 
+<details><summary>Bühler</summary>
+
+152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They, having their anger aroused, questioned the gods about this matter; and the gods, having met together, said to them—“the child has addressed you in the lawful manner.”—(152)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 2.150].
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादः परः प्रकृतिरूपः **अध्यापयामासेति ।** **त** इति । **अज्ञ** इति **। अङ्गिरसः **पुत्रः **कविर्** नाम बालः सन् पितृपितृव्यादीन् अध्यापितवान् । तांश् च वेदादि**ज्ञानेन **हेतुभूतेन शिष्यत्वेन स्वीकृत्य कार्यार्थेन आह्वानादिकालेषु **पुत्रका** इत्य् उक्तवान् । ततस् ते पितरः तथाह्वानोत्पन्नक्रोधाः तम् अर्थं समागत्य पुत्रकशब्दाह्वानाख्यं किम् एतत् साधु इत्य् एवं देवान् पृष्टवन्तः । **देवाश् **चैतद्विचारार्थं समागत्य “युक्तं शिशुः युष्मान् उक्तवान्” इत्य् एवम् एतांस् तान् पितॄन् उक्तवन्तः । यतो ऽ**ज्ञो** मूर्खः स **बालो भवति **वृद्धो ऽपि सन् । यश् चाध्यापयिता स **बालो** ऽपि सन् पितृतुल्यो **भवति** । यतो ऽसमदन्ये **अज्ञं बालम् इत्य् आहुः** अध्यापयितारं च **पितेत्य्** एवं ब्रुवते ॥ २.१५१–५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	They, moved with resentment, asked the gods concerning that matter, and the gods, having assembled, answered, 'The child has addressed you properly.'
 </details>
 
 <details><summary>भारुचिः</summary>

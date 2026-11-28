@@ -3,6 +3,11 @@ title = "055 नाऽश्नीयात् सन्धिवेलाया
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At junction-time, he shall not eat, nor travel, nor sleep. He shall not scratch the ground; and he shall not remove his own garland.—(55).
@@ -53,9 +58,4 @@ The first quarter of this verse is quoted in *Mitākṣarā* (on 3.290).
 <details><summary>गोविन्दराजः</summary>
 
 **नाश्नीयाद् **इति । सन्ध्याकाले अशनगमनस्वापान् न कुर्यात्, **भूमिं **सर्वदा नखादिना **न लिखेत् **। मालां च शिरसः स्वयं नापनयेत् ॥ ४.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.
 </details>

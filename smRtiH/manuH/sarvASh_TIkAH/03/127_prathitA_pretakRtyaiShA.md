@@ -3,6 +3,11 @@ title = "127 प्रथिता प्रेतकृत्यैषा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	Famed is this rite for the dead, called (the sacrifice sacred to the manes (and performed) on the new-moon day; if a man is diligent in (performing) that, (the reward of) the rite for the dead, which is performed according to Smarta rules, reaches him constantly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rite named “Pitrya,” performed on the Moonless Day is known as beneficial to the dead. To him who is intent on performing it, there always accrues benefit after death, offered according to human ordinances.—(127)
@@ -68,9 +73,4 @@ with the help of Brāhmaṇas learned in the Veda, his Pitṛs become satisfied 
 <details><summary>गोविन्दराजः</summary>
 
 **प्रथितेति** । यो ऽयं पित्र्यो नाम विधिः पित्र्यं कर्म **एषा** **प्रेतकृत्या** प्रेतोपकारार्था क्रिया **क्षये** चन्द्रक्षये गृहे वा नाश्रमन्तरे, सर्वगृहिणां ख्याता । **तस्मिन् **कृत्ये पित्र्ये कर्मणि **युक्तस्य **तन्निष्ठस्य लौकिकी स्मार्ता **प्रेतक्रिया** इति प्रेत उपक्रियते गुणवत्पुत्रपौत्रप्रबन्धोपपत्त्या तस्माद् एतद् यत्नतः कार्यम् ॥ ३.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Famed is this rite for the dead, called (the sacrifice sacred to the manes (and performed) on the new-moon day; if a man is diligent in (performing) that, (the reward of) the rite for the dead, which is performed according to Smarta rules, reaches him constantly.
 </details>

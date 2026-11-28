@@ -2,6 +2,11 @@
 title = "045 ऋतुकालाभिगामी स्यात्"
 +++
 
+<details><summary>Bühler</summary>
+
+045	Let (the husband) approach his wife in due season, being constantly satisfied with her (alone); he may also, being intent on pleasing her, approach her with a desire for conjugal union (on any day) excepting the Parvans.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should observe the rule of approaching (one’s wife) during the period of her season,—ever attached to his own wife. In consideration of her he may approach her with a desire for sexual intercourse, except on the sacred days.—(45)
@@ -268,11 +273,6 @@ progeny female, excess of man’s seed makes the progeny male; therefore for inc
 > अपरे तु प्राप्तस्य पुनर्वचनं नियमम् आहुः यथा “सर्वत एवात्मानं गोपायेत्” इति । तत्र चान्यत्र च प्राप्तौ परिसङ्ख्या भवति । यथा पञ्च पञ्चनखा भक्ष्या इति । अस्त्य् अत्र शशादीनां (इतरेषां) च जिघांसाप्रयुक्तत्वात् युगपत् भक्षणप्राप्तिः । अतः परे न भक्ष्या इति परिसङ्ख्यायन्ते । यद्य् अपि स्वार्थहानिपरार्थकल्पनाप्राप्तबाधदोषाक्रान्तत्वं परिसङ्ख्यायाः तथापि वाक्यार्थानर्थक्यापत्तिर् उभयतः तथाश्रयणं वरम् इत्य् असाव् अप्य् आश्रीयते । स्वार्थहानिः विधिप्रतिपादकश्रवणे ऽपि विध्यर्थपरित्यागः । तत्र च आद्याप्रेतवाक्यप्रमेयभूतस्य प्रतिषेधकल्पना । पञ्च व्यतिरिक्तपञ्चनखानां जिघांसाप्रयुक्तस्य भक्षणबाधनम् इति प्राप्तबाधः ।
 
 > एवं चेह ऋताव् अनृतौ चार्हित्वात् प्राप्तौ सत्यां अनृतौ न गच्छेद् इत्य् एवं यद्य् अपि परिसङ्ख्या तु (न) मापद्यते (न) नियमरूपता पाक्षिक्त्वाभावात् तथाप्य् अगमने दोषश्रवणात् नियमार्थतैव न्याय्या । स्वदारसन्तुष्टश् च नित्यं स्यात् न स्त्र्यन्तरम् उपागच्छेद् इति ऋतौ उपगच्छेद् इति भार्यागमनप्राप्ता च भार्यागमनपरिसङ्ख्यैषा अमावास्यादिपर्ववर्जम् ऋताव् अपि भायां तत्संरक्षणवतः सन्ततिकाम्यया विनाप्य् अपत्योत्पत्तिं तत्सुरतसम्भोगेच्छया नियमत उपेयात् । यत् तु “अमावास्याम् अष्टमीं च” (४.१२८) इत्यादि वक्ष्यति तत् “ऋतुकालाभिगामी स्याद्” इत्य् अनेनार्तौ पर्वस्व् अपि गमनप्राप्तौ निषेधार्थम् । “तथा चानृतौ” इति तत्र च वक्ष्यति ॥ ३.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	Let (the husband) approach his wife in due season, being constantly satisfied with her (alone); he may also, being intent on pleasing her, approach her with a desire for conjugal union (on any day) excepting the Parvans.
 </details>
 
 <details><summary>भारुचिः</summary>

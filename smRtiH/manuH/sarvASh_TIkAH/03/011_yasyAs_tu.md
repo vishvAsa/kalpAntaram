@@ -2,6 +2,11 @@
 title = "011 यस्यास् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man shall not mabry one who has no brother, or whose father is not known; for fear of her having the character of the “appointed daughter.”—(11)
@@ -98,11 +103,6 @@ who has her father, mother and brother and is endowed with all suitable qualitie
 > अत्र च प्रकरणे येषां विधिनिषेधानां दृष्टगुणदोषानुषङ्गो नास्ति यथा “असपिण्डा च या मातुः” इति तदतिक्रमे भार्या न भवति, भार्याशब्दस्याहवनीयादिवत् संस्कारशब्दत्वात् । येषां पुनः दृष्टगुणदोषदर्शनेन विधिनिषेधाभिधानं यथा हीनक्रियम् इति न भवति, तदतिक्रमे भार्यात्वाभावः केवलनियमातिक्रमात् प्रायश्चित्तमात्रं भवति ।
 
 > यच् चैतत् “नर्क्षवृक्षनदीनाम्नीम्” (म्ध् ३.९) इत्यादि तद् अपि दृष्टगुणदोशानुविधायि विधिनिषेधप्रकरणमध्यपाठात् तदेकयोगक्षेमम् एव । तथा च मनुना सपिण्डादिप्रतिषेधम् अभिधायानन्तरं “महान्त्य् अपि समृद्धानि” (म्ध् ३.६) इत्यादिपृथक्करणम् उपक्रम्य हीनक्रियम् इत्यादि नर्क्षवृक्षेत्यादि चैत्प्रकरणे ऽभिहितम्॥ ३.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	But a prudent man should not marry (a maiden) who has no brother, nor one whose father is not known, through fear lest (in the former case she be made) an appointed daughter (and in the latter) lest (he should commit) sin.
 </details>
 
 <details><summary>भारुचिः</summary>

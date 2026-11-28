@@ -3,6 +3,11 @@ title = "130 वधेनाऽपि यदा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+130	But when he cannot restrain such (offenders) even by corporal punishment, then let him apply to them even all the four (modes cojointly).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When however he is not able to restrain them even by the ‘death-penalty,’—then he should inflict on them all these four.—(130)
@@ -77,9 +82,4 @@ See Comparative notes for [Verse 8.129].
 > **तदैषु सर्वम् अप्य् एतत् प्रयुञ्जीत चतुष्टयम् ॥**
 
 कृते ऽपि शारीरे दण्डे यदि नोपतिष्ठेतापराधात्, ततो ऽस्य वाग्दण्डादिचतुष्टयं समस्तं क्रियते, न पुनर् अपराधी कृतनिग्रह इत्य् उत्सृज्येत् व्यवस्थार्थं लोकस्य । इतरथा मात्स्यन्यायः स्यात् । धनदण्डर्थश् चायं पुनरारम्भः । वाग्दण्डदिघ्दण्डौ तु मृदुत्वात् कः प्रयच्छतीति । तथा च प्रकरणान्तरे इमम् एव क्रमं वक्षय्ति । "अङ्गुलीर् ग्रन्थिभेदस्य छेदयेन् प्रथमे ग्रहे द्वितीये हस्तचरणौ तृतीये वधम् अर्हति" ॥ ८.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	But when he cannot restrain such (offenders) even by corporal punishment, then let him apply to them even all the four (modes cojointly).
 </details>

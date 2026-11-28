@@ -3,6 +3,11 @@ title = "268 भक्ष्य-भोज्योपदेशैश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+268	Under the pretext of (offering them) various dainties, of introducing them to Brahmanas, and on the pretence of (showing them) feats of strength, the (spies) must make them meet (the officers of justice).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They shall bring them together by means of offers of food and drink, by introducing to Brāhmaṇas, and by exhibition of martial feats.—(268)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 9.264-266].
 > **शौर्यकर्मापदेशैश् च तेषां कुर्यात् समागमम्  ॥ ९.२६८ ॥**
 
 तच्छीलिनां बलातिशयव्यवहारिणाम् । एवं च सति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-268	Under the pretext of (offering them) various dainties, of introducing them to Brahmanas, and on the pretence of (showing them) feats of strength, the (spies) must make them meet (the officers of justice).
 </details>

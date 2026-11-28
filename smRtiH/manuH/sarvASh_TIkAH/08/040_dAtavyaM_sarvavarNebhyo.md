@@ -3,6 +3,11 @@ title = "040 दातव्यं सर्ववर्णेभ्यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	Property stolen by thieves must be restored by the king to (men of) all castes (varna); a king who uses such (property) for himself incurs the guilt of a thief.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Property stolen by thieves should be restored by the king to men of all castes; by retaining such property, the king imbibes the sin of the thief.—(40)
@@ -79,9 +84,4 @@ must trace the thieves to the best of his power; or else, he must make good what
 <details><summary>भारुचिः</summary>
 
 अस्मिन् पाठे राज्ञानीतस्वद्रव्यः पोषयितव्यश् चोरैर् अपहृतस्याशक्यादाने । चोराहृतम् इति पाठे तु अयम् अर्थः- चोरेभ्य आहृत्य राजा न भागं तस्मात् कंचिद् उपाद[द्यात् किं तु स्व]स्थानं प्रतिपादयेत् । एवं च धर्मयशसी तेनापरित्यक्ते भवतः ॥ ८.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Property stolen by thieves must be restored by the king to (men of) all castes (varna); a king who uses such (property) for himself incurs the guilt of a thief.
 </details>

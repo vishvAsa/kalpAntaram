@@ -2,6 +2,11 @@
 title = "021 ऋषियज्ञन् देवयज्ञम्"
 +++
 
+<details><summary>Bühler</summary>
+
+021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the rest of his power, he shall never omit the sacrifice to the sages, the sacrifice to the gods, the sacrifice to elementals, the sacrifice to men and the sacrifice to the Pitṛs.—(21)
@@ -62,11 +67,6 @@ perform the five sacrifices.’
 <details><summary>गोविन्दराजः</summary>
 
 **ऋषियज्ञम्** इति । स्वाध्यायादीन् **यथाशक्ति **न परित्यजेद् इति उक्तपञ्चयज्ञाभिधानं वक्ष्यमाणेन्दिर्यसम्पाद्यत्वकथनार्थम् ॥ ४.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

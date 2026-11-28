@@ -3,6 +3,11 @@ title = "162 धान्यान्न-धनचौर्याणि कृ�
 
 +++
 
+<details><summary>Bühler</summary>
+
+163	The chief of the twice-born, having voluntarily stolen (valuable) property, grain, or cooked food, from the house of a caste-fellow, is purified by performing Krikkhra (penances) during a whole year.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a chief of twice-born men intentionally commits theft of grains, cooked food and wealth, from the house of a caste-fellow, he becomes pure by performing the Kṛcchra for one year.—(162)
@@ -98,9 +103,4 @@ the *Kṛcchra* for a year.’
 <details><summary>भारुचिः</summary>
 
 **धान्यं** व्रीह्यादि । **अन्नं** तद् एव संस्कृतं भोजनीयम् । **धनं** सुवर्णम् अन्यद् [वा] वस्त्रादि । **धन**शब्देनैव च सर्वगृहीतत्वाद् धान्यादिनिदेशो गोबलीवर्दवद् एव । एतद् उक्तं भवति, "यत् किंचिद् अपहत्या" इति । **कामाद्** इति चाविवक्षितम् एव । न ह्य् अन्यत्र विनियोगो ऽस्ति, यथा सुरापानप्रायश्चित्ते । **द्विजोत्तम**शब्दस् च ब्राह्मणनिर्देशार्थः, अपिशब्दश् चात्र सामर्थ्याल् लुप्तनिर्देशो द्रष्टव्यः, ब्राह्मणो ऽपि ब्राह्मणगृहाद् अपहृत्येत्य् अर्थः । एवं च सति दण्डेनापूपो व्याख्यात इति । क्षत्रियादीनाम् अप्य् एतत् प्रायश्चित्तं भवति । इतरथा हि स्वजातीयगृहाद् इति क्षत्रियादीनां क्षत्रियादिगृहेभ्य एवैतत् प्रायश्चित्तं स्यात्, ब्राह्मणगृहात् तु सामान्यविहितं प्रायश्चित्तं चान्द्रायणादि स्यात् । न चैतद् इष्टम्, महत्त्वात् कृच्छ्राब्दप्रायस्चित्तस्य । तस्माद् इदं प्रायश्चित्तं सर्वेषाम् एव ब्राह्मणादीनां ब्राह्मणस्वहरणे स्यत्, ब्रह्महत्या प्रायस्चित्तवत् । एवम् इतरत्रापि विज्ञेयम् ॥ ११.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-163	The chief of the twice-born, having voluntarily stolen (valuable) property, grain, or cooked food, from the house of a caste-fellow, is purified by performing Krikkhra (penances) during a whole year.
 </details>

@@ -3,6 +3,11 @@ title = "084 ब्रह्मणः सम्भवेनैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	By his origin alone a Brahmana is a deity even for the gods, and (his teaching is) authoritative for men, because the Veda is the foundation for that.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By his very birth the Brāhmaṇa is a divinity even for the gods, and an authority for the people; and the Veda itself is the cause of this.—(84)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 11.72].
 <details><summary>भारुचिः</summary>
 
 उपदिष्टस्यानन्तरविधेः स्तुत्यर्थम् इदम् उक्तम् ॥ ११.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	By his origin alone a Brahmana is a deity even for the gods, and (his teaching is) authoritative for men, because the Veda is the foundation for that.
 </details>

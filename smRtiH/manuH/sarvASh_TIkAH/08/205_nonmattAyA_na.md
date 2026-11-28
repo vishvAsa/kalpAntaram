@@ -3,6 +3,11 @@ title = "205 नोन्मत्ताया न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+205	He who gives (a damsel in marriage), having first openly declared her blemishes, whether she be insane, or afflicted with leprosy, or have lost her virginity, is not liable to punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver, of a girl who is insane or leprous or has suffered copulation, does not deserve punishment, if he has previously declared her defects.—(205)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 8.204].
 <details><summary>भारुचिः</summary>
 
 एवं च सति दोषवत्यास् तद्दोषाकथने विप[र्ययण दाता दण्ड्यः, पूर्वम् आ]वेदने ऊढायाश् च दोषवत्या अपि परित्यागो नास्ति । क्रमप्राप्तं संभूयसमुत्थानम् अधुनोच्यते, यतः तदर्थं श्रौतम् उदाहरणं दर्शयति ॥ ८.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	He who gives (a damsel in marriage), having first openly declared her blemishes, whether she be insane, or afflicted with leprosy, or have lost her virginity, is not liable to punishment.
 </details>

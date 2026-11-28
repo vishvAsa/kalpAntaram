@@ -3,6 +3,11 @@ title = "170 गुरुतल्पव्रतङ् कुर्याद्
 
 +++
 
+<details><summary>Bühler</summary>
+
+171	He who has had sexual intercourse with sisters by the same mother, with the wives of a friend, or of a son, with unmarried maidens, and with females of the lowest castes, shall perform the penance, prescribed for the violation of a Guru's bed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one has had sexual intercourse with his uterine sister, or with the wife of his friend, or of his son, or with an unmarried maiden, or with a lowest-born woman,—he should perform the penance prescribed for the ‘violation of the Preceptor’s Bed.’—(170)
@@ -104,9 +109,4 @@ a uterine sister, with women of the lowest castes, with women of the same *gotra
 <details><summary>भारुचिः</summary>
 
 अकुमारीष्व् अपि चण्डालादिस्त्रीषु चान्यद् अपि प्रायश्चित्तम् वक्ष्यति । "चण्डालान्त्यस्त्रियो गत्वा" इत्य् एवमादि ॥ ११.१६८–१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	He who has had sexual intercourse with sisters by the same mother, with the wives of a friend, or of a son, with unmarried maidens, and with females of the lowest castes, shall perform the penance, prescribed for the violation of a Guru's bed.
 </details>

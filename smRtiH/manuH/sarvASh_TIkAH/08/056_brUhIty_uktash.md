@@ -3,6 +3,11 @@ title = "056 ब्रूहीत्य् उक्तश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	Or who, being ordered to speak, does not answer, or does not prove what he has alleged; or who does not know what is the first (point), and what the second, fails in his suit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —He who, on being ordered to speak, does not speak; or who does not prove what he has asserted;—or who does not grasp the previous and subsequent statements;—such a person fails in that suit.—(50)
@@ -153,9 +158,4 @@ See Comparative notes for [Verse 8.53].
 <details><summary>भारुचिः</summary>
 
 **ब्रूहीत्य् उक्तश् च न ब्रूयात्** प्रतिपादनकाले पराभव[भीत्या नोत्तरं ददाति । **उक्तं च न वि**]**भावयेत्** साक्षिभिः, अभावाद् वा तेषां विवक्षासम्यग्दर्शनाद् वा । **न च पूर्वापरं विद्यात्**- साक्षिगतम् अन्यत्र व्यवहारगतम् उक्तम् एव । **तस्माद् अर्थात् स हीयते** ॥ ८.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Or who, being ordered to speak, does not answer, or does not prove what he has alleged; or who does not know what is the first (point), and what the second, fails in his suit.
 </details>

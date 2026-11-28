@@ -3,6 +3,11 @@ title = "056 ब्रह्मोज्झता वेदनिन्दा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Forgetting the Veda, reviling the Vedas, giving false evidence, slaying a friend, eating forbidden food, or (swallowing substances) unfit for food, are six (offences) equal to drinking Sura.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neglecting the Veda, reviling the Veda, bearing false witness, slaying a friend, and eating of forbidden and unfit food,—these six are equal to ‘wine-drinking.’—(56)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 11.56].
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मोज्झतेति** । ब्रह्मोज्झता अधीतस्य वेदस्यासच्छास्त्राश्रयेणापेक्षणम् । यत् तु गुरुमातृपरित्यागः स्वाध्यायाग्न्योः सुतस्य चेत्य् उपपातकत्वं न त्व् ऐहिक एवान्यस्मिन् कर्मण्य् अभियुक्ततया वेदत्यागे सति वेदितव्यं वेदनिन्दा नास्तिक्याभिनिवेशेन वेदकुत्सनम् । कूटसाक्षित्वं यत्र व्यवहारे ऽर्थिप्रत्यर्थिनोर् वधार्हतोपैति मित्रस्य चाब्राह्मणस्यापि वधो गर्हितस्य पलाण्ड्वादेर् अनदनीयस्य चामेध्यादेर् भक्षणम् इत्य् एतानि षट् सुरापानतुल्यानि ॥ ११.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Forgetting the Veda, reviling the Vedas, giving false evidence, slaying a friend, eating forbidden food, or (swallowing substances) unfit for food, are six (offences) equal to drinking Sura.
 </details>

@@ -3,6 +3,11 @@ title = "018 ब्राह्मणस्वन् न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	(On such occasions) a Kshatriya must never take the property of a (virtuous Brahmana; but he who is starving may appropriate the possessions of a Dasyu, or of one who neglects his sacred duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Kṣatriya shall never appropriate the property of a Brāhmaṇa; when starving, he may appropriate the property of the robbers and of one who neglects his duties.—(18)
@@ -50,9 +55,4 @@ This is quoted in *Aparārka* (p. 938), as an exception to what has gone in the 
 > **स्वम् अजीवन् हर्तुम् अर्हति  ॥ ११.१७ ॥**
 
 कारणात् पूर्वप्रतिषेधविषये प्रतिप्रसवो ऽयं विज्ञेयः । एवं च ब्राह्मणस्य श्रेयसो ऽपि ब्राह्मणाद् एतद् अनुज्ञातं भवति ॥ ११.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	(On such occasions) a Kshatriya must never take the property of a (virtuous Brahmana; but he who is starving may appropriate the possessions of a Dasyu, or of one who neglects his sacred duties.
 </details>

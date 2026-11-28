@@ -3,6 +3,11 @@ title = "057 अलाभे न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Let him not be sorry when he obtains nothing, nor rejoice when he obtains (something), let him (accept) so much only as will sustain life, let him not care about the (quality of his) utensils.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not be sorry at not obtaining alms; nor shall he rejoice at obtaining it; he shall have only what suffices to sustain his life, and be free from all attachment to his accessories.—(57)
@@ -57,9 +62,4 @@ nor glad when he receives something. He should seek only as much as will sustain
 <details><summary>भारुचिः</summary>
 
 अर्थप्राप्त । । । म् अस्मिन्न् अपि ॥ ६.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Let him not be sorry when he obtains nothing, nor rejoice when he obtains (something), let him (accept) so much only as will sustain life, let him not care about the (quality of his) utensils.
 </details>

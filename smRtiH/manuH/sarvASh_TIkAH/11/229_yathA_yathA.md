@@ -3,6 +3,11 @@ title = "229 यथा यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+230	In proportion as his heart loathes his evil deed, even so far is his body freed from that guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As his mind goes on loathing the evil deed, so is his body freed from that sin.—(229)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 11.228].
 <details><summary>भारुचिः</summary>
 
 शरीरस्थः पुरुषः शरीरशब्देन स्थानाद् उपचर्यते । मञ्चवत् । येन पुण्यपापयोर् आत्माश्रयः । तथा च ॥ ११.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	In proportion as his heart loathes his evil deed, even so far is his body freed from that guilt.
 </details>

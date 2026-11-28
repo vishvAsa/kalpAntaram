@@ -2,6 +2,11 @@
 title = "008 नोद्वहेत् कपिलाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hot marry a maiden with tawny hair, nor one with superfluous limbs, nor one who has disease, nor one who has either no hair or too much hair, nor one who is garrulous, nor one with reddish eyes.—(8)
@@ -85,11 +90,6 @@ one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism
 <details><summary>गोविन्दराजः</summary>
 
 **नोद्वहेद्** इति । **कपिलां** षडङ्गुल्या **अधिकां** व्याधिताधिष्ठितां अविद्यमानलोमां बहुभाषिणीं पिङ्गलां वर्णां कन्यां नोपयच्छेत् ॥ ३.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
 </details>
 
 <details><summary>भारुचिः</summary>

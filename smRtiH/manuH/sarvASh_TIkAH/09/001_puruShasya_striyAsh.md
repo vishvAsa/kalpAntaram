@@ -3,6 +3,11 @@ title = "001 पुरुषस्य स्त्रियाश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+001	I will now propound the eternal laws for a husband and his wife who keep to the path of duty, whether they be united or separated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I shall now expound the eternal duties of the man and woman, who keep to the righteous path, during union and separation.—(1)
@@ -74,9 +79,4 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 1034).
 <details><summary>भारुचिः</summary>
 
 धर्म्ये वर्त्मनीत्य् अन्योन्याव्यभिचारलक्षणे तिष्ठतोर् दम्पत्योः संयोगे जीवति पत्यौ संनिहिते वा विप्रयोगे च मृते प्रोषिते वा तयोर् धर्मान् वक्ष्यामि नियोगवृत्तिनियमादीन् । शाश्वतग्रहणं चानयोर् अनुष्ठानस्तुत्यर्थम् । इदं तावत् प्राक् प्रसिद्धम् एव ॥ ९.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	I will now propound the eternal laws for a husband and his wife who keep to the path of duty, whether they be united or separated.
 </details>

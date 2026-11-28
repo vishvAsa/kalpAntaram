@@ -2,6 +2,11 @@
 title = "110 न ब्राह्मणस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a Brāhmaṇa’s house, the Kṣatriya is not called a ‘guest;’ nor the Vaiśya or the Śūdra, nor his friends or relations, or his Teacher.—(110)
@@ -61,11 +66,6 @@ be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to 
 <details><summary>गोविन्दराजः</summary>
 
 **न ब्राह्मणस्य त्व् अतिथिर्** इति । ब्राह्मणगृहे गुरुमित्रबन्धुक्षत्रियवैश्यशूद्रा नातिथयो भवन्ति । गुरोः प्रभुत्वात् मित्रबन्धूनाम् आत्मसमत्वात् क्षत्रियादेश् च हीनजातित्वात् क्षत्रियस्योत्कृष्टः ब्राह्मणः स्यात् । ब्राह्मणक्षत्रियाव् उत्कृष्टजातीयौ स्याताम् एवं वैश्यस्यापि ॥ ३.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

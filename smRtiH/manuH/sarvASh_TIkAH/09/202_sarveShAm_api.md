@@ -3,6 +3,11 @@ title = "202 सर्वेषाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+202	But it is just that (a man) who knows (the law) should give even to all of them food and raiment without stint, according to his ability; he who gives it not will become all outcast.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But it is fair that the wise man shall give even to all these food and clothing to the best of his ability; if he does not give it at all, he becomes an outcast.—(202)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 9.201].
 <details><summary>भारुचिः</summary>
 
 प्रकरणात् क्लीबादीनाम् इदम् उच्यते ग्रासाच्छादनदानं यावज्जीवम् ॥ ९.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	But it is just that (a man) who knows (the law) should give even to all of them food and raiment without stint, according to his ability; he who gives it not will become all outcast.
 </details>

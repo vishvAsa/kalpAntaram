@@ -3,6 +3,11 @@ title = "232 कूटशासनकर्तॄंश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+232	Forgers of royal edicts, those who corrupt his ministers, those who slay women, infants, or Brahmanas, and those who serve his enemies, the king shall put to death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Forgers of royal proclamations, sowers of disaffection among the people, the slayers of women, infants and Brāhmaṇas, and those serving his enemies,—the king shall put to death.—(232)
@@ -72,9 +77,4 @@ evidence or by means of a forged seal, should he fined with the highest amerceme
 <details><summary>भारुचिः</summary>
 
 [ते]षां राज्यतन्त्रविरोधे वर्तमानानां नियमतो वधः । द्विट्सेविनश् छमागतिकाः ॥ ९.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	Forgers of royal edicts, those who corrupt his ministers, those who slay women, infants, or Brahmanas, and those who serve his enemies, the king shall put to death.
 </details>

@@ -3,6 +3,11 @@ title = "402 पञ्चरात्रे पञ्चरात्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+402	Once in five nights, or at the close of each fortnight, let the king publicly settle the prices for the (merchants).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the lapse of every five days, or after that of every fortnight, the king shall publicly fix the prices of things.—(402)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 8.401].
 <details><summary>गोविन्दराजः</summary>
 
 **पञ्चरात्र इति । **आगमोपयोगादेर् अनियतत्वाद् एषां पण्यानाम् अस्थिरार्घाणां पञ्चरात्रे पञ्चरात्रे तत् तत् स्थिरप्रायार्घाणां च पक्षे पक्षे गते मूल्यस्थापनम् आत्मनो राज्ञा (राजा?) प्रत्यक्षी कुर्यात् ॥ ८.४०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-402	Once in five nights, or at the close of each fortnight, let the king publicly settle the prices for the (merchants).
 </details>

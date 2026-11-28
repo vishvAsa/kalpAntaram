@@ -3,6 +3,11 @@ title = "075 विधाय प्रोषिते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	If (the husband) went on a journey after providing (for her), the wife shall subject herself to restraints in her daily life; but if he departed without providing (for her), she may subsist by blameless manual work.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the husband has gone abroad after having provided for her subsistence, she shall live on, firmly devoted to restraint. When however he has gone without providing for it, she shall subsist by unobjectionable industries.—(75)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 9.74].
 <details><summary>भारुचिः</summary>
 
 एतस्याम् अवस्थायाम् अगर्हितशिल्पजीवनम् अभ्यनुज्ञायते तस्या जालिकादिकरणम् । एतेन विधवाया अजातपुत्राया वृत्त्युपायो व्याख्यातः । **गर्हितं** च वस्त्रनिर्णेजनादि । प्रवासप्रयोजनविशेषेण तदाजीवनापेक्षया कालविकल्पम् इदानीं दर्शयति ॥ ९.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	If (the husband) went on a journey after providing (for her), the wife shall subject herself to restraints in her daily life; but if he departed without providing (for her), she may subsist by blameless manual work.
 </details>

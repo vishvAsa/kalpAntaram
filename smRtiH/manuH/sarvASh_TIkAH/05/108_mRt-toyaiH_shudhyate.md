@@ -2,6 +2,11 @@
 title = "108 मृत्-तोयैः शुध्यते"
 +++
 
+<details><summary>Bühler</summary>
+
+108	By earth and water is purified what ought to be made pure, a river by its current, a woman whose thoughts have been impure by the menstrual secretion, a Brahmana by abandoning the world (samnyasa).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What needs purification is purified by clay and water; the river is purified by its current; the woman of uhclean mind by menstruation; and Brāhmaṇas by renunciation.—(107).
@@ -72,11 +77,6 @@ evils of one’s deeds,—all these Renunciation burns up.’
 <details><summary>गोविन्दराजः</summary>
 
 **मृत्तोयैर्** इति । **मृत्तोयैः शुध्यते **शोधनीयं तावन् मृद्वारि चादेयम् इति वक्ष्यमाणेन प्रकारेण । नदी च निदाघादाव् अत्यल्पप्रवाहतया शुध्यत्य् उपहतपुलिनदेशा सती वर्षादिजनितेनोदकवेगेनावक्षालितपारावारतया शुध्यति । सकृत् स्त्री च कथञ्चिन् मनसा परपुरुषसङ्कल्पा आर्तवेन शुध्यति । ब्राह्मणाश् च **सन्न्यासेन** षष्टाध्यायवक्ष्यमाणेन शुध्यन्ति ॥ ५.१०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	By earth and water is purified what ought to be made pure, a river by its current, a woman whose thoughts have been impure by the menstrual secretion, a Brahmana by abandoning the world (samnyasa).
 </details>
 
 <details><summary>भारुचिः</summary>

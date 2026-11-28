@@ -3,6 +3,11 @@ title = "140 मातुः प्रथमतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	Let the son of an appointed daughter first present a funeral cake to his mother, the second to her father, the funeral to his father's father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son of the Appointed Daughter shall offer the first cake to his mother, the second to her father and the third to his father’s father.—(140)
@@ -61,9 +66,4 @@ Appointed Daughter offers the first funeral cake to his mother, the second to he
 <details><summary>भारुचिः</summary>
 
 "स एव दद्यात् तत्पिण्डं पित्रे मातामहाय च" इत्य् अत्रोक्तम् अपि सत् पुनर् उच्यते । किम् अर्थम् । कथं नाम पुनरुक्तिः । तत्र मातामहप्रक्रमात् पुत्रिकापुत्रदानं मातामहप्रक्रमं युक्तम् । तस्माद् अयम् अपरः कल्पः पुत्रिकापुत्रपिण्डदानस्य **मातुः प्रथमतः पिण्डं निर्वपेत्** इत्य् एवमादि । अन्येषां तु पाठो ऽर्थश् चास्य श्लोकस- "मातुः प्रथमतः पिण्डं निर्वपेत् पुत्रिकासुतः, द्वितीयं तु पितुः स्वस्य" इत्य् एवम्, अर्थश् च मातुः प्रथमं मामसंकीर्तनं ततः पितुः स्वस्य । ततो मातामहपितामहयोः यत्परयोश् चेति । तत् पुनर् युक्तायुक्ततया विचारणीयम् ॥ ९.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	Let the son of an appointed daughter first present a funeral cake to his mother, the second to her father, the funeral to his father's father.
 </details>

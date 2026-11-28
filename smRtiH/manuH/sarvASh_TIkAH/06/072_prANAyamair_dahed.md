@@ -3,6 +3,11 @@ title = "072 प्राणायमैर् दहेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	Let him destroy the taints through suppressions of the breath, (the production of) sin by fixed attention, all sensual attachments by restraining (his senses and organs), and all qualities that are not lordly by meditation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By means of ‘Breath-suspension’ he shall destroy the taints; and by means of ‘Concentration,’ all sin; all attachments by means of ‘Abstraction,’ and by means of ‘Contemplation,’ those attributes that are not independent.—(72)
@@ -144,9 +149,4 @@ breath, upon retention of the image formed in his mind and upon meditation.’
 > ब्रह्मलोकं नयन्त्य् आशु ध्यातारं धारणास् त्व् इह ॥
 
 **प्रत्याहारेण** मनस इन्द्रियाणां च **संसर्गान्** विषयसंपर्काख्याञ् छब्दाद्युपलब्धिहेतून् । तेषु ह्य् एवम् उपहेतुषु अन्तःकरणप्रत्याहारेण मनसः समाधानयोगः प्रत्यनीकः । प्रतिलब्धसमाधानस्य प्रतिबन्धकरणत्वाच् छब्दाद्युपलब्धिकण्टकानि ध्यानादीन्य् आहुर् आचार्याः । परमात्मकर्मकेण च प्रणव**ध्यानेनानीश्वरा**न् **गुणान्** योगर्द्धिप्रत्यनीकभूतानैश्वर्यादीन् प्रतिलब्धसमाधानस्य दहमानस्य योगिनः सर्वोपसर्गस्थानम् अतिक्रान्तस्य परमार्थदर्शनप्रसंख्यानभावनाभिर् इति ॥ ६.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	Let him destroy the taints through suppressions of the breath, (the production of) sin by fixed attention, all sensual attachments by restraining (his senses and organs), and all qualities that are not lordly by meditation.
 </details>

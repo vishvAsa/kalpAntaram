@@ -3,6 +3,11 @@ title = "188 सर्वेषाम् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+188	But on failure of all (heirs) Brahmanas (shall) share the estate, (who are) versed the in the three Vedas, pure and self-controlled; thus the law is not violated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But, on the failure of all, the property shall be taken by Brāhmaṇas, learned in the Vedas, pure and self-controlled; in this manner the law would not be violated.—(188)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 9.186].
 <details><summary>भारुचिः</summary>
 
 **सर्वेषाम् अप्य् अभावे** इत्य् एतस्माद् गम्यते तत्स्त्रीणाम् अप्य् अभावे यथोक्तगुणसंबन्ध [इति । तथा च] सति ॥ ९.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	But on failure of all (heirs) Brahmanas (shall) share the estate, (who are) versed the in the three Vedas, pure and self-controlled; thus the law is not violated.
 </details>

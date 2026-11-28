@@ -3,6 +3,11 @@ title = "301 एषो ऽखिलेनाऽभिहितो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+301	Thus the whole law of assault (and hurt) has been declared completely; I will now explain the rules for the decision (in cases) of theft.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the law relating to physical assault been fully explained; after this I am going to expound the law for the regulating of punishments in cases of theft.—(301)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 8.299].
 <details><summary>भारुचिः</summary>
 
 उपसंहा]रोपन्यासार्थः श्लोकः । मा भूच् च पूर्वैर् अपराधस्य तुल्यत्वम् इत्य् अतो गुरुत्वाद् अस्य तन्निग्रहादरार्थम् इदम् आह ॥ ८.३०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-301	Thus the whole law of assault (and hurt) has been declared completely; I will now explain the rules for the decision (in cases) of theft.
 </details>

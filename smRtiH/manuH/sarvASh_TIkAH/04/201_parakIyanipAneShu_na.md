@@ -2,6 +2,11 @@
 title = "201 परकीयनिपानेषु न"
 +++
 
+<details><summary>Bühler</summary>
+
+201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never bathe in the tanks belonging to other persons. Having bathed there, he becomes tainted with a part of the tank-digger’s sin.—(201)
@@ -69,11 +74,6 @@ and wells built by others; the builder becomes a partaker in the merit: one shou
 <details><summary>गोविन्दराजः</summary>
 
 **परकीयनिपानेष्व्** इति । परकीयपुष्करिण्यादिषु **न** कदाचिद् अपि **स्नायात्** । तत्र स्नात्वा तत् पुष्करिण्यादिषु यत् पापं कतुः तच्चतुर्थांशेन वक्ष्यमाणेन सम्बध्यते । धार्मिकाणाम् अपि सञ्चितकृतं जन्मान्तरकृतं दुष्कृतं भवत्य् एव । अतो न धार्मिकनिपानस्नानेन पापाभावप्रसङ्गः ॥ ४.२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.
 </details>
 
 <details><summary>भारुचिः</summary>

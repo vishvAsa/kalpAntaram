@@ -2,6 +2,11 @@
 title = "189 हिरण्यम् आयुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gold and food destroy longevity; land and cow destroy the body; the horse destroys the eye; clothing destroys the skin; clarified butter destroys energy; and sesamum destroys offspring.—(189)
@@ -32,11 +37,6 @@ This verse is quoted in *Prāyaścittaviveka* (p. 405), which has the same note 
 <details><summary>गोविन्दराजः</summary>
 
 तथा चाह **हिरण्यम् आयुर् अन्नं च भूर् गौश् चाप्य् ओषतस् तनुम्** इति । हिरण्यान्ने प्रतिगृहीते अविदुषश् चायुर् दहतः गोभूमी च शरीरम् । अश्ववस्त्रघृततिलाः यथाक्रमं चक्षुश्चर्मतेजोऽपत्यानि दहन्ति । न केवलम् अविद्वान् प्रतिग्रहेण सर्वदा तं दह्यते यावत्॥ ४.१८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.
 </details>
 
 <details><summary>भारुचिः</summary>

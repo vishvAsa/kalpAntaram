@@ -3,6 +3,11 @@ title = "073 लक्ष्यं शस्त्रभृताम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	Or let him, of his own free will, become (in a battle) the target of archers who know (his purpose); or he may thrice throw himself headlong into a blazing fire;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, by his own will, he should become the target of armed men cognisant (of his purpose); or he may thrice throw himself headlong into blazing fire.—(73)
@@ -85,9 +90,4 @@ See Comparative notes for [Verse 11.72].
 > **प्रास्येद् आत्मानम् अग्नौ वा समिद्धे त्रिर् अवाक्शिराः  ॥ ११.७२ ॥**
 
 एतच् च केचिद् इच्छायाम् अशबलम् आहुस् तृतीयम् ॥ ११.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Or let him, of his own free will, become (in a battle) the target of archers who know (his purpose); or he may thrice throw himself headlong into a blazing fire;
 </details>

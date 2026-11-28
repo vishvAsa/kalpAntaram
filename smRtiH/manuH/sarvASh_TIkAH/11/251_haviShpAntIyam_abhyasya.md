@@ -3,6 +3,11 @@ title = "251 हविष्पान्तीयम् अभ्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+252	The violator of a Guru's bed is freed (from sin), if he repeatedly recites the Havishpantiya (hymn), (that beginning) 'Neither anxiety nor misfortune,' (and that beginning) 'Thus, verily, thus,' and mutters the hymn addressed to Purusha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Violator of the Preceptor’s Bed becomes absolved by repeating the ‘Haviṣpāntīya Hymn,’ (Ṛgveda, 10.88.1), the verse beginning with ‘na tamam ha’ (Ṛgveda, 10.126) and that beginning with ‘iti’ (Ṛgveda, 10.119),—and by reciting the ‘Puruṣasūkta’ (Ṛgveda, 10.90.1)—(251)
@@ -54,9 +59,4 @@ by fasting for three days and reciting the *Puruṣa-hymn* and, at the same time
 <details><summary>भारुचिः</summary>
 
 मासीति वर्तते सकृद् इति च । "हविष्पान्तम्" इत्य् एकोनविंशर्चम् । "न तम् अंहो न दुरितम्" इत्य् अष्टर्चम् । "इति वा इतिमे मनः" इति द्वादशर्चम् "सहस्रशीर्षा पुरुषः" इति पौरुषं सूक्तं षोडशर्चम् ॥ ११.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-252	The violator of a Guru's bed is freed (from sin), if he repeatedly recites the Havishpantiya (hymn), (that beginning) 'Neither anxiety nor misfortune,' (and that beginning) 'Thus, verily, thus,' and mutters the hymn addressed to Purusha.
 </details>

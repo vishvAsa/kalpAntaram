@@ -3,6 +3,11 @@ title = "041 स्वजातिजानन्तरजाः षट्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	Six sons, begotten (by Aryans) on women of equal and the next lower castes (Anantara), have the duties of twice-born men; but all those born in consequence of a violation (of the law) are, as regards their duties, equal to Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Six sons born or women of the same caste and of those of the next lower castes partake of the character of ‘twice-born’ persons. But all those born of violation have been declared to be of the nature of Śūdras.—(41)
@@ -71,9 +76,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 स्वजाति जास् त्रिभ्यो द्विजातिभ्यः त्रयो ब्राह्मणीक्षत्रियावैश्यासु जाताः संस्कारार्हाः तथानन्तरजाः ब्राह्मणक्षत्रियाभ्यां क्षत्रियवैश्ययोर् जाताः **षट् सुता द्विजधर्मिणः** । एवं च स्वजातिजानाम् अनन्तरजार्थं ग्रहणम्, न स्वार्थम् । ननु च ब्राह्मणक्षत्रियाभ्याम् अनन्तर्वर्णयोः क्षत्रियाविश्ययोर् जातौ द्वाव् एव भवतः, येन ब्राह्मणजातः वैश्यायां नानन्तरजः । असाव् अप्य् अनन्तरज एव, अनुलोमार्थत्वात् । द्विजधर्मत्वं प्रवर्तन् निवर्तयति, "शूद्रायां तु सधर्माणः सर्वे ऽपध्वंसजाः स्मृताः" इति ब्राह्मणादिजाता अपि सन्तः । एवं च नैभिः सहेदं षड् ग्रहणम्, किं तर्हि स्वजातिजैः सहानन्तरजानाम् । तथा च गौतमः- "प्रतिलोमास् तु धर्महीनाः, शूद्रायां च" इति । ननु च "पुत्रा ये ऽनन्तर[स्त्री]जा" [इत्य् अत्रोक्ता]र्थे ऽयं पुनरुक्तः श्लोक इति। [न] पुनरुक्तः । तत्र ह्य् उक्तम् "तान् अनन्तरनाम्नो हि मातृदोषान् प्रचक्षते" इति । अनन्तरनामत्वं चोभयथा प्रसज्यते व्यवहारार्थं [सं]ज्ञया, संस्कारार्थं च यतः संदेहनिवृत्त्यर्थम् इदं त्रयाणां द्विजातिधर्मत्वाभिधानम् । अथ वा हेत्वर्थम् इदं पूर्वश्लोकस्य । कथम् । "तान् अनन्तरनाम्नो हि मातृदोशान् प्रचक्षते" इत्य् अत्र कारणं वक्ति । यस्मात् **षट् सुता** द्विजधर्माण इति एवम् अपुनरुक्तत्वम् अस्य पूर्वश्लोकाद् विज्ञेयम् ॥ १०.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Six sons, begotten (by Aryans) on women of equal and the next lower castes (Anantara), have the duties of twice-born men; but all those born in consequence of a violation (of the law) are, as regards their duties, equal to Sudras.
 </details>

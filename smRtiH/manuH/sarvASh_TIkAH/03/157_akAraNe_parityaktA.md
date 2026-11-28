@@ -2,6 +2,11 @@
 title = "157 अकारणे परित्यक्ता"
 +++
 
+<details><summary>Bühler</summary>
+
+157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The forsaker, without cause, of his mother, father and superior; and he who has formed a connection, through the relationship of either Veda or marriage, with outcasts.—(157)
@@ -87,11 +92,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **अकारणपरित्यक्तेति** । मातृपितृविद्यागुऋऊणां निष्कारणं **परित्यक्ता पतितैश्** चाध्ययनकन्यादानादिसम्बन्धः सम्पर्कं गतः अर्वाग् अपि संवत्सरात् । संवत्सरेण तु पतितत्वाद् एव गतर्थता “संवत्सरेण पतति” इति ॥ ३.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
 </details>
 
 <details><summary>भारुचिः</summary>

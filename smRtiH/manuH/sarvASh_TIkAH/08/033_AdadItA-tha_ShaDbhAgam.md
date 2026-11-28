@@ -3,6 +3,11 @@ title = "033 आददीताऽथ षड्भागम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	Now the king, remembering the duty of good men, may take one-sixth part of property lost and afterwards found, or one-tenth, or at least one-twelfth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Property that has been lost and found should remain in the charge of specially deputed (officials); and the thieves that he may detect in connection with this, the king shall cause to be killed by an elephant.—(33)
@@ -72,9 +77,4 @@ been lost, he shall report it to the King; and he shall take it only after he ha
 <details><summary>भारुचिः</summary>
 
 ऊर्ध्वम् एव त्र्यब्दाद् अधिगतस्वामिकम्, न तु सर्वं प्रत्यर्पयेत् । किं तर्हि उद्धृतषड्भागादिभागं प्रत्यर्पयेत् । षड्भागादिग्रहणव्यवस्था च गुणापेक्षया संरक्षणश्रमव्यपेक्षया च नियम्यते ॥ ८.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	Now the king, remembering the duty of good men, may take one-sixth part of property lost and afterwards found, or one-tenth, or at least one-twelfth.
 </details>

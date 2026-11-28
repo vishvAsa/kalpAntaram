@@ -3,6 +3,11 @@ title = "203 नाऽन्यद् अन्येन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+203	One commodity mixed with another must not be sold (as pure), nor a bad one (as good), nor less (than the proper quantity or weight), nor anything that is not at hand or that is concealed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Any commodity that is mixed up with another should not be sold; nor what is without substance, nor what is deficient, nor what is at a distance, nor what is concealed.—(203).
@@ -88,9 +93,4 @@ price openly.’
 <details><summary>भारुचिः</summary>
 
 **अन्यत्** कुङ्कुमादिद्रव्यम् **अन्येन** कुसुम्भादिना द्रव्येण **संसृष्टं विक्रयं** नार्हति । एवं च प्रतिषेधाद् अस्यैवम् अकार्यम् अनुमीयते । एवं **सावद्यम्** असंसृष्टम् अपि यद् भाण्डं पूतिकं चिरन्तनं जीर्णवस्त्रादि । **न च न्यूनं** यत् तुल्यान्तरेण पश्चाद् धीयते पलसंख्यया । न दूरे ऽप्रत्यक्षत्वात् । एतेन **तिरोहितं** व्याख्यातम्- अद्रव्यं वा द्रव्याभासं यत् क्रियते भाण्डरागादिना कर्मणा तत् **तिरोहितम्** । एवं च सति, ईदृशम् एवं विक्रीणानस्य दोषत्वाद् अस्य दण्डार्हता । न केवलम् अशुद्धता विक्रेतुः । तथा च सति, क्रेत्रा ऊर्ध्वम् अपि दशाहाद् एतद् विक्रेतुः प्रत्यर्पणीयम् एव । येनास्याइतत् प्रतिषेधशास्त्रम् असद्विक्रयेणापोदितम्, "परेण तु दशाहस्य न दद्यान् नापि दापयेत्" इति । विक्रयसंबन्धेनैवायम् अपरः कान्यव्यवहारः शुल्काश्रयः प्रस्तूयते — ॥ ८.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	One commodity mixed with another must not be sold (as pure), nor a bad one (as good), nor less (than the proper quantity or weight), nor anything that is not at hand or that is concealed.
 </details>

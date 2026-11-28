@@ -3,6 +3,11 @@ title = "170 अनादेयन् नाददीत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+170	No king, however indigent, shall take anything that ought not to be taken, nor shall he, however wealthy, decline taking that which he ought to take, be it ever so small.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though reduced (in circumstances), the King shall not take what ought not to be taken; and even though affluent, he shall not relinquish what ought to be taken, be it ever so small.—(170)
@@ -53,9 +58,4 @@ rules the entire earth, even though his strength may not be great.’
 <details><summary>गोविन्दराजः</summary>
 
 **अनादेयम्** इति । क्षीणकोशो ऽपि राजा अग्राह्यं न गृह्णीयात् । समृद्धो ऽपि अल्पम् अपि ग्राह्यम् अर्थं न परित्यजेत् ॥ ८.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	No king, however indigent, shall take anything that ought not to be taken, nor shall he, however wealthy, decline taking that which he ought to take, be it ever so small.
 </details>

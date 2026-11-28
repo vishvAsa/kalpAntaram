@@ -3,6 +3,11 @@ title = "067 फलङ् कतकवृक्षस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	Though the fruit of the Kataka tree (the clearing-nut) makes water clear, yet the (latter) does not become limpid in consequence of the mention of the (fruit's) name.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Though the fruit of the Kataka tree clarifies water, yet water does not become clear by the mere mention of its name.—(67)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 6.66].
 <details><summary>भारुचिः</summary>
 
 क्रियातः फलम्, न विज्ञानमात्राद् इत्य् अनुष्ठानस्तुतिर् इयम् ॥ ६.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	Though the fruit of the Kataka tree (the clearing-nut) makes water clear, yet the (latter) does not become limpid in consequence of the mention of the (fruit's) name.
 </details>

@@ -2,6 +2,11 @@
 title = "040 नैतैर् अपूतैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should not in ant case, even in times of distress, establish spiritual or uterine relationship with these persons, until they have been duly purified.—(40)
@@ -89,11 +94,6 @@ Vedic (tutorial), or marital or commercial,—should he ever held with them by a
 <details><summary>गोविन्दराजः</summary>
 
 यावद् **विधिवत्** यथाशास्त्रं एते अपूताः कृतप्रायश्चित्ता न भवन्ति तावद् **एतैः सहापद्य् अपि **कदाचित् अध्ययनकन्यादानादीन् **सम्बन्धान् **ब्रह्मणो **नाचरेत् **॥ २.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
 </details>
 
 <details><summary>भारुचिः</summary>

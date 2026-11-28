@@ -3,6 +3,11 @@ title = "024 न यज्ञार्थम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	A Brahmana shall never beg from a Sudra property for a sacrifice; for a sacrificer, having begged (it from such a man), after death is born (again) as a Kandala.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall never beg from a Śūdra wealth for the purpose of sacrificial performances; if one perform sacrifices with wealth so begged, he is born, after death, as a Caṇḍāla.—(24)
@@ -67,9 +72,4 @@ obtained in alms from a Śūdra, he becomes a *Caṇḍāla*.—If one does not 
 > **यजमानो हि भिक्षित्वा चण्डालः प्रेत्य जायते  ॥ ११.२३ ॥**
 
 अयं निन्दार्थवादः प्रतिषिद्धार्थानुष्ठाननिवृत्त्यर्थः । कथं नामायं निन्दितं न समाचरेद् इति । अथ वा नित्यकर्मातिपत्तौ यः सर्वतः प्रतिग्रह उक्तः तस्यायं श्रौतस्मार्तयज्ञार्थप्रतिषेधः । एतस्याम् अवस्थायां कामं प्रतिषिद्धाभ्युपगमः स्यात् । न शूद्राद् भिक्षणम् । भृत्यभरणार्थम् तु शूद्राद् अपि भिक्षणं न प्रतिषिध्यते । काम्ययज्ञार्थं पुनर् असत्प्रतिग्रह एव नास्ति । कृतस् तस्य प्रतिषेधः । एवं च सति यः काम्ययज्ञार्थंशूद्राद् भिक्षेत तेनोभयम् अतिक्रान्तं भवति, असत्प्रतिग्रहनियमो भिक्षणनियमश् च । अथ वा शूद्रात् परादानस्तुतिर् इयम् "न यज्ञार्थंधनंशूद्राद् विप्रो भिक्षेत धर्मवैत्" इति । कथम् । परादानम् अपि युक्तं शूद्रात्, न तु भिक्षणम् इत्य् एवम् ॥ ११.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	A Brahmana shall never beg from a Sudra property for a sacrifice; for a sacrificer, having begged (it from such a man), after death is born (again) as a Kandala.
 </details>

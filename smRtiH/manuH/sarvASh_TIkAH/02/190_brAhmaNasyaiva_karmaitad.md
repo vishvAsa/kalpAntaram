@@ -2,6 +2,11 @@
 title = "190 ब्राह्मणस्यैव कर्मैतद्"
 +++
 
+<details><summary>Bühler</summary>
+
+190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This duty has been prescribed by the sages for the Brāhmaṇa only; this duty has not been so ordained for the Kṣatriya and the Vaiśya.—(190)
@@ -44,11 +49,6 @@ than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamap
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मनस्येति ।** **एतद् **दैवपित्र्यैकान्नभोजनाख्यं **कर्म ब्राह्मणस्यैव **मन्वादिभिः स्मृतम् । क्षत्रियवैश्ययोः पुनः **नैतत् कर्म **ब्रुवते भैक्षस्य प्रतिग्रहप्रकारत्वे ऽपि । ब्रह्मचारित्वं च प्रकरणात् क्षत्रियवैश्ययोर् अपि । ब्रह्मचारिणो भैक्ष्यभोजनाभ्यनुज्ञाने सति तदपवादैकान्नभोजने ऽपि तयोर् अपि प्रस्तुतत्वात् प्रतिग्रहस्य च ब्रह्मचारिव्यतिरिक्तक्षत्रियविषये चरितार्थत्वात् प्राप्तौ सत्याम् एवं प्रतिषेधः ॥ २.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
 </details>
 
 <details><summary>भारुचिः</summary>

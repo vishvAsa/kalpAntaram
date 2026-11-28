@@ -2,6 +2,11 @@
 title = "208 भ्रूणघ्नावेक्षितञ् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor that which has been looked at by the Brāhmaṇa-slayer, or what has been toughed by a woman in her courses, or what has been pecked by the birds, or what has been touched by a dog.—(208)
@@ -84,11 +89,6 @@ the paramour living in the house of his ladylove, or one who permits his wife’
 <details><summary>गोविन्दराजः</summary>
 
 **भ्रूणघ्नावेक्षितम् **इति । ब्रह्महादिपतितावेक्षितं रजस्वलाद्यस्पृश्यस्पृष्टं पक्षिणा काकादिना आस्वादितं **शुना स्पृष्टं **न भुञ्जीत ॥ ४.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
 </details>
 
 <details><summary>भारुचिः</summary>

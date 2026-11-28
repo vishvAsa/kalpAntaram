@@ -3,6 +3,11 @@ title = "065 अनाहिताग्निता स्तेयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	Neglecting to kindle the sacred fires, theft, non-payment of (the three) debts, studying bad books, and practising (the arts of) dancing and singing,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Omission of fire-laying, theft, non-payment of debts, studying bad books, and the practising of the histrionic art.—(65)
@@ -72,9 +77,4 @@ notes—‘*anāhitāgnitā*’, omitting to kindle the fires by Śrauta or Smā
 **
 
 See Comparative notes for [Verse 11.58].
-</details>
-
-<details><summary>Bühler</summary>
-
-066	Neglecting to kindle the sacred fires, theft, non-payment of (the three) debts, studying bad books, and practising (the arts of) dancing and singing,
 </details>

@@ -2,6 +2,11 @@
 title = "205 गुरोर् गुरौ"
 +++
 
+<details><summary>Bühler</summary>
+
+205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Teacher’s teacher happens to be close by, he should adopt towards him the same behaviour as towards his own teacher; but until permitted by his teacher, he should not pay respects to his own elders.—(205)
@@ -63,11 +68,6 @@ behaviour towards him is prescribed to be like that towards the Teacher.’
 <details><summary>गोविन्दराजः</summary>
 
 **गुरोर्** इति । आचार्यगुरुर् यदा शिष्यस्य **सन्निहितो **भवति तदा तस्याप्य् आचार्यवत् वर्तेत । तथा आचार्यगृहे ऽवस्थितः तेनाननुज्ञातः स्वयोनि**गुरून्** **अभिवादयेत्** ॥ २.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "135 पलं सुवर्णाश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+135	Four suvarnas are one pala, and ten palas one dharana; two krishnalas (of silver), weighed together, must be considered one mashaka of silver.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Four ‘gold-pieces’ make one ‘pala,’ ten palas one ‘dharaṇa’; and two ‘guñja-berries’ of equal weight should be known as one ‘silver-bean.’—(135)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.131].
 <details><summary>कुल्लूकः</summary>
 
 चत्वारः सुवर्णा पलं स्यात् । दश पलानि धरणम् । कृष्णलद्वयं समं कृत्वा तुलया धृर्तरूप्यमाषको बोद्धव्यः ॥१३५॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Four suvarnas are one pala, and ten palas one dharana; two krishnalas (of silver), weighed together, must be considered one mashaka of silver.
 </details>

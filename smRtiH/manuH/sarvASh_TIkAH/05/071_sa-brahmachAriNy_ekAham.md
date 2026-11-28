@@ -2,6 +2,11 @@
 title = "071 स-ब्रह्मचारिण्य् एकाहम्"
 +++
 
+<details><summary>Bühler</summary>
+
+071	If a fellow-student has died, the Smriti prescribes an impurity of one day; on a birth the purification of the Samanodakas is declared (to take place) after three (days and) nights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the death of a fellow-student, the impurity has been declared to last for one day. In the case of a birth, the purity of the ‘Samānopaka’ relations is held to come after three pays.—(70)
@@ -53,11 +58,6 @@ fellow-pupil has died.’
 <details><summary>गोविन्दराजः</summary>
 
 **सब्रह्मचारिणीर्ति** । सहाध्यायिनि प्रेते [ए]काहम् आशौचं समानोदकानां पुनर् जनने सति **त्रिरात्राच् छुद्दिर् इष्यते** । त्र्यहात् तूदकदायिन इति प्रथमविषयम् उक्तम् ॥ ५.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	If a fellow-student has died, the Smriti prescribes an impurity of one day; on a birth the purification of the Samanodakas is declared (to take place) after three (days and) nights.
 </details>
 
 <details><summary>भारुचिः</summary>

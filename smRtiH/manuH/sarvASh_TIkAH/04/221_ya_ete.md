@@ -2,6 +2,11 @@
 title = "221 य एते"
 +++
 
+<details><summary>Bühler</summary>
+
+221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of those other persons who have been successively mentioned as those whose food should not be eaten,—the wise men describe as skin, bones and hairs.—(221)
@@ -35,11 +40,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । साक्षादुक्तफलेभ्यो **ये अन्ये **क्रमेण **भोज्यान्नाः **कथिताः तत्सम्बन्ध्यन्नं चर्मास्थिरोमाणि प्रशस्तबुद्धयो वदन्ति ॥ ४.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
 </details>
 
 <details><summary>भारुचिः</summary>

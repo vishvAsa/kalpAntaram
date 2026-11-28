@@ -3,6 +3,11 @@ title = "249 कौत्सञ् जप्त्वाप"
 
 +++
 
+<details><summary>Bühler</summary>
+
+250	Even a drinker of (the spirituous liquor called) Sura becomes pure, if he mutters the hymn (seen) by Kutsa, 'Removing by thy splendour our guilt, O Agni,' &c., (that seen) by Vasishtha, 'With their hymns the Vasishthas woke the Dawn,' &c., the Mahitra (hymn) and (the verses called) Suddhavatis.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even a drinker of wine becomes pure if he recites the ‘Kautsa hymn,’ beginning with the term ‘Ap,’ or the ‘Vāsiṣṭha hymn,’ consisting of the triad of verses beginning with ‘Prati,’ or the ‘Māhitra hymn,’ or the ‘Śuddhavati verses.’—(249)
@@ -70,9 +75,4 @@ oblations of clarified butter, with the *Kūṣmāṇḍa Mantras*,—and reciti
 <details><summary>भारुचिः</summary>
 
 **कौत्सं** सूक्तम् "अप नः शोशुचद् अघम्" इत्य् अष्टर्चलक्षीतम् । वाग्दैविकं **वासिष्ठम्** "प्रतिस्तोमेभिर् उषसं वसिष्ठाः" इत्य् एतत् । **माहेन्द्रम्** "महाम् इन्द्रो य ओजसा" इत्य् एतद् अष्टाचत्वारिंशद् अर्चम् । अन्ये तु "माहित्रम्" पठन्ति । मन्त्रं चेमम् आहुः- "माहित्रीणामवो ऽस्तु" इत्य् एवम् । **शुद्धवत्य** ऋचः प्रसिद्धाः ॥ ११.२४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-250	Even a drinker of (the spirituous liquor called) Sura becomes pure, if he mutters the hymn (seen) by Kutsa, 'Removing by thy splendour our guilt, O Agni,' &c., (that seen) by Vasishtha, 'With their hymns the Vasishthas woke the Dawn,' &c., the Mahitra (hymn) and (the verses called) Suddhavatis.
 </details>

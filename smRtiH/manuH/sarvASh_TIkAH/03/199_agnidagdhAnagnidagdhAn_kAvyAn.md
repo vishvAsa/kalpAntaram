@@ -3,6 +3,11 @@ title = "199 अग्निदग्धानग्निदग्धान् 
 
 +++
 
+<details><summary>Bühler</summary>
+
+199	One should know that (other classes), the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas, are (the manes) of the Brahmanas alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The Anagnidagdhas, the Agnidagdhas, the Kāvyas, the Barhiṣads, the Agniṣvāttas, and the Saumyas,—these one should regard as the Pitṛs of Brāhmaṇas.—(199)
@@ -55,9 +60,4 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 <details><summary>गोविन्दराजः</summary>
 
 **अनग्निदग्धान्** इति । **अनग्निदग्धाग्निदग्धकाव्यबर्हिषदः अग्निष्वात्तसौमा**ख्यान् अपरान् पितॄन् **विप्राणाम् एव** जानीयत् । वेदे पुराणेषु च एवन्नाम(कं) पितॄणां प्रसिद्धम् ॥ ३.१९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-199	One should know that (other classes), the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas, are (the manes) of the Brahmanas alone.
 </details>

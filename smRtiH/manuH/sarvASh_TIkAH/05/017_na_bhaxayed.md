@@ -2,6 +2,11 @@
 title = "017 न भक्षयेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+017	Let him not eat solitary or unknown beasts and birds, though they may fall under (the categories of) eatable (creatures), nor any five-toed (animals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat solitary animals, nor unknown beasts and birds, even though indicated among those fit to be eaten; nor any five-nailed animals.—(17).
@@ -73,11 +78,6 @@ should not be eaten: the cow, the camel, the ass, the horse, the elephant, the l
 **भक्ष्येष्व् अपि समुद्दिष्टान् सर्वान् पञ्चनखांस् तथा ॥ ५.१७ ॥** 
 
 **न भक्षयेद्** इति । ये एककाः प्रायेणाटन्ति सर्पादयः तांस् तथा अभियुक्तैर् अपि नामजातिभिः ये मृगपक्षिणो न ज्ञायन्ते तान् विशेषसामान्यप्रतिषेधानाक्रमणे सति भक्ष्यपक्षे पतितत्वात् भक्ष्यत्वेन **समुद्धिष्टान् **एवं **पञ्चनखांश्** च **सर्वान्** नरमार्जारादीन् न भक्षयेत् ॥ ५.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	Let him not eat solitary or unknown beasts and birds, though they may fall under (the categories of) eatable (creatures), nor any five-toed (animals).
 </details>
 
 <details><summary>भारुचिः</summary>

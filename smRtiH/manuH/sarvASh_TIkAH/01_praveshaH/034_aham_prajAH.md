@@ -2,6 +2,11 @@
 title = "034 अहम् प्रजाः"
 +++
 
+<details><summary>Bühler</summary>
+
+034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -25,11 +30,6 @@ title = "034 अहम् प्रजाः"
 <details><summary>गोविन्दराजः</summary>
 
 **अहं प्रजाः **स्रष्टुम् इच्छन् **सुदुश्चरं तपः **क्ट्त्वा प्रजापतीन् **महर्षीन् दश **प्रथमतः सृष्टवान् ॥ १.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,
 </details>
 
 <details><summary>भारुचिः</summary>

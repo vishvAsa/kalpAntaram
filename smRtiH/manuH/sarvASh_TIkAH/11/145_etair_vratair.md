@@ -3,6 +3,11 @@ title = "145 एतैर् व्रतैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+146	The guilt incurred intentionally or unintentionally by injuring (created beings) can be removed by means of these penances; hear (now, how) all (sins) committed by partaking of forbidden food (or drink, can be expiated).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By means of these penances shall one remove the six arising from the act of slaying, either intentionally or unintentionally. Now listen to all that is involved in eating forbidden food.—(145)
@@ -33,9 +38,4 @@ Now listen to the method by which one could remove the sin involved in the eatin
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ११.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	The guilt incurred intentionally or unintentionally by injuring (created beings) can be removed by means of these penances; hear (now, how) all (sins) committed by partaking of forbidden food (or drink, can be expiated).
 </details>

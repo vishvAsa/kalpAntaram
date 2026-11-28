@@ -2,6 +2,11 @@
 title = "045 ब्राह्मणो बैल्व-पालाशौ"
 +++
 
+<details><summary>Bühler</summary>
+
+045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should, by law, have staves of Bilva and Palāśa wood; the Kṣatriya those of Vaṭa and Khadira; and the Vaiśya those of Pīlu and Udumbara.—(45).
@@ -94,11 +99,6 @@ The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:�
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मण** इति । ब्राह्मणस्य बैल्वः “पालाशो वा दण्डः” इत्यादि वसिष्ठस्मरणात्, “प्रतिगृह्येप्सितं दण्डम्” इति चेहैव दर्शनात्, विकल्पेन द्वौ द्वौ दण्डौ बैल्वपालाशवटखदिरपीलूदुम्बराख्यवृक्षाणां **ब्राह्मणा**दयो **ऽर्हन्ति** ॥ २.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "219 परीक्षिताः स्त्रियश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+219	Well-tried females whose toilet and ornaments have been examined, shall attentively serve him with fans, water, and perfumes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thoroughly tested women, whose toilet and ornaments have been examined, shall serve him attentively with fans, water and incense.—(219)
@@ -48,9 +53,4 @@ harem, whose honesty has been commended by the virtuous, and who are skilful in 
 <details><summary>गोविन्दराजः</summary>
 
 **परीक्षिता** इति । **स्त्रियश् च** दास्यो धर्मार्थकामोभयविषये चारप्रयोगादिद्वारेण कृतपरीक्षाः गूडायुधग्रहणविषलिप्ताभरणधारणाशङ्कया संशुद्धवेषालङ्करणाः अनन्यमनस्काश् चामरस्नानाद्युदकधूपैर् एनं राजानं परिचरेयुः ॥ ७.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	Well-tried females whose toilet and ornaments have been examined, shall attentively serve him with fans, water, and perfumes.
 </details>

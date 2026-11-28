@@ -2,6 +2,11 @@
 title = "006 सत्यानृतन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+006	But trade and (money-lending) are Satyanrita, even by that one may subsist. Service is called Svavritti; therefore one should avoid it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Trade is “Truth and Falsehood;” even by that one may live. Service has been declared, to be the “living of dogs;” hence one should avoid it.—(6)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 4.5].
 <details><summary>गोविन्दराजः</summary>
 
 **ऋतम्** इति । **सत्यानृतम्** इति । धान्यादिकणोच्चयं शिलोच्चयनं च सत्यतुल्यफलत्वात् **ऋतं** वक्तव्यम् । अप्रार्थितोपनतं अमृतवत् सुखहेतुत्वाद् **अमृतम्** । प्रार्थितं पुनः **भैक्षं** मरणकल्पपीडानुभवात् **मृतम् । कर्षणं **च “भूमिं भूमिशयांश् चैव हन्ति काष्ठम् अयोमुखम्” इति बहूनां मरणनिमित्तत्वात् पर्कर्षेण मृतम् । वाणिज्यं च सत्यानृतव्यवहरणसाध्यत्वात् **सत्यानृतं तेनापि** “कृषिवाणिज्ये वास्वयङ्कृते कुसीदं च” इति गौतमस्मरणात् अस्वयङ्कृतेन जीव्यन्ते । सेवा च दीनदृष्टिसन्दर्शनादिरूपतया **श्ववृत्तिर्** इत्य् उक्ता, तस्मात् तां प्रकृतो ब्राह्मणः परित्यजेत् ॥ ४.५–६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	But trade and (money-lending) are Satyanrita, even by that one may subsist. Service is called Svavritti; therefore one should avoid it.
 </details>
 
 <details><summary>भारुचिः</summary>

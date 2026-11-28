@@ -2,6 +2,11 @@
 title = "249 श्राद्धम् भुक्त्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, having eaten at a śrāddha, gives the leavings to a śūdra,—this foolish man falls headlong into the Kālasūtra hell.—(249)
@@ -42,11 +47,6 @@ jāyate*’ for ‘*kālasūtramavākśirāḥ*.’\]
 <details><summary>गोविन्दराजः</summary>
 
 **श्राद्धम्** इति । श्राद्धभोजनोच्छिष्टं यः शूद्राय ददाति स मूर्खः कालसूत्राख्यनरकमध्ये अधोमुखो व्रजति । आश्रितसच्छूद्रत्वात् उच्छिष्टम् अन्नं दातव्यम् इति प्राप्ते ऽयं प्रतिषेधः ॥ ३.२४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
 </details>
 
 <details><summary>भारुचिः</summary>

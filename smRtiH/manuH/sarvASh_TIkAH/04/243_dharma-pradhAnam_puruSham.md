@@ -2,6 +2,11 @@
 title = "243 धर्म-प्रधानम् पुरुषम्"
 +++
 
+<details><summary>Bühler</summary>
+
+243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It speedily carries the man, who is devoted to duty and has his sins destroyed by austerities, clothed in his own (spiritual) body, to the brighter regions above.—(243)
@@ -46,11 +51,6 @@ context.
 <details><summary>गोविन्दराजः</summary>
 
 **धर्मप्रधानम्** इति । धार्मिकं **पुरुषं **कथञ्चित् प्रमादकृते च व्यतिक्रमे प्रायश्चित्तेनापगतपापं स्वतेजःपुञ्जोज्ज्वलितं विचरत्वात् ब्रह्मवद् आकाशात्मकं सन्तं प्रकृतो धर्मः क्षिप्रं **परलोकं नयति** । तस्माद् धर्मं शनैः सञ्चिनुयात् ॥ ४.२४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
 </details>
 
 <details><summary>भारुचिः</summary>

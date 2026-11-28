@@ -2,6 +2,11 @@
 title = "155 विप्राणाञ् ज्ञानतो"
 +++
 
+<details><summary>Bühler</summary>
+
+155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among Brāhmaṇas seniority is by knowledge; among Kṣatriyas by valour; and among Vaiśyas by grains and riches; among Shudras alone it is by age.—(155)
@@ -55,11 +60,6 @@ sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhma�
 <details><summary>गोविन्दराजः</summary>
 
 एवं च सति **विप्राणाम् **इति । **विप्राणां **ज्ञानेन श्रैष्ठ्यम्, **क्षत्रियाणां** पुनः पौरुषेण, **वैश्यानां** धान्यहिरण्यादेः, **शूद्राणां** वयस्तः ॥ २.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	The seniority of Brahmanas is from (sacred) knowledge, that of Kshatriyas from valour, that of Vaisyas from wealth in grain (and other goods), but that of Sudras alone from age.
 </details>
 
 <details><summary>भारुचिः</summary>

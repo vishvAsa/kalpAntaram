@@ -2,6 +2,11 @@
 title = "219 मुण्डो वा"
 +++
 
+<details><summary>Bühler</summary>
+
+219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may have his head shaved, or wear his hair in braids, or have only the top-hair braided. The sun should never set, nor should it rise, while he is still in the village.—(219)
@@ -66,11 +71,6 @@ shaven or all in braids.’
 <details><summary>गोविन्दराजः</summary>
 
 **मुण्ड** इति । लूनाखिलकेशो वा स्यात्, इतरेतरसंलग्नधृतसमस्तकेशो वा स्यात् **शिखैव **वा **जटा** अस्य यथाभूतः स्यात् । तथा च कुर्याद् येनास्य **ग्राम**नगरावस्थितस्योत्तरश्लोके शयानग्रहणाच् छयानस्य **सूर्यो** नास्तं यायात् **नाभ्युदियात् क्वचित्** कस्मिंश्चित् काले ॥ २.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.
 </details>
 
 <details><summary>भारुचिः</summary>

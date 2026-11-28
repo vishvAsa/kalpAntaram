@@ -3,6 +3,11 @@ title = "057 तेषां स्वम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Having (first) ascertained the opinion of each (minister) separately and (then the views) of all together, let him do what is (most) beneficial for him in his affairs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having ascertained the opinion of each of the ministers individually and also collectively, he shall, in his affairs, do what is beneficial to himself.—(57)
@@ -54,9 +59,4 @@ subject of consultation severally with each of his ministers; after which he sho
 <details><summary>भारुचिः</summary>
 
 परतः प्रज्ञाम् उपादित्समानस् तान् मन्त्रि[ण एकैकशः पृच्छेत्] समस्तांश् च । यत्कारणं कश्चिद् धि पुरुषः परिषद्य् अप्रतिभानवान् भवति, रहसि च प्रगल्भः परिषदि च घट्टितप्रज्ञो भवति । यतस् तान् अपक्ष्योभयथा पृच्छेत् । ते यद् उक्तवन्तस् तद् व्यवस्येत्, तदन्यतमोपदिष्टं यावद् अप्रत्यनीकं निर्दोषं च ॥ ७.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Having (first) ascertained the opinion of each (minister) separately and (then the views) of all together, let him do what is (most) beneficial for him in his affairs.
 </details>

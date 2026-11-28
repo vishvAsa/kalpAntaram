@@ -3,6 +3,11 @@ title = "321 तथा धरिममेयानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+321	So shall corporal punishment be inflicted for stealing more than a hundred (palas) of articles sold by the weight, (i.e.) of gold, silver, and so forth, and of most excellent clothes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case or articles weighed by scales,—gold, silver and the rest,—if more than a hundred (are stolen),
@@ -125,9 +130,4 @@ shall be of the value of the article stolen, say the followers of Manu,—double
 <details><summary>भारुचिः</summary>
 
 धरिम्णा] तुलया यानि मीयन्ते तानि **धर्ममेयानि** सुवर्णादीनि । सुवर्णादिग्रहणं च घृतादिन्वृत्त्यर्थम् । तथा चानन्तरम् एव घृतादीनां तन्मूल्याद् (?) द्विगुणं दमं वक्ष्यति । [एवं च] "सुवर्णरजतादीनाम्" इत्य् एवमादि ग्रहणं सर्वलोहोपसंग्रहार्थम् । ये पुनः धर्मेभ्यः पृथङ्मेयान्य् आचक्षते धान्यादीनि तेषां "धान्यं दशभ्यः कुम्भेभ्यः" इत्य् अनेनेदं पुनरुक्तम् आपद्यते । घृतादीनां च मेयत्वे कल्प्यमाने वक्ष्यमाणैर् घृतादिभिः पौनरुक्त्यम् । यतस् तथा **धरिममेयानाम्** इत्य् अस्य यथोक्त एव विग्रहः । **उत्तमानां च वाससां** नवादीनाम् ॥ ८.३२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-321	So shall corporal punishment be inflicted for stealing more than a hundred (palas) of articles sold by the weight, (i.e.) of gold, silver, and so forth, and of most excellent clothes.
 </details>

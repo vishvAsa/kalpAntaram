@@ -3,6 +3,11 @@ title = "288 द्रव्याणि हिंस्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+288	He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the (owner) and pay to the king a fine equal to the (damage).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man, either intentionally or unintentionally, damages the goods of another, he shall give satisfaction to him and pay to the king a fine equal to it.—(288)
@@ -68,9 +73,4 @@ or destroy any articles, he should be made to pay the lowest amercement.’
 <details><summary>भारुचिः</summary>
 
 जानन्न् अजानन् वा हिंसयन् विनाशयन् दण्ड्यः । न त्व् अज्ञानत इति प्रमोक्तव्यः । तुष्ट्युत्पत्तिश् च तत्प्रतिसंस्कारेण निरन्वयविनाशे वा तथाविधस्यान्यस्य प्रतिपादनेन ॥ ८.२८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-288	He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the (owner) and pay to the king a fine equal to the (damage).
 </details>

@@ -3,6 +3,11 @@ title = "164 स्वयङ्कृतश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+164	War is declared to be of two kinds, (viz.) that which is undertaken in season or out of season, by oneself and for one's own purposes, and (that waged to avenge) an injury done to a friend.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 War has been declared to be of two kinds:—(1) that which is waged, in season or out of season, by oneself, for his own purpose, and (2) that which is waged on some wrong done to an ally.—(164)
@@ -62,9 +67,4 @@ rivalry, (2) caused by dispute about lands, (3) caused by women, (4) caused by i
 <details><summary>भारुचिः</summary>
 
 यदायम् उत्सहते स्वशक्त्या परं जेतुं तदा **स्वयंक्र्तो विग्रहः** । **अकाले** ऽप्य् उच्चयापेक्षया । यस्य परस्यामित्रस् तद्विजिगीषोर् मित्रम् । तेन यदा परस्यापक्रियते तद्विजिगिषोर् **मित्रेणापकृते** व्यसनिनि परे विपरीतो विग्रहः । सत्सु विग्रहकारणेषु तत्र यद्य् आसनं यदि यानं सर्वदा **द्विविधो विग्रहः** ॥ ७.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	War is declared to be of two kinds, (viz.) that which is undertaken in season or out of season, by oneself and for one's own purposes, and (that waged to avenge) an injury done to a friend.
 </details>

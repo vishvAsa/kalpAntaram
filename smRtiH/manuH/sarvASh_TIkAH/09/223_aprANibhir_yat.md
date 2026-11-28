@@ -3,6 +3,11 @@ title = "223 अप्राणिभिर् यत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+223	When inanimate (things) are used (for staking money on them), that is called among men gambling (dyuta), when animate beings are used (for the same purpose), one must know that to be betting (samahvaya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is done through inanimate things is called ‘Gambling’; while what is done through animate things is to be known as ‘Betting.’—(223)
@@ -46,9 +51,4 @@ leather, little staves of ivory, and *Betting* on birds form the subject of a he
 तल् लोके द्यूतम् उच्यते ।  
 प्राणिभिः क्रियते यस् तु  
 स विज्ञेयः समाह्वयः  ॥ ९.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	When inanimate (things) are used (for staking money on them), that is called among men gambling (dyuta), when animate beings are used (for the same purpose), one must know that to be betting (samahvaya).
 </details>

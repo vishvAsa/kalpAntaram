@@ -3,6 +3,11 @@ title = "233 हर्षयेद् ब्राह्मणांस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being happy himself, he shall bring delight to the Brāhmaṇas; he shall feed them, gently and slowly, with dishes, and urge them repeatedly by means of seasonings.—(233)
@@ -55,9 +60,4 @@ qualities of the dishes, he shall feed the Brāhmaṇas slowly, and shall deligh
 <details><summary>गोविन्दराजः</summary>
 
 **हर्षयेद् ब्राह्मणान् हृष्टो भोजयेच् चाशनं शनैः । अन्न्द्येनासकृच् चैनान् गुणैश् च परिशोधयेत् ॥** हृष्टो भूत्वा तैस् तैः प्रियवचनादिभिः **ब्राह्मणान् **तोषयेत् अन्नं चात्वरया **भोजयेत्** पायसादिना घृतपूरादिभिः **एतान् **ब्राह्मणान् इदं गृह्यताम् इत्य् एवं पुनः पुनः प्रबोधयेत् ॥ ३.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.
 </details>

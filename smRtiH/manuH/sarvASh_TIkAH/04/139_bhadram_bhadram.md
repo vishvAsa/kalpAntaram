@@ -2,6 +2,11 @@
 title = "139 भद्रम् भद्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is (not) well, he shall call “well”; or, he shall simply say “well;” he shall not create needless enmity or dispute with any one.—(139)
@@ -65,11 +70,6 @@ not needed. He shall say *well*.’
 <details><summary>गोविन्दराजः</summary>
 
 **भद्रम्** इति । “अभद्रं भद्रम्” इति गौतमस्मरणाद् इह वृत्तवशात् प्रयुक्तम् । तत्राध्याहारेण व्याख्येयम् अकल्यानरूपं यत् तत् **भद्रं** कल्याणं श्रेय इत्य् एवमादिभिः शब्दैः इतिकरणस्य प्रकारार्थत्वात् **ब्रूयात् । भद्रम्** इत्य् अनेनैवं वाशब्देन तत् । वादानिमित्तौ वैरकलहौ चासमर्थेनापि सह नैव **कुर्यात्** ॥ ४.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	(What is) well, let him call well, or let him say 'well' only; let him not engage in a useless enmity or dispute with anybody.
 </details>
 
 <details><summary>भारुचिः</summary>

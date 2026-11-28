@@ -3,6 +3,11 @@ title = "026 सत्त्वञ् ज्ञानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	Goodness is declared (to have the form of) knowledge, Darkness (of) ignorance, Activity (of) love and hatred; such is the nature of these (three) which is (all-) pervading and clings to everything created.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Sattva’ has been declared to be Knowledge, ‘Tamas,’ to be Ignorance, and ‘Rajas,’ to be Love and Hate;—such is the nature of these, all-pervading and interpenetrating all beings.—(26)
@@ -59,9 +64,4 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 487);—and in
 <details><summary>भारुचिः</summary>
 
 सत्त्वादीनाम् इदं लक्षणं सर्वप्राणिषु ॥ १२.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	Goodness is declared (to have the form of) knowledge, Darkness (of) ignorance, Activity (of) love and hatred; such is the nature of these (three) which is (all-) pervading and clings to everything created.
 </details>

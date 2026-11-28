@@ -3,6 +3,11 @@ title = "020 यद्य् आचरति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	If (the soul) chiefly practises virtue and vice to a small degree, it obtains bliss in heaven, clothed with those very elements.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he practises virtue for the most part, and vice only in a small degree, then, invested with those same material substances, he obtains happiness in heaven.—(20)
@@ -30,9 +35,4 @@ He obtains happiness in heaven.—(20)
 <details><summary>गोविन्दराजः</summary>
 
 **यथाचरतीति ।** स क्षेत्रज्ञो यदि बाहुल्येन धर्मम् अनुतिष्ठति स्वल्पम् अधर्मं तदा तैर् एव पृथिव्यादिभूतैः उक्तः पाञ्चभौतिकशरीरः स्वर्गे सुखम् अनुभवति ॥ १२.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	If (the soul) chiefly practises virtue and vice to a small degree, it obtains bliss in heaven, clothed with those very elements.
 </details>

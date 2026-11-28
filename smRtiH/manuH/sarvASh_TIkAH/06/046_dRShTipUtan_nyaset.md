@@ -3,6 +3,11 @@ title = "046 दृष्टिपूतन् न्यसेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+046	Let him put down his foot purified by his sight, let him drink water purified by (straining with) a cloth, let him utter speech purified by truth, let him keep his heart pure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall place his foot sight-purified, drink water cloth-clarified, utter speech truth-sanctified and act with pure mind—(46).
@@ -53,9 +58,4 @@ he must drink water purified (by straining) with a cloth; he must utter speech p
 <details><summary>भारुचिः</summary>
 
 प्रसिद्धार्थश्लोकः ॥ ६.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	Let him put down his foot purified by his sight, let him drink water purified by (straining with) a cloth, let him utter speech purified by truth, let him keep his heart pure.
 </details>

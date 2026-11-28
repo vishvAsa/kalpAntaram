@@ -3,6 +3,11 @@ title = "134 यस्य राज्ञस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+134	The kingdom of that king, in whose dominions a Srotriya pines with hunger, will even, ere long, be afflicted by famine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The kingdom of that King in whose realm the Śrotriya suffers from hunger, shall, ere long, pine with hunger.—(134)
@@ -45,9 +50,4 @@ from want,’
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **यअस्येति** । यस्य राज्ञो देशे श्रोत्रियः क्षुधावसन्नो भवति, तस्य राष्ट्रम् अपि अचिरात् क्षुधावसादम् एति ॥ ७.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	The kingdom of that king, in whose dominions a Srotriya pines with hunger, will even, ere long, be afflicted by famine.
 </details>

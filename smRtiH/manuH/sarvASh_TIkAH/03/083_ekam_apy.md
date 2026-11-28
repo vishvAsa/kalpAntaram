@@ -2,6 +2,11 @@
 title = "083 एकम् अप्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At that (Śrāddha) which forms part of the Five Sacrifices, one should feed even one Brāhmaṇa in honour of the pitṛs; and on this occasion he shall not feed any Brāhmaṇa in honour of the Viśve-devas.—(83)
@@ -96,11 +101,6 @@ making them sit facing the east......... he shall offer him water and seat; and 
 <details><summary>गोविन्दराजः</summary>
 
 **एकम्** इति । पञ्चयज्ञान्तर्गते पितृप्रयोजने **एकम् अपि** शक्त्या सति सम्भवे बहून् अपि विप्रान् भोजयेत् । श्राद्धशब्देनोदनात् वैश्वदेवब्राह्मणभोजने प्राप्ते आह **न चैवेति** । विश्वान् देवान् उद्दिश्य अन्यं ब्राःमणं न किञ्चिद् भोजयेत् ॥ ३.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
 </details>
 
 <details><summary>भारुचिः</summary>

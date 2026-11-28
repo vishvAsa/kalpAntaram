@@ -3,6 +3,11 @@ title = "067 दैवे रात्र्य्-अहनी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the division of these is that the ‘Northern course’ is the ‘Day,’ and the ‘Southern Course’ the ‘Night.’—(67)
@@ -26,9 +31,4 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 <details><summary>गोविन्दराजः</summary>
 
 **दैवे** इति । मानुष्यं **वर्षं **देवानाम् अहोरात्रम् । तत्र चोत्तरायणम् **अहो** **दक्षिणायनं रात्रिर्** इति विभागः ॥ १.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.
 </details>

@@ -3,6 +3,11 @@ title = "291 छिन्न-नास्ये भग्न-युगे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+291	When the nose-string is snapped, when the yoke is broken, when the carriage turns sideways or back, when the axle or a wheel is broken,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -44,9 +49,4 @@ _यत्र नास्ति दोषस् तानि तावद् �
 तिर्यक्-प्रतिमुखागते ।  
 अक्ष-भङ्गे च यानस्य  
 चक्र-भङ्गे तथैव च  ॥ ८.२९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-291	When the nose-string is snapped, when the yoke is broken, when the carriage turns sideways or back, when the axle or a wheel is broken,
 </details>

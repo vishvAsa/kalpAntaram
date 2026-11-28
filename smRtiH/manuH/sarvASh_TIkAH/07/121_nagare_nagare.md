@@ -3,6 +3,11 @@ title = "121 नगरे नगरे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+121	And in each town let him appoint one superintendent of all affairs, elevated in rank, formidable, (resembling) a planet among the stars.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In each town he shall appoint one Superintendent of all works, of high status and awe-inspiring appearance,—he being like a planet among stars.—(121)
@@ -55,9 +60,4 @@ officers in charge of departments as are endowed with all the qualities of a min
 <details><summary>भारुचिः</summary>
 
 हस्त्यश्वादि[बल]संपन्नं प्रतिनगरं नागरिकं स्थापयेत् ॥ ७.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	And in each town let him appoint one superintendent of all affairs, elevated in rank, formidable, (resembling) a planet among the stars.
 </details>

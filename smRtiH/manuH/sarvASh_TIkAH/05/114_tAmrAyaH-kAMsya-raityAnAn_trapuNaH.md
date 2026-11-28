@@ -2,6 +2,11 @@
 title = "114 ताम्रायः-कांस्य-रैत्यानान् त्रपुणः"
 +++
 
+<details><summary>Bühler</summary>
+
+114	Copper, iron, brass, pewter, tin, and lead must be cleansed, as may be suitable (for each particular case), by alkaline (substances), acids or water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of copper, iron, brass, pewter and tin, the purification should be done, according to suitability, by means of alkaline substances, of liquid acids and of water.—(113).
@@ -73,11 +78,6 @@ heating; for milk, flooding; curd and thickened milk are purified by throwing ou
 <details><summary>गोविन्दराजः</summary>
 
 **ताम्रायःकांस्यरैत्यानाम् **इति । ताम्रलोहकांस्यपित्तलत्रपुसीसानां भस्मोदकलाञ्जिककादिभिर् मलनिर्हरणातिक्रमेण शौचं कर्तव्यम् । इदं च यत्र मृद्भस्मनाम् उच्च्छिष्टादिमलनिर्हरणासामर्थं तद्विषयम्, यथार्हवचनात् ॥ ५.११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Copper, iron, brass, pewter, tin, and lead must be cleansed, as may be suitable (for each particular case), by alkaline (substances), acids or water.
 </details>
 
 <details><summary>भारुचिः</summary>

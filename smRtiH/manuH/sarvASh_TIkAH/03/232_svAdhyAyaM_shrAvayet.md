@@ -3,6 +3,11 @@ title = "232 स्वाध्यायं श्रावयेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+232	At a (sacrifice in honour) of the manes, he must let (his guests) hear the Veda, the Institutes of the sacred law, legends, tales, Puranas, and Khilas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, one should recite the Vedic text, Legal Institutes, Stories, Histories, Legends and supplementary Texts.—(232)
@@ -73,9 +78,4 @@ mantras.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्वाध्यायं श्रावयेत् पित्र्यम्** इति । वेदमानवादिशास्त्राणि **आख्यानानि **सौपर्णमैत्रावरुणादीनि पृथक् वेदोदितानि भारतादीनि वाय्वादिप्रोक्तानि शिवसङ्कल्पादीनि श्राद्धे ब्राह्मणान् **श्रावयेत्** ॥ ३.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	At a (sacrifice in honour) of the manes, he must let (his guests) hear the Veda, the Institutes of the sacred law, legends, tales, Puranas, and Khilas.
 </details>

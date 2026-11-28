@@ -3,6 +3,11 @@ title = "109 धर्मेणाऽधिगतो यैस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+109	Those Brahmanas must be considered as Sishtas who, in accordance with the sacred law, have studied the Veda together with its appendages, and are able to adduce proofs perceptible by the senses from the revealed texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those Brāhmaṇas, by whom the Veda, along with its supplements, has been learnt in the right manner, and who are guided directly by the revealed texts,—shall be regarded as ‘cultur ed.’—(109)
@@ -133,9 +138,4 @@ shall regulate his course of action according to the conduct which is unanimousl
 <details><summary>भारुचिः</summary>
 
 **सपरिबृंहणः** साङ्ग इत्य् अर्थः । अथ वा मीमाम्सान्यायविस्तरधर्मशास्त्रपुराणैर् अङ्गैश् च सह वेदः **सपरिबृंहण** उच्यते । एवं च व्याख्यायमाने प्रकरणान् व्यायसंपरिग्रहः कृतो भवति, विद्याबहुत्वस्य च मीमांसादिग्रहणेन । तदभावे ॥ १२.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	Those Brahmanas must be considered as Sishtas who, in accordance with the sacred law, have studied the Veda together with its appendages, and are able to adduce proofs perceptible by the senses from the revealed texts.
 </details>

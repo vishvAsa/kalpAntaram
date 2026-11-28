@@ -2,6 +2,11 @@
 title = "038 विद्युतो ऽशनि-मेघांश्"
 +++
 
+<details><summary>Bühler</summary>
+
+038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Lightnings, Hails, Clouds, Vertical Phosphorescence, Rainbows, Meteors, Portentous Sounds, Comets, and Stars of varying magnitudes.—(38)
@@ -38,11 +43,6 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 <details><summary>गोविन्दराजः</summary>
 
 **विद्युत **इति । रोहितं शस्त्रोत्पात इत् प्रसिद्धम् । नानावर्ण धनूरूपं इन्द्रधनुः । **उल्का **रेखाकारम् अन्तरिक्षात् पतत् ज्योतिः कदाचिद् रात्रौ दृश्यते । **निर्घातः** क्षित्यर्तर्गतः उत्पातध्वनिः । **केतवो **दण्डाद्याकाराणि ज्योतींषि । अन्यान्य् अपि **ज्योतींषि **उत्कृष्टापकृष्टानि ॥ १.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
 </details>
 
 <details><summary>भारुचिः</summary>

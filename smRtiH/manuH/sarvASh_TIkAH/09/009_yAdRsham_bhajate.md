@@ -3,6 +3,11 @@ title = "009 यादृशम् भजते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+009	As the male is to whom a wife cleaves, even so is the son whom she brings forth; let him therefore carefully guard his wife, in order to keep his offspring pure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the man to whom the woman clings, so the offspring that she brings forth; hence for the sake of the purity of the offspring one should carefully guard the woman.—(9).
@@ -59,9 +64,4 @@ son partaking of the character of that man on whom she has her affections fixed 
 <details><summary>भारुचिः</summary>
 
 तत्संरक्षणाच् चापत्यशुद्ध्या सर्वकर्माधिकारो ऽत्यन्तोत्कर्षप्रयोजनो यस्मात् । अतश् चायम् उक्तो मुहुर् मुहुर् आदरेण तत्संरक्षणे ॥ ९.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	As the male is to whom a wife cleaves, even so is the son whom she brings forth; let him therefore carefully guard his wife, in order to keep his offspring pure.
 </details>

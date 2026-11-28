@@ -3,6 +3,11 @@ title = "127 अकामतस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+128	But if a Brahmana unintentionally kills a Kshatriya, he shall give, in order to purify himself, one thousand cows and a bull;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the chief of twice-born men kills a Kṣatriya unintentionally, he should duly perform the penance and give away a thousand cows and a bull.—(127)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 11.126].
 <details><summary>भारुचिः</summary>
 
 अर्थाच् चेदं वित्तवतः प्रायश्चित्तम् उपदिश्यते । पूर्वं चावित्तस्य तपः । वक्ष्यति च दानं तस्य [च] तपसा विकल्पं "दानेन वधनिर्णेकं सर्पादीनाम् अश्क्नुवन्" इत्य् एवमादि । **अकामत** इत्य् अयं च प्रमादस्तुत्यर्थो ऽर्थवादः । यस्मान् न ह्य् अकामतो गरीयः प्रायश्चित्तम् उपपद्यत इत्य् उक्तं पुरस्तात् । एवं तावत् संभवद्वित्तस्य प्रायश्चित्तम् इदम् अन्यद् । दरिद्रस्य पूर्वोक्तम् अनूद्यते वैकल्पिकम् एतस्य ॥ ११.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	But if a Brahmana unintentionally kills a Kshatriya, he shall give, in order to purify himself, one thousand cows and a bull;
 </details>

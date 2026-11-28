@@ -3,6 +3,11 @@ title = "080 सांवत्सरिकम् आप्तैश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+080	Let him cause the annual revenue in his kingdom to be collected by trusty (officials), let him obey the sacred law in (his transactions with) the people, and behave like a father towards all men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should cause the yearly revenue to be collectbd by trusted men. In his business he shall stick to the scriptures; and towards the people he shall behave like a father.—(80)
@@ -61,9 +66,4 @@ commercial traffic, entrenchment of strongholds for soldiers in the capital, con
 <details><summary>भारुचिः</summary>
 
 यथोक्तेभ्य आयस्थानेभ्य आम्नायप्रामाण्येन षष्ठाष्टमभागग्रहणादिना **बलिम् आहारयेत्** । [करदेष्व् अन्येषु च **पितृवत्**] स्यात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-080	Let him cause the annual revenue in his kingdom to be collected by trusty (officials), let him obey the sacred law in (his transactions with) the people, and behave like a father towards all men.
 </details>

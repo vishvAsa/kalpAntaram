@@ -2,6 +2,11 @@
 title = "173 यदि नात्मनि"
 +++
 
+<details><summary>Bühler</summary>
+
+173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If not on himself, then on his sons,—if not on his sons, then on his grandsons (falls the punishment); an unrighteousness, once committed, never fails to bring its consequences to the perpetrator.—(173)
@@ -46,11 +51,6 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘
 <details><summary>गोविन्दराजः</summary>
 
 **यदीति । यदि **स्वशरीरव्याध्युत्पादनद्वारेणाधर्मो न फलति तदा पुत्रपौत्ररोगाद्युद्भवमुखेन फलति । न त्व् असौ कृतः कदाचित् **कर्तुर् निष्फलो भवति** यैश् च दुष्कृतवशेन व्याध्याद्युपेतैर् भवितव्यं तथाविधाः तस्यात्मदुष्कृतबलात् तद्विपत्त्यादिदर्शनपीडानुभवार्थं पुत्रपौत्रा इह जन्मनि जन्मान्तरे वा जायन्ते ॥ ४.१७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
 </details>
 
 <details><summary>भारुचिः</summary>

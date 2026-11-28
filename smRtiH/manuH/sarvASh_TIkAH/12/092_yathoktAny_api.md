@@ -3,6 +3,11 @@ title = "092 यथोक्तान्य् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	After giving up even the above-mentioned sacrificial rites, a Brahmana should exert himself in (acquiring) the knowledge of the Soul, in extinguishing his passions, and in studying the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having renounced even the said acts, the Brāhmaṇa shall concentrate his effort on the knowledge of Self, on calmness and on the study of the Veda.—(92)
@@ -50,9 +55,4 @@ This verse is quoted in *Mitākṣarā* (3.58) which explains ‘Vedābhyāsa’
 <details><summary>भारुचिः</summary>
 
 **यथोक्तान्य् अपि कर्माणि परिहायेत्य्** अयम् अर्थवादः, आत्मज्ञानशमवेदाभ्यासस्तुतये । न हि नित्यानां कर्मणां परित्यागो ऽस्त्य् आत्मेच्छया । शास्त्रतस् तु परित्यागः पाक्षिकः पुरुषमेधादिष्व् अनुत्यागेन । तदभावपक्ष अनधिकृतपुरुषविषयम् एतत् त्रयम् ॥ १२.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	After giving up even the above-mentioned sacrificial rites, a Brahmana should exert himself in (acquiring) the knowledge of the Soul, in extinguishing his passions, and in studying the Veda.
 </details>

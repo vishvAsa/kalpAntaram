@@ -3,6 +3,11 @@ title = "291 अबीजविक्रयी चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+291	He who sells (for seed-corn that which is) not seed-corn, he who takes up seed (already sown), and he who destroys a boundary (-mark), shall be punished by mutilation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who sells what is not-seed, or picks out the seed, or transgresses the bounds (of propriety) shall suffer ‘mutilation’ as the penalty.—(291)
@@ -51,9 +56,4 @@ sown by another, or (*c*) breaks a local or tribal or family custom, or a script
 <details><summary>भारुचिः</summary>
 
 बीजम् इति कृत्वाबीजं यो विक्रीणीते ऽर्थिनश् च क्रेतॄन् दृष्ट्वा बीजमूल्यत उत्कर्षं नयति । **मर्यादाश्** च क्षेत्रकेदारगता यो भिनत्ति, न ग्रामदेशसङ्घमर्यादाः, बीजक्रयविक्रयादिसाहचर्यात् । स कर्णनासाच्छेदनाख्यं **विकृत**त्वकारणम् अर्हति । अपराधसमुच्चयेन सानुबन्धेन च मारणम्, येन न हि दृष्टप्रयोजन इतीयान् निग्रह उपपद्यते । अयम् अपि दण्डो न नियमतः स्याद् एतेष्व् एवापराधेषु, दृष्टार्थत्वाद् अस्य निग्रहोपदेशस्य ॥ ९.२९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-291	He who sells (for seed-corn that which is) not seed-corn, he who takes up seed (already sown), and he who destroys a boundary (-mark), shall be punished by mutilation.
 </details>

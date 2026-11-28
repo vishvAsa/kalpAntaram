@@ -3,6 +3,11 @@ title = "151 मध्यन्दिने ऽर्धरात्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+151	At midday or at midnight, when his mental and bodily fatigues are over, let him deliberate, either with himself alone or with his (ministers), on virtue, pleasure, and wealth,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At mid-day or at mid-night, free from fatigue and dulness, he shall deliberate on matters relating to morality, pleasure and wealth, either with them, or alone by himself;—(151)
@@ -47,9 +52,4 @@ is in consonance with spiritual and material welfare; he shall not deprive himse
 <details><summary>भारुचिः</summary>
 
 धर्मार्थकामानां वृद्धिं **चिन्तयेत्** । परस्परविरोधिनां राज्ञाम् अन्यतमविवृद्धौ तेषाम् उच्छित्तिर् जायते ॥ ७.१५०–५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	At midday or at midnight, when his mental and bodily fatigues are over, let him deliberate, either with himself alone or with his (ministers), on virtue, pleasure, and wealth,
 </details>

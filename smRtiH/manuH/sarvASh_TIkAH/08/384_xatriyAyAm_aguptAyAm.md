@@ -3,6 +3,11 @@ title = "384 क्षत्रियायाम् अगुप्ताया
 
 +++
 
+<details><summary>Bühler</summary>
+
+384	For (intercourse with) an unguarded Kshatriya a fine of five hundred (panas shall fall) on a Vaisya; but (for the same offence) a Kshatriya shall be shaved with the urine (of a donkey) or (pay) the same fine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of the Vaiśya approaching an unprotected Kṣatriya woman, the fine shall be five hundred; but the Kṣatriya may suffer tonsure or the fine.—(384)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 8.382].
 <details><summary>भारुचिः</summary>
 
 सर्वान्त्यश् चाण्डालो वर्णापसदः । तस्य स्त्री । अन्त्यजस्त्रीसंगमे ऽयं दण्डः । अविधानाच् च गुप्तागुप्तयोर् अविशेषेणायं दण्डः स्यात् । अथ वाधिकाराद् अगुप्तायाम् एव स्यात् । गुप्तायां तु विशिष्टतरः कार्यः ॥ ८.३८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-384	For (intercourse with) an unguarded Kshatriya a fine of five hundred (panas shall fall) on a Vaisya; but (for the same offence) a Kshatriya shall be shaved with the urine (of a donkey) or (pay) the same fine.
 </details>

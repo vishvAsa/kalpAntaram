@@ -3,6 +3,11 @@ title = "071 एतान्य् एनांसि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	Learn (now) completely those penances, by means of which all the several offences mentioned (can) be expiated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learn properly now those penances b y which all these offences, severally described, become expiated.—(71)
@@ -40,9 +45,4 @@ This verse puts in brief what is going to be expounded.—(71)
 <details><summary>भारुचिः</summary>
 
 वक्ष्यमाणप्रायश्चित्तोपन्यासार्थः श्लोकः ॥ ११.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	Learn (now) completely those penances, by means of which all the several offences mentioned (can) be expiated.
 </details>

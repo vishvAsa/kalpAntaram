@@ -3,6 +3,11 @@ title = "027 इष्टिं वैश्वानरीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	In case the prescribed animal and Soma-sacrifices cannot be performed, let him always offer at the change of the year a Vaisvanari Ishti as a penance (for the omission).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of the impossibility of the performance of the prescribed Animal and Soma sacrifices, one shall always offer the Vaiśvānarī sacrifice at the change of the year,—in expiation thereof.—(27)
@@ -67,9 +72,4 @@ year, the Soma-sacrifice,—the Paśu-sacrifice, at every solstice,—also the *
 <details><summary>भारुचिः</summary>
 
 यदि त्व् असामर्थ्यात् पशुसोमानां शास्त्रचोदितानाम् अनुष्ठाने न शक्नुयात्, तत इमाम् इष्टिं वैश्वानरीं कुर्याण् निष्कृत्यर्थम् । नित्यानां कर्मणाम् अनुष्ठानाशक्तौ । एवं च सति (?) नित्यकर्मातिपत्ताव् अविरोधात् श्रौतस्य प्रायश्चित्तस्य प्रतिनिधेर् वैश्वानर्याश् च समुच्चयः । ननु चैकार्थत्वाद् विकल्पः प्राप्नोति । न ह्य् एकार्थता साक्षाद् उपलभ्यते, किं तर्ह्य् एकं श्रौतम् अन्यत् स्मार्तम् । एवं च प्रमाणभिन्नयोर् अविकल्पः । एकप्रमाणत्वे सति तद्विकल्पो न्यायः स्यात् । अपरे तु विकल्पम् एव मन्यन्ते । तथा च ब्रह्महत्याप्रायश्चित्तयोः श्रौतस्मार्तयोर् विकल्पं वक्ष्यति । एतत् त्व् आपत्कल्पे नित्यकर्मातिपत्ताव् अस्य स्यात् । तथा च सति ॥ ११.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	In case the prescribed animal and Soma-sacrifices cannot be performed, let him always offer at the change of the year a Vaisvanari Ishti as a penance (for the omission).
 </details>

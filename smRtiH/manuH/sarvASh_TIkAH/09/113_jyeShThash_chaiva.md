@@ -3,6 +3,11 @@ title = "113 ज्येष्ठश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+113	Both the eldest and the youngest shall take (their shares) according to (the rule just) stated (each of) those who are between the eldest and the youngest, shall have the share (prescribed for the) middlemost.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eldest and the youngest shall receive their property according to the rule just stated; to those other than the eldest and the youngest, would belong the middlemost share.—(113)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 9.112].
 <details><summary>भारुचिः</summary>
 
 बहुपुत्रस्य ज्येष्ठकनिष्ठयोर् गुणवतोर् यथोक्तम् उद्धृत्य निर्गुणानां बहूनाम् अपि मध्यमानां गुणवतो मध्यमस्य यश् चत्वारिंशद्भाग उक्तो ऽनन्तरश्लोके स बहुभिर् अपि च मध्यमैर् विभजनीयः । समगुणानां तु मध्यमानां सर्वेषाम् एकैकस्य पूर्ववच् च[त्वा]रिंशद् भाग उद्धार्यः ॥ ९.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-113	Both the eldest and the youngest shall take (their shares) according to (the rule just) stated (each of) those who are between the eldest and the youngest, shall have the share (prescribed for the) middlemost.
 </details>

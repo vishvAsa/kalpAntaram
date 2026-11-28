@@ -3,6 +3,11 @@ title = "100 यैः कर्मभिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+100	(Let him follow) those mechanical occupations and those various practical arts by following which the twice-born are (best) served.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That is, those occupations of craftsmen and other arts by the performance whereof the twice-born men are best served.—(100)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 10.99].
 <details><summary>भारुचिः</summary>
 
 कारुककर्माणि वर्धकिलोहकारादि, नानाशिल्पान्यालेख्यादीनि । आपत्काले वृत्त्यर्थम् इदं श्लोकद्वयं प्रकरणसामर्थ्याद् विज्ञेयम् ॥ १०.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	(Let him follow) those mechanical occupations and those various practical arts by following which the twice-born are (best) served.
 </details>

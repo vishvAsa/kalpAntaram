@@ -3,6 +3,11 @@ title = "014 नैता रूपम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+014	Women do not care for beauty, nor is their attention fixed on age; (thinking), '(It is enough that) he is a man,' they give themselves to the handsome and to the ugly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They care not for beauty; they have no regard for age; be he handsome or ugly, they enjoy the man simply because he is a male.—(14)
@@ -53,9 +58,4 @@ or hated; they betake themselves to all men; just as creepers growing in a thick
 <details><summary>भारुचिः</summary>
 
 एतास्व् अवस्थासु वर्तमाना विसंज्ञाः सत्यः । यतः पानादीन् वर्जयेयुः ॥ ९.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	Women do not care for beauty, nor is their attention fixed on age; (thinking), '(It is enough that) he is a man,' they give themselves to the handsome and to the ugly.
 </details>

@@ -2,6 +2,11 @@
 title = "091 आचार्यं स्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+091	A student does not break his vow by carrying out (to the place of cremation) his own dead teacher (akarya), sub-teacher (upadhyaya), father, mother, or Guru.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The student, carrying his own dead Teacher, or tutor, or father, or mother, or monitor,—does not suffer in his observances.—(90).
@@ -73,11 +78,6 @@ perform such acts as the burning of the dead body; if he does do it, he shall pe
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्यम् **इति । स्वम् आचार्यं न गुरौ सन्निहिते गुरुवृत्तिम् आचरेद् इति न्यायेनाचार्यम् अपि मातृपित्रुपाध्यायम् “अल्पं वा बहु वा यस्य" इत्येवंविधं गुरुं प्रेतान् निर्हृत्य ब्रह्मचारी लुप्तव्रतो न भवति । एवं वा निर्हृत्य भवतीति गम्यते ॥ ५.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	A student does not break his vow by carrying out (to the place of cremation) his own dead teacher (akarya), sub-teacher (upadhyaya), father, mother, or Guru.
 </details>
 
 <details><summary>भारुचिः</summary>

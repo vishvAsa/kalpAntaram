@@ -3,6 +3,11 @@ title = "021 यस्य शूद्रस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	The kingdom of that monarch, who looks on while a Sudra settles the law, will sink (low), like a cow in a morass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The kingdom or that king for whom the investigation of Law is done by a Śūdra, while he himself is looking on, suffers, like the cow in a morass.—(21)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 8.20].
 > **तस्य सीदति तद्राष्ट्रं पङ्के गौर् इव पश्यतः  ॥ ८.२१ ॥**
 
 क्षत्रियवैश्यनियोगस्तुत्यर्थो ऽयं शूद्रप्रतिषेध्[अः । तद्विषयम् एवेदम् अप्य् उ]क्तम् —
-</details>
-
-<details><summary>Bühler</summary>
-
-021	The kingdom of that monarch, who looks on while a Sudra settles the law, will sink (low), like a cow in a morass.
 </details>

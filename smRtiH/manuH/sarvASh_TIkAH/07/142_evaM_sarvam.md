@@ -3,6 +3,11 @@ title = "142 एवं सर्वम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+142	Having thus arranged all the affairs (of) his (government), he shall zealously and carefully protect his subjects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus arranged all his business, he shall protect his people, ever intent and watchful.—(142)
@@ -67,9 +72,4 @@ women-archers; in the second apartment by eunuchs armoured and turbaned; in the 
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवम्** उक्तरीत्या **सर्वम् आत्मनः** कार्यजातं सम्पाद्य यत्नवान् बुद्ध्यास्खलन्न् आत्मीयाः **प्रजाः परिरक्षेत्** ॥ ७.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	Having thus arranged all the affairs (of) his (government), he shall zealously and carefully protect his subjects.
 </details>

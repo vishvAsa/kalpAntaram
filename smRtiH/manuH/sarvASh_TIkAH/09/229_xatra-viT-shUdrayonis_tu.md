@@ -3,6 +3,11 @@ title = "229 क्षत्र-विट्-शूद्रयोनिस् �
 
 +++
 
+<details><summary>Bühler</summary>
+
+229	But a Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour; a Brahmana shall pay it by installments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Kṣatriya, the Vaiśya and the Śūdra, when unable to pay a fine, shall discharge the liability by labour; the Brāhmaṇa may pay it by instalments.—(229)
@@ -49,9 +54,4 @@ he should be brought home and made to work; but the Brāhmaṇa should be made t
 <details><summary>भारुचिः</summary>
 
 यथोक्तं दण्डप्रकारम् अशक्नुवन्तो निर्धनत्वात् क्षत्रियादयो दण्डानुरूपाणि कर्माणि कुर्युः । ब्राह्मणस् तु स्वधर्मानुरोधेन **शनैः शनैर्** दण्डनीयः । तद् एतद् उक्तम् अप्य् अधुना पुनर् उच्यते दण्डविषयार्थम् । पूर्वं तु कुसीदप्रकरणे तद्गतम् ॥ ९.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	But a Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour; a Brahmana shall pay it by installments.
 </details>

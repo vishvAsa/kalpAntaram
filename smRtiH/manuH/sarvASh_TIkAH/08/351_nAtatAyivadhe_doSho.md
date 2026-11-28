@@ -3,6 +3,11 @@ title = "351 नाततायिवधे दोषो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+351	By killing an assassin the slayer incurs no guilt, whether (he does it) publicly or secretly; in that case fury recoils upon fury.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No evil of any kind accrues to the slayer for killing a desperado, either openly or secretly; as it is only Fury recoiling upon Fury.—(361)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 8.350].
 > ब्रह्महत्या न तस्यास्ति इति दर्मेषु निश्चयः ॥ इति ।
 
 ईषत्प्रत्यवायायान्ये ऽत्रातत्यिनो गुर्वादयो ऽपि वध्या भवन्तीति शिष्टानाम् अप्य् आततायिनां वधम् इच्छन्ति । अपरे हीनाततायिवधं निर्विकल्पं मन्यन्ते, समे तु विकल्प आत्मनः परस्य वा विशिष्टे आत्मत्यागद एवाकुशलारम्भसामर्थाद् इति । तद् एतद् यथासंभवम् उक्तपरिहारं पूर्वश्लोकविवरण एवेति । साहसस्य च प्रतिषेध एवात्र श्रूयते, न तु दण्डविधिः कश्चिद्, यतः अल्पमध्यमोत्तमापराधेषु साहसिकस्य यथाक्रमं प्रथममध्यमोत्तमसाहसदण्डा एव यथापरिभाषिताः स्युः । अथ वा स्तेयसादृश्यात् साहसिके ऽपि तस्यानुक्तो ऽपि सामर्थ्यात् स्तेयदण्डविकल्पः स्याद् इति ॥ ८.३५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-351	By killing an assassin the slayer incurs no guilt, whether (he does it) publicly or secretly; in that case fury recoils upon fury.
 </details>

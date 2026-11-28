@@ -3,6 +3,11 @@ title = "259 सामन्तानाम् अभावे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+259	On failure of neighbours (who are) original inhabitants (of the country and can be) witnesses with respect to the boundary, (the king) may hear the evidence even of the following inhabitants of the forest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the absence of such original inhabitants of neighbouring villages as could be witnesses in regard to the boundary, the king may examine these (following) frequenters of forests also.—(259)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 तदभावे तु वनगोचराः प्रमाणं स्युः ॥ ८.२५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-259	On failure of neighbours (who are) original inhabitants (of the country and can be) witnesses with respect to the boundary, (the king) may hear the evidence even of the following inhabitants of the forest.
 </details>

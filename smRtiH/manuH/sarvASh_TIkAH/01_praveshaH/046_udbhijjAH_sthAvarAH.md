@@ -2,6 +2,11 @@
 title = "046 उद्भिज्जाः स्थावराः"
 +++
 
+<details><summary>Bühler</summary>
+
+046	All plants, propagated by seed or by slips, grow from shoots; annual plants (are those) which, bearing many flowers and fruits, perish after the ripening of their fruit;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All those immovable brings that are produced by splitting (i.e., Plants) grow out of seeds and slips. those that, abounding in flowers, perish with the ripening of their fruit, are called ‘oṣadhis’ (‘Annuals’).—(46)
@@ -49,11 +54,6 @@ Medhātithi takes ‘*udbhijjāḥ sthāvarāḥ*’ as the subject, and ‘*bī
 <details><summary>गोविन्दराजः</summary>
 
 **उद्भिज्जास्तरव** इति । ऊर्ध्वं भुवं भित्त्वा वृक्षा जायन्ते । ते तु केचिद् बीजाद् एव जायन्ते । अन्ये तु बीजात् काण्डाच् च । शाखाः (शाखैः) बहिर्भूमौ रोपिता वृक्षीभवन्ति । अधुना येषां तु यादृशं कर्मेति यद् उक्तं तद् दर्शयति – **ओषध्य **इति । ओषधीनां व्रीह्यादिकानां फलपाकेनैवान्तः तेन ताः शुष्यन्ति । **बहुपुष्पफलम् **उपगच्छन्ति बहुना संयुक्ता भवन्ति ॥ १.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	All plants, propagated by seed or by slips, grow from shoots; annual plants (are those) which, bearing many flowers and fruits, perish after the ripening of their fruit;
 </details>
 
 <details><summary>भारुचिः</summary>

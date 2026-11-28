@@ -3,6 +3,11 @@ title = "017 खलात् क्षेत्राद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	Either from the threshing-floor, or from a field, or out of the house, or wherever he finds it; but if (the owner) asks him, he must confess to him that (deed and its cause).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Likewise one who has not eaten six meals, may, for the seventh meal, take from a person whose sacred duties are neglected,—but only to this extent that it does not last till the morrow;—(16) either from the threshing yard, or from the field, or from the house, or from any place where it may be got; but if the owner questions him, he must confess it to the questioner.—(17)
@@ -95,9 +100,4 @@ grains from a non-Brāhmaṇa; but on being accused of it, be should state the t
 > **आख्यातव्यं तु तत् तस्मै पृच्छते यदि पृच्छति  ॥ ११.१६ ॥**
 
 धनस्वामिन **पृच्छते** सुप्तम् उत्थाप्य जाग्रित्वा **यदि पृच्छति** । अथ **वाख्यातव्यं तत् तस्मै पृच्छते** धनस्वामिने **यदि** जाग्रद्धनापहर्तारं **पृच्छति**, न बलाद् उत्थाप्याख्यातव्यम् । अथ वा **यदि पृच्छति** राजा धनस्वामिना राजपुरुषैर् वा राजसमीपम् आनीतम् । तथा च गौतमः- "आचक्षीत राज्ञा पृष्टः" इति धनापहरणप्रयोजनम् । अयं च परादान[नियमो भक्तच्छेदे यज्ञ]प्रतिरोधे ऽपि समानत्वात् कारणस्य विज्ञेयः ॥ ११.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	Either from the threshing-floor, or from a field, or out of the house, or wherever he finds it; but if (the owner) asks him, he must confess to him that (deed and its cause).
 </details>

@@ -2,6 +2,11 @@
 title = "046 यो बन्धन-वध-क्लेशान्"
 +++
 
+<details><summary>Bühler</summary>
+
+046	He who does not seek to cause the sufferings of bonds and death to living creatures, (but) desires the good of all (beings), obtains endless bliss.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **बन्धनवधा** एव **क्लेशाः** । अथ वा विशसनादयः[^१२७] । तान् यो न कर्तुम् इच्छति, विशसनम्[^१२८] एव येन न कृतम्, तद्विषयेच्छैव यस्य निवृत्ता । न केवलं पीडां न करोति, यावद् **धितं** प्रेप्सितुम् इच्छति **सर्वस्य स सुखम् अत्यन्तम् अश्नुते** ॥ ५.४६ ॥
@@ -43,11 +48,6 @@ See Comparative notes for [Verse 5.42].
 <details><summary>गोविन्दराजः</summary>
 
 **यो बन्धनवधक्लेशान्** इति । **यो बन्धनवध**त्रासादीन् **प्राणिनां **कर्तुं नेच्छति **स सर्वस्य **हितप्रापणेच्छाशिलो ऽनन्तं **सुखं** प्राप्नोति ॥ ५.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	He who does not seek to cause the sufferings of bonds and death to living creatures, (but) desires the good of all (beings), obtains endless bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "069 अनुभावी तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	But any person whatsoever, who has personal knowledge (of an act committed) in the interior apartments (of a house), or in a forest, or of (a crime causing) loss of life, may give evidence between the parties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of anything done in the interior of a house, or in a forest, or in the case of injury to the body,—any person who may be cognisant of the facts may give evidence on behalf of the parties to the suit.—(69)
@@ -57,9 +62,4 @@ any caste.’
 <details><summary>भारुचिः</summary>
 
 अतिपातिनि कार्ये ऽन्तर्वेश्मादिष्व् असदृशो ऽपि साक्ष्यं कुर्यात् । तथा च सति —
-</details>
-
-<details><summary>Bühler</summary>
-
-069	But any person whatsoever, who has personal knowledge (of an act committed) in the interior apartments (of a house), or in a forest, or of (a crime causing) loss of life, may give evidence between the parties.
 </details>

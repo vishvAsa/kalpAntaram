@@ -3,6 +3,11 @@ title = "110 याजनाध्यापने नित्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+110	(For) assisting in sacrifices and teaching are (two acts) always performed for men who have received the sacraments; but the acceptance of gifts takes place even in (case the giver is) a Sudra of the lowest class.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As for Teachng and Sacrificing, these are done always for only such men as have received the sacraments; while the Receiving of Gifts may be done even from the lowest-born Śūdra.— (110)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.109].
 <details><summary>भारुचिः</summary>
 
 यतश् चैतद् एवम् अतो यथोपदिष्टः क्रमः प्रतिपादनीयः ॥ १०.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	(For) assisting in sacrifices and teaching are (two acts) always performed for men who have received the sacraments; but the acceptance of gifts takes place even in (case the giver is) a Sudra of the lowest class.
 </details>

@@ -2,6 +2,11 @@
 title = "055 मां स"
 +++
 
+<details><summary>Bühler</summary>
+
+055	'Me he (mam sah)' will devour in the next (world), whose flesh I eat in this (life); the wise declare this (to be) the real meaning of the word 'flesh' (mamsah).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Me he (māṃ-sa) will devour in the next world, whose meat I eat in this’—this is the ‘meatness’ (māṃsatva) of the ‘meat’ (māṃsa), as the wise ones declare.—(55).
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 5.54].
 <details><summary>गोविन्दराजः</summary>
 
 **मां स भक्षयितेति** ॥ ५.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	'Me he (mam sah)' will devour in the next (world), whose flesh I eat in this (life); the wise declare this (to be) the real meaning of the word 'flesh' (mamsah).
 </details>
 
 <details><summary>भारुचिः</summary>

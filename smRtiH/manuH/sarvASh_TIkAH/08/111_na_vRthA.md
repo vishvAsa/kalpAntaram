@@ -3,6 +3,11 @@ title = "111 न वृथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	Let no wise man swear an oath falsely, even in a trifling matter; for he who swears an oath falsely is lost in this (world) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man shall not take an oath improperly; taking an improper oath, one becomes ruined here as well as after death.—(111)
@@ -54,9 +59,4 @@ punishment, an ordeal cannot take place. An ordeal shall be administered to liti
 <details><summary>भारुचिः</summary>
 
 इयं च मिथ्याशपथनिन्दा प्रत्यवायदर्शनेन प्रतिषिद्धवर्जनार्थापि सती सत्यशपथप्रशंसार्था सम्पद्यत इत्य् अविपर्ययः । सामर्थ्याद् अस्य मिथ्याशपथस्य सर्वत्र प्रत्यवायहेतुत्वे प्राप्ते; यत्र तन् नेष्यते प्रत्यवायहेतुत्वम् अस्य, तत्रेदं तद् अपवादार्थम् आरभ्यते ॥ ८.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	Let no wise man swear an oath falsely, even in a trifling matter; for he who swears an oath falsely is lost in this (world) and after death.
 </details>

@@ -3,6 +3,11 @@ title = "041 वेनो विनष्टो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	Through a want of humility Vena perished, likewise king Nahusha, Sudas, the son of Pigavana, Sumukha, and Nemi.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It was through want of discipline that Vena perished, as also King Nahuṣa, Sudās, Paijavana, Sumukha and Nimi.—(41)
@@ -66,9 +71,4 @@ knowledge of the scriptures; knowledge of the scriptures increases humility. A k
 <details><summary>गोविन्दराजः</summary>
 
 तथा च **वेन** इति । वेनो नहुषश् चापि पिजवनस्य च पुत्रः सुदानाममुखौ निमिश्चाविनयान् नष्टाः ॥ ७.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Through a want of humility Vena perished, likewise king Nahusha, Sudas, the son of Pigavana, Sumukha, and Nemi.
 </details>

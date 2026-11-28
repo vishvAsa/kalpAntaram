@@ -3,6 +3,11 @@ title = "172 नाऽधर्मश् चरितो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Unrighteousness, practised in this world, does not, like the Earth (or the Cow) bring its fruit immediately; but, accumulating gradually, it outs off the roots of the perpetrator.—(172)
@@ -54,9 +59,4 @@ taken as an example *per* similarity, then it means ‘earth’,—the earth doe
 <details><summary>कुल्लूकः</summary>
 
 शास्त्रेणानियमितकालपरिपाकत्वाच्छुभाशुभकर्मणां नाधर्मोऽनुतिष्ठतः तत्काल एवं फलति । गौरिवेह भूमिपक्षे साधर्म्यदृष्टान्तः । यथा भूमिरुप्तबीजमात्रा तदैव प्रचुरपचेलिमफलव्रीहिस्तबकसंव-लिता न भवति किंतु नियमफलपाकसमयमासाद्य ।पशुपक्षे वैधर्म्यदृष्टान्तः । यथा गौः पशुर्वाहदोह्नाभ्यां सद्यः फलति नैवमधर्मः, किंतु क्रमेणावर्तमानः फलोन्मुखीभवन्नधर्मकर्तुर्मूलानि छिनत्ति ।मूलच्छेदेन सर्वनाशो लक्ष्यते । देहधनाद्यन्वितो नश्यति ॥१७२॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.
 </details>

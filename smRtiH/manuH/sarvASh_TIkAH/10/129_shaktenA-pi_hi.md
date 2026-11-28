@@ -3,6 +3,11 @@ title = "129 शक्तेनाऽपि हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+129	No collection of wealth must be made by a Sudra, even though he be able (to do it); for a Sudra who has acquired wealth, gives pain to Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though he be able, the Śūdra shall not amass wealth; for having acquired wealth, the Śūdra harasses the Brāhmaṇas.—(129)
@@ -95,9 +100,4 @@ supporting men of the higher castes in times of distress.’
 > तद्-अर्थो ऽस्य निचयः स्यात्" 
 
 इति ॥ १०.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	No collection of wealth must be made by a Sudra, even though he be able (to do it); for a Sudra who has acquired wealth, gives pain to Brahmanas.
 </details>

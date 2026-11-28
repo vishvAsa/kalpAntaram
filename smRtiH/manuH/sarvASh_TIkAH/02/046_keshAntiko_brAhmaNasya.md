@@ -2,6 +2,11 @@
 title = "046 केशान्तिको ब्राह्मणस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa the staff should be made in size reaching up to the end of his hair, for the Kṣatriya it should reach up to the forehead, and for the Vaiśya to the nose;—(46)
@@ -69,11 +74,6 @@ the Mouth.
 <details><summary>गोविन्दराजः</summary>
 
 **केशान्तक** इति । केशललाटनासिकासमीपप्रमाणा यथाक्रमं ब्राह्मणादीनां दण्डाः कार्याः ॥ २.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.
 </details>
 
 <details><summary>भारुचिः</summary>

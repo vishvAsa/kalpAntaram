@@ -3,6 +3,11 @@ title = "035 मृतवस्त्रभृत्स्व् नारीष
 
 +++
 
+<details><summary>Bühler</summary>
+
+035	Those three base-born ones are severally begot on Ayogava women, who wear the clothes of the dead, are wicked, and eat reprehensible food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These three, devoid of caste, are severally born from ‘Āyogava’ women, who wear the clothes of the dead, are ignoble, and eat despised food.—(35)
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 त्रिभ्यो यथोपदिष्टेभ्यो वर्णेभ्यो दस्युवैदेहकनिषादेभ्यः श्लोकत्रयाधिकृतेभ्यः । ये तु पुनः "सूतो दस्युर् आयोगवे" (?) इत्य् एवं प्रथमश्लोकस्यान्त्यपादं पठन्ति तेषां तत्र क्षत्रियजातो ब्राह्मण्यां सूत उक्तः । एवं सूतवैदेहकनिषादेभ्यः एवंविधेभ्य आयोगविषु श्लोकत्रयोपदिष्टा नामतो वर्णा जायन्ते ॥ १०.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-035	Those three base-born ones are severally begot on Ayogava women, who wear the clothes of the dead, are wicked, and eat reprehensible food.
 </details>

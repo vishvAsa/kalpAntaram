@@ -2,6 +2,11 @@
 title = "029 हिंस्राहिंस्रे मृदु-क्रूरे"
 +++
 
+<details><summary>Bühler</summary>
+
+029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Each being, when created again and again, naturally conformed to that same act to which the lord had, at first, directed him.—(28)
@@ -83,11 +88,6 @@ became assigned to whichever thing at the beginning of creation, that thing take
 <details><summary>गोविन्दराजः</summary>
 
 एतत् प्रपञ्चार्थम् आह **हिंस्राहिंस्रे** इति । **हिंसं कर्म व्याघ्रादेः, अहिंस्रं **रुरुप्रभृतेः, **मृदु** दयोपेतं ब्राह्मणादेः, **क्रूरं **क्षत्रियादेः । **धर्मो** यथा काकादेः परापत्यपोषणादिः । यद्य् अपि न ततस् तस्य धर्मो भवति परोपकारत्वात् धर्मत्वम् उपचर्यते । **अधर्मो **यथा बकादेः । एतद् अपि पूर्ववद् उपचारतो वञ्चनापरत्वाद् उच्यते । **ऋतं** देवानाम् **अनृतं **मनुष्याणाम्, तद् उक्तम् – सत्यवाचो देवाः अनृतं वै मनुष्या इति । यद्य् अपि **धर्माधर्म**ग्रहणेन एतत् सर्वं गतं तथापि स्वरूपभेदावलम्बनं पृथक् पृथक् द्वन्द्वतो ऽभिधानम् । तेषाम् अन्यत् **यद्** एव कर्म **यस्य** प्रजापतिर् **अददात्** दत्तवान् सृष्ट्यादौ तत् तद् एव सृष्ट्युत्तरकाले ऽप्य् असौ जायमानः **स्वयम्** एव भजते । यथाकर्म सृष्टं स्थावरजङ्गमम् इति वक्ष्यति । अतः प्राक्कल्पार्जितकर्मवशेन **यद् यस्य सो ऽददात्** इति द्रष्टव्यम् ॥ १.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
 </details>
 
 <details><summary>भारुचिः</summary>

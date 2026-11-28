@@ -2,6 +2,11 @@
 title = "222 आचम्य प्रयतो"
 +++
 
+<details><summary>Bühler</summary>
+
+222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having sipped water, with calm and collected mind, he shall daily attend upon the two twilights, in a clean place, reciting the mantras to be recited, according to rule.—(222)
@@ -49,11 +54,6 @@ Evening one, seated; the former while stars are visible, the latter before the s
 <details><summary>गोविन्दराजः</summary>
 
 यत एवम् अतः **आचम्येति** । **प्रयतः **शुचिः सन् **समाहितः **संयतेन्द्रियः उपस्पृश्य **शुचौ देशे जपं **कुर्वन् सन्ध्योपासनोक्तविधिना “यावज्जीवम् उभे सन्ध्ये सेवेत” इति सन्ध्यालोपप्रायश्चित्तप्रसङ्गेनायं सन्ध्योपासनानुवादः । प्रयतत्वं समाहितत्वं शुचिदेशे विध्यर्थम् ॥ २.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
 </details>
 
 <details><summary>भारुचिः</summary>

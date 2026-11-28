@@ -3,6 +3,11 @@ title = "089 ब्रह्मघ्नो ये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	(Saying), 'Whatever places (of torment) are assigned (by the sages) to the slayer of a Brahmana, to the murderer of women and children, to him who betrays a friend, and to an ungrateful man, those shall be thy (portion), if thou speakest falsely.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Whatever regions have been assigned to the slayer of the Brāhmaṇa, to the murderer of women and children, to the betrayer of friends and to the ingrate,—those same shall be thine if thou speakest falsely.’—(89)
@@ -52,9 +57,4 @@ in *Kṛtyakalpataru* (35a).
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मघ्नानां स्मृता लोका ये च स्त्रीबालघातिनाम् **इति । ब्राह्मणस्त्रीबालघातिनां ये नरकादिलोका ऋषिभिः स्मृता ये चात्रापकारिणां ये च कृथापकारिणः ते तव च मिथावदतो भवेयुः ॥ ८.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	(Saying), 'Whatever places (of torment) are assigned (by the sages) to the slayer of a Brahmana, to the murderer of women and children, to him who betrays a friend, and to an ungrateful man, those shall be thy (portion), if thou speakest falsely.
 </details>

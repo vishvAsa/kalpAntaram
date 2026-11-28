@@ -3,6 +3,11 @@ title = "081 अनेन विधिना"
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	He who has in this manner gradually given up all attachments and is freed from all the pairs (of opposites), reposes in Brahman alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in this manner, gradually renounced all attachments, he becomes freed from all pairs of opposites, and reposes in Brahman alone.—(81)
@@ -36,9 +41,4 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 48).
 <details><summary>भारुचिः</summary>
 
 उभाव् अपि चेमौ श्लोकौ "प्रियेषु स्वेषु सुकृतम्" (म्ध् ६.७९) इत्य् एतस्य श्लोकस्य शेषयोर् वचनीयौ ॥ ६.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	He who has in this manner gradually given up all attachments and is freed from all the pairs (of opposites), reposes in Brahman alone.
 </details>

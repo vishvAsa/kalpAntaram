@@ -3,6 +3,11 @@ title = "042 तपो-बीज-प्रभावैस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	By the power of austerities and of the seed (from which they sprang), these (races) obtain here among men more exalted or lower rank in successive births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the force of austerities and the seed they attain higher or lower rank among men, through birth, cycle after cycle.—(42)
@@ -53,9 +58,4 @@ castes are born in the next higher one, if they have fulfilled their duties. In 
 <details><summary>भारुचिः</summary>
 
 अयं च श्लोको ब्राह्मणादिजातानां क्षत्रियाद्यासु पूर्वश्लोकविहितस्य संस्कारस्य स्तुत्यर्थो विज्ञेयः । तथा वक्ष्यति "शूद्रायां ब्राह्मणाज् जातः" इत्येवमादि । एवं च सत्य् एष वर्णविभाग उत्कर्षापकर्षसंबन्धो मनुष्यविषय एव द्रष्टव्यः । न गवादिषु । अतश् च गवादीनां मतरि स्वसरि वा जातस्यापरिहारः (?) ॥ १०.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	By the power of austerities and of the seed (from which they sprang), these (races) obtain here among men more exalted or lower rank in successive births.
 </details>

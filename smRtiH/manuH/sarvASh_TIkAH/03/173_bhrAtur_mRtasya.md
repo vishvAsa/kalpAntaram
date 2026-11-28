@@ -2,6 +2,11 @@
 title = "173 भ्रातुर् मृतस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who would lasciviously make love to the wife of his dead brother, even though she may have been appointed according to law (to bear a child by him), should be known as the “didhiṣūpati.”—(173)
@@ -61,11 +66,6 @@ husband of a woman who has had a previous husband,—the wise called
 <details><summary>गोविन्दराजः</summary>
 
 **भ्रातुर्** इति । **मृतस्य भ्रातुः** वक्ष्यमाणनियोगे **धर्मेणापि नियुक्तायां भार्यायां यो **नियोगधर्मं हित्वा कामेन हेतुभूतेनानुरागं भावयेत् **सो ऽग्रेदिधिषूपतिः** निषिद्धत्वात् । अत्र वृत्तवशात् सत्यभामावच् चाग्रशब्दस्याप्रयोगः ॥३.१७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
 </details>
 
 <details><summary>भारुचिः</summary>

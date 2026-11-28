@@ -2,6 +2,11 @@
 title = "038 आ षोदशाद्"
 +++
 
+<details><summary>Bühler</summary>
+
+038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa the Sāvitrī does not lapse till the sixteenth year; for the Kṣatriya till the twenty-second year; and for the Vaiśya till the twenty-fourth year.—(38)
@@ -164,11 +169,6 @@ the ‘Apostate’ as Yājñavalkya.)
 <details><summary>गोविन्दराजः</summary>
 
 अनुकल्पम् आह – **आ षोडशाद्** इति । “छन्दः पादाक्षरवद् अब्दसमवाये उपनयनम्” इति हारीतस्मरणात् । आङो ऽभिविध्यर्थत्वेन षडशवर्षं यावत् **ब्राह्मणस्य सावित्र्य्**अनुवचनसाधनम् उपनयनं नातिक्रान्तकालं भवति । **द्वाविंशं** यावत् क्षत्रियजातीयस्य । **चतुर्विंशं **यावत् वैश्यस्य । उपनयनं च पुरुषस्य संस्कारः कार्यः शरीरसंस्कार इति आम्नानात् न तु तदनन्तरं वेदाध्ययनदर्शनात् ब्रह्मसंस्कारस्य (त्व) भ्रान्तिः कार्याः । तत्रानुमानिकत्वात् ॥ २.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.
 </details>
 
 <details><summary>भारुचिः</summary>

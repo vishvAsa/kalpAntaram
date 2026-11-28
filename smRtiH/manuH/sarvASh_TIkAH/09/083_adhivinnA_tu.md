@@ -3,6 +3,11 @@ title = "083 अधिविन्ना तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	A wife who, being superseded, in anger departs from (her husband's) house, must either be instantly confined or cast off in the presence of the family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On being superseded, if a wife, in anger, should go away from the house, she shall be either immediately confined, or cast off in the presence of the family.—(83)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 9.77].
 <details><summary>भारुचिः</summary>
 
 उक्तेषु निमित्तेष्व् अधिविन्नाया निर्गतायाः क्रोधेन, त्यागः श्रुतिकर्माधिकाराविरोधे **कुलसंनिधौ**, असंभोगो वा त्यागः संनिरोधो वा तस्याः । अपरे तु प्रजाकर्मसहत्वनिवृत्त्यर्थम् इदं त्यागवचनं कथयन्ति श्रौतकर्माविरोधेन ॥ ९.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	A wife who, being superseded, in anger departs from (her husband's) house, must either be instantly confined or cast off in the presence of the family.
 </details>

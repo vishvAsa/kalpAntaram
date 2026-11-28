@@ -2,6 +2,11 @@
 title = "145 सुप्त्वा क्षुत्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+145	Though he may be (already) pure, let him sip water after sleeping, sneezing, eating, spitting, telling untruths, and drinking water, likewise when he is going to study the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should sip water after having slept, after having sneezed, after having eaten, after having spat, after having told a lie, after having drunk water, and when going to read the Veda, even though he may be quite pure.—(143).
@@ -98,11 +103,6 @@ water twice; on touching his hairless lips, on putting on clothes, on passing se
 <details><summary>गोविन्दराजः</summary>
 
 **सुप्त्वेति** । स्वप्नक्षुत्भोजनश्लेष्मनिरसनासत्याभिधानोदकपानानि कृत्वाध्ययनं च प्रारिप्सन् शुचिर् अपि सन्न् आचामेत् । तत्र “भुक्त्वा चोपस्पृशेत् सम्यग्” इति द्वितीयाध्याये भुक्त्वाचमनम् उक्तं व्रताङ्गत्वार्थम् इह तु शौचार्थम् उच्यते । तथा वेदाध्ययनं काले ऽप्य् अध्येषमाणस् त्व् आचान्तो वेदम् अध्येष्यमाणश् चेति द्विभक्तम् अपीहेतरविधिवत् सार्थं निरूप्यते ॥ ५.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	Though he may be (already) pure, let him sip water after sleeping, sneezing, eating, spitting, telling untruths, and drinking water, likewise when he is going to study the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

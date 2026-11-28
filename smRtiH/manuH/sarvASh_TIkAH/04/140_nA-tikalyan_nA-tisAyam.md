@@ -3,6 +3,11 @@ title = "140 नाऽतिकल्यन् नाऽतिसायम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not go about either too early in the morning or too late in the evening, or just at midday; nor with an unknown person, nor alone, nor with Śūdras.—(140)
@@ -58,9 +63,4 @@ wicked conveyance; nor shall he go under the shadow cast by a river-bank; one sh
 <details><summary>गोविन्दराजः</summary>
 
 **नातिकल्यम्** इति । उषःप्रदोषयोः मध्याह्ने च जाते **अविज्ञातेन **पुरुषेण शूद्रैश् चाध्वानं न **गच्छेत्** । “नैकः प्रपद्येताध्वानम्” इत्य् उक्ते ऽपीह एक इत् पुनर्वचनं प्रायश्चित्तविशेषार्थम् ॥ ४.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.
 </details>

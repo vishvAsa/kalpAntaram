@@ -3,6 +3,11 @@ title = "228 यथा यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+229	In proportion as a man who has done wrong, himself confesses it, even so far he is freed from guilt, as a snake from its slough.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As a man, having committed a misdeed, goes on proclaiming it himself, so does he become freed from that sin, as a snake from its slough.—(228)
@@ -36,9 +41,4 @@ See Comparative notes for [Verse 11.228].
 <details><summary>गोविन्दराजः</summary>
 
 **यथा यथेति** । मनुष्यः पापं कृत्वा तेन पापेन स्वयम् एव यथा यथा ख्यापयति मयेदं दुष्टं कर्म कृतम् इति निन्दति तथा तथा तं शरीरस्थं क्षेत्रज्ञं पुण्यपापयोः तदाश्रयत्वात् तेन पापेन जीर्णचर्मेव सर्पस् तस्मात् पापात् प्रमुच्यते इति ख्यापनार्थवादः॥ ११.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	In proportion as a man who has done wrong, himself confesses it, even so far he is freed from guilt, as a snake from its slough.
 </details>

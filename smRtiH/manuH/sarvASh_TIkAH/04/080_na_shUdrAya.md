@@ -2,6 +2,11 @@
 title = "080 न शूद्राय"
 +++
 
+<details><summary>Bühler</summary>
+
+080	Let him not give to a Sudra advice, nor the remnants (of his meal), nor food offered to the gods; nor let him explain the sacred law (to such a man), nor impose (upon him) a penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not offer advice to a Śūdra, nor the leavings, nor what has been prepared as an offering to the Gods. He shall hot expound the law to him; nor shall he indicate to him any penance.—(80)
@@ -537,11 +542,6 @@ the leavings or the sacrificial materials; nor sesamum; he shall not expound to 
 > अन्तरा ब्राह्मणं क्र्त्वा प्रायश्चित्तं समादिशेत् ॥ इति ।
 
 ब्राह्मणोपदेशप्रणालिकया प्रायश्चित्तदानम् आह न साक्षाद् इति ॥ ४.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	Let him not give to a Sudra advice, nor the remnants (of his meal), nor food offered to the gods; nor let him explain the sacred law (to such a man), nor impose (upon him) a penance.
 </details>
 
 <details><summary>भारुचिः</summary>

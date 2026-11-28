@@ -2,6 +2,11 @@
 title = "040 ओषध्यः पशवो"
 +++
 
+<details><summary>Bühler</summary>
+
+040	Herbs, trees, cattle, birds, and (other) animals that have been destroyed for sacrifices, receive (being reborn) higher existences.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Herbs, animals, trees, beasts and birds, reaching death for the sake of sacrifices, attain advancements.—(40)
@@ -105,11 +110,6 @@ offerings; and the conclusion is that, inasmuch as no other mention of the resul
 <details><summary>गोविन्दराजः</summary>
 
 **ओषध्य** इति । **ओषदयो **दर्भाद्याः । **पशवः **छागादयः । **वृक्षाः **प्लक्षाद्याः । **तिर्यञ्चः **कूर्मादयह् । **पक्षिणः **कपिञ्जलाद्याः **यज्ञार्थं **विनाशं प्राप्ताः ते तम् अधर्मार्जितं निकर्षं हित्वा पुनः आत्मज्ञानाधिकृतशरीरलाभेनोत्कर्षान् प्राप्नुवन्ति ॥ ५.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Herbs, trees, cattle, birds, and (other) animals that have been destroyed for sacrifices, receive (being reborn) higher existences.
 </details>
 
 <details><summary>भारुचिः</summary>

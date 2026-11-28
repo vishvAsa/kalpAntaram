@@ -3,6 +3,11 @@ title = "119 स्वधर्मो विजयस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+119	His peculiar duty is conquest, and he must not turn back in danger; having protected the Vaisyas by his weapons, he may cause the legal tax to be collected;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Conquest is his peculiar duty; and he should never turn back in danger; he shall realise the legal tax from the Vaiśya, after protecting the people;—(119)
@@ -54,9 +59,4 @@ the duty of the Kṣatriya).—Conquest is a means of livelihood for the Kṣatr
 <details><summary>भारुचिः</summary>
 
 प्रजासंरक्षणं कुर्वन् । एवं च सति सो ऽयम् उच्यते ॥ १०.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	His peculiar duty is conquest, and he must not turn back in danger; having protected the Vaisyas by his weapons, he may cause the legal tax to be collected;
 </details>

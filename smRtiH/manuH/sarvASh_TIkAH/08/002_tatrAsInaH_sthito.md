@@ -3,6 +3,11 @@ title = "002 तत्रासीनः स्थितो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	There, either seated or standing, raising his right arm, without ostentation in his dress and ornaments, let him examine the business of suitors,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There, either seated or standing, raising his right hand, subdued in dress and ornaments, he shall look into the suits of the suitors.—(2)
@@ -210,9 +215,4 @@ See Comparative notes for [Verse 8.1].
 <details><summary>भारुचिः</summary>
 
 [**आसीनस्** तपस्विविद्वद्]ब्राह्मणगुरुवर्जम् इतरजनस्य **पश्येत्**; स्थित्वो वापि तपस्विप्रभृतीनां वर्णोत्तमानाम् । **स्थितो वापि** तपस्विप्रभृतीनां वर्णोत्तमानाम् । **पाणि**ग्रहणं बाह्पलक्षणार्थम् । यस्माद् ब्रह्मसभैषा । तथा चोक्तम् अग्न्यगारादिषु [दक्षिणबाहूद्धरणम् । **विनीत**]**वेषाभरणं** हि राजानं सुखम् उपसर्पिष्यन्त्य् अर्थिनः । अथ वायम् अस्यादृष्टप्रयोजन एव नियतशास्त्रस्यार्थवत्त्वाय । यत एवं **पश्येत् कार्याणि कार्यिणाम्** अर्थिनाम्, न स्वयमुत्पाद्यकार्याणि, ये[षु न शास्त्रोप]देशस्य सामर्थ्यं दृष्टम् । यतो ऽयम् अर्थिविषयो व्यवहारदर्शनोपदेश इत्य् गम्यते । यतो ऽयम् अर्थिविषयो व्यवहारदर्शनोपदेश इति गम्यते । एवं च सत्य् अविधित्वं समर्थ्[इत्]अं भवति । इतरथा हि परिग्रहवत्स्व् अन्येषूपदेशस्य परिसंख्या [न स्यात् । न] चैकस्योपदेशस्योभयत्र सामर्थ्यम् अस्ति, एकार्थत्वाद् वाक्यस्य ।  एवं च स्वपरिग्रहे ब्राहणादीनां (?) व्यवहारदर्शनम् अप्रतिषिद्धं भवति । ननु च **कार्यिणां [कार्याणी**ति अर्थिनाम् इति] तेन वक्ष्यति "नोत्पादयेत् स्वयं कार्यम्" इति तदनुवाद एवायम् अस्वार्थः प्रसङ्गत इह विज्ञेयः; अथ वा भवत्व् अस्येह स्वार्थ उपदेश उत्तरत्र त्व् अनुवादो विशेषार्थः, "नाप्य् अस्य पुरुष" इति ॥ ८.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	There, either seated or standing, raising his right arm, without ostentation in his dress and ornaments, let him examine the business of suitors,
 </details>

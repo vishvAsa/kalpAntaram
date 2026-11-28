@@ -3,6 +3,11 @@ title = "397 तन्तुवायो दशपलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+397	A weaver (who has received) ten palas (of thread), shall return (cloth weighing) one pala more; he who acts differently shall be compelled to pay a fine of twelve (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The weaver shall repay ten ‘palas’ with one ‘pala’ added to it; if he acts otherwise than this, he should be made to pay a fine of twelve.—(397)
@@ -81,9 +86,4 @@ wool-worked, there is a decrease by the thirtieth part. In the case of cloth of 
 <details><summary>भारुचिः</summary>
 
 छिन्नं द्वादशगुणं दाप्यः । एवं सर्वद्रव्याणां लोहादीनां छेदने । साहसप्रकरणे च तत्सादृश्याद् इमौ श्लोकाव् उच्येते ॥ ८.३९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-397	A weaver (who has received) ten palas (of thread), shall return (cloth weighing) one pala more; he who acts differently shall be compelled to pay a fine of twelve (panas).
 </details>

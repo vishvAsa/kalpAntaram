@@ -2,6 +2,11 @@
 title = "136 वित्तम् बन्धुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Wealth, Relation, Age, Action and Learning, as the fifth,—these are the grounds of respect; (among them) that which follows is weightier (than that which goes before it).—(136)
@@ -162,11 +167,6 @@ Relationship, etc., and Wealth, in order, does a man become respected.’
 <details><summary>गोविन्दराजः</summary>
 
 **वित्तम्** इति । धनज्ञातियवःश्रौतस्मार्तकर्माचरणविद्याः समानजातीयत्वे सति **मान्यस्थानानि** पूज्यत्वे करणीयानि । ततश् चावित्तस्य वित्तवान् मान्यः । यथैषां वित्तादीनां मध्यात् **यद् यत्** पश्चान् निर्दिष्टं तत् तत् पूर्वस्मात् पूर्वस्मात् गुरुतरम् । अतश् च वित्तवतां बन्धुमान् मान्य इत्य् अवतिष्ठते ॥ १.१३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).
 </details>
 
 <details><summary>भारुचिः</summary>

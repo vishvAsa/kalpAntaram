@@ -2,6 +2,11 @@
 title = "021 संवत्सरस्यैकम् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+021	Once a year a Brahmana must perform a Krikkhra penance, in order to atone for unintentionally eating (forbidden food) but for intentionally (eating forbidden food he must perform the penances prescribed) specially.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Once a year the Brāhmaṇa shall perform the ‘Kṛcchra’ penance, in order to atone for unintentional eating; but for intentional eating, special ones.—(21).
@@ -65,11 +70,6 @@ See Comparative notes for [Verse 5.20].
 <details><summary>गोविन्दराजः</summary>
 
 **संवत्सरस्यैकम् अपीति । संवत्सरस्य **मध्ये ब्राह्मणः ऽशेषेषूपवसेद् अहर्ऽ इति समनन्तरप्रस्तुतलोहितवृक्षनिर्यासाद्यसंवेत्तिभुक्तप्रायश्चित्तार्थम् अपि **कृच्छ्रं **कृच्छ्रमध्ये प्रथमाम्नानात् प्राजापत्यं चरेत् । **ज्ञातस्य** पुनर् अभक्ष्यभक्षणे **विशेषतो** यद् यस्य चोदितं प्रायश्चित्तं तद् एव कुर्यात् । अत एव च ज्ञायते असंवेदितः कृते ऽपि व्यतिक्रमे पापं प्रायश्चित्तं भवतीति । एवं च “त्रीणि देवाः पवित्राणि ब्राह्मणानाम् अकल्पयन् । अदृष्टम् अद्भिर् निर्णिक्तम्” इत्य् एतत्प्रायश्चित्तव्यतिरिक्तविषये ऽवतिष्ठते । तथा च द्रव्यशुद्धिप्रकरण एतद् आर्येणाभिहितम् । ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् । “एतद् उक्तं द्विजातीनाम्” इति चोपसंहारात् ॥ ५.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	Once a year a Brahmana must perform a Krikkhra penance, in order to atone for unintentionally eating (forbidden food) but for intentionally (eating forbidden food he must perform the penances prescribed) specially.
 </details>
 
 <details><summary>भारुचिः</summary>

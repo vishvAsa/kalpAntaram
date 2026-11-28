@@ -3,6 +3,11 @@ title = "228 उपनीय तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+228	All this he shall present (to his guests), being pure and attentive, successively invite them to partake of each (dish), proclaiming its qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having gently brought up all this, he shall, with collected mind and pure, serve it,—describing all its qualities.—(228)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 3.226].
 <details><summary>गोविन्दराजः</summary>
 
 **उपनीय सर्वम् एतद्** इति । **सर्वम् एतद्** अन्नादि ब्राह्मणसमीपे आनीय “इदं मधुरं” “इदं श्लक्ष्णम्” इत्य् एवं **सर्वान् **माधुर्यादीन् कथयन् सुचिरम् अनन्यमनाः शनैः यथोपयोगं न तु युगपद् एव सर्वं **परिवेषयेत्** ॥ ३.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-228	All this he shall present (to his guests), being pure and attentive, successively invite them to partake of each (dish), proclaiming its qualities.
 </details>

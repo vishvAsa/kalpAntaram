@@ -3,6 +3,11 @@ title = "092 कणान् वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	Or, in order to remove (the guilt of) drinking Sura, he may eat during a year once (a day) at night grains (of rice) or oilcake, wearing clothes made of cowhair and his own hair in braids and carrying (a wine cup as) a flag.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, for the expiation of the guilt of wine-drinking, he may, for one year, eat only once at night either pieces of grain or oil-cake, clothed in hair-cloth, with his hair matted, and carrying a sign.—(92)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 11.90].
 <details><summary>भारुचिः</summary>
 
 एतच् च प्रायश्चित्तं मुख्यसुरापान एवाकामतो गम्यते । एवं ह्य् एतद्व्यतिक्रमे सप्रत्ययाप्रत्ययकारणभेदात् गुरुलघुत्वं प्रायश्चित्तस्योपपन्नं भवति । तथा च **गौतमो** ऽप्रत्यये सुरापाने लघुप्रायश्चित्तम् आह सप्रत्ययसुरापानप्रायश्चित्ताद् गुरुणः- "अमत्या पाने पयो घृतम् उदकं वायुं प्रति त्र्यहं तप्तानि स कृच्छ्रस् ततो ऽस्य संस्कारः" (ग्ध् २३.३) इति । अथ वेतरयोः सुरयोः पान एतल् लघुप्रायश्चित्तं विज्ञेयम् । तथा च स्मृत्यन्तरम्- "असुरामद्यपाने चान्द्रायणम् अभ्यसेत्" इति ॥ ११.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	Or, in order to remove (the guilt of) drinking Sura, he may eat during a year once (a day) at night grains (of rice) or oilcake, wearing clothes made of cowhair and his own hair in braids and carrying (a wine cup as) a flag.
 </details>

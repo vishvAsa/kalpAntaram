@@ -3,6 +3,11 @@ title = "098 वैश्यो ऽजीवन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	A Vaisya who is unable to subsist by his own duties, may even maintain himself by a Sudra's mode of life, avoiding (however) acts forbidden (to him), and he should give it up, when he is able (to do so).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya, unable to subsist by his own occupations, may subsist by the occupations of the Śūdra, avoiding all improper acts. But he shall desist from them as soon as he is able to do so.—(98)
@@ -72,9 +77,4 @@ occupation of that next below it in rank.’
 <details><summary>भारुचिः</summary>
 
 सामर्थ्याद् ब्राह्मणक्षत्रिययोर् अप्य् एतद् इष्यते ॥ १०.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	A Vaisya who is unable to subsist by his own duties, may even maintain himself by a Sudra's mode of life, avoiding (however) acts forbidden (to him), and he should give it up, when he is able (to do so).
 </details>

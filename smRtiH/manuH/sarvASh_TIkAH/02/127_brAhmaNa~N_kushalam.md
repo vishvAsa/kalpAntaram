@@ -2,6 +2,11 @@
 title = "127 ब्राह्मणङ् कुशलम्"
 +++
 
+<details><summary>Bühler</summary>
+
+127	Let him ask a Brahmana, on meeting him, after (his health, with the word) kusala, a Kshatriya (with the word) anamaya, a Vaisya (with the word) kshema, and a Sudra (with the word) anarogya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having met a Brāhmaṇa, one should ask him his “welfare,” a Kṣatriya his “freedom from distemper,” a Vaiśya his “prosperity,” and a Shudra his “freedom from disease.”—(127)
@@ -58,11 +63,6 @@ salutation has been returned;—in *Saṃskāramayūkha* (p. 47);—and in
 <details><summary>गोविन्दराजः</summary>
 
 प्रत्यभिवादनप्रसङ्गेन अन्यम् अपि प्रत्यभिवादयितुर् धर्मम् आह **ब्राह्मणम्** इति । प्रत्यभिवादयिता समागत्याभिवादयितारं **ब्राह्मणं कुशलम् **अस्ति इत्य् एवं **पृच्छेत्, क्षत्र**जातीयं **अनामयम्** इति, **वैश्यं क्षेमम्** इति, **शूद्रम् **पुनर् **आरोग्यम्** इति ॥ २.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Let him ask a Brahmana, on meeting him, after (his health, with the word) kusala, a Kshatriya (with the word) anamaya, a Vaisya (with the word) kshema, and a Sudra (with the word) anarogya.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "061 न शूद्रराज्ये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	Let him not dwell in a country where the rulers are Sudras, nor in one which is surrounded by unrighteous men, nor in one which has become subject to heretics, nor in one swarming with men of the lowest castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not dwell in a country with a Śūdra King; nor in one surrounded by unrighteous persons; nor in one occupied by impostors;. nor in one frequented by men of the lowest castes.—(61)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 4.60].
 <details><summary>गोविन्दराजः</summary>
 
 **न शूद्रराज्य **इति । शूद्रराजके देशे अधार्मिकजनिअश् च बाह्यतः परिवृते श्रुत्यादिबाह्य्लिङ्गधारिभिश् च वशीकृते चण्डालादिभिश् चोपद्रुते न निवसेत् ॥ ४.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	Let him not dwell in a country where the rulers are Sudras, nor in one which is surrounded by unrighteous men, nor in one which has become subject to heretics, nor in one swarming with men of the lowest castes.
 </details>

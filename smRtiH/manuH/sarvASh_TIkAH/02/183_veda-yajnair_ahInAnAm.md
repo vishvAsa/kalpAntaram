@@ -2,6 +2,11 @@
 title = "183 वेद-यज्ञैर् अहीनानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Religious Student, being pure, should fetch alms daily from the houses of persons who are not devoid of Veda and sacrifices, and who are famed for their deeds.—(183)
@@ -81,11 +86,6 @@ from the right sources, he may heg from all the four castes.’
 <details><summary>गोविन्दराजः</summary>
 
 **वेदयज्ञैर्** इति । वेदवेदार्थानुष्ठानयुक्तानां **स्वकर्मसु** च वृत्त्यर्थेषु अध्यापनादिषु **प्रशस्तानां** स्ववृत्त्या जीवतां **गृहेभ्यो ब्रह्मचारी **शुचिः सन् प्रत्यहं **भैक्षम् आहरेत् **॥ २.१८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
 </details>
 
 <details><summary>भारुचिः</summary>

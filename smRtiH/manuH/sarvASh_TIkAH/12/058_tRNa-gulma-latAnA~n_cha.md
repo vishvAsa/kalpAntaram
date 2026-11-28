@@ -3,6 +3,11 @@ title = "058 तृण-गुल्म-लतानाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	The violator of a Guru's bed (enters) a hundred times (the forms) of grasses, shrubs, and creepers, likewise of carnivorous (animals) and of (beasts) with fangs and of those doing cruel deeds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The violator of the Preceptor’s Bed is born hundreds of times as grasses, shrubs, creepers, as carnivorous and fanged animals, or as beings of cruel deeds.—(58)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **तृणगुल्मलतानाम्** इति । तृणानां दूर्वादीनां गुल्मानाम् अप्रकाण्डानां कुप्यकादीनाम् आममांसभक्षिणां गृध्रादीनां दंष्ट्रिणां सिंहादीनां क्रूरकर्मकारिणां शबरादीनां सम्बन्धिनीं जातिं शतं वारान् गुरुदाराभिगामी प्राप्नोति ॥ १२.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	The violator of a Guru's bed (enters) a hundred times (the forms) of grasses, shrubs, and creepers, likewise of carnivorous (animals) and of (beasts) with fangs and of those doing cruel deeds.
 </details>

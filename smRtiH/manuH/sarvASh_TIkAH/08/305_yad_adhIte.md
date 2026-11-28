@@ -3,6 +3,11 @@ title = "305 यद् अधीते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+305	Whatever (merit a man gains by) reading the Veda, by sacrificing, by charitable gifts, (or by) worshipping (Gurus and gods), the king obtains a sixth part of that in consequence of his duly protecting (his kingdom).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one reads the Veda, when one performs a sacrifice, when one makes gifts, when one worships,—to the sixth part of each of those the king becomes entitled, in consequence of properly protecting the people—(305).
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 8.304].
 <details><summary>भारुचिः</summary>
 
 सर्वक्रियानिदर्शनार्थत्वाच् चासां निर्दिष्टाभ्यो नेतराः परिसंख्यायेरन् । वेदस्मृतिशास्त्रन्यायविरोधाश् च मा भूवन्न् इति । अत एतं यथाश्रुतपरिकल्पनां परित्यज्य, **धर्मषड्भाग**ग्रहणं प्रनाडिकयार्थवादो नियमधर्मापेक्षः भवति, गुणवत्पुरुषसंरक्षणापेक्षो वा, तद् अपेक्षम् एतद् धर्मषड्भागग्रहणं प्रनाडिकयार्थवादार्थम् । न तु वृत्तिपरिक्रीतत्वाद् राज्ञो निर्बीजम् इदं प्ररोचनार्थमात्रार्थं भवितुम् अर्हति, असति धर्मसंभन्ध इति । इतश् च धर्मषड्भागग्रहणं राज्ञः प्रजासंरक्षणापेक्षम् ॥ ८.३०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-305	Whatever (merit a man gains by) reading the Veda, by sacrificing, by charitable gifts, (or by) worshipping (Gurus and gods), the king obtains a sixth part of that in consequence of his duly protecting (his kingdom).
 </details>

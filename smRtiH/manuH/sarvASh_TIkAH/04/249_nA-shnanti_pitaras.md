@@ -2,6 +2,11 @@
 title = "249 नाऽश्नन्ति पितरस्"
 +++
 
+<details><summary>Bühler</summary>
+
+249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the man that disdains it, the Pitṛs do no eat any food for ten and five years; nor does fire convey his offering to the gods.—(249)
@@ -57,11 +62,6 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 <details><summary>गोविन्दराजः</summary>
 
 **नाश्नन्तीति **। तदीयं कव्यं **पञ्चदशवर्षाणि पितरो **नादन्ति **हव्यं च **पुरोडाशादि देवान् प्रति **अग्निः **न प्रापयति **यस् तां **भिक्षां प्रत्याचष्टे ॥ ४.२४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
 </details>
 
 <details><summary>भारुचिः</summary>

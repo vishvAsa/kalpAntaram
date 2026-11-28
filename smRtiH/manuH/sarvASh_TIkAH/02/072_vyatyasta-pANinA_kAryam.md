@@ -2,6 +2,11 @@
 title = "072 व्यत्यस्त-पाणिना कार्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The clasping op the teacher’s feet should be done with crossed hands: the left should be touched with the left and the right with the right.—(72)
@@ -78,11 +83,6 @@ right band; hands should be joined in saluting a Vedic scholar; in the case of t
 <details><summary>गोविन्दराजः</summary>
 
 कथं पुनः पदोपसङ्ग्रहणं कर्तव्यम् इत्य् अत आह **व्यत्यस्तपाणिनेति** । इतरेतरदिगर्पितहस्तेन **गुरोः **पादोपसर्पणं कर्तव्यम् । वामेन च हस्तेन वामपादः स्पर्शनीयः **दक्षिणेन तु दक्षिणः **॥ २.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
 </details>
 
 <details><summary>भारुचिः</summary>

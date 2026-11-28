@@ -2,6 +2,11 @@
 title = "251 गुरून् भृत्यांश्"
 +++
 
+<details><summary>Bühler</summary>
+
+251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the purpose of bringing relief to his teachers and dependents, and for the purpose of honoring the gods and guests, he may accept gifts from all persons; but he shall not derive from them satisfaction for himself.—(251)
@@ -59,11 +64,6 @@ dependants one may accept food from the Śūdra; but he himself shall not partak
 <details><summary>गोविन्दराजः</summary>
 
 **गुरून् भृत्यान्** इति । मातापित्रादीन् **गुरून्** **भृत्यान्** भार्यापुत्रादीन् अवश्यम्भरणीयान् क्षुधावसन्नान् उद्धर्तुम् इच्छन् **देवतातिथींश्** च पूजयिष्यन् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् ** न रूपान्तरसद्भावे सति तेन धनेन आत्मनस् तृप्तिं कुर्यात् । मुख्योपायपरिक्षये हि अवृत्तिकर्शितः संसीदन्न् इत्य् आपद्धमं वक्ष्यति ॥ ४.२५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
 </details>
 
 <details><summary>भारुचिः</summary>

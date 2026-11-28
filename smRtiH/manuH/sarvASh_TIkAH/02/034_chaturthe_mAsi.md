@@ -2,6 +2,11 @@
 title = "034 चतुर्थे मासि"
 +++
 
+<details><summary>Bühler</summary>
+
+034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the fourth month should be performed the ceremony of the child’s ‘Egress’ from the room; and in the sixth month the ceremony of ‘Feeding’; or, whatever might be regarded as auspicious in the family.—(34)
@@ -129,11 +134,6 @@ during the third fortnight.’
 <details><summary>गोविन्दराजः</summary>
 
 **चतुर्थ** इति । **चतुर्थे मासि **बालस्य **गृहान् निष्क्रमणं** कर्तव्यम् । **षष्ठे चान्नप्राशनम्** । यथाकुलधर्मत्वेन **मङ्गलम् इष्टम्**, यया नाम्या स्वाम्याद्युपपदपरिग्रहः तथा कर्तव्यं पूर्वोक्तं च ॥ २.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
 </details>
 
 <details><summary>भारुचिः</summary>

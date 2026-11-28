@@ -2,6 +2,11 @@
 title = "202 राजतैर् भाजनैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even water offered to these with faith, in vessels, either made of silver or connected with silver, is conducive to imperishability.—(202)
@@ -73,11 +78,6 @@ carefully offer into vessels, such as may be available; but specially in those o
 <details><summary>गोविन्दराजः</summary>
 
 **राजतैर् **इति । तेषां पितॄणां रौप्यपात्रैः रौप्ययुक्तैर् वा पानीयम् अपि भक्त्या दत्तम् अक्षय्यसुखहेतु सम्पद्यते । किं पुनः प्रशस्तामिषादीनि घृतादीनि दानपात्रविशेषफलम् एतत् ॥ ३.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "045 नाऽन्नम् अद्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	Let him not eat, dressed with one garment only; let him not bathe naked; let him not void urine on a road, on ashes, or in a cow-pen,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat food with only one piece of cloth on him; he shall not bathe naked; he shall not pass urine on the road, nor on ashes, nor on the haunts of cows.—(45)
@@ -115,9 +120,4 @@ uncovered place; nor with his lower garment on, nor naked.’
 <details><summary>गोविन्दराजः</summary>
 
 **नान्नम्** इति । एकवस्त्रो नाश्नीयात् । न च कौपीनाच्छादनं विना स्नायात् । मूत्रपुरीषे च मार्गभस्मगोष्ठेषु न कुर्यात् ॥ ४.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	Let him not eat, dressed with one garment only; let him not bathe naked; let him not void urine on a road, on ashes, or in a cow-pen,
 </details>

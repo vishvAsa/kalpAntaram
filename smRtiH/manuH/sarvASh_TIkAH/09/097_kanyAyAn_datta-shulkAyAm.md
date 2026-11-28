@@ -3,6 +3,11 @@ title = "097 कन्यायान् दत्त-शुल्काया�
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	If, after the nuptial fee has been paid for a maiden, the giver of the fee dies, she shall be given in marriage to his brother, in case she consents.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After the nuptial fee for a girl has been paid, if the man who paid the fee dies, the girl should be given to the younger brother-in-law, in case she consents.—(97)
@@ -59,9 +64,4 @@ become lost, after betrothal, the girl shall wait for three menstrual periods an
 <details><summary>भारुचिः</summary>
 
 केनचिद् विशेषेणास्य पुनर् आरम्भः । एवं च सति "यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः" इत्य् उक्तं तद् अदत्तशुल्काया विधानं स्यात् । देवरग्रहणाच् च पुनः सपिण्डनिवृत्तिर् गम्यते । युक्ता च तन्निवृत्तिः । सा हि क्रीतत्वात् तद्द्रव्याभिसंबन्धिन्य् एव देवरे ऽभ्यनुज्ञातुं युक्ता, शुल्कपण्यत्वात् तस्याः ॥ ९.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	If, after the nuptial fee has been paid for a maiden, the giver of the fee dies, she shall be given in marriage to his brother, in case she consents.
 </details>

@@ -3,6 +3,11 @@ title = "109 सामादीनाम् उपायानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+109	Among the four expedients, conciliation and the rest, the learned always recommend conciliation and (the employment of) force for the prosperity of kingdoms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the prosperity of kingdoms the wise ones always recommend Conciliation and Force from among the four expedients, conciliation and the rest.—(109)
@@ -45,9 +50,4 @@ the benefits conferred by the other party, pointing out the mutual bonds of rela
 <details><summary>भारुचिः</summary>
 
 सामप्रयोगे क्षयव्ययायासा न भवन्ति, दण्डे तु सर्वसिद्धिर् एव तत्प्रतापाद्, अतस् ताव् अत्र प्रशस्तौ ॥ ७.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	Among the four expedients, conciliation and the rest, the learned always recommend conciliation and (the employment of) force for the prosperity of kingdoms.
 </details>

@@ -3,6 +3,11 @@ title = "029 जीवन्तीनान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	A righteous king must punish like thieves those relatives who appropriate the property of such females during their lifetime.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While these women are alive, if their relatives should appropriate their property,—on them the righteous king shall inflict the punishment of thieves.—(29)
@@ -64,9 +69,4 @@ or sons or brother-in-law or relations have no power over her
 <details><summary>भारुचिः</summary>
 
 जीवद्वचनान् मृतानां तासां बान्धवा एव यथा संनिकर्षं तदीयधनस्येषत इति ज्ञापयति । वक्ष्यति चानपत्यधनस्य सपिण्डादिषु प्रतिपत्तिम् । अत एव च चोरशङ्कायां चोरवत् ते दण्डम् अर्हन्ति । इदं चान्यद् इत्थंभूतम् एव प्रसङ्गाद् उच्यते —
-</details>
-
-<details><summary>Bühler</summary>
-
-029	A righteous king must punish like thieves those relatives who appropriate the property of such females during their lifetime.
 </details>

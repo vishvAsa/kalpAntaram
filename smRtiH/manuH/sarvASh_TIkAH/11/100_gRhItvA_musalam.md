@@ -3,6 +3,11 @@ title = "100 गृहीत्वा मुसलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	Taking (from him) the club (which he must carry), the king himself shall strike him once, by his death the thief becomes pure; or a Brahmana (may purify himself) by austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking up a club, the King himself shall strike him once. The thief becomes purified by death; but the Brāhmaṇa by penance alone.—(100)
@@ -92,9 +97,4 @@ See Comparative notes for [Verse 11.99].
 <details><summary>गोविन्दराजः</summary>
 
 **गृहीत्वेति** । “स्कन्देनादाय मुशलम्” इत्याद्युक्तत्वात् तेनार्पितं मुशलाइ गृहीत्वा तं स्तेनं न जातु ब्राह्मणं हन्याद् इत्य् उक्त्वा तं ब्राह्मणवर्जितम् एकवारं राजातं हन्यात् स च स्तेनो वधेन तत्पापात् प्रमुच्यते । तपसा वक्ष्यमाणेन ब्राह्मणो विध्यतिक्रान्तनिषेधेन राज्ञा हन्यते तदा सो ऽपि शूध्यत्य् एव ॥ ११.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	Taking (from him) the club (which he must carry), the king himself shall strike him once, by his death the thief becomes pure; or a Brahmana (may purify himself) by austerities.
 </details>

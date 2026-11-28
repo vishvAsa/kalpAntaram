@@ -3,6 +3,11 @@ title = "079 प्रियेषु स्वेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	Making over (the merit of his own) good actions to his friends and (the guilt of) his evil deeds to his enemies, he attains the eternal Brahman by the practice of meditation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, by the practice of meditation, attributed what is agreeable to him, to his good acts, and what is disagreeable, to his evil acts, he reaches the eternal Brahman.—(79)
@@ -54,9 +59,4 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 41).
 **प्रियेषु स्वेषु** धर्मविरुद्धेष्व् आत्मीयेषु स्वादुभैक्षलाभादिषु च निपतत्सु कारणत्वेनात्मीयम् एव **सुकृतं** विसृज्य, ध्यानयोगेन परमार्थदर्शनेन विनियुज्य, तम् कारणतया स्वधर्मं व्युदस्य च तत्संपादयितारं पुरुषम्, एवम् **अप्रियेषु दुष्कृतं विसृज्य ध्यानयोगेन** परं **ब्रह्माभ्येति**।
 
 _क्षमयानया विगतरागद्वेषतया च मध्यस्थो भूत्वा, एवं च अयम्_,
-</details>
-
-<details><summary>Bühler</summary>
-
-079	Making over (the merit of his own) good actions to his friends and (the guilt of) his evil deeds to his enemies, he attains the eternal Brahman by the practice of meditation.
 </details>

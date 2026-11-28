@@ -2,6 +2,11 @@
 title = "159 यद् यत्"
 +++
 
+<details><summary>Bühler</summary>
+
+159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall carefully avoid every such act as is dependent upon others; such acts as are dependent upon himself, every one of these he shall eagerly pursue.—(159)
@@ -45,11 +50,6 @@ This verse is quoted in *Aparārka* (p. 224);—and in *Madanapārijāta* (p. 14
 <details><summary>गोविन्दराजः</summary>
 
 **यद् यत् परवशम्** इति । **यद् यत् **परायत्तम् अयाचितलाभादिना विशेषदानादि **कर्म तत् तद् **यत्नतो **वर्जयेत् । यद् यत्** पुनर् आत्माधीनं स्वधनलेशेनापि केनचित् स्वलाभपरोपकारादिना **तत् तत् **यत्नेन अभ्यसेत् ॥ ४.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.
 </details>
 
 <details><summary>भारुचिः</summary>

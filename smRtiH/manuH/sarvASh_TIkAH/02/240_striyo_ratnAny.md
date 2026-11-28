@@ -2,6 +2,11 @@
 title = "240 स्त्रियो रत्नान्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+240	Excellent wives, learning, (the knowledge of) the law, (the rules of) purity, good advice, and various arts may be acquired from anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Wives, gems, learning, virtue, purity, wise saying and the various arts may be obtained from all sources.—(240)
@@ -47,11 +52,6 @@ This verse occurs in *Devalasmṛti* also (quoted in
 <details><summary>गोविन्दराजः</summary>
 
 **स्त्रियो रत्नानीति** । **शिल्पानि चाप्य् अदुष्टानीति** । अत्र **स्त्रीरत्नशौचचित्रकर्माद्य्**अदुष्ट-शिल्पाभिधानार्थः, तथैतानि सदाश्रयाण्य् उपादेयान्य् एवम् ॥ २.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	Excellent wives, learning, (the knowledge of) the law, (the rules of) purity, good advice, and various arts may be acquired from anybody.
 </details>
 
 <details><summary>भारुचिः</summary>

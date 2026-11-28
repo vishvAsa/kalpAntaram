@@ -3,6 +3,11 @@ title = "186 स्वयम् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+186	But (a depositary) who of his own accord returns them to a near relative of a deceased (depositor), must not be harassed (about them) by the king or by the depositor's relatives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the man restores it himself to the next-of-kin of the deceased depositor,—he should not be harassed by the king, or by the depositor’s relatives.—(186)
@@ -57,9 +62,4 @@ the deposit to his next of kin of his own accord, he must not be harassed, eithe
 <details><summary>भारुचिः</summary>
 
 अविदितनिक्षेपं स्वयं प्रयच्छतो नास्त्य् अभियोगः । अथ तूद्भावकः कश्चिद् अत्रार्थं दर्षयेद् (?) अधिकम्, ततः— ॥ ८.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	But (a depositary) who of his own accord returns them to a near relative of a deceased (depositor), must not be harassed (about them) by the king or by the depositor's relatives.
 </details>

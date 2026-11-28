@@ -3,6 +3,11 @@ title = "111 तिष्ठन्तीष्व् अनुतिष्ठे
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	Controlling himself and free from anger, he must stand when they stand, follow them when they walk, and seat himself when they lie down.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Self-controlled and free from greed, he shall stand when they stand, follow them when they move, and sit when they have sat down.—(111)
@@ -36,9 +41,4 @@ See Explanatory notes for [Verse 11.108].
 **
 
 See Comparative notes for [Verse 11.108].
-</details>
-
-<details><summary>Bühler</summary>
-
-112	Controlling himself and free from anger, he must stand when they stand, follow them when they walk, and seat himself when they lie down.
 </details>

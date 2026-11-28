@@ -2,6 +2,11 @@
 title = "227 यम् माता-पितरौ"
 +++
 
+<details><summary>Bühler</summary>
+
+227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The trouble that the parents undergo in the birth of children,—for that there can be no compensation even in a hundred years.—(227)
@@ -45,11 +50,6 @@ See Comparative notes for [Verse 2.225].
 <details><summary>गोविन्दराजः</summary>
 
 **सम्भवे **गर्भग्रहणे सति तदनन्तरम् एवानवरतं यद् दुःखम् अपत्यानां सम्बन्धि मातापितराव् अनुभवतः । तस्यानेकवर्षशतं प्रत्युपकारकरणेनापि आनृण्यं प्राप्तुं न शक्यते किम् उतैकजन्मनेति ॥ २.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.
 </details>
 
 <details><summary>भारुचिः</summary>

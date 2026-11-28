@@ -3,6 +3,11 @@ title = "122 स तान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	Let that (man) always personally visit by turns all those (other officials); let him properly explore their behaviour in their districts through spies (appointed to) each.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This officer shall always personally supervise in turn all those officers, and thoroughly acquaint himself, through the King’s spies, with their behaviour in their respective jurisdictions.—(122)
@@ -64,9 +69,4 @@ sentiments by conjecture and by external gestures, accurate of memory, polite an
 <details><summary>भारुचिः</summary>
 
 अयम् अधिपतीन् सदा परिक्रामेत् परिरक्षणाय, तेषां च वृत्तं राज[चरैः] कापटिकादिभ्या आगमयेत् ॥ ७.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	Let that (man) always personally visit by turns all those (other officials); let him properly explore their behaviour in their districts through spies (appointed to) each.
 </details>

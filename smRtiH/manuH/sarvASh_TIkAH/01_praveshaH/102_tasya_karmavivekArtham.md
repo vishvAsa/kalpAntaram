@@ -2,6 +2,11 @@
 title = "102 तस्य कर्मविवेकार्थम्"
 +++
 
+<details><summary>Bühler</summary>
+
+102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It was for the purpose of regulating the actions of the Brāhmaṇa,—and incidentally of others also,—that the wise Manu Svāyambhuva Elaborated these institutes.—(102)
@@ -36,11 +41,6 @@ This verse serves the purpose of indicating the upshot of the entire eulogium pr
 <details><summary>गोविन्दराजः</summary>
 
 अधुनोक्तब्राह्मणस्तुतेः फलम् आह – **तस्येति** । ईदृग् एतन् महच्छास्त्रं यद् उक्तलक्षणस्य **ब्राह्मणस्य **प्रधानतः कार्याकार्यविवेकार्थं **शेषाणां** क्षत्रियादिसङ्करपर्यन्तानाम् अनुषङ्गतः तद्**विवेदार्थम् **एतत् प्रजापतिनप्ता प्रशस्तबुद्धिमान् **मनुः** कल्पितवान् ॥ १.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
 </details>
 
 <details><summary>भारुचिः</summary>

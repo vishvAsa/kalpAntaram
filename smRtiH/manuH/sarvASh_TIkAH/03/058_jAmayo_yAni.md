@@ -2,6 +2,11 @@
 title = "058 जामयो यानि"
 +++
 
+<details><summary>Bühler</summary>
+
+058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.—(58)
@@ -41,11 +46,6 @@ down by malignant spirits; such houses neither shine nor prosper; and they are d
 <details><summary>गोविन्दराजः</summary>
 
 **जामय** इति । यानि गृहाणि न नवोढादुहित्राद्याश् च **अपूजिताः **सद्यो ऽभिशपन्ति **तानि **अभिचारविशेषहा=अतानीव सर्वनाशं नश्यन्ति ॥ ३.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
 </details>
 
 <details><summary>भारुचिः</summary>

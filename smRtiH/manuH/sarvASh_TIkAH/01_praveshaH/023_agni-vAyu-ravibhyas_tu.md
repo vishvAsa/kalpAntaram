@@ -2,6 +2,11 @@
 title = "023 अग्नि-वायु-रविभ्यस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of (the three deities) Agni, Vāyu and Ravi, he extracted, for the due fulfilment of sacrifices, the eternal Brahman, threefold, in the forms of ‘Ṛk,’ ‘Yajuṣ’ and ‘Sāman.’—(23)
@@ -95,11 +100,6 @@ Do. (p. 19, l. 11) ‘*Dohanañchādhyāpanam*’—In this case *ravibhyaḥ* w
 <details><summary>गोविन्दराजः</summary>
 
 **अग्निवायुरविभ्य** इति । **ऋग्यजुःसामा**ख्यं ब्रह्म**त्रयं** **सनातनं** नित्यम् अपि सूक्ष्मं आदौ दैव्या शक्त्या **अग्निवायुरविभ्यः **आकृष्टवान् । **यज्ञसिद्ध्यर्थम्**, आगमिकत्वाच् च नातिशङ्क्यम् एतत् । तथा च “ऋग्वेद एवाग्नेर् अजायत” इत्यादि ब्राह्मणम् ॥ १.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
 </details>
 
 <details><summary>भारुचिः</summary>

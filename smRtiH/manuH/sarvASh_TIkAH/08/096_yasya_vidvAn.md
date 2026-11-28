@@ -3,6 +3,11 @@ title = "096 यस्य विद्वान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	'The gods are acquainted with no better man in this world than him, of whom his conscious Soul has no distrust, when he gives evidence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The gods do not regard any person in this world as superior to him, whom his knowing soul does not distrust, while he is speaking.’—(96)
@@ -59,9 +64,4 @@ This verse is quoted in *Aparārka* (p. 674);—and in *Kṛtyakalpataru* (35b).
 <details><summary>भारुचिः</summary>
 
 अष्टौ श्लोकाः शूद्रशपथानुयोगार्थाः । एवम् एभिर् अनेकैर् वाक्यार्थप्रकारैः सत्यवचनार्थाः संप्[अद्यते] । यथा ब्राह्मणादिवर्णानुयोगानाम् ॥ ८.८९–९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	'The gods are acquainted with no better man in this world than him, of whom his conscious Soul has no distrust, when he gives evidence.
 </details>

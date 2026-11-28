@@ -2,6 +2,11 @@
 title = "074 जपो ऽहुतो"
 +++
 
+<details><summary>Bühler</summary>
+
+074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) Japa is ‘Ahuta,’ (2) Offering into fire is ‘Huta,’ (3) Offering to elementals is ‘Prahuta,’ (4) The honouring of Brāhmaṇas is ‘Brāhmya-huta,’ and (5) Water-offering to Pitṛs is ‘Prāśita.’—(74)
@@ -49,11 +54,6 @@ See Comparative notes for [Verse 3.73].
 <details><summary>गोविन्दराजः</summary>
 
 **जप** इति । **अहुत**शब्देन **जपो** ब्रह्मयज्ञाख्यः स्मृतः । **हुतश्** च **होमो** देवयज्ञः **प्रहुतश्** च **भौतिको बलिः **भूतयज्ञः **ब्राह्मं हुतं द्विजाग्र्यस्य **ब्राह्मणस्य्**आर्चा **अतिथियज्ञः **प्राशितं **च **पितृतर्पणम्** पितृयज्ञः । यदि कथञ्चित् सकलमहायज्ञमहानुष्ठानासम्पत्तिस् तदा ॥ ३.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "117 प्राणि वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Any śrāddha-gift, be it animate or inanimate, if the Brāhmaṇa accepts, it becomes an occasion unfit for study; because the Brāhmaṇa has been declared as having the hand for his mouth.—(117)
@@ -41,9 +46,4 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 <details><summary>गोविन्दराजः</summary>
 
 गोहिरण्यादि **यत् किञ्चित्** श्राद्धार्थं तत् स्पृष्ट्वाप्य् अनध्यायः । किम् उत प्रतिगृह्य । यस्मात् पाणिर् एवास्यम् अस्येति **पाण्यास्यो **ब्राह्मणः ॥ ४.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.
 </details>

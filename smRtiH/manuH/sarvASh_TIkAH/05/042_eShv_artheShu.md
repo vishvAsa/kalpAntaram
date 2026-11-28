@@ -2,6 +2,11 @@
 title = "042 एष्व् अर्थेषु"
 +++
 
+<details><summary>Bühler</summary>
+
+042	A twice-born man who, knowing the true meaning of the Veda, slays an animal for these purposes, causes both himself and the animal to enter a most blessed state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the Madhuparka offering, at sacrifices, and at the rites in honour of the Pitṛs,—at these alone should animals be killed, and nowhere else: thus has Manu declared—(41)
@@ -80,11 +85,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 531).
 <details><summary>गोविन्दराजः</summary>
 
 **एष्व्** इति । प[पा]रमार्थिकवेदार्थज्ञो **द्विज** एतेषु मधुपर्कादिषु पदार्थेषु **पशून् हिंसन् आत्मानं **तांश्** च पशून् उत्तमां गतिं** स्वर्गादौ विचित्रशरीरसम्बन्धं प्रापयति । न चान्यत्रान्यदीयकर्मणः कथम् अन्यस्य फलप्राप्तिर् इति नोदनीयम्, शब्दप्रमाणको ऽर्थो यत्शब्दो बोध्यति तत् तथैव प्रतिपादनीयम् । अन्यथा शब्दप्रमाणकधर्मार्थफललाभे ऽपि क आश्वासः । पशुसञ्ज्ञपनमन्त्रमध्ये [-सञ्जवमन्त्र] वेद आम्नायते – “न वा उ एतन् म्रियसे न रिष्यसि । देवां इद् एषि पथिभिः सुगेभिः” इति । पशुं किल होता एवम् आह । न त्वै त्वं म्रियसे नापि रिष्यसि हिंस्यसे । किं तर्हि । सुगैः निकृष्टयोनिव्यवधानशून्यैः मार्गे देवान् एषि स्वर्गं प्राप्नोषीत्य् अर्थः । एवं चान्यत्र स्वपरोपकारभावात् ॥ ५.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	A twice-born man who, knowing the true meaning of the Veda, slays an animal for these purposes, causes both himself and the animal to enter a most blessed state.
 </details>
 
 <details><summary>भारुचिः</summary>

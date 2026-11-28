@@ -3,6 +3,11 @@ title = "360 भिक्षुका बन्दिनश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+360	Mendicants, bards, men who have performed the initiatory ceremony of a Vedic sacrifice, and artisans are not prohibited from speaking to married women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Mendicants, bards, persons initiated for a rite and craftsmen may converse with women, unchecked.—(360)
@@ -47,9 +52,4 @@ This verse is quoted in *Vivādaratnākara* (p. 386), which adds the following n
 <details><summary>भारुचिः</summary>
 
 भिक्षुकादीनाम् असत्य् अपि कारणे संभाषणं गृहेष्व् अभ्यनुज्ञायते । ताभिः सह तीर्थादिषु तु विजनेषु सत्य् अपि कारणे भिक्षुकादयो नाभिभाषेरन्, शङ्कास्थानेषु ॥ ८.३५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-360	Mendicants, bards, men who have performed the initiatory ceremony of a Vedic sacrifice, and artisans are not prohibited from speaking to married women.
 </details>

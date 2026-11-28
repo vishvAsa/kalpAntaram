@@ -2,6 +2,11 @@
 title = "191 आमन्त्रितस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the man invited at the śrāddha dallies with a woman, he takes upon himself all the sin that there may be in the giver.—(191)
@@ -46,11 +51,6 @@ to his bed a Śūdra woman, he throws his forefathers into her ordure for three 
 <details><summary>गोविन्दराजः</summary>
 
 **आमन्त्रित** इति । “तद् अहर् ब्रह्मचारी स्यात्” इति गौतमस्मरणात् । वृषल्य् अपि कामयमाना चालयति भर्तारम् इति वृषल्य् अत्र ब्राह्मण्य् अपि । श्राद्धे निमन्त्रितः सन् तया सह स्त्रीपुन्धर्मेण यो रमते स दातुर् यत् पापं **तत् सर्वं** प्राप्नोति इति पापोत्पत्तिप्रतिपादनमात्रम् एतत् । अन्यथा अपापे दातरि दुष्कृतसम्बन्धो न स्यात् । तत्र (न चात्र) दातुर् एतत् प्रायश्चित्ततया चोदितं येनासौ दुष्कृतान् मुच्यते ॥ ३.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.
 </details>
 
 <details><summary>भारुचिः</summary>

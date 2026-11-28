@@ -3,6 +3,11 @@ title = "072 न विगर्ह्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hot carry on a wrangling conversatioh. He shall not wear a garland outside. Riding on the back of cows and oxen is altogether deprecated.—(72)
@@ -60,9 +65,4 @@ devoid of fragrance or one whose fragrance is very strong, or which is red.’
 <details><summary>गोविन्दराजः</summary>
 
 **नि विगृह्येति** । साभिनिवेशं **कथां न कुर्यात्,** वासश् च **बहिर्माल्यं न धारयेत्** । गोपृष्ठारोहणेन गमनं पर्यटनव्यवधानादिप्रकारेणादिधर्मापहम् ॥ ४.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.
 </details>

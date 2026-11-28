@@ -3,6 +3,11 @@ title = "026 देवस्वम् ब्राह्मणस्वम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	That sinful man, who, through covetousness, seizes the property of the gods, or the property of Brahmanas, feeds in another world on the leavings of vultures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sinful man who, through covetousness, seizes the property of the gods, or the property of Brāhmaṇas, lives, in the other world, upon the leavings of vultures.—(26)
@@ -60,9 +65,4 @@ This verse is quoted in *Hemādri* (Śrāddha p. 1035).
 <details><summary>भारुचिः</summary>
 
 देवतार्थं यत् प्रकल्प्य स्थाप्यते तद् **देवस्वम्** । प्रकरणसामर्थ्याद् यज्ञार्थं भिक्षितम् । नान्यत् । **ब्राह्मणस्वम्** अप्य् एवम् एव विज्ञेयम्, यद् ब्राह्मणभोजनाथं प्रतिगृहीतं श्राद्धादिषु । समानवादार्थं च देवस्वेनास्य ग्रहणम् । एवं च सति यद् इदं (?) लोके प्रसिद्धं देवस्वं तन् नेहाभिधीयते, प्रकरणविरोधात् । देवतानां च ममता नास्त्य् अनधिकारात् । शास्त्रदृष्टं च यद् देवस्वं तत्संप्रदानकाल एवोद्देशसामर्थ्याद् देवस्वम् इति शक्यते वक्तुम् । क्षणिकश् चासौ देवतोपभोगकालः, निवृत्ते च तस्मिन् देवतोपभोगे देवस्वं तद् इत्य् अशक्यं व्यपदेष्टुम् । एवं च सति यज्ञार्थं भिक्षितं सर्वं यज्ञ एवोपयोज्यम् । न किंचिद् आत्मोपभोगाय स्थापनीयम् । यस् तु मोहान् न सर्वम् उपयुङ्क्ते, तस्य नियमव्यतिक्रमे ऽयं निन्दार्थवादः । दृष्टान्तार्थं वा प्रसिद्धस्य ब्राह्मण[स्व]स्य ग्रहणम् ॥ ११.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	That sinful man, who, through covetousness, seizes the property of the gods, or the property of Brahmanas, feeds in another world on the leavings of vultures.
 </details>

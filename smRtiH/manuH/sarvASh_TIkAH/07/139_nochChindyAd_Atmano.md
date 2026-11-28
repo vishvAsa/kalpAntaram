@@ -3,6 +3,11 @@ title = "139 नोच्छिन्द्याद् आत्मनो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+139	Let him not cut up his own root (by levying no taxes), nor the root of other (men) by excessive greed; for by cutting up his own root (or theirs), he makes himself or them wretched.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not cut off his own root, nor that of others, through excessive greed; by cutting off his own root he causes suffering to himself as well as to others.—(139)
@@ -64,9 +69,4 @@ realises from the kingdom, taxes, fines, duties and shares of the land’s produ
 <details><summary>भारुचिः</summary>
 
 तद् एव प्रतिषेधाद् आत्मनः परेषां च तन्त्रं नोच्छिन्द्यात् ॥ ७.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	Let him not cut up his own root (by levying no taxes), nor the root of other (men) by excessive greed; for by cutting up his own root (or theirs), he makes himself or them wretched.
 </details>

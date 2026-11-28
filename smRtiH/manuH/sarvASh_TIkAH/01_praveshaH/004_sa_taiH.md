@@ -2,6 +2,11 @@
 title = "004 स तैः"
 +++
 
+<details><summary>Bühler</summary>
+
+004	He, whose power is measureless, being thus asked by the high-minded great sages, duly honoured them, and answered, 'Listen!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being thus questioned by the high-souled Great Sages, he, possessed op illimitable vigour, received them with reverence, and with proper courtesy answered them—‘listen.’—(4)
@@ -73,11 +78,6 @@ The injunctions and prohibitions in the Institute are the work of Prajāpati him
 <details><summary>गोविन्दराजः</summary>
 
 **स **इति । **स** मनुः अपरिमिततेजाः महर्षिभिः **महात्मभिः** परार्थकारिभिः । अत एव तेषां महर्षीणाम् अपि सतां धर्मप्रश्नान् तेन प्रकारेण अभिगमनपूर्वकं सम्यक् पूजापूर्वकं च **पृष्टः** अभ्यर्चयित्वा **तान्** प्रति एवम् उक्तवान् **श्रूयताम्** इति ॥ १.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	He, whose power is measureless, being thus asked by the high-minded great sages, duly honoured them, and answered, 'Listen!'
 </details>
 
 <details><summary>भारुचिः</summary>

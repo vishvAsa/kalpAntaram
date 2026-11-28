@@ -3,6 +3,11 @@ title = "051 तथैवाऽक्षेत्रिणो बीजम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+051	Thus men who have no marital property in women, but sow their seed in the soil of others, benefit the owner of the woman; but the giver of the seed reaps no advantage.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Similarly persons who have no ‘soil’ of their own—if they sow in the ‘soil’ belonging to another man, they confer benefit upon the owner of the ‘soil,’ and the owner of the seed reaps no fruit.—(51).
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 प्रकृतस्यार्थस्य सर्व एते दृष्टान्तश्लोकाः प्ररूपणाय । एवं योनिबलीयस्त्वात् परक्षेत्रजाता न बीजिनो भवन्तीति ॥ ९.४९–५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	Thus men who have no marital property in women, but sow their seed in the soil of others, benefit the owner of the woman; but the giver of the seed reaps no advantage.
 </details>

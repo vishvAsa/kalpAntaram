@@ -2,6 +2,11 @@
 title = "032 क्रीत्वा स्वयम्"
 +++
 
+<details><summary>Bühler</summary>
+
+032	He who eats meat, when he honours the gods and manes, commits no sin, whether he has bought it, or himself has killed (the animal), or has received it as a present from others.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 मृगपक्षिमांसविषयम् इदं शास्त्रम् । रुरुपृषतादीनां शशकपिञ्जलादीनां मांसं देवानां पितॄणां चार्चनं कृत्वा खादतो न दोषः ।  
@@ -81,11 +86,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds that ‘*
 <details><summary>गोविन्दराजः</summary>
 
 **क्रीत्वेति ** । **क्रीत्वा **आत्मना **चोत्पाद्य । **यथोक्तं “भृत्यानां चैव वृत्त्यर्थम्” इति । अनेन चानीतं यथोक्तम् “धाना मत्स्यान् पयो मांसम्” इति । एवंविधं मांसं देवपितृभ्यो दत्वाश्नन् पापं न प्राप्नोति इत्य् उपाकरणानर्हशशादिमांसविषयम् इदम् उपाकरणार्हगोऽव्यजमांसस्यानुपाकृतस्य देवाद्यर्चनशिष्टस्य “अनुपाकृतमांसादि” इति प्रतिषेधात् ॥ ५.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	He who eats meat, when he honours the gods and manes, commits no sin, whether he has bought it, or himself has killed (the animal), or has received it as a present from others.
 </details>
 
 <details><summary>भारुचिः</summary>

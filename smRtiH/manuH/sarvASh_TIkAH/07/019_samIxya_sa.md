@@ -3,6 +3,11 @@ title = "019 समीक्ष्य स"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	If (punishment) is properly inflicted after (due) consideration, it makes all people happy; but inflicted without consideration, it destroys everything.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When meted out properly after due investigation, it makes all people happy; but when meted out without due investigation, it destroys all things.—(19)
@@ -48,9 +53,4 @@ punishment renders happy the entire universe of gods, *asuras* and men; otherwis
 <details><summary>भारुचिः</summary>
 
 नैतावता मुच्यामहे, असम्यग्धृतः कार्यं न करोतीति । यथैव सम्यग्धृतो **रञ्जयति प्रजाः**, एवम् असम्यग्धृतः सर्वम् एव **विनाशयति** ॥ ७.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	If (punishment) is properly inflicted after (due) consideration, it makes all people happy; but inflicted without consideration, it destroys everything.
 </details>

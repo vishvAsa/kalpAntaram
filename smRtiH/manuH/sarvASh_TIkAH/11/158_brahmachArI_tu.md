@@ -3,6 +3,11 @@ title = "158 ब्रह्मचारी तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+159	But a student who on any occasion eats honey or meat, shall perform an ordinary Krikkhra (penance), and afterwards complete his vow (of studentship).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a person keeping a vow happens, in any way, to eat honey or meat, he should perform the original Kṛcchra, and then complete the remainder of his vow.—(158)
@@ -58,9 +63,4 @@ perform the *Kṛcchra* penance, and then complete the rest of the vows.’
 <details><summary>भारुचिः</summary>
 
 श्राद्धे, अन्यत्र वा ॥ ११.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	But a student who on any occasion eats honey or meat, shall perform an ordinary Krikkhra (penance), and afterwards complete his vow (of studentship).
 </details>

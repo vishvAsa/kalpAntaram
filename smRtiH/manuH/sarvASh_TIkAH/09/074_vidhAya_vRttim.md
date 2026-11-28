@@ -3,6 +3,11 @@ title = "074 विधाय वृत्तिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	A man who has business (abroad) may depart after securing a maintenance for his wife; for a wife, even though virtuous, may be corrupted if she be distressed by want of subsistence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man having business may go abroad, after having provided for the maintenance of his wife; for a wife, even though virtuous, may become corrupt, when distressed by want of subsistence.—(74)
@@ -66,9 +71,4 @@ shall not adorn herself, nor unbind her hair.’
 <details><summary>भारुचिः</summary>
 
 कार्यार्थं नियमेन ग्रासाच्छादनप्रविधानं कुर्याद् भार्यायाः । अस्य नियमविधेर् अर्थवाद उत्तरः श्लोकार्धः । कार्यवतश् च मनुष्यस्य प्रवासोपदेशाद् विना कार्येण भार्यां मुक्त्वान्यत्र गमनं प्रतिषेधति ॥ ९.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	A man who has business (abroad) may depart after securing a maintenance for his wife; for a wife, even though virtuous, may be corrupted if she be distressed by want of subsistence.
 </details>

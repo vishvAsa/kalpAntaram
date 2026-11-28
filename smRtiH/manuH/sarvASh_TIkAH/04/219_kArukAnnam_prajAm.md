@@ -3,6 +3,11 @@ title = "219 कारुकान्नम् प्रजाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+219	The food of an artisan destroys his offspring, that of a washerman his (bodily) strength; the food of a multitude and of harlots excludes him from (the higher) worlds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of artisans impairs the offspring, that of the clothes-washer impairs strength; the food of a multitude and the food of the harlot out off the max from the regions.—(219)
@@ -43,9 +48,4 @@ food is semen,’
 <details><summary>गोविन्दराजः</summary>
 
 **कारुकान्नम्** इति । सूपकाराद्यन्नम् अपत्यानि हन्ति । अस्याप्य् अत एव निषेधः । चर्मकारादीनां चान्नं गोबलीवर्दन्यायेन निर्देशो द्रष्टव्यः । एवम् इह शास्त्रे सर्वत्र विज्ञेयम् । निर्णेजकान्नं च कर्मान्तरार्जितेभ्यः स्वर्गादिलोकेभ्यः आच्छिनत्ति ॥ ४.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	The food of an artisan destroys his offspring, that of a washerman his (bodily) strength; the food of a multitude and of harlots excludes him from (the higher) worlds.
 </details>

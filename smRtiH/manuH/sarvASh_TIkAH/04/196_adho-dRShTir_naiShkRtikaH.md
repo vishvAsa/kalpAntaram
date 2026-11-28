@@ -2,6 +2,11 @@
 title = "196 अधो-दृष्टिर् नैष्कृतिकः"
 +++
 
+<details><summary>Bühler</summary>
+
+196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With eyes cast downwards, of cruel disposition, intent upon the accomplishment of his own ends, dishonest and falsely humble;—such is the Brāhmaṇa ‘who behaves like the heron’.—(196)
@@ -58,11 +63,6 @@ See Comparative notes for [Verse 4.195].
 <details><summary>गोविन्दराजः</summary>
 
 **अधोदृष्टिर् नैष्कृतिक** इति । **अधोदृष्टिर्** विनीतत्वख्यापनार्थम् । अध एव निरीक्षते । **नैष्कृतिकः **नैष्ठुर्यव्यवहारी **स्वार्थसाधनतत्परः **स्वार्थसाधननिष्ठः** शठः** परान्नस्योपेक्षकः** मिथ्याविनीतः **कपटे प्रश्रयवान् यः स बकवृत्तेन चरति इति **बकव्रतधरो** ब्राह्मणः ॥ ४.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
 </details>
 
 <details><summary>भारुचिः</summary>

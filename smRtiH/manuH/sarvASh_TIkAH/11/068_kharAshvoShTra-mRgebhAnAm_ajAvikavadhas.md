@@ -3,6 +3,11 @@ title = "068 खराश्वोष्ट्र-मृगेभानाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	Killing a donkey, a horse, a camel, a deer, an elephant, a goat, a sheep, a fish, a snake, or a buffalo, must be known to degrade (the offender) to a mixed caste (Samkarikarana).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The killing of an ass, of a horse, of a camel, of a deer, of an elephant, of a goat, of a sheep, of fish, of a snake, and of a buffalo should be regarded as degrading the man to the rank of a ‘mixed caste.’—(68)
@@ -43,9 +48,4 @@ degrading to a mixed caste.’
 <details><summary>गोविन्दराजः</summary>
 
 **खराश्वोष्ट्रमृगेभानाम्** इति । खरोश्वोष्ट्रमृगहस्तिच्छागैडकमत्स्यसर्पमहिषाणां प्रत्येकं वधः सङ्करीकरणं बोद्धव्यम् ॥ ११.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	Killing a donkey, a horse, a camel, a deer, an elephant, a goat, a sheep, a fish, a snake, or a buffalo, must be known to degrade (the offender) to a mixed caste (Samkarikarana).
 </details>

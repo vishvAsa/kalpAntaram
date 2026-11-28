@@ -3,6 +3,11 @@ title = "146 धनं यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+146	He who takes care of his deceased brother's estate and of his widow, shall, after raising up a son for his brother, give that property even to that (son).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rule refers to the case where the dead brother was one who had separated from the surviving brother; while the preceding verse was meant for that where the two brothers lived together. This is the only difference between this and the foregoing rules.
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 9.145].
 <details><summary>भारुचिः</summary>
 
 दण्डापूपिकयौरसस्य । **भ्रातुर् उत्पाद्येति** नियोगादिविध्यप्केषितम् इदं वचनम् । अपरे त्व् आहुः- अनियुक्तायाम् अपि पित्र्यं दद्याद् इति । तत् त्व् इदं युक्तायुक्तत्वेन विचारणीयम् ॥ ९.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	He who takes care of his deceased brother's estate and of his widow, shall, after raising up a son for his brother, give that property even to that (son).
 </details>

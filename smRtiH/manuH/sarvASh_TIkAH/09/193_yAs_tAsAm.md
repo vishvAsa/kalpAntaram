@@ -3,6 +3,11 @@ title = "193 यास् तासाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+193	Even to the daughters of those (daughters) something should be given, as is seemly, out of the estate of their maternal grandmother, on the score of affection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even to the daughters of those daughters something shall be lovingly given, as is quite proper, out of the property of their maternal grandmother.—(193)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.192].
 <details><summary>भारुचिः</summary>
 
 ऊढानाम् अनूढानां चेति कृतविचारम् एतत् । **प्रीतिपूर्वकम्** इति वचनान् न नियतं दानम् इदं विज्ञायते ॥ ९.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	Even to the daughters of those (daughters) something should be given, as is seemly, out of the estate of their maternal grandmother, on the score of affection.
 </details>

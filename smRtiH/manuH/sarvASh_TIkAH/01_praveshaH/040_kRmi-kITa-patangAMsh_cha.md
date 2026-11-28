@@ -2,6 +2,11 @@
 title = "040 कृमि-कीट-पतङ्गांश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Worms, Beetles and Moths; Lice, Flies and Bugs; Gadflies and Gnats; and also the entire host of the several kinds of immovable things.—(40)
@@ -35,11 +40,6 @@ The copulative compounds in the singular are in accordance with Pāṇini’s Su
 <details><summary>गोविन्दराजः</summary>
 
 **कृमिकीटपतङ्गान्** इति । **कृमयो **भूमिशरणाः । **कीटाः** कृमिभ्यः किञ्चित्स्थूलाः । **पतङ्गाः **शलभाः । **स्थावरं **वृक्षवनस्पत्यादिभेदेन नानाप्रकारम् ॥ १.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
 </details>
 
 <details><summary>भारुचिः</summary>

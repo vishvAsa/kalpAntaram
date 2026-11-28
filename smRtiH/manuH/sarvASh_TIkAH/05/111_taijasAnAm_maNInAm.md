@@ -2,6 +2,11 @@
 title = "111 तैजसानाम् मणीनाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+111	The wise ordain that all (objects) made of metal, gems, and anything made of stone are to be cleansed with ashes, earth, and water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of igneous substances, of gems and of everything made of stone,—the purification has been ordained to be accomplished by means of ash, by water and by clay.—(110)
@@ -239,11 +244,6 @@ by being scrubbed with stone,’
 <details><summary>गोविन्दराजः</summary>
 
 **तैजसानाम्** इति । अग्नितेजसा यानि द्रवीभवन्ति तानि तैजसानि सुवर्णादीनि । एवं प्रसिद्धेस् तेषां **मणीनां** पाषाणमयस्य च **सर्वस्य** चकारान् मृदादेर् अपि अद्भिर् मृद्भस्मनोश् चान्यतरेण लेपगन्धापकर्षणाख्यैककार्यत्वाद् विकल्पितेन विद्वद्भिर् मन्वादिभिः शुद्धिर् उक्ता । इदं समानजातीयोच्छिष्टलेपामेध्यद्रव्यसंस्पर्शादिष्व् अल्पोपघातविषयम् । तथा चोपघातविषये शुद्ध्यन्तराणि दृश्यन्ते । यथा बौधायनादिभिस् तैजसानां मूत्रपुरीषशुक्रासृक्कुणपमयैर् अत्यन्तवासितानाम् आवर्तनम् । अल्पकालसंसर्गेषु परिलेखनम्, स्पर्शमात्रोपघाते तु त्रिःसप्तकृत्वः परिमार्जनायुक्तम् । आवर्तनं पुनःकरणम्, परिलेखनं तक्षणम् ॥ ५.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	The wise ordain that all (objects) made of metal, gems, and anything made of stone are to be cleansed with ashes, earth, and water.
 </details>
 
 <details><summary>भारुचिः</summary>

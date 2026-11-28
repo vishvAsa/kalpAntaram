@@ -3,6 +3,11 @@ title = "069 यस्या म्रियेत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	If the (future) husband of a maiden dies after troth verbally plighted, her brother-in-law shall wed her according to the following rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the husband of a maiden dies after the troth has been verbally plighted,—shall her then own younger brother-in-law espouse in the following manner.—(69)
@@ -63,9 +68,4 @@ become lost after betrothal, the girl shall wait for three menstrual periods and
 <details><summary>भारुचिः</summary>
 
 **विधानं** विधिर् विवाहो यथोक्तः, **विन्देतेति** वचनात् । इतरथा ह्य् अनूढाम् उपगच्छतः कन्यादूषणम् उपपतं स्यात् । निय्मार्थश् चैवम् आरम्भः । एतस्माद् एव च लिङ्गात् प्राग् विवाहात् वाक्प्रदानम् अस्ति, यस्मिन् निर्वृत्ते मृते भर्तरि सान्यस्मै दीयेत ॥ ९.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	If the (future) husband of a maiden dies after troth verbally plighted, her brother-in-law shall wed her according to the following rule.
 </details>

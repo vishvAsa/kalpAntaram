@@ -2,6 +2,11 @@
 title = "031 वेदविद्या-व्रत-स्नाताञ् श्रोत्रियान्"
 +++
 
+<details><summary>Bühler</summary>
+
+031	Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.—(31)
@@ -75,11 +80,6 @@ good character, a Vedic Scholar cognisant of Brahman, young and endowed with lea
 <details><summary>गोविन्दराजः</summary>
 
 **वेदविद्याव्रतस्नातान् **इति । **वेदविद्याव्रतस्नाताण्** इत्य् अनेन वेदस्नातकव्रस्नातक-विद्याव्रतस्नातकत्वेन त्रिप्रकारा अपि स्नातका गृह्यन्ते । यथा हारीतः**: **“समाप्य वेदं असमाप्य व्रतानि यः स्नाति स वेदस्नातकः, असमाप्य वेदं समाप्य व्रतानि यः स्नाति स व्रतस्नातः । उभयं समाप्य यः स्नाति स विद्याव्रतस्नातकः” इति । तांस् तथा स्नतकग्रहनेन गृहीतान् अप्य् अतिशयार्थित्वेन पृथङ्निर्दिष्टान् **श्रोत्रियान्** गृहस्थान् **हव्यकव्येन पूजयेत्** । एतद्**विपरीतांस्** **तु वर्जयेत्** इतीदं पाखण्ड्यादिनिषेधदार्ढ्यम्, श्रोत्रियादीनां पुनर् अभिधानम्, पूजादिपूर्वकम् अन्तं पाखण्ड्याधिभ्यो न देयम् ॥ ४.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.
 </details>
 
 <details><summary>भारुचिः</summary>

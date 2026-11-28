@@ -3,6 +3,11 @@ title = "039 यो दत्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	Worlds, radiant in brilliancy, become (the portion) of him who recites (the texts regarding) Brahman and departs from his house (as an ascetic), after giving a promise of safety to all created beings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who goes forth from home after having granted freedom from all fear to all beings,—to that expounder of the Veda belong regions of light.—(39).
@@ -64,9 +69,4 @@ giving a promise of safety from injury to all living beings. They quote the foll
 > **भवन्ति ब्रह्मवादिनः  ॥ ६.३९ ॥**
 
 परमात्मज्ञस्य न केवलं प्रव्रजितस्येति ॥ ६.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	Worlds, radiant in brilliancy, become (the portion) of him who recites (the texts regarding) Brahman and departs from his house (as an ascetic), after giving a promise of safety to all created beings.
 </details>

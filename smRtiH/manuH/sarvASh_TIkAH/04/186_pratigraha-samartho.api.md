@@ -2,6 +2,11 @@
 title = "186 प्रतिग्रह-समर्थो ऽपि"
 +++
 
+<details><summary>Bühler</summary>
+
+186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Though entitled to accept presents, he shall avoid addiction to it; because, by receiving gifts, his spiritual light is quickly extinguished.—(186)
@@ -44,11 +49,6 @@ not accept them, he obtains those spacious regions which are meant for the extre
 <details><summary>गोविन्दराजः</summary>
 
 **प्रतिग्रहसमर्थम्** इति । श्रुताध्ययनादिना **प्रतिग्रहेण समर्थो ऽपि **तत्र पुनःप्रवृत्तिं वर्जयेत् । यस्मात् **प्रतिग्रहेणास्या**ध्ययनादिनिमित्तप्रभावः क्षिप्रम् एव प्रलीयते “यात्रामात्रप्रसिद्ध्यर्थम्” इत्यादिनोक्तम् अप्य् एतत् **तेजः **प्रशमफलकथनार्थं पुनर् उच्यते ॥ ४.१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "002 अद्रोहेणैव भूतानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [While living in the house], The Brāhmaṇa shall, in normal times, subsist by taking to that means of livelihood which involves no trouble—or very little trouble—to living beings.—(2)
@@ -82,11 +87,6 @@ prescribed for him, marrying in families not belonging to the same Ṛṣi-gotra
 <details><summary>गोविन्दराजः</summary>
 
 **अद्रोहेणेति** । वक्ष्यमाणवृत्तीनां मध्यात् भूतान्पपीडनेन या जीविका शिलोञ्छादिना तदलाभे ऽल्पोपपीडनेन याचनादिना या ताम् आश्रित्य भार्यादिभरणनित्यानुष्ठानसम्पत्तौ सत्यां **विप्रो** **जीवेत् । **न चात्राल्पजिघांसाभ्यनुज्ञानं, हिंसाया निषिद्धत्वात् । विप्रग्रहणं क्षत्रियादिव्युदासार्थम् । तथापि जीवेत् ॥ ४.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
 </details>
 
 <details><summary>भारुचिः</summary>

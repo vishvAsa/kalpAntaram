@@ -3,6 +3,11 @@ title = "176 यदि तत्राऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+176	When, even in that (condition), he sees (that) evil is caused by (such) protection, let him without hesitation have recourse to war.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If even there he should perceive something wrong on the part of his shelterer, then, even in that condition he shall, without hesitation, resort to war.—(176)
@@ -61,9 +66,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328);—and in
 <details><summary>भारुचिः</summary>
 
 बन्धुवत्संश्रयो हि महादोषो राज्ञाम् इत्य् एवं च यदि संश्रयगतिना सादयेत्, ततः **सुयुद्धम् एव तत्रापि निर्वितर्कः समाचरेत्** । दृश्यते ह्य् अल्पबलेनापि महाबलं जीयमानम् । अपि च युध्यतः पराजयो ऽपि स्वर्गप्राप्त्या विशिष्यते । दृष्टसंश्रयस् तु नामुत्र राध्यते ॥ ७.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	When, even in that (condition), he sees (that) evil is caused by (such) protection, let him without hesitation have recourse to war.
 </details>

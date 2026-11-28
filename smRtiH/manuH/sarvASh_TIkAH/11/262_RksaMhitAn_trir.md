@@ -3,6 +3,11 @@ title = "262 ऋक्संहितान् त्रिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+263	He who, with a concentrated mind, thrice recites the Riksamhita, or (that of the) Yagur-veda; or (that of the) Sama-veda together with the secret (texts, the Upanishads), is completely freed from all sins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One becomes absolved from all sins by reciting, with concentrated mind, three times, the text of the Ṛk or of the Yajuṣ, or of the Sāman, along with the esoteric texts.—(262)
@@ -42,9 +47,4 @@ Sāmaveda, or thrice recites one of these three Vedas, and fasts,—that is the 
 <details><summary>भारुचिः</summary>
 
 अस्येयं स्तुतिः प्रवृत्त्यर्था ॥ ११.२५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-263	He who, with a concentrated mind, thrice recites the Riksamhita, or (that of the) Yagur-veda; or (that of the) Sama-veda together with the secret (texts, the Upanishads), is completely freed from all sins.
 </details>

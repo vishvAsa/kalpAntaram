@@ -3,6 +3,11 @@ title = "223 परेण तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+223	But after (the lapse of) ten days he may neither give nor cause it to be given (back); both he who takes it (back) and he who gives it (back, except by consent) shall be fined by the king six hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But after ten days, he shall neither return nor take it back; he who takes it back, as well as he who returns it, should be fined by the king six hundred.—(223)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 8.222].
 <details><summary>भारुचिः</summary>
 
 नायं श्लोको दशाहाद् ऊर्ध्वं सामप्रतिषेधार्थ आरभ्यते, साम्नाप्य् ऊर्ध्वं दशाहान् **न दद्यान् नापि दापयेद्** इति । न हि साम प्रतिषेद्धुं शक्यम् इत्य् उक्तम् । यत्र तु साम्नापि प्रत्यर्पणं नास्ति, तत्र नियमयत्य् एव, यथा "सकृद् अंशो निपतति" इति; अत्रापि त्व् अंशपातने साम्नाइव प्रतिषेद्धुं शक्यं नियमाभावाद्, व्यवस्थार्थत्वाच् च । कन्यादाने तु निष्क्रमविसर्गाभ्याम् इति विशेषनियमात् साम न विद्यते ॥ ८.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	But after (the lapse of) ten days he may neither give nor cause it to be given (back); both he who takes it (back) and he who gives it (back, except by consent) shall be fined by the king six hundred (panas).
 </details>

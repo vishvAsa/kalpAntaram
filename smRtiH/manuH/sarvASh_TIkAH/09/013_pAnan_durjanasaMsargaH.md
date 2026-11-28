@@ -3,6 +3,11 @@ title = "013 पानन् दुर्जनसंसर्गः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	Drinking (spirituous liquor), associating with wicked people, separation from the husband, rambling abroad, sleeping (at unseasonable hours), and dwelling in other men's houses, are the six causes of the ruin of women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Drinking, associating with wicked people, separation from her husband, rambling, sleeping and residence at other’s house are the six corrupters of women.—(13)
@@ -69,9 +74,4 @@ conversing with other men and associating with wicked ascetics and others; shoul
 <details><summary>भारुचिः</summary>
 
 परिवर्जनार्थ एषाम् उपदेशस् तत्पुरुषाणाम् । यतश् च पानादिव्यभिचारकरणेषु वर्तमानाः ॥ ९.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Drinking (spirituous liquor), associating with wicked people, separation from the husband, rambling abroad, sleeping (at unseasonable hours), and dwelling in other men's houses, are the six causes of the ruin of women.
 </details>

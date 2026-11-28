@@ -3,6 +3,11 @@ title = "072 मैत्राक्षज्योतिकः प्रेत
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	A Vaisya who has fallen off from his duty becomes a Maitrakshagyotika Preta, who feeds on pus; and a Sudra, a Kailasaka (Preta, who feeds on moths).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya, fallen from his duty, becomes the ‘Maitrākṣajyotika’ Preta feeding on pus; and the Śūdra becomes a ‘Cailāśaka’ Preta—(72)
@@ -54,9 +59,4 @@ This verse is quoted in *Mitākṣarā* (3.220) in the same sense as the above.
 <details><summary>भारुचिः</summary>
 
 चैलांशको शिङ्गुरुकः । यत एतद् एवं अतश् "चरितव्यम् अतो नित्यं प्रायश्चित्तं विशुद्धये" इत्य् उक्तम्, मा भूद् अकृतप्रायश्चित्तस्येयान् कर्मफलविपाको बहुकालो ऽनिष्ट इति । "बहून् वर्षगणान् घोरान् नरकान् प्राप्य तत्क्षयात्" इति । चैतद् अनुवर्तते । निन्दितकर्माभ्यासफलम् इदानीं पुनः स्पृशति ॥ १२.७१–७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	A Vaisya who has fallen off from his duty becomes a Maitrakshagyotika Preta, who feeds on pus; and a Sudra, a Kailasaka (Preta, who feeds on moths).
 </details>

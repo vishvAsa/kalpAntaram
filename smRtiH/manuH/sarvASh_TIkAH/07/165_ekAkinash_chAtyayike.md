@@ -3,6 +3,11 @@ title = "165 एकाकिनश् चात्ययिके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	Marching (to attack) is said to be twofold, (viz. that undertaken) by one alone when an urgent matter has suddenly arisen, and (that undertaken) by one allied with a friend.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Marching is said to be of two kinds—(1) that undertaken by the king by himself alone, on the sudden approach of an emergent occasion, and (2) that undertaken by him accompanied by his ally.—(165)
@@ -42,9 +47,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as setting forth 
 <details><summary>भारुचिः</summary>
 
 परस्य व्यसने यदृच्छया, **प्राप्ते आत्ययिके च कार्ये**, **एकाकिन** एव यानं यद्य् असाव् एकाकी शक्नोति तं जेतुम् । **संहतस्य मित्रेण** । । । एवं **द्विविधं यानम्** ॥ ७.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	Marching (to attack) is said to be twofold, (viz. that undertaken) by one alone when an urgent matter has suddenly arisen, and (that undertaken) by one allied with a friend.
 </details>

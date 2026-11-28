@@ -2,6 +2,11 @@
 title = "004 अकामस्य क्रिया"
 +++
 
+<details><summary>Bühler</summary>
+
+004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No action is ever found in this world to be done by a man entirely without desires; whatever a man does is. the outcome of desire.—(4)
@@ -38,11 +43,6 @@ actions, one should perform that which he wishes.’
 <details><summary>गोविन्दराजः</summary>
 
 अत्रैव लौकिकं दृष्टान्तम् आह – **अकामस्येति** । बुद्धिपूर्वकारिभाव्या या **काचित् क्रिया** दृष्टार्था सा अनिच्छतो **न** कदाचिद् **दृश्यते** । तस्माद् **यत् किञ्चित् कुरुते **कर्म **तत्** सर्वं **कामस्य चेष्टितम्** इच्छाकार्यम् इत्य् अर्थः ॥ २.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
 </details>
 
 <details><summary>भारुचिः</summary>

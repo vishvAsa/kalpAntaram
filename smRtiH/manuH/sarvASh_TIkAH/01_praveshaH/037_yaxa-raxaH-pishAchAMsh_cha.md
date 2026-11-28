@@ -2,6 +2,11 @@
 title = "037 यक्ष-रक्षः-पिशाचांश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] also Yakṣas, Rakṣasas, Piśācas, Gandharvas, Apsarases, Asuras, Nāgas, Sarpas, Suparṇas, and the several orders of Pitṛs.—(37)
@@ -40,11 +45,6 @@ the life of living beings, and by some invisible power they bring about diseases
 <details><summary>गोविन्दराजः</summary>
 
 **यक्षरक्षःपिशाचांश् चेति** । **यक्षाः **वैश्रवणामात्याः ।** रक्षांसि **रावणादीनि । **पिशाचाः **मरुभूम्यादिवासिनः प्राणिविशेषाः । **गन्दर्वाः **चित्रसेनादयः । **अप्सरसः **मेनकाद्याः, **असुरा **विरोचनादयः । **नागाः **तक्षकाद्याः **सर्पा **अहयः **सुपर्णा **गरुत्मन्तः **पितॄणां **सोमपादीनां स्वस्थानसमूहान् असृजन् इति वर्तते । एवम् उत्तरत्रापि ॥ १.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
 </details>
 
 <details><summary>भारुचिः</summary>

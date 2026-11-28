@@ -2,6 +2,11 @@
 title = "103 नैकग्रामीणम् अतिथिम्"
 +++
 
+<details><summary>Bühler</summary>
+
+103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not regard as “guest” a Brāhmaṇa who lives in the same village or who is a companion. He should regard him as such when he arrives at his house, or where the wife and the fires are at the time.—(103)
@@ -60,11 +65,6 @@ See Comparative notes for [Verse 3.102].
 <details><summary>गोविन्दराजः</summary>
 
 **नैकग्रामीणम्** इति । समानग्रामनिवासिनं यं च सङ्गत्या लोकयात्रया चरितं विचित्रपरिहासकथाजीवनं यस्य स **भार्याग्नयः **तस्मिन्न् एव ग्रामे सम्प्राप्तः तं वैश्वदेवकाले ऽपि सम्प्राप्तम् अतिथिं न विद्यात् ॥ ३.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
 </details>
 
 <details><summary>भारुचिः</summary>

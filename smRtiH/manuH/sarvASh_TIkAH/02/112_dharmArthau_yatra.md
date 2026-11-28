@@ -2,6 +2,11 @@
 title = "112 धर्मार्थौ यत्र"
 +++
 
+<details><summary>Bühler</summary>
+
+112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where merit and wealth are not possible, nor is there an adequate desire to serve, there knowledge should not be imparted; just as healthy seed (is not sown) on barren land.—(112)
@@ -67,11 +72,6 @@ wealth, nor desire to serve nor clxance of riches,—there one may perish along 
 <details><summary>गोविन्दराजः</summary>
 
 पूर्वोक्तनिमित्तानां मध्याद् धर्मादिनिमित्तत्रयस्य उपायत्वं दर्शयितुम् आह **धर्मार्थाव्** इति । यद् अध्यापने **धर्मः** पणपूर्वो वा **अर्थो** न भवेत् पणपूर्वकस्य भृतकाध्यापकत्वेन निषिद्धत्वात् । परिचर्या अध्यापनानुरूपा परिपुष्टं बीजम् इव अङ्कुरजननासमर्थे भूप्रदेशे ॥ २.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	Where merit and wealth are not (obtained by teaching) nor (at least) due obedience, in such (soil) sacred knowledge must not be sown, just as good seed (must) not (be thrown) on barren land.
 </details>
 
 <details><summary>भारुचिः</summary>

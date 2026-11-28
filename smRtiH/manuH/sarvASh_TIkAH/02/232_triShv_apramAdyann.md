@@ -2,6 +2,11 @@
 title = "232 त्रिष्व् अप्रमाद्यन्न्"
 +++
 
+<details><summary>Bühler</summary>
+
+232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Householder who fails not towards these three would win the three regions, and rejoice in heaven, radiant in body, like a God.—(232)
@@ -37,11 +42,6 @@ order—‘*Pitṛvṛttyā imam lokam mātṛvṛttyā tathāparam*.’)
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिष्व्** इति । **एतेषु त्रिषु** शुश्रूषायाम् अस्खलन् **त्रीन् लोकान् **वक्ष्यमाणान् जयेत् **गृही **आधिपत्येन स्वीकुर्यात् । ततः स्वदेहेन कान्तियुक्तेन ज्वलनादित्यादिदेववत् सुखं द्युलोके भवति । गृहस्थस्याप्य् अयं धर्मः इति दर्शयितुं गृहीत्य् उक्तम् ॥ २.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
 </details>
 
 <details><summary>भारुचिः</summary>

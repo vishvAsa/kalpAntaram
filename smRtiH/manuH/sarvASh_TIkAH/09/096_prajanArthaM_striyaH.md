@@ -3,6 +3,11 @@ title = "096 प्रजनार्थं स्त्रियः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	To be mothers were women created, and to be fathers men; religious rites, therefore, are ordained in the Veda to be performed (by the husband) together with the wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Women were created for the purpose of child-bearing, and men for the furfose of procreation. hence it is that Religious Rites have been ordained in the Veda as common between the man and his wife.—(96)
@@ -45,9 +50,4 @@ This verse is quoted in *Vivādaratnākara* (p. 418), which adds that the term �
 <details><summary>भारुचिः</summary>
 
 एवम् अनयोः प्रजासहत्ववत् कर्मसहत्वं स्मर्यते । येनातस् तां न परित्यजेद् अधिकारानुग्रहाय ॥ ९.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	To be mothers were women created, and to be fathers men; religious rites, therefore, are ordained in the Veda to be performed (by the husband) together with the wife.
 </details>

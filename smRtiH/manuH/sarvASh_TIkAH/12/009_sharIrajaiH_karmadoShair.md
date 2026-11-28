@@ -3,6 +3,11 @@ title = "009 शरीरजैः कर्मदोषैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+009	In consequence of (many) sinful acts committed with his body, a man becomes (in the next birth) something inanimate, in consequence (of sins) committed by speech, a bird, or a beast, and in consequence of mental (sins he is re-born in) a low caste.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Through sinful acts due to the Body, man becomes inanimate; through those of Speech, a bird or a beast; and through those of Mind, he is born in the lowest caste.—(9)
@@ -48,9 +53,4 @@ tendencies, so are its forms also, in the various species of animals.’
 <details><summary>भारुचिः</summary>
 
 शास्त्रन्यायविरोधे नेदं हेतुफलसंबन्धप्रदर्शनम्, किं तर्हि त्रिसाधनस्याधर्मस्यानन्तरश्लोकोक्तस्य गुरुलघुत्वप्रदर्शनम् । विसेषतो गुरोर् अधर्मस्य परिहारार्थण्ं ज्ञेयम् । प्रायस्चित्तशेषं वा प्रकरणात् । **मृग**ग्रहणं च सर्वतिर्यग्जातिप्रदर्शनार्थम् ॥ १२.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	In consequence of (many) sinful acts committed with his body, a man becomes (in the next birth) something inanimate, in consequence (of sins) committed by speech, a bird, or a beast, and in consequence of mental (sins he is re-born in) a low caste.
 </details>

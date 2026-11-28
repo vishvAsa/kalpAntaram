@@ -3,6 +3,11 @@ title = "134 पुत्रिकायाङ् कृतायाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+134	But if, after a daughter has been appointed, a son be born (to her father), the division (of the inheritance) must in that (case) be equal; for there is no right of primogeniture for a woman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if a son happen to be born after the daughter has been ‘appointed,’ the division must be equal; as there is no seniority for the woman.—(134)
@@ -52,9 +57,4 @@ Body-born son, the other sons are entitled to only a fourth part of the share, i
 <details><summary>भारुचिः</summary>
 
 एवं च सति पुत्रांशदानम् अज्येष्ठत्वान् नास्ति ॥ ९.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	But if, after a daughter has been appointed, a son be born (to her father), the division (of the inheritance) must in that (case) be equal; for there is no right of primogeniture for a woman.
 </details>

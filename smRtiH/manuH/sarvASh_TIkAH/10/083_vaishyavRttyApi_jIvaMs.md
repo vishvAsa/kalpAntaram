@@ -3,6 +3,11 @@ title = "083 वैश्यवृत्त्यापि जीवंस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	But a Brahmana, or a Kshatriya, living by a Vaisya's mode of subsistence, shall carefully avoid (the pursuit of) agriculture, (which causes) injury to many beings and depends on others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But even when subsisting by the occupation of the Vaiśya, the Brāhmaṇa or the Kṣatriya shall carefully avoid agriculture, which involves injury to living creatures and is dependent upon others.—(83)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 10.81].
 <details><summary>गोविन्दराजः</summary>
 
 बलाबलम् अधुना कृष्यादेः प्राह **वैश्यवृत्त्येति** । ब्राह्मणः क्षत्रियो वा वैश्यवृत्त्यापि जीवेत् । भूमिं भूमिशयांश् च हन्तीति वक्ष्यमाणया नीत्या हिंसाबहुलां बलीवर्दाद्यायत्तां कृषिं यत्नतः परिहरेत् । अतः गोरक्षाभाव इयं कार्येति गम्यते । क्षत्रियो ऽपि चेत्य् उपादानात् क्षत्रियस्यापि स्ववृत्त्यभावे वैश्यवृत्तिर् अस्तीति गम्यते ॥ १०.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	But a Brahmana, or a Kshatriya, living by a Vaisya's mode of subsistence, shall carefully avoid (the pursuit of) agriculture, (which causes) injury to many beings and depends on others.
 </details>

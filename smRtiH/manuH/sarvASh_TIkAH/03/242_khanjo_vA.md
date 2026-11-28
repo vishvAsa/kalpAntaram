@@ -2,6 +2,11 @@
 title = "242 खञ्जो वा"
 +++
 
+<details><summary>Bühler</summary>
+
+242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The cripple, or the one-eyed man, the man without a limb, or the man with a redundant limb,—even if he be the offerer’s servant—he should remove from there.—(242)
@@ -45,11 +50,6 @@ not look at the Śrāddha.’
 <details><summary>गोविन्दराजः</summary>
 
 **खञ्ज** इति । **खञ्जः **पादविकलः, **काणः** एकेक्षणविकलः, **दातुर् वा** सासः शूद्रस्यैव प्रेष्यत्वात् । अपिशब्दाद् अन्यो ऽपि शूद्रो, यो वा कुनखिषण्डकादिः तम् अपि ततः प्रदेशाद् अपोसारयेत् ॥ ३.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
 </details>
 
 <details><summary>भारुचिः</summary>

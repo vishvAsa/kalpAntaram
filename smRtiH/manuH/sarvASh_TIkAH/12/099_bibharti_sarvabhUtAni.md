@@ -3,6 +3,11 @@ title = "099 बिभर्ति सर्वभूतानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+099	The eternal lore of the Veda upholds all created beings; hence I hold that to be supreme, which is the means of (securing happiness to) these creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eternal lore of the Veda upholds all beings; f or th is reason I regard this as the best means of accomplishing the ends of every creature.—(99)
@@ -65,9 +70,4 @@ The duty is spiritual, but the actual act, which is visible to the eye, is physi
 <details><summary>भारुचिः</summary>
 
 तथा च ब्राह्मणम्- "हविर् अग्नौ हूयते । सो ऽग्निर् आदित्यं गमयति । तत् सूर्यो रश्मिभिर् वर्षति । तेनान्नं भवति । अन्नाद् भूतानाम् उत्पत्तिः" स्थित्श् चेति विज्ञायते । इहापि चोक्तम्- "अग्नौ प्रास्ताहुतिः सम्यग् आदित्यम् उपतिष्ठते" (म्ध् ३.६६) इत्य् एवमादि । **तद्माद् एतत् परं मन्ये** पुरुषार्थकारि **यत्** येन कारणेन **जन्तोर् अस्य** धर्मानुशासनम् । एतस्मात् कारणात् ॥ १२.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	The eternal lore of the Veda upholds all created beings; hence I hold that to be supreme, which is the means of (securing happiness to) these creatures.
 </details>

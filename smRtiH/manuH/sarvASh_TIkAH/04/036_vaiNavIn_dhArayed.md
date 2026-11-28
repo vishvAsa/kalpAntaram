@@ -2,6 +2,11 @@
 title = "036 वैणवीन् धारयेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+036	He shall carry a staff of bamboo, a pot full of water, a sacred string, a bundle of Kusa grass, and (wear) two bright golden ear-rings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hold a stick of bamboo, and also a water-pot full of water, the sacred thread, a handful of kuśa-grass and a pair of bright golden ear-rings.—(36).
@@ -122,11 +127,6 @@ water, wearing unworn clothes,...he shall apply collyrium to the eyes; then he w
 <details><summary>गोविन्दराजः</summary>
 
 **वैणवीम्** इति । वेणुदण्डम् उदक्सहितं **कमण्डलुं यज्ञोपवीतं **दर्भमुष्टिं रुचिरसौवर्णकुण्डले धारयेत् । यज्ञोपवीतकमण्डल्वोः “अग्नीन्धनं भैक्षचर्यां” (२.१०८) इत्य् अनेन च गृहस्थादीनाम् अनुवृत्तिसिद्धौ स्नातकव्रतार्थं पुनर्ग्रहणम् । एवम् अन्येषाम् अपि “न चोच्छिष्टः क्वचिद् व्रजेत्” इत्येवमादीनां पुनर्ग्रहणं विज्ञेयम् ॥ ४.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	He shall carry a staff of bamboo, a pot full of water, a sacred string, a bundle of Kusa grass, and (wear) two bright golden ear-rings.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "020 यद् धनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	The property of those who zealously offer sacrifices, the wise call the property of the gods; but the wealth of those who perform no sacrifices is called the property of the Asuras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The property of persons given to perform sacrifices the learned regard as ‘the property of the gods;’ while the property of those who do not perform sacrifices is described as ‘the property of demons.’—(20)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 11.19].
 <details><summary>भारुचिः</summary>
 
 यस्मात् तस्माद् युक्ता तत्र राज्ञ उपेक्षा, एतां शास्त्रपरिभाषाम् अन्ववेक्ष्य । एवं च सति ॥ ११.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	The property of those who zealously offer sacrifices, the wise call the property of the gods; but the wealth of those who perform no sacrifices is called the property of the Asuras.
 </details>

@@ -3,6 +3,11 @@ title = "061 यादृशा धनिभिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	I will fully declare what kind of men may be made witnesses in suits by creditors, and in what manner those (witnesses) must give true (evidence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I shall declare now what sort of persons should be made witnesses in suits by wealthy men, and how the truth should be told by them.—(61)
@@ -82,9 +87,4 @@ straightforward and unexceptionable as to their descent, their actions and their
 <details><summary>भारुचिः</summary>
 
 धनव्यवहारे च साक्षिणां लक्षणम् उच्यमानम्, अन्येष्व् अपि व्यवहारेषु कार्यसामान्याद् अविरोधाच् चेत्थंभूता एव प्रतीयेरन् ॥ ८.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	I will fully declare what kind of men may be made witnesses in suits by creditors, and in what manner those (witnesses) must give true (evidence).
 </details>

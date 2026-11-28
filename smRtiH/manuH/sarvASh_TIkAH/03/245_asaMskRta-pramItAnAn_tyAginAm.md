@@ -3,6 +3,11 @@ title = "245 असंस्कृत-प्रमीतानान् त्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The remnant and that which has been scattered on the Kuśa grass form the share of those who have died without sacraments, and of those who have abandoned family ladies.—(245)
@@ -76,9 +81,4 @@ pronouncing the syllable *svasti*, he shall throw on each of the spots sesamum a
 <details><summary>गोविन्दराजः</summary>
 
 **असंस्कृतप्रमीतानाम् **इति । “नास्य कार्यो ऽग्निसंस्कारः” [५.६९] इत्यादिना निषिद्धाग्निकार्याणां मृतानां कुलस्त्रीणां च कुलं त्यक्त्वा गतानां पात्रस्थम् **उच्छिष्टं धर्भेषु यो विकिरः** स भागः स्यात् । **कुलयोषिताम् **इति विशेषाभिधानं संस्कृतं भैक्षम् इत्य्वत् ॥ ३.२४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.
 </details>

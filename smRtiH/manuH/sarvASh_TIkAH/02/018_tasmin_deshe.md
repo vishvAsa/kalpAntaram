@@ -2,6 +2,11 @@
 title = "018 तस्मिन् देशे"
 +++
 
+<details><summary>Bühler</summary>
+
+018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That practice, which has comb down through an unbroken line op tradition among the several castes and subcastes in that country, is called the ‘Practice of Good Men.’—(18)
@@ -115,11 +120,6 @@ four castes should be known as the *mleccha deśa*; other than this is Āryāvar
 <details><summary>गोविन्दराजः</summary>
 
 **तस्मिन्न्** इति । **तस्मिन् देशे** प्रायेण सदाचारस्य सम्भवात् यो ब्राह्मणादीनाम् अन्तरप्रभावानां **पारम्पर्यक्रमागतः **प्रबन्धतो ऽविच्छेदेनागतः न साम्प्रतीको य आचारः **स सदाचार** उच्यते ॥ २.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "092 अलङ्कारन् नाददीत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	A maiden who choses for herself, shall not take with her any ornaments, given by her father or her mother, or her brothers; if she carries them away, it will be theft.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the girl chooses her own husband, she should not take away any ornaments given to her either by her father, or mother or brother; if she did take them, she would be a thief.—(92)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 9.90].
 <details><summary>भारुचिः</summary>
 
 अन्ये त्व् एवम् इमं श्लोकं पठन्ति- "नाददीत त्व् अलंकारं पित्र्यं कन्यास्वयंवरे, मातृकं भ्रातृदत्तं वा स्तेनः स्याद् यदि तं हरेत्" । एवं चापाठे पुरुषविषयः स्लोको भवति ॥ ९.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	A maiden who choses for herself, shall not take with her any ornaments, given by her father or her mother, or her brothers; if she carries them away, it will be theft.
 </details>

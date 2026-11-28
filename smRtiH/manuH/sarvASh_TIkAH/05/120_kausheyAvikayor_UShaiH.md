@@ -2,6 +2,11 @@
 title = "120 कौशेयाविकयोर् ऊषैः"
 +++
 
+<details><summary>Bühler</summary>
+
+120	Silk and woollen stuffs with alkaline earth; blankets with pounded Arishta (fruit); Amsupattas with Bel fruit; linen cloth with (a paste of) yellow mustard.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of Silken and woolen stuffs, by means of saline earth; of blankets by soap-berries; of ‘aṃśupaṭṭa,’ by the Bel-fruit; and of linen by white mustard.—(119).
@@ -75,11 +80,6 @@ and mustard; heavy woolens by being rubbed with oil, flour, and
 <details><summary>गोविन्दराजः</summary>
 
 **कौशेयाविकयोर् ऊषैर्** इति । कोशनिवृत्तस्य पट्टविशेषस्योर्णामयस्य च “सोषरोदकगोमूत्रैः” (य्ध् १.१८६) इति याज्ञवल्क्यादिदर्शनाद् उदकसहितैर् ऊषैः मृद्विशेषैर् एवं कुतपानाम् (?) आजलोमनिर्मितानां सोदकेनारिष्टकचूर्णेन । अंशुपट्टानां वल्कलतनुकृतानां पट्टानां सोदकबिल्वचूर्णेन क्षुमादिकृतानां सोदकेन गौरसर्षपचूर्णेन शुद्धिर् इष्यते ॥ ५.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	Silk and woollen stuffs with alkaline earth; blankets with pounded Arishta (fruit); Amsupattas with Bel fruit; linen cloth with (a paste of) yellow mustard.
 </details>
 
 <details><summary>भारुचिः</summary>

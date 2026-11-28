@@ -2,6 +2,11 @@
 title = "112 निर्लेपङ् काञ्चनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+112	A golden vessel which shows no stains, becomes pure with water alone, likewise what is produced in water (as shells and coral), what is made of stone, and a silver (vessel) not enchased.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A golden vessel, free from stains, becomes pure by water alone; so also what is produced in water, what is made of stone and what is made of silver, if it is not enchased (or verse much defiled).—(111).
@@ -101,11 +106,6 @@ purified by water; metal things are cleansed by washing with water and scrubbing
 <details><summary>गोविन्दराजः</summary>
 
 **निर्लेपम्** इति । उच्छिष्टादिलेपरहितं पानीयपानाद्युपहतं सौवर्णभाण्डम् अब्जं च रूप्यमारकतपूरितम् अद्भिर् एव केवलाभिर् विशुध्यति, न मृद्भस्मसहिताभिः ॥ ५.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	A golden vessel which shows no stains, becomes pure with water alone, likewise what is produced in water (as shells and coral), what is made of stone, and a silver (vessel) not enchased.
 </details>
 
 <details><summary>भारुचिः</summary>

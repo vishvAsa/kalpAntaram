@@ -2,6 +2,11 @@
 title = "227 दानधर्मन् निषेवेत"
 +++
 
+<details><summary>Bühler</summary>
+
+227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall practise, to the best of his ability, charity and righteousness in connection with sacrifices and acts of piety with a cheerful heart, if he finds a suitable recipient.—(227)
@@ -56,11 +61,6 @@ is held superior to charity.’
 <details><summary>गोविन्दराजः</summary>
 
 **दानधर्मम्** इति । आन्तर्वेदिको बहिर्वेदिकश् च यो दानाख्यो धर्मः तं श्रुताध्ययनादिसर्वगुणोपेतं ब्राह्मणं प्राप्य परितोषाख्येन चित्तधर्मेण यथाशक्ति नित्यं कुर्यात् ॥ ४.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
 </details>
 
 <details><summary>भारुचिः</summary>

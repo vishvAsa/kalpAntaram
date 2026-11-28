@@ -2,6 +2,11 @@
 title = "223 नाऽद्याच् छूद्रस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The learned Brāhmaṇa shall, not eat the cooked food of the Śūdra who performs no śrāddhas. In the absence of livelihood, he may receive from him raw grain sufficient for one day.—(223)
@@ -105,11 +110,6 @@ strength and vigour.’
 <details><summary>गोविन्दराजः</summary>
 
 **नाद्याद् **इति । श्राद्धादिक्रियाशून्यस्य सच्**छूद्रस्य** शास्त्रवित् द्विजः **पक्वान्नं **न भुञ्जीत । अपि त्व् अन्नान्तराभावे **आमम् **एव न पक्वम् एकाहोरात्रपर्याप्तं नाधिकम् अस्मात् प्रतिगृह्णीयात् ॥ ४.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "190 केतितस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The rest of Brāhmaṇas, who, when duly invited at the rite in honour of Gods and Pitṛs, happens, somehow, to neglect it, incurs sin and becomes a hog.’—(190)
@@ -64,11 +69,6 @@ who is late... falls into hell.’
 <details><summary>गोविन्दराजः</summary>
 
 **केतित** इति । हव्यकव्ययोः शास्त्रमर्यादानतिक्रमेण निमन्त्रितो ब्राह्मणः अङ्गीकृत्य केनापि प्रकारेणाभुञ्जानः तदतिक्रमपापवान् जन्मान्तरे **सूकरत्वं** याति । पापशूकर इति पाठे पापसूकरो ग्रामसूकरः ॥ ३.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.
 </details>
 
 <details><summary>भारुचिः</summary>

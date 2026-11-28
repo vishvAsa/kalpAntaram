@@ -3,6 +3,11 @@ title = "033 वनेषु च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	But having thus passed the third part of (a man's natural term of) life in the forest, he may live as an ascetic during the fourth part of his existence, after abandoning all attachment to worldly objects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus passed the third part of his life in the forest, the man shall, during the fourth part, renounce all attachments and go forth (a wandering mendicant).—(33)
@@ -125,11 +130,6 @@ within himself, the *twice-born* man should become a Renunciate.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-033	But having thus passed the third part of (a man's natural term of) life in the forest, he may live as an ascetic during the fourth part of his existence, after abandoning all attachment to worldly objects.
-</details>
-
-<details><summary>Bühler</summary>
 
 033	But having thus passed the third part of (a man's natural term of) life in the forest, he may live as an ascetic during the fourth part of his existence, after abandoning all attachment to worldly objects.
 </details>

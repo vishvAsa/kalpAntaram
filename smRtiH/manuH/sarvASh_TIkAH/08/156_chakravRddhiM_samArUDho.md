@@ -3,6 +3,11 @@ title = "156 चक्रवृद्धिं समारूढो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+156	He who has made a contract to carry goods by a wheeled carriage for money and has agreed to a certain place or time, shall not reap that reward, if he does not keep to the place and the time (stipulated).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man has entered into a ‘wheel-contract’ wtth reference to a particular place or time,—if he fails in regard to the place or time, he shall not suffer its reward.—(156)
@@ -81,9 +86,4 @@ dealers on the seas, 20 per cent.; or men may pay to all castes whatever interes
 <details><summary>भारुचिः</summary>
 
 उत्तमर्णो ऽधर्मर्णाद् देशकालातिक्रमेण स्वदोषाद् एव । इदानीं कारिता विऋद्धिविषयो ऽयम् अपर उच्यते ॥ ८.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-156	He who has made a contract to carry goods by a wheeled carriage for money and has agreed to a certain place or time, shall not reap that reward, if he does not keep to the place and the time (stipulated).
 </details>

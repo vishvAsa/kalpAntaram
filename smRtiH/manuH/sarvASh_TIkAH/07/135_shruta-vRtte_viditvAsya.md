@@ -3,6 +3,11 @@ title = "135 श्रुत-वृत्ते विदित्वास्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+135	Having ascertained his learning in the Veda and (the purity of) his conduct, the king shall provide for him means of subsistence in accordance with the sacred law, and shall protect him in every way, as a father (protects) the lawful son of his body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having ascertained his learning and character, he shall provide for him a fair living; and he shall protect him against all things, even as the father protects his lawful son.—(135)
@@ -48,9 +53,4 @@ unbreakable, imperishable, indestructible ancient treasure (of the Veda); the ki
 <details><summary>गोविन्दराजः</summary>
 
 यत एवम् अतः **श्रुतवृत्ते** इति । भयेभ्यश् च तथा रक्षेत् **पिता पुत्रम् इवौरसम्** । ज्ञानानुष्ठाने ऽस्य ज्ञात्वा तदनुरूपां धर्माद् अनपेतां स जीविकां कल्पयेत्, चौरपारदारिकादिभ्यो भयेभ्यश् च रक्षणीयस् तथा यथा पिता पुत्रं रक्षति ॥ ७.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Having ascertained his learning in the Veda and (the purity of) his conduct, the king shall provide for him means of subsistence in accordance with the sacred law, and shall protect him in every way, as a father (protects) the lawful son of his body.
 </details>

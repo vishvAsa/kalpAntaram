@@ -3,6 +3,11 @@ title = "007 अदत्तानाम् उपादानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+007	Taking what has not been given, injuring (creatures) without the sanction of the law, and holding criminal intercourse with another man's wife, are declared to be the three kinds of (wicked) bodily action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking what has not been given, unsanctioned killing, and intercourse with the wives of others—these have been declared to be three kinds of ‘bodily action.’—(7)
@@ -103,9 +108,4 @@ been given to him, or associates with the wives of other men, or kills animals i
 <details><summary>भारुचिः</summary>
 
 अयम् अधर्मः यो धर्माख्यतो (?) विपरीत्[ओ दत्ता]दानं परित्राणम् इन्द्रियसंयमश् चेति । इयं मनोगाग्देहसाधना दशविधा प्रवृत्तिः । कुशलाकुशलविभागेन तु विंशतिप्रकारः । तथा चोभयथा प्रदर्शितेति ॥ १२.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	Taking what has not been given, injuring (creatures) without the sanction of the law, and holding criminal intercourse with another man's wife, are declared to be the three kinds of (wicked) bodily action.
 </details>

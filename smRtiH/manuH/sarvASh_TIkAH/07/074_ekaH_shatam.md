@@ -3,6 +3,11 @@ title = "074 एकः शतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	One bowman, placed on a rampart, is a match in battle for one hundred (foes), one hundred for ten thousand; hence it is prescribed (in the Sastras that a king will posses) a fortress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A single bow-man, standing on a rampart, can fight against a hundred; and a hundred can fight against ten thousand; it is for the season that fortification has been enjoined.—(74).
@@ -39,9 +44,4 @@ that even if the attack is made by men ten times the number of the garrison, the
 <details><summary>भारुचिः</summary>
 
 प्रत्यक्षफलत्वं महीदुर्गस्य दर्शयति । एवं च तस्मिन् तस्मिन् दुर्गे गुणो वेदितव्यः ॥ ७.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	One bowman, placed on a rampart, is a match in battle for one hundred (foes), one hundred for ten thousand; hence it is prescribed (in the Sastras that a king will posses) a fortress.
 </details>

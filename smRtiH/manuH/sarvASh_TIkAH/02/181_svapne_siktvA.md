@@ -2,6 +2,11 @@
 title = "181 स्वप्ने सिक्त्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born religious student, haying unintentionally dropped his manhood during a dream, should thrice recite the three vedic verses beginning with “punarmām,” after having bathed and worshipped the sun.—(181)
@@ -61,11 +66,6 @@ semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hun
 <details><summary>गोविन्दराजः</summary>
 
 **स्वप्न** इति । (यत्) **द्विजो ब्रह्मचारी **अबुद्धिपूर्वं **स्व्प्ने **रेत उत्सृज्य **स्नात्वार्कं **पुष्पादिना **अर्जयित्वा **त्रीन् वारान् “**पुनर् माम् एत्व् इन्द्रियं”** इत्य् एताम् **ऋचं जपेत्** । अस्य प्रायश्चित्तस्य प्रकरणोत्कर्षो रेतःसंरक्षणनियमान्तरेभ्यो ब्रह्मचारिणो गुरुत्वप्रख्यापनार्थः ॥ २.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
 </details>
 
 <details><summary>भारुचिः</summary>

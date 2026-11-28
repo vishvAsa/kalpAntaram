@@ -3,6 +3,11 @@ title = "114 द्वयोस् त्रयाणाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+114	Let him place a company of soldiers, commanded (by a trusty officer), the midst of two, three, five or hundreds of villages, (to be) a protection of the kingdom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the midst of two, three, five or hundred villages he shall appoint an administrator of state supplied with a picket of guards.—(114)
@@ -48,9 +53,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 248), which supplies th
 <details><summary>भारुचिः</summary>
 
 राजभाव्यसंग्रहार्थं रक्षार्थं च ॥ ७.११३–१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Let him place a company of soldiers, commanded (by a trusty officer), the midst of two, three, five or hundreds of villages, (to be) a protection of the kingdom.
 </details>

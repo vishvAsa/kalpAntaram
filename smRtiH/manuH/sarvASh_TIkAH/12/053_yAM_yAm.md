@@ -3,6 +3,11 @@ title = "053 यां याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	What wombs this individual soul enters in this world and in consequence of what actions, learn the particulars of that at large and in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Into what wombs the soul enters,—and in consequence of what acts,—listen to that, in due order.—(53)
@@ -36,9 +41,4 @@ horses, pigs and camels; and the wine-drinker, among asses, *Pukkasas* and *Vena
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । क्षेत्रज्ञो येन येनेह कर्मणा कृतेन यां यां योनिम् अस्मिंल् लोके प्राप्नोति तत् कर्मफलं सर्वक्रमेण शृणुतेति निषिद्धाचरणफलाभिधानोपन्यासार्थः श्लोकः ॥ १२.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	What wombs this individual soul enters in this world and in consequence of what actions, learn the particulars of that at large and in due order.
 </details>

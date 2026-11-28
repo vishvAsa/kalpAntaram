@@ -3,6 +3,11 @@ title = "185 संशोध्य त्रिविधम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+185	Having cleared the three kinds of roads, and (having made) his sixfold army (efficient), let him leisurely proceed in the manner prescribed for warfare against the enemy's capital.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having duly made arrangements at the base, as also those pertaining to the expedition, having secured a basis, and having duly deputed his spies,—having cleared the three kinds of roads, and having equipped his own six-fold force,—he shall advance against the enemy’s capital in the manner prescribed for warfare.—(184-185)
@@ -100,9 +105,4 @@ as consisting of the *maula*, the *bhṛtaka* and so forth,’—and ‘*Sāmpar
 <details><summary>भारुचिः</summary>
 
 जाङ्गलातपाटविक**त्रिविधं मार्गं **पन्थानं यवसेन्धनोद[को]पादानवीरुध्[अविच्छेद्]आदिभिः **संशोध्य, बलं च षड्विधं** हस्त्यश्वरथपदातिविष्टिकरकोशाख्यं **संशोध्य** किम् अग्रहृतम् इत्य् एवमादिना संपरायिककल्पेन युयुत्सुकल्पेन यायात् ॥ ७.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	Having cleared the three kinds of roads, and (having made) his sixfold army (efficient), let him leisurely proceed in the manner prescribed for warfare against the enemy's capital.
 </details>

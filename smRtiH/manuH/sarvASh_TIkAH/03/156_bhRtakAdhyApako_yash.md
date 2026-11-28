@@ -2,6 +2,11 @@
 title = "156 भृतकाध्यापको यश्"
 +++
 
+<details><summary>Bühler</summary>
+
+156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who teaches for a stipulated fee, he who is taught by one who teaches for a stipulated fee, the pupil and also the teacher of a Śūdra, one who is reprehensible in speech, the son of an adulteress and the son of a widow.—(156)
@@ -64,11 +69,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **भृतकाध्यापक** इति । पणपूर्वाध्यापकः, पणपूर्वाध्यापितः, **शूद्रशिष्यः** तस्यैव च **गुरुः**, न स्वगुरुः, तस्यानुकल्पे भोज्यत्वेनोक्तत्वात् । परुषभाषी, **कुण्डगोलकौ** वक्ष्यमाणौ, एते हव्यकव्ययोः वर्ज्याः ॥ ३.१५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,
 </details>
 
 <details><summary>भारुचिः</summary>

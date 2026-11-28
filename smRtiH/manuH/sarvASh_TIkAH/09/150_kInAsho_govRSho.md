@@ -3,6 +3,11 @@ title = "150 कीनाशो गोवृषो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+150	The (slave) who tills (the field), the bull kept for impregnating cows, the vehicle, the ornaments, and the house shall be given as an additional portion to the Brahmana (son), and one most excellent share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ploughman, the breeding bull, the conveyance, the ornament, and the house shall be given as the ‘preferential share’ to the Brāhmaṇa, as also one principal share.—(150)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 9.149].
 <details><summary>भारुचिः</summary>
 
 **कीनाशः** कर्षकः । तथा च मन्त्रः "इन्द्र आसीत् सीरपतिः शतक्रतुः, कीनाशा आसन् मरुतस् सुदानवः" इति । **गोवृषस्** सेक्ता गवाम् । **यानं** गन्त्र्यादि । **अलंकारश् च** पित्र्याङ्गुलीयकादि । एवं **वेश्म** । एकश् चांशो यः प्राधान्येन लक्ष्यते । एतद् **विप्रस्योद्धारिकम्** । एतद् उद्धृत्य मध्यकात् शिष्टस्यांशविभागो येन न्यायेन सो ऽयम् उच्यते ॥ ९.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	The (slave) who tills (the field), the bull kept for impregnating cows, the vehicle, the ornaments, and the house shall be given as an additional portion to the Brahmana (son), and one most excellent share.
 </details>

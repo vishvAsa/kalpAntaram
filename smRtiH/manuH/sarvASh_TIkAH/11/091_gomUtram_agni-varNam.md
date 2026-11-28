@@ -3,6 +3,11 @@ title = "091 गोमूत्रम् अग्नि-वर्णम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	Or he may drink cow's urine, water, milk, clarified butter or (liquid) cowdung boiling-hot, until he dies;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may drink red-hot cow’s urine, or water, or milk, or butter, or liquid cow-dung, until he dies.—(91)
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 11.90].
 <details><summary>भारुचिः</summary>
 
 द्रव्यमात्रविकल्पार्थं चेदम् आरब्धम् । तथा चौष्ण्यगुणस् समानो ऽत्र पूर्वद्रव्येण । अग्निवर्णत्वं च सर्वशेषः । तथा **वामरणाद्** इत्य् उक्तम्, एतच् अ मुख्यसुरापाने कामतः प्राणान्तिकं प्रायश्चित्तम् ॥ ११.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Or he may drink cow's urine, water, milk, clarified butter or (liquid) cowdung boiling-hot, until he dies;
 </details>

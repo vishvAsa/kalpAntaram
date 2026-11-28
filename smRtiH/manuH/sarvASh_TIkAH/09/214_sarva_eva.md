@@ -3,6 +3,11 @@ title = "214 सर्व एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+214	All brothers who habitually commit forbidden acts, are unworthy of (a share of) the property, and the eldest shall not make (anything his) separate property without giving (an equivalent) to his younger brothers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All brothers addicted to evil deeds are unworthy of having property; and the elder brother shall not have a separate hoard without making a contribution to his younger brothers.—(214)
@@ -73,9 +78,4 @@ deprived of inheritance and funeral offerings and libations.’
 <details><summary>भारुचिः</summary>
 
 ये कुटुम्बकार्य ऽव्युत्पन्नास् ते द्यूतादिना विकर्मस्थाः प्रकरणसामर्थ्याद् विज्ञायते । पतिताना[म् अ]नंशार्हतोक्ता ॥ ९.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	All brothers who habitually commit forbidden acts, are unworthy of (a share of) the property, and the eldest shall not make (anything his) separate property without giving (an equivalent) to his younger brothers.
 </details>

@@ -3,6 +3,11 @@ title = "020 यदि न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	If the king did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the King did not untiringly mete out punishment to those that deserve punishment, the stronger would have boasted the weaker, like fish, on the spit;—(20)
@@ -55,9 +60,4 @@ rectitude, these are tossed about.’
 <details><summary>भारुचिः</summary>
 
 न केवलं दण्डप्रणीतौ गुणावाप्तिः, अप्रणीतौ मत्स्यस्य न्यायः प्रवर्तते ॥ ७.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	If the king did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit;
 </details>

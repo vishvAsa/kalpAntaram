@@ -2,6 +2,11 @@
 title = "095 यश् चैतान्"
 +++
 
+<details><summary>Bühler</summary>
+
+095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As between one who would attain all these, and another who would renounce them all, the renunciation of desires surf asses the attainment of
@@ -58,11 +63,6 @@ See Comparative notes for [Verse 2.93].
 <details><summary>गोविन्दराजः</summary>
 
 एवं च **य** इति । **यः **कामान् सकलान् सेवेत **यो **वा **केवलान्** अनुपभुक्त्वैव **त्यजेत्** तयोः सर्वकामोपभोगाद् अपि **परित्यागो विशिष्यते **। यस्माद् उपभुक्तपूर्वेष्व् अपि असति चित्तसंयमे पुनर् उपभोगेच्छा जायते । तदसम्पत्तौ चावश्यम्भावि दुःखम्, तस्मान् मूलत एव तृष्णात्यागो वरः ॥ २.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.
 </details>
 
 <details><summary>भारुचिः</summary>

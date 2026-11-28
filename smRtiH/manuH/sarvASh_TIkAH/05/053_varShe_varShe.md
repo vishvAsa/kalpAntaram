@@ -3,6 +3,11 @@ title = "053 वर्षे वर्षे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	He who during a hundred years annually offers a horse-sacrifice, and he who entirely abstains from meat, obtain the same reward for their meritorious (conduct).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man performs the Aśvamedha Sacrifice every year, for a hundred tears,—and another does not eat meat,—the merit and reward of both these are the same.—(53.)
@@ -67,9 +72,4 @@ after month, and if one eats not. meat, the two are equal. If one were to perfor
 <details><summary>गोविन्दराजः</summary>
 
 इदानीम् अशिष्टाप्रतिषिद्धमांसनिवृत्तिर् धर्मायेत्य् एतत् प्रतिपादयितुम् आह **वर्षे वर्ष** इति । प्रतिवर्षं **अश्वमेधेन यजेत **। तथा यो यावज्जीवं मांसं नाश्नाति तयोर् अश्वमेधमांसत्यागजनितस्य पुण्यस्य सम्बन्धि स्वर्गादिफलं तुल्यम् ॥ ५.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	He who during a hundred years annually offers a horse-sacrifice, and he who entirely abstains from meat, obtain the same reward for their meritorious (conduct).
 </details>

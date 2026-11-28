@@ -3,6 +3,11 @@ title = "017 वैश्यान् मागध-वैदेहौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	From a Vaisya are born in the inverse order of the castes a Magadha and a Vaideha, but from a Kshatriya a Suta only; these are three other base-born ones (apasada).
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 क्षत्रियाब्राह्मण्योर्मागधवैदेहां, क्षत्रियाद् ब्राह्मण्यां सूतइत्येवं प्रातिलोम्येनापरेऽपि त्रयः पुत्रकार्यादपसदा जायन्ते ॥ १७ ॥
@@ -36,9 +41,4 @@ title = "017 वैश्यान् मागध-वैदेहौ"
 > **प्रतीपम् एते जायन्ते परेऽप्य् अपशदास् त्रयः  ॥ १०.१७ ॥**
 
 तथा च निदर्शनार्थम् अन्यान् अपि दर्शयति-
-</details>
-
-<details><summary>Bühler</summary>
-
-017	From a Vaisya are born in the inverse order of the castes a Magadha and a Vaideha, but from a Kshatriya a Suta only; these are three other base-born ones (apasada).
 </details>

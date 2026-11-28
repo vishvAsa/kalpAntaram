@@ -3,6 +3,11 @@ title = "137 यत् किम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+137	Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King shall make the other people living by business p ay during the year something under the name of “tax”.—(137)
@@ -41,9 +46,4 @@ rivers, dry grass, forests, places of combustion and mountains;—or, those who 
 <details><summary>भारुचिः</summary>
 
 ब्राह्मणाद् अन्यः **पृथग्जनः** । स्वल्पेनापि व्यवहारेण जीवन् दापयितव्यः करः ॥ ७.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.
 </details>

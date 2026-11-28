@@ -3,6 +3,11 @@ title = "083 वेदाभ्यासस् तपो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	Studying the Veda, (practising) austerities, (the acquisition of true) knowledge, the subjugation of the organs, abstention from doing injury, and serving the Guru are the best means for attaining supreme bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Vedic Study, Austerity, Knowledge, Control of the Senses, Harmlessness, Service of Elders,—are the best means of attaining the Highest Good.—(83)
@@ -46,9 +51,4 @@ sacrifices, Celibacy, Austerity, Self-control, Faith, Fasting and Independence a
 <details><summary>भारुचिः</summary>
 
 केचित् त्व् अत्र पूर्वपादे **दानं** पठन्ति, अपरे **ध्यानम्** । तत्र वेदाभ्यासो नाम साङ्गोपाङ्ग[सो]सोपनिषत्कस्य वेदस्य नित्यकर्माविरोधेनाभ्यासो गृह्यते । **तपः**शब्देन च नित्यकर्माण्य् अभिधीयन्ते । चान्द्रायणादीनि च । **ज्ञानं** कर्माङ्गदेवतानिचिन्तन **इन्द्रियसंयमो ऽहिंसा गुरुसेवा** च यथोक्ताः ॥ १२.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Studying the Veda, (practising) austerities, (the acquisition of true) knowledge, the subjugation of the organs, abstention from doing injury, and serving the Guru are the best means for attaining supreme bliss.
 </details>

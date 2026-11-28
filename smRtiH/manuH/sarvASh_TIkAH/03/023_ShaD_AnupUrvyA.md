@@ -2,6 +2,11 @@
 title = "023 षड् आनुपूर्व्या"
 +++
 
+<details><summary>Bühler</summary>
+
+023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should know the first six in the order stated as lawful for the Brāhmaṇa, the last four for the Kṣatriya and those same, excepting the “Rākṣasa,” for the Vaiśya and the Śūdra.—(23).
@@ -101,11 +106,6 @@ as authorised by the Father; the remaining (which are unrighteous) may be author
 <details><summary>गोविन्दराजः</summary>
 
 **षड् **इति । **षड् **आदितः क्रमावस्थितान् **विप्रस्य क्षत्रियस्य **चोपरितनान् **चतुरः** (चत्वारो), **विट्शूद्रयोः **पुनः **राक्षस**वर्जितान् **तान् एव **धर्माद् अनपेतान् जानीयात् ॥ ३.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
 </details>
 
 <details><summary>भारुचिः</summary>

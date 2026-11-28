@@ -3,6 +3,11 @@ title = "151 त्र्यंशन् दायाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+151	Let the son of the Brahmana (wife) take three shares of the (remainder of the) estate, the son of the Kshatriya two, the son of the Vaisya a share and a half, and the son of the Sudra may take one share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the estate the Brāhmaṇa shall take three shares; the son of the Kṣatriya mother two shares; the son of the Vaiśya mother a share and a half; and the son of the Śūdra mother one share.—(151)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 9.149].
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातांशप्रकॢप्तिः । द्विबहुष्व् अपि समसंख्येष्व् एवं विभज्य पश्चात् सजातयो विभजेरन् पूर्ववत् । विषमसंख्येषु तु शास्त्रलिङ्गाद् उत्प्रेक्ष्यांशकल्पनाः ॥ ९.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	Let the son of the Brahmana (wife) take three shares of the (remainder of the) estate, the son of the Kshatriya two, the son of the Vaisya a share and a half, and the son of the Sudra may take one share.
 </details>

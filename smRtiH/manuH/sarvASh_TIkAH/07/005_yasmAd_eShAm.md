@@ -3,6 +3,11 @@ title = "005 यस्माद् एषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+005	Because a king has been formed of particles of those lords of the gods, he therefore surpasses all created beings in lustre;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In as much as the King was created with the constituent elements of these principal Gods, he surpasses all living beings by his glory.—(5)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 7.3].
 <details><summary>भारुचिः</summary>
 
 कार्येणैतद् अर्थं दर्शयति । यस्माद् आधिपत्यैश्वर्यात् **सर्वभूतान्य् अभिभवति** स्वेन **तेजसा** अत इन्द्रादिदेवता**मात्राभ्यो निर्मित** इति स्तूयते ॥ ७.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	Because a king has been formed of particles of those lords of the gods, he therefore surpasses all created beings in lustre;
 </details>

@@ -2,6 +2,11 @@
 title = "246 उच्छेषणाम् भूमिगतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, the remnant fallen on the ground is regarded as the share of straightforward, dutiful servants.—(246)
@@ -48,11 +53,6 @@ scattered, as also the smearings and water,—should be offered as food for thos
 <details><summary>गोविन्दराजः</summary>
 
 **उच्छेषणम्** इति । भूमिपतितं यद् उच्छिष्टं तत् अकुटिलस्य अनलसस्य दासगणस्य **भागधेयं** भागं मन्वादयः प्राहुः ॥ ३.२४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
 </details>
 
 <details><summary>भारुचिः</summary>

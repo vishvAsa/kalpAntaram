@@ -3,6 +3,11 @@ title = "145 हरेत् तत्र"
 
 +++
 
+<details><summary>Bühler</summary>
+
+145	A son (legally) begotten on such an appointed female shall inherit like a legitimate son of the body; for that seed and the produce belong, according to the law, to the owner of the soil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son born of the ‘authorised’ woman shall inherit, like the ‘legitimate’ son; as legally that seed is of the owner of the soil and the offspring belongs to him.—(145)
@@ -73,9 +78,4 @@ the father’s property; an Appointed Daughter’s also is equal to him; all the
 <details><summary>भारुचिः</summary>
 
 **जातो यथौरस** इत्य् एतद्गुणवतः क्षेत्रजस्य पित्र्यांशप्राप्त्यर्थं वचनम् । एवं च सति पूर्वोक्तायास् समांशताया अयम् अपवादः गुणवदपत्यतयारम्भसामर्थ्याद् विज्ञेयः । इतरथा हि पूर्वश्लोकार्थपत्तिसिद्धत्वाद् अनारभ्यम् एतत् स्यात् । एवं चात्र स्तुत्यर्थं प्रशंसावचनम् उपपद्यते इदं **क्षेत्रिकस्य तु तद्बीजं धर्मतः प्रसवश् च सः** इति । न चाकस्मात् प्रशंसावचनम् इदं भवितुम् अर्हति । तथा च ॥ ९.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	A son (legally) begotten on such an appointed female shall inherit like a legitimate son of the body; for that seed and the produce belong, according to the law, to the owner of the soil.
 </details>

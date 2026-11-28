@@ -2,6 +2,11 @@
 title = "125 एतद् विद्वन्तो"
 +++
 
+<details><summary>Bühler</summary>
+
+125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Knowing this, the learned dally recite first the essence of the three Vedas, in due order; and it is only after this that they recite the Veda.—(125)
@@ -30,11 +35,6 @@ Though this matter has already been asserted in Discourse II, yet it is repeated
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्** देवपितृमनुष्यादौ देवत्वं (-त्वात् कथं) वेदत्रयस्य (जानन्तः) नानाशस्त्रज्ञा ऋग्यजुःसामात्मिकायास् त्रय्याः सारभूतं प्रणवव्याहृतिसावित्र्याख्यं प्रत्यहं प्रणवव्याहृतिसावित्र्यात्मकेन द्वितीयाध्यायोक्तक्रमेण प्रथमं **अभ्यस्य पश्चाद् वेदम् अधीयीयते ।** यथानध्यायेषु नाध्ययनं एवं प्रणवाद्यभ्यासं विना नाध्येयम् इत्य् एतद् अस्येह पुनर्वचनम् ॥ ४.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

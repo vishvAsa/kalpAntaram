@@ -3,6 +3,11 @@ title = "212 सोदर्या विभजेरंस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+212	His uterine brothers, having assembled together, shall equally divide it, and those brothers who were reunited (with him) and the uterine sisters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His uterine brothers, coming together, shall divide it equally; as also the united brothers and consanguineous sisters.—(212)
@@ -100,9 +105,4 @@ See Comparative notes for [Verse 9.211].
 <details><summary>भारुचिः</summary>
 
 असंसृष्टाणां सोद]राणांस् तं विभजेरन् न सापत्नाः, सति तु संसर्गे ये संसृष्टास् ते विभजेरन्, न सोदर्या अप्य् असंसृष्टाः ॥ ९.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	His uterine brothers, having assembled together, shall equally divide it, and those brothers who were reunited (with him) and the uterine sisters.
 </details>

@@ -3,6 +3,11 @@ title = "150 भिन्दन्त्य् अवमता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+150	(Such) despicable (persons), likewise animals, and particularly women betray secret council; for that reason he must be careful with respect to them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Persons who have been disgraced, animals, and particularly women betray secret plans; hence he shall be careful with regard to them.—(150)
@@ -44,9 +49,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which explains �
 <details><summary>गोविन्दराजः</summary>
 
 **भिन्दन्तीति** । जडत्वादिदोषयोगेन सावमाना जडादयो मन्त्रभेदं कुर्वन्ति । तथा क्षितिपरिवर्तादिश्रवणा तिर्यग्योना अपि **मन्त्रं भिन्दन्ति** । विशेषतश् च **स्त्रियो** ऽपि चापलातिशयात्वात् तस्मात् तदपासने यत्नवान् स्यात् ॥ ७.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	(Such) despicable (persons), likewise animals, and particularly women betray secret council; for that reason he must be careful with respect to them.
 </details>

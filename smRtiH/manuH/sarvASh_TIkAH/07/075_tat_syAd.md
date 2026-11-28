@@ -3,6 +3,11 @@ title = "075 तत् स्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	Let that (fort) be well supplied with weapons, money, grain and beasts of burden, with Brahmanas, with artisans, with engines, with fodder, and with water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It should be folly equipped with weapons, with money and grain, with conveyances, with Brāhmaṇas, with artisans, with machines, with fodder and with water,—(75)
@@ -54,9 +59,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 204);—in
 <details><summary>भारुचिः</summary>
 
 दुर्गोपरोधकालप्रयोजनवतां प्रदर्शनार्थः श्लोकः । एवं च सत्य् अन्यद् अपि यत् कालप्रयोजनं वधशल्यविषवैद्यमौहूर्तिकादि तद् अपि ग्राह्यम् ॥ ७.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Let that (fort) be well supplied with weapons, money, grain and beasts of burden, with Brahmanas, with artisans, with engines, with fodder, and with water.
 </details>

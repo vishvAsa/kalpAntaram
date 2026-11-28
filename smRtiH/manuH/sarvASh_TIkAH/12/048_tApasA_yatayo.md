@@ -3,6 +3,11 @@ title = "048 तापसा यतयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Hermits, ascetics, Brahmanas, the crowds of the Vaimanika deities, the lunar mansions, and the Daityas (form) the first (and lowest rank of the) existences caused by Goodness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Ascetics and hermits, Brāhmaṇas, celestial beings, lunar asterisms, and Daityas represent the first state partaking of ‘Sattva.’—(48)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **तापसा **इति । वानप्रस्था भिक्षवो ब्राह्मणाः पुष्पकादिविमानचारिणो ये देवविशेषाः नक्षत्राणि दैत्याख्या जातिविशेषाश् चेत्य् एषा सत्त्वनिमित्ता निकृष्टा गतिः तापस्यादिकर्माश्रयत्वात् सापि सत्त्वादिगुणनिमित्तकम् एव इति चेत् तत् तापसा इत्य् अनेन दर्शयति । न तु तापसजातियतिजातिर् वा विद्यते – सन्ति वैतिहासिकदृष्ट्या मेर्वादिवासिनो जातिविशेषा यतिप्रभृतयः । श्रूयते च “इन्द्रो यतीन् सालावृकेभ्यः प्रायच्छत्” इति ॥ १२.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Hermits, ascetics, Brahmanas, the crowds of the Vaimanika deities, the lunar mansions, and the Daityas (form) the first (and lowest rank of the) existences caused by Goodness.
 </details>

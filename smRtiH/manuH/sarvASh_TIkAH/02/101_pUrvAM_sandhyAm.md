@@ -2,6 +2,11 @@
 title = "101 पूर्वां सन्ध्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+101	Let him stand during the morning twilight, muttering the Savitri until the sun appears, but (let him recite it), seated, in the evening until the constellations can be seen distinctly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Everyday during the earlier twilight one should stand repeating the Sāvitrī, till the sun becomes distinctly visible; and during the later twilight he should sit till the stars ark clearly seen.—(101)
@@ -208,11 +213,6 @@ by stars, and the Evening one by the sun; both these one should observe.’
 <details><summary>गोविन्दराजः</summary>
 
 “सज्योतिष्याज्योतिषो दर्शनाद् वाग्यतः” इति गौतमसमरणात् [ग्ध् २.११], सनक्षत्रकालाद् आरभ्य **पूर्वाम्** इति । यद्य् अप्य् अत्र तिष्ठत्याः परो विधिप्रत्ययः श्रूयते तथापि उपलभ्यमानश्रुतिमूलत्वात् यज्जपो ऽत्र प्रधानम् । स्थानासनयोस् त्व् अङ्गता । तथा च (यच् च) यजुर्वेदब्राह्मणे जपतेर् एव परो विधिप्रत्ययः श्रूयते । यद् आह “अथातः सन्ध्योपासनविधिं व्याख्यास्यामः” इत्य् उपक्रम्य “पूर्वां सन्ध्यां स्थितः सन् सावित्रीम् एतद् अक्षराम् एतां च जपन् व्याहृतिपूर्विकां सन्ध्ययोः” इति दर्शनात् । प्रणतव्याहृतिपूर्विकां जपेद् आदित्यदर्शनं यावत् इति वाक्यार्थः । **पश्चिमां** पुनर् आसीणः सावित्रीं जपेत् उक्तगौतमीयात् सदर्ककालाद् आरभ्य सम्यक् नक्षत्रदर्शनात् यावत् ॥ २.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	Let him stand during the morning twilight, muttering the Savitri until the sun appears, but (let him recite it), seated, in the evening until the constellations can be seen distinctly.
 </details>
 
 <details><summary>भारुचिः</summary>

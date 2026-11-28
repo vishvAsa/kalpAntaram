@@ -2,6 +2,11 @@
 title = "100 सर्वं स्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever is contained in this world is all the property of the Brāhmaṇa; the Brāhmaṇa verily deserves all by virtue of his superiority and noble birth. (100).
@@ -36,11 +41,6 @@ This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned 
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वं स्वम्** इति । वक्ष्यमाणस्तेयादिशास्त्रविरोधात् अस्य च श्रुतिप्रधानत्वात् **सर्वं** जगद्गतं द्रव्यजातं **ब्राह्मणस्वम्** इव स्तुत्योच्यते । तत्र स्वयम् एव यस्मात् **श्रैष्ठेनाभिजनेन** मुखोद्भवत्वेन **सर्वं ब्राह्मणो **योग्यो भवति स्वीकर्तुं तस्मात् तस्येयं सर्वं स्वम् एव ॥ १.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
 </details>
 
 <details><summary>भारुचिः</summary>

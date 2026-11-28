@@ -2,6 +2,11 @@
 title = "133 यावतो ग्रसते"
 +++
 
+<details><summary>Bühler</summary>
+
+133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many mouthfuls as the person ignorant of the Veda swallows out of the offerings to gods and Pitṛs, so many flaming spikes, spears and iron-balls does the man swallow after death.—(133)
@@ -113,11 +118,6 @@ learning,—if they be of base conduct and addicted to wicked deeds,—they are 
 > ग्रसते यावतः पिण्डान् यस्य वै हविषो ऽनृचः ।
 
 > ग्रसते तावतः शूलान् गत्वा वैवस्वतक्षयम् ॥ ३.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
 </details>
 
 <details><summary>भारुचिः</summary>

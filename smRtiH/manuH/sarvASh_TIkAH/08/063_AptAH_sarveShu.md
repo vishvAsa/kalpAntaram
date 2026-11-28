@@ -3,6 +3,11 @@ title = "063 आप्ताः सर्वेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	Trustworthy men of all the (four) castes (varna) may be made witnesses in lawsuits, (men) who know (their) whole duty, and are free from covetousness; but let him reject those (of an) opposite (character).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In all law-suits trustworthy men of all the castes, fully conversant with morality and free from avarice, should be made witnesses; the reverse of these should be avoided.—(63)
@@ -86,9 +91,4 @@ See Comparative notes for [Verse 8.61].
 <details><summary>भारुचिः</summary>
 
 **विपरीतांस् तु वर्जयेद्** इत्य् अर्थसिद्धस्याप्य् अनुवादो वाक्यस्वाभाव्याद् आदरार्थः । **सर्ववर्ण**ग्रहणाच् चात्र ब्राह्मणस्यापि साक्षित्वं प्रतीयते । श्रोत्रियस्य प्रतिषेधाद् इतरस्य ॥ ८.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	Trustworthy men of all the (four) castes (varna) may be made witnesses in lawsuits, (men) who know (their) whole duty, and are free from covetousness; but let him reject those (of an) opposite (character).
 </details>

@@ -3,6 +3,11 @@ title = "034 त्रयाणाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	Know, moreover, the following to be a brief description of the three qualities, each in its order, as they appear in the three (times, the present, past, and future).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This should be understood to be in brief the characteristic of these three qualities in order, as they appear at the three times.—(34)
@@ -36,9 +41,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **त्रयाणाम्** इति । एषां सत्त्वादीनां त्रयाणाम् अपि गुणानां त्रिषु कालेषु भूतभव्यभविष्यद्वर्तमानेषु वर्तमानानाम् इदं वक्ष्यमाणसापेक्षिकं क्रमेण गुणलक्षणं विज्ञेयम् ॥ १२.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	Know, moreover, the following to be a brief description of the three qualities, each in its order, as they appear in the three (times, the present, past, and future).
 </details>

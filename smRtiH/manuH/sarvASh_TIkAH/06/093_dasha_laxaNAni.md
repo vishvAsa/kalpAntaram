@@ -3,6 +3,11 @@ title = "093 दश लक्षणानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	Those Brahmanas who thoroughly study the tenfold law, and after studying obey it, enter the highest state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those Brāhmaṇas, who properly study the ten forms of duty, and having studied them, follow them in practice, reach the highest state.—(93).
@@ -33,9 +38,4 @@ See Comparative notes for [Verse 6.87].
 <details><summary>गोविन्दराजः</summary>
 
 **दश लक्षणानीति **। ये ब्राह्मणाः एतानि **दश लक्षणानि** पठन्ति पठित्वा चानुतिष्ठन्ति ते उत्कृष्टं स्थानं ब्रह्मलोकं वा ज्ञाने सति मोक्षं प्राप्नुवन्ति ॥ ६.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	Those Brahmanas who thoroughly study the tenfold law, and after studying obey it, enter the highest state.
 </details>

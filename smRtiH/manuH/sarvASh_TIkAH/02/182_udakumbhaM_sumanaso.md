@@ -2,6 +2,11 @@
 title = "182 उदकुम्भं सुमनसो"
 +++
 
+<details><summary>Bühler</summary>
+
+182	Let him fetch a pot full of water, flowers, cowdung, earth, and Kusa grass, as much as may be required (by his teacher), and daily go to beg food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should fetch the jar of water, flowers, cowdung, earth and kuśa-grass,—as much as may be required; and day by day he should beg for alms.—(182)
@@ -70,11 +75,6 @@ carrying of the staff, fetching of fuel, bathing in water, and morning-salutatio
 <details><summary>गोविन्दराजः</summary>
 
 **उदकुम्भम्** इति । **उदकुम्भ**पुष्पगोमयमृद्दर्भान् गुर्वात्मनोः यावत्प्रयोजनम् आनयेत् **भैक्षं** प्रत्यहं **चरेत् **। नैकदिनाहृतेन पर्युषितेन स्नेहानियम [स्नेहयुक्त] शुक्तादिना परेद्युर् वर्तेत ॥ २.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	Let him fetch a pot full of water, flowers, cowdung, earth, and Kusa grass, as much as may be required (by his teacher), and daily go to beg food.
 </details>
 
 <details><summary>भारुचिः</summary>

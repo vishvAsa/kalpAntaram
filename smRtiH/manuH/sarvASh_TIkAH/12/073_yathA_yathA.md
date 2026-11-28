@@ -3,6 +3,11 @@ title = "073 यथा यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	In proportion as sensual men indulge in sensual pleasures, in that same proportion their taste for them grows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the proportion that sensually-inclined persons go on indulging in sensual pleasures, in that same proportion their ardour for them goes on increasing.—(73)
@@ -52,9 +57,4 @@ This same principle applies also to such enjoyments as are not forbidden for cul
 <details><summary>गोविन्दराजः</summary>
 
 **यथा यथेति** । शब्दादिविषयोपभोगवर्धका यथा विषयोपभोगाभ्यासं कुर्वन्ति तथा तथा विषयेष्व् एव तेषां प्रावीण्यम् एकरसीभावो जायते ॥ १२.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	In proportion as sensual men indulge in sensual pleasures, in that same proportion their taste for them grows.
 </details>

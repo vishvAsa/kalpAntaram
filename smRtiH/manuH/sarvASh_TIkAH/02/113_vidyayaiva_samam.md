@@ -3,6 +3,11 @@ title = "113 विद्ययैव समम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The expounder of the Veda may rather perish along with his knowledge; hut he should never sow it on barren soil, even in dike distress.—(113)
@@ -90,9 +95,4 @@ See Comparative notes for [Verse 2.112].
 <details><summary>गोविन्दराजः</summary>
 
 एवं च **विद्ययेति** । वरम् अदत्तविद्येनैव विद्याध्यापन्शीलेन मर्तव्यं न पुनः कष्टायाम् अप्य् **आपदि** उक्ताध्याप्याभावे ऽपि **एनां **विद्यां** इरिणे** ऊषर इव धर्मादिफलोत्पादन्शून्ये वपेत् । अनेन चैतद् दर्शयति यद् अवश्यं दातव्या विद्येति । अन्यथा कामं विद्ययैव सह मर्तव्यम् इत्य् एतद् अभावसंसुचनम् आचार्यसम्बन्धेनोपपद्यते । तथा च श्रुतिः- “यो ह वै विद्याम् अधीत्यार्थिने न ब्रूयात् स कार्यहा स्यात्” इति । अस्य प्रतिषेधस्य पुराकल्परूपो ऽयम् अर्थवादः ॥ २.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.
 </details>

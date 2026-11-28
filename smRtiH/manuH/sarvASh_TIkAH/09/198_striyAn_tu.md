@@ -3,6 +3,11 @@ title = "198 स्त्रियान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+198	Whatever property may have been given by her father to a wife (who has co-wives of different castes), that the daughter (of the) Brahmani (wife) shall take, or that (daughter's) issue.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The property that may have been given to a woman by her father shall be taken by the daughter of the Brāhamaṇa-caste; or it shall belong to the child of that daughter.—(198)
@@ -51,9 +56,4 @@ It is quoted in *Aparārka* (p. 721), which adds the following notes:—‘*Pitr
 <details><summary>भारुचिः</summary>
 
 षड्विधस्या[पि स्त्रीधन]स्यापुत्रायाम् [अतीतायां ग्रहणे न्याय्ये] सति **पित्रा दत्तम्** इत्य् एतद् अत्र निदर्शनार्थं सर्वस्त्रीधनानां विज्ञेयम् । [मृत]पुत्रायाश् च विभागं वक्ष्यति । **ब्राह्मणी तद् धरेत् कन्या** इति नियमात् क्षत्रियादिकन्यानाम् [अयं निय]मः । एतद् ब्राह्मणादीनाम् । ब्राह्मणीक्षत्रियावैश्यासूढास्व् असवर्णस्त्र्युपरमे ब्राह्मणादिकन्याभ्यो धनदानं विज्ञेयम् ॥ ९.१९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-198	Whatever property may have been given by her father to a wife (who has co-wives of different castes), that the daughter (of the) Brahmani (wife) shall take, or that (daughter's) issue.
 </details>

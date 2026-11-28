@@ -3,6 +3,11 @@ title = "165 पतिं या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	She who, controlling her thoughts, words, and deeds, never slights her lord, resides (after death) with her husband (in heaven), and is called a virtuous (wife).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She, who does not fail in her duty to her husband, having her thought, speech and body well-controlled, reaches her husband’s regions; and is called ‘good’ by all gentle-men.—(163).
@@ -63,9 +68,4 @@ well-behaved, with senses under control, attains fame in this world and the supr
 <details><summary>गोविन्दराजः</summary>
 
 **या मनोवाग्देह**संयुता सती तैर् वाग्मनोदेहैः पतिं न व्यभिचरति सा भर्त्रा सह अर्जितान् स्वर्गादिलोकान् प्राप्नोतीह विशिष्टैः साध्वीत्य् उच्यते । इति वाङ्मनसनिरासार्थं मुक्तं पुनर्वचनम् ॥ ५.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	She who, controlling her thoughts, words, and deeds, never slights her lord, resides (after death) with her husband (in heaven), and is called a virtuous (wife).
 </details>

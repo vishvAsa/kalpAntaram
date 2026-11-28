@@ -3,6 +3,11 @@ title = "146 अज्ञानाद् वारुणीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+147	He who drinks unintentionally (the spirituous liquor, called) Varuni, becomes pure by being initiated (again); (even for drinking it) intentionally (a penance) destructive to life must not be imposed; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one drinks wine unintentionally, he becomes pure by a sacrament; this, however, is not what should be prescribed in the case of doing the act intentionally; in which case there should be a penance involving death;—such is the settled law.—(146)
@@ -161,9 +166,4 @@ or ordure, unwittingly, the three twice-born castes shall undergo initiation a s
 > गोमूत्रयावकाहारो दशरात्रेण शुध्यति ॥ इति ।
 
 **मतिपूर्वं** तु गौडीमाध्वयोः पानम् अभ्यसतः **अनिर्देश्यम्** इदं प्रायश्चित्तम् । किं तर्ह्य् अस्यान्यत् प्राणान्तिकम् एव सप्रत्ययाभ्यासदोषाधिक्येन यथा पैष्ट्याः इति । एतस्माद् एव च सामर्थ्यान् मुख्यसुरापाने ऽप्य् अप्रत्यये सप्रत्ययप्रायश्चित्ताद् ईषद् ऊनं प्रायस्चित्तान्तरम् उत्प्रेक्ष्यम् । तथा च वक्ष्यति- "शक्तिं चावेक्ष्य पापं च प्रायश्चित्तम् प्रकल्पयेत्" इति ॥ ११.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	He who drinks unintentionally (the spirituous liquor, called) Varuni, becomes pure by being initiated (again); (even for drinking it) intentionally (a penance) destructive to life must not be imposed; that is a settled rule.
 </details>

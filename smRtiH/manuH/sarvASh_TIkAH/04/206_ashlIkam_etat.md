@@ -2,6 +2,11 @@
 title = "206 अश्लीकम् एतत्"
 +++
 
+<details><summary>Bühler</summary>
+
+206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where such persons pour the oblations, it is considered indecent by all good men; it is disagreeable to the gods; hence, one should avoid it—(206)
@@ -46,11 +51,6 @@ is suffering from white leprosy, or of one who has married a girl after puberty,
 <details><summary>गोविन्दराजः</summary>
 
 **अश्लीलम्** इति । यत्र पूर्वोक्ता होमं कुर्वन्ति तत् शिष्टानां तदश्लीकम् अयुक्तं **देवानां** च प्रतिकूलम् । तस्माद् एतान् होमं न कारयेत् ॥ ४.२०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
 </details>
 
 <details><summary>भारुचिः</summary>

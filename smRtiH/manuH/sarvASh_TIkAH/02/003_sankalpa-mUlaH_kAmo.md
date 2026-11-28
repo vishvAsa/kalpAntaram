@@ -2,6 +2,11 @@
 title = "003 सङ्कल्प-मूलः कामो"
 +++
 
+<details><summary>Bühler</summary>
+
+003	The desire (for rewards), indeed, has its root in the conception that an act can yield them, and in consequence of (that) conception sacrifices are performed; vows and the laws prescribing restraints are all stated to be kept through the idea that they will bear fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desire has its root in Thought; Sacrifices proceed from Thought; Vows and Restraints—all these have been described as originating in Thought.—(3)
@@ -110,11 +115,6 @@ reflection is the source of Dharma.’
 <details><summary>गोविन्दराजः</summary>
 
 अत्रैवोपपत्तिम् आह – **सङ्कल्पमूल** इति । अनेन वस्तुना इयम् अर्थक्रिया साध्यते इत्य् एवंविधो मनोव्यापारः **सङ्कल्पः **। स च मूलं कामस्य । तदनन्तरं हि तद्वस्तुसम्पादनेच्छोपजायते । तद् अनु चाध्यवसायो भौतिकव्यापारेण करणोद्योगो भवति । एवं च यज्ञादयः सङ्कल्पप्रभवाः । तेषां च सङ्कल्पोद्भवत्वए सति अवश्यम् अनत्रिच्छया भवितव्यम् । सङ्कल्पाभिमानव्यवसायेभ्यः क्रियाप्रवृत्तिः । **यमधर्माः **प्रतिषेधात्मकाः ॥ २.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	The desire (for rewards), indeed, has its root in the conception that an act can yield them, and in consequence of (that) conception sacrifices are performed; vows and the laws prescribing restraints are all stated to be kept through the idea that they will bear fruit.
 </details>
 
 <details><summary>भारुचिः</summary>

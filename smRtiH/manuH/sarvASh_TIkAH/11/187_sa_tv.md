@@ -3,6 +3,11 @@ title = "187 स त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+188	But he shall throw that pot into water, enter his house and perform, as before, all the duties incumbent on a relative.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thrown that jar into the water, he shall enter his own house and carry on, as before, all his family-functions.—(187)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 11.186].
 <details><summary>भारुचिः</summary>
 
 इमे अपि पात्रविपर्यासोद्धरणे षट्स्लोकोक्ते महापातकसंबन्ध एव स्यात् । तच् चोक्तम् "पतितस्योदकं कार्यम्" इत्य् एवमादि । स्मृत्यन्तरे तु "त्यजेत् पितरम्" इत्य् एवमादि केषांचिद् एव ॥ ११.१८२–१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	But he shall throw that pot into water, enter his house and perform, as before, all the duties incumbent on a relative.
 </details>

@@ -2,6 +2,11 @@
 title = "061 अनुष्णाभिर् अफेनाभिर्"
 +++
 
+<details><summary>Bühler</summary>
+
+061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who knows his duties, when desiring cleanliness, should always sip, through the proper receptacle, water which is neither hot nor frothy,—in solitude, with his face towards the North or the East.—(61)
@@ -123,11 +128,6 @@ the wise men may be purified by even such water as has not been looked into; as 
 <details><summary>गोविन्दराजः</summary>
 
 **अनुष्णाभिर्** इति । “अशृताभिः” इति शङ्खस्मरणात् अग्निसम्पर्करहिताभिः, फेनशून्याभिः **अद्भिः** उक्तेन **तीर्थेन **विद्वान् शुद्धिकामः **एकान्ते **शुचौ देशे **प्राङ्मुखः उदङ्मुखो **वा **आचामेत् **॥ २.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.
 </details>
 
 <details><summary>भारुचिः</summary>

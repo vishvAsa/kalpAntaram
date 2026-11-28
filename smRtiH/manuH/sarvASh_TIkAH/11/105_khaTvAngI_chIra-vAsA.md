@@ -3,6 +3,11 @@ title = "105 खट्वाङ्गी चीर-वासा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+106	Or, carrying the foot of a bedstead, dressed in (garments of) bark and allowing his beard to grow, he may, with a concentrated mind, perform during a whole year the Krikkhra (or hard, penance), revealed by Pragapati, in a lonely forest;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, carrying a bedstead, clothed in rags, with beard grown, he shall perform, in the solitary forest, the ‘Prājāpatya’ penance, for one year, with concentrated mind.—(105)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 11.103].
 <details><summary>गोविन्दराजः</summary>
 
 **खत्वाङ्गीति** । खट्वैकदेशमृद्वस्त्रखण्डाच्छन्नो श्मश्रुलोमादितः संयतमना निर्जने वने एकं संवत्सरं प्राजापत्यं वक्ष्यमाणं कृच्छ्रं वा कुर्यात् ॥ ११.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-106	Or, carrying the foot of a bedstead, dressed in (garments of) bark and allowing his beard to grow, he may, with a concentrated mind, perform during a whole year the Krikkhra (or hard, penance), revealed by Pragapati, in a lonely forest;
 </details>

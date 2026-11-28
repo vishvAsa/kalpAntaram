@@ -2,6 +2,11 @@
 title = "003 यात्रामात्रप्रसिद्ध्य्-अर्थं स्वैः"
 +++
 
+<details><summary>Bühler</summary>
+
+003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the accomplishment of bare maintenance, one shall accumulate wealth by means of one’s own irreproachable occupations, without causing trouble to the body.—(3)
@@ -48,11 +53,6 @@ Or, what is meant is that, even though a certain means of accumulating wealth ma
 <details><summary>गोविन्दराजः</summary>
 
 **यात्रामात्रप्रसिद्ध्यर्थम्** इति । शास्त्रोक्तैः **कर्मभिः** वक्ष्यमाणैः ऋतादिभिर् अनिन्दितैः शरीरक्लेशपरिहारेण भार्याभरणनित्यानुष्ठानपूर्वकं प्राणवृत्तिसमाप्तिपरिमाणम् अर्थसङ्ग्रहं **कुर्वीत**, नाधिकम् इति नियमः ॥ ४.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
 </details>
 
 <details><summary>भारुचिः</summary>

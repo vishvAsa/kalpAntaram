@@ -2,6 +2,11 @@
 title = "020 अमत्यैतानि षड्"
 +++
 
+<details><summary>Bühler</summary>
+
+020	He who unwittingly partakes of (any of) these six, shall perform a Samtapana (Krikkhra) or the lunar penance (Kandrayana) of ascetics; in case (he who has eaten) any other (kind of forbidden food) he shall fast for one day (and a night ).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having eaten these unintentionally, he should perform the ‘Kṛcchra Sāntapana’, or the ‘Yati-Cāndrāyaṇa’; and in the case of the rest one should fast for a day.—(20)
@@ -58,11 +63,6 @@ eating mushrooms, one should perform the *Sāntapana*; on eating substances cook
 <details><summary>गोविन्दराजः</summary>
 
 **अमत्यैतानीति **। **एतानि** छत्राकादीनि **षट् **बुद्धिपूर्वकं प्रत्येकं भक्षयित्वा एकादशाध्यायवक्ष्यमानस्वरूपं **सान्तपनं यतिचान्द्रायणं चरेत्** । एतद्व्यतिरिक्तेषु लोहितनिर्यासादिषु प्रत्येकभक्षणे ऽहोरात्रं नाश्नीयात् । प्रायश्चित्तस्य प्रकर्षेणोत्कर्षो लशुनादीनां वर्जनादरार्थम् । **शेषेषूपवसेद् अहर्** इत्य् एतत् पुनर् लाघवार्थम् । तत्र हि क्रियमाणे लोहितनिर्यासादिग्रहणं कर्तव्यं स्यात् ॥ ५.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	He who unwittingly partakes of (any of) these six, shall perform a Samtapana (Krikkhra) or the lunar penance (Kandrayana) of ascetics; in case (he who has eaten) any other (kind of forbidden food) he shall fast for one day (and a night ).
 </details>
 
 <details><summary>भारुचिः</summary>

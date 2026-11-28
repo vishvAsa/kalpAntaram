@@ -2,6 +2,11 @@
 title = "124 ऋग्वेदो देव-दैवत्यो"
 +++
 
+<details><summary>Bühler</summary>
+
+124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Ṛgveda is sacred to the gods and the Yajurveda is human; the Sāmaveda has been declared to be related to the Pitṛs; hence its sound is impure.—(124)
@@ -43,11 +48,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that 
 <details><summary>गोविन्दराजः</summary>
 
 **ऋग्वेद** इति । देवा देवता यस्यासौ **देवदैवत्य ऋग्वेदः **। मनुष्यदेवताकत्वात् **यजुर्वेदो मानुषः । सामवेदः **पितृदेवताकः **स्मृतः । **पित्र्यं कर्म कृत्वा आचम्यते । तस्मात् **तस्याशुचिर्** इति **ध्वनिः **। अतस् तस्मिन् श्रूयमाणे ऋग्यजुषी नाध्येये इति पूर्वविध्यर्थवादः ॥ ४.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
 </details>
 
 <details><summary>भारुचिः</summary>

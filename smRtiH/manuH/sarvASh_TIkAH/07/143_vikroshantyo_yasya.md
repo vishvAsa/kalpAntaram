@@ -3,6 +3,11 @@ title = "143 विक्रोशन्त्यो यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+143	That (monarch) whose subjects are carried off by robbers (Dasyu) from his kingdom, while they loudly call (for help), and he and his servants are (quietly) looking on, is a dead and not a living (king).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, from whose territories people are carried off, screaming, by robbers, while he himself, along with his servants is looking on, is dead, not alive.—(143)
@@ -47,9 +52,4 @@ sin being very much enhanced cuts off the very roots of that king.’
 <details><summary>गोविन्दराजः</summary>
 
 **विक्रोशन्य** इति । **यस्य** राज्ञः सभृत्यस्य पश्यत एव **राष्ट्राद्** आक्रन्दन्त्यः **प्रजाः** शत्रुप्रभृतिभिर् अपह्रियन्ते स्वजीवितकार्याभावात् **मृत** एव, **न तु जीवति** ॥ ७.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	That (monarch) whose subjects are carried off by robbers (Dasyu) from his kingdom, while they loudly call (for help), and he and his servants are (quietly) looking on, is a dead and not a living (king).
 </details>

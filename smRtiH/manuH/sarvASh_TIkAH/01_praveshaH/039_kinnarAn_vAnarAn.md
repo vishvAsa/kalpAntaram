@@ -3,6 +3,11 @@ title = "039 किन्नरान् वानरान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	(Horse-faced) Kinnaras, monkeys, fishes, birds of many kinds, cattle, deer, men, and carnivorous beasts with two rows of teeth,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [They called into being] Kinnaras, Apes, Fishes, Birds of various kinds, Cattle, Deer, Men and wild beasts with two rows of teeth.—(39)
@@ -26,9 +31,4 @@ title = "039 किन्नरान् वानरान्"
 <details><summary>गोविन्दराजः</summary>
 
 **किन्नरान्** इति । **किन्नराः **किन्नरशरीराः अश्वमुखाः अन्ये तु विपरीताः । **विहङ्गमाः ** पक्षिणः **पशवो **गवाद्याः । मनुष्याणां पशुत्वे ऽपि प्राधान्यात् पृथक् ग्रहणम् । **व्यालाः **सिंहाद्याः उत्तराधरदन्तयुक्ताः ॥ १.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	(Horse-faced) Kinnaras, monkeys, fishes, birds of many kinds, cattle, deer, men, and carnivorous beasts with two rows of teeth,
 </details>

@@ -3,6 +3,11 @@ title = "324 एवञ् चरन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+324	Thus conducting himself (and) ever intent on (discharging) his royal duties, a king shall order all his servants (to work) for the good of his people.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Acting in this manner, and ever intent upon his Kingly Duties, the king shall order all his servants to work for the good of the people.—(324)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 9.323].
 <details><summary>कुल्लूकः</summary>
 
 एवमध्यायत्रयाक्तराजधर्मेषु व्यवहार्यमाणो राजा सर्वदा यत्नवान्प्रजाहितेषुसर्वान्भृत्यान्विनियोजयेत्॥ ३२४॥
-</details>
-
-<details><summary>Bühler</summary>
-
-324	Thus conducting himself (and) ever intent on (discharging) his royal duties, a king shall order all his servants (to work) for the good of his people.
 </details>

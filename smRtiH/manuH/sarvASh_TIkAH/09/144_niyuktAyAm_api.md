@@ -3,6 +3,11 @@ title = "144 नियुक्तायाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+144	Even the male (child) of a female (duly) appointed, not begotten according to the rule (given above), is unworthy of the paternal estate; for he was procreated by an outcast.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The made child of an ‘authorised’ woman, if not begotten in the prescribed manner, is not entitled to the paternal property; as he is procreated by outcasts.—(144)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 9.143].
 <details><summary>भारुचिः</summary>
 
 **नियुक्तायाम् अपि** "घृताक्तो वाग्यतः" इति वचनाद् विध्यतिक्रमजातो न रिक्थभागः स्यात् । येन पतितेन पतिताभ्यां वासाव् उत्पादितः । उभयोर् नियमश्रवणात् तद्व्यतिक्रमनिन्दैषा वेदितस्या॥ ९.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	Even the male (child) of a female (duly) appointed, not begotten according to the rule (given above), is unworthy of the paternal estate; for he was procreated by an outcast.
 </details>

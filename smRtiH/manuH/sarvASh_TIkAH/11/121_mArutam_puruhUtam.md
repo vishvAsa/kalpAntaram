@@ -3,6 +3,11 @@ title = "121 मारुतम् पुरुहूतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	The divine light which the Veda imparts to the student, enters, if he breaks his vow, the Maruts, Puruhuta (Indra), the teacher (of the gods, Brihaspati) and Pavaka (Fire).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The spiritual power of the Religious Student, who has become ‘immoral,’ ‘goes away into the maruts, indra, Bṛhaspati and agni.—(121)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 11.118].
 <details><summary>भारुचिः</summary>
 
 यत एवम् अतो ऽवकीर्णी,
-</details>
-
-<details><summary>Bühler</summary>
-
-122	The divine light which the Veda imparts to the student, enters, if he breaks his vow, the Maruts, Puruhuta (Indra), the teacher (of the gods, Brihaspati) and Pavaka (Fire).
 </details>

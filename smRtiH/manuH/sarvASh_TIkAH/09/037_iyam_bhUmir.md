@@ -3,6 +3,11 @@ title = "037 इयम् भूमिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	This earth, indeed, is called the primeval womb of created beings; but the seed develops not in its development any properties of the womb.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “This earth is called the primeval womb of things; and yet, in its development, the seed does not develop any qualities of the womb.”—(37)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 अतश् च तद्धर्माननुवृत्तेर् बीजस्य क्षेत्रम् अप्रधानम् ॥ ९.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	This earth, indeed, is called the primeval womb of created beings; but the seed develops not in its development any properties of the womb.
 </details>

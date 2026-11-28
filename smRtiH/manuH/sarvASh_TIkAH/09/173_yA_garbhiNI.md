@@ -3,6 +3,11 @@ title = "173 या गर्भिणी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+173	If one marries, either knowingly or unknowingly, a pregnant (bride), the child in her womb belongs to him who weds her, and is called (a son) received with the bride (Sahodha).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one marries, knowingly or unknowingly, a pregnant maiden, the child in her womb belongs to him who marries her, and is called ‘received along with the wife.’—(173)
@@ -51,9 +56,4 @@ called *Sahoḍha*.’
 <details><summary>भारुचिः</summary>
 
 अयम् अपि सहोढो मातृजातीयः ॥ ९.१७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	If one marries, either knowingly or unknowingly, a pregnant (bride), the child in her womb belongs to him who weds her, and is called (a son) received with the bride (Sahodha).
 </details>

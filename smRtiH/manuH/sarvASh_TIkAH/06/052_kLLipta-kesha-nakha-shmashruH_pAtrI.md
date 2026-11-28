@@ -3,6 +3,11 @@ title = "052 कॢप्त-केश-नख-श्मश्रुः पात
 
 +++
 
+<details><summary>Bühler</summary>
+
+052	His hair, nails, and beard being clipped, carrying an alms-bowl, a staff, and a water-pot, let him continually wander about, controlling himself and not hurting any creature.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His hair, nails and beard clipped, equipped with vessels, staffs and water-pot, he shall constantly wander about, self-controlled and not causing pain to any living brings.—(52)
@@ -53,9 +58,4 @@ devoted to the well-being of all creatures, calm, shall carry three staves and a
 <details><summary>गोविन्दराजः</summary>
 
 **कॢप्तकेशनखश्मशुर्** इति । लूनकेशनखश्मश्रुः पात्री दण्डकुसुम्भवा सर्वभूतान्य् अपीडयन् नियतो बुद्धिमान् सर्वदा विचरेत् ॥ ६.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	His hair, nails, and beard being clipped, carrying an alms-bowl, a staff, and a water-pot, let him continually wander about, controlling himself and not hurting any creature.
 </details>

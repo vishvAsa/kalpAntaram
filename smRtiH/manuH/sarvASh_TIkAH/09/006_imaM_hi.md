@@ -3,6 +3,11 @@ title = "006 इमं हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+006	Considering that the highest duty of all castes, even weak husbands (must) strive to guard their wives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Looking upon this as the highest duty of all castes, even weak husbands strive to guard their wives—(6).
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 9.5].
 <details><summary>भारुचिः</summary>
 
 किं पुनर् इतरे । तच् च धर्मोत्तमत्वं स्त्रीरक्षणस्य यथा भवति तथेदम् अधुनोच्यते सर्वर्थम् ॥ ९.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	Considering that the highest duty of all castes, even weak husbands (must) strive to guard their wives.
 </details>

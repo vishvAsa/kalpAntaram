@@ -2,6 +2,11 @@
 title = "119 यथेदम् उक्तवाञ्"
 +++
 
+<details><summary>Bühler</summary>
+
+119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 You also learn from me to-day, these teachings,—just as they were, in the past promulgated by Manu, on being questioned by me.—(119)
@@ -47,11 +52,6 @@ In the *Bhāṣya* by Bhatta Medhātithi.
 **इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां मन्वाशयानसारिण्यां  
 प्रथमो ऽध्यायः समाप्तः   
 अथ द्वितीयो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.
 </details>
 
 <details><summary>भारुचिः</summary>

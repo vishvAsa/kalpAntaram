@@ -3,6 +3,11 @@ title = "092 न सुप्तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	Nor one who sleeps, nor one who has lost his coat of mail, nor one who is naked, nor one who is disarmed, nor one who looks on without taking part in the fight, nor one who is fighting with another (foe);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor one who is sleeping, nor him who is without his armour, nor one who is naked, nor one deprived of his weapons, nor one who is only looking on and not fighting, nor one who is engaged in fighting with ahother person;—(92)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 7.91].
 <details><summary>गोविन्दराजः</summary>
 
 **न सुप्तम्** इति । **सुप्तं **विगतसन्नाहम् अपरिधानान् आयुधप्रधनप्रेक्षकान् अन्यैश् च युध्यमानान् न हन्यात् ॥ ७.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Nor one who sleeps, nor one who has lost his coat of mail, nor one who is naked, nor one who is disarmed, nor one who looks on without taking part in the fight, nor one who is fighting with another (foe);
 </details>

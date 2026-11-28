@@ -2,6 +2,11 @@
 title = "212 चिकित्सकस्य मृगयोः"
 +++
 
+<details><summary>Bühler</summary>
+
+212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of this physician, or of the hunter, or of a cruel person, or of one who lives on leavings; nor the food of the “Ugra;” nor what has been cooked for the newly-delivered woman, until ten days have passed; nor that which has been interrupted by washing.—(212)
@@ -93,11 +98,6 @@ of the multitude, of people accused of crimes, and of those who make a living by
 <details><summary>गोविन्दराजः</summary>
 
 **चिकित्सकस्येति । **वैद्यस्य चिकित्साजीविनः । तथा लुभकानार्जवप्रकृत्युच्छिष्टादीनाम् उग्रस्य क्षत्रियेण शूद्रायाम् उत्पन्नस्य सूतिकोद्देशेन अनाशौचिभिर् अपि यत् कृतं कृतान्तराचमनं च तथा अनिर्गतदशाहिकं **सूतिकान्नं** प्रेतान्नस्य वक्ष्यमाणत्वात् न भुञ्जीत । _अन्ये_ तु उग्रं राजानम् आहुः । _तद् असत्_, याज्ञवल्क्येनोभयपाठात् ॥ ४.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
 </details>
 
 <details><summary>भारुचिः</summary>

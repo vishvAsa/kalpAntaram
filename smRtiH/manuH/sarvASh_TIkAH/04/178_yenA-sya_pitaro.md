@@ -2,6 +2,11 @@
 title = "178 येनाऽस्य पितरो"
 +++
 
+<details><summary>Bühler</summary>
+
+178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall tread the path of the righteous by the same way in which his fathers and grandfathers have trodden; going by that way, he shall not suffer.—(178)
@@ -59,11 +64,6 @@ its ways; all we do is that we follow the footsteps of our forefathers.’
 <details><summary>गोविन्दराजः</summary>
 
 द्विधावाक्यार्थप्रतिभाने वैकल्पिकपदार्थेषु वा य एव पितृपितामहादिभिः तस्यानुसृतो मार्गः यद् एव तैर् अनुष्ठितं तेनैव (तम् एव) साधुमार्गम् अनुसरेत् तद् एवाचरेत्, तद् आचरन् धर्मेण न हिंस्यते ॥ ४.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
 </details>
 
 <details><summary>भारुचिः</summary>

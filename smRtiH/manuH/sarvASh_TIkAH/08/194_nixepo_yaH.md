@@ -3,6 +3,11 @@ title = "194 निक्षेपो यः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+194	If a deposit of a particular description or quantity is bailed by anybody in the presence of a number (of witnesses), it must be known to be of that particular (description and quantity; the depositary) who makes a false statement (regarding it) is liable to a fine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As much of a certain deposit has been entrusted in the presence of a number of men—so much should it be decided to be; the party misrepresenting it becomes liable to punishment.—(194)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.193].
 <details><summary>भारुचिः</summary>
 
 ससाक्षिके सति निक्षेपे सा[क्षिणाम् ग्राम्यादीनाम् एव] प्रमाणं स्याद् अर्थसंख्यापरिमाणे ॥ ८.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	If a deposit of a particular description or quantity is bailed by anybody in the presence of a number (of witnesses), it must be known to be of that particular (description and quantity; the depositary) who makes a false statement (regarding it) is liable to a fine.
 </details>

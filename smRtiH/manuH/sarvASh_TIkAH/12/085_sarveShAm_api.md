@@ -3,6 +3,11 @@ title = "085 सर्वेषाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	(The answer is that) the knowledge of the Soul is stated to be the most excellent among all of them; for that is the first of all sciences, because immortality is gained through that.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [Question]—“From among all these good acts, is t here any one act which has been described as more efficacious in securing to man his Highest Good?”—(84)
@@ -72,9 +77,4 @@ As for the knowledge of the one Supreme Self, which is attained by long-continue
 <details><summary>भारुचिः</summary>
 
 आत्मज्ञानप्रशंसार्थः श्लोकः । अतो [ज्ञायते] पूर्वत्र ज्ञानपाठ एव, न ध्यानपाठः [नापि] दानपाठः । **आत्मज्ञानं** च क्षेत्रज्ञस्य देहेन्द्रियमनोबुद्ध्यादिभ्यो ऽन्यत्रादिज्ञानम् । तस्मिन् हि सत्य् अधिकारपुरुष उपलब्धक्षेत्रक्षेत्रज्ञतत्त्वो मध्यस्थो जितेन्द्रियो निर्हृतदोषो विषयैर् अनभिमन्यमानः श्रुतिनियतम् अधिकारं साकल्येनानुतिष्ठति । यस्मात् अतो युक्तम् अभिहितम्- **प्राप्यते ह्य् अमृतं तत** इति । समस्तस्य व्यस्तस्य वा परमात्मनो वेदान्तोपनिषदो विज्ञानम्, कर्माङ्गदेव्[व्त्]आज्ञानं वा । सर्वं चैतद् आत्मज्ञानग्रहणेन गृह्यते, तस्मात् सामर्थ्याद् अविरोधाच् च ॥ १२.८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	(The answer is that) the knowledge of the Soul is stated to be the most excellent among all of them; for that is the first of all sciences, because immortality is gained through that.
 </details>

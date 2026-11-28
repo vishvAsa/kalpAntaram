@@ -3,6 +3,11 @@ title = "282 अवनिष्ठीवतो दर्पाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+282	If out of arrogance he spits (on a superior), the king shall cause both his lips to be cut off; if he urines (on him), the penis; if he breaks wind (against him), the anus.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, out of arrogance, he spits, the king should have his two lips cut off; if he urinates, then his penis; and if he breaks wind, his anus.—(282)
@@ -65,9 +70,4 @@ hold of the neck, or breasts or hair or mouth of a person of the higher caste, t
 <details><summary>गोविन्दराजः</summary>
 
 **अवनिष्ठीवनाद्** इति । निष्ठीवनेन श्लेष्मणां मर्षेण श्लेष्माणं वमयन् शूद्रस्य द्वाव् अप्य् ओष्ठौ छेदयेद् एवं मूत्रेणावमानयतो लिङ्गम् अधमाङ्गध्वनिनावमानयतः पायुं छेदयेत् ॥ ८.२८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-282	If out of arrogance he spits (on a superior), the king shall cause both his lips to be cut off; if he urines (on him), the penis; if he breaks wind (against him), the anus.
 </details>

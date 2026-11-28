@@ -3,6 +3,11 @@ title = "191 यो निक्षेपम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+191	He who does not return a deposit and he who demands what he never bailed shall both be punished like thieves, or be compelled to pay a fine equal (to the value of the object retained or claimed).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who does not restore a deposit, and he who, without having made any deposit, asks for it,—both of these should be punished like thieves, or be made to pay a fine equal in value.—(191)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 8.190].
 <details><summary>भारुचिः</summary>
 
 पूर्वव्यतिक्रमकारिणो दण्डार्थो ऽयम् आरम्भः विकल्पेन । तथा ब्राह्मणं तु — ॥ ८.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	He who does not return a deposit and he who demands what he never bailed shall both be punished like thieves, or be compelled to pay a fine equal (to the value of the object retained or claimed).
 </details>

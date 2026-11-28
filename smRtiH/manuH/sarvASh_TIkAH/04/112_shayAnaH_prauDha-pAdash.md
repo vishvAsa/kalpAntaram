@@ -2,6 +2,11 @@
 title = "112 शयानः प्रौढ-पादश्"
 +++
 
+<details><summary>Bühler</summary>
+
+112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While lying down, while his feet are prominently thrust forward, and while he is seated with his knees tied together, he shall not study; as also after having eaten meat or food given by a person during impurity.—(112).
@@ -48,11 +53,6 @@ and other such things spreading, seated on a tree, on the boat, in the army, aft
 <details><summary>गोविन्दराजः</summary>
 
 **शयान **इति । शय्योत्सृष्टाङ्गप्रसारितपादः पादारोपितपादो वा पर्यस्तिकां च कृत्वा मांसम् आशौचान्नं च भुक्त्वा **नाधीयीत **॥ ४.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	While lying on a bed, while his feet are raised (on a bench), while he sits on his hams with a cloth tied round his knees, let him not study, nor when he has eaten meat or food given by a person impure on account of a birth or a death,
 </details>
 
 <details><summary>भारुचिः</summary>

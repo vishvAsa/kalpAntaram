@@ -2,6 +2,11 @@
 title = "033 नाऽद्याद् अविधिना"
 +++
 
+<details><summary>Bühler</summary>
+
+033	A twice-born man who knows the law, must not eat meat except in conformity with the law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims).
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 पूर्वोक्ताद् देवाद्यर्चनशिष्टात् ब्राह्मणकामनादिनिमित्तात् अन्तरं[^९९] यद् भक्षणं सो ऽविधिस्[^१००] तेन नाश्नीयात् मांसम् । उक्तानुवादो ऽयम् । **आपदि** प्राणात्यये देवाद्यर्चनम् अपि नापेक्ष्यम् ।
@@ -76,11 +81,6 @@ consecrated with mantras; that however which has been duly consecrated he shall 
 <details><summary>गोविन्दराजः</summary>
 
 **नद्याद्** इति । मांसभक्षणप्रकारज्ञो **द्विजो ऽनापदि** देवाद्यर्चनविधानं विना **मांसं** नाश्नीयात् यस्माद् अविधानेन यो मांसम् अश्नाति स मृतः सन् परलोके तैः प्राणिभिः **परवशो** भुज्यते, यन् मांसम् अनेन भक्षितं युक्तम् इति पूर्वार्थवादः ॥ ५.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	A twice-born man who knows the law, must not eat meat except in conformity with the law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims).
 </details>
 
 <details><summary>भारुचिः</summary>

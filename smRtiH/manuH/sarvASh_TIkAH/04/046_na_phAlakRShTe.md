@@ -3,6 +3,11 @@ title = "046 न फालकृष्टे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor on ploughed land, nor in water, nor on an oven, nor on a mountain, nor in a ruined temple, nor on an ant-hill. (46)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 4.45].
 <details><summary>गोविन्दराजः</summary>
 
 **न फालकृष्ट** इति । तथा **फालकृष्टे** उदके इष्टकाचिते चाग्न्यधिकरणे पर्वते देवायतने पिपीलिकाकृष्टे मृत्सञ्चये च न कदाचित् कुर्यात् ॥ ४.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,
 </details>

@@ -2,6 +2,11 @@
 title = "193 नित्यम् उद्धृत-पाणिः"
 +++
 
+<details><summary>Bühler</summary>
+
+193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always have his arm raised, remain well behaved, and well-guarded; when addressed with the words “be seated,” he should sit facing his teacher.—(193)
@@ -56,11 +61,6 @@ teacher’s right, facing either the east or the north.’
 <details><summary>गोविन्दराजः</summary>
 
 **नित्यम्** इति । यावज्जीवं गुरुसन्निधौ वसेद् उद्धृतबाहुः सदाचारयुक्तो ऽनलसः स्यात् । गुरुणा उपविश्यताम् इति **चोक्तः सन्** **गुरोः** सम्मुखम् उपविशेत् ॥ २.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

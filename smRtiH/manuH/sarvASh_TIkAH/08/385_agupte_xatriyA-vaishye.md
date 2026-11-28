@@ -3,6 +3,11 @@ title = "385 अगुप्ते क्षत्रिया-वैश्य�
 
 +++
 
+<details><summary>Bühler</summary>
+
+385	A Brahmana who approaches unguarded females (of the) Kshatriya or Vaisya (castes), or a Sudra female, shall be fined five hundred (panas); but (for intercourse with) a female (of the) lowest (castes), one thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, approaching an unprotected Vaiśya or Kṣatriya woman, should be fined five hundred, and one thousand for approaching a woman of the lowest order.—(385)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.382].
 <details><summary>गोविन्दराजः</summary>
 
 **क्षत्रियाम्** इति । **अगुप्ते** इति । वैश्यां क्षत्रियां शूद्रां रक्षितां ब्राह्मनो व्रजन् पञ्चशतानि दण्ड्यः स्यात् । चाण्डालादिस्त्रियं गच्छन् पुनः सहस्रं दण्ड्यः ॥ ८.३८४–३८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-385	A Brahmana who approaches unguarded females (of the) Kshatriya or Vaisya (castes), or a Sudra female, shall be fined five hundred (panas); but (for intercourse with) a female (of the) lowest (castes), one thousand.
 </details>

@@ -2,6 +2,11 @@
 title = "143 अग्न्याधेयम् पाकयज्ञान्"
 +++
 
+<details><summary>Bühler</summary>
+
+143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, being duly appointed, performs, for one the Fire-laying rite, the Cooked Sacrifices and the Agniṣṭoma and other sacrifices,—is called his “officiating priest.”—(143)
@@ -58,11 +63,6 @@ purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appo
 <details><summary>गोविन्दराजः</summary>
 
 **अग्न्याधेयम्** इति । आधानदर्शपूर्णमासाग्निष्टोमादिसोमयागान् यस्य कृतशास्त्रीयाचरणः सन् **यः करोति स तस्येह **शास्त्रे** ऋत्विग् उच्यते ** । तस्यापि मान्यत्वाद् इहोपदेशः, तद् उक्तं श्वशुरादि ऋत्विजो गुरून् इति ॥ १.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
 </details>
 
 <details><summary>भारुचिः</summary>

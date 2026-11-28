@@ -3,6 +3,11 @@ title = "285 वनस्पतीनां सर्वेषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+285	According to the usefulness of the several (kinds of) trees a fine must be inflicted for injuring them; that is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of all trees, as their usefulness so should be the punishment inflicted for injuring them; this is the settled rule.—(285)
@@ -67,9 +72,4 @@ agricultural implements or implements for the household, one may cut even fruit-
 <details><summary>भारुचिः</summary>
 
 अत्र वनस्पतिशब्देन वृक्षाणाम् अपि ग्रहणम् । "अनुबन्धं परिज्ञाय" इत्य् अनेनैवायं श्लोकः उक्तार्थ इति कश्चिद् आह । तद् अयुक्तम् । अस्मिन् हिंसति दण्डविध्यर्थो ऽयं श्लोक उपपद्यते ॥ ८.२८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-285	According to the usefulness of the several (kinds of) trees a fine must be inflicted for injuring them; that is the settled rule.
 </details>

@@ -2,6 +2,11 @@
 title = "202 यान-शय्यासनान्य् अस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By using another person’s conveyance, couch, seat, well, garden or house,—when these have not been given,—one becomes the partaker of the fourth part of that person’s sins.—(202)
@@ -48,11 +53,6 @@ conveyances belonging to others, unless they are offered to him.’
 <details><summary>गोविन्दराजः</summary>
 
 **यानशय्यासनानीति **। **यानशय्यासनानि **रथखट्वामञ्चकादीनि कूपारामगृहाणि च परस्य सम्बन्धीनि **अदत्तान्य् उपयुञ्जानः **तत्पापस्य चुतुर्भागं प्राप्नोति । अत्र च परकीयग्रहणात् अदत्तग्रहणाच् च सर्वार्थोत्सृष्टानुज्ञातस्नाने नास्ति दोषः ॥ ४.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.
 </details>
 
 <details><summary>भारुचिः</summary>

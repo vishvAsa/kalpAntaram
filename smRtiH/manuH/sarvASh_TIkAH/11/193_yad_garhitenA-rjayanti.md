@@ -3,6 +3,11 @@ title = "193 यद् गर्हितेनाऽर्जयन्ति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+194	If Brahmanas acquire property by a reprehensible action, they become pure by relinquishing it, muttering prayers, and (performing) austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When Brāhmaṇas acquire property by an objectionable act, they become pure by giving it up, and also by repeating sacred texts and performing austerities.—(193)
@@ -67,9 +72,4 @@ acts become free from the consequent sin by relinquishing that property and by r
 <details><summary>भारुचिः</summary>
 
 पूर्वस्मिन् श्लोके द्विजातीनाम् अधिकृतत्वाद् **यद् गर्हितेनार्जयन्ति कर्मणा ब्राह्मणा धनम्** इतीदं ब्राह्मणग्रहणं सर्वद्विजप्रदर्शनार्थं विज्ञायते । जप्यतपसोर् गर्हितेषु सामान्यतो ऽभिधानाद् यो यत्र विशेषेण विहितः स तत्र प्रत्येतव्यः । तयोस् च प्राप्तयोर् अपि सतोर् धनोत्सर्गार्थं ग्रहणम् ॥ ११.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	If Brahmanas acquire property by a reprehensible action, they become pure by relinquishing it, muttering prayers, and (performing) austerities.
 </details>

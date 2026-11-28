@@ -3,6 +3,11 @@ title = "050 यः स्वयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+050	A creditor who himself recovers his property from his debtor, must not be blamed by the king for retaking what is his own.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The creditor who shall himself recover his money from the debtor should not be prosecuted by the king, for recovering what is his own property.—(50)
@@ -56,9 +61,4 @@ debtor must not be checked by the King, both for secular and religious reasons.�
 <details><summary>भारुचिः</summary>
 
 स्वगृहसंरोधनादि च कुर्वन्न् अकार्यकारीति कृत्वा **राज्ञा नाभियोक्तव्यः** । उत्तमर्णप्रतिपन्नस् तावद् एवं यथासंभवम् उपायैर् दाप्यः । यः पुनर् इतरः तम् —
-</details>
-
-<details><summary>Bühler</summary>
-
-050	A creditor who himself recovers his property from his debtor, must not be blamed by the king for retaking what is his own.
 </details>

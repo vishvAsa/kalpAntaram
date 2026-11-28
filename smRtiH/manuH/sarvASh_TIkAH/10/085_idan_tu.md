@@ -3,6 +3,11 @@ title = "085 इदन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	But he who, through a want of means of subsistence, gives up the strictness with respect to his duties, may sell, in order to increase his wealth, the commodities sold by Vaisyas, making (however) the (following) exceptions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But there is this, that one who, under the stress of livelihood, renounces the strictness concerning his duties, may, for increasing his wealth, sell such commodities as are sold by Vaiśyas, with certain exceptions.—(85)
@@ -85,9 +90,4 @@ time.’
 <details><summary>भारुचिः</summary>
 
 **धर्मनैपुण**त्यागवचनाद् अस्यापि हीनता गम्यते गोरक्ष्यात् । एवं च सति क्ट्षेर् वानिज्यम् उत्कृष्टम् । तथापि गोरक्ष्यं ज्याय इत्य् एतत् सामर्थ्याद् गम्यते । सो ऽयम् अधुना विट्पण्योद्धार उच्यते विक्रीणानस्य पण्यम् ॥ १०.८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	But he who, through a want of means of subsistence, gives up the strictness with respect to his duties, may sell, in order to increase his wealth, the commodities sold by Vaisyas, making (however) the (following) exceptions.
 </details>

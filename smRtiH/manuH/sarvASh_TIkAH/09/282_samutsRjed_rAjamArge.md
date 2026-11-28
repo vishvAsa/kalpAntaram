@@ -3,6 +3,11 @@ title = "282 समुत्सृजेद् राजमार्गे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+282	But he who, except in a case of extreme necessity, drops filth on the king's high-road, shall pay two karshapanas and immediately remove (that) filth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one throws filth upon the public road, except in dire necessity,—he shall pay two Kārṣāpaṇas and clean the filth immediately.—(282)
@@ -54,9 +59,4 @@ substance, a tank or a garden or a watering place, he should be made to remove t
 <details><summary>भारुचिः</summary>
 
 कार्षापणपरिमाणं व्याख्यातम् ॥ ९.२८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-282	But he who, except in a case of extreme necessity, drops filth on the king's high-road, shall pay two karshapanas and immediately remove (that) filth.
 </details>

@@ -3,6 +3,11 @@ title = "021 न तस्मिन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	On him (who, for the reasons stated, appropriates another's possessions), a righteous king shall not inflict punishment; for (in that case) a Brahmana pines with hunger through the Kshatriya's want of care.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The righteous king shall inflict no punishment upon him; as it is only through the foolishness of the Kṣatriya that the Brāhmaṇa suffers from hunger.—(21)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 11.19].
 <details><summary>भारुचिः</summary>
 
 क्षुल् लिङ्गं चैतद् उभयत्रापि समानप्रकरणत्वाद् विज्ञेयम् ॥ ११.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	On him (who, for the reasons stated, appropriates another's possessions), a righteous king shall not inflict punishment; for (in that case) a Brahmana pines with hunger through the Kshatriya's want of care.
 </details>

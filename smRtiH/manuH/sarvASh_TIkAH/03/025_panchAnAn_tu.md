@@ -2,6 +2,11 @@
 title = "025 पञ्चानान् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the five, three have been declared to be lawful and two unlawful, in this treatise; the Paiśāca and the Āsura forms should never be adopted.’—(25)
@@ -103,11 +108,6 @@ conducive to spiritual merit and help also in the water-offerings; that is, thos
 <details><summary>गोविन्दराजः</summary>
 
 **पञ्चानाम्** इति । इह पैशाचनिषेधात् प्राजापत्यादयः पञ्च गृह्यन्ते । **पञ्चानां **प्राजापत्यादीनां मद्यात् **त्रयो **धर्माद् अनपेताः, **द्वौ **त्व् **अधर्म्याव् इह **शास्त्रे स्मृतौ **पैशाचासुरौ** । ताव् आपद्य् अपि न कर्तव्यौ ॥ ३.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
 </details>
 
 <details><summary>भारुचिः</summary>

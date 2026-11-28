@@ -2,6 +2,11 @@
 title = "069 उपनीय गुरुः"
 +++
 
+<details><summary>Bühler</summary>
+
+069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having initiated the pupil, the Teacher should, first of all, teach him cleanliness, right behaviour, firetending and also the twilight-devotions.—(69)
@@ -70,11 +75,6 @@ Bathing, Living on alms, Attending on the Teacher till death, and in his absence
 <details><summary>गोविन्दराजः</summary>
 
 **उपनीयेति** । **गुरुः **शिष्योपनयनं क्र्त्वा **आदौ **प्रथमत एव **शौचं शिक्षयेत्** । अशुद्धस्य सर्वत्रानधिकारात् । तत् **आचारं **प्रत्युत्थानादि, **अग्निकार्यं च **सायम्प्रातरग्निप्रक्षेपादि सान्ध्यकर्मानुष्ठानं च शिक्षयेत् ॥ २.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
 </details>
 
 <details><summary>भारुचिः</summary>

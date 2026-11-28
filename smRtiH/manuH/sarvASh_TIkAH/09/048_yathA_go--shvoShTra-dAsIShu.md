@@ -3,6 +3,11 @@ title = "048 यथा गो-ऽश्वोष्ट्र-दासीषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	As with cows, mares, female camels, slave-girls, buffalo-cows, she-goats, and ewes, it is not the begetter (or his owner) who obtains the offspring, even thus (it is) with the wives of others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As with cows, mares, she-camels, slave-girls, buffaloes, she-goats and ewes, it is not the begetter who obtains the offspring,—even thus it is with the wives of others—(48)
@@ -55,9 +60,4 @@ seed grow without the soil, hence the child belongs to both—say some people.�
 <details><summary>भारुचिः</summary>
 
 एवम्,
-</details>
-
-<details><summary>Bühler</summary>
-
-048	As with cows, mares, female camels, slave-girls, buffalo-cows, she-goats, and ewes, it is not the begetter (or his owner) who obtains the offspring, even thus (it is) with the wives of others.
 </details>

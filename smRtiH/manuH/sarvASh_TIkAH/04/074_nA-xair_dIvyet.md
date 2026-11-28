@@ -3,6 +3,11 @@ title = "074 नाऽक्षैर् दीव्येत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	Let him never play with dice, nor himself take off his shoes; let him not eat, lying on a bed, nor what has been placed in his hand or on a seat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never gamble with dice; he shall not himself carry his shoes; he shall not eat, seated on a bed; nor what has been placed in his hand or on the seat.—(74)
@@ -64,9 +69,4 @@ shall he gamble with dice.’
 <details><summary>गोविन्दराजः</summary>
 
 **नाक्षैर् **इति । अक्षादिभिः केल्यर्थम् अपि न क्रीडेत । आत्मना **चोपानहौ **पादव्यतिरेकेण न गृह्णीयात् । खट्वाव्यवस्थितश् च **न भुञ्जीत** । नापि पात्राव्यवहितहस्तम् अन्नम् आसने च पात्रम् अवस्थाय भुञ्जीत ॥ ४.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Let him never play with dice, nor himself take off his shoes; let him not eat, lying on a bed, nor what has been placed in his hand or on a seat.
 </details>

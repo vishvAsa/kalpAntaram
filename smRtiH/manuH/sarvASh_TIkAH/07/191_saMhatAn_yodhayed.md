@@ -3,6 +3,11 @@ title = "191 संहतान् योधयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+191	Let him make a small number of soldiers fight in close order, at his pleasure let him extend a large number in loose ranks; or let him make them fight, arranging (a small number) in the needle-array, (and a large number) in the thunderbolt-array.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall make a small number of men fight in close formation; but a large number he may extend as he likes. He shall make them fight, arraying them in the form of the ‘needle’ and the ‘thunderbolt.’—(191)
@@ -63,9 +68,4 @@ army is fighting against a larger one, the former should be arrayed like a needl
 <details><summary>भारुचिः</summary>
 
 **अल्पाः संहताः** परस्परापेक्षया युध्यन्तो न बिभ्यति । **वज्रव्यूहस्** त्रिधाव्यवस्थितः । **सूची**व्यूहो व्याख्यातः । सर्वे तु व्यूहा यथासामर्थ्यं कल्पयितव्याः ॥ ७.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	Let him make a small number of soldiers fight in close order, at his pleasure let him extend a large number in loose ranks; or let him make them fight, arranging (a small number) in the needle-array, (and a large number) in the thunderbolt-array.
 </details>

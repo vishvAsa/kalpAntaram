@@ -2,6 +2,11 @@
 title = "004 गुरुणानुमतः स्नात्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+004	Having bathed, with the permission of his teacher, and performed according to the rule the Samavartana (the rite on returning home), a twice-born man shall marry a wife of equal caste who is endowed with auspicious (bodily) marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, having, on being permitted by the Preceptor, “bathed” and “returned” according to rule, shall take a wife of the same caste as himself, who is endowed with signs.—(4).
@@ -140,11 +145,6 @@ Veda both verbally and intelligently, he shall marry a girl endowed with good qu
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुणेति** । गुर्वनुज्ञातः गृह्यशास्त्रविध्यनतिक्रमेण कृतगृह्योक्तस्वरूपस्नानसमावर्तनाख्यकर्म **द्विजः** समानजातीयां प्रशस्तलक्षणां **भार्याम्** उपयछेत् ॥ ३.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Having bathed, with the permission of his teacher, and performed according to the rule the Samavartana (the rite on returning home), a twice-born man shall marry a wife of equal caste who is endowed with auspicious (bodily) marks.
 </details>
 
 <details><summary>भारुचिः</summary>

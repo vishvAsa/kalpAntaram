@@ -3,6 +3,11 @@ title = "176 सा चेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+176	If she be (still) a virgin, or one who returned (to her first husband) after leaving him, she is worthy to again perform with her second (or first deserted) husband the (nuptial) ceremony.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In case she be still a virgin, or having gone away comes back,—she is fit to undergo re-marriage with her second husband.—(176)
@@ -60,9 +65,4 @@ It is quoted in the *Nṛsiṃhaprasāda* (Vyavahāra 38a.)
 <details><summary>भारुचिः</summary>
 
 पाणिग्रहणमात्रेण दूषिता यद्य् अपि भर्तृगृहाद् गतप्रत्यागता भवेत् अक्षतयोनि[ः] पुनः संस्कार्या ॥ ९.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	If she be (still) a virgin, or one who returned (to her first husband) after leaving him, she is worthy to again perform with her second (or first deserted) husband the (nuptial) ceremony.
 </details>

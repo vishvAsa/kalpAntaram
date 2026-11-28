@@ -3,6 +3,11 @@ title = "139 दानेन वधनिर्णेकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	A twice-born man, who is unable to atone by gifts for the slaughter of a serpent and the other (creatures mentioned), shall perform for each of them, a Krikkhra (penance) in order to remove his guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person is unable to atone the sin of killing by means of gifts, he should perform the ‘Kṛcchra,’ for each act, for the purpose of removing his sin.—(139)
@@ -57,9 +62,4 @@ the expiating of the sin of killing the elephant and such animals, he shall perf
 <details><summary>भारुचिः</summary>
 
 अनेन च गम्यते प्रायश्चित्तेषु दानं प्रथमकल्पिकम्, येन तदभावे कृच्छ्रम् इह शास्ति ॥ ११.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	A twice-born man, who is unable to atone by gifts for the slaughter of a serpent and the other (creatures mentioned), shall perform for each of them, a Krikkhra (penance) in order to remove his guilt.
 </details>

@@ -3,6 +3,11 @@ title = "015 तस्य सर्वाणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	Through fear of him all created beings, both the immovable and the movable, allow themselves to be enjoyed and swerve not from their duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is through fear of him that all living beings, movable as well as immovable, go to subserve the experiences (of men) and do not swerve from their duties.—(15)
@@ -64,9 +69,4 @@ fear of punishment that wicked men abstain from committing offences.’
 <details><summary>भारुचिः</summary>
 
 जातश् चासौ युक्तो राजसाहाय्ये यस्य भयात् **स्थावराणि** फलच्छायादिभिर् **भोगाय कल्पन्ते**, किं पुनर् अन्ये । यो हि स्थावरो वृक्षो न **भोगाय** कल्पते नियतं तस्य परिशोधनाद्य् आरभते, यतश् च न परिशुद्ध्यते हित्वासाव् अङ्गारीक्रियते, यश् च प्रतिकूलं वर्तते तस्य छेदनमूलोत्पाटनादिभिर् दण्डः प्रणीयते एव । यथा राजमार्गादिजातस्य बीरणस्तंबादेः॥ ७.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Through fear of him all created beings, both the immovable and the movable, allow themselves to be enjoyed and swerve not from their duties.
 </details>

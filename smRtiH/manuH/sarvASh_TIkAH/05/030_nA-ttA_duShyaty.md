@@ -2,6 +2,11 @@
 title = "030 नाऽत्ता दुष्यत्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+030	The eater who daily even devours those destined to be his food, commits no sin; for the creator himself created both the eaters and those who are to be eaten (for those special purposes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eater incurs no sin by eating, even daily, such animals as are eatable: since the eater as well as the eaten animals have been created by the creator himself—(30).
@@ -51,11 +56,6 @@ sacrifice... hence killing at sacrifice is no killing.’
 <details><summary>गोविन्दराजः</summary>
 
 इत्थं प्रजापतिकल्पनायां सत्यां **नात्ता दुष्यतीति ** । अदनार्हान् **प्राणिनो** ऽहर् अहर् अप्य् अश्नन् भक्षयिता न दोषान् प्राप्नोति । यस्मात् प्रजापतिनैवादनर्हा भक्षयितारश् चोत्पादिता इति प्राणात्ययमांसभक्षणनियमदार्ढ्यार्थो ऽयम् अर्थवादो न हेतुः प्राण्युपघातनिषेधोपदेशात् ॥ ५.३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	The eater who daily even devours those destined to be his food, commits no sin; for the creator himself created both the eaters and those who are to be eaten (for those special purposes).
 </details>
 
 <details><summary>भारुचिः</summary>

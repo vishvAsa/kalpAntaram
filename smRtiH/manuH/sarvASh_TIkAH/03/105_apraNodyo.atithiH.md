@@ -2,6 +2,11 @@
 title = "105 अप्रणोद्यो ऽतिथिः"
 +++
 
+<details><summary>Bühler</summary>
+
+105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The guest brought by the sun in the evening should not be driven away by the house-holder. Arrived in time, or not in time, he shall not stay in his house without taking food.—(105)
@@ -70,11 +75,6 @@ master and mistress of the house shall not refuse him; if there is no food, they
 <details><summary>गोविन्दराजः</summary>
 
 **अप्रणोद्य** इति । यस्माद् अयम् आदित्येनास्तं गच्छता प्रापितो ऽतिथिः, तदानीं स्वगृहगमनाशक्तेः, स **गृहमेधिना** गृहानुष्ठेयपञ्चयज्ञवता गृहस्थेन न प्रत्याख्येयः । स च चैश्वदेवकाले प्राप्तः तदुत्तरकाले वा नास्य गृहस्थस्य अन्नम् **अनश्नन् गृहे वसेत्** । अवश्यम् अस्याशनं देयम्, अयं च प्रतिषिद्धातिथिप्रतिप्रसवार्थम् आरम्भः, अन्यथा “वैश्वदेवं हि नामैतत् सायं प्रातर् विधीयते” (म्ध् ३.१२१) इति वक्षमाणेनैव सायम् अतिथिदानसिद्धौ अनारम्भः स्यात् ॥ ३.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
 </details>
 
 <details><summary>भारुचिः</summary>

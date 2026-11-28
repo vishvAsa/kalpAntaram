@@ -3,6 +3,11 @@ title = "029 एताश् चाऽन्याश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	These and other observances must a Brahmana who dwells in the forest diligently practise, and in order to attain complete (union with) the (supreme) Soul, (he must study) the various sacred texts contained in the Upanishads,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa dwelling in the forest shall attend to these and other restraints; and also to the several Vedic texts contained in the Upaniṣads, in order to attain the Self.—(29).
@@ -40,11 +45,6 @@ This verse is quoted in *Aparārka* (p. 943), which explains ‘*dīkṣā*’ a
 </details>
 
 <details><summary>भारुचिः</summary>
-
-029	These and other observances must a Brahmana who dwells in the forest diligently practise, and in order to attain complete (union with) the (supreme) Soul, (he must study) the various sacred texts contained in the Upanishads,
-</details>
-
-<details><summary>Bühler</summary>
 
 029	These and other observances must a Brahmana who dwells in the forest diligently practise, and in order to attain complete (union with) the (supreme) Soul, (he must study) the various sacred texts contained in the Upanishads,
 </details>

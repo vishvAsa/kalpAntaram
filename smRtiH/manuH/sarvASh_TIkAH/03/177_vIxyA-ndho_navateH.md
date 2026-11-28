@@ -2,6 +2,11 @@
 title = "177 वीक्ष्याऽन्धो नवतेः"
 +++
 
+<details><summary>Bühler</summary>
+
+177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The blind man, by looking, destroys the feeder’s reward for feeding ninety men, the one-eyed man of sixty, the leper of one hundred, and the man afflicted with a foul disease of a thousand.—(177)
@@ -41,11 +46,6 @@ This verse is quoted in *Aparārka* (p. 454), which adds that what is meant is t
 <details><summary>गोविन्दराजः</summary>
 
 अन्धादीनां विशेषम् आह **वीक्ष्येति** । अन्धस्य दर्शनाभावात् तत्र सन्निहितो ऽसौ पाङ्क्त्यानां **नवतेः** सम्बन्धिभोजनफलं नाशयति । एवं **काणः षष्टेः श्वित्री शतस्य कुष्ठी सहस्रस्य **इत्य् अन्धादिसन्निधिफलकथनम् । सङ्ख्यावैचित्र्याद् एवेदम् अप्य् अवसीयते यत् अथ चेन् मन्त्रवियुक्त इत्य् उक्तं च शष्टिदर्शनावष्टम्भेन काणादीन् भोजयिष्यतः पूर्वपूर्वम् अपचितसङ्ख्या निन्दितप्रवृत्तिः । तदकामे ऽधिकनिनिदिते इति ॥ ३.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
 </details>
 
 <details><summary>भारुचिः</summary>

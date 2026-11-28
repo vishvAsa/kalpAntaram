@@ -2,6 +2,11 @@
 title = "014 बकञ् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+014	The Baka and the Balaka crane, the raven, the Khangaritaka, (animals) that eat fish, village-pigs, and all kinds of fishes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Baka, the Balākā, the Kākola, the Khañjarīṭa, the fish-eaters, and village pigs; as also fish always.—(14)
@@ -90,11 +95,6 @@ Pāṭhīna, the Rohita, the Rājīva, Siṃhatuṇḍa and Śakula, one should 
 <details><summary>गोविन्दराजः</summary>
 
 **बकं चैवेति** । **बकं बलाकं काकोलं** च द्रोणकाकं “काकोलो द्रोणकाक उदाहृतः” इति त्रिकाण्डपाठात् । **कञ्जरीटा**ख्यं पक्षिणं **मत्स्यादांश् **च अपक्षिणो ऽपि नक्रादीन् ग्रामसूकरांश् च **मत्स्यांश् **च सर्वान् वर्जयेत् ॥ ५.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	The Baka and the Balaka crane, the raven, the Khangaritaka, (animals) that eat fish, village-pigs, and all kinds of fishes.
 </details>
 
 <details><summary>भारुचिः</summary>

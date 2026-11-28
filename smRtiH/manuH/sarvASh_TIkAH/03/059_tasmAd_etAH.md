@@ -2,6 +2,11 @@
 title = "059 तस्माद् एताः"
 +++
 
+<details><summary>Bühler</summary>
+
+059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.—(59)
@@ -42,11 +47,6 @@ they should be respected by the man desiring his own welfare; when loved and fon
 <details><summary>गोविन्दराजः</summary>
 
 यस्माद् एवं **तस्माद् एताः सदा**ब्यर्च्याः इति । **भूतिकामैर् नरैर् नित्यं सङ्करेषूत्सवेषु च** । तस्मात् कारणात् एताः सङ्करेषु कौमिदीमहानवम्यादिषु उपनयनादिषु च सर्वकामैः मनुष्यैः आभरणवस्त्रभोजनैः नित्यम् अभिपूजनीयाः ॥ ३.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
 </details>
 
 <details><summary>भारुचिः</summary>

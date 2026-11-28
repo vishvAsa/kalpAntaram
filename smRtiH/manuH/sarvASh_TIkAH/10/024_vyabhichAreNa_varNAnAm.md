@@ -3,6 +3,11 @@ title = "024 व्यभिचारेण वर्णानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	By adultery (committed by persons) of (different) castes, by marriages with women who ought not to be married, and by the neglect of the duties and occupations (prescribed) to each, are produced (sons who owe their origin) to a confusion the castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Confused castes’ are produced by infidelity among the castes, by the marrying of women unfit for marriage, and by the neglect of one’s duties.—(24)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 व्यभिचारो वर्णानां प्रतिलोमस्त्रीग्रहणेन मुख्यः, अनुलोमे ऽपि मुख्यवर्णापेक्षयोच्यते । **अवेद्यावेदनं** पुनर् एतत्विलोमचारिपुनर्भुवादिस्त्रीपरिग्रहेण । स्वकर्मणां च त्यागः उपनयनसंस्कारहानिर् अधिकृता[नाम्] । एवं च सति वर्णसंकरहेतुप्रदर्शनार्थम् इदं युक्ताभिधानं परिहारार्थं चैषाम् ॥ १०.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	By adultery (committed by persons) of (different) castes, by marriages with women who ought not to be married, and by the neglect of the duties and occupations (prescribed) to each, are produced (sons who owe their origin) to a confusion the castes.
 </details>

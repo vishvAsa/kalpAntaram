@@ -3,6 +3,11 @@ title = "224 गत्वा कक्षान्तरम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	But going to another secret apartment and dismissing those people, he may enter the harem, surrounded by female (servants), in order to dine again.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Repairing to another apartment, and having dismissed those people, he shall again enter the inner apartment, surrounded by the women, for the purpose of taking his food.—(224).
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 7.223].
 <details><summary>गोविन्दराजः</summary>
 
 **गत्वेति** । तस्मात् प्रदेशाद् **अन्यद्** विमुक्तं प्रदेशान्तरं **गत्वा** चारजनं सम्प्रेक्ष्य परिचारिकादिभिः **स्त्रीवृतः** सन् **पुनर्** भोक्तुम् **अन्तःपुरं प्रविशेत्** ॥ ७.२२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	But going to another secret apartment and dismissing those people, he may enter the harem, surrounded by female (servants), in order to dine again.
 </details>

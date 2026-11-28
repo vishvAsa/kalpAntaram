@@ -3,6 +3,11 @@ title = "389 न माता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+389	Neither a mother, nor a father, nor a wife, nor a son shall be cast off; he who casts them off, unless guilty of a crime causing loss of caste, shall be fined six hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither the mother, nor the father, nor the wife, nor the son deserve to be forsaken; he who forsakes these, unless they are outcasts, should be fined six hundred by the king.—(389)
@@ -74,9 +79,4 @@ never be forsaken; indeed no Sapiṇḍas possessing good qualities should be fo
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तप्राप्ताव् अकुर्वन्तस् तानि त्याज्या न तु द्वेषादिना ॥ ८.३८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-389	Neither a mother, nor a father, nor a wife, nor a son shall be cast off; he who casts them off, unless guilty of a crime causing loss of caste, shall be fined six hundred (panas).
 </details>

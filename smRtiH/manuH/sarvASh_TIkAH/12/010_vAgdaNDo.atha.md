@@ -3,6 +3,11 @@ title = "010 वाग्दण्डो ऽथ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+010	That man is called a (true) tridandin in whose mind these three, the control over his speech (vagdanda), the control over his thoughts (manodanda), and the control over his body (kayadanda), are firmly fixed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Control over Speech, control over the Mind and control over the Body,—the man in whose heart these are firmly fixed is called ‘the man of triple control.’—(10)
@@ -33,9 +38,4 @@ This verse is quoted in *Nirṇayasindhu* (p. 454);—in *Aparārka* (p. 951);�
 <details><summary>भारुचिः</summary>
 
 त्र्यधिष्ठाना एव दण्डास् त्रयः ॥ १२.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	That man is called a (true) tridandin in whose mind these three, the control over his speech (vagdanda), the control over his thoughts (manodanda), and the control over his body (kayadanda), are firmly fixed.
 </details>

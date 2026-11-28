@@ -2,6 +2,11 @@
 title = "029 प्राङ् नाभिवर्धनात्"
 +++
 
+<details><summary>Bühler</summary>
+
+029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the male child, before the cutting of the umbilical cord the performance of the Jāta-karma (Birth-rite) has been ordained: (it consists of) the feeding of him with gold, honey and butter, to the accompaniment of Mantras.—(29).
@@ -271,11 +276,6 @@ hence that day is sacred; hence one should give away vessels full of sesamum, al
 <details><summary>गोविन्दराजः</summary>
 
 **प्राङ्नाभीति **। नाभिछेदनात् पूर्वं **पुंसो जातकर्म्**आख्यः संस्कारो विधीयते । अस्य च शिशोः तदानीम् “प्रतिददामि (प्र ते ददामि) मधुनो घृतस्य” इत्य् एवमादिमन्त्रयुक्तं **हिरण्य**माक्षिकघृतानां **प्राशनं **कार्यम् । **पुंसो** ग्रहणं नपुंसकव्यावृत्त्यर्थम् । यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनाम् इति नपुंसकस्य दारदर्शनात् । ये स्तेनाः पतिताः क्लीबा इति च श्रोत्रियत्वे सति श्राद्धभोजनप्राप्तेः प्रतिषेधदर्शनात् । स्त्र्यर्थत्वे तस्य प्रमाणं नास्ति । तथा च “अमन्तर्कासु” इति स्त्रीणाम् अप्राप्तिं वक्ष्यति ॥ २.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
 </details>
 
 <details><summary>भारुचिः</summary>

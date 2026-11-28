@@ -3,6 +3,11 @@ title = "216 ऊर्ध्वं विभागाज्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+216	But a son, born after partition, shall alone take the property of his father, or if any (of the other sons) be reunited with the (father), he shall share with them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a son is born after partition, he shall receive the property of the father alone; or if any other sons be reunited, he would share it with them.—(216)
@@ -78,9 +83,4 @@ or uterine brothers, have come to a division with their father, brothers born af
 <details><summary>भारुचिः</summary>
 
 ये ऽन्योन्योपार्जितधनाः पित्रा स्नेहेन गुणापेक्षया वा तेषां विषमो विभागो न कर्तव्यः । इदं च दर्शनं पितुर् अभिप्राये न सति । अपि तु पित्रभिप्रायेण विभागे वैकल्पिकं ग्रहणं तदभिप्रायेण स्यात्, नान्यथा ॥ ९.२१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	But a son, born after partition, shall alone take the property of his father, or if any (of the other sons) be reunited with the (father), he shall share with them.
 </details>

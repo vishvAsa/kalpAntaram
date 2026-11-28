@@ -3,6 +3,11 @@ title = "073 अद्वारेण च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	Let him not enter a walled village or house except by the gate, and by night let him keep at a long distance from the roots of trees.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hot enter a walled village or house, except through the gate. At night, he shalt, keep away, at a long distance, from the roots of trees.—(73)
@@ -48,9 +53,4 @@ right gate.’
 <details><summary>गोविन्दराजः</summary>
 
 **अद्वारेणेति** । प्राकाराद्यावृतं **ग्रामं **गृहं **वा **द्वारव्यतिरिक्तप्रदेशेन नातिक्रम्य प्रविशेत् । **रात्रौ च वृक्षमूला**वस्थानं दूरात् **परिवर्जयेत् **॥ ४.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	Let him not enter a walled village or house except by the gate, and by night let him keep at a long distance from the roots of trees.
 </details>

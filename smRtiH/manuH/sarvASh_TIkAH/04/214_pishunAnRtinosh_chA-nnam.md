@@ -2,6 +2,11 @@
 title = "214 पिशुनानृतिनोश् चाऽन्नम्"
 +++
 
+<details><summary>Bühler</summary>
+
+214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of the informer and the perjurer, or of the seller of sacrifices; nor the food of the actor or the tailor; nor the food of the ungrateful person.—(214)
@@ -59,11 +64,6 @@ sacrifice-seller.’
 <details><summary>गोविन्दराजः</summary>
 
 **पिशुनानृतिनोश् चेति** । भषकासत्यवादिक्रतुपुण्यविक्रयिनटसौचिकानां उपकृतापकारिणाम् अन्नं नाश्नीयात् ॥ ४.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
 </details>
 
 <details><summary>भारुचिः</summary>

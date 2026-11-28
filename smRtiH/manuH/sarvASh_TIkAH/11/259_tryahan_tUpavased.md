@@ -3,6 +3,11 @@ title = "259 त्र्यहन् तूपवसेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+260	But if (a man) fasts during three days, bathing thrice a day, and muttering (in the water the hymn seen by) Aghamarshana, he is (likewise) freed from all sins causing loss of caste.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man fasts for, three days, and entering the water thrice a dat repeats the ‘Aghamarṣaṇa Hymn’ three times, he becomes absolved from all sins.—(259)
@@ -61,9 +66,4 @@ three days and having recited, in water, the *Agha* *marṣaṇa* hymn, and givi
 <details><summary>भारुचिः</summary>
 
 अल्पत्वाच् चास्य प्रायश्चित्तस्याश्रद्दधानानां प्रवृत्त्यर्थम् इदम् आह ।
-</details>
-
-<details><summary>Bühler</summary>
-
-260	But if (a man) fasts during three days, bathing thrice a day, and muttering (in the water the hymn seen by) Aghamarshana, he is (likewise) freed from all sins causing loss of caste.
 </details>

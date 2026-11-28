@@ -2,6 +2,11 @@
 title = "002 गृहस्थस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+002	When a householder sees his (skin) wrinkled, and (his hair) white, and. the sons of his sons, then he may resort to the forest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the householder notices his wrinkles and greyness, and sees his child’s child,—then he should r etire to the forest,—(2).
@@ -67,11 +72,6 @@ See Comparative notes for [Verse 6.1].
 <details><summary>गोविन्दराजः</summary>
 
 **गृहस्थ** इति । गृहस्थो यदात्मनस् त्वक्शैथिल्यं शिरःपाण्डुर्यं पौत्रांश् च पश्येत् तदा वानप्रस्थस्यार्थे अरण्यम् आश्रयेत् ॥ ६.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	When a householder sees his (skin) wrinkled, and (his hair) white, and. the sons of his sons, then he may resort to the forest.
 </details>
 
 <details><summary>भारुचिः</summary>

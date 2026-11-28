@@ -2,6 +2,11 @@
 title = "253 आर्धिकः, कुलमित्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His own ploughman, hereditary friend, cowherd, slave and barder,—among Śūdras; these are persons whose food may be eaten; as also one who offers himself.—(253)
@@ -54,11 +59,6 @@ made with milk may be eaten even from a Śūdra.’
 <details><summary>गोविन्दराजः</summary>
 
 **आर्धिक **इति । **शूद्रेषु **मध्यात् कर्षककुलमित्रगोपालदासनापिता **भोज्यान्नाः । यश् च **त्वदाश्रितो ऽहम् इत्य् एवम् **आत्मानं **समर्पयेत् । शूद्रश् च नापितादिकर्मणा जीवेत् कारुककर्मभिः इति वक्ष्यति ॥ ४.२५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
 </details>
 
 <details><summary>भारुचिः</summary>

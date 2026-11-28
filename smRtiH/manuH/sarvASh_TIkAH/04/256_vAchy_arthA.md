@@ -2,6 +2,11 @@
 title = "256 वाच्य् अर्था"
 +++
 
+<details><summary>Bühler</summary>
+
+256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All things are regulated by speech, have their root in speech, and emanate from speech. The man who steals such speech is the stealer of all things.—(256)
@@ -42,11 +47,6 @@ This is an *imaginary* statement, deprecatory of *telling a lie*.—(*256*)
 <details><summary>गोविन्दराजः</summary>
 
 **वाच्य् अर्था **इति । **सर्वे ऽर्थाः **शब्देषु सम्बद्धाः शब्दार्थसम्बन्धस्य नियतत्वात् शब्दमूलकाश् च यतः शब्देभ्यः प्रतीयन्ते शब्दप्रतीतिपुरःसरं चार्थसंव्यवहारप्रतीतेः शब्दविनियता एव । अतस् तां वाचं यास् चोरयेत्, अन्यद् उक्त्वा अन्यद् अनुतिष्ठेत् **स सर्व**वस्तु**स्तेयकृन् नरो **भवति ॥ ४.२५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.
 </details>
 
 <details><summary>भारुचिः</summary>

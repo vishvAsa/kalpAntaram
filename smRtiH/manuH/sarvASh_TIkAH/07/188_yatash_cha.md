@@ -3,6 +3,11 @@ title = "188 यतश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+188	From whatever (side) he apprehends danger, in that (direction) let him extend his troops, and let him always himself encamp in an array, shaped like a lotus.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From where he apprehends danger there he shall extend his forces; and he himself shall always encamp in the ‘lotus-array’—(188)
@@ -47,9 +52,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>भारुचिः</summary>
 
 सर्वथा प्रदर्शनम् एतत्- **यतो भयं** प्रपश्येत् तु **ततो विस्तारेयेद् बलम्** । सर्वत उदितेन **पद्मव्यूहेन सदा निविशेत** ॥ ७.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	From whatever (side) he apprehends danger, in that (direction) let him extend his troops, and let him always himself encamp in an array, shaped like a lotus.
 </details>

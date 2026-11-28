@@ -3,6 +3,11 @@ title = "241 आगःसु ब्राह्मणस्यैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+241	For (such) offences the middlemost amercement shall be inflicted on a Brahmana, or he may be banished from the realm, keeping his money and his chattels.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For offences committed by the Brāhmaṇa the middle-most amercement shall be inflicted on him; or he shall be banished from the kingdom, along with his goods and chattels.—(241)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 अकामत इत्य् उत्तरश्लोके वक्ष्यति । तद् इहापि विज्ञेयम् । एवं च सत्य् एतेष्व् एवागस्सु ब्राह्मणो मध्यमसाहसं दण्ड्यः । कामं विवास्यो राष्ट्रात् । एवं निग्रहद्वयं विकल्पेनास्य स्यात्, वृत्तस्वाध्यायापेक्षया ॥ ९.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	For (such) offences the middlemost amercement shall be inflicted on a Brahmana, or he may be banished from the realm, keeping his money and his chattels.
 </details>

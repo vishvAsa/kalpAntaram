@@ -3,6 +3,11 @@ title = "048 क्रुद्ध्यन्तन् न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Against an angry man let him not in return show anger, let him bless when he is cursed, and let him not utter speech, devoid of truth, scattered at the seven gates.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Towards an angry man he shall not retort in anger; when he is cursed, he shall pronounce a blessing; and he shall not utter an untrue word, spreading over the seven openings.—(48).
@@ -64,9 +69,4 @@ anger, to obey the teacher, to avoid rashness, to observe cleanliness and to obs
 <details><summary>भारुचिः</summary>
 
 **वाचस् सप्तद्वाराणि** धर्मो ऽर्थः कामो धर्मार्थाव् अर्थकामौ धर्मकामौ धर्मार्थकामा इति । तत्र मोक्षाश्रिताम् एव **वाचं** वदेन्, न **सप्तद्वाराश्रिताम् अनृतां** त्रिवर्गाश्रयाम् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Against an angry man let him not in return show anger, let him bless when he is cursed, and let him not utter speech, devoid of truth, scattered at the seven gates.
 </details>

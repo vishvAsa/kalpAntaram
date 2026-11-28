@@ -2,6 +2,11 @@
 title = "069 नाऽस्य कार्यो"
 +++
 
+<details><summary>Bühler</summary>
+
+069	Such (a child) shall not be burnt with fire, and no libations of water shall be offered to it; leaving it like a (log of) wood in the forest, (the relatives) shall remain impure during three days only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For this child no sanctification by fire shall be performed; nor shall water-offering he made to it; having left it like a log of wood, in the forest, one shall keep aloof for three days.—(68)
@@ -68,11 +73,6 @@ dies, its parents become impure; the impurity lasts for one or three days. They 
 <details><summary>गोविन्दराजः</summary>
 
 **नास्येति** । अस्योनद्विवार्षिकस्य प्रेतस्याग्निसंस्कारो न कर्तव्यो नापि सकृत् प्रसिञ्चत्य् उदकं नामगोत्रेण वाग्यताः । इत्येवमादियाज्ञवल्क्याद्युक्तप्रक्रियोदकक्रियाद्यौर्ध्वदेहिकं किञ्चित् कर्तव्यम् । किं तर्हि, अग्निसंस्कारनिरपेक्ष्यम् अरण्ये काष्ठवत् परित्यज्य त्यहम् अपेताशौचे सति शास्त्रतकर्माणि न कुर्याद् अयं चाकृतचूडस्य त्र्यहविकल्पः, कृतचूडविषये त्र्यहस्योक्तत्वात् । अनर्थकम् इदं स्याद् विकल्पश् च वृत्ताद्यपेक्ष्येत्य् उक्तम् ॥ ५.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	Such (a child) shall not be burnt with fire, and no libations of water shall be offered to it; leaving it like a (log of) wood in the forest, (the relatives) shall remain impure during three days only.
 </details>
 
 <details><summary>भारुचिः</summary>

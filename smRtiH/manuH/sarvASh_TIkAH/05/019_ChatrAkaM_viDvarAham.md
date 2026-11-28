@@ -3,6 +3,11 @@ title = "019 छत्राकं विड्वराहम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	A twice-born man who knowingly eats mushrooms, a village-pig, garlic, a village-cock, onions, or leeks, will become an outcast.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mushroom, the village-pig, garlic, the village-cock, onions and leeks,—the twice-born man eating these intentionally would become an ou tcast.—(19).
@@ -56,9 +61,4 @@ leeks, onion, exudation from trees, the property of gods, mushrooms, milk of the
 <details><summary>गोविन्दराजः</summary>
 
 **छत्राकम्** इति । कवकग्रामसूकरलशुनादीनाम् अन्यतमं बुद्धिपूर्वं प्रायश्चित्तगुरुत्वात् अभ्यासतो भक्षयित्वा द्विजातिः **पतेत्** । द्विजातिकर्मभ्यो हानिः पतनम् इति । ततश् च प्रायश्चित्तं तस्य न भवति । तथा वक्ष्यति “गर्हितान्न्द्ययोर् जग्धिः सुरापानसमानि षट्” (११.५६) इति ॥ ५.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	A twice-born man who knowingly eats mushrooms, a village-pig, garlic, a village-cock, onions, or leeks, will become an outcast.
 </details>

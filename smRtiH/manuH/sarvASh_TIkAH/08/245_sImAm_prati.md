@@ -3,6 +3,11 @@ title = "245 सीमाम् प्रति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+245	If a dispute has arisen between two villages concerning a boundary, the king shall settle the limits in the month of Gyaishtha, when the landmarks are most distinctly visible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a dispute regarding boundaries arises between two villages, the king shall settle the boundary during the month of Jyeṣṭha, when the landmarks are distinctly perceptible.—(245)
@@ -87,9 +92,4 @@ at the time of foundation, and it should be marked by visible and invisible sign
 <details><summary>भारुचिः</summary>
 
 उपन्यासश् चित्तप्रणिधानार्थः । **ज्येष्ठमासे** सेतवः, सीमाव्यवच्छेदहेतवः, सुविज्ञाता भवन्ति ॥ ८.२४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	If a dispute has arisen between two villages concerning a boundary, the king shall settle the limits in the month of Gyaishtha, when the landmarks are most distinctly visible.
 </details>

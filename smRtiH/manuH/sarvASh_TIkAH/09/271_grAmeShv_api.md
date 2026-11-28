@@ -3,6 +3,11 @@ title = "271 ग्रामेष्व् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+271	All those also who in villages give food to thieves or grant them room for (concealing their implements), he shall cause to be put to death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall also strike all those in a village who supply food for thieves or provide room for the goods.—(271)
@@ -53,9 +58,4 @@ Do. (Theft: 13-14).—‘Those who give food to thieves, as well as those who su
 <details><summary>भारुचिः</summary>
 
 विचार्य प्रत्यक्षागमानुमानैः प्रमाणैः । येनाविज्ञानाद् अपि ह्य् एतत् सर्वं भवति ॥ ९.२७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-271	All those also who in villages give food to thieves or grant them room for (concealing their implements), he shall cause to be put to death.
 </details>

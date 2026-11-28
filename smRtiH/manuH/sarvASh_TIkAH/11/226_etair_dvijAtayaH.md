@@ -3,6 +3,11 @@ title = "226 एतैर् द्विजातयः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+227	By these expiations twice-born men must be purified whose sins are known, but let him purify those whose sins are not known by (the recitation of) sacred texts and by (the performance of) burnt oblations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By means of these penances are those twice-born persons to be purified whose sins have become known; those whose sins have not become known, one shall purify by means of sacred texts and Homa-offerings.—(226)
@@ -58,9 +63,4 @@ reciting sacred texts, in giving gifts, in offering oblations with fire and repe
 <details><summary>भारुचिः</summary>
 
 सप्तदशश्लोकाः कृच्छ्रादिशुद्ध्यर्थाः ऋज्वर्थत्वान् न व्याख्याताः । **यथा कथंचिद्** इति प्रकृतानुवादः, न विध्यन्तरोपदेशः । **अनाविष्कृतपापान्** मन्त्रान् होमांश् च वक्ष्यति ॥ ११.२१५–२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-227	By these expiations twice-born men must be purified whose sins are known, but let him purify those whose sins are not known by (the recitation of) sacred texts and by (the performance of) burnt oblations.
 </details>

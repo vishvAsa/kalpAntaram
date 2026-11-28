@@ -3,6 +3,11 @@ title = "038 यन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	When the king finds treasure of old concealed in the ground let him give one half to Brahmanas and place the (other) half in his treasury.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the king himself finds a hoard buried of old under the ground, he shall give one-half of it to the Brāhmaṇas and have the other half put in his treasury.—(38)
@@ -49,9 +54,4 @@ Treasury and give the other half to Brāhmaṇas; the good Brāhmaṇa however t
 <details><summary>भारुचिः</summary>
 
 राज्ञो ऽयं निध्यधिगमे दाननियमः । न त्व् अन्यस्य, वचनसामर्थ्यात् ॥ ८.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	When the king finds treasure of old concealed in the ground let him give one half to Brahmanas and place the (other) half in his treasury.
 </details>

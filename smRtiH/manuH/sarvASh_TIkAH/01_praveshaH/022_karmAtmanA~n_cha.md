@@ -3,6 +3,11 @@ title = "022 कर्मात्मनाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	He, the Lord, also created the class of the gods, who are endowed with life, and whose nature is action; and the subtile class of the Sadhyas, and the eternal sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the sake of living beings intent upon action, he created the eternal sacrifice; as also the host of Gods and the subtile multitude of the lesser divinities, the Sādhyas.—(22)
@@ -62,9 +67,4 @@ The meaning of this verse, which Buhler attributes to Medhātithi, is one that t
 <details><summary>गोविन्दराजः</summary>
 
 **कर्मात्मनाम्** इति । कर्माङ्गभूतानां देवानां प्राणवताम् इन्द्रादीनां यतः अप्राणा अपि यक्षादयो देवाः सन्ति, साध्यानां देवगणानां देवविशेषाणां समूहं ज्योतिष्टोमादिकं च कल्पान्तरे ऽप्य् अनुष्ठानान् नित्यं सृष्टवान् । साध्यगणस्य सूक्षमत्वात्** **पृथङ्निर्देशः ॥ १.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	He, the Lord, also created the class of the gods, who are endowed with life, and whose nature is action; and the subtile class of the Sadhyas, and the eternal sacrifice.
 </details>

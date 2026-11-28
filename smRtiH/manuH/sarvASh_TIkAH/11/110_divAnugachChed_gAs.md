@@ -3,6 +3,11 @@ title = "110 दिवानुगच्छेद् गास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	During the day he shall follow the cows and, standing upright, inhale the dust (raised by their hoofs); at night, after serving and worshipping them, he shall remain in the (posture, called) virasana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the day he shall follow those cows, and standing upright, inhale the dust; at night having attended and bowed to them, he shall rest in the ‘Vīrāsana’ posture.—(110)
@@ -38,9 +43,4 @@ See Explanatory notes for [Verse 11.108].
 **
 
 See Comparative notes for [Verse 11.108].
-</details>
-
-<details><summary>Bühler</summary>
-
-111	During the day he shall follow the cows and, standing upright, inhale the dust (raised by their hoofs); at night, after serving and worshipping them, he shall remain in the (posture, called) virasana.
 </details>

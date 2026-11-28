@@ -3,6 +3,11 @@ title = "180 संवत्सरेण पतति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+181	He who associates with an outcast, himself becomes an outcast after a year, not by sacrificing for him, teaching him, or forming a matrimonial alliance with him, but by using the same carriage or seat, or by eating with him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one associates with an outcast for one year, he himself becomes an outcast; not by sacrificing for him, or teaching him, or forming a matrimonial alliance with him,—but by walking, sitting or eating.—(180)
@@ -147,9 +152,4 @@ connections with outcasts becomes equal to him, either in five days, or ten days
 <details><summary>भारुचिः</summary>
 
 यानाशनासनैर् न **संवत्सरेण**, किं तर्हि सद्य एव । ऊर्ध्वं तस्मात् कालाद् अर्वाग् वा संवत्सराद् यानाशनासनमाग्रेणेति सामर्थ्याद् इदं वचनीयम् । अथ वास्यान्यो ऽर्थः स्मृत्यन्तराद् उच्यते । व्यवहितकल्पनया **संवत्सरेण पतति यानाशनासनात्** । **न तु याजनाध्यापनाद् यौनात्**, किं तर्हि एभिर् याजनादिभिः सद्यः पतति । स्मृत्यन्तरदर्शनात् । संपर्कसादृश्येन च पतनं कल्पयितव्यम् । तदीयं च तस्य प्रायश्चित्तम् । तथा च दर्शयति ॥ ११.१७८–१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	He who associates with an outcast, himself becomes an outcast after a year, not by sacrificing for him, teaching him, or forming a matrimonial alliance with him, but by using the same carriage or seat, or by eating with him.
 </details>

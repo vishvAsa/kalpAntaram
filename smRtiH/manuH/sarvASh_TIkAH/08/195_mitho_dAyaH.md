@@ -3,6 +3,11 @@ title = "195 मिथो दायः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+195	But if anything is delivered or received privately, it must be privately returned; as the bailment (was, so should be) the re-delivery.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a trust has been created privately and accepted also privately, then it should be restored also secretly: as the delivery so the restoration.—(195)
@@ -65,9 +70,4 @@ Do. (12-14).—‘When a dispute arises with regard to a deposit privately made,
 <details><summary>भारुचिः</summary>
 
 उपनिध्यर्थो ऽयं पुनरारम्भः । "यो यथा निक्षिपे[द् धस्ते" इति] पूर्वश्लोके निक्षेपप्रकरणोक्तं तदर्थ एव । अयं पुनर् उपनिध्यर्थत्वात् पुनरुक्तस् तेनैव विज्ञेयः । सामान्यविशेषप्रकॢप्त्या वानयोः स्लोकयोर् अपुनरुक्तता वर्णयितव्या ॥ ८.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-195	But if anything is delivered or received privately, it must be privately returned; as the bailment (was, so should be) the re-delivery.
 </details>

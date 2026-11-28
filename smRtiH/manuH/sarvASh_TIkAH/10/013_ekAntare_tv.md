@@ -3,6 +3,11 @@ title = "013 एकान्तरे त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	As an Ambashtha and an Ugra, (begotten) in the direct order on (women) one degree lower (than their husbands) are declared (to be), even so are a Kshattri and a Vaidehaka, though they were born in the inverse order of the castes (from mothers one degree higher than the fathers).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the ‘Ambaṣṭha’ and the ‘ugra’ are born in the ‘natural order’ from a woman two degrees removed,—even so have been declared to be the ‘Kṣattṛ’ and the ‘Vaideha,’ though born in the ‘inverse order.’—(13)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 एकान्तराव् अनुलोमाव् अम्बष्ठोग्रौ यथा संस्पर्शनादौ व्यवहारे अवर्जीयौ, एवं प्रतिलोमाव् अपि गन्तौ क्षत्तृवैदेहकौ तद्वद् विज्ञेयौ । सूतमागधायोगवानां तु **प्रातिलोम्ये** ऽनन्तरत्वाद् दण्डापूइकया सिद्धः क्षत्तृवैदेहकाभ्याम् उत्कर्ष इति । एवं च चण्डालप्रयुदासो ऽत्र विवक्षितः । तथा चोक्तम् एव "दिवाकीर्त्[इम् उदक्य्]आं च" इत्येवमादिः ॥ १०.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	As an Ambashtha and an Ugra, (begotten) in the direct order on (women) one degree lower (than their husbands) are declared (to be), even so are a Kshattri and a Vaidehaka, though they were born in the inverse order of the castes (from mothers one degree higher than the fathers).
 </details>

@@ -3,6 +3,11 @@ title = "238 यद् दुस्तरम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+239	Whatever is hard to be traversed, whatever is hard to be attained, whatever is hard to be reached, whatever is hard to be performed, all (this) may be accomplished by austerities; for austerity (possesses a power) which it is difficult to surpass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is hard to traverse, what is hard to attain, what is hard to reach, and what is hard to do,—all this is accomplished by Austerity; as Austerity is irrepressible.—(238)
@@ -91,9 +96,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 ग्रहनक्षत्रवैषम्यनिमित्ता आपद् **दुस्तरा** । **दुरापं** चान्तर्धानावेशाकाशगमनाद्यैश्वर्यजीवितैव । **दुर्गं** च यद् दुरार्छं (?) स्वर्गादि । **यच् च दुष्करं** कृत्स्नसमुद्रपानमृतसंजीवनाद्य् अगस्त्यजमदग्निप्रभृतीनां तत् सर्वं तपसा शक्यम् इति । सेयम् उक्तस्य सामर्थ्येन प्रायश्चित्ततपःस्तुतिर् एव प्रकरणसामर्थ्याद् विज्ञेया । येन ॥ ११.२३५–२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-239	Whatever is hard to be traversed, whatever is hard to be attained, whatever is hard to be reached, whatever is hard to be performed, all (this) may be accomplished by austerities; for austerity (possesses a power) which it is difficult to surpass.
 </details>

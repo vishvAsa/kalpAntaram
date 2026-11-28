@@ -2,6 +2,11 @@
 title = "079 स सन्धार्यः"
 +++
 
+<details><summary>Bühler</summary>
+
+079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That state, which cannot be maintained by men with weak organs, should be kept up with care by one desiring imperishable heaven and also undying happiness in this world.—(79)
@@ -64,11 +69,6 @@ Buhler and Burnell).
 <details><summary>गोविन्दराजः</summary>
 
 यत् एवम् अतः **स सन्धार्यो **गृहस्थेनेति । **स** गृहस्थाश्रमः स्वर्गसम्बन्धम् अनन्तम् इहलोके सुरतसम्भोगस्वाद्वन्नातिसुखम् अन्तम् **इच्छता **प्रयत्नेनानुष्ठेयो ऽसंयतेन्द्रियैः धारयितुं न शक्य इति गृहस्थाश्रमफलकथनम् ॥ ३.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).
 </details>
 
 <details><summary>भारुचिः</summary>

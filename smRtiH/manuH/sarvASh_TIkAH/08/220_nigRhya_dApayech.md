@@ -3,6 +3,11 @@ title = "220 निगृह्य दापयेच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+220	And having imprisoned such a breaker of an agreement, he shall compel him to pay six nishkas, (each of) four suvarnas, and one satamana of silver.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having caught such a breaker of compact, he shall make him pay six ‘niṣkas’ of four ‘suvarṇas’ each, and also one silver ‘śatamāna.’—(220)
@@ -88,9 +93,4 @@ See Comparative notes for [Verse 8.219].
 <details><summary>भारुचिः</summary>
 
 **चतुः सुवर्णादि** च दण्डं च दाप्यः, ततो निर्वास्यः । "निगृह्य दापयेद् वैनम्" इत्य् अपरो दण्डविकल्पपाठः । एवं च सति निर्वासनं दण्डो वा ॥ ८.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	And having imprisoned such a breaker of an agreement, he shall compel him to pay six nishkas, (each of) four suvarnas, and one satamana of silver.
 </details>

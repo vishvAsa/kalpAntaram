@@ -2,6 +2,11 @@
 title = "014 उद्बबर्हात्मनश् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+014	From himself (atmanah) he also drew forth the mind, which is both real and unreal, likewise from the mind egoism, which possesses the function of self-consciousness (and is) lordly;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of himself he brought forth the mind, which partakes of the nature of the existent and non-existent; and before the mind, he brought up the all-powerful principle of egoism, whose function consists in self-consciousness.—(14)
@@ -54,11 +59,6 @@ The creation of the Elemental Principles is now described. What forms the consti
 > खं वायुर् ज्योतिर् आपः पृथिवी विश्वस्य धारिणी ॥
 
 इत्येवमादिना उपनिषत्सु परिकल्पितभेदावस्थानाद् आत्मनः इदं सर्वं कल्पितरूपं जायत इत्य् उक्तम् । स ब्रह्मा उद्धृतवान् आत्मन एव शरीरात् मनः नित्यानुमेयत्वाद् असदात्मकम् इव युगपज् ज्ञानानुत्पत्तिलिङ्गेन तत्सत्तावगतेः **सदसदातमकं मनः** पूर्वम् अहङ्काराख्यं तत्त्वं **अभिमन्तारम्** अहम् इति अभिमानाख्यं तत्कार्ययुक्तं स्वकार्यकरणसमर्थम् उद्धतवान् ॥ १.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	From himself (atmanah) he also drew forth the mind, which is both real and unreal, likewise from the mind egoism, which possesses the function of self-consciousness (and is) lordly;
 </details>
 
 <details><summary>भारुचिः</summary>

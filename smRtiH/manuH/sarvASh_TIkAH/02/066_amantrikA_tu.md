@@ -2,6 +2,11 @@
 title = "066 अमन्त्रिका तु"
 +++
 
+<details><summary>Bühler</summary>
+
+066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For females, this whole series should be performed at the right time and in the proper order, for the purpose of sanctifying the body; but without the Vedic formulas—(66)
@@ -84,11 +89,6 @@ Jātakarma and ending with Tonsure are to be done for women, without mantras; bu
 <details><summary>गोविन्दराजः</summary>
 
 “प्राङ्नाभिवर्धनात् पुंसः” इति पुङ्ग्रहणस्य स्त्र्यर्थत्वे प्रमाणाभावात् स्त्रीणाम् अप्राप्त इत्य् अत आह **अमन्त्रिकेति ।** एषा सकलसंस्कारपद्धतिः कालक्रमानतिक्रमेण **स्त्रीणां संस्कारार्थं **मन्त्रवर्जिता **कार्या **॥ २.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.
 </details>
 
 <details><summary>भारुचिः</summary>

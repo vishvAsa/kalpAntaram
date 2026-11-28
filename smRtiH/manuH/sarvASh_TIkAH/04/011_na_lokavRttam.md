@@ -2,6 +2,11 @@
 title = "011 न लोकवृत्तम्"
 +++
 
+<details><summary>Bühler</summary>
+
+011	Let him never, for the sake of subsistence, follow the ways of the world; let him live the pure, straightforward, honest life of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never follow the worldly way, for the sake of subsistence; he shall live the straightforward, sincere and pure life of the Brāhmaṇa.—(11)
@@ -68,11 +73,6 @@ life, in due accordance with his age, intelligence, wealth, dress, learning and 
 <details><summary>गोविन्दराजः</summary>
 
 **न लोकवृत्तं वर्तेतेति **। जीविकार्थं च विचित्रपरिहासादि न कदाचिद् अपि कुर्यात् । अपि तु स्वनोदितत्वेन अपापां श्रद्धावतीं दम्भादिव्याजशून्यां ब्राह्मणवृत्तिम् अनुतिष्ठेत् ॥ ४.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	Let him never, for the sake of subsistence, follow the ways of the world; let him live the pure, straightforward, honest life of a Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

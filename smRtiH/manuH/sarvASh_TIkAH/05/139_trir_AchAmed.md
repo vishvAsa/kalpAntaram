@@ -2,6 +2,11 @@
 title = "139 त्रिर् आचामेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+139	Let him who desires bodily purity first sip water three times, and then twice wipe his mouth; but a woman and a Sudra (shall perform each act) once (only).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desiring bodily purification, one should sip water thrice; then he should twice wipe his mouth; but the woman and the śūdra should each do it once only.—(137).
@@ -68,11 +73,6 @@ wipe his mouth; he shall never wipe it either with the finger-tips or with the b
 <details><summary>गोविन्दराजः</summary>
 
 तथा चाह **त्रिर्** इति । शरीरशुद्धिम् इच्छन् त्रीन् वारान् प्रथमम् अप आचामेत् ततो द्वौ वारौ ओष्ठदेशे मुखं परिमृज्यात् । स्त्रीशूद्रं पुनर् एकवारं आचमनार्थम् अपो भक्षयेत् ॥ ५.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	Let him who desires bodily purity first sip water three times, and then twice wipe his mouth; but a woman and a Sudra (shall perform each act) once (only).
 </details>
 
 <details><summary>भारुचिः</summary>

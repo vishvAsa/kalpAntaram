@@ -3,6 +3,11 @@ title = "300 आरभेतैव कर्माणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+300	(Though he be) ever so much tired (by repeated failures), let him begin his operations again and again; for fortune greatly favours the man who (strenuously) exerts himself in his undertakings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Tired and tired, over again he should begin his operations; for fortune favours the man who undertakes operations.—(300)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.298].
 <details><summary>भारुचिः</summary>
 
 एवं च श्रमाद् अलसत्वाद् न कर्मारम्भान् निवर्तितव्यम् । मा माइवं गृह्णीयाद् युगानुरूपम् मया वर्तितव्यम् इति, यस्मात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-300	(Though he be) ever so much tired (by repeated failures), let him begin his operations again and again; for fortune greatly favours the man who (strenuously) exerts himself in his undertakings.
 </details>

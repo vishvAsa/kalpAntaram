@@ -3,6 +3,11 @@ title = "017 एक एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	The only friend who follows men even after death is justice; for everything else is lost at the same time when the body (perishes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Morality (Justice) is the only friend who follows one even after death; everything else perishes along with the body.—(17)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 8.16].
 <details><summary>भारुचिः</summary>
 
 यतः सुहृन्मित्राद्य् अपेक्षयापि न धर्मो मोक्तव्यः । अन्यथा हि तदुपेक्षया न केवलम् अपराधिनः प्रत्यवायो ऽन्यथादर्शने, किं तर्हि —
-</details>
-
-<details><summary>Bühler</summary>
-
-017	The only friend who follows men even after death is justice; for everything else is lost at the same time when the body (perishes).
 </details>

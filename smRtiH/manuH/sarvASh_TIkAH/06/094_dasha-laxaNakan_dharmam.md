@@ -3,6 +3,11 @@ title = "094 दश-लक्षणकन् धर्मम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	A twice-born man who, with collected mind, follows the tenfold law and has paid his (three) debts, may, after learning the Vedanta according to the prescribed rule, become an ascetic.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, performing, with collected mind, the ten-fold Duty, and having duly learnt the Vedānta texts, and become free from debts, should take to Renunciation.—(94).
@@ -58,9 +63,4 @@ This verse is quoted in *Aparārka* (p. 973);—and in *Yatidharmasaṅgraha* (p
 <details><summary>भारुचिः</summary>
 
 प्रकरणाच् च वेदन्यासिकस्योच्यते । अन्ये तु प्रव्रजिष्यतो ऽप्य् आहुः । एवं च सति परित्यक्तसर्वबाह्यव्यापारः ॥ ६.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	A twice-born man who, with collected mind, follows the tenfold law and has paid his (three) debts, may, after learning the Vedanta according to the prescribed rule, become an ascetic.
 </details>

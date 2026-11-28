@@ -3,6 +3,11 @@ title = "096 अमेध्ये वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	A Brahmana, stupefied by drunkenness, might fall on something impure, or (improperly) pronounce Vedic (texts), or commit some other act which ought not to be committed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa, stupefied by drunkenness, might tumble down upon unclean things; or he might wrongly recite the Veda; or he might do some other improper act.—(96)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 11.94].
 <details><summary>भारुचिः</summary>
 
 अर्थवादो ऽयम्, न हेतुः । हेतुत्वे हि स्वल्पिका पीयेत, यावती पीता मदं न जनयति । अमेध्ये पतनादौ चाकार्ये न प्रवर्तयति । अथ वा सप्रत्यनीका मांसभक्षणेन सह पीयमानामेध्यपतनादिदोषं मदभावं न जनयतीति कृत्वा तथा पीयेत ॥ ११.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	A Brahmana, stupefied by drunkenness, might fall on something impure, or (improperly) pronounce Vedic (texts), or commit some other act which ought not to be committed.
 </details>

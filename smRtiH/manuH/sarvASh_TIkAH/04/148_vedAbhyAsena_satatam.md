@@ -3,6 +3,11 @@ title = "148 वेदाभ्यासेन सततम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the constant recitation of the Veda, by purification, by austerity, and by doing no harm to living beings, he remembers his previous birth.—(148)
@@ -39,9 +44,4 @@ This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained 
 <details><summary>गोविन्दराजः</summary>
 
 उक्तस्यापि वेदाभ्यासस्य यद् अर्थं पुनर् अभिधानं तद् आह **वेदाभ्यासेनेति** । नित्यं वेदाभ्यासशौचतपोऽहिंसाभिः** **पूर्वभवस्य जन्म **स्मरति** ॥ ४.१४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.
 </details>

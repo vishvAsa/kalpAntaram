@@ -3,6 +3,11 @@ title = "087 वैदिके कर्मयोगे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	For in the performance of the acts prescribed by the Veda all those (others) are fully comprised, (each) in its turn in the several rules for the rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All these are fully included, each in its turn, in a particular course of performance of the Vedic Act.—(87)
@@ -125,9 +130,4 @@ The term ‘*Kriyāvidhi*,’ ‘*performance*,’ may be taken as standing for 
 <details><summary>भारुचिः</summary>
 
 वेदाभ्यासस् तावत् कर्मविधाव् अङ्गीभवति शस्त्रस्तोत्रग्रहयाजनादौ । तपश् चोपसद्व्रतादि कर्माङ्गम् । ज्ञानम् उक्तं क्षेत्रज्ञविज्ञानादि । इन्द्रियसंयमः, "न मांसम् अश्नीयान् न मिथुनम् उपेयात्" इत्य् एवमादि । **अहिंसा**- "तस्माद् एतां रात्रिं प्राणभृतः प्राणं न विच्छिन्द्यात्" इत्य् एवमादि । **गुरुसेवा** ऋत्विगनुवृत्तिः । तच् चैतद् वैदिकं कर्म ॥ १२.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	For in the performance of the acts prescribed by the Veda all those (others) are fully comprised, (each) in its turn in the several rules for the rites.
 </details>

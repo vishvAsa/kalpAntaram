@@ -3,6 +3,11 @@ title = "280 पाणिम् उद्यम्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+280	He who raises his hand or a stick, shall have his hand cut off; he who in anger kicks with his foot, shall have his foot cut off.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he raises his hand or a stick, he should have his hand cut off; if he strikes in anger with the foot, his foot shall be cut off.—(280)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.279].
 <details><summary>गोविन्दराजः</summary>
 
 **पाणिम् उद्यम्येति **। हस्तं दण्डं वावगूर्य हस्तच्छेदनयोग्यो भवति । पादेन क्रोधेन प्रहरन् पादच्छेदनार्हो भवति ॥ ८.२८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-280	He who raises his hand or a stick, shall have his hand cut off; he who in anger kicks with his foot, shall have his foot cut off.
 </details>

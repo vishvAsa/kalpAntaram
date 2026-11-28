@@ -2,6 +2,11 @@
 title = "111 यदि त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Kṣatriya should happen to come to one’s house in the character of a guest, one may feed him also, after the Brāhmaṇas have eaten.—(111)
@@ -45,11 +50,6 @@ See Comparative notes for [Verse 3.110].
 <details><summary>गोविन्दराजः</summary>
 
 **यदीति** । क्षीणपाथेयो ग्रामान्तरवासित्वात् अतिथिधर्मेण **यदि क्षत्रियो** विप्रगृहे आगच्छेत् तदा गृहावस्थित**विप्रेषु** कृतभोजनेषु **तम् अपि** **भोजयेत् **॥ ३.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
 </details>
 
 <details><summary>भारुचिः</summary>

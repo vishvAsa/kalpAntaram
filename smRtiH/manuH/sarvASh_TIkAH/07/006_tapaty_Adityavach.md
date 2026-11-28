@@ -3,6 +3,11 @@ title = "006 तपत्य् आदित्यवच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+006	And, like the sun, he burns eyes and hearts; nor can anybody on earth even gaze on him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Like the sun, he burns the eyes and minds (of man); no one on the earth can even gaze at him.—(6)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 <details><summary>भारुचिः</summary>
 
 महाराजलिङ्गेन चामरच्छत्रभृङ्गादिना युक्तो दीप्तिमत्त्वाच् **चक्षूंष्य् आदित्यवत् तापयति**, **मनांसि** दण्डपातनाद् । यस्माद् अतो **न कश्चिद् एनं शक्नोत्य् अभिवीक्षितुम्** अपि, किं पुनर् अपकर्तुम् । पूर्ववद् अयम् अपि स्तुत्यै ॥ ७.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	And, like the sun, he burns eyes and hearts; nor can anybody on earth even gaze on him.
 </details>

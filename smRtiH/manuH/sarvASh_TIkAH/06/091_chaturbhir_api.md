@@ -3,6 +3,11 @@ title = "091 चतुर्भिर् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	By twice-born men belonging to (any of) these four orders, the tenfold law must be ever carefully obeyed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By twice-born men belonging to all these four orders this ten-fold duty shall always be assiduously observed.—(91)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 6.87].
 <details><summary>भारुचिः</summary>
 
 तत्र तत्र शास्त्रे विक्षेपेणोक्तानां वृत्त्यादीनां समाहृत्येहोपदेशः पुनर् असंमोहार्थः, अथ वा साधारणत्वप्रदर्शनार्थः, विशेषणार्थो वा ॥ ६.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	By twice-born men belonging to (any of) these four orders, the tenfold law must be ever carefully obeyed.
 </details>

@@ -2,6 +2,11 @@
 title = "184 गुरोः कुले"
 +++
 
+<details><summary>Bühler</summary>
+
+184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not beg for food from his Teacher’s family; nor from the family of his paternal or maternal relations. But when other houses are not available, he should avoid the preceding in preference to the succeeding.—(184)
@@ -62,11 +67,6 @@ into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*�
 <details><summary>गोविन्दराजः</summary>
 
 **गुरोर्** इति । गुरुगृहे **न भिक्षेत **। तथा आत्मनः पितृमातृगृहेषु । यदि पुनर् एतद्व्यतिरिक्तगृहेभ्यो न लभ्यते **पूर्वं पूर्वं **परिहरेत् । प्रथमं बन्धुगृहे भिक्षेत । तदलाभे गुरुगृहे ॥ २.१८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;
 </details>
 
 <details><summary>भारुचिः</summary>

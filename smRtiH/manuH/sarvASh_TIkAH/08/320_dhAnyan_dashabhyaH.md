@@ -3,6 +3,11 @@ title = "320 धान्यन् दशभ्यः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+320	On him who steals more than ten kumbhas of grain corporal punishment (shall be inflicted); in other cases he shall be fined eleven times as much, and shall pay to the (owner the value of his) property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There shall be ‘immolation’ for one who steals more than ten jars of grain; in other cases he should he made to pay eleven times as much, as also make good the property to the owner.—(320)
@@ -70,9 +75,4 @@ on him who steals more than 10 *kumbhas* of grain; when the quantity is less, he
 <details><summary>भारुचिः</summary>
 
 ताडने ऽपि वधः प्रयुज्यते । इह तु यदि ब्राह्मणादिषु प्रस्परे च धान्यापहरणे इदम्; हीनवर्णश् च स्याद् अयम् अपहर्ता, ततो [दोष]महत्त्वात् तस्य न नैर्गुण्याद् विधिर् मारणे द्रष्टव्यः । अन्यत्र तु कल्पना स्वयम् एवोह्या । दशानां चार्वाग् **एकादशगुणो** दण्डो, न **वधः** ॥ ८.३१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-320	On him who steals more than ten kumbhas of grain corporal punishment (shall be inflicted); in other cases he shall be fined eleven times as much, and shall pay to the (owner the value of his) property.
 </details>

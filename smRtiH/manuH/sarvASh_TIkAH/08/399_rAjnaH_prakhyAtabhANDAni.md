@@ -3,6 +3,11 @@ title = "399 राज्ञः प्रख्यातभाण्डानि
 
 +++
 
+<details><summary>Bühler</summary>
+
+399	Let the king confiscate the whole property of (a trader) who out of greed exports goods of which the king has a monopoly or (the export of which is) forbidden.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those commodities that have been proclaimed as the ‘king’s monopoly,’ and those that are forbidden,—if any one, through greed, exports these, the king shall confiscate all his property.—(399)
@@ -68,9 +73,4 @@ commodity, one shall have his limbs cut off.’
 <details><summary>भारुचिः</summary>
 
 यद् यत्र प्रचुरं यत्र च दुर्लभं तत् तस्य राज्ञः **प्रख्यातं** भवति । तथोदीच्येष्व् आजानेया अश्वाः, कुंकुमं काश्मीरेषु, प्राच्येष्व् अगरुकर्पूरादि तदन्यत्र न निर्हार्यम् । अनिर्हृतं हि दुर्लभत्वात् । इतरेतरं राज्ञां कार्यप्रतिबन्धाद् उपायनं भवति । यस्य च धर्मार्थोपायनस्य धर्मजनकस्यार्थजनकस्य च क्रयविक्रयप्रतिषेधो राज्ञा कृतो भवति । यथा माक्षिकस्य मधुनः । तच् च न निर्हर्यम् । वणिग्भिर् निर्हरतो नृपः सर्वभागं हरेत् ॥ ८.३९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-399	Let the king confiscate the whole property of (a trader) who out of greed exports goods of which the king has a monopoly or (the export of which is) forbidden.
 </details>

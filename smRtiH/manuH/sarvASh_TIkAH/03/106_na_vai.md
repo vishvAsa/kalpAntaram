@@ -2,6 +2,11 @@
 title = "106 न वै"
 +++
 
+<details><summary>Bühler</summary>
+
+106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He himself should not eat what he does not offer to his guest. The honouring of guests is conducive to wealth, fame, longevity and heaven.—(106)
@@ -54,11 +59,6 @@ vegetables,—these he shall not eat if they have not been offered to the guest.
 <details><summary>गोविन्दराजः</summary>
 
 **नेति **। यद् अतिथये रोचते तत् तस्मा अदत्वा आत्मना नाश्नीयात् । अतिथिभोजनं च धनख्यात्या दुःस्वर्गनिमित्तम् इत्य् आतिथेयफलकथनं न त्व् अनित्यतापत्तिः “सर्वं सुकृतम् आदत्ते” इत्याद्युक्तत्वात् ॥ ३.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

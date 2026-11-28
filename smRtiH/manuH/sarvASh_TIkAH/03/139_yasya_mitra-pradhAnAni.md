@@ -2,6 +2,11 @@
 title = "139 यस्य मित्र-प्रधानानि"
 +++
 
+<details><summary>Bühler</summary>
+
+139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He at whose Śrāddhas and sacrifices, the friend forms the principal factor,—for him, after death, there is no reward, either for Śrāddhas or for sacrifices.—(139)
@@ -87,11 +92,6 @@ reach neither the gods nor the Pitṛs.’ *Mahābhārata* (Anuśāsana, 90.42-4
 <details><summary>गोविन्दराजः</summary>
 
 **यस्येति** । **यस्य मित्रो**पकारपराणि हव्यकव्यानि तस्य पारलौकिकं **फलं** न भवतीति फलाभावकथनपरम् एतत्, न केवलं पूर्वमित्रस्य श्राद्धादिना देयं यावत् ॥ ३.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
 </details>
 
 <details><summary>भारुचिः</summary>

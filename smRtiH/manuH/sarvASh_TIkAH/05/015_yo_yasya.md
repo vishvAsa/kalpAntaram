@@ -2,6 +2,11 @@
 title = "015 यो यस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+015	He who eats the flesh of any (animal) is called the eater of the flesh of that (particular creature), he who eats fish is an eater of every (kind of) flesh; let him therefore avoid fish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who eats the flesh of an animal, is called the ‘eater of its flesh’; he who eats fish is the ‘eater of all kinds of flesh’; hence one shall avoid fish.—(15).
@@ -107,11 +112,6 @@ slain for the fulfilment of the sacred law.’
 <details><summary>गोविन्दराजः</summary>
 
 अस्यार्थवादः **यो यस्य मांसम्** इति । **यो** यत्सम्बन्धि **मांसम् अश्नाति तन्मांसाद** एवं निन्दार्थम् उच्यते । नान्यमांसादपपलेशं लभते **मत्स्यादः **पुनः सर्वमांसभक्ष इति व्यपदेष्टुं युज्यते तान् **मत्स्यान् वर्जयेत् **॥ ५.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	He who eats the flesh of any (animal) is called the eater of the flesh of that (particular creature), he who eats fish is an eater of every (kind of) flesh; let him therefore avoid fish.
 </details>
 
 <details><summary>भारुचिः</summary>

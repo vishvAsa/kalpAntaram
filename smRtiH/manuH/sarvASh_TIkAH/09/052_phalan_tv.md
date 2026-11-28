@@ -3,6 +3,11 @@ title = "052 फलन् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+052	If no agreement with respect to the crop has been made between the owner of the field and the owner of the seed, the benefit clearly belongs to the owner of the field; the receptacle is more important than the seed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If between the owner of the soil and the owner of the seed, there has been no compact regarding the produce, then the chops belong clearly to the owner of the soil;—the receptacle being more important than the seed.—(52)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 एवं च सति **फलं त्व् अनभिसंधायेति** वचनात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-052	If no agreement with respect to the crop has been made between the owner of the field and the owner of the seed, the benefit clearly belongs to the owner of the field; the receptacle is more important than the seed.
 </details>

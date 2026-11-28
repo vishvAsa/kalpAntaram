@@ -3,6 +3,11 @@ title = "153 नाऽति-सांवत्सरीं वृद्धि�
 
 +++
 
+<details><summary>Bühler</summary>
+
+153	Let him not take interest beyond the year, nor such as is unapproved, nor compound interest, periodical interest, stipulated interest, and corporal interest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall not pay or receive an interest beyond the annual, or what is unapproved (or unaccumulated); nor compound interest, nor periodical interest, nor that which is (privately) stipulated, nor corporeal.—(153)
@@ -214,9 +219,4 @@ compound rate of interest; so the King should protect the people from them.’
 > **[चक्रवृद्धिः कालवृद्धिः कारिता कायिका च या]  ॥ ८.१५२ ॥**
 
 परस्परोपकारापेक्षया स्वयं कृता वृद्धिकल्पाभ्यनुज्ञायते चक्रवद् यानसंयुक्ता वृद्धिश् **चक्रवृद्धिः** । अथ वा चक्रवद् आवर्तते । प्रतिमासं या [वर्धते सा । कालवृद्धिः] काल्[आन्तरे ऽस्]यैतद् धनं वर्धते, न संप्रत्येव । एतच् च प्रीत्या कल्प्यते, स्वयम् अनुग्राह्यतया परस्य । अथ वा अस्मिन् काले अप्रयच्छतस् तथैव [वर्धते यथानिश्चितं] स्वयम् एव प्रयोक्त्रा गृहीत्रा च देशकालकार्यावस्थापेक्षया । इयं चाभिहितापवादकृतानुसाराद् अधिकेति । **कायिका** कायिककर्मसंशोध्या ॥ ८.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	Let him not take interest beyond the year, nor such as is unapproved, nor compound interest, periodical interest, stipulated interest, and corporal interest.
 </details>

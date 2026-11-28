@@ -3,6 +3,11 @@ title = "156 क्रव्याद-सूकरोष्ट्राणाङ
 
 +++
 
+<details><summary>Bühler</summary>
+
+157	The atonement for partaking of (the meat of) carnivorous animals, of pigs, of camels, of cocks, of crows, of donkeys, and of human flesh, is a Tapta Krikkhra (penance).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For eating the meat of carnivorous animals, of pigs, of camels, of cocks, of crows, of asses, or of human flesh,—the atonement consists of the Tapta-Kṛcchra.—(156)
@@ -73,9 +78,4 @@ eaten garlic or onions, or other things having the same flavour, or the meat of 
 <details><summary>भारुचिः</summary>
 
 **क्रव्यादा** गृध्रादयः, **सूकरो** विड्वराहः, **खरा**दिसाहचर्याद् गम्यते । एवं कुक्क्टो ग्रामकुक्कुटो विज्ञेयः । तस्य प्रतिषेधात् पूर्वत्र, खरादिसाहचर्याद् वा । एवं च मांसभक्षणप्रतिषेधो विज्ञेयः । तत्र मूत्रपुरीषं प्रतिषिद्धम् विड्वराहश्लोके । येषाम् अपि क्रव्यादप्रभृतीनां तत्र मूत्रपुरीषम् अप्रतिषिद्धम्, तेषाम् अपीह खरादिसाहचर्यात् प्रतिषिद्धं तद् विज्ञेयम् ॥ ११.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	The atonement for partaking of (the meat of) carnivorous animals, of pigs, of camels, of cocks, of crows, of donkeys, and of human flesh, is a Tapta Krikkhra (penance).
 </details>

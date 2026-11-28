@@ -3,6 +3,11 @@ title = "140 यः सङ्गतानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who, through folly, makes friendships by means of Śrāddhas,—that meanest of twice-born men, having the Śrāddha for his friend, falls from the regions of heaven.—(140)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 3.139].
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । “श्राद्धदानेनानेन सह मैत्री मे भविष्यति” इति एवं यो मनुष्यः शास्त्रानभिज्ञतया **श्राद्धेन **मित्रभावं कुरुते स मित्रहेतुत्वात् श्राद्धं मित्रम् अस्येति **श्राद्धमित्रो** द्विजापसदः कर्मान्तरार्जितेनापि स्वर्लोके न सम्बध्यत इति ॥ ३.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.
 </details>

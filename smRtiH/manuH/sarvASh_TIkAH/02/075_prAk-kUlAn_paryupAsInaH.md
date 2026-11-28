@@ -2,6 +2,11 @@
 title = "075 प्राक्-कूलान् पर्युपासीनः"
 +++
 
+<details><summary>Bühler</summary>
+
+075	Seated on (blades of Kusa grass) with their points to the east, purified by Pavitras (blades of Kusa grass), and sanctified by three suppressions of the breath (Pranayama), he is worthy (to pronounce) the syllable Om.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Seated upon Kuśa-blades pointing eastwards and sanctified by Kuśa-blades, when one has purified himself by means of three ‘breath-suspensions,’—then alone he becomes entitled to the syllable ‘oṃ.’—(76)
@@ -101,11 +106,6 @@ pointing eastwards, with mind collected, he should perform throe Breath-suspensi
 <details><summary>गोविन्दराजः</summary>
 
 **प्राक्कूलान्** इति । “प्राणोपस्पर्शनं दर्भैः प्राक्कूलेष्व् आसनं च” इति गौतमस्मरणात् प्रागग्रेषु च दर्भेष्व् आसीनः, अत एव च **पवित्रैर् **दर्भैर् एव प्राणस्थानाद् हृदयस्पृष्टैः पवित्रीकृतः प्राणायामैश् च श्वासनिरोधरूपैः “त्रिभिः प्राणायामः त्रिपञ्चदशमात्रा” इति गौतमोक्तप्राणायामैः पवित्रीकृतः ततः ओङ्कारं पूर्वोक्तं कर्तुं योग्यो भवति ॥ २.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Seated on (blades of Kusa grass) with their points to the east, purified by Pavitras (blades of Kusa grass), and sanctified by three suppressions of the breath (Pranayama), he is worthy (to pronounce) the syllable Om.
 </details>
 
 <details><summary>भारुचिः</summary>

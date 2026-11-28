@@ -3,6 +3,11 @@ title = "043 अनग्निर् अनिकेतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+043	He shall neither possess a fire, nor a dwelling, he may go to a village for his food, (he shall be) indifferent to everything, firm of purpose, meditating (and) concentrating his mind on Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be without fires and without home; he may go to a village for food;—disinterested, steady, silent and calmly-disposed.—(43).
@@ -73,9 +78,4 @@ the village only for collecting alms.’
 <details><summary>भारुचिः</summary>
 
 **अनग्निः स्यात्** । सो ऽयम् अग्नीन्धनतत्संपरिग्रहप्रतिषेधः । **अनिकेतश्** च **स्यात्** । ग्रामैकरात्रिकन्यायेन **ग्रामम् अन्नार्थम् आश्रयेत्** । अर्थाच् छेषं कालम् अरण्ये तिष्ठेत् । **उपेक्षकः** स्वशरीरादिषु । **असंचयिकः** अप्रतिषिद्धास्व् अपि कमण्डल्वादिमात्रासु । **मुनिर् भावसमाश्रितः** । चित्तसंयमोपदेशपरम् इदं ध्यानात्मानुष्ठानम् ॥ ६.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	He shall neither possess a fire, nor a dwelling, he may go to a village for his food, (he shall be) indifferent to everything, firm of purpose, meditating (and) concentrating his mind on Brahman.
 </details>

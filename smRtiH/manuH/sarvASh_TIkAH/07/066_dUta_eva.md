@@ -3,6 +3,11 @@ title = "066 दूत एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	For the ambassador alone makes (kings') allies and separates allies; the ambassador transacts that business by which (kings) are disunited or not.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For it is the Ambassador alone who brings together allies and also alienates them; the Ambassador transacts that business by which people become disunited—(66)
@@ -45,9 +50,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 188).
 <details><summary>भारुचिः</summary>
 
 मन्त्रस्य हि भेदेन संवरणेन चेदम् उभयं करोतीत्य् उच्यत इति ॥ ७.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	For the ambassador alone makes (kings') allies and separates allies; the ambassador transacts that business by which (kings) are disunited or not.
 </details>

@@ -2,6 +2,11 @@
 title = "080 एतयार्चा विसंयुक्तः"
 +++
 
+<details><summary>Bühler</summary>
+
+080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Bereft of this verse, and of the timely performance of his own duty, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth incurs the odium of good men.—(80)
@@ -69,11 +74,6 @@ Morning-prayer before the advent of Dawn, nor the Evening-prayer before the laps
 <details><summary>गोविन्दराजः</summary>
 
 **एतयेति **। **एतया ऋचा **सावित्र्या वियुक्तः वेदाध्ययनाभावात् उपनयनकाले चात्मीययोपनयनाख्यक्रियया वियुक्तः **ब्राह्मनक्षत्रियवैश्य**जातीयः निन्द्यतां शिष्टविषये प्राप्नोतीत्य् अनुष्ठाननिन्दाद्वारेण विधित्रयोपनयन्योः स्तुतिः ॥ २.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
 </details>
 
 <details><summary>भारुचिः</summary>

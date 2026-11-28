@@ -3,6 +3,11 @@ title = "030 यथैव शूद्रो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	Just as a Sudra begets on a Brahmana female a being excluded (from the Aryan community), even so (a person himself) excluded pro creates with (females of) the four castes (varna, sons) more (worthy of being) excluded (than he himself).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the Śūdra begets an ‘alien’ being on a Brāhmaṇa woman,—even so an alien propagates on females of the four castes, a still more alien being.—(30)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 तद् इदानीम् उच्यते-
-</details>
-
-<details><summary>Bühler</summary>
-
-030	Just as a Sudra begets on a Brahmana female a being excluded (from the Aryan community), even so (a person himself) excluded pro creates with (females of) the four castes (varna, sons) more (worthy of being) excluded (than he himself).
 </details>

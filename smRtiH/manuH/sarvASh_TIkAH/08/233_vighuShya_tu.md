@@ -3,6 +3,11 @@ title = "233 विघुष्य तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+233	But for (an animal) stolen by thieves, though he raised an alarm, the herdsman shall not pay, provided he gives notice to his master at the proper place and time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the keeper shall not have to make good what has been taken away by thieves openly,—if he informs his own master of it at the proper place and time.—(233)
@@ -69,9 +74,4 @@ away, when the cowherd has been captured, or during an attack on the village, or
 <details><summary>भारुचिः</summary>
 
 हरण**देशे** हरण**काले** च विघुष्य अनन्तरं **स्वामिन** आख्याते **पालो** न दद्यात् । स्वयं मृत्युनापि च मृतेषु प्रयत्नवतो गोपस्य स इदं कुर्यात् ॥ ८.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	But for (an animal) stolen by thieves, though he raised an alarm, the herdsman shall not pay, provided he gives notice to his master at the proper place and time.
 </details>

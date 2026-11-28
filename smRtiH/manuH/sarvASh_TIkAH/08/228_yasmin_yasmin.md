@@ -3,6 +3,11 @@ title = "228 यस्मिन् यस्मिन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+228	If anybody in this (world) repent of any completed transaction, (the king) shall keep him on the road of rectitude in accordance with the rules given above.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whenever any person should have repentance in regard to any compact that has been entered into—the king shall bring him to the righteous path, in the manner just described.—(228)
@@ -81,9 +86,4 @@ This verse is quoted in *Vivādaratnākara* (p. 191), which adds the following n
 <details><summary>भारुचिः</summary>
 
 आधिवेतनसमयाद्यनुशयेषु दशाह एव निष्ठा स्यात् ॥ ८.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-228	If anybody in this (world) repent of any completed transaction, (the king) shall keep him on the road of rectitude in accordance with the rules given above.
 </details>

@@ -3,6 +3,11 @@ title = "310 अधार्मिकन् त्रिभिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+310	Let him carefully restrain the wicked by three methods,- by imprisonment by putting them in fetters, and by various (kinds of) corporal punishments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall carefully suppress the unrighteous by three modes (of restraint)—by imprisonment, by enchaining and by various forms of ‘immolation.’—(310)
@@ -73,9 +78,4 @@ the four gradations of fines; he shall inflict gentle admonition when the offenc
 <details><summary>भारुचिः</summary>
 
 ताडनादिना यथापराधम् । यो यथापराध्यति, तं तथापराधानुरूपेण दण्डेन योजयेद् अरागद्वेषो धर्मतुलाम् आश्रित्य । कस्य पुनर् हेतोः । येन — ॥ ८.३०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-310	Let him carefully restrain the wicked by three methods,- by imprisonment by putting them in fetters, and by various (kinds of) corporal punishments.
 </details>

@@ -3,6 +3,11 @@ title = "322 पञ्चाशतस् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+322	For (stealing) more than fifty (palas) it is enacted that the hands (of the offender) shall be cut off; but in other cases, let him inflict a fine of eleven times the value.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of more than fifty, the cutting off of the hands is prescribed. In other cases, the king shall inflict a fine of eleven times the value.—(322)
@@ -53,9 +58,4 @@ Do. (Vivādaratnākara, p. 323).—‘For the stealing of things sold by weight,
 <details><summary>भारुचिः</summary>
 
 अधिके पञ्चाशतो हस्तच्छेदः । ऊने ऽप्य् एकादशगुणो दण्डः ॥ ८.३२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-322	For (stealing) more than fifty (palas) it is enacted that the hands (of the offender) shall be cut off; but in other cases, let him inflict a fine of eleven times the value.
 </details>

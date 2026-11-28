@@ -3,6 +3,11 @@ title = "201 विक्रयाद् यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+201	He who obtains a chattel in the market before a number (of witnesses), acquires that chattel with a clear legal title by purchase.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man obtains a property from the market, in the presence of witnesses, he acquires that property with a clear title obtained by legal purchase.—(201)
@@ -74,9 +79,4 @@ clandestine sale is viewed in the same light as theft, according to law. The pur
 <details><summary>भारुचिः</summary>
 
 न्यायतस् तु क्रयः कुलसंनिधाव् उचितेन मूल्येन संभाव्याच् च पुरुषात् । एतच् च तस्यानभियोगं धनलाभश् च युक्तः । एवं बुद्धिपूर्वव्यवहारयिताय न्यायकारिणः ॥ ८.२०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	He who obtains a chattel in the market before a number (of witnesses), acquires that chattel with a clear legal title by purchase.
 </details>

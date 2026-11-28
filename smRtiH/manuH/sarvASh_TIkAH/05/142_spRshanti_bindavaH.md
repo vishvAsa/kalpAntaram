@@ -2,6 +2,11 @@
 title = "142 स्पृशन्ति बिन्दवः"
 +++
 
+<details><summary>Bühler</summary>
+
+142	Drops which trickle on the feet of him who offers water for sipping to others, must be considered as equal to (water collected on the ground; they render him not impure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The drops that touch the feet of one who is helping others to wash should be regarded as on the same footing as those on the ground; and he is not rendered impure by them.—(140)
@@ -66,11 +71,6 @@ others for sipping, are considered to be equal to waters springing from the eart
 <details><summary>गोविन्दराजः</summary>
 
 **स्पृशन्तीति ।** **भौमिकैस् ते समा ज्ञेया न तैर् अप्रयतो भवेत् **। अन्येषाम् आचमनं ददतो ये बिन्दवः पादाव् एव स्पृशन्ति न जङ्घादि ते त्व् अपहतभूम्यवस्थैः शुद्धैर् उदकबिन्दुभिः तुल्या ज्ञेयास् ततस् तैर् नाचमनार्हो भवति ॥ ५.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	Drops which trickle on the feet of him who offers water for sipping to others, must be considered as equal to (water collected on the ground; they render him not impure.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "050 ब्रह्मा विश्वसृजो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+050	The sages declare Brahma, the creators of the universe, the law, the Great One, and the Undiscernible One (to constitute) the highest order of beings produced by Goodness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Brahmā, creators of the universe, Dharma, the Great One, Unmanifest,—these the wise ones describe as representing the best state partaking of ‘Sattva.’—(50)
@@ -116,9 +121,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 एकैकस्य गुणस्य त्रिविधा गतिर् नवभिः श्लोकैः कीर्तितः ॥ १२.४२–५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	The sages declare Brahma, the creators of the universe, the law, the Great One, and the Undiscernible One (to constitute) the highest order of beings produced by Goodness.
 </details>

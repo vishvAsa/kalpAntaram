@@ -3,6 +3,11 @@ title = "070 स्त्रियाप्य् असम्भावे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	On failure (of qualified witnesses, evidence) may given (in such cases) by a woman, by an infant, by an aged man, by a pupil, by a relative, by a slave, or by a hired servant.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of (proper witnesses) not forthcoming, evidence may be given by a woman, by a minor, by an aged person, by a pupil, by a relative, by a slave, or by a servant.—(70)
@@ -113,9 +118,4 @@ enunciated shall nevertheless be witnesses in suits of especially grave characte
 <details><summary>भारुचिः</summary>
 
 सादृश्यापवादार्थः एवं च सति यथा स्त्र्यादीनां सादृश्याभावे ऽप्य् असदृशा एव क्वचिद् भवन्ति, एवं बालादीनाम् अपि क्वचिद् विवादे साक्षित्वं विज्ञेयं प्रतिषिद्धानाम् अपि सताम् । उक्तेभ्यश् च बालादिभ्यो ऽत्र श्लोके ये ऽप्य् अनुक्ताः प्रतिषिद्धाश् च तेषाम् अपि प्रतिप्रसवो निर्देशनार्थत्वाद् बालानां विज्ञेयः । ननु च कारणतः प्रतिषिद्धानां बालादीनां साक्षित्वे पुनस् तेषाम् उपदेशो न न्याय्यः । प्रतिषेधकारणस्यावस्थितत्वाद् इति ॥ ८.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	On failure (of qualified witnesses, evidence) may given (in such cases) by a woman, by an infant, by an aged man, by a pupil, by a relative, by a slave, or by a hired servant.
 </details>

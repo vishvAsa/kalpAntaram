@@ -2,6 +2,11 @@
 title = "028 स्वाध्यायेन व्रतैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+028	By the study of the Veda, by vows, by burnt oblations, by (the recitation of) sacred texts, by the (acquisition of the) threefold sacred science, by offering (to the gods, Rishis, and manes), by (the procreation of) sons, by the great sacrifices, and by (Srauta) rites this (human) body is made fit for (union with) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This body is made godly,—by a thorough study of the three Vedas, by Observances, by libations, by offerings, by children, by the Great Sacrifices and by the Sacrifices. (28)
@@ -164,11 +169,6 @@ See Comparative notes for [Verse 2.27].
 
 _येषु कर्मसु माणवकस्य संस्कारा उपकारकास् तान् इदानीम् उदाहरणमात्रेण दर्शयति ।_
 **स्वाध्यायेनेति** । वेदाध्ययनेन **व्रतैः** सावित्र्यादिभिः **मोमैः **सायम्प्रातरग्निकार्यैः **त्रैविद्य्**आख्येन व्रतेन, प्राधान्यात् पृथगुपदिष्टेन । **इज्यया **ब्रह्मचर्यावस्थायां देवर्षिपितृतर्पणरूपया, पुत्रैः, **महायज्ञैः** वैश्वदेवादिभिः **यज्ञैः** अग्निष्टोमादिभिः ब्रह्मप्राप्तियोग्या **तनुः** तत्स्थ आत्मा **क्रियते** जानकर्मसमुच्चयान् मोक्षावाप्तेः ॥ २.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	By the study of the Veda, by vows, by burnt oblations, by (the recitation of) sacred texts, by the (acquisition of the) threefold sacred science, by offering (to the gods, Rishis, and manes), by (the procreation of) sons, by the great sacrifices, and by (Srauta) rites this (human) body is made fit for (union with) Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

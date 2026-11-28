@@ -3,6 +3,11 @@ title = "089 आरण्यांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	All beasts of the forest, animals with fangs or tusks, birds, spirituous liquor, indigo, lac, and all one-hoofed beasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All beasts of the forest, fanged animals, and birds, wine, indigo, lac, and also all one-hoofed animals.—(89)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 बहून् इत्य् अपरे पठन्ति । आरण्यपशुप्रतिषेधो नित्यार्थः । एवं च "पशवो ये च मानुषाः" इत्य् अत्र श्लोके ग्राम्यपशूनां विकल्पो विज्ञायते । अत्रापि चैकशफग्रहणाद् अस्वाश्वतरगर्दभानाम् अविकल्पः, खरानां च । ये तु पठन्ति "सर्वांश् चैकशफान् बहून्" इति, तेषां विशेषार्थः पुनरारम्भः । एकशफा बहवो ऽविक्रेयाः इति । एवं च सति ॥ १०.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	All beasts of the forest, animals with fangs or tusks, birds, spirituous liquor, indigo, lac, and all one-hoofed beasts.
 </details>

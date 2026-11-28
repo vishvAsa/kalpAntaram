@@ -3,6 +3,11 @@ title = "185 न भ्रातरो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+185	Not brothers, nor fathers, (but) sons take the paternal estate; but the father shall take the inheritance of (a son) who leaves no male issue, and his brothers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sons alone shall inherit the father’s property, not brothers or fathers; but the father and brothers shall inherit the property of one who dies sonless.—(185)
@@ -138,9 +143,4 @@ goes to his brother; failing him to his mother and father, or his eldest wife, o
 <details><summary>भारुचिः</summary>
 
 य एते औरसादयःपुत्राः प्रकृतास् त एव रिक्थहराः स्युः । क्षेत्रजादयो ऽप्य् औरसासंभवे । कुत एतत् । प्रकरणसामर्थ्यात् सत्य् अपि संनिकृष्टतरत्वे पितुर् भ्रातुश् च नैव रिक्थभाजः स्युः । **अपुत्रस्य पिता हरेत्**, तदभावे भ्रातरः । एवं चौरसस्य पितृधनप्राप्तौ सिद्धायां क्षेत्रजादिसुतप्राप्त्यर्थो ऽयम् आरम्भः । यथ्श् चेदम् आह ॥ ९.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	Not brothers, nor fathers, (but) sons take the paternal estate; but the father shall take the inheritance of (a son) who leaves no male issue, and his brothers.
 </details>

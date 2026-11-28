@@ -3,6 +3,11 @@ title = "353 तत्-समुत्थो हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+353	For by (adultery) is caused a mixture of the castes (varna) among men; thence (follows) sin, which cuts up even the roots and causes the destruction of everything.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For out of that arises the admixture of castes among people;—whence follows root-rending unrighteousness, tending to total destruction.—(353)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 8.352].
 <details><summary>भारुचिः</summary>
 
 परदारिकनिग्रहप्रशंसार्थः श्लोकः ॥ ८.३५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-353	For by (adultery) is caused a mixture of the castes (varna) among men; thence (follows) sin, which cuts up even the roots and causes the destruction of everything.
 </details>

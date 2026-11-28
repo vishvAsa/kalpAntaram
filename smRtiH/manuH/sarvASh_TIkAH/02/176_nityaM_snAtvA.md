@@ -2,6 +2,11 @@
 title = "176 नित्यं स्नात्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every day, having bathed and become clean, he should make offerings to deities, Sages and Fathers, and do the worshipping of the deities and the placing of fuel.—(176)
@@ -134,11 +139,6 @@ self under control, he shall avoid sleeping and sitting on the couch, and the cl
 <details><summary>गोविन्दराजः</summary>
 
 **नित्यम्** इति । प्रत्यहं **स्नात्वा शुचिः **देवानां महेश्वरादीनाम् अङ्गिरःप्रभृतीनाम् ऋषीणां च प्रमीतानां च पित्रादीनाम् उदकदानं कुर्यात् । तथा देवतानां हरादीनां पुष्पादिनार्चनं सायम्प्रातर् अग्नि**समिदाधानं** च **कुर्यात्** ॥ २.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).
 </details>
 
 <details><summary>भारुचिः</summary>

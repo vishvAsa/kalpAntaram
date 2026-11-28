@@ -3,6 +3,11 @@ title = "203 प्रमाणानि च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+203	Let him make authoritative the lawful (customs) of the (inhabitants), just as they are stated (to be), and let him honour the (new king) and his chief servants with precious gifts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall make authoritative all that is declared to have been lawful (in the kingdom), and shall honor with precious gifts the king along with the leading men.—(203).
@@ -59,9 +64,4 @@ according to their usages and knowing their duties, becomes worthy of place in I
 <details><summary>भारुचिः</summary>
 
 लब्द्यप्रशमनार्थास् तरयः श्लोकाः ॥ ७.२०१–०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	Let him make authoritative the lawful (customs) of the (inhabitants), just as they are stated (to be), and let him honour the (new king) and his chief servants with precious gifts.
 </details>

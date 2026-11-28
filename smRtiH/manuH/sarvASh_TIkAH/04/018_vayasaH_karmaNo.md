@@ -2,6 +2,11 @@
 title = "018 वयसः कर्मणो"
 +++
 
+<details><summary>Bühler</summary>
+
+018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should wander about in this world, keeping his dress, speech and thoughts in conformity with his age, occupation, wealth, learning and family.—(18)
@@ -74,11 +79,6 @@ manner, in conformity with his age, intelligence, wealth, speech, dress, learnin
 <details><summary>गोविन्दराजः</summary>
 
 **वयस** इति । **वयसो **ऽनुष्ठानस्य धनस्य **श्रुतस्य** कुलस्य आनुरूप्येण वेषकथाबुद्धीर् आचरन् लोके व्यवहरेत् । तद् यथा स्नानस्रगनुलेपनादिकरणं त्रिवर्णानुसारिणी च वाङ्मनसीत्य् एवं कर्मादिष्व् अप् योज्यम् ॥ ४.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
 </details>
 
 <details><summary>भारुचिः</summary>

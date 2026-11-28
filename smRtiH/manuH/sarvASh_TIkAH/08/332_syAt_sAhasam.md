@@ -3,6 +3,11 @@ title = "332 स्यात् साहसम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+332	An offence (of this description), which is committed in the presence (of the owner) and with violence, will be robbery; if (it is committed) in his absence, it will be theft; likewise if (the possession of) anything is denied after it has been taken.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the act is committed with violence and in the presence of men, it is ‘robbery’; it is ‘theft’ when done in the absence of men, and when it is denied after having been done.—(332)
@@ -107,9 +112,4 @@ forcibly, in the presence of watchmen, it is *sāhasa*, Robbery; if it is done s
 <details><summary>भारुचिः</summary>
 
 यत् सारक्षं **प्रसभम्** अविसङ्कितेन क्रियते तत् साहसम् । **निरन्वयं** तु यद् अनधिष्ठितम् आरक्षे तन् न स्तेयम् । यच् च **सान्वयम्** अपि कृत्वापव्ययते तद् अपि स्तेयम् एव ॥ ८.३३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-332	An offence (of this description), which is committed in the presence (of the owner) and with violence, will be robbery; if (it is committed) in his absence, it will be theft; likewise if (the possession of) anything is denied after it has been taken.
 </details>

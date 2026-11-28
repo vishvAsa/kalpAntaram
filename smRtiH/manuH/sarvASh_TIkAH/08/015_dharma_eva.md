@@ -3,6 +3,11 @@ title = "015 धर्म एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	'Justice, being violated, destroys; justice, being preserved, preserves: therefore justice must not be violated, lest violated justice destroy us.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Justice, blighted, blights; and justice, preserved, preserves; hence justice should not be blighted, lest blighted justice blight us.—(15)
@@ -62,9 +67,4 @@ slain, it slays; therefore I shall never renounce justice; lest justice, being s
 <details><summary>भारुचिः</summary>
 
 एवम् अभिप्रायेण राजप्रकृतो ऽवबोध्यते- "धर्मप्रसादाद् इदम् आधिपत्यं ते प्राप्तम्", येन न राजप्रसादात् । अतो न धर्मं हन्तुम् अर्हति । एकेवचनाच् च लिङ्गाद् औपरिष्ठके श्लोके, "तस्माद् धर्मं न लोपेयेत्" इत्य् अस्माद् राजप्रकृतो, न सभासदो बहुत्वात् ॥ ८.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	'Justice, being violated, destroys; justice, being preserved, preserves: therefore justice must not be violated, lest violated justice destroy us.'
 </details>

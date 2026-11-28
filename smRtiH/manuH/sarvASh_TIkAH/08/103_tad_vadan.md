@@ -3,6 +3,11 @@ title = "103 तद् वदन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+103	In (some) cases a man who, though knowing (the facts to be) different, gives such (false evidence) from a pious motive, does not lose heaven; such (evidence) they call the speech of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In some cases, a man who, though knowing the truth, deposes otherwise, through piety, does not fall off from heaven. This is a divine assertion that they reproduce.—(103)
@@ -59,9 +64,4 @@ who has sinned once through error and is in peril of his life, and is oppressed 
 <details><summary>भारुचिः</summary>
 
 प्राङ्(ड्?)विवाकस् तच् छूद्रानुयोगवचनम् अन्यथा गोरक्षकादिषु ब्राह्मणेषु वदन् धर्मतो ऽर्थेषु व्यवहारेषु, ये साक्षिणः तेषु जानन्न् अपि यथावर्णम् अनुयोगं नाधर्मेण युज्यते । येन दैवीं शास्त्रवतीम् वाचं वदन्ति तां स्मृत्वा मन्वादयः "विप्रान् शूद्रवद् आचरेत्" इति । अस्यानन्तरविधेः स्तुत्यर्थवादः ॥ ८.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	In (some) cases a man who, though knowing (the facts to be) different, gives such (false evidence) from a pious motive, does not lose heaven; such (evidence) they call the speech of the gods.
 </details>

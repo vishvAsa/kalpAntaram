@@ -3,6 +3,11 @@ title = "243 नाददीत नृपः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+243	A virtuous king must not take for himself the property of a man guilty of mortal sin; but if he takes it out of greed, he is tainted by that guilt (of the offender).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The righteous King shall not appropriate the property of the man guilty of a heinous crime; if, through greed, he takes it, he becomes tainted with that guilt.—(243)
@@ -49,9 +54,4 @@ the outcast, the King shall have it handed over to the Assembly.’
 <details><summary>भारुचिः</summary>
 
 यत एतद् एवम् अतः ।
-</details>
-
-<details><summary>Bühler</summary>
-
-243	A virtuous king must not take for himself the property of a man guilty of mortal sin; but if he takes it out of greed, he is tainted by that guilt (of the offender).
 </details>

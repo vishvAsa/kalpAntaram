@@ -3,6 +3,11 @@ title = "034 निषादो मार्गवम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	A Nishada begets (on the same) a Margava (or) Dasa, who subsists by working as a boatman, (and) whom the inhabitants of Aryavarta call a Kaivarta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Niṣāda’ begets the ‘Mārgava’ or ‘Dāsa,’ who subsists by working the boat, and whom the inhabitants of Āryāvarta call ‘Kaivarta.’—(34)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 निषादो नाम ब्राह्मणजातात् शूद्रात् प्रतिलोमो वेदितव्यह्, प्रतिलोमाधिकारसामर्थ्यात् । न तु ब्राह्मणजातः शूद्रायाम् । अनुलोमत्वात् । स निषादो ऽधिकृतायाम् एवायोगव्यां मार्गरवर्णं नाम्ना जनयति दासद्वितीयनामानम् । तस्य वृत्त्युपदेशः नौकर्मजीवनम् इति । **कैवर्तम् इति यं प्राहुस्** तृतीयेण नाम्ना **आर्यावर्तनिवासिनो** जानपदाः । आयोगवी पितृबाह्यतरा वेदितव्याः, निषादवत्, न तु शूद्रेण वैश्यायां जाता । तथा च दर्शयति ॥ १०.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	A Nishada begets (on the same) a Margava (or) Dasa, who subsists by working as a boatman, (and) whom the inhabitants of Aryavarta call a Kaivarta.
 </details>

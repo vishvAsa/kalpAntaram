@@ -2,6 +2,11 @@
 title = "019 तेषाम् इदम्"
 +++
 
+<details><summary>Bühler</summary>
+
+019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From out of the Subtile constituents of the frames of the said exceedingly potent principles is produced this (Gross Body)—the perishable proceeding from the imperishable.—(19)
@@ -73,11 +78,6 @@ The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । पूर्वप्रकृतत्वात् तन्मात्राहङ्काराणां पूर्वतरप्रस्तुतत्वाच् च महतः एवं **तेषां सप्तानां** पुरुषोत्पन्नत्वात् **पुरुषाणां** **सूक्ष्माभ्यो मूरिमात्राभ्यः** शरीरसम्पादकेभ्यो भागेभ्यः इदं जगत् नश्वरं सम्भवति **अव्ययात्** अनश्वरात् यद् यत् कार्यं तत् तद् अस्थिरं यद् यद् उत्पत्तिकारणं तत् तत् कार्यापक्षया स्थिरम् इत्य् एतत् प्रतिपादनार्थः शेषो ऽनुवादः ॥ १.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
 </details>
 
 <details><summary>भारुचिः</summary>

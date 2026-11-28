@@ -3,6 +3,11 @@ title = "414 न स्वामिना"
 
 +++
 
+<details><summary>Bühler</summary>
+
+414	A Sudra, though emancipated by his master, is not released from servitude; since that is innate in him, who can set him free from it?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though set free by the master, the Śūdra is not released from service; since that is innate in him, and who can release him from it?—(414)
@@ -77,9 +82,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 यथैवाध्यापनादि ब्राह्मणादीनां निसर्गजम् एवं शूद्रस्य [दास्यम्] । यथैतत् तेन कर्तव्यम् इत्य् उक्तम् एव शास्त्रे ॥ ८.४१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-414	A Sudra, though emancipated by his master, is not released from servitude; since that is innate in him, who can set him free from it?
 </details>

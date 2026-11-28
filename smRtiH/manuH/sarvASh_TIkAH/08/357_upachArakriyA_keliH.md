@@ -3,6 +3,11 @@ title = "357 उपचारक्रिया केलिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+357	Offering presents (to a woman), romping (with her), touching her ornaments and dress, sitting with her on a bed, all (these acts) are considered adulterous acts (samgrahana).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Offering help, flirting, touching of ornaments and clothes, sitting on the same bed,—all this has been declared to be ‘adultery.’—(357)
@@ -70,9 +75,4 @@ the intention of having intercourse with a woman, all such are declared to he re
 <details><summary>भारुचिः</summary>
 
 **भूषणवाससाम्** उपदेशात् स्त्रीगतानां पुरुषगतानां च स्पर्शनाद् उभयापराधः । यच् चान्यत् स्निग्धदृष्टिनिपातनाङ्गविकारादि तद् अपि संग्रहणम् एव विज्ञेयम् ॥ ८.३५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-357	Offering presents (to a woman), romping (with her), touching her ornaments and dress, sitting with her on a bed, all (these acts) are considered adulterous acts (samgrahana).
 </details>

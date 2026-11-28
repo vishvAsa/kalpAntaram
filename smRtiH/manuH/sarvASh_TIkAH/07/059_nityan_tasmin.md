@@ -3,6 +3,11 @@ title = "059 नित्यन् तस्मिन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	Let him, full of confidence, always entrust to that (official) all business; having taken his final resolution with him, let him afterwards begin to act.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always, in full confidence, entrust all business to him; and having, in consultation with him, formed his resolution, he shall do what has to be done. (59)
@@ -47,11 +52,6 @@ to the opinion of every one.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-059	Let him, full of confidence, always entrust to that (official) all business; having taken his final resolution with him, let him afterwards begin to act.
-</details>
-
-<details><summary>Bühler</summary>
 
 059	Let him, full of confidence, always entrust to that (official) all business; having taken his final resolution with him, let him afterwards begin to act.
 </details>

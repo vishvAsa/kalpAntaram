@@ -3,6 +3,11 @@ title = "176 विप्रदुष्टां स्त्रियम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+177	An exceedingly corrupt wife let her husband confine to one apartment, and compel her to perform the penance which is prescribed for males in cases of adultery.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the wife is particularly corrupt, her husband should keep her confined in one room, and should make her perform that penance which has been prescribed for males in cases of adultery.—(176)
@@ -159,9 +164,4 @@ mere subsistence.’
 <details><summary>गोविन्दराजः</summary>
 
 **विप्रदुष्टाम्** इति । विप्रदुष्टां स्त्रियं निरुन्ध्य प्रायश्चित्तान्तं यावत् स्थापयेत् । यच् च पुंसः समानजातीयपरदारगमने उपपातकप्रायश्चित्तं तद् एवैनां कारयेत् ॥ ११.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	An exceedingly corrupt wife let her husband confine to one apartment, and compel her to perform the penance which is prescribed for males in cases of adultery.
 </details>

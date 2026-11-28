@@ -2,6 +2,11 @@
 title = "142 निषेकादीनि कर्माणि"
 +++
 
+<details><summary>Bühler</summary>
+
+142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That Brāhmaṇa, who performs, in the prescribed manner, one’s sacramental rites beginning with the rites of impregnation, and supports him with food, is called the “Guru,” “Mentor.”—(142)
@@ -83,11 +88,6 @@ paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished S
 <details><summary>गोविन्दराजः</summary>
 
 **निषेकादीनीति** । गर्भाधानादिकर्माणि यथाशास्त्रं **यः करोति अन्नेन च सम्भावयति** वर्धयति **स विप्रो गुरुर् उच्यते** । एवं च पितायं गुरुः निषेकग्रहणात् ॥ १.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "040 सङ्करे जातयस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	These races, (which originate) in a confusion (of the castes and) have been described according to their fathers and mothers, may be known by their occupations, whether they conceal or openly show themselves.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These castes, proceeding from mixtures, have been described in relation to their fathers and mothers; and whether manifest or unmanifest, they may be known by their occupations.—(40)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 10.6].
 
 कर्मणा शास्त्रोपदिष्ट-जातिर् अनुमातव्या ।  
 जाति-प्रदर्शनाच् च स्व-कर्मस्व् एते नियोज्याः ॥ १०.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	These races, (which originate) in a confusion (of the castes and) have been described according to their fathers and mothers, may be known by their occupations, whether they conceal or openly show themselves.
 </details>

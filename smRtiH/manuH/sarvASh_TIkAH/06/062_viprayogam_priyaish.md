@@ -3,6 +3,11 @@ title = "062 विप्रयोगम् प्रियैश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	On the separation from their dear ones, on their union with hated men, on their being overpowered by age and being tormented with diseases,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the separation of loved ones and the meeting of hated persons; on being beset with decrepitude and suffering from diseases.—(62)
@@ -65,9 +70,4 @@ by old age,—and upon the pain arising from diseases—bodily, mental, or due t
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-062	On the separation from their dear ones, on their union with hated men, on their being overpowered by age and being tormented with diseases,
 </details>

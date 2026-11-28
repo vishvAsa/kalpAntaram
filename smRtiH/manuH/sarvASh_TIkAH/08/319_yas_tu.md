@@ -3,6 +3,11 @@ title = "319 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+319	He who steals the rope or the water-pot from a well, or damages a hut where water is distributed, shall pay one masha as a fine and restore the (article abstracted or damaged) in its (proper place).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one steals the rope or the water-pot from the well, or damages a water-drinking establishment, he should be punished with a fine of one ‘māṣa,’ and should restore the article to the place.—(319)
@@ -52,9 +57,4 @@ This verse is quoted in *Vivādaratnākara* (p. 328), which adds the following n
 <details><summary>भारुचिः</summary>
 
 माषो मुख्यत्वाद् अविशेषाभिधाने सति हिरण्यस्य स्यात् ॥ ८.३१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-319	He who steals the rope or the water-pot from a well, or damages a hut where water is distributed, shall pay one masha as a fine and restore the (article abstracted or damaged) in its (proper place).
 </details>

@@ -3,6 +3,11 @@ title = "246 यथैधस् तेजसा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+247	As a fire in one moment consumes with its bright flame the fuel that has been placed on it, even so he who knows the Veda destroys all guilt by the fire of knowledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as fire, in a moment, consumes with its heat the fuel placed upon it, so does the man learned in the Veda destroy all sins by the fire of knowledge.—(246)
@@ -71,9 +76,4 @@ been committed, and the knowledge of the Veda is retained, the fire of the Veda 
 <details><summary>भारुचिः</summary>
 
 न केवलं वेदाभ्यासः, किं तर्हि तद्विज्ञानम् अपि । शुद्धये वेदार्थविदाम् । इतरथा हि- प्रायश्चित्तप्रकरणे स्तुतिर् अस्यानर्थिका स्यात् । अपरे तु प्रायश्चित्तानुष्ठानविज्ञानस्तुतिम् एतां मन्यन्ते । तद् अयुक्तम्, अर्थगृहीतत्वात् प्रयोगविज्ञानस्य । यतो ऽन्यद् देवतादिसतत्त्वविज्ञानम् इदं विज्ञेयम् । तथा चोक्तम्, **कृत्स्नं दहति वेदविद्** इति । तद् इदानीं रहस्यप्रायश्चित्तम् उपदिश्यते ॥ ११.२४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-247	As a fire in one moment consumes with its bright flame the fuel that has been placed on it, even so he who knows the Veda destroys all guilt by the fire of knowledge.
 </details>

@@ -3,6 +3,11 @@ title = "065 नोद्वाहिकेषु मन्त्रेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	In the sacred texts which refer to marriage the appointment (of widows) is nowhere mentioned, nor is the re-marriage of widows prescribed in the rules concerning marriage.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nowhere in the mantra-texts bearing upon marriage is ‘authorisation’ mentioned; nor again is the marriage of the widow mentioned in the injunction of marriage.—(65)
@@ -71,9 +76,4 @@ See Comparative notes for [Verse 9.60].
 > **न विवाहविधाव् उक्तं विधवावेदनंपुनः  ॥ ९.६५ ॥**
 
 **विवाहविधिः** शास्त्र इत्य् अर्थः ।
-</details>
-
-<details><summary>Bühler</summary>
-
-065	In the sacred texts which refer to marriage the appointment (of widows) is nowhere mentioned, nor is the re-marriage of widows prescribed in the rules concerning marriage.
 </details>

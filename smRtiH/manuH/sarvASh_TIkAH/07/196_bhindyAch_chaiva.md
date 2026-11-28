@@ -3,6 +3,11 @@ title = "196 भिन्द्याच् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+196	Likewise let him destroy the tanks, ramparts, and ditches, and let him assail the (foe unawares) and alarm him at night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall destroy the tanks, as also walls and ditches; he shall assail the enemy and shall frighten him—during the night.—(196)
@@ -42,9 +47,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **भिन्द्याद्** इति । दुर्गोपस्थजीव्यानि तडागादीनि प्रभेदेन नाशयेत् । तथा दुर्गप्राकारान् भिन्द्यात् तत्परिखाश् च पूरयेत् । छिद्रकरणेन वा निरुदकाः कुर्यात् । एवं च शत्रुम् अशङ्कितम् एव सम्यग् अवस्कन्दयेत्, तस्योपरि निपतेद् रात्रौ वा दिवा वा शिवासितादिभिः त्रासयेत् । इदानीं च मुहुर् मुहुः ॥ ७.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	Likewise let him destroy the tanks, ramparts, and ditches, and let him assail the (foe unawares) and alarm him at night.
 </details>

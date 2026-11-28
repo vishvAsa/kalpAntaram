@@ -3,6 +3,11 @@ title = "198 शरणागतम् परित्यज्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+199	A twice-born man who has cast off a suppliant for protection, or has (improperly) divulged the Veda, atones for his offence, if he subsists during a year on barley.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born man has abandoned a refugee, or has tampered with the Veda, he atones for that offence by living upon barley for one year.—(198)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 11.197].
 <details><summary>भारुचिः</summary>
 
 एवं च सति विद्वद्भिः प्रायश्चित्ती शरणागतो न परित्यजनीयः, किं तर्हि देयम् एव तस्य यथाशास्त्रं प्रायश्चित्तम् । अथ वा लोकप्रसिद्ध एव शरणागतः तत्परित्यागे, उभयोर् वा । वेदविप्लावनम् अनध्याप्याध्यापनम् अनुयोगदानं वा धनार्थम् । तथा च स्मृत्यन्तरम् "दत्त्वानुयोगान् धनहेतोः पतितान् मनुर् अब्रवीत्" इति ॥ ११.१९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-199	A twice-born man who has cast off a suppliant for protection, or has (improperly) divulged the Veda, atones for his offence, if he subsists during a year on barley.
 </details>

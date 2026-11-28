@@ -3,6 +3,11 @@ title = "210 यैर् अभ्युपायैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+211	I will (now) describe to you those means, adopted by the gods, the sages, and the manes, through which a man may remove his sins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am now going to describe to you those methods, adopted by gods and sages and Pitṛs, by means of which a man may wipe off his sins.—(210)
@@ -44,9 +49,4 @@ True; but they have been only named; it is now that they are going to have their
 <details><summary>भारुचिः</summary>
 
 **मानव**ग्रहणं सर्ववर्णार्थम् । **देवादि**ग्रहणं चाधर्मक्षयोपायस्तुत्यर्थम् ॥ ११.२०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	I will (now) describe to you those means, adopted by the gods, the sages, and the manes, through which a man may remove his sins.
 </details>

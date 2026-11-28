@@ -3,6 +3,11 @@ title = "078 पुरोहितञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	Let him appoint a domestic priest (purohita) and choose officiating priests (ritvig); they shall perform his domestic rites and the (sacrifices) for which three fires are required.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall appoint a household priest and select officiating priests; they shall perform his domestic rites, as also the fire-sacrifices.—(78)
@@ -75,9 +80,4 @@ whose family and character are well-known, who is well-instructed in the Veda wi
 <details><summary>भारुचिः</summary>
 
 अमात्यगुणैर् ब्राह्मणगुणैश् च युक्तः पुरो[हितः स्]यात् । ऋत्विजस् तु ब्राह्मणगुणयुक्ता एव ॥ ७.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	Let him appoint a domestic priest (purohita) and choose officiating priests (ritvig); they shall perform his domestic rites and the (sacrifices) for which three fires are required.
 </details>

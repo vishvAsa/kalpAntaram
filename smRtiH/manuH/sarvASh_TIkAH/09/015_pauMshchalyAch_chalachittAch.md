@@ -3,6 +3,11 @@ title = "015 पौंश्चल्याच् चलचित्ताच्
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	Through their passion for men, through their mutable temper, through their natural heartlessness, they become disloyal towards their husbands, however carefully they may be guarded in this (world).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though carefully guarded, they injure their husbands, on account of their passion for males, of ficklemindedness and of innate want of tenderness.—(15).
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 9.14].
 <details><summary>भारुचिः</summary>
 
 आसु पानाद्यवस्थासु । अतो न पूर्वविश्वासात् पानादिषुपेक्ष्याः (?) ॥ ९.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Through their passion for men, through their mutable temper, through their natural heartlessness, they become disloyal towards their husbands, however carefully they may be guarded in this (world).
 </details>

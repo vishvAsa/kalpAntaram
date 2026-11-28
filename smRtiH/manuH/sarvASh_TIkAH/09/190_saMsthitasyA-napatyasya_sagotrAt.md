@@ -3,6 +3,11 @@ title = "190 संस्थितस्याऽनपत्यस्य सग
 
 +++
 
+<details><summary>Bühler</summary>
+
+190	(If the widow) of (a man) who died without leaving issue, raises up to him a son by a member of the family (Sagotra), she shall deliver to that (son) the whole property which belonged to the (deceased).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of a man dying childless, if an issue is raised from a member of the same family, all the property that there may be shall be delivered to that child.—(190)
@@ -47,9 +52,4 @@ It is quoted in *Aparārka* (p. 742), which explains ‘*tasmai*’ (which is it
 <details><summary>भारुचिः</summary>
 
 क्षेत्रजस्य देवरसपिण्डाभ्याम् उक्तत्वाद् इह सगोत्रग्रहणं तदुत्पन्नस्यापि धनांशप्राप्त्यर्थम् । इतरथा हि "देवराद् वा सपिण्डाद् वा" इति वचनाद् अदेवरसपिण्डात् सगोत्रात् उत्पन्नस्य क्षेत्रजस्यानंशार्हता स्यात् । क्लीबकस्य दत्तकस्य तु दत्त्कृत्रिमस्वयंदत्ताः स्युः ॥ ९.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	(If the widow) of (a man) who died without leaving issue, raises up to him a son by a member of the family (Sagotra), she shall deliver to that (son) the whole property which belonged to the (deceased).
 </details>

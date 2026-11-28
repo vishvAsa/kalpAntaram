@@ -3,6 +3,11 @@ title = "099 अशक्नुवंस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+099	But a Sudra, being unable to find service with the twice-born and threatened with the loss of his sons and wife (through hunger), may maintain himself by handicrafts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Śūdra, unable to do service for twice-born people, and threatened with danger to his wife and sons, may subsist by the occupations of craftsmen.—(99)
@@ -66,9 +71,4 @@ been ordained; being unable to maintain himself by that, he shall become a trade
 <details><summary>भारुचिः</summary>
 
 एतस्माच् च विज्ञायते शूद्रकर्मन्भ्यः कारुकमर्माण्य् अत्यन्तनिकृष्टानि, वर्नापशदानां वृत्तिः ॥ १०.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	But a Sudra, being unable to find service with the twice-born and threatened with the loss of his sons and wife (through hunger), may maintain himself by handicrafts.
 </details>

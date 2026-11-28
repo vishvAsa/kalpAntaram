@@ -3,6 +3,11 @@ title = "089 इयं विशुद्धिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	This expiation has been prescribed for unintentionally killing a Brahmana; but for intentionally slaying a Brahmana no atonement is ordained.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All this expiation has been laid down for killing a Brāhmaṇa unintentionally; for killing a Brāhmaṇa intentionally no atonement has been ordained.—(89)
@@ -55,9 +60,4 @@ slays a Brāhmaṇa becomes sinful”... The sages declare that he may be purifi
 <details><summary>भारुचिः</summary>
 
 कामतो ऽकामत इति कृतविचारः । तस्मान् न कामकृते प्रायश्चित्ताभावं दर्शयति, किं तर्हि प्रमादस्तुत्यर्थम् इदं कल्प्यते । इतरथा हि पूर्वापरविरोधः स्यात् । अथ वा प्रायश्चित्तगुरुत्वोपदेशपरम् इदं गुणतः कामतो वधे ब्राह्मणस्य । एवं च सर्वगुणविशेषापेक्षया सप्रत्ययाप्रत्ययवधापेक्षया च ब्रह्महत्याप्रायश्चित्तानि यथासंभवम् अर्थयोगापेक्षया प्रकल्प्यानि । अन्यानि चैवम् एव समार्थानि ॥ ११.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	This expiation has been prescribed for unintentionally killing a Brahmana; but for intentionally slaying a Brahmana no atonement is ordained.
 </details>

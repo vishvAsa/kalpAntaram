@@ -2,6 +2,11 @@
 title = "012 सवर्णाग्रे द्विजातीनाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For ‘twice-born men’ a girl of equal caste has been recommended for the first marriage-sacrament. For those, however, who take to it through mere desire, these (following) should be regarded as preferable in due order.—(12)
@@ -111,11 +116,6 @@ wife, there are three wives, in the descending order of the castes; for the Śū
 <details><summary>गोविन्दराजः</summary>
 
 **सवर्णेति । द्विजातीनाम्** आदौ पाणिग्रहणे समानजातीया युक्तेत्य् उक्तम् । **कामात् **पुनर् दारकर्मणि **प्रवृत्तानां इमाः **वक्ष्यमाणवर्णक्रमेण श्रेष्ठाः **स्युः** ॥ ३.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
 </details>
 
 <details><summary>भारुचिः</summary>

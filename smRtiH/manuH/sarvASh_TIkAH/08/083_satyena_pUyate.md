@@ -3,6 +3,11 @@ title = "083 सत्येन पूयते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	'By truthfulness a witness is purified, through truthfulness his merit grows, truth must, therefore, be spoken by witnesses of all castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘By truth is the witness purified, by truth does merit grow: hence the truth should be spoken by witnesses of all castes.’—(83)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/ma
 <details><summary>भारुचिः</summary>
 
 येन —
-</details>
-
-<details><summary>Bühler</summary>
-
-083	'By truthfulness a witness is purified, through truthfulness his merit grows, truth must, therefore, be spoken by witnesses of all castes (varna).
 </details>

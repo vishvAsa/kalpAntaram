@@ -3,6 +3,11 @@ title = "176 यः साधयन्तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+176	(The debtor) who complains to the king that his creditor recovers (the debt) independently (of the court), shall be compelled by the king to pay (as a fine) one quarter (of the sum) and to his (creditor) the money (due).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A person who complains to the king against the creditor trying to accomplish his purpose by his own will,—should be made by the king to pay the fourth part, and also the total amount to him—(176)
@@ -87,9 +92,4 @@ recovered from him by the expedients of friendly expostulation and the rest, by 
 <details><summary>भारुचिः</summary>
 
 राजवाल्लभ्याद् अबिभ्यन् यो राजपुरुषस् तस्मै धनिकम् आवेदये तस्य तथोपदेशं दण्डनं धनदानं च राजा कुर्यात् । अपरः पाऋहः- "यो ऽसाध्यं मन्यमानस् तु वेदयेद् धनिकं नरः, स राज्ञर्णचतुर्भागं दाप्यस् तस्य च तद्धनम्" । अत्रापि स एवार्थः । ईषद् अन्यथा भिन्नः। अशक्तस्य धनदान एतत् । धनदानायेदम् उपायान्तरम् अभिधीयते धनाभावतो वैकल्पिकः ॥ ८.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	(The debtor) who complains to the king that his creditor recovers (the debt) independently (of the court), shall be compelled by the king to pay (as a fine) one quarter (of the sum) and to his (creditor) the money (due).
 </details>

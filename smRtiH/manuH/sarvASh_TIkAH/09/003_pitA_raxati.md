@@ -3,6 +3,11 @@ title = "003 पिता रक्षति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+003	Her father protects (her) in childhood, her husband protects (her) in youth, and her sons protect (her) in old age; a woman is never fit for independence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The father guards her during virginity, the husband guards her in youth, the sons guard her in old age; the woman is never fit for independence.—(iii).
@@ -123,9 +128,4 @@ widow is without a son, the members of her husband’s family shall be her maste
 <details><summary>भारुचिः</summary>
 
 एवं च सति [न] राजनि भर्तर्य् एव वासाम् अस्वातन्त्र्यम्, किं तर्हि यथावयः पित्रादिषु । तत्संरक्षणपरे च वाक्ये न पित्रादयो वयोविभागाश्रयेण हित्रादिस्त्रीणां रक्षितारो नियम्यन्ते । एवं च सति सर्वदा सर्वेषां तद्रक्षणोपदेशो ऽयं सामर्थ्याद् विज्ञेयः । सर्वत्र लड् द्रष्टव्यो विध्यर्थे रक्षेद् इत्य् एवं छान्दसत्वाविशेषात् । स्मृतेर् युक्तं तल्लक्षणम् अत्र । यतश् चैतद् एवम् अतः ॥ ९.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	Her father protects (her) in childhood, her husband protects (her) in youth, and her sons protect (her) in old age; a woman is never fit for independence.
 </details>

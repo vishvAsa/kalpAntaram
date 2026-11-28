@@ -3,6 +3,11 @@ title = "071 लोष्ठमर्दी तृणच्छेदी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man who crushes clods, cuts grass or bites his nails, quickly goes to perdition; so also the back-biter and the unclean man.—(71)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 4.70].
 <details><summary>गोविन्दराजः</summary>
 
 **लोष्टमर्दीति** । लोष्टतृणनखानां मर्दनछेदनखादनकृत् **सूचको ऽशुचिश् च **मनुष्यो **विनाशं **क्षिप्रं **याति **। तस्माद् एतानि न कर्तव्यानि । भक्षणाशुचित्वयोर् अत एव निषेधः ॥ ४.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.
 </details>

@@ -2,6 +2,11 @@
 title = "104 एतांस् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When these appear after the Fires have been lighted, then is it to be regarded as time unfit for study; as also when clouds are seen out of season.—(104)
@@ -46,11 +51,6 @@ See Comparative notes for [Verse 4.103].
 <details><summary>गोविन्दराजः</summary>
 
 **एतान्** इति । **एतान् **विद्युदादीन् जुहूषया प्रकटी**कृताग्निषु** सन्ध्यालक्षणेषु कालेषु यतोपजातान् जानीयात् तदानध्यायं कुर्यात् । न सर्वदा वर्षासु एतदुत्पाते तथा वर्षाभ्यो ऽन्यत्र्**आभ्रदर्शने** सत्य् **अनध्यायः** ॥ ४.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	When one perceives these (phenomena) all together (in the twilight), after the sacred fires have been made to blaze (for the performance of the Agnihotra), then one must know the recitation of the Veda to be forbidden, and also when clouds appear out of season.
 </details>
 
 <details><summary>भारुचिः</summary>

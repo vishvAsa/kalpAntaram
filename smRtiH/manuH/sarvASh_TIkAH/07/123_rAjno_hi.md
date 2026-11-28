@@ -3,6 +3,11 @@ title = "123 राज्ञो हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	For the servants of the king, who are appointed to protect (the people), generally become knaves who seize the property of others; let him protect his subjects against such (men).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the king’s servants, appointed to protect the people, generally become knaves, bent upon seizing the property of others,—he shall protect his people against them—(133)
@@ -55,9 +60,4 @@ the king are generally cruel and wicked and inclined to misappropriate the prope
 <details><summary>भारुचिः</summary>
 
 शुचयो ऽप्य् अधिकृता भक्षयन्ति वित्तानीत्य् अर्थत्वान् मनुष्याणाम् । अतो न शुच्यनुमानोपेक्षणीयास् त इति ॥ ७.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	For the servants of the king, who are appointed to protect (the people), generally become knaves who seize the property of others; let him protect his subjects against such (men).
 </details>

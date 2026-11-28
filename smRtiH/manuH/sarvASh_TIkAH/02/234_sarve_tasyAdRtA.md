@@ -2,6 +2,11 @@
 title = "234 सर्वे तस्यादृता"
 +++
 
+<details><summary>Bühler</summary>
+
+234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All the duties have been honoured by him who has honoured these three; and all acts remain fruitless for him who does not honour them.—(234).
@@ -48,11 +53,6 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 
 <details><summary>गोविन्दराजः</summary>
 
 **सर्व** इति । **सर्वे **यागादयो **धर्माः तस्य **फलदानोन्मुखा भवन्ति येन मातृपित्राचार्या **आदृताः **आराधिताः । येन पुनस् एते न परितोषिताः **तस्य सर्वा **यागादिक्रिया **निष्फला इति **शुश्रूषाविध्यर्थवादः ॥ २.२३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
 </details>
 
 <details><summary>भारुचिः</summary>

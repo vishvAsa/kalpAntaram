@@ -2,6 +2,11 @@
 title = "141 नोच्छिष्टङ् कुर्वते"
 +++
 
+<details><summary>Bühler</summary>
+
+141	Drops (of water) from the mouth which do not fall on a limb, do not make (a man) impure, nor the hair of the moustache entering the mouth, nor what adheres to the teeth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Drops from the mouth, if they do not reach the body, do not make one impure; nor the hairs of the beard that enter the mouth; nor what adheres to the teeth.—(139).
@@ -95,11 +100,6 @@ should be regarded as the teeth; and he should not make much effort to take it o
 <details><summary>गोविन्दराजः</summary>
 
 **नोच्छिष्टम्** इति । मुखनिःसृता विप्रुषो व्यङ्गत्वेन निपतन्ति तदोच्छिष्टं न जनयन्ति । तस्मात् श्मश्रूण्य् आस्यप्रतिष्ठानि दन्तान्तरलग्नं वान्नावयवादि, दन्तश्लिष्टं तु दन्तवद् अन्यत्र जिह्वाभिमर्शनात् प्राक् च्युतेर् इत्य् _एके_ । “च्युतेष्व् आश्राववद् विद्यान् निर्गिरन्न् एव तच्छुचिः” इत्य् एवं गौतमप्रक्रिया नोच्छिष्टं करोति ॥ ५.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	Drops (of water) from the mouth which do not fall on a limb, do not make (a man) impure, nor the hair of the moustache entering the mouth, nor what adheres to the teeth.
 </details>
 
 <details><summary>भारुचिः</summary>

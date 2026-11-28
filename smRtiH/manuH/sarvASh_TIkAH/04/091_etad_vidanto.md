@@ -2,6 +2,11 @@
 title = "091 एतद् विदन्तो"
 +++
 
+<details><summary>Bühler</summary>
+
+091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Knowing this, the learned Brāhmaṇas reading the Vedas do not accept gifts from a king, if they desire to secure welfare after death.—(91)
@@ -49,11 +54,6 @@ See Comparative notes for [Verse 4.87].
 <details><summary>गोविन्दराजः</summary>
 
 **एतद् **राजप्रतिग्रहफलं शास्त्रज्ञा वेदाध्यायिनः **ब्राह्मणा **जानन्तः परलोकदुःखाभावार्थिनः **राज्ञो** धनं न **प्रतिगृह्णन्ति** ॥ ४.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
 </details>
 
 <details><summary>भारुचिः</summary>

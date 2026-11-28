@@ -3,6 +3,11 @@ title = "215 भृतो नार्तो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	A hired (servant or workman) who, without being ill, out of pride fails to perform his work according to the agreement, shall be fined eight krishnalas and no wages shall be paid to him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a hireling, without being ill, does not perform the stipulated work, through arrogance,—he should be fined eight ‘Kṛṣṇalas,’ and should not receive his wages.—(215)
@@ -89,9 +94,4 @@ many sorts; another is servant for a share of the grain...—A servant engaged f
 <details><summary>भारुचिः</summary>
 
 उत्पन्ने वेतने किंचित्कृतकर्मापि दण्डयितव्यः वेतनं च [न] लभेत, येन दर्पात् कर्मणः प्रक्रान्तस्याकृत्स्नकारी ॥ ८.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	A hired (servant or workman) who, without being ill, out of pride fails to perform his work according to the agreement, shall be fined eight krishnalas and no wages shall be paid to him.
 </details>

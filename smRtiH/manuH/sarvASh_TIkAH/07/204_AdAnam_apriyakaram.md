@@ -3,6 +3,11 @@ title = "204 आदानम् अप्रियकरम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+204	The seizure of desirable property which causes displeasure, and its distribution which causes pleasure, are both recommendable, (if they are) resorted to at the proper time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The seizing of desirable property is productive of displeasure, and the giving of it is productive of pleasure; each is commended if done at the proper time.—(204).
@@ -46,9 +51,4 @@ This verse is quoted in *Vīramitrodaya*, (Rājanīti, p. 410), which adds the f
 <details><summary>भारुचिः</summary>
 
 दानम् अदानं वा **कालयुक्तं** सुखयति । यथाकालं राज्ञा तद् अनुष्ठितं सर्वलोकसुखावहं भवति ॥ ७.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	The seizure of desirable property which causes displeasure, and its distribution which causes pleasure, are both recommendable, (if they are) resorted to at the proper time.
 </details>

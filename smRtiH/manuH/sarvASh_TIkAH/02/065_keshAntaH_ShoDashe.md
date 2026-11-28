@@ -2,6 +2,11 @@
 title = "065 केशान्तः षोडशे"
 +++
 
+<details><summary>Bühler</summary>
+
+065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sacrament of Keśānta is ordained for the Brāhmaṇa in his sixteenth year; for the Kṣatriya in his twenty-second year, and for the Vaiśya two years later.—(65)
@@ -56,11 +61,6 @@ the *keśānta*.’
 <details><summary>गोविन्दराजः</summary>
 
 **केशान्त** इति । केशान्ताख्यः संस्कारः ब्राह्मणादीनां यथाक्रमं षोडशद्वाविंशचतुर्विंशेषु वर्षेषु विधीयते ॥ २.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
 </details>
 
 <details><summary>भारुचिः</summary>

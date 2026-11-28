@@ -3,6 +3,11 @@ title = "078 स्वभावेनैव यद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	What witnesses declare quite naturally, that must be received on trials; (depositions) differing from that, which they make improperly, are worthless for (the purposes of) justice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What the witnesses state naturally, in relation to the case, should be accepted; apart from this what they state from considerations of righteousness, is useless.—(78)
@@ -92,9 +97,4 @@ given spontaneously, not through force; after the evidence has been once given b
 <details><summary>भारुचिः</summary>
 
 स्वभावेनेति सभायां] ग्रामिणाम् अन्येषां चाप्रागल्भ्याद् अप्रतिभानकम्पादयो जायन्ते । तेषां व्यावहारिकं ब्रुवतां स्वभाव उपलक्षयितव्यो ऽनुमानतः पुरुषशीलतो वा, किम् एषाम् अमी मिथ्यावचनकृताः कम्पादयः उताप्रागल्भ्याद् अनुचितमहाजनसमवायाद् वा । येन ह्य् अनुमानागम्यं कुंचिन् नास्ति । एवं धृष्टप्रागल्भ्यानाम् अपि स्वभावो ऽवधारणीयः ॥ ८.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	What witnesses declare quite naturally, that must be received on trials; (depositions) differing from that, which they make improperly, are worthless for (the purposes of) justice.
 </details>

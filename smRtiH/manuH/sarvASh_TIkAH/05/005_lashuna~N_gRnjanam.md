@@ -2,6 +2,11 @@
 title = "005 लशुनङ् गृञ्जनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+005	Garlic, leeks and onions, mushrooms and (all plants), springing from impure (substances), are unfit to be eaten by twice-born men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Garlic, leeks and onions, mushrooms and all that proceeds from impure things, are unfit to re eaten by twice-born men.—(5).
@@ -119,11 +124,6 @@ Kausumbha, Nālamastaka*, and leek,—among vegetables, these are not eatable.�
 <details><summary>गोविन्दराजः</summary>
 
 कः पुनर् असाव् अन्नदोष इत्य् आशङ्क्य तम् आह **लशुनम्** इति । लशुनगृञ्जनपलाण्ड्वाख्यानि शाकानि । कवकं छत्राकविशेषः खुकं खण्डकम् इत्य् आयुर्वेदप्रसिद्धम् । **अमेध्यप्रभानि च** मनुष्यादिजग्धप्रबीजपुरीषनिर्गतत्वेन केवलामेध्योत्पत्तिकानि पुरीषस्थानोत्पन्नानि चामेध्यसंसर्गप्रभवानि तण्डुलीयकादीनि **द्विजातीनाम् अभक्ष्याणि** । द्विजातिग्रहणं शूद्रपर्युदासार्थम्, चातुर्थ्यं तु अभक्ष्यप्रकरणं ब्राह्मणस्यैव “नाश्रोत्रियतते यज्ञे” (४.२०५) इत्य् उपक्रम्य “भुञ्जीत ब्राह्मणः क्वचित्” इत्य् अभिधानात् । अत एव प्रकरणभेदः ॥ ५.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	Garlic, leeks and onions, mushrooms and (all plants), springing from impure (substances), are unfit to be eaten by twice-born men.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "238 धर्मं शनैः"
 +++
 
+<details><summary>Bühler</summary>
+
+238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Without causing pain to any beings, he shall, for the purpose of obtaining a companion in the other world, accumulate spiritual merit, slowly; just as the white ants accumulate the ant-hill.—(238)
@@ -45,11 +50,6 @@ See Comparative notes for [Verse 4.234].
 <details><summary>गोविन्दराजः</summary>
 
 **धर्मं शनैर्** इति । सर्वप्राणिपीडां परिहरेत् परलोकोपकारार्थं मृद्राशिं यथा पिपीलिकाः सञ्चिन्वन्ति एवं धर्मं **शनैः** शनैः अर्जयेत् ॥ ४.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "085 अनेन क्रमयोगेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	A twice-born man who becomes an ascetic, after the successive performance of the above-mentioned acts, shakes off sin here below and reaches the highest Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, who, by this successive process, goes forth (as a mendicant), shakes off evil and attains the Supreme Brahman.—(85)
@@ -37,9 +42,4 @@ This verse describee the reward following from true knowledge and from the prope
 <details><summary>भारुचिः</summary>
 
 अयं श्लोकः परव्रज्याधिकारस्तुत्यर्थः, आश्रमसमुच्चयस्तुत्यर्थो वा ॥ ६.८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	A twice-born man who becomes an ascetic, after the successive performance of the above-mentioned acts, shakes off sin here below and reaches the highest Brahman.
 </details>

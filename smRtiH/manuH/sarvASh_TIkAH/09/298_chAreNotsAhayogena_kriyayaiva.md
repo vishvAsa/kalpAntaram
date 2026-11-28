@@ -3,6 +3,11 @@ title = "298 चारेणोत्साहयोगेन क्रियय
 
 +++
 
+<details><summary>Bühler</summary>
+
+298	By spies, by a (pretended) display of energy, and by carrying out (various) undertakings, let the king constantly ascertain his own and his enemy's strength;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall constantly ascertain his own and his enemy’s strength through spies, through display of energy and also through the actual carrying out of undertakings.—(298)
@@ -51,9 +56,4 @@ artisans, should go out in all directions, apprising themselves of the opinion o
 <details><summary>भारुचिः</summary>
 
 अत एषां पुनर् इहोपदेशः कण्टकोद्धरणप्रकरणे । यथैतत्संश्रयाद् इदम् उपदिश्यते **नित्य**ग्रहणम् । एवं च परचक्रसंरक्षणवज् जनपदः स्वचक्रपीडातो ऽपि रक्षणीयः । सैषा कण्टकोद्धरणादरार्था पुनर् इह राजधर्मोक्तिर् विज्ञेया ॥ ९.२९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-298	By spies, by a (pretended) display of energy, and by carrying out (various) undertakings, let the king constantly ascertain his own and his enemy's strength;
 </details>

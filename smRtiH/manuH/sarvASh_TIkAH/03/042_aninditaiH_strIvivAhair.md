@@ -2,6 +2,11 @@
 title = "042 अनिन्दितैः स्त्रीविवाहैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From unblamable marriages unblamable offspring is born to men; and from blameworthy marriages blameworthy child. One should therefore avoid the blamable marriages.—(42)
@@ -45,11 +50,6 @@ See Comparative notes for [Verse 3.39].
 <details><summary>गोविन्दराजः</summary>
 
 **अनिन्दितैर्** इति । अगर्हितैः भार्याप्राप्तिहेतुभिः विवाहैः अगर्हितानि मनुष्याणाम् अपत्यानि भवन्ति । गर्हितैश् च गर्हितानि भवन्ति । **तस्मात् **गर्ह्यान्** विवर्जयेत्** न कुर्यात् ॥ ३.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
 </details>
 
 <details><summary>भारुचिः</summary>

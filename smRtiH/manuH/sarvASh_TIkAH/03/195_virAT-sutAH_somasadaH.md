@@ -3,6 +3,11 @@ title = "195 विराट्-सुताः सोमसदः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Somasads, the sons of Virāj, have been declared to be the Pitṛs of the Sādhyas; and the Agnisvāttas, the sons of Marīci, are famed in the world as the Pitṛs of the Gods.—(195)
@@ -59,9 +64,4 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 <details><summary>गोविन्दराजः</summary>
 
 **विराट्सुता** इति । **विराट्सुताः सोमसदो** नाम **साध्यानां पितरः देवानां च **मरीचिपुत्राः **अग्निष्वात्ताख्याः** लोके ख्याताः ॥ ३.१९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.
 </details>

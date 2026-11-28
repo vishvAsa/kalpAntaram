@@ -2,6 +2,11 @@
 title = "114 अमावास्या गुरुम्"
 +++
 
+<details><summary>Bühler</summary>
+
+114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Moonless Day destroys the Teacher, the Fourteenth Day destroys the pupil, and the Eighth Day and the Full-moon days destroy the Veda; hence these he shall avoid.—(114).
@@ -38,11 +43,6 @@ reward either in this world or in the other; by study on those days, I here is d
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **अमावास्येति** । **अमावास्या गुरुं हन्ति शिष्यं **च **चतुर्दशी** हन्ति वेदं चाष्टमीपौर्णमास्यौ विस्मार्यतः । **तस्माद्** एतासु नित्यम् अध्ययनं परिहरेत् ॥ ४.११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).
 </details>
 
 <details><summary>भारुचिः</summary>

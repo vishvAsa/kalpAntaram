@@ -2,6 +2,11 @@
 title = "095 यत् पुण्यफलम्"
 +++
 
+<details><summary>Bühler</summary>
+
+095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born householder, giving alms, obtains the same reward for merit which reward for merit one obtains by giving a cow, in the proper form, to his Teacher.—(95)
@@ -53,11 +58,6 @@ highest reward: by worshipping him, he attains heaven; neither by Vedic Study, n
 <details><summary>गोविन्दराजः</summary>
 
 **यत् पुण्यफलम्** इति । “अल्पगुर् हेमश्ट्ङ्गी” इत्य् आदियाज्ञवल्क्योक्तविधिना गां दत्वा यत् पुण्यफलं “गोदो ब्रध्नस्य विष्टपम्” इति प्राप्नोति तद् एव द्विजगृहस्थः भिक्षां दत्वा प्राप्नोति ॥ ३.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

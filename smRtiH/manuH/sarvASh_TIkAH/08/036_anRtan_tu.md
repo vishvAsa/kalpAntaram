@@ -3,6 +3,11 @@ title = "036 अनृतन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	But he who falsely says (so), shall be fined in one-eighth of his property, or, a calculation of (the value of) the treasure having been made, in some smaller portion (of that).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But he who speaks falsely shall, be fined the eighth part of his property, or a smaller fraction, on calculation, of that same treasure-trove.—(36)
@@ -71,9 +76,4 @@ property, he shall report it to the King; and if he makes good his claim, he sha
 <details><summary>भारुचिः</summary>
 
 यथा धनमात्रया दण्डितो ऽवसादं न गच्छेद्, विनयं [च] ग्राह्येत तावतीम् अर्थमात्रां दापयेत् । पुरुषविशेषापेक्षया च दण्डविकल्प आश्रयितव्यः ॥ ८.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	But he who falsely says (so), shall be fined in one-eighth of his property, or, a calculation of (the value of) the treasure having been made, in some smaller portion (of that).
 </details>

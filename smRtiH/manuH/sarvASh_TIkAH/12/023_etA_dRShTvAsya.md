@@ -3,6 +3,11 @@ title = "023 एता दृष्ट्वास्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+023	Let (man), having recognised even by means of his intellect these transitions of the individual soul (which depend) on merit and demerit, always fix his heart on (the acquisition of) merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having recognised, in his own mind, the conditions of the Personality, due to Virtue and Vice, one should fix his heart upon Virtue.—(23)
@@ -47,9 +52,4 @@ The conditions of the Conscious Entity, Soul, are due to Virtue and Vice.
 > **धर्मतो ऽधर्मतश् चैव धर्मे दद्यात् सदा मनः  ॥ १२.२३ ॥**
 
 एतच् च प्रकरणं प्रायश्चित्त[शेषतय्]आ विज्ञेयम् । अथ वा कृत्स्नशास्त्रशेषतयैव विज्ञेयम् । यस्माद् अत्रेष्टानिष्टफलप्रदर्शनम् अधर्मपरिहाराय धर्मस्वीकरणाय चार्थात् संभवति ॥ १२.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	Let (man), having recognised even by means of his intellect these transitions of the individual soul (which depend) on merit and demerit, always fix his heart on (the acquisition of) merit.
 </details>

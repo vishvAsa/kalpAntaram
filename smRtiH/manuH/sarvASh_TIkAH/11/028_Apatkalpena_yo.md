@@ -3,6 +3,11 @@ title = "028 आपत्कल्पेन यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	But a twice-born, who, without being in distress, performs his duties according to the law for times of distress, obtains no reward for them in the next world; that is the opinion (of the sages).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person performs, even in normal times, a sacred act according to the mode sanctioned for Abnormal Times,—he does not obtain its reward. Such is the well-considered opinion.—(28)
@@ -47,9 +52,4 @@ alternative method; as it is only when an act is performed with all its accessor
 <details><summary>भारुचिः</summary>
 
 एवं च सति न विद्यमानधनो वैश्वानरीं कुर्यात् पशुसोमवैकल्पिकीम्, प्रायश्चित्तप्रतिनिधिं वेति । येन ॥ ११.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	But a twice-born, who, without being in distress, performs his duties according to the law for times of distress, obtains no reward for them in the next world; that is the opinion (of the sages).
 </details>

@@ -2,6 +2,11 @@
 title = "242 तस्माद् धर्मम्"
 +++
 
+<details><summary>Bühler</summary>
+
+242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, therefore, slowly accumulate Spiritual Merit, for the purpose of securing a companion; for, with Merit as his companion, the man crosses over unfordable darkness.—(242)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 4.241].
 <details><summary>गोविन्दराजः</summary>
 
 **तस्माद्** इति । यस्माद् धर्मेण सहायेन सता दुस्तरनरकादिदुःखं तरति तस्मात् धर्मं सहायार्थं सर्वदा शनैर् जयेत् ॥ ४.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
 </details>
 
 <details><summary>भारुचिः</summary>

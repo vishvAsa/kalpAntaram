@@ -3,6 +3,11 @@ title = "371 भर्तारं लङ्घयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+371	If a wife, proud of the greatness of her relatives or (her own) excellence, violates the duty which she owes to her lord, the king shall cause her to be devoured by dogs in a place frequented by many.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a woman, proud of relations and her qualities, passes over her husband, the king shall have her devoured by dogs in a place frequented by many.—(371)
@@ -92,9 +97,4 @@ inferior caste, he should be made to be devoured by dogs, and the woman should b
 <details><summary>भारुचिः</summary>
 
 ज्ञातिदर्पेण स्त्री गुणवद्भर्तृव्यतिक्रमे श्वभिर् असौ खादयितव्या राज्ञा । अन्यस्यास् तु यः पुंसः परदारेषु सो ऽस्या दण्डः स्यात् । तच् च दर्शयति, "यत् पुंसः परदारेषु" इति प्रायश्चित्तविधौ ॥ ८.३७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-371	If a wife, proud of the greatness of her relatives or (her own) excellence, violates the duty which she owes to her lord, the king shall cause her to be devoured by dogs in a place frequented by many.
 </details>

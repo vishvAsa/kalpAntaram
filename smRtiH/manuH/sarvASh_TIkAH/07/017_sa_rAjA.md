@@ -3,6 +3,11 @@ title = "017 स राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	Punishment is (in reality) the king (and) the male, that the manager of affairs, that the ruler, and that is called the surety for the four orders' obedience to the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That punishment is the ‘King’, the ‘Man’; that is the ‘Leader’ and the ‘Ruler’ and that has been declared to be the ‘surety’ for the Law of the Four Stages.—(17)
@@ -65,9 +70,4 @@ also property; it is punishment that protects pleasure; hence is punishment call
 येन बलीयसो ऽपि पुरुषान् स्त्रीवन् न्यक्-कृत्वा वशम् आनयति ।  
 स नेता यस्मात् तद्भयाद् एव कार्याणि सम्याङ् नीयन्ते ।  
 स एव **शासिता** येन तदपेक्षयैव वासना शासनीभवति । स एव **पतिभूर्** वर्णाश्रमव्यतिक्रमे प्रतिभूर् इव प्रतिभूः ॥ ७.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	Punishment is (in reality) the king (and) the male, that the manager of affairs, that the ruler, and that is called the surety for the four orders' obedience to the law.
 </details>

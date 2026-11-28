@@ -2,6 +2,11 @@
 title = "030 पाषाण्डिनो विकर्मस्थान्"
 +++
 
+<details><summary>Bühler</summary>
+
+030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not honour, even with speech, impostors, those who follow improper occupations, those who are cat-like in their behaviour, hypocrites, logicians, and those who behave like herons.—(30)
@@ -69,11 +74,6 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 <details><summary>गोविन्दराजः</summary>
 
 तथा चाह **पाखण्डिन** इति । रक्ताम्बरादिलिङ्गधारिणः परवृत्तिजीवनरतान् बिडालवृत्तिकान् बकवृत्तिकान् वक्ष्यमाणलक्षणान् शठान् अश्र्द्दधानान् वेदबाह्यतर्कव्यवहारिणो **वाङ्मात्रेणापि न **पूजयेत् इति पूजापूर्वकान्नदानादिनिषेधो दानमात्रं तु शक्तितो ऽपचमानेभ्यो दातव्यम् इति वक्ष्यति ॥ ४.३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "225 कितवान् कुशीलवान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+225	Gamblers, dancers and singers, cruel men, men belonging to an heretical sect, those following forbidden occupations, and sellers of spirituous liquor, let him instantly banish from his town.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gamblers, dancers, cruel men, men belonging to heretical sects, men addicted to evil deeds, dealers in wine,—these the King shall instantly banish from his town.—(225)
@@ -45,9 +50,4 @@ incantations or medicinal herbs, and those who perform malevolent rites, should 
 <details><summary>भारुचिः</summary>
 
 क्रूराभिन्नदुष्टयोर् वर्णलोपेन गुणवृत्त्योच्यन्ते । "केलान्" इत्य् अपरः पाठः, ते चातिकामुकाः केलीजीवि[नः । "कैलान्" इत्य् अपरे] पठन्ति- सङ्केतकारिणः । **पाषण्डस्थांश् च मानवान्** श्रुतिस्मृतिबाह्येष्व् आश्रमलिङ्गेषु व्यवस्थितान् । [**विकर्मस्थो**] ऽधिकारविरोधेन कर्मस्थः [इति] शब्दस् सतन्त्रः, शौण्डिकविशेषणा[र्थो व(आ)] । सर्वान् एतान् **निर्वासयेत् पुरात्** । प्रवासनकार्यस्य चविशेषाद् राष्ट्राद् अप्य् एते ऽर्थतो निर्वास्याः । अत्र च कितवप्रसङ्गेन कुशीलवादीनाम् अपि प्रतिषेधः क्रियते । येन ॥ ९.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	Gamblers, dancers and singers, cruel men, men belonging to an heretical sect, those following forbidden occupations, and sellers of spirituous liquor, let him instantly banish from his town.
 </details>

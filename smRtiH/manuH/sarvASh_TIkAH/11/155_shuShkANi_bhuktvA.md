@@ -3,6 +3,11 @@ title = "155 शुष्काणि भुक्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+156	He who has eaten dried meat, mushrooms growing on the ground, or (meat, the nature of) which is unknown, (or) such as had been kept in a slaughter-house, shall perform the same penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one eats dried meat, mushrooms growing on the ground, or unrecognised meat lying in the slaughter-house—he shall perform this same penance.—(155)
@@ -70,9 +75,4 @@ eating unknown flesh, meat kept in a slaughterhouse and dried meat. For eating t
 <details><summary>भारुचिः</summary>
 
 द्विजश् चान्द्रायणं चरेद् इति द्विजग्रहणात् प्रकरणाच् चात्र शूद्रस्य व्यतिक्रमे प्रायश्चित्ताभावः । ब्राह्मणापाश्रितशूद्रस्य हि "यथा यथा हि सद्वृत्तम् आतिष्ठन्त्य् अनुसूयकः" इति वचनात् पाक्षिकं स्यात् प्रायश्चित्तं प्रतिषेधात् ॥ ११.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-156	He who has eaten dried meat, mushrooms growing on the ground, or (meat, the nature of) which is unknown, (or) such as had been kept in a slaughter-house, shall perform the same penance.
 </details>

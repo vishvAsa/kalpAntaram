@@ -2,6 +2,11 @@
 title = "165 तपो-विशेषैर् विविधैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+165	An Aryan must study the whole Veda together with the Rahasyas, performing at the same time various kinds of austerities and the vows prescribed by the rules (of the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The entire Veda, along with the Esoteric Treatises, should be learnt by the twice-born person,—by means of various kinds of austerities and observances prescribed by rule.—(165)
@@ -282,11 +287,6 @@ study of the Veda, to the best of his ability; one should recite it, teach it to
 > _ननु_ प्रवचननिमित्ता इदानीन्तनाः काठक इत्य् एवमाद्याः समाख्याः कथं वयं कथा इत्य् एवमादिनियतो व्यपदेश उपपद्यते । 
 
 > _सत्यम्_ । क एवम् आह । अर्थान्तरनिमित्तका एताः समाख्याः । को वा वयं कठा इत्य् एवमादेर् व्यपदेशस्यानित्यत्वम् आह । कथम् । प्रोक्ताध्ययननिमित्तकः इदानीन्तनो ऽयं व्यपदेशः । समाख्याश् च प्रवचननिमित्ताः तथापि समाख्यानाम् आविर्भावतिरोभावेषु सत्स्व् अपि शाखाया नित्यत्वात् नित्यसम्बन्धत्वस्मरणस्य न कदाचिद् धानिः । **रहस्यम्** उपनिषदः, आत्मज्ञानपरत्वेनासां प्राधान्यात् पृथग् उपदेशः ॥ २.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	An Aryan must study the whole Veda together with the Rahasyas, performing at the same time various kinds of austerities and the vows prescribed by the rules (of the Veda).
 </details>
 
 <details><summary>भारुचिः</summary>

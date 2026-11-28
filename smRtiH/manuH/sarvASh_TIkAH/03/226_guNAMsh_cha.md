@@ -3,6 +3,11 @@ title = "226 गुणांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Pure and with collected mind, he shall first place on the ground the accessories, such as soups and vegetaui.es, &c., milk, curd, butter and honey.—(226)
@@ -55,9 +60,4 @@ articles of food,—‘*bhūmau*’ as ‘not on the feeding-dish itself *i*.
 <details><summary>गोविन्दराजः</summary>
 
 **गुणान्** इति । सूपादीनि व्यञ्जनानि क्षीरादीनि चोपसेचनानि प्राधान्यात् पृथक् पृथक् यथोपदिष्टानि **प्रयतः **शुचिः **समाहितः** अनन्यमनाः सन् यथा न विशीर्यन्ते तथा **भूमाव् एव **नान्यत्र स्थापयेत् ॥ ३.२२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,
 </details>

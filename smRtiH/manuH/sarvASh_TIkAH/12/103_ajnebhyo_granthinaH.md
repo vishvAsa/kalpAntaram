@@ -3,6 +3,11 @@ title = "103 अज्ञेभ्यो ग्रन्थिनः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+103	(Even forgetful) students of the (sacred) books are more distinguished than the ignorant, those who remember them surpass the (forgetful) students, those who possess a knowledge (of the meaning) are more distinguished than those who (only) remember (the words), men who follow (the teaching of the texts) surpass those who (merely) know (their meaning).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Better than ignoramuses are those who ‘read the books’; better than the ‘reader of books’ are those who ‘retain’ them; better than the ‘retainers’ are those who have ‘knowledge’; and better than those having ‘knowledge’ are those who act.—(103)
@@ -86,9 +91,4 @@ This verse is quoted in *Smṛtitattva* II (p. 73), which adds the following not
 <details><summary>भारुचिः</summary>
 
 ग्रन्थधारिणो **धारिणः** । पूर्वपदलोपो ऽत्र विज्ञेयः । यथा सत्यभामा भामा देवदत्तो दत्त इति । **धारिभ्यो ज्ञानिनः**- प्रयत्न[वि]शेषाद् अधिकतरफलभाजः । **ज्ञानिभ्यो** ऽध्यवसायिनः कर्मणाम् अनुष्ठातारः । यस्मात् ॥ १२.१०२–१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	(Even forgetful) students of the (sacred) books are more distinguished than the ignorant, those who remember them surpass the (forgetful) students, those who possess a knowledge (of the meaning) are more distinguished than those who (only) remember (the words), men who follow (the teaching of the texts) surpass those who (merely) know (their meaning).
 </details>

@@ -3,6 +3,11 @@ title = "039 व्रीहयः शालयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	The rice (called) vrihi and (that called) sali, mudga-beans, sesamum, masha-beans, barley, leeks, and sugar-cane, (all) spring up according to their seed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “Vrīhi -corn, rice, mudga-beans, sesamum, māṣa-beans, barley, leeks and sugar-cane are produced in accordance with the seeds.”—(39)
@@ -40,9 +45,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 एवं च सति प्रत्यक्षतः ।
-</details>
-
-<details><summary>Bühler</summary>
-
-039	The rice (called) vrihi and (that called) sali, mudga-beans, sesamum, masha-beans, barley, leeks, and sugar-cane, (all) spring up according to their seed.
 </details>

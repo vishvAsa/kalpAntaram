@@ -3,6 +3,11 @@ title = "037 चण्डालात् पाण्डुसोपाकस्
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	From a Kandala by a Vaideha woman is born a Pandusopaka, who deals in cane; from a Nishada (by the same) an Ahindika.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the ‘Vaideha’ woman from the ‘Caṇḍāla’ is born the ‘Paṇḍusopāka’ who deals in bamboos; as also the ‘Āhiṇḍika’ from the ‘Niṣāda.’—(37)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 चण्डालाद् वैदेह्याम् एकजातौ वर्णद्वयम् इदं पाण्डुसोपाखाहिण्डिकलक्षणं जायते । एवं चात्र वर्णापशदप्रकरणे मातृभेदाद् वा एकवर्णजातयोर् अपि भेदः, पितृभेदाद् वा एकस्याम् एव स्त्रियां भेदो विज्ञेयः ॥ १०.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	From a Kandala by a Vaideha woman is born a Pandusopaka, who deals in cane; from a Nishada (by the same) an Ahindika.
 </details>

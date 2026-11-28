@@ -3,6 +3,11 @@ title = "127 धर्मेप्सवस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	(Sudras) who are desirous to gain merit, and know (their) duty, commit no sin, but gain praise, if they imitate the practice of virtuous men without reciting sacred texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If those who, knowing their duty, and wishing to acquire merit, imitate the practices of righteous men, with the exception of reciting the sacred texts, they incur no guilt; they obtain praise.—(127)
@@ -100,9 +105,4 @@ See Comparative notes for [Verse 10.126].
 <details><summary>भारुचिः</summary>
 
 अप्रतिषिद्धम् आसेवमानाः । प्रकरणाद् ब्राह्मणापाश्रितशूद्रा उच्यन्ते । न चानेन मन्त्रप्रतिषेधेनाग्निहोत्रादिष्व् अप्य् अस्याधिकारो ऽनुज्ञायते, "मन्तर्वर्जं न दुष्यन्ति" इत्य् एतस्माद् । येन श्रुत्याग्निहोत्रादिषु शूद्रः पर्युदस्तः तस्माद् धर्मेप्सवः स्मार्तविषयं नियतसंस्कारेषु पाकयज्ञेषु चावसथ्याधानपार्वणवैश्वदेवान्नप्राशनादिषु शूद्राणां पाक्षिको ऽधिकार इत्य् उक्तम् । तथा च स्मृत्यन्तरम्- "पाकयज्ञैः स्वयं यजेतेत्य् एके" इति । एवं च ॥ १०.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	(Sudras) who are desirous to gain merit, and know (their) duty, commit no sin, but gain praise, if they imitate the practice of virtuous men without reciting sacred texts.
 </details>

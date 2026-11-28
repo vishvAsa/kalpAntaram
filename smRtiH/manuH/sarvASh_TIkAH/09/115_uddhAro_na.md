@@ -3,6 +3,11 @@ title = "115 उद्धारो न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+115	But among (brothers) equally skilled in their occupations, there is no additional share, (consisting of the best animal) among ten; some trifle only shall be given to the eldest as a token of respect.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But there is to be no additional share ‘out of ten,’ if all the brothers are efficient in their occupations; some little thing however shall be given to the eldest, as a mark of respect.—(115)
@@ -47,9 +52,4 @@ choice portion of the property.’
 <details><summary>भारुचिः</summary>
 
 पूर्वश्लोके य उद्धारो ज्येष्ठस्योक्तः स निवर्त्यते । **उद्धारो दशस्व्** अपि पशुषु **नास्ति** ज्येष्ठस्य, प्राग् एवान्यत्र यथो[क्तधनजातादिषु । यन्]निमित्तेनायं ज्येष्ठांशापवादस् तं दर्शयति । **संपन्नानां स्वकर्मसु** तद्भ्रातॄणाम् । एवं वैषाम् अध्ययनविज्ञाने कर्मसंपद्वचनाद् अर्थगृहीते । एतद् अपि [ज्ञेयम्] । **यत् किंचिद् एव देयं तु ज्यायसे मानवर्धनं** नोद्धारः पूर्वः । तथा च समगुणेषु भ्रातृष्व् अयं विभागो विज्ञेयः । उद्धारग्रहणपक्षे चेदम् उच्यते ॥ ९.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	But among (brothers) equally skilled in their occupations, there is no additional share, (consisting of the best animal) among ten; some trifle only shall be given to the eldest as a token of respect.
 </details>

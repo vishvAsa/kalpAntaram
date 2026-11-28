@@ -3,6 +3,11 @@ title = "151 वपनम् मेखला"
 
 +++
 
+<details><summary>Bühler</summary>
+
+152	The tonsure, (wearing) the sacred girdle, (carrying) a staff, going to beg, and the vows (incumbent on a student), are omitted on the second initiation of twice-born men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the performance of the Re-initiation of twice-born men, tonsure, the girdle, the staff, begging alms, and the vows are omitted.—(151)
@@ -61,9 +66,4 @@ staff and the alms-begging shall be omitted.’
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ११.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	The tonsure, (wearing) the sacred girdle, (carrying) a staff, going to beg, and the vows (incumbent on a student), are omitted on the second initiation of twice-born men.
 </details>

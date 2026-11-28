@@ -3,6 +3,11 @@ title = "251 पृष्ट्वा स्वदितम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having asked—“Have you dined well?”—he shall, after they have been fully satisfied, make them wash; and when they have washed, he shall say—“You may rest where you choose.—(251)
@@ -75,9 +80,4 @@ completed?), he shall gather all the food that has been used and having taken ou
 <details><summary>गोविन्दराजः</summary>
 
 **पृष्ट्वा स्वदितम् इत्य् एवम्** इति । तान् ब्राह्मणान् तृप्तान् वृद्ध्या **स्वदितम् इत्य् एवं पृष्ट्वा** तत उपस्पर्शयेत् । कृताचमनांश् च इह वा स्वगृहे वास्यताम् इत्य् एवम् अनुज्ञातव्य्ः ॥ ३.२५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'
 </details>

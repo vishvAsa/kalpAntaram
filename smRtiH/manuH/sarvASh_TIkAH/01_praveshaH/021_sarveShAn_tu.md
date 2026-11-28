@@ -2,6 +2,11 @@
 title = "021 सर्वेषान् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+021	But in the beginning he assigned their several names, actions, and conditions to all (created beings), even according to the words of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the outset he designated distinct names for add things; and devised acts and Laws, on the basis of the words of the veda.—(21)
@@ -82,11 +87,6 @@ in the beginning, create the names of the sages, as also of all those creations 
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वेषाम्** इति । **स **ब्रह्मा **सर्वेषां नामानि **ब्राह्मण इत्येवमादीनि **कर्माणि **चाध्ययनादीनि **पृथक् पृथक्** यस्य यान्य् एव पूर्वकल्पे ऽभूवन् तानि सुप्तप्रबुद्धवत् प्राक्कल्पाधीतप्रतिभात**वेदशब्देभ्य **एव सृष्ट्यादौ निर्मितवान् लौकिकीश् च व्यवस्थाः **पृथग्** इति ॥ १.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	But in the beginning he assigned their several names, actions, and conditions to all (created beings), even according to the words of the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

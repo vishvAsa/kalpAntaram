@@ -2,6 +2,11 @@
 title = "041 एवम् एतैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this manner was all this, movable and immovable, called into being, through the force of austerities, by these high-souled sages, under my direction,—in accordance with their actions.—(11)
@@ -34,11 +39,6 @@ In this manner was all this, movable and immovable, called into being, through t
 <details><summary>गोविन्दराजः</summary>
 
 **एवम् **इति । अनेन प्रकारेण तैः मुनिभिः मदाज्ञया सृज्यमानप्राणिकर्मगतकर्मानुरूपेण इदं तपोबलात् सृष्टम् ॥ १.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
 </details>
 
 <details><summary>भारुचिः</summary>

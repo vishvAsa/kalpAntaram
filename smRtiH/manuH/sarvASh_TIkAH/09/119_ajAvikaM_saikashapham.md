@@ -3,6 +3,11 @@ title = "119 अजाविकं सैकशफम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+119	Let him never divide (the value of) a single goat or sheep, or a (single beast) with uncloven hoofs; it is prescribed (that) a single goat or sheep (remaining after an equal division, belongs) to the eldest alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall not divide an odd goat, or sheep, or an animal with uncleft hoofs; the odd goat or sheep is declared to belong to the eldest.—(119)
@@ -45,9 +50,4 @@ cow, a horse, a goat and a sheep, respectively, for the four castes.’
 <details><summary>भारुचिः</summary>
 
 अजाविकं तु विभागकाले यदि विअमसंख्यया विभक्तुम् अशक्यं तज् जेष्ठस्यैव स्यात् । न तद् अन्यस्य द्रव्यांशपातेन समतां नयेत्, विरीय वा तन्मूल्यं खण्डयेत् ॥ ९.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	Let him never divide (the value of) a single goat or sheep, or a (single beast) with uncloven hoofs; it is prescribed (that) a single goat or sheep (remaining after an equal division, belongs) to the eldest alone.
 </details>

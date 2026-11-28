@@ -3,6 +3,11 @@ title = "050 यद् अन्यगोषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+050	If (one man's) bull were to beget a hundred calves on another man's cows, they would belong to the owner of the cows; in vain would the bull have spent his strength.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a bull were to beget a hundred calves on others’ cows, those calves would belong to the owners of the cows, and the bull’s emissions would be in vain.—(50)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । **स्वामिनाम्** इति । यद्य् अन्यसम्बन्धिनीषु गोस्त्रीषु परकीयो वृषभः शतम् अपि वत्सानां जनयेत् तदा ते सर्ववत्सा गोस्वामिनाम् एव, तं नैको ऽपि बीजस्वामिनो वृषभसम्बन्धीयकः शुक्रो वृषभस्वामिनो निष्फल एव ॥ ९.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	If (one man's) bull were to beget a hundred calves on another man's cows, they would belong to the owner of the cows; in vain would the bull have spent his strength.
 </details>

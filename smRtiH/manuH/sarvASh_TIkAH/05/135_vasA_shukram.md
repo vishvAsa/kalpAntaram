@@ -2,6 +2,11 @@
 title = "135 वसा शुक्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+135	Oily exudations, semen, blood, (the fatty substance of the) brain, urine, faeces, the mucus of the nose, ear-wax, phlegm, tears, the rheum of the eyes, and sweat are the twelve impurities of human (bodies).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Fat, man, blood, marrow, urine, ordure, nasal excretion, eab-wax, phlegm, tears, rheum of the eyes and perspiration,—these twelve are the ‘excretions’ of human beings.—(134).
@@ -50,11 +55,6 @@ the first six (enumerated in Manu), one should take up both earth and water; but
 <details><summary>गोविन्दराजः</summary>
 
 **वसेति । वसा** कायस्नेहः । **शुक्रं** रेतः । **असृक्** रुधिरम्, **मज्जा** शिरःस्थमेदो मूत्रपुरीषकर्णमलश्लेष्मास् त्व् अक्षिमलस्वेदा इत्य् **एते नृणां मलाः** । नरादीनाम् अभक्ष्यप्राणीनां मलाः मूत्रपुरीषोत्सर्गे सति ॥ ५.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Oily exudations, semen, blood, (the fatty substance of the) brain, urine, faeces, the mucus of the nose, ear-wax, phlegm, tears, the rheum of the eyes, and sweat are the twelve impurities of human (bodies).
 </details>
 
 <details><summary>भारुचिः</summary>

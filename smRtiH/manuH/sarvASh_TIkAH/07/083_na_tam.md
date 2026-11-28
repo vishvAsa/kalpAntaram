@@ -3,6 +3,11 @@ title = "083 न तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	Neither thieves nor foes can take it, nor can it be lost; hence an imperishable store must be deposited by kings with Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither thieves, nor enemies take it away; nor does it perish; hence this inexhaustible treasure shall be deposited by the king with the Brāhmaṇas.—(83)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 7.82].
 <details><summary>भारुचिः</summary>
 
 यथा स्तेना आटविका अमित्रा नृपद्रव्यापहारिणः न तथा ब्राह्मणादिभ्यो हिरण्यादिदानेन निधेः कुतश्चिद् विनाश इत्य् अर्थवादो ऽयं नियतदानस्तुत्यर्थः ॥ ७.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Neither thieves nor foes can take it, nor can it be lost; hence an imperishable store must be deposited by kings with Brahmanas.
 </details>

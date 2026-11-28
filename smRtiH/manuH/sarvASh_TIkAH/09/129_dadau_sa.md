@@ -3,6 +3,11 @@ title = "129 ददौ स"
 
 +++
 
+<details><summary>Bühler</summary>
+
+129	He gave ten to Dharma, thirteen to Kasyapa, twenty-seven to King Soma, honouring (them) with an affectionate heart.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He gave ten to Dharma, thirteen to Kaśyapa, and twenty-seven to King Soma,—having honoured them with an affectionate heart.—(129)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.127].
 <details><summary>भारुचिः</summary>
 
 सत्कारवचनं च सर्वार्थं लिङ्गम् अपरेषां पुत्रिकाकर्मणि ॥ ९.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	He gave ten to Dharma, thirteen to Kasyapa, twenty-seven to King Soma, honouring (them) with an affectionate heart.
 </details>

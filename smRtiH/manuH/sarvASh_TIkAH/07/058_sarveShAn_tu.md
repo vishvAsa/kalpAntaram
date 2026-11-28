@@ -3,6 +3,11 @@ title = "058 सर्वेषान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	But with the most distinguished among them all, a learned Brahmana, let the king deliberate on the most important affairs which relate to the six measures of royal policy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With the learned Brāhmaṇa, however, who is the most distinguished of them all, the king shall discuss the highest secrets pertaining to the six-fold state-craft.—(58)
@@ -54,9 +59,4 @@ councillors, he shall act upon that counsel which is proposed by the highly inte
 <details><summary>भारुचिः</summary>
 
 अधिकतरप्रज्ञो हि ब्राह्मणो धार्मिकत्वाच् च निर्दोषतया विश्वसनीयः ॥ ७.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	But with the most distinguished among them all, a learned Brahmana, let the king deliberate on the most important affairs which relate to the six measures of royal policy.
 </details>

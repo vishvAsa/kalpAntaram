@@ -2,6 +2,11 @@
 title = "128 अवाच्यो दीक्षितो"
 +++
 
+<details><summary>Bühler</summary>
+
+128	He who has been initiated (to perform a Srauta sacrifice) must not be addressed by his name, even though he be a younger man; he who knows the sacred law must use in speaking to such (a man the particle) bhoh and (the pronoun) bhavat (your worship).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A person who has been initiated (for a rite), even though he be younger, should not be addressed by name; one who knows the law should address him beginning with such terms as “sir” and “your worship.”—(128)
@@ -53,11 +58,6 @@ Soma) \[should be addressed as Sir\].’
 <details><summary>गोविन्दराजः</summary>
 
 **अवाच** इति । यागार्थं कृतदीक्षः प्रत्यभिवादनार्थं कार्यान्तरार्थं वा **नाम्ना** कनीयान् अपि न वाच्यः । किं तर्हि । भो दीक्षित भवता यजमानेन इत्य् एवं **भोभवच्**छब्द**पूर्वं** यौगिकं शब्दैः **एनं **धर्मज्ञो **ऽभिभाषेत **॥ २.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	He who has been initiated (to perform a Srauta sacrifice) must not be addressed by his name, even though he be a younger man; he who knows the sacred law must use in speaking to such (a man the particle) bhoh and (the pronoun) bhavat (your worship).
 </details>
 
 <details><summary>भारुचिः</summary>

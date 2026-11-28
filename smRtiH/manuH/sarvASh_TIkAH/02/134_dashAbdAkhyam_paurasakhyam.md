@@ -2,6 +2,11 @@
 title = "134 दशाब्दाख्यम् पौरसख्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among citizens friendship and equality are regarded as ranging within ten years (of age-difference); among artists, it is regarded as ranging within five years; among learned men, it proceeds up to three years; and among blood-relations, it ranges only within a very short period of time.—(134)
@@ -115,11 +120,6 @@ his *friend*; a citizen who is senior by ten years; an artisan, who is senior by
 <details><summary>गोविन्दराजः</summary>
 
 **दशाब्दाख्यम्** इति । एकपुरनिवासिना निर्गुणानाम् एकस्य **दशभिर् वर्षैः** ज्येष्ठे सत्य् अपि सख्यम् आख्यायते । ततश् चासौ “भो भवत् इति वयस्यः” [ग्ध् ६.१४] इत्य् एवं गौतमस्मरणाद् वाच्यः । एवं **कलाभृतां **गीतज्ञानां **पञ्चभिर् अब्दैः** सख्यम् आख्यायते वेदाध्यायिनां **त्र्यब्दपूर्वं **त्र्यब्दाधिकं त्रिवर्षज्येष्ठेन सख्यम् । ज्ञातिषु पुनर् अप्य् **अल्पेनैव **कालेन । यत्र वर्षव्यवहारो नास्ति तेन सख्यम् अन्यथा सर्वत्रात्र ज्येष्थत्वव्यवहारः ॥ २.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
 </details>
 
 <details><summary>भारुचिः</summary>

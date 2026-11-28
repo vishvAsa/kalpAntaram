@@ -2,6 +2,11 @@
 title = "042 मौञ्जी त्रिवृत्"
 +++
 
+<details><summary>Bühler</summary>
+
+042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For, the Brāhmaṇa the girdle should be threefold, of even thickness, soft and smooth, made of muñja grass; for the Kṣatriya it should be the bow-string made of murvā grass; and for the Vaiśya the cord made of hempen fibres.”—(42)
@@ -85,11 +90,6 @@ grass.’
 <details><summary>गोविन्दराजः</summary>
 
 **मौञ्जीति** । मुञ्जाख्या कक्षम्यी त्रिगुणा समगुणा अपरुषा ब्राह्मणस्य **मेखला **कार्या । **क्षत्रियस्य **तु मूर्वामयी **ज्या** धनुर्गुणः मेखला कार्या । अत्र च ज्यात्वविनाशापत्तेः त्रिवृत्वं नास्ति पूर्वासां (पूर्वेषां) गान्धिषु (ग्रन्थेषु) तथा प्रसिद्धेः । **वैश्यस्य शाण**सूत्रमयी । अत्र च त्रैगुण्यम् अनुवर्तते गुणानाम् अपेक्षणात्, गृह्यस्मृतौ च गुणाम्नानात् ॥ २.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.
 </details>
 
 <details><summary>भारुचिः</summary>

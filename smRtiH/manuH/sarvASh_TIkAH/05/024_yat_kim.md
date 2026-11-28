@@ -2,6 +2,11 @@
 title = "024 यत् किम्"
 +++
 
+<details><summary>Bühler</summary>
+
+024	All lawful hard or soft food may be eaten, though stale, (after having been) mixed with fatty (substances), and so may the remains of sacrificial viands.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such Food and eatables as are mixed with oils may be eaten though stale, if unspoilt; so also what may be the remnant of a sacrificial offering.—(24)
@@ -110,11 +115,6 @@ fried-barley flour, vegetables, meat, curries, rice-sesamum, barley-meal, milk-v
 <details><summary>गोविन्दराजः</summary>
 
 अधुना पर्युषितप्रतिप्रसवार्थम् आह **यत् किञ्चिद्** इति । यद् **भक्ष्यं** खरविषदम् अभ्यवहार्यम् मोदकादि । यच् च भोज्यं पायसादि उपघातान्तररहितं तद् दधिघृतादिस्नेहयुक्तं कृत्वा पर्युषितम् अपि रात्र्यन्तरितम् अद्यम् अदनार्हम् इत्य् एवं तच्छब्दव्यत्ययेनैतद् व्याख्येयम् । यथा श्रुतयोजनायां हविषो ऽभिघारणे सति स्नेहसंयोगावश्यम्भावित्वाद् धविःशेषस्य “यत् किञ्चिद् स्नेहसंयुक्तम्” इत्य् अनेनैव सिद्धत्वे सति पुनर् अभिधानम् अनर्थकं स्यात् । यच् च हुतशिष्टं पुरोडाशादि पर्युषितं स्यात् तत् भोजनकाले स्नेहसंयोगशून्यम् अप्य् अदनार्थम् ॥ ५.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	All lawful hard or soft food may be eaten, though stale, (after having been) mixed with fatty (substances), and so may the remains of sacrificial viands.
 </details>
 
 <details><summary>भारुचिः</summary>

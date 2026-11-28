@@ -2,6 +2,11 @@
 title = "091 एकम् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra the Lord ordained only one function: the ungrudging service of the said castes. (91).
@@ -31,11 +36,6 @@ This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and i
 <details><summary>गोविन्दराजः</summary>
 
 **एकम्** इति । स **प्रभुः **अनिन्दया ब्राह्मणादिपरिचरणं **कर्मा**दिष्टवान् ॥ १.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.
 </details>
 
 <details><summary>भारुचिः</summary>

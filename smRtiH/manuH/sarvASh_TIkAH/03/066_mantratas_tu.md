@@ -2,6 +2,11 @@
 title = "066 मन्त्रतस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (Note: the following is an alternate translation by George Bühler)
@@ -41,11 +46,6 @@ See Comparative notes for [Verse 3.64].
 <details><summary>गोविन्दराजः</summary>
 
 **मन्त्रत** इति । यद्य् अपि धनेन कुलम् इति प्रवादः । तथापि वेदाध्ययनावबोध-तदर्थानुष्ठानयुक्तानि पुनः कुलानि अल्पधनान्य् अपि उत्कृष्टकुलमध्ये गुण्यतां प्राप्नुवन्ति महतीं ख्यातिम् अर्जयन्ति । विवाहप्रसङ्गेन प्रसक्तानुप्रसक्तिकयैतत् सर्वम् उक्तम् ॥ ३.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.
 </details>
 
 <details><summary>भारुचिः</summary>

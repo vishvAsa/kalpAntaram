@@ -2,6 +2,11 @@
 title = "079 अन्तर्-दशाहे स्याताम्"
 +++
 
+<details><summary>Bühler</summary>
+
+079	If within the ten days (of impurity) another birth or death happens, a Brahmana shall remain impure only until the (first) period of ten days has expired.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, within ten days, another birth or death happen to befall, the Brāhmaṇa shall remain impure until that period of ten days shall have elapsed.—(78).
@@ -103,11 +108,6 @@ or death should occur, the Brāhmaṇa shall remain impure till the expiry of th
 > तच्छेषेणैव शुद्धिः स्यान् मृतके मृतकं तथा ॥
 
 इत्य् अङ्गिरसः स्मरणात् । च तदा तावत्कालम् एव ब्राह्मणादेर् आशौचं स्याद् यावत् पूर्वोत्पन्नम् आशौचं नापगतं तत् पश्चाद् अतीतम् । दशाहादि यावत् तत्रापि च “रात्रिशेषे द्वाभ्यां प्रभाते तिसृभिः” इति गौतमीयो विशेषो द्रष्टव्यः ॥ ५.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	If within the ten days (of impurity) another birth or death happens, a Brahmana shall remain impure only until the (first) period of ten days has expired.
 </details>
 
 <details><summary>भारुचिः</summary>

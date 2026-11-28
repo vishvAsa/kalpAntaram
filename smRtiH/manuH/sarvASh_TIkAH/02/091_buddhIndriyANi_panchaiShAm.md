@@ -2,6 +2,11 @@
 title = "091 बुद्धीन्द्रियाणि पञ्चैषाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of these the five beginning with the Ear in due order they call “Organs of Sensation’; and five of these, beginning with the Anus, “Organs of Action.”—(91)
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 2.89].
 <details><summary>गोविन्दराजः</summary>
 
 **बुद्धीन्द्र्याणीति** । **एषां **मध्यात् **श्रोत्रा**दीनि क्रमेन **पञ्च** बुद्धेः शब्दादिविषयविज्ञानस्य जनकानि, **पण्च पाय्वा**दीनि विसर्गादिकर्मार्थानि मन्वादयः कथयन्तीति कार्यभेदात् वर्गद्वयविभागः ॥ २.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
 </details>
 
 <details><summary>भारुचिः</summary>

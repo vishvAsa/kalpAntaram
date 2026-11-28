@@ -3,6 +3,11 @@ title = "047 सकृद् अंशो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	Once is the partition (of the inheritance) made, (once is) a maiden given in marriage, (and) once does (a man) say,' I will give;' each of those three (acts is done) once only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Once does the share fall to a man; once is a maiden given away; once does one say ‘I give’; each of these three comes only once.—(47)
@@ -136,9 +141,4 @@ been given away with water and verbally,—hut has not gone through the ceremoni
 <details><summary>भारुचिः</summary>
 
 कन्यातो अन्यद् अपि देयद्रव्यं दाता प्रतिग्रहीत्रे । एवं च सति **त्रीण्य् एतानि सतां सकृत्** । अतश् च स पुनर्दानासंभवस् तस्याः । तथा च न बीजप्राधान्यं परपरिग्रीतायाम् । कथम् ॥ ९.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	Once is the partition (of the inheritance) made, (once is) a maiden given in marriage, (and) once does (a man) say,' I will give;' each of those three (acts is done) once only.
 </details>

@@ -3,6 +3,11 @@ title = "155 ब्राह्मण-क्षत्रिय-विशां �
 
 +++
 
+<details><summary>Bühler</summary>
+
+155	The son of a Brahmana, a Kshatriya, and a Vaisya by a Sudra (wife) receives no share of the inheritance; whatever his father may give to him, that shall be his property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the Brāhmaṇa, the Kṣatriya and the Vaiśya, the son born of a Śūdra wife is not an inheritor of property; his property shall consist of whatever his father may give to him.—(155)
@@ -101,9 +106,4 @@ See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 पित्रधीनो ऽस्यांश इत्य् अयम् अपरः कल्पो गुणसंबन्धापेक्षः पूर्वविधेः । एवं च सति पूर्वोत्तरयोर् विरोधाद् अनयोर् विकल्पो गुण[संबन्धापे]क्षः । अथ वा अनूढाशूद्रापुत्रस्यायं विधिर् ज्ञेयः । पूर्वस् तूढापुत्रस्य । तथा च गौतमः शूद्रप्रकरण आहापरिगृहीतास्व् अपि "शुश्रूषुश् चेल् लभेत वृत्तिमूलम् अन्तेवासिविधिना" ॥ ९.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	The son of a Brahmana, a Kshatriya, and a Vaisya by a Sudra (wife) receives no share of the inheritance; whatever his father may give to him, that shall be his property.
 </details>

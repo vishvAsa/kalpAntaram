@@ -3,6 +3,11 @@ title = "028 वशापुत्रासु चैवम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	In like manner care must be taken of barren women, of those who have no sons, of those whose family is extinct, of wives and widows faithful to their lords, and of women afflicted with diseases.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There shall be similar protection in the case of barren women, of son-less women, of women devoted to their husbands, and of widows faithful to their husbands,—when their family is extinct, and when they are in distress.—(28)
@@ -154,9 +159,4 @@ This verse is quoted in *Vivādaratnākara* (p. 512), which adds the following n
 <details><summary>भारुचिः</summary>
 
 वशा वन्द्या, अपुत्रा स्त्रीप्रजा मृतप्रजा वा उभे अपि चैते सामर्थ्याद् विधवे विज्ञेये । निष्कुला कन्याइवापितृमातृका । पतिव्रता [भर्त्रभावे ऽव्यभिचारिणी । विधवा भर्तृरहिता] । विधवापतिव्रता सामर्थ्याद् गृह्यते, प्रोषितपुत्रा वा । एतासाम् अपि यत् स्त्रीधनं भर्तृधनं वा तद् अपि राज्ञा स्वबन्धुभ्यो रक्षितव्यम् । यथा बा[लरक्थस्य तथानाथधन्]आनाम् एव च राज्ञा सामान्यतो रक्षणं कर्तव्यम् इत्य् अनुशासनम् । अनाथानां त्व् अत्र विशेषेणोपदेशो युक्त आदरार्थः ॥ ८.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	In like manner care must be taken of barren women, of those who have no sons, of those whose family is extinct, of wives and widows faithful to their lords, and of women afflicted with diseases.
 </details>

@@ -3,6 +3,11 @@ title = "057 निक्षेपस्याऽपहरणन् नराश
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	Stealing a deposit, or men, a horse, and silver, land, diamonds and (other) gems, is declared to be equal to stealing the gold (of a Brahmana).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Stealing of a deposit, or of men, horse, silver, land, diamonds and other oems,—all this has been declared to be equal to the ‘stealing of gold.’—(57)
@@ -55,9 +60,4 @@ of land, and of cows, or of deposit, these are equal to gold-stealing.’
 <details><summary>गोविन्दराजः</summary>
 
 **निक्षेपस्येति **। निःक्षेपस्य ब्राह्मणसुवर्णाद् अन्यस्य सम्बन्धिनश् च सुवर्णस्यापहरणं तथा मनुष्याश्वरूप्यभूमिहीरकमणीनां हरणं सुवर्णस्तेयतुल्यम् ॥ ११.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	Stealing a deposit, or men, a horse, and silver, land, diamonds and (other) gems, is declared to be equal to stealing the gold (of a Brahmana).
 </details>

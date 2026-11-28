@@ -2,6 +2,11 @@
 title = "020 यथा यथा"
 +++
 
+<details><summary>Bühler</summary>
+
+020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For, as the man goes on studying a science, so does he go on understanding, and then his knowledge shines forth.—(20)
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 4.19].
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । यस्मात् यावत् पुरुषः **शास्त्रं **सम्यक् विविनक्ति तावत् तत् तद् विशेषेण **जानाति **शास्त्रान्तरविषयम् अपि चास्य **विज्ञानम्** उज्ज्वलं भवति ॥ ४.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
 </details>
 
 <details><summary>भारुचिः</summary>

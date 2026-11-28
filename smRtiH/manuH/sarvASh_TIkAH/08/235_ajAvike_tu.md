@@ -3,6 +3,11 @@ title = "235 अजाविके तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+235	But if goats or sheep are surrounded by wolves and the herdsman does not hasten (to their assistance), lie shall be responsible for any (animal) which a wolf may attack and kill.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When goats and sheep have been surrounded by wolves, and the keeper does not come for ward,—if the wolf forcibly kill any, the blame shall lie with the keeper.—(235)
@@ -55,9 +60,4 @@ or other ferocious animals, and the keeper not going to repel the attack, the bl
 <details><summary>भारुचिः</summary>
 
 पशुरक्षकस्य सतस् तदसंनि[धाने वा वृको हन्यात् स एव] दद्यात् । यस्माद् अवरुद्धानां संनिहितो न भवति । वृकग्रहणं चान्येषाम् अपि प्रदर्शनार्थम् ॥ ८.२३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-235	But if goats or sheep are surrounded by wolves and the herdsman does not hasten (to their assistance), lie shall be responsible for any (animal) which a wolf may attack and kill.
 </details>

@@ -3,6 +3,11 @@ title = "071 न दत्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	Let no prudent man, after giving his daughter to one (man), give her again to another; for he who gives (his daughter) whom he had before given, incurs (the guilt of) speaking falsely regarding a human being.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having given away his daughter to one man, the wise man should not give her away again. Having given her away once, if he gives her again, he incurs the guilt of ‘fraud towards men.’—‘(7l)
@@ -75,9 +80,4 @@ eligible in point of religious merit, fortune and amiability, present himself,�
 <details><summary>भारुचिः</summary>
 
 "सहस्रं पुरुषानृतम्" इति । दत्वान्यस्य कस्यचिद् दानाशङ्कया प्रतिषेधानुवादो ऽयम् ॥ ९.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	Let no prudent man, after giving his daughter to one (man), give her again to another; for he who gives (his daughter) whom he had before given, incurs (the guilt of) speaking falsely regarding a human being.
 </details>

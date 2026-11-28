@@ -2,6 +2,11 @@
 title = "047 अपुष्पाः फलवन्तो"
 +++
 
+<details><summary>Bühler</summary>
+
+047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those trees that are called ‘vanaspati’ bear fruits without flowers; and those called ‘vṛkṣa’ bear both flowers and fruits.—(47)
@@ -35,11 +40,6 @@ Though what is stated in the present verse is a well known fact (and as such did
 <details><summary>गोविन्दराजः</summary>
 
 **अपुष्पा **इति । वनस्पतीनां पुष्पम् अन्तरेणैव फलानि भवन्ति । वृक्षाः पुनः पुष्पफलेनोभयेनापि युक्ता भवन्ति ॥ १.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
 </details>
 
 <details><summary>भारुचिः</summary>

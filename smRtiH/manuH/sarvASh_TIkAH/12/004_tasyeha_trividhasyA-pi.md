@@ -3,6 +3,11 @@ title = "004 तस्येह त्रिविधस्याऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+004	Know that the mind is the instigator here below, even to that (action) which is connected with the body, (and) which is of three kinds, has three locations, and falls under ten heads.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Know the mind to be the instigator of all this that is connected with the body, and which is of three kinds, has three substrata and is endowed with ten distinct characteristics.—(4)
@@ -87,9 +92,4 @@ See Comparative notes for [Verse 12.1].
 <details><summary>भारुचिः</summary>
 
 **त्रिविधस्यो**त्तममध्यमजघन्यस्य, **त्र्यधिष्ठानस्य** कायवाङ्मनोनिमित्तस्य, **मनः प्रवर्तकम्** । येन नासंकल्पितं मनसा पुरुषः शक्नोति वक्तुं कर्तुं वा ॥ १२.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Know that the mind is the instigator here below, even to that (action) which is connected with the body, (and) which is of three kinds, has three locations, and falls under ten heads.
 </details>

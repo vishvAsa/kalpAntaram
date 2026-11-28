@@ -2,6 +2,11 @@
 title = "090 पाषण्डम् आश्रितानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+090	To women who have joined a heretical sect, who through lust live (with many men), who have caused an abortion, have killed their husbands, or drink spirituous liquor.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also from women, who have joined a heretic, who behave too freely, who have injured a child in their womb or their husband, and those who drink wine—(89).
@@ -142,11 +147,6 @@ See Comparative notes for [Verse 5.88].
 <details><summary>गोविन्दराजः</summary>
 
 **पाखण्डम्** इति । वेदब्राह्मव्रतवर्तिनां कुलटानां च यथा गर्भभर्तृघ्नीनां सुरापीणां च द्विजातिवन् निषेधातिक्रमेण चरन्तीनां च यथासङ्ख्यं द्विजातिस्त्रियं प्रत्याह । सुरालशुनपलाण्डुगृञ्जनकादीन्य् अभक्ष्याणि वर्जयेद् एवंविधानां स्त्रियाम् उदकक्रियाद्यौर्ध्वदेहिकम् आशौचं निवर्तेत ॥ ५.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	To women who have joined a heretical sect, who through lust live (with many men), who have caused an abortion, have killed their husbands, or drink spirituous liquor.
 </details>
 
 <details><summary>भारुचिः</summary>

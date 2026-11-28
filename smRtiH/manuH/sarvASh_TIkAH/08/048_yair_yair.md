@@ -3,6 +3,11 @@ title = "048 यैर् यैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	By whatever means a creditor may be able to obtain possession of his property, even by those means may he force the debtor and make him pay.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having determined the means by which the debtor may be able to get his money, he shall, by those same means, make the debtor pay up.—(48)
@@ -60,9 +65,4 @@ admitted the loan should be made to pay by such methods as are conciliatory and 
 <details><summary>भारुचिः</summary>
 
 प्रतिपन्नार्थम् अधमर्णं सान्त्वनादिभिर् उपायैर् उत्तमर्णचोदितो दापयेत् । नास्य तन्त्रोत्सादनं कुर्याद् इत्य् एवम् अर्थम् उपायनिर्देशः । धर्मः प्रथमः । एवं चोभयोर् अप्य् अविरोधाद् राज्ञानुग्रहो ऽनुष्ठितो भवति । ते च सामान्यत उक्ताः दापनोपाया विशेषतो निर्दिश्यन्ते ॥ ८.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	By whatever means a creditor may be able to obtain possession of his property, even by those means may he force the debtor and make him pay.
 </details>

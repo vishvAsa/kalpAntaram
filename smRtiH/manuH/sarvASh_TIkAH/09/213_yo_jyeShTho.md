@@ -3,6 +3,11 @@ title = "213 यो ज्येष्ठो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+213	An eldest brother who through avarice may defraud the younger ones, shall no (longer hold the position of) the eldest, shall not receive an (eldest son's additional) share, and shall be punished by the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If an eldest brother, through avarice, defrauds the younger ones, he shall lose his ‘seniority’ and his share, and shall also be punished by the king.—(213)
@@ -66,9 +71,4 @@ It is quoted in *Vivādaratnākara* (p. 478), which explains ‘*vinikurvīta*�
 <details><summary>भारुचिः</summary>
 
 विनिकरणम् अन्यायेन यवीयसां न्यक्करणं धनोपयोगश् च तान् अतिसंधाय । अर्थाच् च कनिष्ठो ऽपि सुतरांनियन्तव्य इत्य् आपद्यते ॥ ९.२१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-213	An eldest brother who through avarice may defraud the younger ones, shall no (longer hold the position of) the eldest, shall not receive an (eldest son's additional) share, and shall be punished by the king.
 </details>

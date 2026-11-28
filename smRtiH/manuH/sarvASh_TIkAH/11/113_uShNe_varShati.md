@@ -3,6 +3,11 @@ title = "113 उष्णे वर्षति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+114	In heat, in rain, or in cold, or when the wind blows violently, he must not seek to shelter himself, without (first) sheltering the cows according to his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In heat, in rain, in cold, or when the wind is blowing violently, he shall not shelter himself, without having sheltered the cows to the best of his ability.—(113)
@@ -36,9 +41,4 @@ See Explanatory notes for [Verse 11.108].
 **
 
 See Comparative notes for [Verse 11.108].
-</details>
-
-<details><summary>Bühler</summary>
-
-114	In heat, in rain, or in cold, or when the wind blows violently, he must not seek to shelter himself, without (first) sheltering the cows according to his ability.
 </details>

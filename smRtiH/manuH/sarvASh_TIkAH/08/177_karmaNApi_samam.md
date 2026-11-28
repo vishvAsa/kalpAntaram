@@ -3,6 +3,11 @@ title = "177 कर्मणापि समम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+177	Even by (personal) labour shall the debtor make good (what he owes) to his creditor, if he be of the same caste or of a lower one; but a (debtor) of a higher caste shall pay it gradually (when he earns something).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even by labour shall the debtor make good what is due to the creditor, if he is of the same or of a lower caste; the superior person shall pay it up gradually.—(177)
@@ -72,9 +77,4 @@ pay, the creditor shall make him do work; but an indigent Brāhmaṇa should he 
 <details><summary>भारुचिः</summary>
 
 श्रेयसो मान्यत्वात् सोढव्यम् एव तस्याप्रदानात् । अक्षान्त्या तु न कदाचिद् अप्य् असौ समहीनवत् कर्मकारयितव्यः । ēणापादानार्थः श्लोकः ॥ ८.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	Even by (personal) labour shall the debtor make good (what he owes) to his creditor, if he be of the same caste or of a lower one; but a (debtor) of a higher caste shall pay it gradually (when he earns something).
 </details>

@@ -3,6 +3,11 @@ title = "166 ताडयित्वा तृणेनाऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+166	Having intentionally struck him in anger, even with a blade of grass, he will be born during twenty-one existences in the wombs (of such beings where men are born in punishment of their) sins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in anger, struck him intentionally, even with a straw, he is born, during twenty-one births, in sinful wombs.—(166)
@@ -49,9 +54,4 @@ heaven), for a thousand years.’
 <details><summary>गोविन्दराजः</summary>
 
 **ताडयित्वेति** । क्रोधेन बुद्धिपूर्वं तृणेनापि प्रहृत्य एकविंशतिजन्मानि पापनिमित्तासु श्वादियोनिषु जायते । आजातीर् इत्य् आङ् पादपूरणः ॥ ४.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	Having intentionally struck him in anger, even with a blade of grass, he will be born during twenty-one existences in the wombs (of such beings where men are born in punishment of their) sins.
 </details>

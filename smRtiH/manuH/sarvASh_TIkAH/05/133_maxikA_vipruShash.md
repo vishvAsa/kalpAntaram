@@ -2,6 +2,11 @@
 title = "133 मक्षिका विप्रुषश्"
 +++
 
+<details><summary>Bühler</summary>
+
+133	Flies, drops of water, a shadow, a cow, a horse, the rays of the sun, dust, earth, the wind, and fire one must know to be pure to the touch.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Flies, water-drops, shadow, the cow, the horse, the sun’s rays, dust, earth, air and fire—should be regarded as pure to the touch.—(131).
@@ -78,11 +83,6 @@ shadow, cow, elephant, horse, sun-beams, dust, earth, air, fire and cat are alwa
 > मार्जारनकुलौ स्पर्शौ शुभाश् च मृगपक्षिणः ॥
 
 इत्य् अश्व आदित्यरश्मयो रजो वायुनेरितं भूरथ्यादौ चाण्डालादि स्पृष्ट्वा गमनमात्रेण वाय्वग्नि चेत्यादिस्पर्शे शुचीनीति जानीयात् ॥ ५.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Flies, drops of water, a shadow, a cow, a horse, the rays of the sun, dust, earth, the wind, and fire one must know to be pure to the touch.
 </details>
 
 <details><summary>भारुचिः</summary>

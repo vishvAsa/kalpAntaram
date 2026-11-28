@@ -2,6 +2,11 @@
 title = "151 यस्मै दद्यात्"
 +++
 
+<details><summary>Bühler</summary>
+
+151	Him to whom her father may give her, or her brother with the father's permission, she shall obey as long as he lives, and when he is dead, she must not insult (his memory).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Him to whom her father may give her,—or her brother with the father’s permission,—she shall attend upon as long as he lives, and shall not disregard him when he is dead.—(149).
@@ -61,11 +66,6 @@ never approaches another man, she attains fame in this world and rejoices in the
 <details><summary>गोविन्दराजः</summary>
 
 **यस्मै दद्याद्** इति । **यस्मै पिता **पित्रनुमते **भ्राता एनां दद्यात् तं जीवन्तं **परिचरेत्, मृतं च नातिक्रमेत् व्यभिचारेण ॥ ५.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	Him to whom her father may give her, or her brother with the father's permission, she shall obey as long as he lives, and when he is dead, she must not insult (his memory).
 </details>
 
 <details><summary>भारुचिः</summary>

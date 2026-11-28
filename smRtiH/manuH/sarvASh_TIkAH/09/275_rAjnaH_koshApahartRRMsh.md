@@ -3,6 +3,11 @@ title = "275 राज्ञः कोशापहर्तॄंश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+275	On those who rob the king's treasury and those who persevere in opposing (his commands), he shall inflict various kinds of capital punishment, likewise on those who conspire with his enemies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who rob the king’s treasuries and those who are disaffected towards him, as also those who conspire with his enemies,—the king shall strike with various forms of punishment.—(275)
@@ -59,9 +64,4 @@ receiving bribes, decide a case unjustly, those who injure the King’s property
 <details><summary>भारुचिः</summary>
 
 अपराधानुरूपतः स्वतन्त्रपीडापेक्षया एषां निग्रहः स्यात् ॥ ९.२७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-275	On those who rob the king's treasury and those who persevere in opposing (his commands), he shall inflict various kinds of capital punishment, likewise on those who conspire with his enemies.
 </details>

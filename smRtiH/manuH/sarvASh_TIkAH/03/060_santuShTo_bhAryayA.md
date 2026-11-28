@@ -2,6 +2,11 @@
 title = "060 सन्तुष्टो भार्यया"
 +++
 
+<details><summary>Bühler</summary>
+
+060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.—(60)
@@ -34,11 +39,6 @@ This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **सन्तुष्ट** इति । **यस्मिन् कुले **स्वभार्यया हेतुभूतया नित्यं **भर्ता** निवृत्ताभिलाषः **भार्या**पि च यत्र **नित्यं **स्व**भर्त्रा **हेतुभूतेन अनुपजातनरान्तराभिलाषा तत्राविचलं मङ्गलं भवति ॥ ३.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	In that family, where the husband is pleased with his wife and the wife with her husband, happiness will assuredly be lasting.
 </details>
 
 <details><summary>भारुचिः</summary>

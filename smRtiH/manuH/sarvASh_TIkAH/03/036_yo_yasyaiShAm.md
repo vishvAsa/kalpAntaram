@@ -2,6 +2,11 @@
 title = "036 यो यस्यैषाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The quality that has been ascribed by Manu to each of these forms of marriage—listen to all that, O Brāhmaṇas, from me, as I proceed to describe them correctly.—(36)
@@ -41,11 +46,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । **एषां** विवाहादीनां मध्यात् यस्य विवाहस्य यत् फलं मनुना कथितं तत् सर्वं **मम **यथावत् कथयतो **विप्राः शृणुत** ॥ ३.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
 </details>
 
 <details><summary>भारुचिः</summary>

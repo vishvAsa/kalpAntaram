@@ -3,6 +3,11 @@ title = "377 उभाव् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+377	But even these two, if they offend with a Brahmani (not only) guarded (but the wife of an eminent man), shall be punished like a Sudra or be burnt in a fire of dry grass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But both these, when offending against a protected Brāhmaṇa woman, should be punished like a Śūdra, or burnt in a fire of dry grass.—(377)
@@ -68,9 +73,4 @@ See Comparative notes for [Verse 8.374].
 <details><summary>भारुचिः</summary>
 
 अयं तु **कटाग्निना** दाहः शूद्रदण्डस्य वैकल्पिकस् ततो ज्ञेयः ॥ ८.३७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-377	But even these two, if they offend with a Brahmani (not only) guarded (but the wife of an eminent man), shall be punished like a Sudra or be burnt in a fire of dry grass.
 </details>

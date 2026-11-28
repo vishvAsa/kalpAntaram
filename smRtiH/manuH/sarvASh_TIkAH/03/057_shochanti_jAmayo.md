@@ -3,6 +3,11 @@ title = "057 शोचन्ति जामयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.—(57)
@@ -41,9 +46,4 @@ family becomes doomed.’
 <details><summary>गोविन्दराजः</summary>
 
 **शोचन्तीति** । यस्मिन् कुले नवोढा दुहितृस्तुषाद्याः सशोका भवन्ति तत् कुलं क्षिप्रम् एव **विनश्यति **। **यत्र **पुनर्** एता **शोकार्ता न भवन्ति तत् सर्वकालं वृद्धिम् एति ॥ ३.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.
 </details>

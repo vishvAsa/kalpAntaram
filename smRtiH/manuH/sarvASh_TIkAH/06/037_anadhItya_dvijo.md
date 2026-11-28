@@ -3,6 +3,11 @@ title = "037 अनधीत्य द्विजो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	A twice-born man who seeks final liberation, without having studied the Vedas, without having begotten sons, and without having offered sacrifices, sinks downwards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, who seeks Liberation, without having studied the Vedas, without having begotten offspring, and without having offered sacrificis, sinks downwards.—(37).
@@ -37,11 +42,6 @@ See Comparative notes for [Verse 6.36].
 </details>
 
 <details><summary>भारुचिः</summary>
-
-037	A twice-born man who seeks final liberation, without having studied the Vedas, without having begotten sons, and without having offered sacrifices, sinks downwards.
-</details>
-
-<details><summary>Bühler</summary>
 
 037	A twice-born man who seeks final liberation, without having studied the Vedas, without having begotten sons, and without having offered sacrifices, sinks downwards.
 </details>

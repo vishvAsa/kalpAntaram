@@ -3,6 +3,11 @@ title = "186 त्रयाणाम् उदकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+186	To three (ancestors) water must be offered, to three the funeral cake is given, the fourth (descendant is) the giver of these (oblations), the fifth has no connection (with them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To three should water-libation be offered; to three is the cake offered; the fourth is the giver of these offerings; there can be no fifth.—(186)
@@ -64,9 +69,4 @@ goes to the Assembly, *not to* the King.’
 <details><summary>भारुचिः</summary>
 
 प्रकृतस्य संनिकर्षस्य विभवनार्थो ऽयं श्लोकः ॥ ९.१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	To three (ancestors) water must be offered, to three the funeral cake is given, the fourth (descendant is) the giver of these (oblations), the fifth has no connection (with them).
 </details>

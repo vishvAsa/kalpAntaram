@@ -2,6 +2,11 @@
 title = "244 आ समाप्तेः"
 +++
 
+<details><summary>Bühler</summary>
+
+244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who, till the dissolution of his body, serves his teacher, goes forthwith to the eternal abode of brahman.—(244)
@@ -53,11 +58,6 @@ See Comparative notes for [Verse 2.243].
 <details><summary>गोविन्दराजः</summary>
 
 अस्य फलम् आह **आ समाप्तेर्** इति । यावच् छरीरं **यो गुरुं** परिचरति **स **ब्रह्मलोकं आ महाप्रलयाद् अनश्वरं** अञ्जसा **स्पष्टेन मार्गेण गत्यन्तराव्यवहितेन **गच्छति **। **विप्र**ग्रहणं प्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ २.२४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

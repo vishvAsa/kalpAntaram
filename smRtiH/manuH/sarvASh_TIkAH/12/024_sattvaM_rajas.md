@@ -3,6 +3,11 @@ title = "024 सत्त्वं रजस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	Know Goodness (sattva), Activity (ragas), and Darkness (tamas) to be the three qualities of the Self, with which the Great One always completely pervades all existences.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Know Sattva, Rajas and Tamas to be the three qualities of the Self, by means of which the Great One completely pervades all these beings.—(24)
@@ -64,9 +69,4 @@ to be the attributes of *Ātman*; when obsessed by *Rajas* and *Tamas*, it is ma
 <details><summary>भारुचिः</summary>
 
 सत्त्वादीनाम् आत्मगुणत्वं वक्ष्यति । सत्त्वं ज्ञानं तमो ऽज्ञानम् इत्य् एवमादि । ज्ञानादयस् च पुरुषधर्मा यतः सत्त्वादीनाम् आत्मगुणत्वम् उच्यते, अधिकृतधर्माधर्मापेक्षया । अपरे त्व् आहुः — सत्त्वादीनाम् अनात्मगुणानाम् अपि तद् अर्थत्वाद् आत्मगुणम् इदम् उच्यते, प्रधानं चेहात्मशब्देनोच्यते ॥ १२.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Know Goodness (sattva), Activity (ragas), and Darkness (tamas) to be the three qualities of the Self, with which the Great One always completely pervades all existences.
 </details>

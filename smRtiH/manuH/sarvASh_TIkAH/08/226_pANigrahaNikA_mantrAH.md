@@ -3,6 +3,11 @@ title = "226 पाणिग्रहणिका मन्त्राः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+226	The nuptial texts are applied solely to virgins, (and) nowhere among men to females who have lost their virginity, for such (females) are excluded from religious ceremonies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The marriage-ritual texts are applicable to virgins only, and nowhere among men, to non-virgins; and this because these latter are excluded from religious acts.—(220)
@@ -73,9 +78,4 @@ marriage, on the completion of the *Seventh Step*.’
 <details><summary>भारुचिः</summary>
 
 तथा वैवाहिको मन्त्रः "अर्यमणं देवं कन्याग्निमयक्षत । स नो अर्यमा देवः प्रेतो मुञ्चतु मा पतेः स्वाहा" इत्यादिना **कन्यास्व्** इत्य् अत्र [मन्त्रार्थः, तास्व् एव प्रतिष्ठि]ता विवाहादिभिर् इत्य् अर्थः । एवं च सति पूर्वं पाणिग्रहणात् प्रतिगृहीतापि स्पृष्टमैथुना परित्यक्तव्येति ॥ ८.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-226	The nuptial texts are applied solely to virgins, (and) nowhere among men to females who have lost their virginity, for such (females) are excluded from religious ceremonies.
 </details>

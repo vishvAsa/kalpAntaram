@@ -3,6 +3,11 @@ title = "119 दशी कुलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+119	The ruler of ten (villages) shall enjoy one kula (as much land as suffices for one family), the ruler of twenty five kulas, the superintendent of a hundred villages (the revenues of) one village, the lord of a thousand (the revenues of) a town.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Lord of Ten villages shall enjoy one Kula and the Lord of Twenty villages twenty Kulas; the Lord of Hundred villages one whole village and the Lord of Thousand villages one town.—(119)
@@ -50,9 +55,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 251), which adds the fo
 <details><summary>भारुचिः</summary>
 
 अधिपतीनाम् इयं वृत्तिकल्पना श्लोक[द्वयेन] ॥ ७.११८–१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	The ruler of ten (villages) shall enjoy one kula (as much land as suffices for one family), the ruler of twenty five kulas, the superintendent of a hundred villages (the revenues of) one village, the lord of a thousand (the revenues of) a town.
 </details>

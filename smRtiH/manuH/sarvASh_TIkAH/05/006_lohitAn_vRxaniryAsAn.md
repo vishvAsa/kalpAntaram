@@ -2,6 +2,11 @@
 title = "006 लोहितान् वृक्षनिर्यासान्"
 +++
 
+<details><summary>Bühler</summary>
+
+006	One should carefully avoid red exudations from trees and (juices) flowing from incisions, the Selu (fruit), and the thickened milk of a cow (which she gives after calving).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall carefully avoid the red exudation from trees, as also those flowing from incisions, the śelu berries, and ‘curdled milk’ of the cow.—(6)
@@ -77,11 +82,6 @@ which solidifies at the slightest contact with fire;—in *Hemādri* (Śrāddha,
 <details><summary>गोविन्दराजः</summary>
 
 **लोहितान्** यत्र पुष्पादिव्यतिरिक्तान् प्रस्रावादिना वृक्षेभ्यो निर्गतांस् तथा । वृक्षे गुन्दप्रदेशोद्भवान् **शेलुं **च श्लेष्मातं “शेलुः श्लेष्मातकः स्म्र्तः” इत्य् अभिधानकोशाद्यायुर्वेदप्रसिद्धेः । न तु क्षीरसृत्क्षीरसन्तानिका यथान्यैर् व्याख्यातम्, असिद्धेः । गोसम्बन्धि च **पीयूषम्** । नवप्रसूताया गोः क्षीरं यद् अग्निसंयोगात् कठिनीभवति तद् यत्नतो वर्जयेत् । एतच् च दशाहात् परेणापि यदि कदाचित् स्यात् तदा निषिध्यते । दशाहोनवर्तिनस् तु “अनिर्दशाया गोः क्षीरम्” इत्य् अनेनैव निषिद्धत्वात् ॥ ५.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	One should carefully avoid red exudations from trees and (juices) flowing from incisions, the Selu (fruit), and the thickened milk of a cow (which she gives after calving).
 </details>
 
 <details><summary>भारुचिः</summary>

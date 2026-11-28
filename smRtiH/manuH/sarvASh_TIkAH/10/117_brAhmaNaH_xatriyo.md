@@ -3,6 +3,11 @@ title = "117 ब्राह्मणः क्षत्रियो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	Neither a Brahmana, nor a Kshatriya must lend (money at) interest; but at his pleasure (either of them) may, in times of distress when he requires money) for sacred purposes, lend to a very sinful man at a small interest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa or the Kṣatriya must not lend money on interest; but he may advance a little to unrighteous men for sacred purposes.—(117)
@@ -45,9 +50,4 @@ usurers. They quote the following—“He who, acquiring property cheap, gives i
 <details><summary>भारुचिः</summary>
 
 आपत्कल्पे ऽपीत्य् अर्थः । एवं च सति दण्डापूपिकया प्रकृताव् अपि ब्राह्मणस्य वृद्धेर् अत्यन्तप्रतिषेधः, अस्वयंकरणपक्षे ऽपि । तथा मन्त्रे वार्धुषिकापवादः श्रूयते, "किं ते कृण्वन्ति कीकटेषु गावः" इत्य् एवमादि । अथ वेतरवृत्तिस्तुत्यर्थो ऽयं श्लोकः, क्रमार्थो वा । एवं च सत्य् अन्यास्व् आपत्कल्पवृत्तिष्व् अपि विद्यमानासु नैनं अनुतिष्ठेत् स्वयम् । किं तर्हि तदभावे । गुरुत्वाद् अस्याः । तथा च मन्त्रवर्ण इत्य् उक्तम् ॥ १०.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Neither a Brahmana, nor a Kshatriya must lend (money at) interest; but at his pleasure (either of them) may, in times of distress when he requires money) for sacred purposes, lend to a very sinful man at a small interest.
 </details>

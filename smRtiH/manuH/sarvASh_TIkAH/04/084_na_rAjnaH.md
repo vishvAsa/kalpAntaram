@@ -2,6 +2,11 @@
 title = "084 न राज्ञः"
 +++
 
+<details><summary>Bühler</summary>
+
+084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not accept gifts from a king not born of the Kṣatriya caste; nor from the keepers of slaughterhouses, oil-presses or grog-shops; nor from those who live on brothels.—(84)
@@ -53,11 +58,6 @@ something terrible; it is like wine-drinking, and like poison; it is better to f
 <details><summary>गोविन्दराजः</summary>
 
 **न राज्ञ** इति । “राज्ञो ऽपत्ये जातिग्रहणम्” इति क्षत्रिय एव राजन्य उच्यते । तस्य सन्ततिर् अपत्यं विशेषवचनात् क्षत्रिय एव राजन्यप्रसूतिः न राजन्यप्रसूतिः **अराजन्यप्रसूतिः** । अक्षत्रियः तस्मात् अक्षत्रियाद् राज्ञः प्रकरणाद् अनापदि न प्रतिगृह्णीयात् तथा सौनिकतैलिकमद्यवणिजां पण्यस्त्रीव्यवहारेण च जीवतां न प्रतिगृह्णीयात् ॥ ४.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.
 </details>
 
 <details><summary>भारुचिः</summary>

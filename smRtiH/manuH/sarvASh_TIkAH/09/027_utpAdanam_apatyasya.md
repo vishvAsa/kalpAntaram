@@ -3,6 +3,11 @@ title = "027 उत्पादनम् अपत्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	The production of children, the nurture of those born, and the daily life of men, (of these matters) woman is visibly the cause.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The begetting of the child, the nourishing of the born, and the ordinary life of the world,—of each of these things the woman is clearly the main-spring.—(27)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 9.26].
 <details><summary>भारुचिः</summary>
 
 अयम् अपरः स्त्रीप्रशंसार्थः श्लोकः पूर्वोक्तप्रयोजनार्थ एव विज्ञेयः ॥ ९.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	The production of children, the nurture of those born, and the daily life of men, (of these matters) woman is visibly the cause.
 </details>

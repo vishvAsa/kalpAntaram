@@ -3,6 +3,11 @@ title = "099 एतत् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+099	Neither ancients nor moderns who were good men have done such (a deed) that, after promising (a daughter) to one man, they have her to another;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Good men, both ancient and modern, have never committed the act, that having promised to one they gave her to another.—(99)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.98].
 <details><summary>भारुचिः</summary>
 
 अनेन दानम् अन्यत्र नास्ति । प्रकृतापेक्षम् एतत् ॥ ९.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	Neither ancients nor moderns who were good men have done such (a deed) that, after promising (a daughter) to one man, they have her to another;
 </details>

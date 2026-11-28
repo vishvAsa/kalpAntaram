@@ -2,6 +2,11 @@
 title = "020 एतद् देशप्रसूतस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+020	From a Brahmana, born in that country, let all men on earth learn their several usages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All men on the earth may learn their respective duties from the Brāhmaṇa born in these countries. (20)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्देशप्रसूतस्येति** । कुरुक्षेत्रादिदेशजातस्य **ब्राह्मणस्य सकाशात् स्वं स्वम् **आचारं **पृथिव्यां **सर्वे मनुष्याः **शिक्षेरन् **॥ २.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	From a Brahmana, born in that country, let all men on earth learn their several usages.
 </details>
 
 <details><summary>भारुचिः</summary>

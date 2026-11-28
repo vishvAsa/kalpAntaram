@@ -3,6 +3,11 @@ title = "036 कारावरो निषादात्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	From a Nishada springs (by a woman of the Vaideha caste) a Karavara, who works in leather; and from a Vaidehaka (by women of the Karavara and Nishada castes), an Andhra and a Meda, who dwell outside the village.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the ‘Niṣāda’ is born of the ‘Kārāvara,’ who works in leather; and from the ‘Vaiḍehaka’ the ‘Andhra’ and the ‘Meda,’ who have their dwellings outside the village.—(36)
@@ -65,9 +70,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 वैदेह्याम् एव जायते इति, वक्ष्यमाणश्लोकलिङ्गान् । निषादात् कारावरनामा वर्णश् चर्मकरणवृत्तिर् वैदेह्यां जायते । वैदेहकाद् अन्ध्रमेदौ कारावरनिषादवर्णयोः स्त्रियोः, अन्ययोर् असंभवाद्, एतच्छ्लोकोपदिष्टयोश् च वर्णयोः संनिहितत्वाद्, वैदेहकाच् च वैदेह्याम् अन्ध्रमेदयोर् वर्णयोर् असंभवात् परिशेषात् कारावरनिषादस्त्रियाव् एव गृहेते । एवं हि स्त्रीवर्णभेदे वैदेहकाद् अन्ध्रमेदौ भिन्नवर्णौ युक्तौ न तु वैदेह्याम् ॥ १०.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	From a Nishada springs (by a woman of the Vaideha caste) a Karavara, who works in leather; and from a Vaidehaka (by women of the Karavara and Nishada castes), an Andhra and a Meda, who dwell outside the village.
 </details>

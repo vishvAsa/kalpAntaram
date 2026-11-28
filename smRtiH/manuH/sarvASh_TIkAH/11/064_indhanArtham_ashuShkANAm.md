@@ -3,6 +3,11 @@ title = "064 इन्धनार्थम् अशुष्काणाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	Cutting down green trees for firewood, doing acts for one's own advantage only, eating prohibited food,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Cutting down green trees for purposes of fuel, the undertaking of the act (of cooking) for one’s own benefit and the eating of forbidden food.—(64)
@@ -49,9 +54,4 @@ This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the following 
 **
 
 See Comparative notes for [Verse 11.58].
-</details>
-
-<details><summary>Bühler</summary>
-
-065	Cutting down green trees for firewood, doing acts for one's own advantage only, eating prohibited food,
 </details>

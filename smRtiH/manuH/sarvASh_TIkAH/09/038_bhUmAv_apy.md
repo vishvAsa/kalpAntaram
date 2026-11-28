@@ -3,6 +3,11 @@ title = "038 भूमाव् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	In this world seeds of different kinds, sown at the proper time in the land, even in one field, come forth (each) according to its kind.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “In this world, seeds sown in season by the cultivators even in one and the same plot of land spring-forth in various forms, according to their nature”.—(38)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 9.31].
 यतश् च ।
 
 बीजानुविधानेन भूमिजात्यननुविधानेन च ॥ ९.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	In this world seeds of different kinds, sown at the proper time in the land, even in one field, come forth (each) according to its kind.
 </details>

@@ -3,6 +3,11 @@ title = "292 छेदने चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+292	When the leather-thongs, the rope around the neck or the bridle are broken, and when (the driver) has loudly called out, 'Make way,' Manu has declared (that in all these cases) no punishment (shall be inflicted).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When there is snapping of the nose-string, when the yoke is broken, when it turns sideways or backwards, when the axle breaks, and when the wheel is broken; (291) when the fittings or the yoking strap or the bridle are torn, and when there has been the loud cry ‘get out of the way,’—there is no punishment; so has Manu declared—(292)
@@ -86,9 +91,4 @@ See Comparative notes for [Verse 8.290].
 <details><summary>भारुचिः</summary>
 
 छिन्ननास्य बलीवर्दे युग्ये भग्नयुगे च तस्मिन्न् एव तिर्यगागते प्रतिमुखागते च याने अक्षभङ्गचक्रभङ्गयोश् च । एवं योक्त्ररश्म्योः, आक्रन्दे चाप्य् अपैहीति, एषु दशसु निमित्तेषु न दण्डः कार्यो राज्ञा यानस्वामिप्रभृतीनाम् । एभ्यस् त्व् अन्यत्रैषाम् अपराधहेतुर् उच्यते, मनुष्यादिहिंसायां वक्ष्यमाणदण्डार्थः ॥ ८.२९०–९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-292	When the leather-thongs, the rope around the neck or the bridle are broken, and when (the driver) has loudly called out, 'Make way,' Manu has declared (that in all these cases) no punishment (shall be inflicted).
 </details>

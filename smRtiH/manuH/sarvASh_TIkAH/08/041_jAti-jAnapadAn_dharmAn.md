@@ -3,6 +3,11 @@ title = "041 जाति-जानपदान् धर्मान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	(A king) who knows the sacred law, must inquire into the laws of castes (gati), of districts, of guilds, and of families, and (thus) settle the peculiar law of each.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king knowing his duty shall determine the law for each man, after haying duly examined the provincial laws pertaining to each caste, the law’s of guilds, as also the laws of families.—(11)
@@ -183,9 +188,4 @@ local custom, logic or the opinion of traders, the issue of the case is over-rul
 <details><summary>भारुचिः</summary>
 
 जातिधर्मः प्रसिद्धः । [जाति ब्राह्मणादिः, तच् च नित्य]त्वेनोच्यते, शास्त्रलक्षणत्वात् । जानपदः सामयिकः, न शास्त्रप्रमाणः, गोप्रचारोदकरक्षणादिः । श्रेणीधर्मो वणिक्कारुककुशीलवानां स्वकार्यसिद्ध्यर्थं प्रवर्ति[तः । त]म् अपि धर्मं राजा प्रतिपादयेत् । न सामयिको ऽयम् इत्य् अनास्था कर्तव्या । यदि च राजा सामायिकेष्व् अनादरं कुर्यात्, ततो व्यवस्थाभङ्गा मात्स्यन्यायः प्रवर्तते ॥ ८.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	(A king) who knows the sacred law, must inquire into the laws of castes (gati), of districts, of guilds, and of families, and (thus) settle the peculiar law of each.
 </details>

@@ -3,6 +3,11 @@ title = "071 अक्षेत्रे बीजम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	Seed, sown on barren ground, perishes in it; a (fertile) field also, in which no (good) seed (is sown), will remain barren.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The seed sown on barren soil perishes prematurely; and soil without the seed would be a mere barren plot.—(71)
@@ -64,9 +69,4 @@ seq*.\]]
 > **अबीजकम् अपि क्षेत्रं केवलं स्थण्डिलं भवेत्  ॥ १०.७१ ॥**
 
 सूपस्कृतम् अपि केवलं बीजरहितं स्थण्डिलम् निष्फलं भवेत् । अथ चोभयप्राधान्यं क्वचिद् उच्यते-
-</details>
-
-<details><summary>Bühler</summary>
-
-071	Seed, sown on barren ground, perishes in it; a (fertile) field also, in which no (good) seed (is sown), will remain barren.
 </details>

@@ -3,6 +3,11 @@ title = "083 केशग्रहान् प्रहारांश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	Let him avoid (in anger) to lay hold of (his own or other men's) hair, or to strike (himself or others) on the head. When he has bathed (submerging) his head, he shall not touch any of his limbs with oil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Catching of the hair, as also striking on the head,—these he shall avoid; having his head bathed, he shall touch no limb with oil.—(83)
@@ -39,9 +44,4 @@ This verse is quoted in *Aparārka* (p. 183), which construes the second line to
 <details><summary>गोविन्दराजः</summary>
 
 **केशग्रहान् **इति । केशग्रहणप्रहारौ** **कोपेन मूर्धनि न कुर्यात् । सशिरस्कः** स्नातः** **तैलेन किञ्चिद् अप्य् अङ्गं स्पृशेत् **॥ ४.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Let him avoid (in anger) to lay hold of (his own or other men's) hair, or to strike (himself or others) on the head. When he has bathed (submerging) his head, he shall not touch any of his limbs with oil.
 </details>

@@ -3,6 +3,11 @@ title = "061 अवेक्षेत गतीर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	Let him reflect on the transmigrations of men, caused by their sinful deeds, on their falling into hell, and on the torments in the world of Yama,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should reflect upon the conditions of men, arising from the defects of their deeds, their falling into hell and their sufferings in the abode of the death-god.—(61)
@@ -53,9 +58,4 @@ as also the sufferings brought about by one’s own acts, mental agonies, physic
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-061	Let him reflect on the transmigrations of men, caused by their sinful deeds, on their falling into hell, and on the torments in the world of Yama,
 </details>

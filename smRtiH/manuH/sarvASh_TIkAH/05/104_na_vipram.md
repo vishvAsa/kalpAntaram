@@ -2,6 +2,11 @@
 title = "104 न विप्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+104	Let him not allow a dead Brahmana to be carried out by a Sudra, while men of the same caste are at hand; for that burnt-offering which is defiled by a Sudra's touch is detrimental to (the deceased's passage to) heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not have a dead Brāhmaṇa carried by a Śūdra, while his own people are there. For it would be an oblation into fire, defiled by the touch of the Śūdra, and as such not conducive to heaven.—(l 03).
@@ -53,11 +58,6 @@ shall not carry his dead body; that dead person for whom the Śūdra carries fir
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । पुत्रादिर् विप्रं मृतं समानजातिषु तिष्ठत्सु स्थितेषु सत्सु शूद्रेण न निर्हारयेत् । यस्मात् सा शारीराहुतिः शूद्रस्पर्शदुष्टा सती मृतस्य स्वर्गलोकसाधनी न भवत्य् एवं च दोषनिर्देशात् स्वेषु तिष्ठत्सु इति विवक्षितम् ॥ ५.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	Let him not allow a dead Brahmana to be carried out by a Sudra, while men of the same caste are at hand; for that burnt-offering which is defiled by a Sudra's touch is detrimental to (the deceased's passage to) heaven.
 </details>
 
 <details><summary>भारुचिः</summary>

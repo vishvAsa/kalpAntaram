@@ -2,6 +2,11 @@
 title = "246 दृढकारी मृदुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who acts resolutely, is gentle and tolerant, who does not associate with persons of cruel disposition, and who does no injury to others, shall win heaven by his self-control and liberality, if he sticks to this practice.—(246)
@@ -37,11 +42,6 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 <details><summary>गोविन्दराजः</summary>
 
 **दृढकारीति** । आरब्धसम्पादनशक्तिः अक्रूरः शीतातपादि, द्वन्द्वसहिष्णुः निर्दयाचारैः सहावसन् अहिंसको यः स एवं नियमः सदमेनोपशमेन इन्द्रियसंयमाख्येन दानेन च स्वर्गं प्राप्नुयात् ॥ ४.२४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

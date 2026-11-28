@@ -2,6 +2,11 @@
 title = "120 ऊर्ध्वम् प्राणा"
 +++
 
+<details><summary>Bühler</summary>
+
+120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the elder approaching, the vital breaths of the younger rush outward; and he recovers them by the acts of rising to meet and salute him.—(120)
@@ -44,11 +49,6 @@ uncle, the maternal uncle—those not junior in age;—these he shall salute aft
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादो भयदर्शनेन । **ऊर्ध्वम्** इति । यस्मात् ज्येष्ठ आगच्छति सति कनीयसः **प्राणाः** **ऊर्ध्वं **निर्गन्तुम् इच्छन्ति अनाचारेणायुःक्षयात् । **प्रत्युत्थानाभिवादाभ्यां **हेतुभूताभ्यां **पुनस् तान्** स्वीकरोति तस्मात् तौ कर्तव्यौ ॥ २.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.
 </details>
 
 <details><summary>भारुचिः</summary>

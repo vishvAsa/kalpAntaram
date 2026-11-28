@@ -3,6 +3,11 @@ title = "090 सुराम् पीत्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	A twice-born man who has (intentionally) drunk, through delusion of mind, (the spirituous liquor called) Sura shall drink that liquor boiling-hot; when his body has been completely scalded by that, he is freed from his guilt;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A twice-born person, having, through folly, drunk wine, shall drink wine red-hot; he becomes freed from his guilt, when his body has been completely burnt by it.—(90)
@@ -84,9 +89,4 @@ and subsist on grains unseparated from the husk for one year.’
 <details><summary>भारुचिः</summary>
 
 एवं च मृतस्य शुद्धिर् विज्ञेया । तया च सुरायाग्निवर्णत्वम् अनुगृहीतं भवति । **मोहाद्** इति चात्र यद् उक्तम्, तत् पूर्वत्रार्थनिर्देशलिङ्गम्, यद् उक्तम् "प्रायश्चित्तीयतां प्राप्य मोहात् पूर्वकृतेन वा" इति, अत्र मोहस्य स्वशब्देनैवोपदेशात् ॥ ११.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	A twice-born man who has (intentionally) drunk, through delusion of mind, (the spirituous liquor called) Sura shall drink that liquor boiling-hot; when his body has been completely scalded by that, he is freed from his guilt;
 </details>

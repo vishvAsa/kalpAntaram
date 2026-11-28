@@ -2,6 +2,11 @@
 title = "036 असंस्कृतान् पशून्"
 +++
 
+<details><summary>Bühler</summary>
+
+036	A Brahmana must never eat (the flesh of animals unhallowed by Mantras; but, obedient to the primeval law, he may eat it, consecrated with Vedic texts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall never eat animals that have not been consecrated with sacred texts; but those that have been consecrated with sacred texts, he shall eat, taking, his stand upon the eternal law.—(36)
@@ -39,11 +44,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 580).
 <details><summary>गोविन्दराजः</summary>
 
 **असंस्कृतान्** इति । पशुयागादिचोदितप्रोक्षणादिमन्त्रसंस्कारराहितान् गोऽव्यजादि**पशून् **विप्रादिः न कदाचिद् अप्य् **अद्यात्** । किं तर्हि । नैमित्तिकं वैदिकपशुयागादिविधिम् आश्रितः सन् मन्त्रसंस्कृतान् एवाश्नीयाद् इत्य् अनुपाकृतमांसार्थे निरूपणार्थवादम् एतत् [मांसनिराकरणानुवादार्थम् एतत्] ॥ ५.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	A Brahmana must never eat (the flesh of animals unhallowed by Mantras; but, obedient to the primeval law, he may eat it, consecrated with Vedic texts.
 </details>
 
 <details><summary>भारुचिः</summary>

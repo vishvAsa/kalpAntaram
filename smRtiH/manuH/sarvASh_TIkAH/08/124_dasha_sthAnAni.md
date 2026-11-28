@@ -3,6 +3,11 @@ title = "124 दश स्थानानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+124	Manu, the son of the Self-existent (Svayambhu), has named ten places on which punishment may be (made to fall) in the cases of the three (lower) castes (varna); but a Brahmana shall depart unhurt (from the country).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu Svāyambhuva has named ten places for punishment, where it should be inflicted in the case of the three castes; but the Brāhmaṇa shall depart unscathed.—(124)
@@ -88,9 +93,4 @@ the tongue, the ears, the nose, the neck, the half of the foot, the thumb and th
 <details><summary>भारुचिः</summary>
 
 शरीरस्थानानि दश दण्डस्य, तानि पुनः — ॥ ८.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	Manu, the son of the Self-existent (Svayambhu), has named ten places on which punishment may be (made to fall) in the cases of the three (lower) castes (varna); but a Brahmana shall depart unhurt (from the country).
 </details>

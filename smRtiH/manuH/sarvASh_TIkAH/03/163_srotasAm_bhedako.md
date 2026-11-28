@@ -2,6 +2,11 @@
 title = "163 स्रोतसाम् भेदको"
 +++
 
+<details><summary>Bühler</summary>
+
+163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who diverts water-courses, he who is addicted to obstructing them, the house-planner, the messenger and
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **स्रोतसाम्** इति । उदकागमनसेतुबन्धभेदकः भेदादिना देशान्तरनेता च । तेषाम् अवच्छादनकृत्, वास्तुविद्याजीवनः **दूतो** राजप्रेष्यव्यतिरिक्तो ऽपि । वृक्षाणां रोपयिता मूल्येन, न धर्मार्थं “दशाम्रवापी नरकं न याति” इत्यादिनोदनात् ॥ ३.१६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
 </details>
 
 <details><summary>भारुचिः</summary>

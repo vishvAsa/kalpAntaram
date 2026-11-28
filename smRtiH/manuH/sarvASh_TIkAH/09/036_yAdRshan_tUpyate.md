@@ -3,6 +3,11 @@ title = "036 यादृशन् तूप्यते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	Whatever (kind on seed is sown in a field, prepared in due season, (a plant) of that same kind, marked with the peculiar qualities of the seed, springs up in it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “As is the seed which is sown in the soil prepared in season, so does the seed spring forth, marked by its own qualities.”—(36)
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 9.31].
 तथा सति,
 
 अतश् च बीजानां तत्प्राधान्यम् ॥ ९.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	Whatever (kind on seed is sown in a field, prepared in due season, (a plant) of that same kind, marked with the peculiar qualities of the seed, springs up in it.
 </details>

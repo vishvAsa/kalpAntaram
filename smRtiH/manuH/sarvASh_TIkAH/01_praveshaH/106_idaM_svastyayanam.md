@@ -2,6 +2,11 @@
 title = "106 इदं स्वस्त्ययनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (treatise) is ever conducive to welfare; it is most excellent; it expands the understanding brings fame and constitutes the highest good.—(106)
@@ -38,11 +43,6 @@ are spoken of as ‘*most excellent*.’
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं शास्त्रं साक्षात् स्तौति – **इदम्** इति । **इदम्** अन्यस्मात् स्वस्त्ययनकर्मणः **श्रेष्टं **अतिशयेन प्रशस्यम्, **स्वत्ययनं** अविनाशप्रापकम् । विनाशोपशमकर्मावबोधेन, **बुद्धिविवर्धनं** च शास्त्रार्थपरिगणनात्, बुद्धिविकासेन यशोनिमित्तं च सततं सर्वकालं ख्यातिकरत्वात्, परं प्रकृष्टं **निःश्रेयसं **निःश्रेयसस्य मोक्षस्य साधकत्वात् ॥ १.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

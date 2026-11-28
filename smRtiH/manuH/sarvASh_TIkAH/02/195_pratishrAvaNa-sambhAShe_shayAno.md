@@ -2,6 +2,11 @@
 title = "195 प्रतिश्रावण-सम्भाषे शयानो"
 +++
 
+<details><summary>Bühler</summary>
+
+195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not listen to and converse with (his Teacher), while lying down; nor while seated, nor while eating, nor while standing, nor with his face turned away.—(196)
@@ -66,11 +71,6 @@ seated or lying down, or eating, or with face turned away.’
 <details><summary>गोविन्दराजः</summary>
 
 **प्रतिश्रवणसम्भाषे** इति । आज्ञाङ्गीकरणकार्यार्थसम्भाषणे शयितः उपविष्टः अश्नन्न् उत्थितः अनभिमुखो न कुर्यात् ॥ २.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
 </details>
 
 <details><summary>भारुचिः</summary>

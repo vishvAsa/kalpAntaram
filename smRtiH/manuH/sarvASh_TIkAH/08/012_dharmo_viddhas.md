@@ -3,6 +3,11 @@ title = "012 धर्मो विद्धस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	But where justice, wounded by injustice, approaches and the judges do not extract the dart, there (they also) are wounded (by that dart of injustice).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a court where Justice is pierced by Injustice, and the members of the Court do not remove that dart, these members also become pierced.—(12)
@@ -51,9 +56,4 @@ councillors against the laws, there justice is slain by injustice. If the king h
 <details><summary>भारुचिः</summary>
 
 **धर्म** इति] तस्य वेधो ऽन्यथादर्शनम् । तत्फलं तु धर्मव्यवस्थाभङ्गहेतोर् अधिकृतब्राह्मणस्येदम् उच्यते । **शल्यं चास्य न कृन्तन्ति विद्धास् तत्र सभासदः**- शल्यम् इव शल्यप्रतिष्ठाहेतुत्वात् अस्य [यदि] न कृन्तन्त्य् एते पुन[ः] सभासदः विद्धाः सन्तः प्राग् एव । यतश् चैतद् एवम् अतो ऽसम्यक् प्रवर्तमानो राजा प्रकृतो वा ब्राह्मणस् सभ्यैर् नानुमन्तव्यः, व्यतिक्रमाद् धर्मवेधभयात् ॥ ८.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	But where justice, wounded by injustice, approaches and the judges do not extract the dart, there (they also) are wounded (by that dart of injustice).
 </details>

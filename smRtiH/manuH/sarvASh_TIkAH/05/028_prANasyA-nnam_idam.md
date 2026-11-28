@@ -2,6 +2,11 @@
 title = "028 प्राणस्याऽन्नम् इदम्"
 +++
 
+<details><summary>Bühler</summary>
+
+028	The Lord of creatures (Pragapati) created this whole (world to be) the sustenance of the vital spirit; both the immovable and the movable (creation is) the food of the vital spirit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Prajāpati created all this as food for the vital spirit; and all that is movable or immovable is the food of the vital spirit (28).
@@ -44,11 +49,6 @@ for ‘*Prajāpatirakalpayat*.’)
 <details><summary>गोविन्दराजः</summary>
 
 **प्राणस्येति **। कोष्ठ्यस्य वायोः शरीरावस्थित्यर्थम् इदं सर्वं प्रजापतिर् अन्नं कल्पितवान् । किं तत् । अत आह पश्वादि **जङ्गमं** मूलफलादि च **स्थावरं सर्वं प्राणस्य भोजनम्** । तस्मात् प्राणात्यये मांसम् अदनीयम् इति प्राणात्यये मांसभक्षणार्थवादः ॥ ५.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	The Lord of creatures (Pragapati) created this whole (world to be) the sustenance of the vital spirit; both the immovable and the movable (creation is) the food of the vital spirit.
 </details>
 
 <details><summary>भारुचिः</summary>

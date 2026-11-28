@@ -3,6 +3,11 @@ title = "117 विंशतीशस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	But the ruler of twenty shall report all such (matters) to the lord of a hundred, and the lord of a hundred shall himself give information to the lord of a thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Troubles arising in the village, the Village-lord shall himself gently report to the Lord of Ten villages; and the Lord of Ten villages to the Lord of Twenty;—(116)—the Lord of Twenty shall communicate it all to the Lord of Hundred; and the Lord of Hundred himself shall report it to the Lord of Thousand.—(117)
@@ -56,9 +61,4 @@ district shall report it to the king, if he is himself unable to deal with it; t
 <details><summary>भारुचिः</summary>
 
 आसन्नकार्यज्ञापनार्थं ग्रामादिष्व् अधिपतिक्रियास् त्रिभिः श्लोकैः ॥ ७.११५–१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	But the ruler of twenty shall report all such (matters) to the lord of a hundred, and the lord of a hundred shall himself give information to the lord of a thousand.
 </details>

@@ -2,6 +2,11 @@
 title = "058 ब्राह्मेण विप्रस्"
 +++
 
+<details><summary>Bühler</summary>
+
+058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every time, the Brāhmana should sip water, either though the receptacle dedicated to Brahmā, or through that dedicated to Prajāpati, or through that dedicated to the ‘Thrice-ten’ (Gods); but never through that dedicated to the Pitṛs.—(58)
@@ -122,11 +127,6 @@ between the palm and the little index: on the top of the finger tips, the *Daiva
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणेति** । **ब्राह्मेण तीर्थेन** प्राजापत्यदैवाभ्यां **वा विप्रो **यावज्जीतम् **उपस्पृशेत् । पित्र्येण** पुनः कदाचिद् इति नित्यानुवादः इतरस्तुत्यर्थः । अविधानाद् एव पित्र्यस्याप्रप्तेः विप्रग्रहणं क्षत्रियादिप्रदर्शनार्थम्, “उपस्पृश्य द्विजो नित्यम्” इति एतयोर् अपि प्रकृतत्वात्॥ २.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

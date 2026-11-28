@@ -3,6 +3,11 @@ title = "051 न तापसैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+051	Let him not (in order to beg) go near a house filled with hermits, Brahmanas, birds, dogs, or other mendicants.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not go near a house that is filled by hermits, brāhmaṇas, birds, dogs or other mendicants—(51)
@@ -39,9 +44,4 @@ devoted to the well-being of all creatures; calm, carrying three staves and the 
 <details><summary>गोविन्दराजः</summary>
 
 **नेति ।** वानप्रस्थब्राह्मणपक्षिश्वभिर् अन्यैर् भिक्षाटनशीलैर् व्याप्तं गृहं भिक्षार्थं न प्रविशेत् ॥ ६.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	Let him not (in order to beg) go near a house filled with hermits, Brahmanas, birds, dogs, or other mendicants.
 </details>

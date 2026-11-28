@@ -2,6 +2,11 @@
 title = "094 तं हि"
 +++
 
+<details><summary>Bühler</summary>
+
+094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Him the Sself-existent one, after performing austerities, created, in the beginning, out of his own mouth, for the conveying of offerings (to the gods) and of oblations (to the Pitṛs), and for the preservation of this entire creation. (94).
@@ -39,11 +44,6 @@ the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs
 <details><summary>गोविन्दराजः</summary>
 
 कस्य पुनर् अयम् उत्तमाङ्गाद् उद्भूत इत्य् अत आह – **तम्** इति । **तं **ब्राह्मणं **स्वयम्भूः **आत्ममुखात् **तपः **कृत्वा देवपित्रन्नवहनार्थं जगद्रक्षार्थं च प्रथमसृष्टौ सृष्टवान् ॥ १.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
 </details>
 
 <details><summary>भारुचिः</summary>

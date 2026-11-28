@@ -3,6 +3,11 @@ title = "027 नाऽनिष्ट्वा नवसस्येष्ट्
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Without having performed the New-Harvest sacrifice, and the animal Sacrifice, the Brāhmaṇa, who has set up the fire, shall not eat new grain or meat,—if he desires to live a long life.—(27)
@@ -67,9 +72,4 @@ offered it in sacrifice, for him the expiation consists in making the Vaiśvāna
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । आहिताग्निर् द्विजो दीर्घायुर् जीवितुम् इच्छुः आग्रयणम् अकृत्वा **नवान्नं **पशुयागं वाकृत्वा **मांसं **नाश्नीयत् ॥ ४.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).
 </details>

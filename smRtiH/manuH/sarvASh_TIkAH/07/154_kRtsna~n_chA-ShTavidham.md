@@ -3,6 +3,11 @@ title = "154 कृत्स्नञ् चाऽष्टविधम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+154	On the whole eightfold business and the five classes (of spies), on the goodwill or enmity and the conduct of the circle (of neighbours he must) carefully (reflect).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —also upon the entire ‘eight-fold business,’ and on the ‘five-fold group’ in its real character, on affection and disaffection, and on the conduct of his ‘circle’.—(154)
@@ -249,9 +254,4 @@ means of commencing operations, (2) the supply of requisite men and material, (3
 > चारसंचारिणः संस्था गूढाश् चागूढसंज्ञिताः ॥
 
 एवं पञ्चवर्गं परिकल्प्य परस्यात्मनश् चास्माद् एवं च वर्गान् मन्त्रिपुरोहितादीनाम् **अन्रागापरागौ** विद्यात् । तथा राज**मण्डलप्रचारः, **को माण्डलिकः संधिविग्रहादौ कस्मिन् प्रचारे वर्तत इति ॥ ७.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	On the whole eightfold business and the five classes (of spies), on the goodwill or enmity and the conduct of the circle (of neighbours he must) carefully (reflect).
 </details>

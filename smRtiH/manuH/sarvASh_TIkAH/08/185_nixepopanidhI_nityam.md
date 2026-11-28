@@ -3,6 +3,11 @@ title = "185 निक्षेपोपनिधी नित्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+185	An open or a sealed deposit must never be returned to a near relative (of the depositor during the latter's lifetime); for if (the recipient) dies (without delivering them), they are lost, but if he does not die, they are not lost.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Deposits, open and sealed, should never be handed over to the next-of-kin; in the event of a mishap occurring, they become lost; though they do not become lost, if no mishap occurs.—(185)
@@ -86,9 +91,4 @@ it, in the very manner in which it was delivered; it must not be restored to the
 <details><summary>भारुचिः</summary>
 
 निक्षेप्तरि जीवति तत्**प्रत्यनन्तरे** पुत्रे भ्रातरि वा तदीयधनार्हे **निक्षेपोपनिधी न देयौ**, प्रार्थयमानाय । येन न प्रत्यनन्तरस्याविनाशे ऽस्ति गतिः । प्रत्यनन्तरस्य विनाशे तु निक्षेपधारी निक्षेप्त्रा याचितः किम् उत्तरं दास्यति तस्य । यतो न तस्य प्रत्यनन्तरदानं युक्तम् ॥ ८.१८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	An open or a sealed deposit must never be returned to a near relative (of the depositor during the latter's lifetime); for if (the recipient) dies (without delivering them), they are lost, but if he does not die, they are not lost.
 </details>

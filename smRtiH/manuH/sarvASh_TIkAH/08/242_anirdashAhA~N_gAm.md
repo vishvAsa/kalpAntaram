@@ -3,6 +3,11 @@ title = "242 अनिर्दशाहाङ् गाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+242	But Manu has declared that no fine shall be paid for (damage done by) a cow within ten days after her calving, by bulls and by cattle sacred to the gods, whether they are attended by a herdsman or not.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But Manu has declared that no punishment shall be inflicted upon a cow within ten days of its calving, or bulls or dedicated cattle,—whether with or without keepers.—(242)
@@ -97,9 +102,4 @@ within ten days of calving, old hulls and breeding bulls shall not be punished.�
 <details><summary>भारुचिः</summary>
 
 पूर्वापवादः । वृषाः सेक्तारः प्रति तान् । देवपशवश् चोत्सृष्टा वृषोत्सर्गन्यायेन, अन्ये च मृगा आप्य् अजादयो देवायतनमण्डना अदण्ड्याः । <u>ननु</u> च निष्परिग्रहत्वाद् देवपशुष्व् एतद् अयुक्तं, सपरिग्रहानुगमाद् एषां तद्वत्प्राप्तौ सत्याम् अपवादः । अथ वा दृष्टान्तार्थम् एव पशव उपादीयन्ते । यथा देवपशवो ऽदण्ड्याः, एवम् अनिर्दशाहा गौः सूता वृषाश् च सेक्तार इति परिग्रहवद् वा । देवायतनेष्व् एतद् दण्डं न युक्तम् । एवं च सति यो ऽन्येषां परिग्रहवतां दर्मः स एव तेषाम् अपि स्यात् । न चैतद् इष्टम् ॥ ८.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-242	But Manu has declared that no fine shall be paid for (damage done by) a cow within ten days after her calving, by bulls and by cattle sacred to the gods, whether they are attended by a herdsman or not.
 </details>

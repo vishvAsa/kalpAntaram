@@ -2,6 +2,11 @@
 title = "171 वेदप्रदानाद् आचार्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They call the Teacher “father,” on account of his imparting the Veda. Before the tying of the girdle, the performance of no religious act is proper for him.—(171)
@@ -78,11 +83,6 @@ actions of the boy.’
 <details><summary>गोविन्दराजः</summary>
 
 **वेदप्रदानाद् **इति । **वेदा**ध्यापनाद् **आचार्यं पितरम्** अस्याहुः यस्मात् तस्मिन् उपनयनात् प्राक् किञ्चिद् उत्कर्षहेतुभूतं **कर्म** अध्ययनादि **न युज्यते **। एवं च प्राग् उपनयनाद् अजातसमत्वात् युक्तं **वेदप्रदाने**नार्यजन्मत्वम् ॥ २.१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
 </details>
 
 <details><summary>भारुचिः</summary>

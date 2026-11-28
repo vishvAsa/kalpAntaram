@@ -3,6 +3,11 @@ title = "135 अपुत्रायाम् मृतायाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+135	But if an appointed daughter by accident dies without (leaving) a son, the husband of the appointed daughter may, without hesitation, take that estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the appointed daughter happen to die without a son, the husband of that appointed daughter may, without hesitation, take that property.—(135)
@@ -269,9 +274,4 @@ her husband, if they were married in the first four forms of marriage; it shall 
 <details><summary>भारुचिः</summary>
 
 पुत्रिकायाः पितर्य् अपुत्रे उपरते, तद्धने च सर्वस्मिन् पुत्रिकया गृहीते, यद्य् अपुत्र्[आ पुत्रिका म्रियेत तदा तद्धनं] भर्तुः स्यात् । नासौ श्वशुरसपिण्डैर् ज्ञातिभिर् वानुयोज्यः ॥ ९.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	But if an appointed daughter by accident dies without (leaving) a son, the husband of the appointed daughter may, without hesitation, take that estate.
 </details>

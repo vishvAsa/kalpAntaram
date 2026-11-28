@@ -3,6 +3,11 @@ title = "145 आधिश् चोपनिधिश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+145	Neither a pledge nor a deposit can be lost by lapse of time; they are both recoverable, though they have remained long (with the bailee).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Pledges and Deposits should not suffer much lapse of time; for being left over for a long time, they would be liable to appropriation.—(145)
@@ -100,9 +105,4 @@ the principal has been doubled, or the stipulated period has expired, in the cas
 <details><summary>भारुचिः</summary>
 
 आधिसादृश्येनोपनिधेर् अपि समानविधित्वाद् अत्रोपदेशः । न चाधेः कालसंरोधे ऽपि निसर्गविक्रयौ स्त इति कृत्वा तस्माद् आधात्रा तन्मोक्षणे यतितव्यम् । कालात्ययेन हि तौ जलाग्निचोरादिभिर् विनाशं गच्छेयाताम् । अथ वा दशवर्षभोगेन । तथा च वक्ष्यति "यति किंचिद् दशवर्षाणि" इति । अथाध्युपनिध्योः को विशेषः । आधिर् हिरण्यभोग्यः; प्रीतिभोग्य उपनिधिः । तथा च वक्ष्यति "निक्षिप्तस्य धनस्याइवं प्रीत्योपनिहितस्य च" इति ॥ ८.१४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	Neither a pledge nor a deposit can be lost by lapse of time; they are both recoverable, though they have remained long (with the bailee).
 </details>

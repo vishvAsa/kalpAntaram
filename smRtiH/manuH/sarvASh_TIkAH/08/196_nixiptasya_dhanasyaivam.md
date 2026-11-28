@@ -3,6 +3,11 @@ title = "196 निक्षिप्तस्य धनस्यैवम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+196	Thus let the king decide (causes) concerning a deposit and a friendly loan (for use) without showing (undue) rigour to the depositary.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus shall the king come to a decision regarding property given as ‘deposit’ and that which is given as ‘friendly loan,’—without causing any injury to the keeper of the deposit.—(196)
@@ -44,9 +49,4 @@ This verse is quoted in *Vivādaratnākara* (p. 95), which adds the following no
 <details><summary>भारुचिः</summary>
 
 समुद्रो विमुद्रो वा निक्षेपः । विमुद्र एव तु प्रीतिविमुक्तभोग उपनिधिः । तयोर् अन्वेषणविधिर् अयं विज्ञेयः । अस्वामिविक्रय इदानीम् उच्यते ॥ ८.१९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	Thus let the king decide (causes) concerning a deposit and a friendly loan (for use) without showing (undue) rigour to the depositary.
 </details>

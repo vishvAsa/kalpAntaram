@@ -3,6 +3,11 @@ title = "240 कीताश् चाऽहि-पतङ्गाश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+241	Insects, snakes, moths, bees, birds and beings, bereft of motion, reach heaven by the power of austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Insects, snakes, moths, animals and birds, as also immovable beings go to heaven by the force of austerities.—(240)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 कीटपतङ्गा अग्निप्रवेशतपसा, पशवो ऽपत्यपोषणसंवर्धनेन वाहक्षीरदानादिभिश् च, वयांसि चापत्यसंवर्धनेन साधूनां च स्वमांसोपकारेण, स्थावराणि च पुष्पमूलफलछायाद्य् उपकारेण, **दिवं यान्ति तपोबलात्** । तपःस्तुत्यर्थवादो ऽयम् । अथ वा कीट्[अत्व्]आदिप्राप्तिहेतुकर्मसंबन्धात् प्रायश्चित्तेन यस्मान् मुच्यन्ते । अत एवम् इदम् उच्यते । सेयम् अपरेण प्रकारेण प्रायश्चित्तस्तुतिः । एवं च सति ॥ ११.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	Insects, snakes, moths, bees, birds and beings, bereft of motion, reach heaven by the power of austerities.
 </details>

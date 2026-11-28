@@ -3,6 +3,11 @@ title = "180 यथैनन् नाऽभिसन्दध्युर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+180	Let him arrange everything in such a manner that no ally, no neutral or foe may injure him; that is the sum of political wisdom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall arrange everything in such a manner that his allies or neutrals or enemies may not get the better of him; this is the sum-total of state-policy.—(180)
@@ -44,9 +49,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ७.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	Let him arrange everything in such a manner that no ally, no neutral or foe may injure him; that is the sum of political wisdom.
 </details>

@@ -3,6 +3,11 @@ title = "272 राष्ट्रेषु रक्षाधिकृतान
 
 +++
 
+<details><summary>Bühler</summary>
+
+272	Those who are appointed to guard provinces and his vassals who have been ordered (to help), he shall speedily punish like thieves, (if they remain) inactive in attacks (by robbers).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If those persons who are entrusted with the work of guarding the realm, and those vassals who have been ordered to assist, should remain neutral during the raids (against thieves), the king shall punish them speedily, like thieves.—(272)
@@ -36,9 +41,4 @@ principality, and the neighbours called in to save life and property are reckone
 <details><summary>भारुचिः</summary>
 
 आत्ययिकेष्व् एतान् अननुधातताञ् चोरसंवादेन प्रमादाद् वा चोरवच् छिष्यात् । निमित्तभेदाच् चानुशासनभेदो विज्ञेयः ॥ ९.२७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-272	Those who are appointed to guard provinces and his vassals who have been ordered (to help), he shall speedily punish like thieves, (if they remain) inactive in attacks (by robbers).
 </details>

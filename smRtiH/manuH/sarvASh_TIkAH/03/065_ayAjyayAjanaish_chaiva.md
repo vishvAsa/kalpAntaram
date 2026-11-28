@@ -3,6 +3,11 @@ title = "065 अयाज्ययाजनैश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.—(65)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 3.64].
 <details><summary>गोविन्दराजः</summary>
 
 **शिल्पेन व्यवहारेणेति । अयाज्ययाजनैश् चेति **। चित्रकर्मादिशिल्पधनप्रयोगकेवलशूदापत्य-गवाश्वरथक्रयविक्रयादिकृषिराजसेवाव्रात्यादियाजनयागादिकर्माभावशुद्धि-मनानध्ययनैः क्षिप्रम् एव कुलान्य् अपकर्षं यान्ति ॥ ३.६४–६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.
 </details>

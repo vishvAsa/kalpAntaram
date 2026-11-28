@@ -3,6 +3,11 @@ title = "026 अप्रयत्नः सुखार्थेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	Making no effort (to procure) things that give pleasure, chaste, sleeping on the bare ground, not caring for any shelter, dwelling at the roots of trees.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Making no effort to obtain pleasure-giving objects, and maintaining celibacy, he shall sleep on the ground; and not caring for shelter, he shall have the roots of trees for his dwelling.—(26).
@@ -60,11 +65,6 @@ roots of a tree.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-026	Making no effort (to procure) things that give pleasure, chaste, sleeping on the bare ground, not caring for any shelter, dwelling at the roots of trees.
-</details>
-
-<details><summary>Bühler</summary>
 
 026	Making no effort (to procure) things that give pleasure, chaste, sleeping on the bare ground, not caring for any shelter, dwelling at the roots of trees.
 </details>

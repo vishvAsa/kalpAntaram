@@ -2,6 +2,11 @@
 title = "037 दश पूर्वान्"
 +++
 
+<details><summary>Bühler</summary>
+
+037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son born of the wife married by the Brāhma form is a performer of righteous acts, absolves from sins ten Pitṛs on the ascending side and ten on the descending side of his family, as also himself as the twenty-first.—(37)
@@ -62,11 +67,6 @@ away in the Brāhma form of marriage, the son born of her purifies twelve past a
 <details><summary>गोविन्दराजः</summary>
 
 **दश पूर्वान् परान् **इति ब्राह्मविवाहोढ**पुत्रः** यदि **सुकृतकृद्** भवति तदा **दश् पूर्वान् **पित्रादीन् अन्वयिनो मृतान् **दश् चापरान् **पुत्रादीन् **आत्मानं चैकविंशकं** पापान् मोचयति । न चाकृताभ्याम् अकृतविप्रणाशाव् अत्र नोदनीयौ । श्राद्धादिवत् वचनगम्यत्वाद् अमुष्यार्थस्य पुत्रादीनां चापापाचाराणाम् उत्पत्तिमात्रेणैवैषां विमोक्षस् तदानीम् अनुत्पन्नत्वात् ॥ ३.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
 </details>
 
 <details><summary>भारुचिः</summary>

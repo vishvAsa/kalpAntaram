@@ -2,6 +2,11 @@
 title = "023 बभूवुर् हि"
 +++
 
+<details><summary>Bühler</summary>
+
+023	For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by Brahmanas and Kshatriyas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In ancient times, at sacrifices performed by the sages, as also at sacrifices performed by Brāhmaṇas and Kṣatriyas, the sacrificial cakes were made of eatable beasts and birds.—(23)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 5.22].
 <details><summary>गोविन्दराजः</summary>
 
 **बभूवुर्** इति । यस्माच् चिरन्तनेष्व् अपि सम्बन्धिषु यज्ञेषु ब्राह्मणक्षत्रिययज्ञेषु च **भक्ष्याणां मृगपक्षिणां **सम्बन्धिनाममांसेन **पुरोडाशा **अभूवन् । तस्माद् यज्ञार्थम् अपि ते वध्याः ॥ ५.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by Brahmanas and Kshatriyas.
 </details>
 
 <details><summary>भारुचिः</summary>

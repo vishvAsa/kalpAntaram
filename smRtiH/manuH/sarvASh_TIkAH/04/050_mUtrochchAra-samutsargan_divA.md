@@ -3,6 +3,11 @@ title = "050 मूत्रोच्चार-समुत्सर्गन्
 
 +++
 
+<details><summary>Bühler</summary>
+
+050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall pass it after placing a stick, or a clod, or leaves, or grass, or some such thing, restraining his speech, clean, his b ody wrapped and covered.—(50)
@@ -84,9 +89,4 @@ grass or wood or leaves or split bamboo or earthen vessels.’
 <details><summary>गोविन्दराजः</summary>
 
 **मूत्रोच्चारसमुत्सर्गम् **इति । मूत्रपुरीषोत्सर्गं **दिवा सन्ध्ययोश् **चोत्तराभिमुखो **रात्रौ दक्षिणाभिमुखः कुर्यात् **॥ ४.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.
 </details>

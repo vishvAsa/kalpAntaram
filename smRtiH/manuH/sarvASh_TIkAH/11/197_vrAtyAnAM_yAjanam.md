@@ -3,6 +3,11 @@ title = "197 व्रात्यानां याजनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+198	He who has sacrificed for Vratyas, or has performed the obsequies of strangers, or a magic sacrifice (intended to destroy life) or an Ahina sacrifice, removes (his guilt) by three Krikkhra (penances).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one sacrifices for apostates, or performs the obsequies of strangers, or malevolent rites, or the Ahīna sacrifice,—he wipes it off by three Kṛcchras.—(197)
@@ -134,9 +139,4 @@ who performs magic rites for encompassing the death of some person, one who misu
 > प्रेताहारैः समं तत्र दशरात्रेण शुध्यति ॥ इति ।
 
 याजनाधिकाराच् चाभिचाराहीनयोर् अपि याजनार्थं वचनम् । न त्व् आत्मार्थे प्रतिषेधः । एवं च श्रुतिर् "अहीनयाजनम् अकार्यम्" इति । अनभिचरणीयाभिचारे चैतत् प्रायश्चित्तम् । तथा चोक्तो ऽभिचरणीयाभिचारः, "वाक्शस्त्रं वै ब्राह्मणस्य तेन हन्याद् अरीन् द्विजः" इति ॥ ११.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-198	He who has sacrificed for Vratyas, or has performed the obsequies of strangers, or a magic sacrifice (intended to destroy life) or an Ahina sacrifice, removes (his guilt) by three Krikkhra (penances).
 </details>

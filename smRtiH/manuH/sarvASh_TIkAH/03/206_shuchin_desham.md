@@ -2,6 +2,11 @@
 title = "206 शुचिन् देशम्"
 +++
 
+<details><summary>Bühler</summary>
+
+206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should prepare with care a clean and secluded place Sloping towards the south, and smear it with cowdung.—(206)
@@ -58,11 +63,6 @@ which is full of living beings, very dry, burnt by fire, where disagreeable and 
 <details><summary>गोविन्दराजः</summary>
 
 **शुचिम्** इति । अनुपहतं **देशं** जनैर् अनाकीर्णं गोशकृता **उपलेपयेत् **। अथ वा दक्षिणस्यां दिशि अवनतो यदि स्वभावतो न स्यात् तदा प्रयत्नतः तं सम्पादयेत् ॥ ३.२०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
 </details>
 
 <details><summary>भारुचिः</summary>

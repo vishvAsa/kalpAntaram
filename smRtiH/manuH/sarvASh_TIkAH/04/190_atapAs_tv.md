@@ -2,6 +2,11 @@
 title = "190 अतपास् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the twice-born person,who is without austerities and does not study the Veda, seeks for gifts, he sinks along with him into water; just like one who sinks along with the stone-raft.—(190)
@@ -53,11 +58,6 @@ learning and austerities; if he does accept it, he drags down himself as well as
 <details><summary>गोविन्दराजः</summary>
 
 **अतपास् त्व् अनधीयान** इति । यस् तपःस्वाध्यायशून्यः प्रतिग्रहे ऽभिलाषुको भवति तदात्रैवानर्हप्रतिग्रहदानपापयुक्तेन सह पाषाणमयेन नावादिन तरन् उदक इव नरके ऽन्तर्धीयते । दाता ह्य् अत्र प्रतिग्रहसम्बन्धाद् अज्ञौ दातृप्रतीच्छकाव् इति वक्ष्यमाणदर्शनात् तेनेति परामृश्यते ॥ ४.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
 </details>
 
 <details><summary>भारुचिः</summary>

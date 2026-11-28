@@ -2,6 +2,11 @@
 title = "170 तत्र यद्"
 +++
 
+<details><summary>Bühler</summary>
+
+170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these, at that Brahmic birth which is. marked by the tying of the girdle, the Sāvitrī has been declared to be his “Mother,” and the Teacher his “Father.”—(170)
@@ -55,11 +60,6 @@ whereat the Sāvitrī is the *mother*, and the Teacher the *father*
 <details><summary>गोविन्दराजः</summary>
 
 **तत्रेति** । यस्मिन् जन्मत्रयमध्ये यत् **ब्रह्म**ग्रहणार्थं पुंसो **जन्म** मेखलाबन्धनोपलक्षणार्थं **तस्य माता सावित्री पिता **पुनः **आचार्यः** वक्ष्यते इति रूपकभङ्ग्या जन्म समर्थयते ॥ २.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
 </details>
 
 <details><summary>भारुचिः</summary>

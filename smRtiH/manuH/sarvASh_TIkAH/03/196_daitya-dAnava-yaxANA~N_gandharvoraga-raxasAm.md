@@ -3,6 +3,11 @@ title = "196 दैत्य-दानव-यक्षाणाङ् गन्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+196	The Barhishads, born of Atri, are recorded to be (the manes) of the Daityas, Danavas, Yakshas, Gandharvas, Snake-deities, Rakshasas, Suparnas, and a Kimnaras,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Barhisads, the sons of Atri, are declared to be the Pitṛs of Daityas, Dānavas, Yakṣas, Gandharvas, Uragas, Rākṣasas, Suparṇas and Kinnaras.—(196)
@@ -43,9 +48,4 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 <details><summary>गोविन्दराजः</summary>
 
 **दैत्यदानवयक्षाणाम्** इति । दैत्यादीनां प्रथमाध्यायोक्तभेदानां अत्रिपुत्राः **बर्हिषदो** नाम पितरः स्मृताः ॥ ३.१९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	The Barhishads, born of Atri, are recorded to be (the manes) of the Daityas, Danavas, Yakshas, Gandharvas, Snake-deities, Rakshasas, Suparnas, and a Kimnaras,
 </details>

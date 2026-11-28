@@ -2,6 +2,11 @@
 title = "025 तपो वाचम्"
 +++
 
+<details><summary>Bühler</summary>
+
+025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being desirous of bringing into existence these creatures, he created this entire creation (comprising) austerity, speech, happiness, desire and anger.—(25)
@@ -37,11 +42,6 @@ to the expression ‘*svapoṣam puṣṭaḥ*,’ ‘reared the rearing by ones
 <details><summary>गोविन्दराजः</summary>
 
 **तप **इति । **रतिः **चेतोनिर्वृत्तिः । **इमा **वक्ष्यमाना दैवादिकाः **प्रजाः **एतच्छ्लोकओक्तां पूर्वपठितां च **सृष्टिं** कृतवान् ॥ १.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
 </details>
 
 <details><summary>भारुचिः</summary>

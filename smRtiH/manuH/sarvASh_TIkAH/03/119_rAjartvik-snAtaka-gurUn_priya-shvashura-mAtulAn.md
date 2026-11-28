@@ -2,6 +2,11 @@
 title = "119 राजर्त्विक्-स्नातक-गुरून् प्रिय-श्वशुर-मातुलान्"
 +++
 
+<details><summary>Bühler</summary>
+
+119	Let him honour with the honey-mixture a king, an officiating priest, a Snataka, the teacher, a son-in-law, a father-in-law, and a maternal uncle, (if they come) again after a full year (has elapsed since their last visit).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should receive, with the “honey-mixture,” the king, the priest, the accomplished Student, the Teacher, the Son-in-law, the Father-in-law and the Maternal uncle,—coming again after a year.—(119)
@@ -139,11 +144,6 @@ entertainment: the Teacher, the Priest, the Accomplished Student, the Bridegroom
 <details><summary>गोविन्दराजः</summary>
 
 अतिथिपूजाप्रसङ्गेनायं राजादीनां पूजाविशेष उच्यते – **राजर्त्विक्स्नातकगुरुप्रियश्वशुर-मातुलान्** इति । जनपदाभिषक्तं क्षत्रियं गृहागतं यचकं **ऋत्विजं** यः कश्चिद् गृहस्थो द्विजातिः विद्याव्रतस्नातकं शिष्यो गुरुं श्वशुरो जामातरं जामाता श्वशुरं भागिनेयो मातुलं मधुपर्काख्येन गृह्योक्तरूपेण कर्मणा पूजयेत् । परिमितात् संवत्सरात् संवत्सरे ऽतीते पुनर् गृहागतान् एतान् पूजयेत् । ये तु स्नातकम् आचार्यः पूजयेत् तं प्रतीतम् इत्य् उक्तत्वाद् इत्य् आहुः, तेषां परिवर्सरान् इति स्नातकविशेषणं कथं स्यात् ॥ ३.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	Let him honour with the honey-mixture a king, an officiating priest, a Snataka, the teacher, a son-in-law, a father-in-law, and a maternal uncle, (if they come) again after a full year (has elapsed since their last visit).
 </details>
 
 <details><summary>भारुचिः</summary>

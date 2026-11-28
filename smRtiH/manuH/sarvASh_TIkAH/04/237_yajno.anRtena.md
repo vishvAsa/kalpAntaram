@@ -2,6 +2,11 @@
 title = "237 यज्ञो ऽनृतेन"
 +++
 
+<details><summary>Bühler</summary>
+
+237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sacrifice trickles away by falsehood, the austerity trickles away by vanity, longevity by the reviling of Brāhmaṇas, and gifts by advertisement.—(237)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 4.234].
 <details><summary>गोविन्दराजः</summary>
 
 यस्माद् **यज्ञ** इति । यस्मात् यज्ञादीन्य् अनृतादिभिः कृतैर् अकृतसमानि भवन्ति तस्माद् एतन् न कर्तव्यम् ॥ ४.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
 </details>
 
 <details><summary>भारुचिः</summary>

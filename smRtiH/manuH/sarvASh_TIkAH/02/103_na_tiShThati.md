@@ -2,6 +2,11 @@
 title = "103 न तिष्ठति"
 +++
 
+<details><summary>Bühler</summary>
+
+103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But he who does not stand during the morning-twilight, and who does not sit through the evening-twilight, should be excluded, like the Sśūdra, from all that is due to twice-born persons.—(103)
@@ -65,11 +70,6 @@ observe not the Twilight Prayers,—are wicked and injure the sun.’
 <details><summary>गोविन्दराजः</summary>
 
 एवं कथञ्चिद् अकृतैनसो ऽननुष्ठानप्राप्तौ नित्यताम् आह **नेति** । **यः** पुनः **पूर्वां** सन्ध्यां नानुतिष्ठति यो वा **पश्चिमां नोपास्ते** **सो **ऽध्ययनदानादि**द्विजकर्मणः **सर्वस्माच् **छूद्रवत् **परिहरणीयः । इत्य् एवं निन्देयम् अवश्यानुष्ठानार्था ॥ २.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
 </details>
 
 <details><summary>भारुचिः</summary>

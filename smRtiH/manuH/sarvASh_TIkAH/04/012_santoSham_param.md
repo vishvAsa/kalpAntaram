@@ -2,6 +2,11 @@
 title = "012 सन्तोषम् परम्"
 +++
 
+<details><summary>Bühler</summary>
+
+012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who wants happiness should adopt perfect contentment and remain self-controlled. Happiness has its root in contentment, and its opposite is the root of unhappiness.—(12)
@@ -41,11 +46,6 @@ This verse is quoted in *Aparārka* (p. 170), which remarks that in connection w
 <details><summary>गोविन्दराजः</summary>
 
 **सन्तोषम्** इति । यः समः स्वर्गादिद्षृष्टादृष्ट**सुखार्थी** स्वोपगतविशेषस्पृहः सन् आत्मकुटुम्बनित्यानुष्ठानमात्रपर्याप्तसञ्चय एव धने प्रकृष्टा निवृत्तिम् आश्रित्य धनार्जनं सञ्चयं कुर्यात् यस्मात् **सन्तोष**प्रभवं समस्तस्वर्गादिदृष्टादृष्टसुखम् । असन्तोषः पुनर् दृष्टादृष्टदुःखस्य मूलम् ॥ ४.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "015 हीनजाति-स्त्रियम् मोहाद्"
 +++
 
+<details><summary>Bühler</summary>
+
+015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Twice-born men, marrying, through infatuation, a girl of the low caste, quickly reduce their families, along with their offspring, to the position of the Śūdra.—(15).
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादः **हीनजतिस्त्रियम्** इति । **शूद्रताम्** इत्य् उपादानात् **हीनजातिं **शूद्रां शास्त्रार्थापरिज्ञानात् उपयच्छमाना **द्विजातयः कुलानि **पुत्रपौत्रादिप्रबन्धात् चिरन्तनकालभाविसन्तानानि **शूद्रतां **गमयन्ति तथाविधानाम् एव तत्रोत्पादात् । अत्र द्विजातय इति वचनात् वैश्यस्याप्य् अकृतसवर्णाविवाहस्य शूद्रानिषेध इति गम्यते । ब्राह्मणक्षत्रिययोः पुनः प्रत्यवायातिशयः पूर्वं प्रतिषेधारम्भसामर्थ्यात् ॥ ३.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.
 </details>
 
 <details><summary>भारुचिः</summary>

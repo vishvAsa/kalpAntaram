@@ -3,6 +3,11 @@ title = "189 एनस्विभिर् अनिर्णिक्तैर
 
 +++
 
+<details><summary>Bühler</summary>
+
+190	Let him not transact any business with unpurified sinners; but let him in no way reproach those who have made atonement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall not carry on any business with unexpiated sinners; but in no case shall he despise those who have performed the expiation.—(189)
@@ -49,9 +54,4 @@ man not transact business of any kind. But the man who knows the Law must not bl
 <details><summary>भारुचिः</summary>
 
 "सर्वाणि ज्ञातिकार्याणि" इति महापातकेभ्यो ऽनुज्ञानात् गोवधार्थं प्रकल्प्यते । "न संसर्गं व्रजेत् सद्भिः प्रायस्चित्ते ऽकृते सति" इत्य् उभयत्रापि शक्यः संपर्को ज्ञापयितुम् । बालघ्नाद्यर्थं तु पुनर् अपोद्यते ॥ ११.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	Let him not transact any business with unpurified sinners; but let him in no way reproach those who have made atonement.
 </details>

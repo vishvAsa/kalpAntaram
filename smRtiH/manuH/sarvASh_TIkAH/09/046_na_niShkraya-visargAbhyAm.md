@@ -3,6 +3,11 @@ title = "046 न निष्क्रय-विसर्गाभ्याम�
 
 +++
 
+<details><summary>Bühler</summary>
+
+046	Neither by sale nor by repudiation is a wife released from her husband; such we know the law to be, which the Lord of creatures (Pragapati) made of old.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Either by sale or by repudiation the wife is not released from her husband; such is the law that we know, as originally propounded by prajapati.—(46)
@@ -71,9 +76,4 @@ This verse is quoted in *Smṛtitattva* (II, p. 149), which explains ‘*niṣkr
 ऽऽत्मीया धर्मतः शक्या कर्तुम् ।  
 यतो ऽस्य बीज-नाशः - परस्यावश्यं-भावि--क्षेत्र-प्राधान्यात् ।  
 तथा च लोके ॥ ९.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	Neither by sale nor by repudiation is a wife released from her husband; such we know the law to be, which the Lord of creatures (Pragapati) made of old.
 </details>

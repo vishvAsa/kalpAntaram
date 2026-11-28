@@ -3,6 +3,11 @@ title = "107 नैःश्रेयसम् इदम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+107	Thus the acts which secure supreme bliss have been exactly and fully described; (now) the secret portion of these Institutes, proclaimed by Manu, will be taught.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The act conducive to the Highest Good is as has been here fully declared. Now is going to be set forth the secret of the Teachings of Manu—(107)
@@ -33,9 +38,4 @@ This verse is intended to attract the attention of the Vedic scholar, and to aro
 <details><summary>भारुचिः</summary>
 
 श्रोतॄन् उत्तरप्रकरणार्थश्रवणायाभिमुखीकरोत्य् आदरेण ॥ १२.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	Thus the acts which secure supreme bliss have been exactly and fully described; (now) the secret portion of these Institutes, proclaimed by Manu, will be taught.
 </details>

@@ -3,6 +3,11 @@ title = "013 तस्माद् धर्मम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	Let no (man), therefore, transgress that law which favourites, nor (his orders) which inflict pain on those in disfavour.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For this reason no one should transgress that favourable decree which the King should ordain in favour of his favourites, or that unfavourable decree that he should ordain against those in his disfavour.—(13).
@@ -80,9 +85,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 यतः प्रकरणाद् राज-स्तुति-परम् एतत् प्रत्यवगन्तव्यम् ।  
 लौकिक-धर्मापेक्षया वेद-विज्ञेयं शास्त्रम् ।  
 समाप्ता राजोत्पत्तिः ॥ ७.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Let no (man), therefore, transgress that law which favourites, nor (his orders) which inflict pain on those in disfavour.
 </details>

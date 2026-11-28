@@ -3,6 +3,11 @@ title = "107 एवं विजयमानस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+107	When he is thus engaged in conquest, let him subdue all the opponents whom he may find, by the (four) expedients, conciliation and the rest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While he is thus engaged in conquest, if there should be any opponents for him, all these he shall bring under subjugation by means of conciliation and other expedients.—(107)
@@ -42,9 +47,4 @@ and towards those possessed of good qualities, he shall employ conciliation; tow
 <details><summary>भारुचिः</summary>
 
 एवं विजये स्थितस्य राज्ञो ये प्रतापेन नोपनमेरन् तान् पश्चात् सामादिभिर् वशीकुर्यात् ॥ ७.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	When he is thus engaged in conquest, let him subdue all the opponents whom he may find, by the (four) expedients, conciliation and the rest.
 </details>

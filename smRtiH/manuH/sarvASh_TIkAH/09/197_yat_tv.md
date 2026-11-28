@@ -3,6 +3,11 @@ title = "197 यत् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+197	But it is prescribed that the property which may have been given to a (wife) on an Asura marriage or (one of the) other (blamable marriages, shall go) to her mother and to her father, if she dies without issue.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is ordained that the property of women married by the ‘Brāhma,’ the ‘Daiva,’ the ‘Ārṣa,’ the ‘Gāndharva,’ or the ‘Prājāpatya’ form, shall go to her husband alone, if she dies childless.—(196)
@@ -64,9 +69,4 @@ by her kinsmen should go to her husband, in the absence of kinsmen. The sisters 
 <details><summary>भारुचिः</summary>
 
 एतेष्व् आसुरादिषु कल्या[नेषु तयोः] प्रत्यर्पयितव्यं धनम् ॥ ९.१९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	But it is prescribed that the property which may have been given to a (wife) on an Asura marriage or (one of the) other (blamable marriages, shall go) to her mother and to her father, if she dies without issue.
 </details>

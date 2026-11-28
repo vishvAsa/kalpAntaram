@@ -3,6 +3,11 @@ title = "035 ममायम् इति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+035	From that man who shall truly say with respect to treasure-trove, 'This belongs to me,' the king may take one-sixth or one-twelfth part.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In regard to a treasure-trove, if a man says truly ‘this is mine,’—from him the king shall take the sixth part, or only the twelfth part.—(35)
@@ -70,9 +75,4 @@ obtained a treasure-trove, the King shall keep half of it in his Treasury; and t
 <details><summary>भारुचिः</summary>
 
 राजानाधिगतम् अध्गतं वा यो निधिं प्रवादयेद् आत्मीयं कारणतः तस्य श्रोत्रियत्वाद्यपेक्षया भागविकल्प आश्रयितव्यः प्रतिपत्तिकारणविसंवादे च —
-</details>
-
-<details><summary>Bühler</summary>
-
-035	From that man who shall truly say with respect to treasure-trove, 'This belongs to me,' the king may take one-sixth or one-twelfth part.
 </details>

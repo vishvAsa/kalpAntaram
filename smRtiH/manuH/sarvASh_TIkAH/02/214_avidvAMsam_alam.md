@@ -2,6 +2,11 @@
 title = "214 अविद्वांसम् अलम्"
 +++
 
+<details><summary>Bühler</summary>
+
+214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this world women are capable op leading astray the ignorant, as well as the learned, who becomes a servile follower of desire and passion.—(214)
@@ -50,11 +55,6 @@ See Comparative notes for [Verse 2.213].
 <details><summary>गोविन्दराजः</summary>
 
 यतः **कामक्रोध**विधेयं पुरुषं सम्यक् शास्त्रज्ञं वा **लोके** अधर्ममार्गं **नेतुं** स्त्रियो **ऽलम्** समर्थाः ॥ २.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
 </details>
 
 <details><summary>भारुचिः</summary>

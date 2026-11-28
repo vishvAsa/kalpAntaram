@@ -2,6 +2,11 @@
 title = "056 न मांस-भक्षणे"
 +++
 
+<details><summary>Bühler</summary>
+
+056	There is no sin in eating meat, in (drinking) spirituous liquor, and in carnal intercourse, for that is the natural way of created beings, but abstention brings great rewards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no sin in the eating of meat, nor in wine, nor in sexual intercourse. Such is the natural way of living beings; but abstention is conducive to great rewards.—(56).
@@ -62,11 +67,6 @@ It is quoted in *Prāyaścittaviveka* (p. 277), which remarks that this refers, 
 <details><summary>गोविन्दराजः</summary>
 
 **न मांस्भक्षणे दोष** इति । शिष्टाप्रतिषिद्धमांसभक्षणमद्यपानमैथुनाचरणे **न** कश्चिद् **दोषो** यस्माज् जङ्गमात्मकभूतानां एषा अशनपानमैथुनात्मिका **प्रवृत्तिः **स्वाभाविको ऽयं व्यापारः । वर्जनं पुनर् महापलम् । इति मांसवर्जनफलप्रसङ्गेन अशिष्टाप्रतिषिद्धमद्यमैथुनादिनिवृत्तिफलकथनपरम् एतत् ॥ ५.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	There is no sin in eating meat, in (drinking) spirituous liquor, and in carnal intercourse, for that is the natural way of created beings, but abstention brings great rewards.
 </details>
 
 <details><summary>भारुचिः</summary>

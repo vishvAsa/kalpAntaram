@@ -3,6 +3,11 @@ title = "097 राज्ञश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	A text of the Veda (declares) that (the soldiers) shall present a choice portion (of the booty) to the king; what has not been taken singly, must be distributed by the king among all the soldiers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They shall present to the King the choice portion,—such is the Vedic declaration. what has not been won individually shall be distributed by the king among all the soldiers.—(97)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 7.96].
 <details><summary>भारुचिः</summary>
 
 उद्धारोपरिष्ठद्रव्यं **सर्वयोधेभ्यो** राज्ञा आदेयम् । वैदिकी श्रुतिर् "महेन्द्रम् उद्धारम् उदहरत् वृत्रं हत्वा" इत्यादि । अपृथग्जितं समूहजितं यत्, ततः सर्वयोधेभ्यो युद्धव्यायामक्लेशानुरूपं देयम् ॥ ७.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	A text of the Veda (declares) that (the soldiers) shall present a choice portion (of the booty) to the king; what has not been taken singly, must be distributed by the king among all the soldiers.
 </details>

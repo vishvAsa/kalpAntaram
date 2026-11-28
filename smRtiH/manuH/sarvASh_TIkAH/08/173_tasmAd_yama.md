@@ -3,6 +3,11 @@ title = "173 तस्माद् यम"
 
 +++
 
+<details><summary>Bühler</summary>
+
+173	Let the prince, therefore, like Yama, not heeding his own likings and dislikings, behave exactly like Yama, suppressing his anger and controlling himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these reasons, the King shall, like Yama, renounce his likes and dislikes, and behave in the manner of Yama,—his anger suppressed and his senses controlled.—(173)
@@ -63,9 +68,4 @@ on the throne of judgment, deals out punishment, equitable towards all creatures
 <details><summary>भारुचिः</summary>
 
 समः प्रजासु स्याद् इत्य् अस्य राज्ञो ऽयम् उपमार्थः । तथा च वैषम्यहेतुव्याख्यानम् आह जितक्रोधो जितेन्द्रिय इति ॥ ८.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	Let the prince, therefore, like Yama, not heeding his own likings and dislikings, behave exactly like Yama, suppressing his anger and controlling himself.
 </details>

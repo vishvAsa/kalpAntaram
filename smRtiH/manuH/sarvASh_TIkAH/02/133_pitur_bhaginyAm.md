@@ -2,6 +2,11 @@
 title = "133 पितुर् भगिन्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+133	Towards a sister of one's father and of one's mother, and towards one's own elder sister, one must behave as towards one's mother; (but) the mother is more venerable than they.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Towards his father’s sister, his mother’s sister, and his own elder sister, one should adopt the same behaviour as towards his mother; but the mother is more venerable than these.—(133)
@@ -57,11 +62,6 @@ sister also.’
 <details><summary>गोविन्दराजः</summary>
 
 **पितुर् भगिन्याम्** इति । पितृष्वसृमातृष्वसृज्येष्ठभगिनीनां मातृवद् वर्तेत । मातृष्वसृपितृष्वस्रोः “सम्पूम्या गुरुपत्नीवत्” इत्य् अनेनैव पादोपसङ्ग्रहणादिपूजासिद्धाव् इदं वचनम् प्रियकरणादिमातृवृत्त्यतिदेशार्थम् । यथा वक्ष्यति – “तयोर् नित्यं प्रियं कुर्यात्” इति औपदेशिकातिदेशिकवृत्तिविधानेनैव च मातुः प्रकर्षसिद्धौ “माता त्व् आभ्यो गरीयसी” “पितृष्वसृमातृष्वसृज्येष्ठेति” वचनं मातृनिषिद्धस्य तत्प्रियकरणप्रतिनिषेधार्थम् ॥ २.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Towards a sister of one's father and of one's mother, and towards one's own elder sister, one must behave as towards one's mother; (but) the mother is more venerable than they.
 </details>
 
 <details><summary>भारुचिः</summary>

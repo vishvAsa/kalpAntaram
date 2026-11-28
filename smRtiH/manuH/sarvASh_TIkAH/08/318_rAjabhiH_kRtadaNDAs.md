@@ -3,6 +3,11 @@ title = "318 राजभिः कृतदण्डास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+318	But men who have committed crimes and have been punished by the king, go to heaven, being pure like those who performed meritorious deeds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Men who, having committed crimes, have been punished by Kings, become freed from guilt and go to heaven, just like well-behaved good men.—(318)
@@ -119,9 +124,4 @@ from Kings the punishment due to them, go purified to heaven and are as holy as 
 <details><summary>भारुचिः</summary>
 
 प्रकरणात् स्तेयपापनिर्हरणविषयम् एव निर्मलवचनं, येन स्तेयनिमित्तम् एवेदं अस्य प्रायश्चित्तम् । अतो युक्तम् इदम् । यत् ते **निर्मलाः स्वर्गम्** आगच्छेयुः, पूर्वोपात्तेन स्वर्गारोहणिकेन कुशलकर्मणा । एवं च सत्य् उभयोर् अप्य् अनया शिष्टक्रियया तत्कालोपकारसंबन्धापेक्षायाम् इदं राजाभिगमनपक्षे प्रशंसावचनं, न निर्बीजम् इति ॥ ८.३१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-318	But men who have committed crimes and have been punished by the king, go to heaven, being pure like those who performed meritorious deeds.
 </details>

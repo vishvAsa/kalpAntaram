@@ -3,6 +3,11 @@ title = "292 सर्वकण्टकपापिष्ठं हेमका
 
 +++
 
+<details><summary>Bühler</summary>
+
+292	But the king shall cause a goldsmith who behaves dishonestly, the most nocuous of all the thorns, to be cut to pieces with razors.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the goldsmith, the worst of all ‘thorns,’ behaves dishonestly, the king shall have him cut to pieces with razors.—(292)
@@ -61,9 +66,4 @@ bad flesh, should be deprived of three limbs (nose, ears and hands), and be made
 <details><summary>भारुचिः</summary>
 
 सर्ववर्णेभ्यः सुवर्णापहारप्रवृत्ते ब्राह्मणसुवर्णापहरणे वा महापातकाभ्यासशीलस्येदम् उच्यते । तं निकषपरिवर्तनतुलासंचरणादिषु अन्यायेषु प्रवृत्तम् "येन येन यथाङ्गेन" इत्य् अनया परिभाषया जिह्वाहस्तपादशिरश्चक्षुरादिना सुवर्णगुप्तिं कुर्वन्तं **लवशो** घातयेत्, अपराद्धाभ्यासानुबन्धेन । अपरे त्व् आहुः- सर्ववर्णसुवर्णापहरण एतद् उच्यते । हेमकर्तुर् बहुत्वाल्पत्वापेक्षयायं छेदनोपदेशः प्रदर्शनार्थः । अपरे तु सुवर्णकारस्यापीदं न शोधनम् इत्य् उपदिशन्ति, रक्षितापहरणे ऽपि सुराप्रायश्चित्तवत् ॥ ९.२९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-292	But the king shall cause a goldsmith who behaves dishonestly, the most nocuous of all the thorns, to be cut to pieces with razors.
 </details>

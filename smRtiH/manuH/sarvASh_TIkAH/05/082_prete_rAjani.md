@@ -2,6 +2,11 @@
 title = "082 प्रेते राजनि"
 +++
 
+<details><summary>Bühler</summary>
+
+082	If the king in whose realm he resides is dead, (he shall be impure) as long as the light (of the sun or stars shines), but for (an intimate friend) who is not a Srotriya (the impurity lasts) for a whole day, likewise for a Guru who knows the Veda and the Angas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the death of the King in whose realm he lives, it lasts till the light; in the case of a non-learned teacher, for the whole day; as also in the case of the (ordinary) teacher.—(81).
@@ -80,11 +85,6 @@ of the death of the king in whose realm one lives.’
 <details><summary>गोविन्दराजः</summary>
 
 **प्रेते राजनि सज्योतिर् यस्य स्याद् विषयेषु चेति** । यत्सम्बन्धिनि देशे ब्राह्मणादिस्थितः तस्मिन् **राजनि प्रेते** सज्योतिषा दिनादित्येन रात्रौ तारकाभिः सह वर्तते इति सज्योतिर् दिवोत्पन्ने दिवैवाशौचं रात्राव् उपजायते रात्राव् एवेति । “श्रोत्रिये सङ्गते त्रिदिवसम्” इत्य् उक्तम् अश्रोत्रिये पुनः सङ्गते ऽहः समग्रं रात्रौ न भवति । रात्राव् उत्पन्ने रात्रिम् एव नाहौ अङ्गादि अवक्तिर् इव (?) “अल्पं वा बहु वा यस्य” इत्य् एवं धर्मके गुराव् एवम् एव ॥ ५.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	If the king in whose realm he resides is dead, (he shall be impure) as long as the light (of the sun or stars shines), but for (an intimate friend) who is not a Srotriya (the impurity lasts) for a whole day, likewise for a Guru who knows the Veda and the Angas.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "230 स्त्री-बालोन्मत्त-वृद्ध�
 
 +++
 
+<details><summary>Bühler</summary>
+
+230	On women, infants, men of disordered mind, the poor and the sick, the king shall inflict punishment with a whip, a cane, or a rope and the like.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On women, boys, men out of their minds, the old, the poor and the sick, the king shall inflict punishment with creepers, barks, ropes and so forth.—(230)
@@ -47,9 +52,4 @@ those who have committed sins and those born of inverse marriages should suffer 
 <details><summary>भारुचिः</summary>
 
 विकर्मस्थानाम् एतद् अपराधानुरूपतः शिफादिभिस् ताडनम् । न पातकिनाम् अपि चापलता विज्ञेया ॥ ९.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	On women, infants, men of disordered mind, the poor and the sick, the king shall inflict punishment with a whip, a cane, or a rope and the like.
 </details>

@@ -2,6 +2,11 @@
 title = "118 अद्भिस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+118	The manner of purifying large quantities of grain and of cloth is to sprinkle them with water; but the purification of small quantities is prescribed (to take place) by washing them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of grains and cloth, in large quantities, there is sprinkling with water; and in small quantities, their purification has been ordained to be secured by means of washing with water.—(117).
@@ -84,11 +89,6 @@ sprinkling water;—so also grain, skins, ropes, woven cloth, things made of bam
 <details><summary>गोविन्दराजः</summary>
 
 **अद्भिर्** इति । “अनेकोद्धार्ये दारुशिले भूमिसमे” इति बोधायनीयाद्यनेकोद्धार्यस्य द्रव्यान्तरस्थाल्पशौचत्वदर्शनात् पुरुषाभावाद् ऊर्ध्वं धान्यवस्त्राणां चाण्डालादिर् अभ्युक्षणम् । तदल्पानां पुनर् अद्भिः प्रक्षालनं विधीयते ॥ ५.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	The manner of purifying large quantities of grain and of cloth is to sprinkle them with water; but the purification of small quantities is prescribed (to take place) by washing them.
 </details>
 
 <details><summary>भारुचिः</summary>

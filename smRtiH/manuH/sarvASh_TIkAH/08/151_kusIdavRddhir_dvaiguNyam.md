@@ -3,6 +3,11 @@ title = "151 कुसीदवृद्धिर् द्वैगुण्य
 
 +++
 
+<details><summary>Bühler</summary>
+
+151	In money transactions interest paid at one time (not by instalments) shall never exceed the double (of the principal); on grain, fruit, wool or hair, (and) beasts of burden it must not be more than five times (the original amount).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Interest on money-loans stipulated at one time shall not exceed the double; in the case of grains, fruits, wool and beasts of burden, it shall not go beyond the quintuple.—(151)
@@ -244,9 +249,4 @@ gold and silver—and for agricultural products and for insect-products (silk, e
 <details><summary>भारुचिः</summary>
 
 **वृद्धिर् द्वैगुण्यं नात्येति** । कालमहत्त्वे ऽपि सति । **सकृद् आहिता** पुरुषान्तरम् असंक्रान्ता, संक्रमिते तु धने प्रयोक्त्रान्यत्र पुनर्वर्धत एव, गृहीतृदोषाद् अप्रतिपादनेन पूर्वं प्रयोक्तुर् धनस्य । हिरण्ये तावद् एवम् । **धान्ये** तु फलकाले **शद**काले प्रतिवर्षं भागशो वर्धमानं तत् प्रयुक्तं धान्यं **नातिक्रामति पञ्चताम्** । हिरण्यवद् द्वैगुणे प्राप्ते इदं तत्प्रतिषेधार्थं पञ्चगुणत्वम् आरभ्यते । एवं **शदे** पञ्चतां परिवर्तमानो **नातिक्रामति** । एवं **लवे** प्रयुक्त ऽव्याद्यूर्णाजानां लवकाले लवकाले भागशो वर्धते तत्प्रयुक्तम् । **वाह्ये** तु बलीवर्दादाव् एष एव न्यायः ॥ ८.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	In money transactions interest paid at one time (not by instalments) shall never exceed the double (of the principal); on grain, fruit, wool or hair, (and) beasts of burden it must not be more than five times (the original amount).
 </details>

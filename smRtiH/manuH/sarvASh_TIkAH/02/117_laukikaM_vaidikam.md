@@ -2,6 +2,11 @@
 title = "117 लौकिकं वैदिकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first salute him from whom he receives knowledge, either temporal or scriptural or spiritual.—(117)
@@ -93,11 +98,6 @@ whom one acquires knowledge, either temporal or scriptural or related to Dharma.
 <details><summary>गोविन्दराजः</summary>
 
 **लौकिकम्** इति । **लौकिकं** दृष्टहितार्थम् आयुर्वेदादिकं **वैदिकं** वेदवेदाङ्गविषयम् । **आध्यात्मिकं** साङ्ख्याद्यध्यात्मविद्याविषयं ज्ञानम् । **यतः** शिक्षेत् **तं पूर्वं **तदभिभाषणनिरपेक्षवक्ष्यमाणप्रकारेण्**आभिवादयेत् **॥ २.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

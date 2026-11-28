@@ -3,6 +3,11 @@ title = "316 यान् उपाश्रित्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+316	What man, desirous of life, would injure them to whose support the (three) worlds and the gods ever owe their existence, and whose wealth is the Veda?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What man, desirous of living, would injure them, depending on whom the world and the gods exist, and whose wealth consists of the Veda?—(317)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 9.313].
 <details><summary>भारुचिः</summary>
 
 न चाविद्वान् इति परिभवनीयो ऽसौ, यस्मात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-316	What man, desirous of life, would injure them to whose support the (three) worlds and the gods ever owe their existence, and whose wealth is the Veda?
 </details>

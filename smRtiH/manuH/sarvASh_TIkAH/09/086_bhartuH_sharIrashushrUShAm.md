@@ -3,6 +3,11 @@ title = "086 भर्तुः शरीरशुश्रूषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+086	Among all (twice-born men) the wife of equal caste alone, not a wife of a different caste by any means, shall personally attend her husband and assist him in his daily sacred rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of all wives, the wife of the man’s own caste, and never that of a different caste, shall attend to the husband’s personal service, as also to his daily sacred rites.—(86)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.85].
 <details><summary>भारुचिः</summary>
 
 अग्निशरणोपलेपनादि**धर्मकार्यं** यत् स्त्रिया कर्तव्यं तद् गृह्यते । पुरुषस्यापि धर्मकार्यप्रवृत्तस्यैवोपस्पर्शनदानादिलक्षणा **शरीरशुश्रूषा** धर्मकार्यसाहचर्याद् गृह्यते । न तु पादनिर्णेजनादिस्वरूपा, धर्मकार्येणासरूपत्वात् ॥ ९.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	Among all (twice-born men) the wife of equal caste alone, not a wife of a different caste by any means, shall personally attend her husband and assist him in his daily sacred rites.
 </details>

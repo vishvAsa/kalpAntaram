@@ -2,6 +2,11 @@
 title = "027 गार्भैर् होमैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+027	By burnt oblations during (the mother's) pregnancy, by the Gatakarman (the ceremony after birth), the Kauda (tonsure), and the Maungibandhana (the tying of the sacred girdle of Munga grass) is the taint, derived from both parents, removed from twice-born men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of twice-born men the taint of seed and womb is removed by the ‘Libations in connection with Pregnancy’ and by ‘Jātakarman’ (Rites attendant upon birth), ‘Chauḍa’ (Tonsure) and ‘Mauñjībandhana’ (Tying of the grass-girdle). (27)
@@ -258,11 +263,6 @@ through the gradual appearance of the several limbs, in the same manner Brāhma�
 <details><summary>गोविन्दराजः</summary>
 
 कुतः पुनर् एषाम् अशुचित्वम्, येन पावनं क्रियते इत्य् अत् आह – **गार्भैर् **इति । गर्भनिमित्तं ये क्रियन्ते ते **गार्भाः**, होमग्रहणं यथासम्भवं गार्भे विशेषणम्, गर्भाधानादेर् अहोमात्मकत्वात्, सीमन्तोन्नयनादेश् च सहोमकत्वात् । जातस्य यत् क्रियते तत् **जातकर्म** । एते सर्वे गृह्याभिधेयस्वरूपाः इहैव तेषां सामान्यमात्राभिधानात् सामान्यस्मृतित्वाद् अस्य । **चौलं **चूडाकर्म **मौञ्जीनिबन्धनम् **उपनयनम् । एतैः **बैजिकं** प्रतिषिद्दमैथुनसङ्कल्पात् पितृरेतसो द्ष्टत्वं, **गार्भिकं** गर्भवासनिवासित्वाद् दुष्टत्वं **द्विजानाम्** अपनुद्यते ॥ २.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	By burnt oblations during (the mother's) pregnancy, by the Gatakarman (the ceremony after birth), the Kauda (tonsure), and the Maungibandhana (the tying of the sacred girdle of Munga grass) is the taint, derived from both parents, removed from twice-born men.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "121 मनसीन्दुन् दिशः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+121	On the moon as one with the internal organ, on the quarters of the horizon as one with his sense of hearing, on Vishnu as one with his (power of) motion, on Hara as the same with his strength, on Agni (Fire) as identical with his speech, on Mitra as identical with his excretions, and on Pragapati as one with his organ of generation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Moon into the mind, Space into the ear, Viṣṇu into movement, Hara into strength, Agni into speech, Mitra into the excretions, and Prajāpati into the generative organ.—(121)
@@ -65,9 +70,4 @@ All meditation shall be carried on in this manner.—121
 <details><summary>भारुचिः</summary>
 
 एवं सर्वत्राध्यात्मादिषु व्यवस्थितेषु भिन्नासु देवतास्व् अभिन्नम् ॥ १२.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	On the moon as one with the internal organ, on the quarters of the horizon as one with his sense of hearing, on Vishnu as one with his (power of) motion, on Hara as the same with his strength, on Agni (Fire) as identical with his speech, on Mitra as identical with his excretions, and on Pragapati as one with his organ of generation.
 </details>

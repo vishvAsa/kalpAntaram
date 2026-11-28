@@ -3,6 +3,11 @@ title = "211 अग्नेः सोम-यमाभ्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having at fir st brought about the satisfaction of Agni and Soma-Yama by the offering of sacrificial food, he should afterwards satisfy, according to rule, the Pitṛs.—(211).
@@ -50,9 +55,4 @@ as declared before.’
 <details><summary>गोविन्दराजः</summary>
 
 **अग्नेर्** इति । सोमयमयोः द्वन्द्वनिर्देशे ऽपि **अग्नेर्** निर्देशाभावात् देवताद्वयं तेन अग्नये स्वाहा, सोमाय स्वाहा, यमाय स्वाहेत्य् एवं अग्न्यादीनां पर्युक्षणादि विधिपूर्वकं हविर्दानेन तर्पणं आदौ कृत्वा पश्चाद् ब्राह्मणभोजनादि ॥ ३.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.
 </details>

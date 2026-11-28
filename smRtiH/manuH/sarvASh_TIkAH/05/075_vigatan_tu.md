@@ -2,6 +2,11 @@
 title = "075 विगतन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+075	He who may hear that (a relative) residing in a distant country has died, before ten (days after his death have elapsed), shall be impure for the remainder of the period of ten (days and) nights only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who hears, within ten days, of a relation resident in a foreign land having died, shall, remain impure for the remainder of the period of ten days.—(74).
@@ -77,11 +82,6 @@ See Comparative notes for [Verse 5.73].
 <details><summary>गोविन्दराजः</summary>
 
 **विगतं त्व्** इति । **तच् छेषं दशरात्रं स्याद्** इति । देशान्तरस्थं मृतं जातं वा अनिगतदशाहादिकं श्रुत्वा दशरात्रादेर् यच् छिष्टं तावद् एवाशौचवान् भवेन् न तु परिज्ञानात् प्रभृति दशाहाशौचम् आद्रियते ॥ ५.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	He who may hear that (a relative) residing in a distant country has died, before ten (days after his death have elapsed), shall be impure for the remainder of the period of ten (days and) nights only.
 </details>
 
 <details><summary>भारुचिः</summary>

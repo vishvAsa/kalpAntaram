@@ -3,6 +3,11 @@ title = "172 यदा तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+172	But if he is very weak in chariots and beasts of burden and in troops, then let him carefully sit quiet, gradually conciliating his foes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But when he happens to be weak in conveyances and soldiers, then he shall sit quiet, gradually conciliating his enemies with special care.—(172)
@@ -44,9 +49,4 @@ the other party is capable of upsetting his plans, he should halt.’
 <details><summary>भारुचिः</summary>
 
 परिक्षीणे हिरण्यादीनां संधायात्मनो ऽभ्युच्चयं कुर्वन्न् आसीत, सान्त्वयन्न् अरिं सामोपप्रदानाभ्याम् ॥ ७.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	But if he is very weak in chariots and beasts of burden and in troops, then let him carefully sit quiet, gradually conciliating his foes.
 </details>

@@ -3,6 +3,11 @@ title = "032 शर्मवद् ब्राह्मणस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The name of the Brāhmaṇa should be expressive of ‘peace,’ that of the Kṣatriya, of ‘protection’; that ot the Vaiśya, of ‘prosperity,’ and that of the Śūdra, of ‘submissiveness.’—(32)
@@ -99,9 +104,4 @@ These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
 <details><summary>गोविन्दराजः</summary>
 
 उपपदनियमार्थम् आह – **शर्मवद् ब्राह्मणस्येति** । शर्मरक्षापुष्टिप्रेष्यवाचकान्य् एषां यथाक्रमं शर्मपालपुष्टिदासान्य् उपपदानि स्युः । उदाहरणानि भद्रशर्मा शक्तिपालो धनपुष्टो दीनदास इति ॥ २.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.
 </details>

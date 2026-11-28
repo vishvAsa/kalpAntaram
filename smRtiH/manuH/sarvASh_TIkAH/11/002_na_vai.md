@@ -3,6 +3,11 @@ title = "002 न वै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	These nine Brahmanas one should consider as Snatakas, begging in order to fulfil the sacred law; to such poor men gifts must be given in proportion to their learning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who is seeking for progeny, he who is going to perform a sacrifice, a traveller on the road, he who has given away all his belongings, he who is begging for his preceptor, he who is begging for his parents, he who is begging for study, a sick man;—(1)—these nine Brāhmaṇas, who are religious mendicants, one should know as ‘Snātakas’; to these penniless men gifts shall be given, in proportion to their learning.—(2)
@@ -121,9 +126,4 @@ are—tho desire to collect the fee for the teacher, the celebration of wedding,
 
 > पात्रस्य हि विशेषेण श्रद्दधानतयैव च ।  
 > अल्पं वा बहु वा प्रेत्य दानस्यावाप्यते फलम् ॥ इति ॥ ११.१–२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	These nine Brahmanas one should consider as Snatakas, begging in order to fulfil the sacred law; to such poor men gifts must be given in proportion to their learning.
 </details>

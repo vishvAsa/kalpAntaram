@@ -3,6 +3,11 @@ title = "229 नाऽस्रम् आपातयेज्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+229	Let him on no account drop a tear, become angry or utter an untruth, nor let him touch the food with his foot nor violently shake it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Never should he shed tears; nor should he become angry; nor tell a lie. He should not touch the food with his foot, nob shake it.—(229)
@@ -64,9 +69,4 @@ people should not shed tears, nor converse, nor laugh among themselves, nor wand
 <details><summary>गोविन्दराजः</summary>
 
 **नास्रम्** इति । रोदनक्रोधासत्यभाषणानि न कुर्यात् **पादेन चान्नं न स्पृशेत्** । नाप्य् उत्क्षिप्योत्क्षिप्य सन्त्यजेत् । क्रोधाद् **अनृतं न वदेत् **क्रोधानृतयोर् अपुरुषार्थत्वात् निषिद्धयोः श्राद्धाङ्गत्वार्थं श्राद्धाङ्गत्वार्थम् इहोपदेशः ॥ ३.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	Let him on no account drop a tear, become angry or utter an untruth, nor let him touch the food with his foot nor violently shake it.
 </details>

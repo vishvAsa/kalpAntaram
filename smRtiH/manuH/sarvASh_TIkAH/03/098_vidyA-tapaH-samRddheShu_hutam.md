@@ -2,6 +2,11 @@
 title = "098 विद्या-तपः-समृद्धेषु हुतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+098	An offering made in the mouth-fire of Brahmanas rich in sacred learning and austerities, saves from misfortune and from great guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An oblation thrown into the mouth-fire of Brāhmaṇas, effulgent with learning and austerities, saves from trouble, and also from great sin.—(98)
@@ -60,11 +65,6 @@ See Comparative notes for [Verse 3.97].
 <details><summary>गोविन्दराजः</summary>
 
 **विद्यातपःसमृद्देष्व् **इति । ज्ञानानुष्ठानतेजःसम्पन्नेषु **विप्रमुखेषु **अग्नितुल्येषु हव्यकव्यादि यत् प्रक्षिप्तं तद् इह दुस्तरात् शत्रुव्याध्याद्यभिभवात् अमुत्र च महतः पापात् त्रायते ॥ ३.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	An offering made in the mouth-fire of Brahmanas rich in sacred learning and austerities, saves from misfortune and from great guilt.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "168 कार्पास-कीटजोर्णानान् द�
 
 +++
 
+<details><summary>Bühler</summary>
+
+169	(For stealing) cotton, silk, wool, an animal with cloven hoofs, or one with uncloven hoofs, a bird, perfumes, medicinal herbs, or a rope (the penance is to subsist) during three days (on) milk.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of cotton, silk, wool, an animal with cleft hoofs, an animal with uncleft hoofs, a bird, perfumes, medicinal herbs, and a rope,—milk shall be drunk for three days.—(168)
@@ -50,9 +55,4 @@ he should subsist on milk for three days. For stealing birds or perfumes or medi
 <details><summary>भारुचिः</summary>
 
 पूर्ववद् अत्राप्य् अपेक्षा योजनीया । हस्त्यादीनां च सामान्यविहितम् अन्यद् द्रष्टव्यम् इति ॥ ११.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	(For stealing) cotton, silk, wool, an animal with cloven hoofs, or one with uncloven hoofs, a bird, perfumes, medicinal herbs, or a rope (the penance is to subsist) during three days (on) milk.
 </details>

@@ -2,6 +2,11 @@
 title = "128 अमावास्याम् अष्टमीम्"
 +++
 
+<details><summary>Bühler</summary>
+
+128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Moonless Day, on the eighth, on the Full Moon Day, and on the Fourteenth, the twice-born Accomplished Student shall always remain a “Religious Student,” even during the “season.”—(128)
@@ -76,11 +81,6 @@ moonless day, full moon day, the day on which the sun passes from one sign to th
 <details><summary>गोविन्दराजः</summary>
 
 **अमावास्याम्** इति । अमावास्यादिषु **स्नातको द्विजः ऋताव् अपि **नित्यं स्त्रियं नोपेयात् । “पर्ववर्जं व्रजेच् चैनाम्” इत्य् अनेन पौनरुक्थ्यं तत्रैव परिहृतम् । स्नातकव्रतप्रायश्चित्ताङ्गत्वेनास्येहाभिधानम् ॥ ४.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	A twice-born man who is a Snataka shall remain chaste on the new-moon day, on the eighth (lunar day of each half-month), on the full-moon day, and on the fourteenth, even (if they fall) in the period (proper for conjugal intercourse).
 </details>
 
 <details><summary>भारुचिः</summary>

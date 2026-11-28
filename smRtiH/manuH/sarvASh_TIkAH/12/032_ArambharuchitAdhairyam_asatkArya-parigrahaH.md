@@ -3,6 +3,11 @@ title = "032 आरम्भरुचिताधैर्यम् असत्
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	Delighting in undertakings, want of firmness, commission of sinful acts, and continual indulgence in sensual pleasures, (are) the marks of the quality of Activity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Proneness to undertake work, impatience, commission of improper acts, constant addiction to sensual objects are the characteristics of the quality of ‘Rajas.’—(32)
@@ -52,9 +57,4 @@ attached to objects of sense, a man abounds in the attribute of *Rajas*, and is 
 <details><summary>गोविन्दराजः</summary>
 
 **आरम्भरुचितेति** । फलार्थं कर्मारम्भायासकृत्ता स्वल्पे ऽप्य् अनर्थे वैक्लव्यं शास्त्रविरुद्धकर्माचरणम् अनवरतं शब्दादिविषयोपभोग इत्य् एतत् रजोऽभिधानगुणसम्बन्धिकार्यम् ॥ १२.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	Delighting in undertakings, want of firmness, commission of sinful acts, and continual indulgence in sensual pleasures, (are) the marks of the quality of Activity.
 </details>

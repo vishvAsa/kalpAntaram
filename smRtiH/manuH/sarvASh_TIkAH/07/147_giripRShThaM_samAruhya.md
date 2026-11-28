@@ -3,6 +3,11 @@ title = "147 गिरिपृष्ठं समारुह्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+147	Ascending the back of a hill or a terrace, (and) retiring (there) in a lonely place, or in a solitary forest, let him consult with them unobserved.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having ascended the top of a hill, or a house, and retiring into solitude,—or in a desolate forst he shall hold counsel, unobserved.—(147)
@@ -73,9 +78,4 @@ roof of his palace,—or in a forest, where there are no pillars, no windows and
 <details><summary>भारुचिः</summary>
 
 मन्त्र]पञ्चाङ्गं मन्त्र्येत् । तद् यथा कर्मणाम् आरम्भोपायः पुरुषद्रव्यसम्पद् देशकालविभागः विनिपातप्रतीकारः कार्यसिद्धिर् इति । तान् एकैकशः पृच्छेत् समस्तांश् च । हेतुभिः सर्वेषां मतिप्रविवेकं विद्यात् । अवाप्तार्थः कालं नातिपातयेन्, न च दीर्घमन्त्रः स्यात् । न च तेषां पक्षीयैर् मन्त्रं मन्त्रयेत् येषाम् अपकुर्यात् । गुप्तमन्त्रश् च स्यात् ॥ ७.१४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	Ascending the back of a hill or a terrace, (and) retiring (there) in a lonely place, or in a solitary forest, let him consult with them unobserved.
 </details>

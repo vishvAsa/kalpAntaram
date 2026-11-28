@@ -3,6 +3,11 @@ title = "220 एवम् प्रयत्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+220	In like manner let him be careful about his carriages, bed, seat, bath, toilet, and all his ornaments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall exercise similar caution with regard to conveyances, beds, seats and food, as also to bath, toilet and all kinds of ornaments—(220).
@@ -44,9 +49,4 @@ Do. (7.30).—‘The King shall ride conveyances and vehicles which have either 
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । एवंविधपरीक्षादिप्रयत्नं वाहनशयनासनभोजनस्नानानुलेपनेषु सर्वालङ्कारार्थेषु कुर्वीत ॥ ७.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	In like manner let him be careful about his carriages, bed, seat, bath, toilet, and all his ornaments.
 </details>

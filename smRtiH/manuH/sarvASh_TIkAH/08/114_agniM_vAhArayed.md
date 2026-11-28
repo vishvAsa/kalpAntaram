@@ -3,6 +3,11 @@ title = "114 अग्निं वाहारयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+114	Or the (judge) may cause the (party) to carry fire or to dive under water, or severally to touch the heads of his wives and children.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may make him fetch fire, or make him dive under water, or make him touch the heads of his son and wife severally.—(114)
@@ -79,9 +84,4 @@ of witnesses or judges, the cause may be tried anew.’
 <details><summary>भारुचिः</summary>
 
 शूद्रस्य वृत्तापेक्षयाग्न्यादयो ऽपि कल्प्येरन् । शपथैर् एवम् । तत्राग्निहरणे सप्तपदाश्वत्थपत्रैर् इयद्भिर् व्यवधानम् इति [स्मृत्यन्तरो]पेक्षयैतत् स्यात्; इहावचनं च गुणविधेः, स्मृतिपारम्पर्याविच्छेदात् । तथाप्सु निमज्जने कालः ॥ ८.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Or the (judge) may cause the (party) to carry fire or to dive under water, or severally to touch the heads of his wives and children.
 </details>

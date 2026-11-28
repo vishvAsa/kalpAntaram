@@ -3,6 +3,11 @@ title = "031 पुत्रम् प्रत्युदितम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	Listen (now) to the following holy discussion, salutary to all men, which the virtuous (of the present day) and the ancient great sages have held concerning male offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Listen to the following disquisition regarding the son, propitious and salutary to the world, set forth by the wise patriarchs and the great sages.—(31)
@@ -62,9 +67,4 @@ Do. (p. 581).—‘The declaration of the Veda is that the child belongs to the 
 <details><summary>भारुचिः</summary>
 
 यथा विश्वजन्य् ऽसौ तथेदम् उच्यते ॥ ९.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	Listen (now) to the following holy discussion, salutary to all men, which the virtuous (of the present day) and the ancient great sages have held concerning male offspring.
 </details>

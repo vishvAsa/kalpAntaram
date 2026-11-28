@@ -3,6 +3,11 @@ title = "262 पति-व्रता धर्मपत्नी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The lawful wife, devoted to her husband and intent upon the worshipping of the Pitṛs, should, if desirous of a son, eat in the proper manner, the middlemost ball.—(262)
@@ -76,9 +81,4 @@ Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into water.�
 <details><summary>गोविन्दराजः</summary>
 
 **पतिव्रता धर्मपतीति** । मनोवाक्कायकर्मभिः धर्मार्थकामेषु पतिर् एव मया (परि)चरणीय इति व्रतं यस्याः सा **पतिव्रता धर्मपत्नी **प्रथमोढा सवर्णा श्रद्धावती पुत्रार्थिनी तेषां पिण्डानां **मध्यमपिण्डं सम्यक् **“आधत्त पितरो गर्भं” इत्यादिसूत्रकारोक्तमन्त्रेण्**आद्यात्** ॥ ३.२६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.
 </details>

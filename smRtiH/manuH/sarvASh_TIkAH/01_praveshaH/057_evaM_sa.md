@@ -2,6 +2,11 @@
 title = "057 एवं स"
 +++
 
+<details><summary>Bühler</summary>
+
+057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus by waking and sleeping, the Imperishable One incessantly brings to like and destroys all this that is moveable and immoveable.—(57)
@@ -22,11 +27,6 @@ By means of his own ‘*waking and sleeping*,’ he produces and destroys the wo
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **स** ब्रह्मा अनेन प्रकारेण आत्मीयाभ्यां **जाग्रत्स्वप्नाभ्यां** जङ्गमस्थावरम् **अजस्रं **अनवरतं **जीवयति** मारयति चानश्वरः ॥ १.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
 </details>
 
 <details><summary>भारुचिः</summary>

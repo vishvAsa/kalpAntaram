@@ -3,6 +3,11 @@ title = "248 तडागान्य् उदपानानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+248	Tanks, wells, cisterns, and fountains should be built where boundaries meet, as well as temples,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Tanks, water-reservoirs, ponds and fountains should be built on boundary-links; as also temples.—(248)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 8.245].
 <details><summary>गोविन्दराजः</summary>
 
 **तडागानीति** । तडागकूपपुष्करिण्युदकप्रणीतदेवगृहाणि सीमायां ग्रामद्वयसन्धिस्थानेषूदकाभ्यर्थित्वेन जनसंसर्गे सति साक्षिसम्भावनार्थे कर्तव्यानि ॥ ८.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-248	Tanks, wells, cisterns, and fountains should be built where boundaries meet, as well as temples,
 </details>

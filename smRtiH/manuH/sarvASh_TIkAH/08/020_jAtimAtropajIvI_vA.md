@@ -3,6 +3,11 @@ title = "020 जातिमात्रोपजीवी वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	A Brahmana who subsists only by the name of his caste (gati), or one who merely calls himself a Brahmana (though his origin be uncertain), may, at the king's pleasure, interpret the law to him, but never a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even a so-called Brāhmaṇa, who makes a living by his caste only, may, at pleasure be the propounder of the Law for the king,—but not a Śūdra under any circumtsances.—(20)
@@ -82,9 +87,4 @@ law-suits with the assistance of Śūdras, he falls.’
 <details><summary>भारुचिः</summary>
 
 राजाधिकृतविद्वद्ब्राह्मणाभावे सति तत्र शास्त्रवित् क्षत्रियवैश्याधिकारार्थो ऽयम् आरम्भः । न **जातिमात्रोपजीविनः** । कथं कृत्वा । उक्तं हि "तदा नियुञ्ज्याद् विद्वांसं ब्राह्मणं कार्यदर्शने" इति । अत्र ब्राह्मणग्रहणं वर्णत्रयपर्युदासार्थम् इत्य् उक्तम् । एवं च सति तत्प्रतिषेधाद् एव शूद्रप्रतिषेधे सिद्धे पुनः शूद्रप्रतिषेध इह क्रियमाणः क्षत्रियवैश्याभ्यनुज्ञानार्थो विज्ञायते । यस्माद् अकृतकारि हि शास्त्रम् एवं युक्त्यारम्भम् अयुक्तारम्भः भवति । अन्यथा पौनरुक्त्यायुक्त्यारम्भः स्यात् । न च शास्त्रविद्ब्राह्मणाभावे तदभाववैकल्पिकम् अर्थलोपात् जातिमात्रोपजीविनम् अविद्वद्ब्राह्मणम् असमर्थं व्यवहारदर्शने शास्त्रम् अधिकर्तुम् अर्हति । न हि कश्चिल् लोके ऽन्धो रूपदर्शने ऽधिकरोति । एवं च सति नायम् अभाववैकल्पिको ब्राह्मणः । किं तर्हि पर्युदासार्थम् एवेदं वचनं जातिमारोपजी[विनः] । तथा च लोक उभयप्रतिषेध इत्थंभूतेषु वाक्येषु दृश्यते- "कामं विषम् अपि भक्षय, मा चास्य गृहे भुङ्क्थाः" इति । यत् एवम् उभयप्रतिषेधात् क्षत्रियवैश्याभ्यनुज्ञेयम् इति ॥ ८.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	A Brahmana who subsists only by the name of his caste (gati), or one who merely calls himself a Brahmana (though his origin be uncertain), may, at the king's pleasure, interpret the law to him, but never a Sudra.
 </details>

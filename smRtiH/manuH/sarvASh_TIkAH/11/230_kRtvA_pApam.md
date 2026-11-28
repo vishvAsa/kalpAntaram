@@ -3,6 +3,11 @@ title = "230 कृत्वा पापम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+231	He who has committed a sin and has repented, is freed from that sin, but he is purified only by (the resolution of) ceasing (to sin and thinking) 'I will do so no more.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After having committed, a sin, if one repents, he becomes freed from that sin; he becomes purified by the renunciation—‘I shall not do so again.’—(230)
@@ -65,9 +70,4 @@ See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/
 <details><summary>भारुचिः</summary>
 
 तथा च सति निवृत्तिर् अपि पूर्ववत् प्रायस्चित्तम् इत्य् एतत् सिद्धम् ॥ ११.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-231	He who has committed a sin and has repented, is freed from that sin, but he is purified only by (the resolution of) ceasing (to sin and thinking) 'I will do so no more.'
 </details>

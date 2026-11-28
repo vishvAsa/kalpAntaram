@@ -2,6 +2,11 @@
 title = "026 वैदिकैः कर्मभिः"
 +++
 
+<details><summary>Bühler</summary>
+
+026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the twice-born persons corporeal consecration, beginning with ‘Conception,’ should be performed with auspicious Vedic rites; it purifies in this world and also after death.—(26)
@@ -73,11 +78,6 @@ the Final (Death) Rites.’
 <details><summary>गोविन्दराजः</summary>
 
 **वैदिकैर् **इति । वैदिकमन्त्रसाध्यत्वात् वेदमूलसाध्यत्वाच् च **वैदिकैः **स्मार्तैः **कर्मभिः** “विष्णुर् योनिं कल्पयतु” इत्येवमादिमन्त्रप्रयोगादिबिः **पुण्यैः **पारम्पर्येण धर्महेतुभिः गर्भाधानादिः द्विजातीनां **शरीरसंस्कारः **कर्तव्यः । **पावनः **पवित्रीकारकः **प्रेत्य **परलोके संस्कृतस्य यागादिकर्मफलसम्बन्धात् । **इह **लोके च संस्कृतस्याध्ययनाद्यधिकारात् । निषेकगुणात् (-ग्रहणात्) पितुर् अधिकारः । निषेकवर्जिते तु कदाचित् तत्स्थानापन्नस्य तत्प्रयुक्तस्य वा अन्यस्यापि (न) स्यात् ॥ २.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
 </details>
 
 <details><summary>भारुचिः</summary>

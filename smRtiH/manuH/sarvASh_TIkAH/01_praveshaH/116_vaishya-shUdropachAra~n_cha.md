@@ -3,6 +3,11 @@ title = "116 वैश्य-शूद्रोपचारञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The duty of the Vaiśya and the Śūdra,—the birth of the mixed castes—the duties of all castes during times of distress—the method of expiation.—(116)
@@ -64,9 +69,4 @@ their respective duties. All this is dealt with in Discourse IX.
 <details><summary>गोविन्दराजः</summary>
 
 **वैश्यशूद्रोपचारम् **इति ॥ १.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,
 </details>

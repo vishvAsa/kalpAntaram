@@ -2,6 +2,11 @@
 title = "142 यथेरिणे बीजम्"
 +++
 
+<details><summary>Bühler</summary>
+
+142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as having sown the seed in barren soil, the sower reaps no harvest,—even so, having given the offerings to one ignorant of the Veda, the giver obtains no reward.—(142)
@@ -39,11 +44,6 @@ germinate and the sower does not reap even a part of the seed, so also the Śrā
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । **यथा **ऊषरे भूप्रदेशे धान्यान्य् उप्त्वा कर्षकः **फलं न **प्राप्नोति एवम् अश्रोत्रियाय श्राद्धादि दत्वा **दाता न फलं **प्राप्नोति । श्रोत्रियदाने वैफल्यकथनार्थम् एतत् ॥ ३.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
 </details>
 
 <details><summary>भारुचिः</summary>

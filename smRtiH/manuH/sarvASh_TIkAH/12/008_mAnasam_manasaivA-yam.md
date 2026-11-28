@@ -3,6 +3,11 @@ title = "008 मानसम् मनसैवाऽयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	(A man) obtains (the result of) a good or evil mental (act) in his mind, (that of) a verbal (act) in his speech, (that of) a bodily (act) in his body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The good and the evil resulting from ‘mental acts,’ one experiences through the Mind alone; those of ‘verbal acts,’ through speech; and those of ‘bodily acts,’ through the body.—(8)
@@ -44,9 +49,4 @@ of his bodily acts; in his speech, those of his vocal acts; and in the mind, tho
 <details><summary>भारुचिः</summary>
 
 परस्य मनस्तापजनको मानसम् एव कुःखं प्राप्नोति । एवं वागपचारे मौक्यगद्गदादिनिमित्तं दुःखम् । काये ऽपि चैषैव योजना । साधनानुरूप्येणैवम् अनिष्टफलप्रदर्शनं तन्निवृत्त्यर्थम् उत्तरार्थं वा ॥ १२.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	(A man) obtains (the result of) a good or evil mental (act) in his mind, (that of) a verbal (act) in his speech, (that of) a bodily (act) in his body.
 </details>

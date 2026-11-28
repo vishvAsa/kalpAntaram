@@ -2,6 +2,11 @@
 title = "159 अहिंसयैव भूतानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Teaching for good should be imparted to living beings, without injury to them; and sweet and soft words should be employed by one who seeks for merit.—(159)
@@ -62,11 +67,6 @@ some fault, the Teacher should admonish him; and until the pupil desists, the fo
 <details><summary>गोविन्दराजः</summary>
 
 शियाचार्यप्रक्रमे अधुनाचर्यस्यापि किञ्चिन् नियमम् आह **अहिंसयैवेति** । “रज्ज्वा वेणुदलेन वा” इति शरीरपृष्टे ईषत्ताडनस्य वक्ष्यमाणत्वात् अतिताडनपरिहारेणैव **भूतानां** भार्यादीनाम् अपि भूतग्रहणान् न शिष्याणाम् एव प्रकृतानाम् आचार्येण वेदाध्ययनादि कर्तव्यम् । तदर्थं च **वाग्** एवानाक्रोशरूपानुच्चैर् वक्तव्या अनुशासनाद् धर्माद् **धमम् इच्छता** ॥ २.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
 </details>
 
 <details><summary>भारुचिः</summary>

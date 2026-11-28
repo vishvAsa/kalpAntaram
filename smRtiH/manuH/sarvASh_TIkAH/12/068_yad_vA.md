@@ -3,6 +3,11 @@ title = "068 यद् वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	That man who has forcibly taken away any kind of property belonging to another, or who has eaten sacrificial food (of) which (no portion) had been offered, inevitably becomes an animal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For taking by force any kind of property belonging to another, and for eating a sacrificial material that has not been offered, one inevitably becomes an animal.—(68)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । यः किञ्चिद् असारम् अपि परधनम् इच्छातो मनुष्यो ऽपहृत्य दत्तावदानादिकं च पुरोडाशाद्य् अशित्वा निश्चित्तं तिर्यक्त्वं प्राप्नोति ॥ १२.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	That man who has forcibly taken away any kind of property belonging to another, or who has eaten sacrificial food (of) which (no portion) had been offered, inevitably becomes an animal.
 </details>

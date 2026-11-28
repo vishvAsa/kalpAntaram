@@ -2,6 +2,11 @@
 title = "170 अव्रतैर् यद्"
 +++
 
+<details><summary>Bühler</summary>
+
+170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Demons indeed consume the food that is eaten by Brāhmaṇas deviod of self-restraint, by such as those who have superseded their elder brother and the like, or by others that are unworthy of company.—(170)
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 3.170].
 <details><summary>गोविन्दराजः</summary>
 
 वेदग्रहणार्थं सावित्रादिव्रतरहितैः तथा **परिवेत्त्रादिभिर् अन्यैश् च **स्तेनादिभिर् अपाङ्क्तेयैः यत् देवपित्रर्थं **भुक्तं** तत् सुकृतलेशवशेन **रक्षांसि भुञ्जते **न दात्रभिमतफलाय भवति । अव्रतानां च निषिद्धमध्यापठितानां अप्य् अस्माद् एव निषेधो बोध्यः ॥ ३.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
 </details>
 
 <details><summary>भारुचिः</summary>

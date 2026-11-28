@@ -3,6 +3,11 @@ title = "056 एतद् वः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	Thus the comparative importance of the seed and of the womb has been declared to you; I will next propound the law (applicable) to women in times of misfortune.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been explained to you the comparative importance and non-importance of the seed and the womb; after this i am going to expound the duties of women during times of distress.—(56)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ९.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Thus the comparative importance of the seed and of the womb has been declared to you; I will next propound the law (applicable) to women in times of misfortune.
 </details>

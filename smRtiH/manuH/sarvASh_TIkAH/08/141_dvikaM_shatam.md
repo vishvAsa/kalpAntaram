@@ -3,6 +3,11 @@ title = "141 द्विकं शतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+141	Or, remembering the duty of good men, he may take two in the hundred (by the month), for he who takes two in the hundred becomes not a sinner for gain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, remembering the duty of the righteous, he may take two in the hundred; by taking two per cent. he does not incur the sin of extortion.—(141)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 8.140].
 <details><summary>भारुचिः</summary>
 
 पञ्चाशद्भागो ऽनुकल्पः ॥ ८.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	Or, remembering the duty of good men, he may take two in the hundred (by the month), for he who takes two in the hundred becomes not a sinner for gain.
 </details>

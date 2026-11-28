@@ -3,6 +3,11 @@ title = "387 एतेषान् निग्रहो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+387	The suppression of those five in his dominions secures to a king paramount sovereignty among his peers and fame in the world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The suppression of these five in his own dominions secures to the king paramount sovereignty among his peers and fame in the world.—(387)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 8.386].
 <details><summary>भारुचिः</summary>
 
 निग्रहस्तुतिः श्लोकद्वयेन । प्रसङ्गाच् चेदम् अपरं साहसप्रकरण एवोच्यते ॥ ८.३८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-387	The suppression of those five in his dominions secures to a king paramount sovereignty among his peers and fame in the world.
 </details>

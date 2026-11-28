@@ -3,6 +3,11 @@ title = "038 चण्डालेन तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	But from a Kandala by a Pukkasa woman is born the sinful Sopaka, who lives by the occupations of his sire, and is ever despised by good men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the ‘Caṇḍāla,’ on the ‘Pukkasa’ woman is begotten the ‘Sopāka,’ whose livelihood consists of death, and who are wicked and despised by good people.—(38)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 **मूलव्यसनं** मारणवृत्तिर् इत्य् अर्थः । वध्यमारणं राजदेशाद् अनाथशवनिर्हरणं तद्वस्त्रादिग्रहणं प्रेतपिण्डभोजनम् इत्य् एवमादिवृत्तिः **पुल्कस्यां चण्डालेन जायते** ॥ १०.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	But from a Kandala by a Pukkasa woman is born the sinful Sopaka, who lives by the occupations of his sire, and is ever despised by good men.
 </details>

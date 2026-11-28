@@ -3,6 +3,11 @@ title = "142 न स्पृशेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa, while unclean, shall hot touch, with his hand, a cow, a Brāhmaṇa or fire. Nor shall he, being in good health, look at the luminaries in the sky, while he is impure.—(142)
@@ -50,9 +55,4 @@ impure, a cow, a Brāhmaṇa, fire or food.’
 <details><summary>गोविन्दराजः</summary>
 
 **न स्पृशेद्** इति । आचमनाद्यर्हो ब्राह्मणः गोब्राह्मणाग्नीन् न स्पृशेत् । तथ्**आशुचिः** सन् अनातुरो द्युलोकगतम् आदित्यादिज्योतिःसमूहम् अपि **न पश्येत्** ॥ ४.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.
 </details>

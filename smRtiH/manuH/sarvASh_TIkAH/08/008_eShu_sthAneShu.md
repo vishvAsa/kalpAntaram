@@ -3,6 +3,11 @@ title = "008 एषु स्थानेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	Depending on the eternal law, let him decide the suits of men who mostly contend on the titles just mentioned.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking his stand upon eternal morality, he shall form his decision on the suits of men who mostly carry on disputes in regard to the aforesaid points.—(8)
@@ -52,9 +57,4 @@ See Comparative notes for [Verses 8.4-7].
 <details><summary>भारुचिः</summary>
 
 एतानि व्यवहार[व]स्तूनि प्रधानभूतानि । तद्भेदानाम् आनन्त्याद् अशक्यो ह्य् अशेषतो निर्देशः कर्तुम् । **भूयिष्ठ**वचनाच् चैव तद्व्यवहारवस्तुबहुत्वं गम्यते । अनुक्तानाम् अपि शास्त्रानुसारिण्या प्रज्ञया **धर्मं शाश्वतम् आश्रित्य** कार्यनिर्णयं **कुर्यात्** । पितृपितामहादिप्रवर्तितम् अप्य् उत्सृज्यान्याय्यम् यत् कार[णात्] प्रायेण कृतानुसारी लोकः, विशेषेण तु राजान इति । अतो ऽयम् "आस्थीयते यत्न" इति, सामान्यश् चायम् उपदेशः । विशेषास् त्व् अस्य विषये वक्ष्यन्ते ॥ ८.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	Depending on the eternal law, let him decide the suits of men who mostly contend on the titles just mentioned.
 </details>

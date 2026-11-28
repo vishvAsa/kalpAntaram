@@ -3,6 +3,11 @@ title = "030 त्रयाणाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	I will, moreover, fully describe the results which arise from these three qualities, the excellent ones, the middling ones, and the lowest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am now going to fully describe the results,—good, middling and bad—proceeding from these three qualities.—(30)
@@ -31,9 +36,4 @@ I am now going to fully describe the results,—good, middling and bad—proceed
 <details><summary>भारुचिः</summary>
 
 प्रतिज्ञाश्लोकः ॥ १२.३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	I will, moreover, fully describe the results which arise from these three qualities, the excellent ones, the middling ones, and the lowest.
 </details>

@@ -3,6 +3,11 @@ title = "090 त्रीणि वर्षाण्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	Three years let a damsel wait, though she be marriageable; but after that time let her choose for herself a bridegroom (of) equal (caste and rank).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having reached puberty, the maiden may wait for three years; after that time, she shall procure a suitable husband.—(90)
@@ -64,9 +69,4 @@ remains unmarried in her father’s house, the guilt of embryo-killing falls upo
 <details><summary>भारुचिः</summary>
 
 कन्याया अयम् उपदेशः । सा च द्वादशवर्षर्तुं पश्यतीति स्मर्यते । यत एतस्मात् कालाद् ऊर्ध्वं वर्षत्रयं स्वयंवरात् ग्रहणं तस्याः । ऊर्ध्वं तु ॥ ९.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	Three years let a damsel wait, though she be marriageable; but after that time let her choose for herself a bridegroom (of) equal (caste and rank).
 </details>

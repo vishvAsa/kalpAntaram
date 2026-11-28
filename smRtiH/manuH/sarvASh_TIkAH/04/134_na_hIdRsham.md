@@ -2,6 +2,11 @@
 title = "134 न हीदृशम्"
 +++
 
+<details><summary>Bühler</summary>
+
+134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this world, there is nothing so detrimental to a man’s longevity as paying attention to the wife of another person.—(134)
@@ -42,11 +47,6 @@ Any such thing as the eating of indigestible food, the stealing of gold, etc., �
 <details><summary>गोविन्दराजः</summary>
 
 **न हीदृशम्** इति । यस्मात् पुंस एवंविधम् आयुःक्षयकरं लोके अन्यन् न किञ्चिद् अस्ति यादृक् लोके परदारगमनम्, तस्माद् एतन् न कार्यम् ॥ ४.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	For in this world there is nothing so detrimental to long life as criminal conversation with another man's wife.
 </details>
 
 <details><summary>भारुचिः</summary>

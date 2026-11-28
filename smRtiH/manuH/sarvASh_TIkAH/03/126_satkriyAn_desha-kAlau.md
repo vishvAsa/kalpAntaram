@@ -2,6 +2,11 @@
 title = "126 सत्क्रियान् देश-कालौ"
 +++
 
+<details><summary>Bühler</summary>
+
+126	A large company destroys these five (advantages) the respectful treatment (of the invited, the propriety of) place and time, purity and (the selection of) virtuous Brahmana (guests); he therefore shall not seek (to entertain) a large company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Respectful treatment, place and time, purity and the qualities of Brāhmaṇas,—a large company hampers these five; therefore one shall not seek a large company.—(126)
@@ -49,11 +54,6 @@ This verse is quoted in *Nirṇayasindhu* (p. 287);—also in *Aparārka* (p. 46
 <details><summary>गोविन्दराजः</summary>
 
 **सत्क्रियाम्** इति । ब्राह्मणपूजां चोक्षादिदेशम् अपराह्णकालं शौचं गुणवद्ब्राह्मणानां विस्तारो नाशयति । तस्माद् उक्तातिरिक्तब्राह्मभोजनं न कुर्यात् । हेतुतो विस्तरनिषेधात् सत्क्रियादिसम्भवे ऽधिकब्राह्मणभोजनम् अप्य् अस्ति । तथा च गौतमेनोक्तः- “अवरान् न च ब्राह्मणान् भोजयेत् । अयुजो वा यथोत्साहम्” इति ॥ ३.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	A large company destroys these five (advantages) the respectful treatment (of the invited, the propriety of) place and time, purity and (the selection of) virtuous Brahmana (guests); he therefore shall not seek (to entertain) a large company.
 </details>
 
 <details><summary>भारुचिः</summary>

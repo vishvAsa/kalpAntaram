@@ -3,6 +3,11 @@ title = "074 यजेत वाश्वमेधेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	Or he may offer a horse-sacrifice, a Svargit, a Gosava, an Abhigit, a Visvagit, a Trivrit, or an Agnishtut;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may offer the Aśvamedha, or the Svajit—the Gosava, or the Abhijit—Viśvajit, or the triple Agniṣṭut.—(74)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 11.72].
 <details><summary>गोविन्दराजः</summary>
 
 **यजेतेति । **अश्वमेधाख्यं वा ऋतं कुर्याद् अत्र च सार्वभौमस्य राज्ञ आहितो ऽग्निर् अधिकारो न तु** **प्रायश्चित्तार्थम् आधानं कार्यम् अभिजिद्विश्वजितौ प्रायश्चित्तद्वयं त्रिवृता त्रिवृत्स्तोमेनाग्निष्टुता त्रिवृद् इति न चोच्यन्ते स्तोमः स्तोत्रसमूहः ॥ ११.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Or he may offer a horse-sacrifice, a Svargit, a Gosava, an Abhigit, a Visvagit, a Trivrit, or an Agnishtut;
 </details>

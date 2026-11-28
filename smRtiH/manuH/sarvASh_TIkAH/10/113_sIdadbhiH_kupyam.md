@@ -3,6 +3,11 @@ title = "113 सीदद्भिः कुप्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+113	If Brahmanas, who are Snatakas, are pining with hunger, or in want of (utensils made of) common metals, or of other property, they may ask the king for them; if he is not disposed to be liberal, he must be left.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If Brāhmaṇas, who have completed their study, suffer privation, or seek to obtain wealth and riches, they may beg of the king; and if he be unwilling to give, he should be given up.—(113)
@@ -76,9 +81,4 @@ may take grains from a non-Brāhmaṇa, and if accused of it, he should rightly 
 <details><summary>भारुचिः</summary>
 
 अयं च प्रतिषेधविषयाद् अक्षत्रियाद् राज्ञः, क्षत्रियाद् अपि वा, अलुब्धाच् छास्त्रवर्तिनः सकाशाद् अयं प्रतिग्रहो विज्ञेयः । उपाध्यायस् त्व् आह- क्षत्रियाद् एव राज्ञः [प्रतिग्रहः] प्राथमकल्पको ऽयम् । **कुप्यं** काष्ठमयं शय्यासनाद्य् असारम् । **धनं वा** गोहिरण्यादि याच्यम्, द्रव्यस्यायोगे क्षुदवसन्नात्मकालत्रापत्यधर्मतन्त्रेण ॥ १०.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-113	If Brahmanas, who are Snatakas, are pining with hunger, or in want of (utensils made of) common metals, or of other property, they may ask the king for them; if he is not disposed to be liberal, he must be left.
 </details>

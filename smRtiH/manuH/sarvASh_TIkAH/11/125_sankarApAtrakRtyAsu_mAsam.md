@@ -3,6 +3,11 @@ title = "125 सङ्करापात्रकृत्यासु मास
 
 +++
 
+<details><summary>Bühler</summary>
+
+126	As atonement for deeds which degrade to a mixed caste (Samkara), and for those which make a man unworthy to receive gifts (Apatra), (he shall perform) the lunar (penance) during a month; for (acts) which render impure (Malinikaraniya) he shall scald himself during three days with (hot) barley-gruel.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of acts conducive to the degradation of ‘caste-mixture,’ or of those that make one unworthy of receiving gifts, purification is secured by the monthly lunar penance; and in the case of those that lead to defilement, one should mortify his body on barley-products for three days.—(125)
@@ -60,9 +65,4 @@ penance.’
 <details><summary>भारुचिः</summary>
 
 अन्यतमम् इति वर्तते । एवं चेच्छया प्रत्येकं गुरुप्रायश्चित्तोपदेशैर् अनिच्चया तस्य लघुत्वम् अर्थसिद्धम् पूर्वशास्त्राद् एव ॥ ११.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	As atonement for deeds which degrade to a mixed caste (Samkara), and for those which make a man unworthy to receive gifts (Apatra), (he shall perform) the lunar (penance) during a month; for (acts) which render impure (Malinikaraniya) he shall scald himself during three days with (hot) barley-gruel.
 </details>

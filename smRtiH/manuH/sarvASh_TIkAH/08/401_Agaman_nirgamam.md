@@ -3,6 +3,11 @@ title = "401 आगमन् निर्गमम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+401	Let (the king) fix (the rates for) the purchase and sale of all marketable goods, having (duly) considered whence they come, whither they go, how long they have been kept, the (probable) profit and the (probable) outlay.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall regulate the purchase and sale of all marketable commodities after having taken into consideration their source, destination and detention, as also profit and loss.—(401)
@@ -66,9 +71,4 @@ measures, and the fixing of the price of commodities shall be placed in charge o
 <details><summary>भारुचिः</summary>
 
 आगमादि द्रव्यस्यापेक्ष्य क्रयिविक्रयिणोश् च वृद्धिक्षयौ तयोर् अर्घनिपातेन क्रयविक्रयौ कारयेत् ॥ ८.३९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-401	Let (the king) fix (the rates for) the purchase and sale of all marketable goods, having (duly) considered whence they come, whither they go, how long they have been kept, the (probable) profit and the (probable) outlay.
 </details>

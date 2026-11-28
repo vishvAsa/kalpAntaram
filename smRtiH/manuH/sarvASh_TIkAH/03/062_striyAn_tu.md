@@ -3,6 +3,11 @@ title = "062 स्त्रियान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.—(62)
@@ -34,9 +39,4 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 <details><summary>गोविन्दराजः</summary>
 
 किं च **स्त्रियां तु रोचमानायाम्** इति । **स्त्रियां** वेषादिना कान्तिमत्यां भर्तृमनोहरतया परपुरुषसम्पर्काभावात् तत्कुलम् उज्ज्वलं भवति । तस्यां पुनर् अरोचमानायां भर्तृद्विष्टतया नरान्तरसङ्कल्पतः सकलम् एव कुलं मनिनी भवति ॥ ३.६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	If the wife is radiant with beauty, the whole house is bright; but if she is destitute of beauty, all will appear dismal.
 </details>

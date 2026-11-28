@@ -3,6 +3,11 @@ title = "222 अलङ्कृतश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+222	Adorned (with his robes of state), let him again inspect his fighting men, all his chariots and beasts of burden, the weapons and accoutrements.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Duly robed, he shall again inspect the fighting men, as also all kinds of conveyances, weapons and accoutrements.—(222).
@@ -44,9 +49,4 @@ elephants, horses, chariots, cattle, servants, officers, provisions and soldiers
 <details><summary>गोविन्दराजः</summary>
 
 **अलङ्कृत** इति । **अलङ्क्र्तश् च **सन्न् आयुधजीविनं **पुनर् जनं** **वाहनानि** चाश्वादीनि **सर्वाणि** खड्गादीनि च शस्त्राण्य् अलङ्करणानि च **सम्पश्येत्** ॥ ७.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	Adorned (with his robes of state), let him again inspect his fighting men, all his chariots and beasts of burden, the weapons and accoutrements.
 </details>

@@ -2,6 +2,11 @@
 title = "033 राजतो धनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+033	A Snataka who pines with hunger, may beg wealth of a king, of one for whom he sacrifices, and of a pupil, but not of others; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Suffering from hunger, the accomplished student should seek for wealth from the king, or from one at whose sacrificial rites he officiates, or from his pupil; and not from others; such is the rule.—(33)
@@ -97,11 +102,6 @@ approach the king.’
 <details><summary>गोविन्दराजः</summary>
 
 **राजत** इति । **स्नातकः क्षुधा**वसादं गच्छन् अन्यजातिप्रतिग्रहसम्भवे ऽपि राज्ञः शास्त्रानुवर्तिनो याज्यशिष्याभ्यां वा प्रथमं लिप्सेत । न त्व् अन्यस्माद् द्विजातेर् अपि । तदसम्भवे पुनः अन्यस्मात् द्विजातेर् गृह्णीयात् अनापद्विहितोपायासम्भवे पुनः सर्वतः प्रतिगृह्णीयाद् इत्य् आपधर्मं वक्ष्यति । राज्ञो महाधनत्वात् याज्यानेवासिनोः स्वसुकृतोपकारत्वात् इदं प्रथमधनग्रहणं नियम्यते । एवं चानापदि प्रथमराजयाज्यशिष्यव्यतिरिक्तधनग्रहणनिषेधार्थम् इदं वचनम् । अत एवोक्तम् **न त्व् अन्यत इति** । <span style="text-decoration:underline;">यत् तु</span**saṃsīdann** iti liṅgāt āpadviṣayatām asyāhuḥ – _तद् असत्_, अप्रकरणात् । न च धनाभावमात्रम् आपद् उच्यते । अपि तु धनाभावे इति विहितोपायपरिक्षयः । अन्यथा सद्यःप्रक्षालकस्य आपधर्मा आविर् भवेयुः । अपद्विषये (-विषयत्वे) चास्य “**न त्व् अन्यत”** इत्य् एतत् “सर्वतः प्रतिगृह्णीयात्” इत्य् अनेन विरुद्ध्येत । यत् तु सीदद्भिः कुप्यम् इच्छद्भिः धनं वा पृथिवीपतिर् याच्यः स्याद् इति तदा यत् प्रकरणात् क्षत्रियाद् राज्ञः प्रतिग्रहार्थम् । अत एव तत्र पृथिवीपतिग्रहणम्, इह तु राजग्रहणम् ॥ ४.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	A Snataka who pines with hunger, may beg wealth of a king, of one for whom he sacrifices, and of a pupil, but not of others; that is a settled rule.
 </details>
 
 <details><summary>भारुचिः</summary>

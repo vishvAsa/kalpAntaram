@@ -3,6 +3,11 @@ title = "229 पशुषु स्वामिनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+229	I will fully declare in accordance with the true law (the rules concerning) the disputes, (arising) from the transgressions of owners of cattle and of herdsmen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to expound fully the true law relating to disputes between owners and keepers arising from transgressions regarding cattle.—(229)
@@ -56,9 +61,4 @@ robbers and tigers, and from caverns or pits; let him try his best to protect th
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थश्लोकः ॥ ८.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	I will fully declare in accordance with the true law (the rules concerning) the disputes, (arising) from the transgressions of owners of cattle and of herdsmen.
 </details>

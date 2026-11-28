@@ -2,6 +2,11 @@
 title = "105 निर्घाते भूमिचलने"
 +++
 
+<details><summary>Bühler</summary>
+
+105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When there is preter-natural sound, when there is earthquake, and when there is an impact of planets,—these are to be regarded as time unfit for study, until the same hour next day,—even during the season.—(105).
@@ -66,11 +71,6 @@ fall of meteors and earthquake, there shall be no study for three days.’
 <details><summary>गोविन्दराजः</summary>
 
 **निर्घात** इति । अन्तरिक्षे उत्पातध्वनौ भूकम्पे आदितादीनां परिवेषणे सति अनृताव् अपि वर्षास्व् अपि । **अपि**शब्दात् अन्यदापि **आकालिकान् अनध्यायान्** जानीयात् ॥ ४.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	On (the occasion of) a preternatural sound from the sky, (of) an earthquake, and when the lights of heaven are surrounded by a halo, let him know that (the Veda-study must be) stopped until the same hour (on the next day), even if (these phenomena happen) in the (rainy) season.
 </details>
 
 <details><summary>भारुचिः</summary>

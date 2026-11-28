@@ -2,6 +2,11 @@
 title = "070 अध्येष्यमाणस् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When about to study, he shall be taught with his face to the north, when he has sipped water according to law, has formed the Brahmāñjali (with his hands), wears light clothing and has the organs under full control.—(70)
@@ -67,11 +72,6 @@ or a half or a quarter of it, without the teacher’s permission, is a
 <details><summary>गोविन्दराजः</summary>
 
 **अध्येष्यमाण **इति । प्रत्यासन्नाध्ययनः शिष्यः कृतशास्त्रचोदितेतिकर्तव्यतायुक्ताचमनः **कृत**वक्ष्यमाण**ब्रह्माञ्जलिः** स्थूलवसनः सन् **जितेन्द्रियः उदङ्मुखो ऽध्याप्यः **॥२.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
 </details>
 
 <details><summary>भारुचिः</summary>

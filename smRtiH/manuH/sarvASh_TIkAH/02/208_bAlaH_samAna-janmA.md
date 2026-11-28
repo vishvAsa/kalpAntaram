@@ -2,6 +2,11 @@
 title = "208 बालः समान-जन्मा"
 +++
 
+<details><summary>Bühler</summary>
+
+208	The son of the teacher who imparts instruction (in his father's stead), whether younger or of equal age, or a student of (the science of) sacrifices (or of other Angas), deserves the same honour as the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whether he be younger, or of equal age, or a student of sacrificial ritual,—the Teacher’s son, imparting instruction, dfserves the same honour as the Teacher.—(208)
@@ -77,11 +82,6 @@ son should be like that towards the teacher himself,—with the exception of eat
 <details><summary>गोविन्दराजः</summary>
 
 **बाल** इति । ब्रह्मचारिणः कनीयान् समः यज्ञविद्यादौ वा शिष्यः तथा अध्यापयन् गुरुसुतो गुरुवत् पूजाम् अर्हति । न त्व् अध्यापयितृत्वाद् एवास्य गुरुवृत्तिः सैद्धैव विद्यागुरुष्व् एवम् एवम् इति । न च कनीयस्त्वापेक्षया शैशवाख्या(प)नस्य दर्शितत्वात् । सत्यम् । किं तु “शिष्यो वा यज्ञकर्मणि” इत्य् उक्तो ऽध्यापयतो (व्य) ऽर्थशिष्यत्वात् अप्राप्ताशङ्कायाम् इदं वचनम् । इदम् एव ज्ञापकं ग्रन्थगुरोर् अर्थगुरुर् गरीयान् ॥ २.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-208	The son of the teacher who imparts instruction (in his father's stead), whether younger or of equal age, or a student of (the science of) sacrifices (or of other Angas), deserves the same honour as the teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

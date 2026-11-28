@@ -2,6 +2,11 @@
 title = "063 उद्धृते दक्षिणे"
 +++
 
+<details><summary>Bühler</summary>
+
+063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the right hand is held above (the sacred thread etc.), the twice-born person is described as ‘Upavītin’; when the left hand is held above, ‘Prāchīnāvītin,’ and on its hanging by the neck, ‘Nivītin.’—(63)
@@ -78,11 +83,6 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 <details><summary>गोविन्दराजः</summary>
 
 उपवीत्यादीनाम् अप्रसिद्धत्वात् लक्षणम् आह आचमनावसरे च उपवीतस्याचमनाङ्गत्वार्थम् **उद्धृत** इति । कार्पासम् उपवीतं स्याद् उक्तलक्षणम् । उपवीते **कण्ठसज्जने** कण्ठप्रक्षिप्ते सति **निवीती भवति **। एवं स्थिते सति **उद्धृते दक्षिणे **बाहौ **उपवीती** भवति । वाम उद्धृते** प्राचीनावीती**त्य् एवं लक्षण्द्वयप्रसिद्ध्यर्थम् इह । एवं निवीतलक्षणं मनुष्यकार्यार्थं च “निवीतं मनुष्याणाम्” इति श्रुतेः । प्राचीनावीतीति सञ्ज्ञा । वृत्तानुरोधात् तु **प्राचीन आवीती**त्य् उक्तम् । एतच् च पित्र्ये कर्मणि ॥ २.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
 </details>
 
 <details><summary>भारुचिः</summary>

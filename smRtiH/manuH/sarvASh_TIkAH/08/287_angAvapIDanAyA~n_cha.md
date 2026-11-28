@@ -3,6 +3,11 @@ title = "287 अङ्गावपीडनायाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+287	If a limb is injured, a wound (is caused), or blood (flows, the assailant) shall be made to pay (to the sufferer) the expenses of the cure, or the whole (both the usual amercement and the expenses of the cure as a) fine (to the king).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of injury to limbs, as also of strength and of blood,—the man should be made to pay the expenses of recovery, or the whole amount as ‘fine.’—(287)
@@ -87,9 +92,4 @@ See Comparative notes for [Verse 8.286].
 <details><summary>भारुचिः</summary>
 
 समुत्थानं पुनः प्रत्यापत्तिः तद्गतं व्ययं तस्मै राज्ञा दाप्यो ऽवपीडयिता । अथ त्व् असौ न गृह्णीयाद् अवपीडितः समुत्थानव्ययम् अवपीडकात्, ततो राजैवोभयतः पिण्डीकृत्य गृह्णीयात् ॥ ८.२८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-287	If a limb is injured, a wound (is caused), or blood (flows, the assailant) shall be made to pay (to the sufferer) the expenses of the cure, or the whole (both the usual amercement and the expenses of the cure as a) fine (to the king).
 </details>

@@ -3,6 +3,11 @@ title = "053 अतैजसानि पात्राणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	His vessels shall not be made of metal, they shall be free from fractures; it is ordained that they shall be cleansed with water, like (the cups, called) Kamasa, at a sacrifice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His vessels shall be non-metallic and free from holes; the cleansing of there has been ordained to be done by water, just like that of the vessels at a sacrifice.—(53)
@@ -76,9 +81,4 @@ never in the leaves of the *Vaṭa* or *Aśvattha* or *Karañja* or *Kumbhī* or
 <details><summary>गोविन्दराजः</summary>
 
 **अतैजसानीति** । सौवर्णलोहादिवर्जितानि अच्छिद्राणि भिक्षाभोजनपात्राणि स्युर् निर्व्रणानि च तेषां च उदकेनैव शुद्धिर् यज्ञे चमसानाम् इव ॥ ६.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	His vessels shall not be made of metal, they shall be free from fractures; it is ordained that they shall be cleansed with water, like (the cups, called) Kamasa, at a sacrifice.
 </details>

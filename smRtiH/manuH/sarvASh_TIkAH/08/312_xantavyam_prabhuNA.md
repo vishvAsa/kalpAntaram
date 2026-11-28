@@ -3,6 +3,11 @@ title = "312 क्षन्तव्यम् प्रभुणा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+312	A king who desires his own welfare must always forgive litigants, infants, aged and sick men, who inveigh against him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king should always forgive the partisans of litigants who abuse him, as also the young, the aged and the infirm,—thereby accomplishing his own welfare.—(312)
@@ -68,9 +73,4 @@ assemblage of persons learned in the Vedas.’
 <details><summary>भारुचिः</summary>
 
 अर्थवाद]म् आह, उपदिष्टार्थानुष्ठानप्ररोचनार्थम् ॥ ८.३११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-312	A king who desires his own welfare must always forgive litigants, infants, aged and sick men, who inveigh against him.
 </details>

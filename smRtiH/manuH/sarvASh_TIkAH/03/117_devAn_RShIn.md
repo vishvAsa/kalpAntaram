@@ -2,6 +2,11 @@
 title = "117 देवान् ऋषीन्"
 +++
 
+<details><summary>Bühler</summary>
+
+117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having worshipped the gods, sages, men, the Pitṛs and the household deities, the Householder shall eat afterwards what remains.—(117)
@@ -77,11 +82,6 @@ gods, the dependents, the parents and the teacher; such is the prescribed law.�
 <details><summary>गोविन्दराजः</summary>
 
 **देवान्** इति । गृहे भवा **गृह्या **इत्यन्तेन भूतयज्ञ उक्त इति । वक्ष्यमाणप्रत्यवायकथनार्थो ऽयम् अनुवादः ॥ ३.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "207 दक्षिणासु च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+207	But he who abandons his work after the sacrificial fees have been given, shall obtain his full share and cause to be performed (what remains) by another (priest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who abandons his work after the fees have been paid, should receive his full share; and the work should be got done by another.—(207)
@@ -63,9 +68,4 @@ another priest shall officiate for him, and receive from him his part of the fee
 <details><summary>भारुचिः</summary>
 
 दक्षिनादानाद् ऊर्ध्वं तेषां स्वकर्माकुर्वतां कारणान्तरतो न प्रत्याहरणीया दक्षिणास् तेभ्यः । अकुर्व[तां यान्]य् औपर्तिष्टानि कर्माणि अन्येनैव च कारयेत् तानि तत्पुरुषेण वान्येन वा, परिशिष्टकर्मानुरूपं यत् किंचिद् दत्त्वा, इतरथा ह्य् अपरिजितं दक्षिणया तत्कर्मयजमानार्थं न स्यात् । इदम् एव शास्त्रं परिशिष्टकर्मानुष्ठातुर् दक्षिणादाने विज्ञेयम् । अनेन च प्रसङ्गेनेदम् अपरं तद्गतम् एवोच्यते ॥ ८.२०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-207	But he who abandons his work after the sacrificial fees have been given, shall obtain his full share and cause to be performed (what remains) by another (priest).
 </details>

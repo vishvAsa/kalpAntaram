@@ -2,6 +2,11 @@
 title = "050 मातरं वा"
 +++
 
+<details><summary>Bühler</summary>
+
+050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First of all he should beg food of his mother, or of his sister, or of his mother’s own sister, or of such another lady as may not insult him.—(50)
@@ -66,11 +71,6 @@ throw into his begging vessel, gold, silver and gems.’\]
 <details><summary>गोविन्दराजः</summary>
 
 **मातरम्** इति । **मातुर् भगिनी** मातृष्वसा प्रथमम् उपनयनाङ्गभूतं भैक्षम् एतां याचेत् नान्यां या च प्रत्याख्यानेन ब्रह्मचारिणं **नावमानयेत्** । **निजा **सोदरा ॥ २.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "222 भुक्त्वातो ऽन्यतमस्याऽन
 
 +++
 
+<details><summary>Bühler</summary>
+
+222	If he has unwittingly eaten the food of one of those, (he must) fast for three days; if he has eaten it intentionally, or (has swallowed) semen, ordure, or urine, he must perform a Krikkhra penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After unknowingly eating the food of any one of these, there should be a three days’ fast. Having eaten it knowingly, as also on eating semen, ordure and urine, one should perform the “Kṛcchra” penance.—(222)
@@ -85,9 +90,4 @@ one should give to the Brāhmaṇa the price of that food; he should remain with
 > भावाश्रयप्रदुष्टं च नित्यम् अन्नं विवर्जयेत् ॥
 
 इति सप्तविधस्यात्रपठितस्यापि दुष्टस्येदम् एव प्रायश्चित्तम् एकप्रकरणोपदेशात् । अस्मिंश् च प्रकरणे एषां प्रायश्चित्तान्तरानाम्नानात् । शुक्तपर्युषितयोश् च पञ्चमाध्यायवक्ष्यमाणनिषेधयोर् अपि इह प्रायश्चित्तविशेषार्थम् एवोपादानम् इत्य् आहुः । _तद् असत्_, “एवम् अभिप्रेतम् उक्त्वा” अतो ऽन्यतमदुष्टम् इत्य् एवम् अवक्ष्यत् । अपौरुषेयेषु हि ग्रन्थेषु लिङ्गमात्रम् अपि व्यवस्थाहेतुर् भवति । तावतैव वक्त्राशयानुमानात् । एकप्रकरणोपदेशश् च स्नातकव्रतत्वख्यापनार्थः । इह प्रायश्चित्तान् आम्नाने ऽपि च एषाम् एकादशाध्यायोक्तानि प्रायश्चित्तानि भविष्यन्ति । शुक्तपर्युषितयोश् चेह स्नातकव्रतत्वार्थम् एवाभिधानम् । तस्माद् यथाश्रुतम् एव त्याज्यम्, तत्र स्वभावदुष्टं मूत्रादि, कालदुष्टं पर्युषितादि, संसर्गदुष्टं दुष्टान्नादि, परिणामदुष्टं शुक्तादि, भावदुष्टं सद्यःपीडितद्राक्षारसादि, आश्रयदुष्टं मत्तादिसम्बन्धि । अप्रकरणे च प्रायश्चित्तोपदेशो लाघवाद्यर्थम्, तत्र हिस् किर्यमाणे मन्त्रादिग्रहणं कर्तव्यं स्यात् ॥ ४.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	If he has unwittingly eaten the food of one of those, (he must) fast for three days; if he has eaten it intentionally, or (has swallowed) semen, ordure, or urine, he must perform a Krikkhra penance.
 </details>

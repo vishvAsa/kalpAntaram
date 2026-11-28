@@ -2,6 +2,11 @@
 title = "247 आ-सपिण्डक्रियाकर्म द्विजातेः"
 +++
 
+<details><summary>Bühler</summary>
+
+247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the twice-born person just dead, there should be (performed) the rite up to the ‘Sapiṇḍīkaraṇa’: one should do the feeding at his Śrāddha without any in honour of the gods, and he shall offer one ball.—(247)
@@ -82,11 +87,6 @@ perform the sixteen Śrāddhas; and all these should be performed by the unitary
 <details><summary>गोविन्दराजः</summary>
 
 **आसपिण्डक्रियाकर्मेति । **अचिरमृतस्य द्विज्तेर् एकादशाहादाव् आसपिण्डक्रियाधिष्ठानं कर्तव्यम् । नामावास्यावत् पूर्वाभ्यां सहपिण्डदानं कार्यम् । किं तर्हि । वैश्वदेवब्राह्मणभोजनरहितं श्राद्धार्थम् अन्नं ब्राह्मणं च भोजयेत् । एकं पिण्डं तस्मा एव दद्यात् । तस्मात् यावद् ब्राह्मणं भोजयेत् । साधितं चैतत् सविस्तरं स्मृतिमञ्जर्यां (?) ऋजुपञ्जिकायां च** **। इह तु ग्रन्थभारभयान् न प्रतार्यते ॥ ३.२४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
 </details>
 
 <details><summary>भारुचिः</summary>

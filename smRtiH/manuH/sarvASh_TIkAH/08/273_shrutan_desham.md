@@ -3,6 +3,11 @@ title = "273 श्रुतन् देशम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+273	He who through arrogance makes false statements regarding the learning (of a caste-fellow), his country, his caste (gati), or the rites by which his body was sanctified, shall be compelled to pay a fine of two hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, through arrogance, speaks falsely regarding the learning, the habitat, the caste, the occupation, or the bodily details (of another person), should be made to pay a pine of two hundred.—(273)
@@ -96,9 +101,4 @@ nature, learning, livelihood and country,—the punishment is a fine of 3
 <details><summary>भारुचिः</summary>
 
 सत्य् अपि शूद्रप्रकरणे सर्वेषां ब्राह्मणादीनाम् अयं विधिर् ज्ञेयः सामर्थात् ॥ ८.२७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-273	He who through arrogance makes false statements regarding the learning (of a caste-fellow), his country, his caste (gati), or the rites by which his body was sanctified, shall be compelled to pay a fine of two hundred (panas).
 </details>

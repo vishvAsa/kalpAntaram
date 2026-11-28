@@ -3,6 +3,11 @@ title = "313 यः क्षिप्तो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+313	He who, being abused by men in pain, pardons (them), will in reward of that (act) be exalted in heaven; but he who, (proud) of his kingly state, forgives them not, will for that (reason) sink into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, on being abused by men in distress, forgives, becomes exalted to heaven, by that act; while he who, through kingly pride, does not forgive, goes, by that act, to hell.—(313)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 8.313].
 <details><summary>भारुचिः</summary>
 
 एवम् इयं क्ष्[अमानुष्ठानस्तुतिः । चि]त्तसंक्षोभहेऊपनिपाते ऽपि राज्ञा क्षमोभयलोकोपार्जनसाधनं प्रयत्नतो भावनीया । वाक्यस्वाभाव्याच् चेयम् उभयथात्र श्लोके क्षमानुष्ठानस्तुति[ः] । राजसंबन्धाच् च स्तेनप्रायश्चित्तस्येदम् एतत्प्रकरण एवोच्यते ॥ ८.३१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-313	He who, being abused by men in pain, pardons (them), will in reward of that (act) be exalted in heaven; but he who, (proud) of his kingly state, forgives them not, will for that (reason) sink into hell.
 </details>

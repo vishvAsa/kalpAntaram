@@ -3,6 +3,11 @@ title = "028 दण्डो हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	Punishment (possesses) a very bright lustre, and is hard to be administered by men with unimproved minds; it strikes down the king who swerves from his duty, together with his relatives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Punishment, which is a tremendous force, hard to be controlled by persons with undisciplined minds, destroys the King who has swerved from duty, along with his relatives.—(28).
@@ -38,9 +43,4 @@ This verse is quoted in *Vivādaratnākara* (p. 647) which adds that punishment 
 <details><summary>भारुचिः</summary>
 
 येषां स्वाभाविको विद्योपनीतश् च विनयस् ते कृतात्मानः । तैर् अयम् शको धारयितुम् । व्परीतं तस्माच् **चलितं दण्द एव सबान्धवं हन्ति** ॥ ७.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	Punishment (possesses) a very bright lustre, and is hard to be administered by men with unimproved minds; it strikes down the king who swerves from his duty, together with his relatives.
 </details>

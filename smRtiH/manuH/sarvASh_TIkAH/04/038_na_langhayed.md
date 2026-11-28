@@ -3,6 +3,11 @@ title = "038 न लङ्घयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not step over the rope to which a calf is tied; he shall not run when it is raining; he shall not look at his own figure in water; such is the established rule.—(38).
@@ -60,9 +65,4 @@ Do. (63.42-43).—‘He shall not cross over the rope to which the calf is tied;
 <details><summary>गोविन्दराजः</summary>
 
 **न लङ्घयेद्** इति । वत्सवन्धनरज्जुं **न लङ्घयेत् वर्षति न धावेत् उदके च **स्वप्रतिबिम्बं नेक्षेतेत्य् एवं निश्चयः ॥ ४.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.
 </details>

@@ -3,6 +3,11 @@ title = "101 तृणानि भूमिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Grasses, place, water and kind word as the fourth,—even these never fail in the house of good people.—(101)
@@ -86,9 +91,4 @@ householder or an accomplished student,—to him he shall offer welcome, water f
 <details><summary>गोविन्दराजः</summary>
 
 अन्नासम्भवे पुनः **तृणानीति** । **तृणानि **विश्रामभूम्याचमनाद्युदकप्रियसत्यवचनानि साधुगृहेषु अतिथ्यर्थं न कदाचिद् अप्य् **उच्छिद्यन्ते** । अतो ऽन्नाभावे एतान्य् अवश्यं देयानि॥ ३.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.
 </details>

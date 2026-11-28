@@ -3,6 +3,11 @@ title = "035 स्वे स्वे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+035	The king has been created (to be) the protector of the castes (varna) and orders, who, all according to their rank, discharge their several duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King has been created the protector of all castes and orders, who, in due order, are intent upon their respective duties.—(35).
@@ -77,9 +82,4 @@ their duties.’
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थम् उत्तरविवक्षार्थं चेदम् उक्तम् अप् सद् उच्यते ॥ ७.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-035	The king has been created (to be) the protector of the castes (varna) and orders, who, all according to their rank, discharge their several duties.
 </details>

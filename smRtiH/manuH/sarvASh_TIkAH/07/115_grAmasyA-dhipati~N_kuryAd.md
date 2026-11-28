@@ -3,6 +3,11 @@ title = "115 ग्रामस्याऽधिपतिङ् कुर्य
 
 +++
 
+<details><summary>Bühler</summary>
+
+115	Let him appoint a lord over (each) village, as well as lords of ten villages, lords of twenty, lords of a hundred, and lords of a thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall appoint the lord of one village, as also the lord of ten villages, the lord of twenty, the lord of hundred and the lord of thousand villages.—(115)
@@ -52,9 +57,4 @@ of one *kroṣa* and whose yield is 1,000 silver *karṣas*.’
 <details><summary>गोविन्दराजः</summary>
 
 **ग्रामस्येति** । ग्रामदशग्रामाध्यक्षं कुर्यात् ॥ ७.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	Let him appoint a lord over (each) village, as well as lords of ten villages, lords of twenty, lords of a hundred, and lords of a thousand.
 </details>

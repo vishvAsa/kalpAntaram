@@ -3,6 +3,11 @@ title = "088 सुखाभ्युदयिकञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	The acts prescribed by the Veda are of two kinds, such as procure an increase of happiness and cause a continuation (of mundane existence, pravritta), and such as ensure supreme bliss and cause a cessation (of mundane existence, nivritta).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Vedic Act’ is of two kinds—(a) the ‘active,’ which is conducive to happiness and prosperity, and (b) the ‘passive,’ which is conducive to the highest good.—(88)
@@ -80,9 +85,4 @@ This verse is quoted in *Mitākṣarā* (3.58);—and in *Aparārka*, (p. 1033).
 <details><summary>भारुचिः</summary>
 
 एतच् च कारणभेदान् कर्मणो द्वैविध्यं येन अतस् तत्कारणाद् इदम् उच्यते ।
-</details>
-
-<details><summary>Bühler</summary>
-
-088	The acts prescribed by the Veda are of two kinds, such as procure an increase of happiness and cause a continuation (of mundane existence, pravritta), and such as ensure supreme bliss and cause a cessation (of mundane existence, nivritta).
 </details>

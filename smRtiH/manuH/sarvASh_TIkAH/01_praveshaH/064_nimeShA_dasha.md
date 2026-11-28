@@ -3,6 +3,11 @@ title = "064 निमेषा दश"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	Eighteen nimeshas (twinklings of the eye, are one kashtha), thirty kashthas one kala, thirty kalas one muhurta, and as many (muhurtas) one day and night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Ten and eight ‘nimeṣas’ (should be known as) one ‘Kāṣṭhā’; thirty such (Kāṣṭhās) one ‘Kalā’; thirty ‘Kalās’ one ‘muhūrta’; and as many ‘muhūrtas’ one ‘Ahorātra’ (Day and Night).—(64)
@@ -81,9 +86,4 @@ Lava, Nimeṣa, Kāṣṭhā, Kalā, Nāḍīkā, Muhūrta, Divasa, Rātri, Pak�
 <details><summary>गोविन्दराजः</summary>
 
 कियान् पुनः कालः प्रत्येकं मनूनाम् अधिकारः इत्य् अत् आह – **निमेषा** इति । **निमेषः **अक्षिपक्ष्मणोः स्वाभाविकः कल्पः उन्मेषसहचारी । ते **अष्टादश काष्ठा** । **तिंसत्यः **काष्ठाः **कलानाम **कालः **त्रिंशत्कलाः मुहूर्त**सञ्ज्ञः । **अहोरात्रं तु तावतः त्रिंषत्** । मुहूर्तास् तावन्तः इति । द्वितीयानिर्देशात् विद्यादित्य् अध्याहार्यम् ॥ १.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	Eighteen nimeshas (twinklings of the eye, are one kashtha), thirty kashthas one kala, thirty kalas one muhurta, and as many (muhurtas) one day and night.
 </details>

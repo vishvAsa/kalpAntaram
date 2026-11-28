@@ -3,6 +3,11 @@ title = "251 यानि चैवम्प्रकाराणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+251	And whatever other things of a similar kind the earth does not corrode even after a long time, those he should cause to be buried where one boundary joins (the other).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Other such-like things which the earth may not eat up in time,—these he shall secretly set up on junctions of boundaries.—(251)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 8.245].
 <details><summary>भारुचिः</summary>
 
 षट् च्छ्लोकाः सीमासेतुप्रकारदर्शनार्थाः ॥ ८.२४५–२५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-251	And whatever other things of a similar kind the earth does not corrode even after a long time, those he should cause to be buried where one boundary joins (the other).
 </details>

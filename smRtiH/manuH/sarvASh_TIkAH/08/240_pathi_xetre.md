@@ -3,6 +3,11 @@ title = "240 पथि क्षेत्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+240	(If cattle do mischief) in an enclosed field near a highway or near a village, the herdsman shall be fined one hundred (panas); (but cattle), unattended by a herdsman, (the watchman in the field) shall drive away.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If cattle attended by the keeper be found in an enclosed field, on the road-side or near the village, the keeper should be fined a hundred; but cattle without a keeper shall be driven off.—(240)
@@ -91,9 +96,4 @@ the crops that may haves been grazed by a cow, his Pitṛs and deities do not ac
 <details><summary>भारुचिः</summary>
 
 यष्टिपातेन खादयन् पालः शतदण्डार्हः स्यात्, **विपालं** च **पशुं वारयेत्** । अदण्डश् च स्यात् पशुपालः तदसंनिधानात् । अन्यस् त्व् अत्रार्थः सह पालेन **सपालः** क्षेत्रिकः न पशुर् अत्रोच्यते । पूर्ववच्छतदण्डार्हः स्यात् । उभयापराधात्, क्षेत्रिकेण तावत् किम् इति क्षेत्रं स्वम् अनावृतम् इति, तस्माद् उभयापराधाद् उभयोर् दण्डः । गौतमीये ऽपि चोक्तम् "पथि क्षेत्रे ऽनावृते पालक्षेत्रिकयोः" इति ॥ ८.२३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	(If cattle do mischief) in an enclosed field near a highway or near a village, the herdsman shall be fined one hundred (panas); (but cattle), unattended by a herdsman, (the watchman in the field) shall drive away.
 </details>

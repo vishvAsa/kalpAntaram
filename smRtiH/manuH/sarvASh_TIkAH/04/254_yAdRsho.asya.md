@@ -2,6 +2,11 @@
 title = "254 यादृशो ऽस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the man’s character may be, as may be the nature of the work he wishes to do, and as may be the manner in which he may serve,—even so must he offer himself.—(254)
@@ -49,11 +54,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 <details><summary>गोविन्दराजः</summary>
 
 यथा आत्मनिवेदनं तेन कार्यं तथाह **यादृश **इति । **यादृशो ऽस्य भवेद् आत्मा **कुलशीलादिभिर् **यादृशं **दृष्टार्थम् अदृष्टातिशयार्थं चोपचरणं कर्तुम् इष्टं येन वा प्रकारेण मृदुदकाद्याहरणादिनिमित्तं ब्राह्मणं सेवेत अनेन प्रकारेण्**आत्मानं** **निवेदयेत्** ॥ ४.२५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
 </details>
 
 <details><summary>भारुचिः</summary>

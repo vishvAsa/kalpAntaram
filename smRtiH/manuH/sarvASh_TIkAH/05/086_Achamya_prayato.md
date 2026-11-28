@@ -2,6 +2,11 @@
 title = "086 आचम्य प्रयतो"
 +++
 
+<details><summary>Bühler</summary>
+
+086	He who has purified himself by sipping water shall, on seeing any impure (thing or person), always mutter the sacred texts, addressed to Surya, and the Pavamani (verses).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On seeing unclean things, the man, after having sipped water, shall always attentively recite the Solar Mantras according to his inclination, as also the Pāvamānī verses, according to his capacity.—(85).
@@ -58,11 +63,6 @@ look at the stars; on talking to him, one should converse with the Brāhmaṇa; 
 <details><summary>गोविन्दराजः</summary>
 
 **आचम्येति** । प्रकृतचण्डालाद्यशुचिदर्शने सर्वदाचम्य शुचिः । स सूर्यदैवत्यान् मन्त्रान् यथासामर्थ्यं पावमानीश् च “स्वादिष्ठये”त्याद्याः शक्त्या जपेत् ॥ ५.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	He who has purified himself by sipping water shall, on seeing any impure (thing or person), always mutter the sacred texts, addressed to Surya, and the Pavamani (verses).
 </details>
 
 <details><summary>भारुचिः</summary>

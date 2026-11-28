@@ -3,6 +3,11 @@ title = "044 अकुर्वन् विहितम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	A man who omits a prescribed act, or performs a blamable act, or cleaves to sensual enjoyments, must perform a penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man does not do what is enjoined, or does what is censured, or becomes addicted to sensual objects, he becomes liable to expiatory rites.—(44)
@@ -186,9 +191,4 @@ is performed; hut there is none for sins committed intentionally; even if there 
 <details><summary>भारुचिः</summary>
 
 श्रौतस्मार्तम् इज्याध्ययनादि **विहितम्**; **निन्दितं** च प्रतिषिद्धं **समाचरन्** हिंसानृतस्तेयादि, **प्रसक्तश् चेन्द्रियार्थेष्व्** अभिप्रेतपुरुषार्थसाधनेषु शब्दादिषु, **प्रायश्चित्तीयते नरः** । **नर**ग्रहणाद् वा सर्ववर्णधर्मो ऽयं गम्यते । ननु चेन्द्रियार्थप्रसङ्गस्य निन्दितग्रहणेनैव गृहीतत्वात् पुनरारंभो न न्याज्ज्य इति । अस्य परिहारः । येष्व् अस्याः प्रतिषेध **इन्द्रियार्थेषु** यथा मांसाशने ऽन्यायतः क्षत्रियादिस्त्रीपरिग्रहादौ च, तेष्व् अपि प्रकर्षे[ण] सक्तिप्रतिषेधार्थम् अस्य पृथग्ग्रहणं युक्तम् । कथम्, असौ **प्रायश्चित्तीयते** इति । यत इदम् उच्यते ॥ ११.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	A man who omits a prescribed act, or performs a blamable act, or cleaves to sensual enjoyments, must perform a penance.
 </details>

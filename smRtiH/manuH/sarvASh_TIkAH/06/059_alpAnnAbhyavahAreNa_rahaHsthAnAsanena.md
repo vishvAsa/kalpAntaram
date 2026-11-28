@@ -3,6 +3,11 @@ title = "059 अल्पान्नाभ्यवहारेण रहःस
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	By eating little, and by standing and sitting in solitude, let him restrain his senses, if they are attracted by sensual objects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By eating little food and by standing and sitting in solitude, he shall restrain his senses, when attracted by sensual objects.—(59).
@@ -50,9 +55,4 @@ food to living beings and sprinkling the remainder with water, he shall eat it a
 <details><summary>भारुचिः</summary>
 
 इन्द्रियजयोपायद्वयोपदेशो ऽयम् । कस्य पुनर् हेतोरे यौ॥।
-</details>
-
-<details><summary>Bühler</summary>
-
-059	By eating little, and by standing and sitting in solitude, let him restrain his senses, if they are attracted by sensual objects.
 </details>

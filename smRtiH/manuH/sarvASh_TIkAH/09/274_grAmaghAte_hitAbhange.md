@@ -3,6 +3,11 @@ title = "274 ग्रामघाते हिताभङ्गे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+274	Those who do not give assistance according to their ability when a village is being plundered, a dyke is being destroyed, or a highway robbery committed, shall be banished with their goods and chattels.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If people do not hasten to assist, to the best of their power, whenever a village is attacked, or a dyke is breaking, or a highway robbery is being committed,—they should be banished along with their chattels.—(274)
@@ -52,9 +57,4 @@ one is being forcibly carried away,—if one, on hearing the cry, does not go fo
 <details><summary>भारुचिः</summary>
 
 आलस्येनानभिधावन्तो निर्वास्याः, ये तु च्रोपक्षेपान् नानुधावन्ति ते चोरवधेन वध्याः ॥ ९.२७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-274	Those who do not give assistance according to their ability when a village is being plundered, a dyke is being destroyed, or a highway robbery committed, shall be banished with their goods and chattels.
 </details>

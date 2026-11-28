@@ -3,6 +3,11 @@ title = "122 प्रशासितारं सर्वेषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	Let him know the supreme Male (Purusha, to be) the sovereign ruler of them all, smaller even than small, bright like gold, and perceptible by the intellect (only when) in (a state of) sleep (-like abstraction).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ruler of all, who is minuter than the minutest atom, bright like gold, amenable to dream-cognition,—him should one know as the Highest Puruṣa.—(122)
@@ -67,9 +72,4 @@ The ruler of all, who is minuter than the minutest atom, bright like gold, amena
 
 
 **प्रशासितारं** सर्वास्व् अवस्थास्व् अधिकृतानां **सर्वेषां** ब्रह्मादीनाम् अपि । तथा ब्राह्मणम्, "एतस्य वा अक्षरस्य प्रशासने, गार्गि " इत्य् एवमाद्य् उदाहरणीयम् । **अणीयांसम् अणोर् अपीति** सौक्ष्म्यातिशयप्रदर्शनम् एतत् परमात्मन इतरेभ्यः संसार्यात्मभ्यः । **रुक्माभम्** इत्य् अनेन शुद्धतास्योच्यते । तथा च रहस्यब्राह्मणम् वाजसनेयिनाम् उपनिषदि- "यो [ऽश्नायापिप्]आसे शोकं मोहं जरां मृत्युम् अत्येति; एतं वै तम् आत्मानं विदित्वा" इत्य् एवमादि । **स्वप्नधीगम्यम्** इति तद्रूपप्रतिपदनपरम् इदम् । यथा हि सुप्तावस्थायां प्रत्यस्तमितकर्मक्लेशसुखदुःखविशेषं शान्तं संसार्यात्मतत्त्वस्य रूपम्, एवम् इदं परमात्मनस् तत्त्वं मनसा स्वप्नधिया शक्यते सदैवंरूपम् अधिगन्तुम् । यत इदम् उच्यते, "स्वप्नधीगम्यं विद्यात् तु पुरुषं परम्" इतरपुरुषापेक्षयेदम् अस्य परत्वम् उच्यते । तथा चोक्तम् अस्यासकृद् अध्यासोदाहरणम्, कर्माङ्गदेवताभेदाधिकारव्यवस्थितं च परमात्मानं सन्तम्  ॥ १२.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	Let him know the supreme Male (Purusha, to be) the sovereign ruler of them all, smaller even than small, bright like gold, and perceptible by the intellect (only when) in (a state of) sleep (-like abstraction).
 </details>

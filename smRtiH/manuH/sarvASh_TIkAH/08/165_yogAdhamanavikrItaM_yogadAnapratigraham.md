@@ -3,6 +3,11 @@ title = "165 योगाधमनविक्रीतं योगदानप
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	A fraudulent mortgage or sale, a fraudulent gift or acceptance, and (any transaction) where he detects fraud, the (judge) shall declare null and void.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Fraudulent mortgages and sales, fraudelent gifts and acceptances, as also all wherein he detects fraud—he shall nullify.—(165)
@@ -168,9 +173,4 @@ and legitimate titles...... A document executed by fraud, or by force, does not.
 <details><summary>भारुचिः</summary>
 
 **योगाधमनं** नाम लोकयात्रायां यन् न स्फुटम् उच्यते । "त्वं तावत् अनेन कार्यं कुरु, अहं पुनर् अनेन कार्यं करिष्यामि" इति । विक्रयो ऽप्य् एवंलक्षणः । **योगदानं** च यद् यात्रोत्सवव्यपदेशेन सोपधं दीयते ऽधमर्णादिभिर् उत्तमर्णप्रभृतीनाम् । अमुमूर्षुश् चानपत्यो ज्ञातिभ्यो बिभ्यन् नैराश्याद् ददाति, एवमादिना योगेन । दानप्र[ति]ग्रहयोर् विशेषः- दानं मैत्र्या प्रतिग्रहो धर्मेण । **यत्र चाप्य् उपधिं पश्येद्** दानप्रतिग्रहगतम् अन्यगतं वा **तत् सर्वं विनिवर्तयेत्**, राजा व्यावहारान् पश्यन् अनयत्र वा । ऋणसंबन्धाच् चेदम् अन्यम् अपरं तद्गतम् एवोच्यते ॥ ८.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	A fraudulent mortgage or sale, a fraudulent gift or acceptance, and (any transaction) where he detects fraud, the (judge) shall declare null and void.
 </details>

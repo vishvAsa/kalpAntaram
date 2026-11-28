@@ -2,6 +2,11 @@
 title = "235 यावत् त्रयस्"
 +++
 
+<details><summary>Bühler</summary>
+
+235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 So long as these three live, he should not do anything else; he should always bender service unto them, rejoicing in what is pleasing and beneficial to them.—(235)
@@ -40,11 +45,6 @@ what is agreeable and beneficial to them;—he should do nothing without their p
 <details><summary>गोविन्दराजः</summary>
 
 मातृपित्राचार्येषु **जीवत्सु अन्यं धर्मं नाचरेत् **। किं तर्हि । **तेष्व् एव** सर्वदा वर्तमानभविष्यदुपकारतः **कुर्याद्** इति प्रकृतविध्यर्थ्वादः । “तेषां त्रयाणाम्” इत्य् एतत्सिद्धस्यैवस्य पुनर् अभिधानं प्रकृतविधिदार्ढ्यार्थम् ॥ २.२३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
 </details>
 
 <details><summary>भारुचिः</summary>

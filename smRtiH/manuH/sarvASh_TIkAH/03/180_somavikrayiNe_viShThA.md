@@ -2,6 +2,11 @@
 title = "180 सोमविक्रयिणे विष्ठा"
 +++
 
+<details><summary>Bühler</summary>
+
+180	(Food) given to a seller of Soma becomes ordure, (that given) to a physician pus and blood, but (that presented) to a temple-priest is lost, and (that given) to a usurer finds no place (in the world of the gods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is given to the Soma-seller becomes ordure; to the physician, pus and blood; that to the temple-attendant becomes lost; and that to the usurer has no place.—(180)
@@ -48,11 +53,6 @@ the physician becomes pus and blood; what is given to the temple-servant perishe
 <details><summary>गोविन्दराजः</summary>
 
 **सोमविक्रयिण **इति । **सोमविक्रयिणे **यद् **दत्तं **तद् दातृभोजनार्थं शकृत् सम्पद्यते । तच् च शकृद्भोजने तिर्यग्जात्युत्पत्तिफलता स्यात् [इति] अनेन प्रकारेणोक्तं भवति । एवं **पूयरुधिरे** अपि व्याख्येये । **नष्टं **विनाशम् उपगतम्, अतश् च न तत्फलं भवति । **अप्रतिष्ठितम्** अलब्धास्पदम्, अतश् चानाश्रयत्वात् न फलदानसमर्थम् ॥ ३.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	(Food) given to a seller of Soma becomes ordure, (that given) to a physician pus and blood, but (that presented) to a temple-priest is lost, and (that given) to a usurer finds no place (in the world of the gods).
 </details>
 
 <details><summary>भारुचिः</summary>

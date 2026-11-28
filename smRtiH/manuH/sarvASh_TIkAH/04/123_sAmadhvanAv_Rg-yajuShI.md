@@ -2,6 +2,11 @@
 title = "123 सामध्वनाव् ऋग्-यजुषी"
 +++
 
+<details><summary>Bühler</summary>
+
+123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never recite the Ṛk or the Yajuṣ during a Sāma-chant; nor after having read the end of the Veda, or after having read the Āraṇyaka.—(123).
@@ -61,11 +66,6 @@ shall not be read while there is sound of Sāma-singing; or when there is very h
 <details><summary>गोविन्दराजः</summary>
 
 **सामध्वनाव्** इति । **सामध्वनौ** शूयमाणे ऋग्यजुषोर् न कदाचिद् अप्य् अध्ययनं कुर्यात् । तथा वेदं समाप्य आरण्याख्यं च वेदैकदेशं **अधीत्य **तस्मिन्न् अहोरात्रे अन्यत् **नाधीयीत** ॥ ४.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	Let him never recite the Rig-veda or the Yagur-veda while the Saman (melodies) are heard; (let him stop all Veda-study for a day and a night) after finishing a Veda or after reciting an Aranyaka.
 </details>
 
 <details><summary>भारुचिः</summary>

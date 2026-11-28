@@ -3,6 +3,11 @@ title = "064 अनुरक्तः शुचिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	(Such) an ambassador is commended to a king (who is) loyal, honest, skilful, possessing a good memory, who knows the (proper) place and time (for action, who is) handsome, fearless, and eloquent.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That royal ambassador is commended who is loyal, honest, clever, possessed of good memory, conversant with place and time, handsome of body, fearless and eloquent.—(64)
@@ -162,9 +167,4 @@ See Comparative notes for [Verse 7.63].
 <details><summary>भारुचिः</summary>
 
 **अनुरक्तो** ऽहार्यो भवति । **शुचिर्** अर्थे स्त्रीषु चाभेद्यो भवति । **दक्षो** देशकालौ नातिक्रामति । **स्मृतिमान्** स्वामिसंदेशम् अपरिमुषितस्मृतिप्रसङ्गेन कथयति । **देशकालवित्** सर्वत्र कार्यसाधकः । **वपुष्मान्** अनाधृष्यो भवति, प्रियदर्शनत्वाच् च ग्राह्यवाक् । **वीतभीः** स्वामिसंदेशं परुषम् अप्य् अवितथम् आचष्टे । पौनः पुन्येन । **वाग्मी** संदेशस्योत्तरप्रतिवचनसमर्थो भवति । किमर्थम् अयं दूतलक्षणादरोपदेश एवं क्रियते ॥ ७.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	(Such) an ambassador is commended to a king (who is) loyal, honest, skilful, possessing a good memory, who knows the (proper) place and time (for action, who is) handsome, fearless, and eloquent.
 </details>

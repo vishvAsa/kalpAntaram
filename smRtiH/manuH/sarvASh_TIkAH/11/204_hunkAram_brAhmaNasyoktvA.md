@@ -3,6 +3,11 @@ title = "204 हुङ्कारम् ब्राह्मणस्योक
 
 +++
 
+<details><summary>Bühler</summary>
+
+205	He who has said 'Hum' to a Brahmana, or has addressed one of his betters with 'Thou,' shall bathe, fast during the remaining part of the day, and appease (the person offended) by a reverential salutation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man has uttered the syllable ‘hum’ against a Brāhmaṇa, or has addressed a superior person as ‘thou,’—he shall bathe, fast for the rest of the day and having saluted him, shall propitiate him.—(204)
@@ -69,9 +74,4 @@ his feet; and for tying a cloth round his neck, the expiation prescribed is that
 <details><summary>भारुचिः</summary>
 
 विशिष्टस्नानचोदनेयं नित्यादधिका (?) निमित्तकीति विज्ञेया ॥ ११.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	He who has said 'Hum' to a Brahmana, or has addressed one of his betters with 'Thou,' shall bathe, fast during the remaining part of the day, and appease (the person offended) by a reverential salutation.
 </details>

@@ -3,6 +3,11 @@ title = "087 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	But he who foolishly causes that (duty) to be performed by another, while his wife of equal caste is alive, is declared by the ancients (to be) as (despicable) as a Kandala (sprung from the) Brahmana (caste).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While the wife of the same caste is alive, if through folly, one causes these duties to be performed by another wife, he is a ‘Brāhmaṇa-Cāṇḍāla’, as has been held by the ancients.—(87)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 9.85].
 <details><summary>भारुचिः</summary>
 
 शुश्रूषानियमार्थवादो ऽयम् । एवं च सति नान्यया कार्यः । यस् तु व्यतिक्रमे वर्तते तस्यायम् निन्दार्थवादः केनचित् सामान्येन ॥ ९.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	But he who foolishly causes that (duty) to be performed by another, while his wife of equal caste is alive, is declared by the ancients (to be) as (despicable) as a Kandala (sprung from the) Brahmana (caste).
 </details>

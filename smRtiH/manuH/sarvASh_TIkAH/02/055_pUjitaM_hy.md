@@ -2,6 +2,11 @@
 title = "055 पूजितं ह्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food, thus worshipped always, imparts strength and vigour. If eaten irreverently, it destroys them both.—(55)
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 2.54].
 <details><summary>गोविन्दराजः</summary>
 
 **पूजितम्** इति । यामात् **पूजितम् **अन्नं सामर्थ्यं वीर्यं च ददाति, **अपूजितं च तद् भुक्तं उभयं **नाशयति तस्मात् पूजितम् अद्याद् इति प्रकृतस्तुतिः फलार्थत्वे (न नि) नित्यतापत्तेः ॥ २.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
 </details>
 
 <details><summary>भारुचिः</summary>

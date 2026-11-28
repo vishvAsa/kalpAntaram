@@ -3,6 +3,11 @@ title = "117 एवं स"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	Thus did that worshipful deity disclose to me, through a desire of benefiting mankind, this whole most excellent secret of the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the blessed Lord explained to me, with a desire to benefit mankind, the highest secret of Dharma.—(117)
@@ -44,9 +49,4 @@ This verse is quoted in *Aparārka* (p. 1027).
 <details><summary>भारुचिः</summary>
 
 भृगुर् भगवान् श्रोतॄन् स्वशिष्यान् एवम् आह- तथा चायम् एव धर्मशास्त्रप्रवचने प्रथमे ऽध्याये ऽधिकृत्य स्मर्यते-
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Thus did that worshipful deity disclose to me, through a desire of benefiting mankind, this whole most excellent secret of the sacred law.
 </details>

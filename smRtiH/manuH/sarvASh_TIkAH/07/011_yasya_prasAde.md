@@ -3,6 +3,11 @@ title = "011 यस्य प्रसादे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+011	He, in whose favour resides Padma, the goddess of fortune, in whose valour dwells victory, in whose anger abides death, is formed of the lustre of all (gods).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He indeed contains in himself the splendour of all, in whose favour dwells the Goddess of Fortune, in whose valour rests victory and in whose anger abides death.—(11)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 <details><summary>भारुचिः</summary>
 
 अतो न केवलम् असौ भयात् प्रत्यवायपरिहारार्थम् आराध्यः, अभ्युदयो ऽपि हि तस्मात् सम्यग् उपचरिताद् विशिष्टो भवति ॥ ७.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	He, in whose favour resides Padma, the goddess of fortune, in whose valour dwells victory, in whose anger abides death, is formed of the lustre of all (gods).
 </details>

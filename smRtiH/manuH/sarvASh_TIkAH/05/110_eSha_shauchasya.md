@@ -2,6 +2,11 @@
 title = "110 एष शौचस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+110	Thus the precise rules for the purification of the body have been declared to you; hear now the decision (of the law) regarding the purification of the various (inanimate) things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been explained to you the rule regarding bodily purification; listen now to the rule regarding the purification of various substances.—(109.)
@@ -41,11 +46,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 805).
 <details><summary>गोविन्दराजः</summary>
 
 **एष** इति । **एष **शरीरसम्बन्धिनः शौचस्य युष्माकं विचार उक्तः । इदानीं नानाप्रकाराणां **द्रव्याणां शुद्धेः निर्णयं शृणुत** ॥ ५.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	Thus the precise rules for the purification of the body have been declared to you; hear now the decision (of the law) regarding the purification of the various (inanimate) things.
 </details>
 
 <details><summary>भारुचिः</summary>

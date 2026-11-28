@@ -3,6 +3,11 @@ title = "045 सत्यम् अर्थम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	When engaged in judicial proceedings he must pay full attention to the truth, to the object (of the dispute), (and) to himself, next to the witnesses, to the place, to the time, and to the aspect.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When engaged in judicial proceedings, the king shall keep his eye upon the truth, upon the object, upon himself, the witness and upon the place, the time and the aspect.—(45)
@@ -93,9 +98,4 @@ mistake of facts. Ordeals even are rendered nugatory by artful men; therefore le
 <details><summary>भारुचिः</summary>
 
 सत्यार्थयोः सारफल्गुतां पश्येद् आत्मानं **साक्षिणं** कृत्वा, तथात्मनो महति स्थाने स्वर्गादौ धर्मेणावस्थानम्, अवस्थानकालं च तस्य महान्तम् । अथ वा कालं च आयुषः, इहाल्पं जरसाभिभवाद्; आत्मनो रूपविपर्ययः अनेकव्याधियोगाच् च । अथ वा रूपं तनुमनस्तृप्तिकरं निरवद्यम् अप्रत्यनीकं निरतिशयसुखोपभोगं च स्वर्गवासिनाम् अभिसमीक्ष्यार्थत्यागेन **सत्यं** परिगृह्णीयात् स्वर्गप्राप्तिसाधनम् । अथ वा पाठान्तरम् अस्येदम् अन्यत्- "सत्यम् अर्थेषु" व्यवहारेषु **संपश्येत्** । न छलम् इति छलप्रतिषेधार्थो ऽयम् आरम्भयत्नः । शेषम् अन्यद् यथोक्तम् ॥ ८.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	When engaged in judicial proceedings he must pay full attention to the truth, to the object (of the dispute), (and) to himself, next to the witnesses, to the place, to the time, and to the aspect.
 </details>

@@ -2,6 +2,11 @@
 title = "034 न तादृशम्"
 +++
 
+<details><summary>Bühler</summary>
+
+034	After death the guilt of one who slays deer for gain is not as (great) as that of him who eats meat for no (sacred) purpose.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sin of the man who kills animals for gain is not so great, after death, as that of the man who eats needlessly-prepared meat.—(34)
@@ -35,11 +40,6 @@ Vi *ṣ* ṇ u (51.62).—(Same as Manu.)
 <details><summary>गोविन्दराजः</summary>
 
 **न तादृशम्** इति । मृगवधजीविशबलादिव्यतिरिक्तस्य धननिमित्तं मृगाणां हन्तुः न तथाविधं पापं भवति यादृगकृतदेवाद्यर्चनानि **खादतः** परलोके भवतीतिपूर्वार्थवाद एव ॥ ५.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	After death the guilt of one who slays deer for gain is not as (great) as that of him who eats meat for no (sacred) purpose.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "045 एतावान् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	He only is a perfect man who consists (of three persons united), his wife, himself, and his offspring; thus (says the Veda), and (learned) Brahmanas propound this (maxim) likewise, 'The husband is declared to be one with the wife.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man is a man only in so far as he consists of himself, his wife and his progeny. thus it is that the Brāhmaṇas have declared that ‘the husband is declared to be the same as the wife.’—(45)
@@ -46,9 +51,4 @@ wife;—for from the time of marriage, they are united in religious ceremonies;�
 <details><summary>भारुचिः</summary>
 
 यतश् चैतद् एवम् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-045	He only is a perfect man who consists (of three persons united), his wife, himself, and his offspring; thus (says the Veda), and (learned) Brahmanas propound this (maxim) likewise, 'The husband is declared to be one with the wife.'
 </details>

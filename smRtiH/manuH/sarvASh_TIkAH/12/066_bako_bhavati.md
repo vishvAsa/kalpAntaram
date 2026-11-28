@@ -3,6 +3,11 @@ title = "066 बको भवति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	For stealing fire he becomes a heron, for stealing household-utensils a mason-wasp, for stealing dyed clothes a francolin-partridge;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing fire, a heron; for stealing utensils, a ‘Gṛhakāri’-bird; for stealing red clothes, one is born as a ‘Jīvajīvaka’-bird—(66)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>गोविन्दराजः</summary>
 
 **बक** इति । अग्निं हृत्वा बकाख्यः पक्षी जायते । गृहोपयोगिघटमुशलादि हृत्वा गृहकारी च रूढमक्षिकाख्यः कीटो भवति । कुसुभादिरक्तानि वासांसि हृत्वा जीवजीवकाख्यः पक्षी भवति ॥ १२.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	For stealing fire he becomes a heron, for stealing household-utensils a mason-wasp, for stealing dyed clothes a francolin-partridge;
 </details>

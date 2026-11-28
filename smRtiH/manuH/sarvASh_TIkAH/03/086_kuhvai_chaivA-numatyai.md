@@ -3,6 +3,11 @@ title = "086 कुह्वै चैवाऽनुमत्यै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+086	Further to Kuhu (the goddess of the new-moon day), to Anumati (the goddess of the full-moon day), to Pragapati (the lord of creatures), to heaven and earth conjointly, and finally to Agni Svishtakrit (the fire which performs the sacrifice well).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To Kuhū, to Anumati, and to Prajāpati; then to Dyauḥ—Pṛthivī jointly, and finally to Sviṣṭakṛt,’—(86)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **कुह्वै चैवेति **। “स्वाहाकारप्रदा(धा)ना होमा” इति स्मरणात् अग्नये स्वाहा सोमाय स्वाहा इत्येवमादौ कृत्वा ततो ऽग्नीषोमाभ्यां स्वाहेत्य् अग्नीषोमयोः समस्तहोर् होमं कुर्यात् । तद् अनु विश्वेभ्यो देवेभ्यो हुत्वा धन्वन्तरये **कुह्वै** अनुमत्यै प्रजापतये द्यावापृथिवीभ्यां अन्ते अग्नये स्विष्टकृत इत्य् एवं गृह्ये ऽग्निविशेषणत्वात् स्विष्टकृत एते स्वाहाकारान्तहोमाः कार्याः ॥ ३.८५–८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	Further to Kuhu (the goddess of the new-moon day), to Anumati (the goddess of the full-moon day), to Pragapati (the lord of creatures), to heaven and earth conjointly, and finally to Agni Svishtakrit (the fire which performs the sacrifice well).
 </details>

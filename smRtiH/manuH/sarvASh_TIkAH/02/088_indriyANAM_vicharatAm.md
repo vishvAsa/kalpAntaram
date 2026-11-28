@@ -2,6 +2,11 @@
 title = "088 इन्द्रियाणां विचरताम्"
 +++
 
+<details><summary>Bühler</summary>
+
+088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man should put forth an effort to restrain his organs roaming among alluring objects; just as the driver restrains the horses.—(88)
@@ -70,11 +75,6 @@ roaming sense-organs, it deprives him of his wisdom; just as the storm destroys 
 <details><summary>गोविन्दराजः</summary>
 
 **इन्द्रियाणाम्** इति । **इन्द्रियाणां** चक्षुरादीनां **विषयेषु **रूपादिषु **अपहारिषु **च उपभोगार्थम् आकर्षनशीलेषु यथेच्छं प्रवर्तमानानां नियमने प्रयत्नं कुर्यात्, यथा शिक्षितः सारथिः रथ्यारब्धानाम् अश्वानां नियमने यत्नं करोति ॥ २.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
 </details>
 
 <details><summary>भारुचिः</summary>

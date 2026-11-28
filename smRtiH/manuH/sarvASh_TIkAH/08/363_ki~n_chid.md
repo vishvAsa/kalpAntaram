@@ -3,6 +3,11 @@ title = "363 किञ् चिद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+363	Yet he who secretly converses with such women, or with female slaves kept by one (master), and with female ascetics, shall be compelled to pay a small fine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Yet he who secretly carries on conversation with these women, or with maidservants devoted to one master, or with female ascetics, should be made to pay something.—(363)
@@ -100,9 +105,4 @@ See Comparative notes for [Verse 8.362].
 <details><summary>भारुचिः</summary>
 
 **रह** इति चैतद् विशेषणं सर्वशेषम् ॥ ८.३६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-363	Yet he who secretly converses with such women, or with female slaves kept by one (master), and with female ascetics, shall be compelled to pay a small fine.
 </details>

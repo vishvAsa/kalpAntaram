@@ -3,6 +3,11 @@ title = "294 प्राजकश् चेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+294	If the driver is skilful (but negligent), he alone shall be fined; if the driver is unskilful, the occupants of the carriage (also) shall be each fined one hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When however, on account of the driver’s ineptitude, the cart turns off and causes injury, the owner shall be punished with a fine of two hundred.—(293) If the driver is a trained one, it is he that should be punished; if the driver is untrained, all the occupants of the cart should be fined a hundred each.—(294)
@@ -75,9 +80,4 @@ See Comparative notes for [Verse 8.290].
 <details><summary>भारुचिः</summary>
 
 कुशले प्राजके प्रा[जक एव दण्ड्यः । युग्यस्था]स् तु युग्यस्वामिप्रभृतिर्, यानास्वामिनो ऽपि सन्तः, अकुशले सति प्रत्येकं शतं शतं दण्ड्या भवेयुः । येन [प्राजको] ऽनाप्तः युग्यस्वामिनां देशान्तरा[दिगमनाय प्र]युक्तः, नान्यथा । शतं दण्डत्वं चाविवक्षितम् इति कृतव्याख्यानम् एतत् ॥ ८.२९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-294	If the driver is skilful (but negligent), he alone shall be fined; if the driver is unskilful, the occupants of the carriage (also) shall be each fined one hundred (panas).
 </details>

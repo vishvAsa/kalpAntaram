@@ -3,6 +3,11 @@ title = "415 ध्वजाहृतो भक्तदासो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+415	There are slaves of seven kinds, (viz.) he who is made a captive under a standard, he who serves for his daily food, he who is born in the house, he who is bought and he who is given, he who is inherited from ancestors, and he who is enslaved by way of punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There are seven kinds of slaves—(1) captured under a banner, (2) slave on food, (3) born in the house, (4) bought, (5) presented, (6) hereditary, and (7) slave by punishment.—(415)
@@ -141,9 +146,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 **ध्वजाहृतो** युद्धनिर्जितः । **भक्तदास** उदरप्रविष्टः । **गृहजो** दासीपुत्रः । **कृईतदत्त्रिमौ** प्रसिद्धौ । **पैत्रिको** दासीपुत्रः पितृपर्यायागतः । दण्डदासस् त्व् अविद्यमानधनो दण्डितः दण्डेनात्मानं प्रवेशयति । एताः सप्त **दासयोनयः** । आसाम् मध्ये अन्यतमयाप्य् उपेतो दासाख्यं लभते । यस् तु विद्यमानविभवः शूद्रः स्वशक्त्या जीवति नासौ परमार्थतो दासो वेदितव्यः । इतरथास्यानर्थक्यम् अस्य दासयोन्यर्थस्य श्लोकस्य स्यात् ॥ ८.४१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-415	There are slaves of seven kinds, (viz.) he who is made a captive under a standard, he who serves for his daily food, he who is born in the house, he who is bought and he who is given, he who is inherited from ancestors, and he who is enslaved by way of punishment.
 </details>

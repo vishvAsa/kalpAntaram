@@ -3,6 +3,11 @@ title = "167 बलस्य स्वामिनश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+167	If the army stops (in one place) and its master (in another) in order to effect some purpose, that is called by those acquainted with the virtues of the measures of royal policy, the twofold division of the forces.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, for the accomplishment of some purpose, the Master takes up one position and the Force another,—this is what is described as ‘Bifurcation’ by those conversant with the details of the six measures of policy.—(167)
@@ -61,9 +66,4 @@ when the man himself has recourse to duplicity and (2) *Paratantra*, in which a 
 <details><summary>भारुचिः</summary>
 
 बलवताभिभूतो दुर्गापाश्रयो द्विविधा बलं कृत्वा स्वकार्यसिद्धिं कुर्यात् । समर्थो वा परानुग्रहे निरण्यादिफलापेक्षया बलस्य केनचिद् अंशेन ऽन्यं राजानम् अनुगृह्णीयात् ॥ ७.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	If the army stops (in one place) and its master (in another) in order to effect some purpose, that is called by those acquainted with the virtues of the measures of royal policy, the twofold division of the forces.
 </details>

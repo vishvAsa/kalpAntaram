@@ -3,6 +3,11 @@ title = "149 ब्राह्मणस्याऽनुपूर्व्य�
 
 +++
 
+<details><summary>Bühler</summary>
+
+149	If there be four wives of a Brahmana in the direct order of the castes, the rule for the division (of the estate) among the sons born of them is as follows:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If to a Brāhmaṇa there be four wives in due order,—for partition among the sons born of these, the rule has been declared to be as follows.—(149)
@@ -74,9 +79,4 @@ the same caste as the father, the other of a wife of the next lower caste,—if 
 <details><summary>भारुचिः</summary>
 
 **आनुपूर्व्य**ग्रहणम् [अनुवादार्थ]म् । **यदि**ग्रहणं चानित्यार्थम् । तथा चोक्तम् "कामतस् तु प्रवृत्तानाम् इमाः स्युः क्रमशो ऽवराः" इति ॥ ९.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-149	If there be four wives of a Brahmana in the direct order of the castes, the rule for the division (of the estate) among the sons born of them is as follows:
 </details>

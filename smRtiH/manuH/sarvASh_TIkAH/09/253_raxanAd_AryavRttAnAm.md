@@ -3,6 +3,11 @@ title = "253 रक्षनाद् आर्यवृत्तानाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+253	By protecting those who live as (becomes) Aryans and by removing the thorns, kings, solely intent on guarding their subjects, reach heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Kings, intent upon protecting the people, go to heaven, by protecting the Well-behaved and by removing the ‘thorns’—(253)
@@ -111,9 +116,4 @@ kingdom, that sin, becoming magnified, destroys the very roots of the King.’
 <details><summary>भारुचिः</summary>
 
 उभयानुग्रहाद् युक्तं राज्ञां त्रिदिवगमनं रक्षताम् । अतः संरक्षणीयधर्मापक्षम् अपि चैतद् युक्तम् । एवं चावश्यं रक्षणीयाः । वृत्तिसंरक्षणाच् च । न चासति फलसंबन्धे इयती स्तुतिर् उपलभ्यते । शास्त्रलक्षणत्वाच् च धर्माधर्मयोर् उत्पत्तिवत् फलारम्भो ऽपि फलाच् छ्रद्दधनीयः । यतश् चैतद् एवम् अतः ॥ ९.२५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	By protecting those who live as (becomes) Aryans and by removing the thorns, kings, solely intent on guarding their subjects, reach heaven.
 </details>

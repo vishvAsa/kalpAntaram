@@ -3,6 +3,11 @@ title = "121 कामाद् दशगुणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+121	(He who does it) through lust, (shall pay) ten times the lowest amercement, but (he who does it) through wrath, three times the next (or second amercement); (he who does it) through ignorance, two full hundreds, but (he who does it) through childishness, one hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If through lust, ten times the first; if through anger, three times the next; if through ignorance, full two hundred; and if through childishness, only a hundred.—(121)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 8.118].
 <details><summary>गोविन्दराजः</summary>
 
 **कामाद्** इति । कामेनानृतं वदन् प्रथमसाहसं दशगुणं दण्ड्यः । क्रोधेनोत्तमसाहसं वक्ष्यमाणं त्रिगुणम् । अज्ञानेन द्वे शते पणे सम्पूर्णे मअर्ख्येण शतम् एव च ॥ ८.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	(He who does it) through lust, (shall pay) ten times the lowest amercement, but (he who does it) through wrath, three times the next (or second amercement); (he who does it) through ignorance, two full hundreds, but (he who does it) through childishness, one hundred (panas).
 </details>

@@ -3,6 +3,11 @@ title = "258 विसृज्य ब्राह्मणांस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+258	Having dismissed the (invited) Brahmanas, let him, with a concentrated mind, silent and pure, look towards the south and ask these blessings of the manes:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having dismissed those Brāhmaṇas, he, with collected mind, controlled in speech and pure, turning towards the southern quarter, shall beg these boons of his ancestors.—(258)
@@ -52,9 +57,4 @@ the *imperishable water*; then he shall address the words—*Viśvedevāḥ priy
 <details><summary>गोविन्दराजः</summary>
 
 **विसृज्येति । तान् ब्राह्मणान् विसृज्य **अनन्यमनाः शुचिः सन् **दक्षिणां दिशम् **ईक्षमाणः **इमान् **वक्ष्यमाणान् अभिलषितार्थान् **पितॄन् **प्रार्थयेत् ॥ ३.२५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-258	Having dismissed the (invited) Brahmanas, let him, with a concentrated mind, silent and pure, look towards the south and ask these blessings of the manes:
 </details>

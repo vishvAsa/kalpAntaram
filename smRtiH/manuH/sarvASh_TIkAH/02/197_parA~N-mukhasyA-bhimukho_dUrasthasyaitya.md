@@ -3,6 +3,11 @@ title = "197 पराङ्-मुखस्याऽभिमुखो दू�
 
 +++
 
+<details><summary>Bühler</summary>
+
+197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Facing him, when the teacher has his pace averted; going near him, when the teacher is at a distance; bowing low, when the teacher is lying down, as also if he is standing close by.—(197)
@@ -43,9 +48,4 @@ away;—if he is far away, he should approach near him;—if he is lying down, h
 पराङ्मुखस्य वादिशतः संमखस्थो, दूरस्थस्यगुरोः समीपमागत्य, शयानस्यगुरोः प्रणम्य
 
 ग्रहो भूत्वा, निदेशे निकटेऽवतिष्ठतो गुरोरा दिशतः प्रह्वीभूयैव प्रतिश्रवणसंभाषे कुर्यात् ॥१९७॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.
 </details>

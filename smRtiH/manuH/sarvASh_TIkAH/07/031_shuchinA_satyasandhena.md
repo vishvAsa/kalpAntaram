@@ -3,6 +3,11 @@ title = "031 शुचिना सत्यसन्धेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	By him who is pure (and) faithful to his promise, who acts according to the Institutes (of the sacred law), who has good assistants and is wise, punishment can be (justly) inflicted.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Punishment can be administered by one who is pube, who is true to his word, who acts according to the Law, who has good assistants and is wise.—(31)
@@ -65,9 +70,4 @@ king frightens his people; and inflicting light ones, he ceases to be feared. Th
 <details><summary>भारुचिः</summary>
 
 **शुचिना** जितेन्द्रियेण, **सत्यसंधेन** प्रकरणाद् अलुब्धेन, **यथाशस्त्रानुसारिणा** अमूढेन, **सुसहायेन** नासहायेन मूर्खसहायेन वा, **धीमता** कृतशास्त्रप्रज्ञेन स्मृतिमता वा ॥ ७.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	By him who is pure (and) faithful to his promise, who acts according to the Institutes (of the sacred law), who has good assistants and is wise, punishment can be (justly) inflicted.
 </details>

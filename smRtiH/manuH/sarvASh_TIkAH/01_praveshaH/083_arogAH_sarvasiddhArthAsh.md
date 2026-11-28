@@ -2,6 +2,11 @@
 title = "083 अरोगाः सर्वसिद्धार्थाश्"
 +++
 
+<details><summary>Bühler</summary>
+
+083	(Men are) free from disease, accomplish all their aims, and live four hundred years in the Krita age, but in the Treta and (in each of) the succeeding (ages) their life is lessened by one quarter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the Kṛta Cycle, men are free from disease, they have all their aims fulfilled, and their life lasts trhough four hundred years;—During the Tretā and other Cycles, their life becomes shortened, quarter by quarter.—(83).
@@ -70,11 +75,6 @@ See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 <details><summary>गोविन्दराजः</summary>
 
 **अरोगा **इति । **अरोगाः **रोगनिमित्तस्याधर्मस्याभावात्, **सर्वसिद्धार्थाः **सिद्धसकलपाम्यफलाः । प्रतिबन्धकस्याधर्मस्याभावात् **चतुर्वर्षशतायुषः **पुराणदृष्ट्या । तद् आह स्वाभाविकम् एतद् आयुः अत आयुः प्रापककर्मकरणेन अधिकायुषो ऽपि भवन्ति । तेन दशवर्षसहस्राणि रामो राज्यम् अकारयत्, इत्य् अविरोधः । “शतायुर् वाइ पुरुषः” इत्यादिश्रुतौ च शतशब्दो बह्वर्थः । शतसहस्रशब्दयोः बहुनामस्व् आम्नातत्वात् । एवंविधा मनुष्याः क्र्ते भवन्ति । **त्रेतादिषु ** पुनर् एषां पादं पादं **वयः** अल्पीभवति ॥ १.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	(Men are) free from disease, accomplish all their aims, and live four hundred years in the Krita age, but in the Treta and (in each of) the succeeding (ages) their life is lessened by one quarter.
 </details>
 
 <details><summary>भारुचिः</summary>

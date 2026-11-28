@@ -3,6 +3,11 @@ title = "044 या वेद-विहिता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	Know that the injury to moving creatures and to those destitute of motion, which the Veda has prescribed for certain occasions, is no injury at all; for the sacred law shone forth from the Veda.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **वेदविहितो यः** प्राणिवधः सो **ऽस्मिञ्** जगति **चराचरे** स्थावरजङ्गमे नित्यो ऽनादिः । यस् तु तन्त्रादिः सो ऽन्वयव्यतिरेकभ्रान्त्या इदानींतनः । अतो वैदिकीम् हिंसाम्[^१२५] अहिंसाम् एव विद्यात्, अमुत्र प्रत्यवायाभावात् । **अहिंसेति** कार्यत उच्यते न स्वरूपतः ।
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 5.42].
 <details><summary>गोविन्दराजः</summary>
 
 कथं पुनस् तुल्ये प्राणिव्यपादने लौकिक्या अधर्मः शास्त्रीयाया धर्म इत्य् अत आह **येति **। **या **शास्त्रनोदिता **हिंसा **स्थावरजङ्गमे **ऽस्मिन् **जगति अनादिकालप्रवृत्तां तां हिंसाकार्याभावाद् **अहिंसाम् एव विद्यात् **। अतो नान्यप्रमाणको धर्मो **वेदाद् **एव **निर्बभौ** प्रकाशताम् गतः । एवं च नात्र कुतार्किकवितर्का आक्रमन्ते ॥ ५.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	Know that the injury to moving creatures and to those destitute of motion, which the Veda has prescribed for certain occasions, is no injury at all; for the sacred law shone forth from the Veda.
 </details>

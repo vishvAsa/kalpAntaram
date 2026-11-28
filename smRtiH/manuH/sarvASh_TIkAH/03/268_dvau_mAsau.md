@@ -3,6 +3,11 @@ title = "268 द्वौ मासौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+268	Two months with fish, three months with the meat of gazelles, four with mutton, and five indeed with the flesh of birds,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For two months by fish-meat; for three months by the meat of deer; for four by that of sheep, and for five by that of birds.—(268)
@@ -46,9 +51,4 @@ that of old goat.’
 
 *Mahābhārata* (13.88.5)—‘The satisfaction of Pitṛs, obtained with fish,
 lasts for two months.’
-</details>
-
-<details><summary>Bühler</summary>
-
-268	Two months with fish, three months with the meat of gazelles, four with mutton, and five indeed with the flesh of birds,
 </details>

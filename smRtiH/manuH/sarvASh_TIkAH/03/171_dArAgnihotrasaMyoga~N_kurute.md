@@ -2,6 +2,11 @@
 title = "171 दाराग्निहोत्रसंयोगङ् कुरुते"
 +++
 
+<details><summary>Bühler</summary>
+
+171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who unites himself with “wife” and “Agnihotra,” while his elder remains, is to be regarded as the “superseder of his elder;” and the elder is to be regarded as “one who is superseded.”’—(171)
@@ -128,11 +133,6 @@ marries before such brothers as are the sons of uncles or of step-mothers, or of
 <details><summary>गोविन्दराजः</summary>
 
 परिवेत्त्रादीन् अप्रसिद्धत्वाल् लक्षयति **दानाग्निहोत्रसंयोगम्** इति । यो ज्येष्ठे भ्रातरि अकृतदारके सति दारश्रौतस्मार्ताग्न्यानयनं कुरुते **स परिवेत्ता, **ज्येष्ठश् च **परिवित्तिर्** बोध्यः ॥ ३.१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.
 </details>
 
 <details><summary>भारुचिः</summary>

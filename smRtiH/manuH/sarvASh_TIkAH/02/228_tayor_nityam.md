@@ -2,6 +2,11 @@
 title = "228 तयोर् नित्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always do what is pleasing to those two and to the preceptor; on these three being satisfied, all austerity becomes completed.—(228)
@@ -41,11 +46,6 @@ See Comparative notes for [Verse 2.225].
 <details><summary>गोविन्दराजः</summary>
 
 तस्मात् **तपोनित्यम्** इति । मातापित्राचार्याणां यावज्जीवं **प्रियं कुर्यात्** । न च तपोन्तरासक्त्या तत्प्रियोपेक्षया कार्या। तस्मात् **तेष्व् एव **च तुष्टेषु **सर्वं** **तपः**फलं सम्यक् **प्राप्यते** ॥ २.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
 </details>
 
 <details><summary>भारुचिः</summary>

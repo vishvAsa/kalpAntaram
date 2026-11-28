@@ -2,6 +2,11 @@
 title = "166 वेदम् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The best of Brāhmaṇas, desiring to acquire piety, should constantly repeat the Veda; because for the Brāhmaṇa, Veda-repeating is declared to be the highest penance on earth.—(100)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 2.165].
 <details><summary>गोविन्दराजः</summary>
 
 प्रसङ्गात् यावज्जीवम् अध्ययनधर्मम् आह **वेदम्** इति । **तपः **यमनियमादि कर्तुम् इच्छन् ब्राह्मणः **वेदम् एव **यावज्जीवम् **अभ्यस्येत् **। यस्माद् **वेदाभ्यासः **तस्य तपो ऽन्तरेभ्यः प्रकृष्टं **तपः **शास्त्रे उच्यते । द्विजोत्तमस्य ग्रहणं (द्विजपर्दर्शनार्थम्) त्रयाणां प्रदर्शनार्थम् । प्रकृतत्वाद् एवार्थवादः ॥ २.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

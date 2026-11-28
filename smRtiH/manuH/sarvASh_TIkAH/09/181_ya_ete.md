@@ -3,6 +3,11 @@ title = "181 य एते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+181	Those sons, who have been mentioned in connection with (the legitimate son of the body), being begotten by strangers, belong (in reality) to him from whose seed they sprang, but not to the other (man who took them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those sons born of the seed of strangers that have been described here by the way, belong to him from whose seed they are born, and not to any other person.—(181)
@@ -62,9 +67,4 @@ begetter.”—They quote also the following—“Having considered myself forme
 <details><summary>भारुचिः</summary>
 
 पौनर्भवशौद्रौ द्वौ परित्यज्य नव पुत्रा **अन्यबीजजाः** उच्यन्ते । तेषाम् औरसेनानिरस्तानां बीजिनां सति संभवे भागित्व[म् । येषां तु] बीजी न ज्ञायेत यथा गूढोत्पन्नकानीनसहोढानां तेषाम् उभयत्राभागित्वे केवलं प्रजीवनमात्रम् एभ्यो दीयते, तच् चानृशंसावचनात् सर्वेषाम् [अभ्यनु]ज्ञातम् । औरसप्रशंसार्थो ऽयं श्लोकः इत्य् अपरे, येन किंचिद् अपि न विधीयते प्रतिषिध्यते वा । अथ वा प्रतिनिध्[एः प्रध्]आनासमानकार्यत्वप्रदर्शनार्थो ऽयं श्लोकः ॥ ९.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	Those sons, who have been mentioned in connection with (the legitimate son of the body), being begotten by strangers, belong (in reality) to him from whose seed they sprang, but not to the other (man who took them).
 </details>

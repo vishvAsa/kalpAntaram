@@ -3,6 +3,11 @@ title = "180 यो यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+180	In whatever manner a person shall deposit anything in the hands of another, in the same manner ought the same thing to be received back (by the owner); as the delivery (was, so must be) the re-delivery.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the form in which one shall deposit a thing in the hands of another person, in that same form shall that thing be received back; as the delivery so the recovery.—(180)
@@ -94,9 +99,4 @@ one going on a long journey, a pledge, something handed over for being delivered
 <details><summary>भारुचिः</summary>
 
 यस्माद् उभयथा निक्षेपो दृष्टः समुद्रो विमुद्रश् च, असाक्षितस् सुसाक्षितश् च, संख्यातो ऽसंख्यातश् च, तस्माद् इदम् उच्यते- **यथा दायस् तथा ग्रहः** । **मानव**ग्रहणाच् चेह विज्ञायते- पूर्वश्लोके **आर्य**ग्रहणं सर्ववर्णार्थम्, न तु द्विजातिविषयम् । एवं च सति दानप्रतिदानयोस् तुल्यक्रिययोर् निक्षेपधारकस्याभियोगो न जायते ॥ ८.१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	In whatever manner a person shall deposit anything in the hands of another, in the same manner ought the same thing to be received back (by the owner); as the delivery (was, so must be) the re-delivery.
 </details>

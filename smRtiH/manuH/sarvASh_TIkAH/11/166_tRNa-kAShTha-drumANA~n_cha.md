@@ -3,6 +3,11 @@ title = "166 तृण-काष्ठ-द्रुमाणाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+167	Fasting during three (days and) nights shall be (the penance for stealing) grass, wood, trees, dry food, molasses, clothes, leather, and meat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There should be fasting for three days, in the case of stealing grass, wood, trees, dry food, molasses, clothes, leather and meat.—(166)
@@ -62,9 +67,4 @@ sugar, clothes, skins, or flesh,—the thief must fast for three days.’
 <details><summary>भारुचिः</summary>
 
 तृणादीनां सारापेक्षया प्रायश्चित्तम् । सत्य् अपि च पेयत्वे पय आदीन्य् अपि भक्ष्यभोज्यान्तर्भूतानि द्रष्टव्यानि । **शुष्कान्नं** पर्पटकादि । **गुड**ग्रहणं सर्वगुडविकारार्थम् । **चेल**ग्रहणं शाणक्षौमदुकूलाद्यर्थम् । कार्पासादीनां त्व् अन्यत् प्रायश्चित्तं वक्ष्यति ॥ ११.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	Fasting during three (days and) nights shall be (the penance for stealing) grass, wood, trees, dry food, molasses, clothes, leather, and meat.
 </details>

@@ -2,6 +2,11 @@
 title = "051 न कन्यायाः"
 +++
 
+<details><summary>Bühler</summary>
+
+051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The girl’s father, if wise, should not accept even a small consideration; by accepting a consideration, through greed, the man becomes a child-seller.—(51).
@@ -49,11 +54,6 @@ to the girl’s guardian has been prescribed with a view to securing a special e
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । **कन्यायाः पिता** धनग्रहणदोषज्ञः स्वल्पम् अपि कन्यादानविनिमयरूपधनं **न गृह्णीयात्** । यस्माल् **लोभेन **तद् **गृह्णन् अपत्यविक्रयी **भवेत् ॥ ३.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
 </details>
 
 <details><summary>भारुचिः</summary>

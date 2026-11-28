@@ -3,6 +3,11 @@ title = "077 अचक्षुर् विषयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never approach a place difficult of access, which is not within range of his vision; he shall not look at urine or excreta; nor shall he cross a river with his arms—(77)
@@ -76,9 +81,4 @@ fruit-gathering, crossing over difficult places......, these he shall not do.’
 <details><summary>गोविन्दराजः</summary>
 
 **अचक्षुर्विषयम्** इति । चक्षुर्गोचरो यो न भवति दुर्गमो देशः तं कदाचिद् अपि न गच्छेत् । मूत्रपुरीषे च नो**दीक्षेत** । **बाहुभ्यां नद्य्**आदि** न तरेत् ॥ ४.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.
 </details>

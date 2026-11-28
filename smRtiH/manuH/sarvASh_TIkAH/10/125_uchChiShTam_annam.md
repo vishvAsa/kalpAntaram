@@ -3,6 +3,11 @@ title = "125 उच्छिष्टम् अन्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+125	The remnants of their food must be given to him, as well as their old clothes, the refuse of their grain, and their old household furniture.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Remnants of food and worn-out clothes shall be given to him; as also the grain-refuse and old furniture.—(125)
@@ -62,9 +67,4 @@ umbrellas, garments, and sitting mats; and shall eat the remnants of their food.
 > **जीर्णाश् चैव परिच्छदाः  ॥ १०.१२५ ॥**
 
 आसनशयनास्तरणोपधानादयः । एवंविधो ऽपि च ॥ १०.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	The remnants of their food must be given to him, as well as their old clothes, the refuse of their grain, and their old household furniture.
 </details>

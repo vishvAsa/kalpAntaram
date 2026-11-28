@@ -3,6 +3,11 @@ title = "091 न च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	Let him not strike one who (in flight) has climbed on an eminence, nor a eunuch, nor one who joins the palms of his hands (in supplication), nor one who (flees) with flying hair, nor one who sits down, nor one who says 'I am thine;'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall hot strike one who is standing on the ground, nor one who is a eunuch, nor the supp?icant (supplicant?) with joined palms, nor one with loosened hair, nor one who is seated, nor one who says ‘i am yours;’—(91)
@@ -61,9 +66,4 @@ engaged with another, who is not actively engaged in fight, who is seeking shelt
 <details><summary>गोविन्दराजः</summary>
 
 **न चेति** । युद्धभूमिं त्यक्त्वा स्थलम् **आरूढं** नपुंसकं बद्धाञ्जलिं, मुक्तकेशोपविष्टं त्वदीयो ऽहम् इत्य् एवं वक्तारं **न हन्यात्** ॥ ७.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	Let him not strike one who (in flight) has climbed on an eminence, nor a eunuch, nor one who joins the palms of his hands (in supplication), nor one who (flees) with flying hair, nor one who sits down, nor one who says 'I am thine;'
 </details>

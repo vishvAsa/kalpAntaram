@@ -2,6 +2,11 @@
 title = "191 चोदितो गुरुणा"
 +++
 
+<details><summary>Bühler</summary>
+
+191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Prompted by the Teacher, or even when not prompted, he should put forth his exertion to study, and also to doing what is helpful to the teacher.—(191)
@@ -59,11 +64,6 @@ teacher.’
 <details><summary>गोविन्दराजः</summary>
 
 **नोदित** इति । **गुरुणा **नियुक्तः अनियुक्तो वा गृहीताध्ययनभागाभ्यासयत्नम् आचार्यपरिचार्यायत्नं यावद् ब्रह्मचर्यं **कुर्यात्** ॥ २.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

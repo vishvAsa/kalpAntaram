@@ -3,6 +3,11 @@ title = "070 कृमि-कीट-वयो-हत्या मद्यान
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	Killing insects, small or large, or birds, eating anything kept close to spirituous liquors, stealing fruit, firewood, or flowers, (are offences) which make impure (Malavaha).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The killing of insects, worms and birds,—the eating of things touched by wine,—the stealing of fruits, fuel or flowers—and inconstancy—are conducive to impurity.—(76)
@@ -59,9 +64,4 @@ animals, and worms or insects, eating herbs resembling intoxicants,—such are t
 <details><summary>भारुचिः</summary>
 
 जातिभ्रंशकरसंकरीकरणापात्रीकरणमलिनीकरणानां वर्गशस् संज्ञानिर्देशश् चतुर्भिः श्लोकैः । अस्य प्रयोजनम् । वर्गश एव प्रायश्चित्तोपदेशो यथा स्यात् । वक्ष्यति हि "जातिभ्रंशकरं कर्म कृत्वा" इत्य् एवमादि ॥ ११.६६–६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	Killing insects, small or large, or birds, eating anything kept close to spirituous liquors, stealing fruit, firewood, or flowers, (are offences) which make impure (Malavaha).
 </details>

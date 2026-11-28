@@ -2,6 +2,11 @@
 title = "146 उत्पादक-ब्रह्मदात्रोर् गरीयान्"
 +++
 
+<details><summary>Bühler</summary>
+
+146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Between the progenitor and the imparter of the veda, the imparter op the veda is the more venerable father; for the brāhmaṇa’s “birth” is the veda, eternally,—here as well as after death.—(146)
@@ -60,11 +65,6 @@ the physical body.’
 <details><summary>गोविन्दराजः</summary>
 
 **उत्पादकेति **। संस्कारादिकरणरहितोत्पादकाचार्ययोः पित्रोः आचार्याख्यः **पिता** प्रशस्ततरः । यस्माद् ब्रह्मग्रहणार्थं यज् जन्म उपनयनाख्यं विप्रस्य तद् **इह** लोके **शाश्वतं** नित्यं पारम्पर्येण मुक्तिनिमित्तत्वात् । अतश् च जनकमातृपित्राचार्यसन्निधाव् आचार्य एवादौ पूजनीयः । विप्रग्रहणं द्विजप्रदर्शनाच् च त्रयाणां प्रकृतत्वाच् च ॥ २.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
 </details>
 
 <details><summary>भारुचिः</summary>

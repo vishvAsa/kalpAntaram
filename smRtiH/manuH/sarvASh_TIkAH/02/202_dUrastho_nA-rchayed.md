@@ -3,6 +3,11 @@ title = "202 दूरस्थो नाऽर्चयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+202	He must not serve the (teacher by the intervention of another) while he himself stands aloof, nor when he (himself) is angry, nor when a woman is near; if he is seated in a carriage or on a (raised) seat, he must descend and afterwards salute his (teacher).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should not offer his worship to the teacher while at a distance from him; nor when angry, nor near a woman. If seated upon a conveyance or a seat, he should come down and then salute him.—(202)
@@ -95,9 +100,4 @@ repeating Mantras, or attending a sacrificial session, or carrying fuel, flowers
 <details><summary>गोविन्दराजः</summary>
 
 **दूरस्थ** इति । **दूरस्थः** सन् परहस्तपुष्पप्रेषणेनाचार्यं नार्चयेत्, नाप्य् एनं प्रत्युपजातक्रोधम्, न च भार्याणां समीपस्थम् **अर्चयेत् **। **यानासनस्थश् च** यदा भवति तदा अवतीर्यैनम् **अभिवादयेत्** । यानासनस्थास् चैवैनं प्रत्युत्थायाभिवादयेत् । अनेन चावरुह्याभिवादयेत् । तत्र नीचयानासनात् अनुत्थायाप्य् अवरोहणं सम्भवति एतद् उक्तं प्रत्युत्थायाभिवादयेत् । गन्त्रीगवादियानासनस्थस्यापि चोत्थानं सम्भवति अत उक्तम् **अवरुह्याभिवादयेद्** इति ॥ २.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	He must not serve the (teacher by the intervention of another) while he himself stands aloof, nor when he (himself) is angry, nor when a woman is near; if he is seated in a carriage or on a (raised) seat, he must descend and afterwards salute his (teacher).
 </details>

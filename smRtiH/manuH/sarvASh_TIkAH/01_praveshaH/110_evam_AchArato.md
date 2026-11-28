@@ -2,6 +2,11 @@
 title = "110 एवम् आचारतो"
 +++
 
+<details><summary>Bühler</summary>
+
+110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus seen that virtue is got at from Right Behaviour, the sages regarded Right Behaviour as the very root of all Austerity.—(110)
@@ -40,11 +45,6 @@ results.—‘*Having seen that virtue is got at*,’—acquired—‘*from Righ
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवम् आचारद् धर्मस्य **प्राप्तिम् ऋषयो बुद्ध्या कृच्छ्रचान्द्रायणादेस् तपसः सफलात् **परं **प्रकृष्टं मूलकारणं तस्मिन् सति तपसः साफल्याद् **आचारम्** अनुष्ठेयत्वेन गृहीतवन्त इति । एवम् इहाचारास्तुतिः शास्त्रस्तुत्यर्था । उत्तरत्र तु आचारानुष्ठानार्थम् ॥ १.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.
 </details>
 
 <details><summary>भारुचिः</summary>

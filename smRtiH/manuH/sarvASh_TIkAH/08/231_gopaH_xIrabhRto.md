@@ -3,6 +3,11 @@ title = "231 गोपः क्षीरभृतो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+231	A hired herdsman who is paid with milk, may milk with the consent of the owner the best (cow) out of ten; such shall be his hire if no (other) wages (are paid).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the hired cattle-keeper is one paid with milk, he shall, with the owner’s permission, milk the best out of ten; this shall be the ‘wages’ of the keeper, if he receives no other wages.—(231)
@@ -99,9 +104,4 @@ another person shall receive the whole milk every eighth day.’
 <details><summary>भारुचिः</summary>
 
 **क्षीरभृतो** [न] भ्क्ताच्छादनभृतो, द्विविधो यस्माद् गोपः । अत इदं विशेष्यते । **क्षीरभृतो यस् तु गोपः स दुहेद् दशतः** दशभ्यो धेनुभ्य एकां **वरां** श्रेष्ठाम् इत्य् अर्थः । ताम् अपि च **गोस्वाम्य्** अनुमतः, न स्वेच्छया, **सा स्यात् पाले** भृत्यन्तरेण्**आभृते भृतिः **। एवं च सति पञ्चावस्थासु गोषु बह्ववस्थासु वा गोस्वामिभिर् गोपैश् च त्रिभागः क्षीरस्य कल्पितः परिकल्प्य भोग्याभोग्यरूपाण्य् अनेनैव शास्त्रेण, येनाइतस्माद् एव च दर्शनात् क्षीरभृतिः पशूनां संरकणे न दोषायाप्रतिषेधात् तस्या इति । एवं च सति — ॥ ८.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-231	A hired herdsman who is paid with milk, may milk with the consent of the owner the best (cow) out of ten; such shall be his hire if no (other) wages (are paid).
 </details>

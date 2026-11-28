@@ -3,6 +3,11 @@ title = "244 सार्ववर्णिकम् अन्नाद्यम
 
 +++
 
+<details><summary>Bühler</summary>
+
+244	Let him mix all the kinds of food together, sprinkle them with water and put them, scattering them (on Kusa grass), down on the ground in front of (his guests), when they have finished their meal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having mixed up the food of all kinds and wetted it with water, he should throw it before the Brāhmaṇas who have eaten, scattering it on the ground.—(244)
@@ -47,9 +52,4 @@ ground, with the mantra *Ye agni*, etc.’
 <details><summary>गोविन्दराजः</summary>
 
 **सार्ववर्णिकम्** इति । सर्वप्रकारम् **अन्नाद्यम्** एकीकृत्य उदकेन प्लावयित्वा **भुक्तवतां** ब्राह्मणानाम् अग्रे विक्षिपन् भूमौ “दर्भेषु विकिरश् च यः” इति वक्ष्यमाणलिङ्गात् दर्भेषु समुत्सृजेत् ॥ ३.२४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-244	Let him mix all the kinds of food together, sprinkle them with water and put them, scattering them (on Kusa grass), down on the ground in front of (his guests), when they have finished their meal.
 </details>

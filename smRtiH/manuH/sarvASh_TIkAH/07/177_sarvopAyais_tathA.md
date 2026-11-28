@@ -3,6 +3,11 @@ title = "177 सर्वोपायैस् तथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+177	By all (the four) expedients a politic prince must arrange (matters so) that neither friends, nor neutrals, nor foes are superior to himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By means of all the expedients, the politic king shall act in such a manner that his allies, neutrals and enemies do not become superior to himself.—(177)
@@ -72,9 +77,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328);—‘and *in Nīt
 <details><summary>भारुचिः</summary>
 
 धनादिषु गन्धेन मित्रम् अपि शत्रुतां श्रयते, तथोदासीनशत्रौ तु का कथा । अत उक्तैर् उपायैस् तत्प्रवर्तनेने स्वान् प्रति भान्तम् आत्मानं मित्रादिभ्यो ऽधिकं कुर्यात्, न मित्रमुदासीनो वेत्य् आस्था कर्तव्या ॥ ७.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	By all (the four) expedients a politic prince must arrange (matters so) that neither friends, nor neutrals, nor foes are superior to himself.
 </details>

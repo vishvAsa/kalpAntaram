@@ -3,6 +3,11 @@ title = "254 ग्रामीयक-कुलानाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+254	The witnesses, (giving evidence) regarding a boundary, shall be examined concerning the landmarks in the presence of the crowd of the villagers and also of the two litigants.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Witnesses regarding boundaries shall be questioned in regard to the boundary-marks, in the presence of an assembly of villagers and also of the two contending parties.—(254)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 प्रश्नविधिः ॥ ८.२५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-254	The witnesses, (giving evidence) regarding a boundary, shall be examined concerning the landmarks in the presence of the crowd of the villagers and also of the two litigants.
 </details>

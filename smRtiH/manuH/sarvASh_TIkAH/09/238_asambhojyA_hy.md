@@ -3,6 +3,11 @@ title = "238 असम्भोज्या ह्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+238	Excluded from all fellowship at meals, excluded from all sacrifices, excluded from instruction and from matrimonial alliances, abject and excluded from all religious duties, let them wander over (this) earth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Debarred from entertainments, debarred from sacrifices, debarred from education, excluded from all religious acts, these shall wander over the earth; abject and despised.—(238)
@@ -71,9 +76,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 एष एव तेषां त्यागो विज्ञेयः । तद् एव दर्शयति ॥ ९.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	Excluded from all fellowship at meals, excluded from all sacrifices, excluded from instruction and from matrimonial alliances, abject and excluded from all religious duties, let them wander over (this) earth.
 </details>

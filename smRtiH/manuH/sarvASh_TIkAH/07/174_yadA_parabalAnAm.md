@@ -3,6 +3,11 @@ title = "174 यदा परबलानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+174	But when he is very easily assailable by the forces of the enemy, then let him quickly seek refuge with a righteous, powerful king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he happens to be very much open to attack by the enemy’s forces, then he shall seek shelter with a r ighte ous and powerful King.—(174)
@@ -44,9 +49,4 @@ attacked by a stronger enemy who refuses to make peace, he shall have recourse t
 <details><summary>भारुचिः</summary>
 
 द्वैधीभावम् अप्य् आश्रितो यद्य् आत्मधारणम् अशक्यं मन्यते ततः प्रागभिभवात् **क्षिप्रम्** एव **बलिनं धार्मिकं** च संश्रयेत् । तदभावे ऽन्यम् अपि गुणवन्तम् ॥ ७.१७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	But when he is very easily assailable by the forces of the enemy, then let him quickly seek refuge with a righteous, powerful king.
 </details>

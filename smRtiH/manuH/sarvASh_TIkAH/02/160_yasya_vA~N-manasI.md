@@ -2,6 +2,11 @@
 title = "160 यस्य वाङ्-मनसी"
 +++
 
+<details><summary>Bühler</summary>
+
+160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, whose speech and mind are pure and ever properly guarded, obtains the whole reward recognised by the canons of the Veda.—(160)
@@ -69,11 +74,6 @@ over his mind, his speech, his nose, his ears, his eyes, his tactile organ, his 
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **यस्येति** । **यस्य वाङ्मनसी शुद्धे **विकाररहितौ सत्य् अपि न कालुष्यं गच्छतः । **सम्यग् गुप्ते** चोत्पन्ने न कथञ्चित् कालुष्येण तत् कार्यं कुरुतः **सर्वदा **यावज्जीवम् उपनिषदुक्तं मोक्षाख्यं **फलम्** अखिलं प्राप्नोति ॥ २.१६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
 </details>
 
 <details><summary>भारुचिः</summary>

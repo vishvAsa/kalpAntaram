@@ -3,6 +3,11 @@ title = "095 यक्ष-रक्षः-पिशाचान्नम् म�
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	Sura, (all other) intoxicating drinks and decoctions and flesh are the food of the Yakshas, Rakshasas, and Pisakas; a Brahmana who eats (the remnants of) the offerings consecrated to the gods, must not partake of such (substances).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Intoxicants, meat, wine and distilled liquors are the food of Yakṣas, Rākṣasas and Piśācas; it should not be taken by the Brāhmaṇa who partakes of the offerings to the gods.—(95)
@@ -77,9 +82,4 @@ See Comparative notes for [Verse 11.94].
 <details><summary>भारुचिः</summary>
 
 इति लिङ्गात् सत्य् अपि जात्यर्थविशेषे स्त्रीणाम् अप्रतिषेधः । एवं च सत्य् अनेनाप्रतिषेधदर्शनेन क्वचिद् ब्राह्मण्यः पिबन्ति । यथा च स्त्रीपुंसयोः सत्य् अप्य् एकजातित्वे प्रायश्चित्तभेदः, एवम् अयम् अपि प्रतिषेधविशेषो विज्ञेयः । यथा "अश्विनं भक्षयन्ति" इति च सुराग्रहे सौत्रामण्यां कर्माङ्गत्वाद् अदोषः, मांसवत्, एवं वाजपेये त्व् इति । अयम् अपरो ऽर्थवादस् सुराप्रतिषेधविधेः ॥ ११.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Sura, (all other) intoxicating drinks and decoctions and flesh are the food of the Yakshas, Rakshasas, and Pisakas; a Brahmana who eats (the remnants of) the offerings consecrated to the gods, must not partake of such (substances).
 </details>

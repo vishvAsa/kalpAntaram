@@ -3,6 +3,11 @@ title = "164 परस्य दण्डम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not, when angry, raise the rod against another person, nor shall he let it fall; except in the case of the son or the pupil; these two he may beat with a view to correction.—(164)
@@ -54,9 +59,4 @@ person;—for disciplinary purposes, he shall beat his pupil, on the back, eithe
 <details><summary>गोविन्दराजः</summary>
 
 **परस्येति । परस्य **दण्डादि नोद्गुर्येत् **क्रुद्धश्** च सन् आत्मनः पुत्रशिष्यभार्याकनीयान्सोदर्यभ्रातृदासान् वक्ष्यमानान् वर्जयित्वा न प्रहारेण । तान् पुनर् अनुशासनार्थं “रज्ज्वा वेणुदलेन वा” इत्यादिप्रकारेण **ताडयेत्** ॥ ४.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.
 </details>

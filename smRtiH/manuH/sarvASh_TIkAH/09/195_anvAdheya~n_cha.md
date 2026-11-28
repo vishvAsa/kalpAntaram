@@ -3,6 +3,11 @@ title = "195 अन्वाधेयञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+195	(Such property), as well as a gift subsequent and what was given (to her) by her affectionate husband, shall go to her offspring, (even) if she dies in the lifetime of her husband.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also the gift that is subsequently made to her by her loving husband, shall go to her offspring, if she dies while her husband is living.—(195)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.194].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः ॥ ९.१९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-195	(Such property), as well as a gift subsequent and what was given (to her) by her affectionate husband, shall go to her offspring, (even) if she dies in the lifetime of her husband.
 </details>

@@ -3,6 +3,11 @@ title = "194 अध्यग्न्य्-अध्यावाहनिकन
 
 +++
 
+<details><summary>Bühler</summary>
+
+194	What (was given) before the (nuptial) fire, what (was given) on the bridal procession, what was given in token of love, and what was received from her brother, mother, or father, that is called the sixfold property of a woman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) What is given before the fire, (2) what is given at the time of departure, (3) what is given in token of love, and what is received from (4) the brother, (5) the mother and (6) the father,—has been declared to be ‘Strīdhana’ (the exclusive property of the woman).—(194)
@@ -86,9 +91,4 @@ interest, and should also pay a fine; if any one makes use of it with her permis
 <details><summary>भारुचिः</summary>
 
 षड्विधस्य नियमात् मैत्रलब्धस्य स्त्रीधनत्वं नास्ति । अध्यग्नीयम् अग्निसमीप उह्यमानायै दत्तम् । अध्यावाहनिकं पत्या स्वगृहम् आनीयमानायै दीयते ॥ ९.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	What (was given) before the (nuptial) fire, what (was given) on the bridal procession, what was given in token of love, and what was received from her brother, mother, or father, that is called the sixfold property of a woman.
 </details>

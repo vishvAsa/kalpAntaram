@@ -3,6 +3,11 @@ title = "101 अन्योन्यस्याऽव्यभिचारो 
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	'Let mutual fidelity continue until death,' this may be considered as the summary of the highest law for husband and wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘May mutual fidelity continue till death’,—this, in brief should be understood as the highest duty between husband and wife.—(101)
@@ -53,9 +58,4 @@ This verse is quoted in *Aparārka* (p. 110), which adds that fidelity to each o
 <details><summary>भारुचिः</summary>
 
 अव्यभिचारो ऽन्योपगमपरित्यागः स्त्रियाः । न तु पुरुषस्य स्त्रीवद् अन्योपगमप्रतिषेधः । "तस्माद् एकस्य बह्व्यो जाया भवन्ति नैकस्या बहवः सह पतयः" इति स्रुतिः । स्त्रियास् तु पुरुषान्तरसंकल्पेनापि व्यभिचार इत्य् उतं च । एवं सति ॥ ९.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	'Let mutual fidelity continue until death,' this may be considered as the summary of the highest law for husband and wife.
 </details>

@@ -2,6 +2,11 @@
 title = "016 तेषान् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having combined the subtile components of the said six principles of illimitable potency with their own evolutes, he created even all beings.—(16)
@@ -67,11 +72,6 @@ Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as 
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम् **इति । **तेषां षण्णां **पूर्वप्रयुक्तानां महतः शब्दादितन्मात्राणां च **अमितौजसां** अनन्तकार्यनिर्वर्तनेन अतिवीर्यतां ये **सूक्ष्मा** **अवयवाः** तान् **आत्ममात्रासु **अधिकारभागेषु योजयित्वा सर्वाणि भूतानि मनुष्यादीनि निर्मितवान् ॥ १.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
 </details>
 
 <details><summary>भारुचिः</summary>

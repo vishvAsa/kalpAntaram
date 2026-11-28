@@ -3,6 +3,11 @@ title = "266 एवंविधान् नृपो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+266	These and the like places the king shall cause to be guarded by companies of soldiers, both stationary and patrolling, and by spies, in order to keep away thieves.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Assembly-rooms, water-drinking booths, sweetmeat shops, brothels, taverns and victualler’s shops, cross-roads, trees of worship, festive gatherings and theatres;—(264)
@@ -50,9 +55,4 @@ thieves on roads passing on boundaries, and in places inhabited by dishonest men
 <details><summary>कुल्लूकः</summary>
 
 सभा ग्रामनगरादौ नियतं जनसमूहस्थानं, प्रपा जलदानगृहं, अपूपविक्रयवेश्म, पण्यस्त्रीगृहं, मद्यान्नविक्रयस्थानानि, चतुष्पथाः, प्रख्यातवृक्षमूलानि, जनसमूहस्थानानि, जीर्णवाटिकाः, अटव्यः, शिल्पगृहाणि, शून्यगृहाणि, आम्नादिवनानि, कृत्रिमोद्यानानि एवं प्रकारान्देशान्सैन्यैः पदातिसमूहैः स्थावरजङ्गमैरकस्थानस्थितैः प्रचारिभिश्चान्यैश्चारैस्तस्करनिवारणार्थं चारयेत्। प्रायेणैवंविधे देशेऽनपानस्त्रीसम्भोगस्वप्रहर्त्राद्यन्वेषणार्थंतस्करा अवतिष्टन्ते॥ २६४॥ २६६॥ २६६॥
-</details>
-
-<details><summary>Bühler</summary>
-
-266	These and the like places the king shall cause to be guarded by companies of soldiers, both stationary and patrolling, and by spies, in order to keep away thieves.
 </details>

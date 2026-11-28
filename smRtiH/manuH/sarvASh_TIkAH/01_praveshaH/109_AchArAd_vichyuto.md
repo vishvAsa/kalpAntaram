@@ -2,6 +2,11 @@
 title = "109 आचाराद् विच्युतो"
 +++
 
+<details><summary>Bühler</summary>
+
+109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who departs from Right Behaviour, does not obtain the fruit of the Veda; he however who is equipped with Right Behaviour obtains the full reward.—(109)
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 1.108 (On morality \[right behaviour\])].
 <details><summary>गोविन्दराजः</summary>
 
 **आचारद्** इति । **आचाराद् विच्युतः **श्रौतस्मार्ताधिकारात् भ्रष्टाचारो ब्राह्मणो न वैदिकं कर्मफलं लभते । आचारवान् पुनः समग्रफलभाग् भवति ॥ १.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.
 </details>
 
 <details><summary>भारुचिः</summary>

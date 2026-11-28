@@ -3,6 +3,11 @@ title = "153 अनृताव् ऋतुकाले"
 
 +++
 
+<details><summary>Bühler</summary>
+
+153	The husband who wedded her with sacred texts, always gives happiness to his wife, both in season and out of season, in this world and in the next.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The husband who has performed the mantric sacramental rites for women is the imparter of happiness to them both in season and out of season, here as well as in the next world.—(151).
@@ -34,9 +39,4 @@ The husband is ‘*the importer of happiness*’ to his wife ‘*out of season*�
 <details><summary>गोविन्दराजः</summary>
 
 **अनृताव्** इति । यो विवाहकृद् भर्ता “सर्वत्र वा प्रीतिविवर्जितम्” इति गौतमदर्शनाद् ऋतुकाले अन्यदा च स्त्रिया **नित्यम्** इह लोके च **सुखस्य दाता** तदाराधनेनैव च स्वर्गादिलोकप्राप्तेः **परलोके च** सुखस्य दाता ॥ ५.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	The husband who wedded her with sacred texts, always gives happiness to his wife, both in season and out of season, in this world and in the next.
 </details>

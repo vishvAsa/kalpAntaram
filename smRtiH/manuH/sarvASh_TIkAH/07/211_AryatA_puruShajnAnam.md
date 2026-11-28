@@ -3,6 +3,11 @@ title = "211 आर्यता पुरुषज्ञानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+211	Behaviour worthy of an Aryan, knowledge of men, bravery, a compassionate disposition, and great liberality are the virtues of a neutral (who may be courted).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, having made peace with his enemy, he, may return, accompanied by the latter,—finding in this the due fulfilment of the threefold reward consisting of an ally, gold and territory.—(206)
@@ -120,9 +125,4 @@ and Rand, the preceding is superior to the succeeding; Gold and Friend superior 
 <details><summary>भारुचिः</summary>
 
 **उदय**शब्दः समुदायवाची फलर्थस् तु न युज्यते, सामर्थ्यात् । अस्योपदेशप्रयोजनम्- एभिर् गुणैर् युक्तम् उदासीनं संश्रित्य कामं यथोक्तलक्षणेनाप्य् अरिणा विरुध्येत यात्राफलार्थम् । येनैवंगुण उदासीनः संश्रयकार्यं कर्तुं समर्थो भवति । अनेवंगुणस् तूदासीनो ऽप्य् अमित्रीभवति शत्रूपजापाद् अदृढप्रज्ञया तस्य ॥ ७.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	Behaviour worthy of an Aryan, knowledge of men, bravery, a compassionate disposition, and great liberality are the virtues of a neutral (who may be courted).
 </details>

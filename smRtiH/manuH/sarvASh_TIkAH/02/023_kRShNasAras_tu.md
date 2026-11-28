@@ -2,6 +2,11 @@
 title = "023 कृष्णसारस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the region where the spotted deer roams by nature is to be known as the ‘land fit for sacrificial acts’; beyond that is the ‘land op the Mlecchas.’ (23)
@@ -105,11 +110,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>गोविन्दराजः</summary>
 
 **कृष्णसार** इति । कृष्णः शवलो **मृगो** यस्मिन् देशे **स्वभावतो **निवसति स्वच्छन्दं विहरति, न हठाद् आनीतः, **स **यागार्हो **देशो विज्ञेयः **अतो ऽन्यो अनधिकृतान्ध्रादिम्लेच्छदेशो न यागार्हर्ः । अध्ययन एतद् एव ॥ २.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
 </details>
 
 <details><summary>भारुचिः</summary>

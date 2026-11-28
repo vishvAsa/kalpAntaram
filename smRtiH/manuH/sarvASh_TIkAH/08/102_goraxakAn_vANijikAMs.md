@@ -3,6 +3,11 @@ title = "102 गोरक्षकान् वाणिजिकांस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+102	Brahmanas who tend cattle, who trade, who are mechanics, actors (or singers), menial servants or usurers, the (judge) shall treat like Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘He shall treat like Śūdras the Brāhmaṇas who tend cattle, who engage in trade, and who are craftsmen, actors, menial servants ok money-lenders.’—(102)
@@ -47,9 +52,4 @@ tend cattle, or live by trade, or are artisans, actors, servants or usurers.’
 <details><summary>भारुचिः</summary>
 
 प्रकरणाद् ब्राह्मणशपथानुयोगापवादः । "शूद्रम् एभिस् तु पातकैः" इति वचनात् । एषां गोरक्षकादीनां ब्राःमणानाम् एव सतां शूद्रशपथानुयोगः । एवं च नान्यत्र प्रयोजने शूद्रवद् आचरणम् । इतरथा प्रकरणम् उपरुध्येत ॥ ८.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	Brahmanas who tend cattle, who trade, who are mechanics, actors (or singers), menial servants or usurers, the (judge) shall treat like Sudras.
 </details>

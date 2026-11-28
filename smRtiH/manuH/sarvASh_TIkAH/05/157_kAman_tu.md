@@ -2,6 +2,11 @@
 title = "157 कामन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+157	At her pleasure let her emaciate her body by (living on) pure flowers, roots, and fruit; but she must never even mention the name of another man after her husband has died.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Well might she macerate her body by means of pure flowers, roots and fruits; but she should not even mention the name of another man, after her husband is dead—(155).
@@ -111,11 +116,6 @@ See Comparative notes for [Verse 5.154].
 <details><summary>गोविन्दराजः</summary>
 
 **कामं त्व्** इति । **पुष्पमूलफलैः** पवित्रैर् वरं **देहं क्षपयेत्** न वृत्त्यर्थं व्यभिचारबुद्ध्या **परस्य** **नामापि** उच्चरेत् ॥ ५.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	At her pleasure let her emaciate her body by (living on) pure flowers, roots, and fruit; but she must never even mention the name of another man after her husband has died.
 </details>
 
 <details><summary>भारुचिः</summary>

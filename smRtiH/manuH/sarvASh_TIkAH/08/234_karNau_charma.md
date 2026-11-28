@@ -3,6 +3,11 @@ title = "234 कर्णौ चर्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+234	If cattle die, let him carry to his master their ears, skin, tails, bladders, tendons, and the yellow concrete bile, and let him point out their particular. marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the death of the animals, he shall make over to the owner their ears, skin, tail-hairs, bladder and tendons and the concrete bile, and also point out their marks.—(231)
@@ -57,9 +62,4 @@ care, the herdsman is free from blame, if he can produce the tail, the horns and
 <details><summary>भारुचिः</summary>
 
 विधिर् अयं] चाविशेषः ॥ ८.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	If cattle die, let him carry to his master their ears, skin, tails, bladders, tendons, and the yellow concrete bile, and let him point out their particular. marks.
 </details>

@@ -2,6 +2,11 @@
 title = "109 उदके मध्यरात्रे"
 +++
 
+<details><summary>Bühler</summary>
+
+109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In water, at midnight, during the evacuation of the bladder and the bowels, while one is unclean, when one has eaten at a śrāddha, one shall not even think in his mind (of the Veda).—(109)
@@ -71,11 +76,6 @@ meteors, on earthquake, at fiery portents, at the junction of two seasons,—the
 <details><summary>गोविन्दराजः</summary>
 
 **उदक** इति । जलमध्ये मधमे च प्रहरद्वये महानिशाख्ये “महानिशा च विज्ञेया मध्यस्थं प्रहरद्वयम्” इति देवलस्मरणात् । मूत्रपुरीषकाले प्राग् आचमनाद् **उच्छिष्टः** **श्राद्धभुक्** निमन्त्रणात् प्रभृति श्राद्धभोजनाद् अहोरात्रं यावत् मनसापि वेदस्य न स्मरेत् ॥ ४.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
 </details>
 
 <details><summary>भारुचिः</summary>

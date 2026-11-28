@@ -2,6 +2,11 @@
 title = "041 कार्ष्ण-रौरव-बास्तानि चर्माणि"
 +++
 
+<details><summary>Bühler</summary>
+
+041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Brahmacāris should wear the skin of the black (deer), of the Ruru deer and of the goat respectively; and also the cloth of hemp, flax and wool.’—(41)
@@ -170,11 +175,6 @@ The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitr
 <details><summary>गोविन्दराजः</summary>
 
 **कार्ष्णरौरवबास्तानीति **। **कार्ष्ण** इति सामान्याभिधाने ऽपि रुर्वाख्यमृगसम्बन्धात् कृष्णमृगरुरुछागचर्माणि **ब्रह्मचारिणः** उत्तरीयाणि **वसीरन् **। “चर्माणि उत्तरीयानि” इति गृह्यवचनाच् च । शाणक्षुमोर्णामयानि अर्थात् परिधानीयानि वासांशि **वसीरन्** । आनुपूर्व्यग्रहणं क्रमार्थम् । “शाणं क्षौमं चाब्राह्मणस्य” इति गृह्यदर्शनात् एतयोर् ब्राह्मणगतत्वाभ्रान्त्या विषमसङ्ख्यत्वे सति यथाक्रमसम्बन्धात् ॥ २.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
 </details>
 
 <details><summary>भारुचिः</summary>

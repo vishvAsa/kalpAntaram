@@ -3,6 +3,11 @@ title = "044 यथा नयत्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	As a hunter traces the lair of a (wounded) deer by the drops of blood, even so the king shall discover on which side the right lies, by inferences (from the facts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as the hunter discovers the foot-print of the deer by the drops of blood, so should the king discover the right by means of inference.—(11)
@@ -74,9 +79,4 @@ leads to another through the blood-mark, so oven shall the King trace the steps 
 <details><summary>भारुचिः</summary>
 
 तथा च प्रत्यक्षागमाव् उत्सृज्यानुमानप्रधानो व्यवहारगतौ स्याद् इत्य् अनुमानप्रशंसैषा । येन [न] सर्वः लोकप्रत्यक्षो योग्यो ऽर्थः न्याय्या स्तुतिः या प्रत्यक्षागमप्रत्याख्यानेन वेदितव्या । तथा च शेषशेषिभावाद् अपुनरुक्तौ पूर्वोत्तरश्लोकौ । अधुना व्यवहारेषु परमार्थावधारणार्थम् इदं द्रष्टुः प्रसंख्यानम् उच्यते ॥ ८.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	As a hunter traces the lair of a (wounded) deer by the drops of blood, even so the king shall discover on which side the right lies, by inferences (from the facts).
 </details>

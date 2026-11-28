@@ -3,6 +3,11 @@ title = "224 श्रोत्रियस्य कदर्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The gods having compared the food of the miserly Vedic Scholar and that of the liberal usurer, ordained the food of both to be equal.—(224)
@@ -62,9 +67,4 @@ teacher should not be eaten, if it is not offered with respect.’
 <details><summary>गोविन्दराजः</summary>
 
 **श्रोत्रियस्येति **। एको ऽधीतवेदः कृपणः पर उदारो वृद्धिजीवी वा तयोर् गुणम् उभयं विचार्य देवास् तुल्यम् अन्नम् अनयोर् इति कल्पितवन्तः, उभयोर् अपि गुणयोगात् ॥ ४.२२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).
 </details>

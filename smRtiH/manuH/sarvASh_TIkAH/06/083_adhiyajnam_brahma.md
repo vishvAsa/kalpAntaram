@@ -3,6 +3,11 @@ title = "083 अधियज्ञम् ब्रह्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+083	Let him constantly recite (those texts of) the Veda which refer to the sacrifice, (those) referring to the deities, and (those) which treat of the Soul and are contained in the concluding portions of the Veda (Vedanta).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall constantly recite Vedic texts bearing upon sacrifices, those dealing with deities and those dealing with the Soul, which have been called ‘Vedānta.’—(83)
@@ -74,9 +79,4 @@ religious ceremonies; hut he shall never discontinue the recitation of the Veda.
 > परं ब्रह्माधिगच्छति ॥
 
 <u>अपरस्</u> त्व् आह- समर्थस्येदम् अध्यात्मानुष्ठाने श्रौतस्य वा तत्रारतेर् वा ।
-</details>
-
-<details><summary>Bühler</summary>
-
-083	Let him constantly recite (those texts of) the Veda which refer to the sacrifice, (those) referring to the deities, and (those) which treat of the Soul and are contained in the concluding portions of the Veda (Vedanta).
 </details>

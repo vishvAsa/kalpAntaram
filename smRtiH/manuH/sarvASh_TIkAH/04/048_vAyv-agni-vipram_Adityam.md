@@ -3,6 +3,11 @@ title = "048 वाय्व्-अग्नि-विप्रम् आदि�
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Let him never void faeces or urine, facing the wind, or a fire, or looking towards a Brahmana, the sun, water, or cows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should never pass faeces or urine, while looking at the wind or fire, or a Brāhmaṇa, or the sun, or water, or cows.—(48)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 4.45].
 <details><summary>गोविन्दराजः</summary>
 
 **वाय्वग्निब्राह्मणादित्यम्** इति । **वाय्वग्निब्राह्मणादित्योदकगा** अवलोकयन् न **कदाचिन् **मूत्रपुरीषोत्सर्गं कुर्यात् वायोश् च सम्मुखीभावो ऽवलोकनम् ॥ ४.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Let him never void faeces or urine, facing the wind, or a fire, or looking towards a Brahmana, the sun, water, or cows.
 </details>

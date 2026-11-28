@@ -2,6 +2,11 @@
 title = "137 पञ्चानान् त्रिषु"
 +++
 
+<details><summary>Bühler</summary>
+
+137	Whatever man of the three (highest) castes possesses most of those five, both in number and degree, that man is worthy of honour among them; and (so is) also a Sudra who has entered the tenth (decade of his life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among the three (higher) castes, he, in whom there are present most op these five, and of high degree, deserves (greater) respect; as also the Śūdra who has reached the tenth stage (of life).—(137)
@@ -103,11 +108,6 @@ present in a very large degree, the Śūdra also deserves respect, when he has r
 <details><summary>गोविन्दराजः</summary>
 
 **पञ्चानां **इति । त्रिषु वर्णेषु ब्राह्मणादिषु यस्य हीनजातीयस्यापि पञ्चानां वित्तादीनां मध्यात् भूयांसि बहूनि त्रीणि चत्वारि पञ्च वा भवन्ति न त्व् एकं द्वे वा तानि यदि गुणवन्ति प्रकृष्टानि भवन्ति तदा स उत्कृष्टजातेर् अपि मान्यः । एवं च “ब्राह्मणं दशवर्षं तु” इत्य् एतत् निर्गुणविषये समगुणविषये वावतिष्ठते । तथा शूद्रो ऽपि नवतिहायनातीतो द्विजातीनां मान्यः । एवं च वित्तबन्धुकर्माणि द्विजातीन् प्रति शूद्रस्य मानहेतवः । विद्या तु तस्य नैवास्ति ॥ १.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Whatever man of the three (highest) castes possesses most of those five, both in number and degree, that man is worthy of honour among them; and (so is) also a Sudra who has entered the tenth (decade of his life).
 </details>
 
 <details><summary>भारुचिः</summary>

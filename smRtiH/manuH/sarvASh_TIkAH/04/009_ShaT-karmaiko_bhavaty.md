@@ -2,6 +2,11 @@
 title = "009 षट्-कर्मैको भवत्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+009	One of these follows six occupations, another subsists by three, one by two, but the fourth lives by the Brahmasattra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From among these one follows the six occupations; another lives by three; one again with two; while the fourth lives by “Brahmasattra.’—(9)
@@ -130,11 +135,6 @@ vartayatyeko tribhiranyaḥ pravartate dvābhyamekaścaturthastu brahmasattre vy
 <details><summary>गोविन्दराजः</summary>
 
 **षट्कर्मेति** । **एषां **गृहस्थानां मध्यात् कश्चिद् गृहस्थः परिग्रहभूयस्त्वाद्यपेक्षया प्राकृतऋतादिकर्मा भवति । **अन्यः **पुनः याजनाध्यापनप्रतिग्रहाणां ब्राह्मणस्य नोदितत्वात् एतैस् **त्रिभिर्** जीवितुं **प्रवर्तते**, अपरः पुनः प्रतिग्रहः प्रत्यवर इति वक्ष्यमाणत्वात् । तत्त्यागेन **द्वाभ्यां **याजनाध्यापनाभ्यां जीवितुं प्रवर्तते । उक्तत्रयापेक्षया **चतुर्थः **पुनर् अध्यापनेन जीवति ॥ ४.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	One of these follows six occupations, another subsists by three, one by two, but the fourth lives by the Brahmasattra.
 </details>
 
 <details><summary>भारुचिः</summary>

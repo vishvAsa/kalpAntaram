@@ -3,6 +3,11 @@ title = "241 क्षेत्रेष्व् अन्येषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+241	(For damage) in other fields (each head of) cattle shall (pay a fine of one (pana) and a quarter, and in all (cases the value of) the crop (destroyed) shall be made good to the owner of the field; that is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of other fields, the cattle-keeper should be fined a ‘paṇa’ and a quarter; and in all cases the crop shall be made good to the owner of the field; such is the established rule.—(241)
@@ -132,9 +137,4 @@ that of the she-buffalo; sixteen in that of asses and camels; and four, in that 
 <details><summary>भारुचिः</summary>
 
 अन्यक्षेत्राणि पूर्वोक्ताद् अवधेर् यानि बहिः तान्य् उच्यन्ते । गोश् च सपादस्य पणस्योपदेशाद्, उपघातानुरूपेण महिष्यादीनां स्याद् राजभाव्यो दण्डः । **शदः क्षेत्रिकस्य सर्वत्र**शब्दाच् च विपाले ऽपि शदो देयत् इति ॥ ८.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	(For damage) in other fields (each head of) cattle shall (pay a fine of one (pana) and a quarter, and in all (cases the value of) the crop (destroyed) shall be made good to the owner of the field; that is the settled rule.
 </details>

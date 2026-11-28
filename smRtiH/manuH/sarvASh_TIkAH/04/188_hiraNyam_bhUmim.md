@@ -2,6 +2,11 @@
 title = "188 हिरण्यम् भूमिम्"
 +++
 
+<details><summary>Bühler</summary>
+
+188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The illiterate person, accepting gold, land, horse, cow food, clothing, sesamum and clarified butter, becomes reduced to ashes, like wood.—(188)
@@ -43,11 +48,6 @@ an unbaked vessel becomes destroyed through the weakness of the vessel, and the 
 <details><summary>गोविन्दराजः</summary>
 
 **हिरण्यम्** इति । श्रुताध्ययनशून्यः सुवर्णादीन् **प्रतिगृह्णन् **अग्निसंयोगेन **दारुवत् भस्मीभवति **॥ ४.१८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
 </details>
 
 <details><summary>भारुचिः</summary>

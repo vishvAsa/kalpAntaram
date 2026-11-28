@@ -3,6 +3,11 @@ title = "159 बिडाल-काकाखूच्छिष्टञ् ज�
 
 +++
 
+<details><summary>Bühler</summary>
+
+160	He who eats what is left by a cat, by a crow, by a mouse (or rat), by a dog, or by an ichneumon, or (food) into which a hair or an insect has fallen, shall drink (a decoction of) the Brahmasuvarkala (plant).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who eats what has been left by a cat, a crow, a rat, a dog, or an ichneumon,—or food defiled by a hair or an insect,—shall drink the Brahmasuvarcalā herb.—(159)
@@ -52,9 +57,4 @@ dog, he must fast for one day and then drink the five bovine products.’
 <details><summary>भारुचिः</summary>
 
 एकाहम् अविसेषोपदेशात् । एतेषाम् उच्छिष्टभक्षण एतत्प्रायश्चित्तम् । एवं च काकादीनां प्रतिषिद्धानि धर्मशास्त्रे उच्छिष्टमूत्रपुरीषमांसभक्षणानि श्लोकत्रयेण । विड्वराहश्लोके मूत्रपुरीषप्रतिषेधः, क्रव्यादसूकरश्लोके मांसभक्षणस्य, बिडालकाकाखूच्छिष्टम् इत्य् अत्रोच्छिष्टस्य । एवं च सति य एकत्रोपदिष्टा अन्यत्र श्लोके नोपदिश्यन्ते कुक्कुटादयस्, तेषां साहचर्याच् छ्लोकत्रये ऽपि ग्रहणं विज्ञेयम् । तच् चैतद् एवम् अतः ॥ ११.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	He who eats what is left by a cat, by a crow, by a mouse (or rat), by a dog, or by an ichneumon, or (food) into which a hair or an insect has fallen, shall drink (a decoction of) the Brahmasuvarkala (plant).
 </details>

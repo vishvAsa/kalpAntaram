@@ -3,6 +3,11 @@ title = "289 चर्म-चार्मिकभाण्डेषु का�
 
 +++
 
+<details><summary>Bühler</summary>
+
+289	In the case of (damage done to) leather, or to utensils of leather, of wood, or of clay, the fine (shall be) five times their value; likewise in the case of (damage to) flowers, roots, and fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case or leather and leathern vessels, and in that of those made of wood or clay, the fine shall be five times their value; as also in the case of flowers, roots and fruits.—(289)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.288].
 <details><summary>भारुचिः</summary>
 
 एतेषां विनाशे पञ्चगुणो दण्डः, न तु तत्समः । एवं चैभ्यो ऽन्यत्र पूर्वश्लोकविधिस् तत्समो विज्ञेयः । तुष्ट्युत्पत्तिश् च व्यवस्थित एव ॥ ८.२८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-289	In the case of (damage done to) leather, or to utensils of leather, of wood, or of clay, the fine (shall be) five times their value; likewise in the case of (damage to) flowers, roots, and fruit.
 </details>

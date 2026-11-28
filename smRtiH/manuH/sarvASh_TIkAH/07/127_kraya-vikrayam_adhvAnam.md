@@ -3,6 +3,11 @@ title = "127 क्रय-विक्रयम् अध्वानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	Having well considered (the rates of) purchase and (of) sale, (the length of) the road, (the expense for) food and condiments, the charges of securing the goods, let the king make the traders pay duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should make the traders pay duties, after due investigation of the details of buying and selling, the journey involved, fooding along with its accessories, and the measures of safety.—(127)
@@ -65,9 +70,4 @@ Do. (p. 270).—‘He shall fix the customs and duties payable on exports and im
 <details><summary>भारुचिः</summary>
 
 तस्येदं सामान्येन लक्षणम् ॥ ७.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Having well considered (the rates of) purchase and (of) sale, (the length of) the road, (the expense for) food and condiments, the charges of securing the goods, let the king make the traders pay duty.
 </details>

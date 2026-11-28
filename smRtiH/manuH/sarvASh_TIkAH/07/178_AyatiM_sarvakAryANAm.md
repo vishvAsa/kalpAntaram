@@ -3,6 +3,11 @@ title = "178 आयतिं सर्वकार्याणाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+178	Let him fully consider the future and the immediate results of all undertakings, and the good and bad sides of all past (actions).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall fully think over the future and the present condition of all undertakings, as also the good and bad points of all past ones.—(178)
@@ -42,9 +47,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 <details><summary>भारुचिः</summary>
 
 अनेकमुखत्वात् कार्याणां क्षणिकत्वाच् च तस्यां तस्याम् अवस्थायां तत्तत्कार्यम् आपद्यत इति सामान्यतः सर्वकार्यावधारणं दर्शयति ॥ ७.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	Let him fully consider the future and the immediate results of all undertakings, and the good and bad sides of all past (actions).
 </details>

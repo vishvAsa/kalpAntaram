@@ -3,6 +3,11 @@ title = "391 यथार्हम् एतान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+391	Having shown them due honor, he should, with (the assistance of) Brahmanas, first soothe them by gentle (speech) and afterwards teach them their duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, with the assistance of Brāhmaṇas, received them with due honour, the king shall, at first, pacify them with soothing words, and then explain to them their duty.—(391)
@@ -55,9 +60,4 @@ This verse is quoted in *Kṛtyakalpataru* (10a), which explains ‘*sāntvena p
 <details><summary>गोविन्दराजः</summary>
 
 किं तर्हि **यथार्हम्** इति । यादृशीं यः पूजाम् अर्हति तं तथा पूजयित्वा अन्यैर् ब्राह्मणैः सह राजा प्रथमशास्त्राद् अपगतकोपात् कृत्वा ततस् तेषां यः स्वधर्मः तं बोधयेत् ॥ ८.३९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-391	Having shown them due honor, he should, with (the assistance of) Brahmanas, first soothe them by gentle (speech) and afterwards teach them their duty.
 </details>

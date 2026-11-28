@@ -3,6 +3,11 @@ title = "277 अङ्गुलीर् ग्रन्थिभेदस्य
 
 +++
 
+<details><summary>Bühler</summary>
+
+277	On the first conviction, let him cause two fingers of a cut-purse to be amputated; on the second, one hand and one foot; on the third, he shall suffer death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If thieves commit thefts at night, after breaking into a house, the king shall cut off their hands and have them impaled on a pointed stake;—(276) on the first conviction he should have two fingers of the cut-purse amputated; on the second a hand and a foot; and on the third he should be put to death.—(277)
@@ -75,9 +80,4 @@ second, the remaining fingers shall be cut off; and for the third, he shall be p
 <details><summary>भारुचिः</summary>
 
 कृतनिग्रहस्यापि निग्रहोपदेशश् छिन्नहस्तचरणो ऽपि पुनः केनचिद् उपायान्तरेण चौर्यम् आसेवतः ॥ ९.२७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-277	On the first conviction, let him cause two fingers of a cut-purse to be amputated; on the second, one hand and one foot; on the third, he shall suffer death.
 </details>

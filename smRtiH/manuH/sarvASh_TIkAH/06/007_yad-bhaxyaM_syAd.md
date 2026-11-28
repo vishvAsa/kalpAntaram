@@ -3,6 +3,11 @@ title = "007 यद्-भक्ष्यं स्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+007	Let him perform the Bali-offering with such food as he eats, and give alms according to his ability; let him honour those who come to his hermitage with alms consisting of water, roots, and fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What he eats, cut of that he should make the offerings and give alms, according to his capacity; and those who come to his hermitage he should honour with water, roots and fruits and alms—(7).
@@ -62,9 +67,4 @@ alms of roots and fruits.’
 <details><summary>गोविन्दराजः</summary>
 
 **यद्भक्ष** इति । यद्भक्षं भुञ्जीत ततस् तस्मात् पूर्वोक्तवत् **बलिं भिक्षां च** दद्यात् । आश्रमागतांश् च उदकमूलफलभिक्षादानेन पूजयेत् ॥ ६.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	Let him perform the Bali-offering with such food as he eats, and give alms according to his ability; let him honour those who come to his hermitage with alms consisting of water, roots, and fruit.
 </details>

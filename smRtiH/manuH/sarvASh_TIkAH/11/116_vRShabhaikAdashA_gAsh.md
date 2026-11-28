@@ -3,6 +3,11 @@ title = "116 वृषभैकादशा गाश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	But after he has fully performed the penance, he must give to (Brahmanas) learned in the Veda ten cows and a bull, (or) if he does not possess (so much property) he must offer to them all he has.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The cow-killer, who attends upon cows in this manner, wipes off, in three months, the sin accruing from the killing of a cow—(115); and after having duly performed the penance, he shall give away cows with a bull as the eleventh; in the event of these being not available, he shall offer all he possesses to persons learned in the Veda.—(116)
@@ -125,9 +130,4 @@ See Comparative notes for [Verse 11.108].
 <details><summary>भारुचिः</summary>
 
 अविद्यमानायाम् अनन्तरदक्षिणायां चरितप्रायश्चित्तस्य सर्वस्वं दक्षिणा तच् चैकादशभ्यो गोरूपेभ्यः सर्वस्वम् अर्वाग् इति सामर्थ्याद् गम्यते । गावो ऽन्यद् वोभयं वा ॥ ११.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	But after he has fully performed the penance, he must give to (Brahmanas) learned in the Veda ten cows and a bull, (or) if he does not possess (so much property) he must offer to them all he has.
 </details>

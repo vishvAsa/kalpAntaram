@@ -3,6 +3,11 @@ title = "024 उपस्पृशंस् त्रिषवणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	When he bathes at the three Savanas (sunrise, midday, and sunset), let him offer libations of water to the manes and the gods, and practising harsher and harsher austerities, let him dry up his bodily frame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Bathing at the three Savanas, he shall offer libations to the gods and Pitṛs; and practising harsher and harsher austerities, he shall emaciate his body.—(24).
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 6.23].
 </details>
 
 <details><summary>भारुचिः</summary>
-
-024	When he bathes at the three Savanas (sunrise, midday, and sunset), let him offer libations of water to the manes and the gods, and practising harsher and harsher austerities, let him dry up his bodily frame.
-</details>
-
-<details><summary>Bühler</summary>
 
 024	When he bathes at the three Savanas (sunrise, midday, and sunset), let him offer libations of water to the manes and the gods, and practising harsher and harsher austerities, let him dry up his bodily frame.
 </details>

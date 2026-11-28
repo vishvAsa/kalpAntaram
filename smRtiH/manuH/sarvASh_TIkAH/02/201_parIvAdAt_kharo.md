@@ -2,6 +2,11 @@
 title = "201 परीवादात् खरो"
 +++
 
+<details><summary>Bühler</summary>
+
+201	By censuring (his teacher), though justly, he will become (in his next birth) an ass, by falsely defaming him, a dog; he who lives on his teacher's substance, will become a worm, and he who is envious (of his merit), a (larger) insect.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Through censure one becomes an ass, and the defamer becomes a dog; he who lives on him becomes a worm, and he who is jealous becomes an insect.—(201)
@@ -72,11 +77,6 @@ See Comparative notes for [Verse 2.200].
 <details><summary>गोविन्दराजः</summary>
 
 **परीवादाद्** इति । परीवादकर्ता जन्मान्तरे **खर** उत्पद्यते । **श्वा **च **निन्दा**कर्ता । अननुज्ञातगुरुधनोपजीवकः **कृमिर् भवति** । गुरुगुणासहनः **कीटः, **कृमेर् ईषदुपचितः प्राणि भवतीति पृथक्कथनम्, अत एव न कर्तव्यम् इति । न चाद्यार्थस्य लोकस्य पूर्वार्धवादित्वं युक्तम्, श्रुतशब्दानुपादानात् । उत्तराभ्यां च विध्यर्थाभ्यां साहचर्यात् । श्रवणनिषेधे दण्डापूपिकासिद्धः करणनिषेध इति चेत्, फलाभिधानं तर्हि कुतः सिद्धम्॥ २.२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	By censuring (his teacher), though justly, he will become (in his next birth) an ass, by falsely defaming him, a dog; he who lives on his teacher's substance, will become a worm, and he who is envious (of his merit), a (larger) insect.
 </details>
 
 <details><summary>भारुचिः</summary>

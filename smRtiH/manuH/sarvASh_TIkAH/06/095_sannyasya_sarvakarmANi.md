@@ -3,6 +3,11 @@ title = "095 सन्न्यस्य सर्वकर्माणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+095	Having given up (the performance of) all rites, throwing off the guilt of his (sinful) acts, subduing his organs and having studied the Veda, he may live at his ease under the protection of his son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having renounced all acts, and thrown off the taint of his acts, and studied the Veda with mind self-oontrolled, he shall live at ease under the protection of his son.—(95).
@@ -40,9 +45,4 @@ village,’
 <details><summary>गोविन्दराजः</summary>
 
 **सन्न्यस्येत्** । सर्वाण्य् अग्निहोत्रादिकर्माणि परित्यज्य “ज्ञानेनैवापरे विप्राः” इत्य् एवमादिप्रकारेण ज्ञावबलात् तान्य् अनुथिष्ठन्न् अबुद्धिपूर्वां सञ्चितपापान्य् उत्तरश्लोके वक्ष्यमाणत्वात् सन्न्यासेनैव संहरन् गृहीतनिश्चयो वेदं ग्रन्थतो ऽर्थतश् चाभ्यसन् पुत्रगतसमृद्ध्युपेतेन पुत्रोपकृतग्रासाच्छादनविऋत्तित्वात् सुखं वसेत् ॥ ६.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	Having given up (the performance of) all rites, throwing off the guilt of his (sinful) acts, subduing his organs and having studied the Veda, he may live at his ease under the protection of his son.
 </details>

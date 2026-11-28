@@ -3,6 +3,11 @@ title = "045 स्वेदजन् दंश-मशकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gadflies and Gnats, Lice, Flies and Bugs, are sweat- born; whatever else is of similar character is born from heat—(45)
@@ -36,9 +41,4 @@ The two halves form two distinct sentences. So Burnell; but Buhler takes the who
 <details><summary>गोविन्दराजः</summary>
 
 **स्वेदजम्** इति । **स्वेदः **पार्तिवद्रव्याणां अन्तःक्लेदः । **अन्यद् **अपि च यदृशमशकादिसदृशं पिपीलिकादि तत् । **यूका मत्कुणाः **स्वेदाद् एव जायन्ते ॥ १.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.
 </details>

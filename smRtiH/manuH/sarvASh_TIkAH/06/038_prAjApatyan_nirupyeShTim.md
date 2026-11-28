@@ -3,6 +3,11 @@ title = "038 प्राजापत्यन् निरुप्येष्
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	Having performed the Ishti, sacred to the Lord of creatures (Pragapati), where (he gives) all his property as the sacrificial fee, having reposited the sacred fires in himself, a Brahmana may depart from his house (as an ascetic).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having performed the Prājāpatya Sacrifice, wherein all his belongings are given away as the sacrificial fee,—and having reposited the Fires within himself,—the Brāhmaṇa should go forth from his house.—(38).
@@ -87,11 +92,6 @@ within himself, seated in the centre of the altar, and meditating upon Hari, hav
 </details>
 
 <details><summary>भारुचिः</summary>
-
-038	Having performed the Ishti, sacred to the Lord of creatures (Pragapati), where (he gives) all his property as the sacrificial fee, having reposited the sacred fires in himself, a Brahmana may depart from his house (as an ascetic).
-</details>
-
-<details><summary>Bühler</summary>
 
 038	Having performed the Ishti, sacred to the Lord of creatures (Pragapati), where (he gives) all his property as the sacrificial fee, having reposited the sacred fires in himself, a Brahmana may depart from his house (as an ascetic).
 </details>

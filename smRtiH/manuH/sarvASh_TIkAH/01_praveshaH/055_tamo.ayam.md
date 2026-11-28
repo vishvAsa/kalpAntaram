@@ -3,6 +3,11 @@ title = "055 तमो ऽयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (individual Soul), on entering into ‘Darkness,’ remains, for a long time, equipped with the sense-organs, but does not perform its functions; then it departs from the body.—(55)
@@ -72,9 +77,4 @@ Verses 55 and 56 have been variously interpreted. (1) According to Medhātithi, 
 <details><summary>गोविन्दराजः</summary>
 
 प्रलयप्रसङ्गेन च क्षेत्रज्ञोत्क्रमणम् आह – **तमो यद्** इति । स आत्मा अत्यन्तव्यामोहव्याप्तः सन् यदा **सेन्द्रियो** ऽप्य् अनल्पम् कालम् आस्ते इन्द्रियाणां शरीरविनाशे ऽप्य् अविनाशेन च श्वासप्रश्वासादिकं **कर्म कुरुते तदा** शरीरं जहाति ॥ १.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.
 </details>

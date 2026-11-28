@@ -2,6 +2,11 @@
 title = "121 सायन् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the food cooked in the evening the wife should offer the Bali-oblation, without sacred formulas. This is the “Vaiśvadeva” rite which has been enjoined for both Morning and evening.—(121)
@@ -122,11 +127,6 @@ Bali-offering should be made both morning and evening, even though the man himse
 <details><summary>गोविन्दराजः</summary>
 
 **सायम्** इति । दिनान्ते **ऽन्नस्य** **सिद्धस्य **“इन्द्राय नमः” इत्य् एवमादिमन्त्रवर्जं मनसोद्देशेन **पत्नी **बलिहरणं भूतयज्ञाख्यं कुर्यात् । यस्माद् एवं नाम यज्ञाद्यात्मभोजनपर्यन्तं एतत् **सायं प्रातः** गृहस्थस्योपदिश्यते ॥ ३.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
 </details>
 
 <details><summary>भारुचिः</summary>

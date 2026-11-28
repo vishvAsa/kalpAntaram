@@ -2,6 +2,11 @@
 title = "187 अकृत्वा भैक्षचरणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+187	He who, without being sick, neglects during seven (successive) days to go out begging, and to offer fuel in the sacred fire, shall perform the penance of an Avakirnin (one who has broken his vow).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, without being ill, omits for seven days, to beg alms and to offer fuel to the fire, shall perform the rites prescribed for the Avakīrṇin.—(187)
@@ -65,11 +70,6 @@ the non-kindling of fire; one who omits these for seven days should perform the 
 <details><summary>गोविन्दराजः</summary>
 
 **अकृत्वेति** । प्रायश्चित्तगुरुत्वात् भैक्षाग्निकार्ये समुच्चिते । कामकारेण सप्ताहानि प्रबन्धेन **अनातुरः **सन् **अकृत्वा** **अवकीर्णी **प्रायश्चित्तं एकादशे वक्ष्यमाणं **चरेत् **। कथञ्चित् पुनः प्रत्येकव्यक्तिक्रमे गौतमीयम् अग्नीन्धनभैक्षचरणे सप्तरात्रम् अकृत्वा आज्यहोमं समिधो वा रेतस्य् आभ्याम् इति । **अनातुर** इत्य् आतुरस्य प्रायश्चित्तान्तरम् । न तु प्रायश्चित्ताभावः । एतावद् यतः प्रतीयते अनातुरस्येदं प्रायश्चित्तं न त्व् आतुरस्य व्यतिक्रमो नास्ति इति । वाह्यं (न हि) तत् अनातुरः स्वानि खानि न स्पृशेत् । इतिवन् नियमवाक्यगतं विशेषणम्, येनातुरस्यानधिकार इति गम्येत । अपि तु प्रायश्चित्तविशेषणं तस्माद् आतुरस्य प्रायश्चित्तान्तरं भवत्य् एव । अस्यापि प्रायश्चित्तस्य प्रकर्षेणोत्कर्षो लाघवार्थः । तत्र हि क्रियमाणे ब्रह्मचारिग्रहणं कर्तव्यं स्यात् ॥ २.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	He who, without being sick, neglects during seven (successive) days to go out begging, and to offer fuel in the sacred fire, shall perform the penance of an Avakirnin (one who has broken his vow).
 </details>
 
 <details><summary>भारुचिः</summary>

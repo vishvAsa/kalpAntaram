@@ -3,6 +3,11 @@ title = "394 अन्धो जडः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+394	A blind man, an idiot, (a cripple) who moves with the help of a board, a man full seventy years old, and he who confers benefits on Srotriyas, shall not be compelled by any (king) to pay a tax.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A blind man, an idiot, a cripple, an old man of seventy, and one who attends upon Vedic scholars should not be made to pay any taxes by any one.—(394)
@@ -58,9 +63,4 @@ those to whom the acquisition of property is forbidden, shall be free from taxes
 सप्तत्याः प्रभृति स्थविरो गृह्यते ।
 
 अब्राह्मणा अपि सन्तः ब्राह्मणा अपि वानर्हन्तः ॥ ८.३९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-394	A blind man, an idiot, (a cripple) who moves with the help of a board, a man full seventy years old, and he who confers benefits on Srotriyas, shall not be compelled by any (king) to pay a tax.
 </details>

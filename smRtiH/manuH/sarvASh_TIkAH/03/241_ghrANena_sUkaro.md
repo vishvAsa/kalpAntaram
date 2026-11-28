@@ -2,6 +2,11 @@
 title = "241 घ्राणेन सूकरो"
 +++
 
+<details><summary>Bühler</summary>
+
+241	A boar makes (the rite) useless by inhaling the smell (of the offerings), a cock by the air of his wings, a dog by throwing his eye (on them), a low-caste man by touching (them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The pig defiles by sniffing, the cock by wind raised by its wings, the dog by casting his eye, and the man born of the low caste by touch.—(241).
@@ -72,11 +77,6 @@ See Comparative notes for [Verse 3.239].
 <details><summary>गोविन्दराजः</summary>
 
 **घ्राणेनेति** । **सूकरस् **तदन्नादि घ्रात्वा तत्कर्म निष्फलयति । **कुक्कुटः पक्षवातेन **वायुना, **श्वापि** अक्षिनिरीक्षणेन, **अवरवर्णेन **शूद्रेण ब्राह्मण्यां जातः **अवरवर्णजः **चाण्डालः । नदीतीरादिश्राद्धकृत् स्पर्शनेन तत्र वायुजशुचित्वाशङ्कायाम् इदम् । न दातुः न चान्नादिस्पर्शविषयं येन चण्डालस्य सामान्यतः स्पर्शनिषेधेनैव सिद्धम् अन्नवचनम् अनर्थकं स्यात् । इत्य् एवम् आनर्थक्याशङ्कायां यच् छूद्रस्पर्शनिषेधार्थत्वम् अस्याहुः – तद् असत्, उक्तनीत्यार्थवत्त्वात् । अवरजशब्देन च शूद्रस्यानभिधानात् । सूकरादीनां च स्वभावानुवादो ऽयं प्रकृतविशेषतयोच्यते न त्व् एतत् क्रियाव्यतिरेकेण दुष्टम् इति ॥ ३.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	A boar makes (the rite) useless by inhaling the smell (of the offerings), a cock by the air of his wings, a dog by throwing his eye (on them), a low-caste man by touching (them).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "116 ब्रह्म यस्"
 +++
 
+<details><summary>Bühler</summary>
+
+116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who may acquire Veda, without his permission, from one who is reciting it, becomes corrupted with the sin of stealing the Veda, and falls into hell.—(116)
@@ -35,11 +40,6 @@ not acquire knowledge from another person who may be reading with the Teacher;�
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मेति** । अन्यान् अव्यापयतः अविस्मरणार्थं चाभ्यस्यतः **अननुज्ञातं ब्रह्म** (यः) शिक्षेत् **स **ब्रह्मचौर्ययुक्ताः **नरकं **व्रजति ॥ २.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
 </details>
 
 <details><summary>भारुचिः</summary>

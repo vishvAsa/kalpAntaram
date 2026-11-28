@@ -3,6 +3,11 @@ title = "026 सूतो वैदेहकश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	The Suta, the Vaidehaka, the Kandala, that lowest of mortals, the Magadha, he of the Kshattri caste (gati), and the Ayogava,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) the ‘Sūta’ (2) the ‘Vaideha,’ the ‘Caṇḍāla,’ the lowest of men, (4) the ‘Māgadha,’ (5) the ‘Kṣattṛ’ caste, and (6) the ‘Āyogava.’—(26)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 उत्तरविवक्षार्थम् एषां पुनर्ग्रहणम् । तद् इदम् उच्यते ॥ १०.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	The Suta, the Vaidehaka, the Kandala, that lowest of mortals, the Magadha, he of the Kshattri caste (gati), and the Ayogava,
 </details>

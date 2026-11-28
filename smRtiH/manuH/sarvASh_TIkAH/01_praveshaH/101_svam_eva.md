@@ -2,6 +2,11 @@
 title = "101 स्वम् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+101	The Brahmana eats but his own food, wears but his own apparel, bestows but his own in alms; other mortals subsist through the benevolence of the Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What the Brāhmana eats is his own; his own what he wears and his own also what he gives; it ts due to the good will of the Brāhmaṇa that other people enjoy (things). (101).
@@ -33,11 +38,6 @@ What the Brāhmaṇa eats as a guest in the house of others is really his own; i
 <details><summary>गोविन्दराजः</summary>
 
 **एवं च स्वम्** इति । यत् परकीयस्यापि भोजनाच्छादनादि असौ करोति तत् तस्य स्वम् एवेति पूर्ववत् स्तुतिः । एवं **चानृशंस्यात् **तद्गतकारुण्याद् अन्ये **जना** भोजनाच्छादनादि कुर्वते ॥ १.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	The Brahmana eats but his own food, wears but his own apparel, bestows but his own in alms; other mortals subsist through the benevolence of the Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

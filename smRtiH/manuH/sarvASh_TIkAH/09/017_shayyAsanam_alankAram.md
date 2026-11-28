@@ -3,6 +3,11 @@ title = "017 शय्यासनम् अलङ्कारम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	(When creating them) Manu allotted to women (a love of their) bed, (of their) seat and (of) ornament, impure desires, wrath, dishonesty, malice, and bad conduct.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu assigned to women sleep, sitting, ornament, lust, anger, dishonesty, malice and bad conduct.—(17)
@@ -70,9 +75,4 @@ meanness, harshness of speech, and love,—these Prajāpati gave to women.’
 <details><summary>भारुचिः</summary>
 
 अतश् च युक्तास् ताः प्रयत्नतो रक्षितुम् एवं स्वभावत्वात् । तत्र तु **शय्या** भावो नाधिकरणं सुप्यते ऽस्याम् इति । एवम् आसनालंकारकामक्रोधाः, माक्ये भावप्रत्ययाभावे ऽपि । **अनार्यता द्रोहभाव** इत्य् अत्र स्वशब्देनैव भाव उपदिष्टः । चरणं चर्या **कुचर्या** उत्सिता चर्या । सर्व एते भावाः । एवम् "स्वभावं ज्ञात्वासाम्" इति प्रकृतत्वाद् अस्य । एवं च सति तन्निन्दावचनं रक्षार्थम् ॥ ९.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	(When creating them) Manu allotted to women (a love of their) bed, (of their) seat and (of) ornament, impure desires, wrath, dishonesty, malice, and bad conduct.
 </details>

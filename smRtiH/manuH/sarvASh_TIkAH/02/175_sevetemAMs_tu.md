@@ -2,6 +2,11 @@
 title = "175 सेवेतेमांस् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to enhancing his own piety, the Rreligious Student should, while living with his Teacher, observe all these rules,—having fully subjugated all his organs.—(175)
@@ -99,11 +104,6 @@ attend diligently on his Teacher; the same conduct has to be observed by him tow
 <details><summary>गोविन्दराजः</summary>
 
 **सेवेतेति** । **ब्रह्मचारी **गुरुकुले **वसन् इन्द्रियग्रामम्** इन्द्रियसमूहं **नियम्य आतमस् तपोवृद्ध्यर्थं इमान् **यम**नियमान् **अनुतिष्ठेत् ॥ २.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
 </details>
 
 <details><summary>भारुचिः</summary>

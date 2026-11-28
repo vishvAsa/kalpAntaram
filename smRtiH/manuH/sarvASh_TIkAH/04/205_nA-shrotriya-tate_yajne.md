@@ -2,6 +2,11 @@
 title = "205 नाऽश्रोत्रिय-तते यज्ञे"
 +++
 
+<details><summary>Bühler</summary>
+
+205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall never eat at a sacrifice performed by one who has not learnt the Veda; or at one performed by a village-priest, or at one offered by a woman or a eunuch.—(205).
@@ -57,11 +62,6 @@ one who serves as the priest of many persons, or by one who initiates many perso
 <details><summary>गोविन्दराजः</summary>
 
 **नाश्रोत्रियतत** इति । अनधीतवेदेन प्रारब्धे यज्ञे अग्नीषोमीयाद् ऊर्ध्वम् अपि **ब्राह्मणो न भुञ्जीत **। अर्थात् (पुनः) [पूर्वम्] अग्नीषोमीयात् “दीक्षितस्य कदर्यस्य” [४.२१०] इत्य् अनेनैव प्रतिषेधसिद्धेः । सूत्रकारेण अग्नीषोमीयावधिकं दीक्षितस्याभोज्यान्नत्वम् उक्तम् । अतो “दीक्षितस्य कदर्यस्य” इत्य् अयं प्रतिषेधस् तदवधिक एव । सदा बहूनां याजकेन ऋत्विजा **स्त्रिया **वा नपुंसकेन वा यत्र गृहे वैश्वदेवादिहोमः कृतः **न** तत्र कदाचिद् अपि **ब्राःमणो भुञ्जीत** ॥ ४.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
 </details>
 
 <details><summary>भारुचिः</summary>

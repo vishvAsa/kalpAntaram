@@ -2,6 +2,11 @@
 title = "140 शूद्राणाम् मासिकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+140	Sudras who live according to the law, shall each month shave (their heads); their mode of purification (shall be) the same as that of Vaisyas, and their food the fragments of an Aryan's meal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By śūdras living according to law, shaving should be done every month; thus manner of purification should be like that of the Vaiśya; and their food shall consist of the leavings of twice-born men.—(139).
@@ -54,11 +59,6 @@ sipping water as for their masters; besides the *Śūdra* cooks shall daily have
 <details><summary>गोविन्दराजः</summary>
 
 **शूद्राणाम्** इति । शास्त्रमर्यादानुवर्तिनो द्विजात्याश्रितानां शूद्राणाम् आश्रयभूतद्विजातीनां मासि मासि मुण्डनं वैश्यवच् च “एका लिङ्गे” इत्याद्याचमनपर्यन्तशौचविधिः कार्यः, द्विजोच्छिष्टभोजनप्रकृतत्वाद् आत्मसम्बन्धे दातव्यम् ॥ ५.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	Sudras who live according to the law, shall each month shave (their heads); their mode of purification (shall be) the same as that of Vaisyas, and their food the fragments of an Aryan's meal.
 </details>
 
 <details><summary>भारुचिः</summary>

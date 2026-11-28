@@ -2,6 +2,11 @@
 title = "195 धर्मध्वजी सदा"
 +++
 
+<details><summary>Bühler</summary>
+
+195	(A man) who, ever covetous, displays the flag of virtue, (who is) a hypocrite, a deceiver of the people, intent on doing injury, (and) a detractor (from the merits) of all men, one must know to be one who acts like a cat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who displays his flag of virtue, is ever covetous, a cheat and a hypocrite, intent on doing harm, and the traducer of all persons, is to be known as “one behaving like the cat.”—(195)
@@ -82,11 +87,6 @@ This verse is quoted in *Aparārka* (p. 170);—in *Mitākṣarā* (on 1.130);�
 <details><summary>गोविन्दराजः</summary>
 
 बैडालव्रतिकादिलक्षणम् आह **धर्मध्वजीति** । धर्मः चिह्नम् इति लोकख्यापनार्थं प्रकाशदेशावरणात् यस्य स **धर्मध्वजी** । **लुब्धः** कृपणः **छाद्मिकः** गूढपापो **लोकदम्भको **वञ्चकः **हिंस्रः **हिंसाशीलः **सर्वाभिसन्धकः** परगुणासहनतया सर्वाक्षेपकः स बिडालव्रतेन चरतीति **बैडालव्रतिको **ब्राह्मणो ज्ञेयः ॥ ४.१९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-195	(A man) who, ever covetous, displays the flag of virtue, (who is) a hypocrite, a deceiver of the people, intent on doing injury, (and) a detractor (from the merits) of all men, one must know to be one who acts like a cat.
 </details>
 
 <details><summary>भारुचिः</summary>

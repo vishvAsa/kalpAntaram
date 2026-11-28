@@ -3,6 +3,11 @@ title = "225 अकन्येति तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+225	But that man who, out of malice, says of a maiden, 'She is not a maiden,' shall be fined one hundred (panas), if he cannot prove her blemish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, through malice, speaks of a maiden as ‘not a virgin’ he should receive the punishment of one hundred, if unable to prove her impurity.—(225)
@@ -66,9 +71,4 @@ Do. (12.34-36).—‘When a man, from hatred, declares a maiden to have lost her
 <details><summary>भारुचिः</summary>
 
 स्वशब्दव्याख्यातः श्लोकः । कस्य पुनर् हेतोर् अयं दण्डो महान् विधीयते, येन — ॥ ८.२२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	But that man who, out of malice, says of a maiden, 'She is not a maiden,' shall be fined one hundred (panas), if he cannot prove her blemish.
 </details>

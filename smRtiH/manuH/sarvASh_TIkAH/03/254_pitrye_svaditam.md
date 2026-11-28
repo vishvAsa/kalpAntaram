@@ -2,6 +2,11 @@
 title = "254 पित्र्ये स्वदितम्"
 +++
 
+<details><summary>Bühler</summary>
+
+254	At a (Sraddha) in honour of the manes one must use (in asking of the guests if they are satisfied, the word) svaditam; at a Goshthi-sraddha, (the word) susrutam; at a Vriddhi-sraddha, (the word) sampannam; and at (a rite) in honour of the gods, (the word) rukitam.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the rite in honour of the Pitṛs, one should say “svaditam” (well-dined); at the Goṣṭha, “suśṛtam” (well-cooked); at the Ābhyudayika rite, “sampannam” (accomplished); and at the rite in honour of the gods, “rucitam” (agreeable).—(254)
@@ -88,11 +93,6 @@ the Ābhyudayika offerings—*Sampannam*.’
 <details><summary>गोविन्दराजः</summary>
 
 **पित्र्ये स्वदितम् इत्य् एवं गोष्ठे वाच्यम् इति शृतम्** इति । अन्येनापि श्राद्धकालोपस्थितेन स्वदितम् इत्य् एवं गोगणमध्ये च शृतम् इति, **सम्पन्नम् इति**, विवाहादौ देवतार्थं **रोचितम्** इति ॥ ३.२५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-254	At a (Sraddha) in honour of the manes one must use (in asking of the guests if they are satisfied, the word) svaditam; at a Goshthi-sraddha, (the word) susrutam; at a Vriddhi-sraddha, (the word) sampannam; and at (a rite) in honour of the gods, (the word) rukitam.
 </details>
 
 <details><summary>भारुचिः</summary>

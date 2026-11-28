@@ -3,6 +3,11 @@ title = "118 यानि राजप्रदेयानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	Those (articles) which the villagers ought to furnish daily to the king, such as food, drink, and fuel, the lord of one village shall obtain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Village-lord shall get daily those things that ought to be furnished to the King by the villagers, in the shape of food, drink, fuel and the rest.—(118)
@@ -51,9 +56,4 @@ village, which is large, prosperous and well-populated. The Lord of a thousand v
 <details><summary>गोविन्दराजः</summary>
 
 **यानीति** । **यानि** ग्रामवासिभिर् अन्नपानादीनि सर्वाणि स्वामिने दातव्यानि तानि ग्रामाधिपतिर् गृह्णीयात् ॥ ७.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	Those (articles) which the villagers ought to furnish daily to the king, such as food, drink, and fuel, the lord of one village shall obtain.
 </details>

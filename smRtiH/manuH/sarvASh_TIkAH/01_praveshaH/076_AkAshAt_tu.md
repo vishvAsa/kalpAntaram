@@ -3,6 +3,11 @@ title = "076 आकाशात् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After Ākāśa, from out of the same evolvent [‘Mind’], there comes into existence the pure and potent Wind, the vehicle of all odours; and it is held to be endowed with the quality of Touch.—(76)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 <details><summary>गोविन्दराजः</summary>
 
 **आकाशात् त्व्** इति । **आकाशात् **स्व(स)विकारजननोन्मुखीभूतात् **वायुः **सुरभ्यसुरभि**गन्धवहः शुचिः** पवित्रो **बलवांश् **च **जायते । स** च **स्पर्शगुण**युक्तः ऋषीणां **मतः** ॥ १.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.
 </details>

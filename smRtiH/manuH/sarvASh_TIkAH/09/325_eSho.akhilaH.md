@@ -3,6 +3,11 @@ title = "325 एषो ऽखिलः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+325	Thus the eternal law concerning the duties of a king has been fully declared; know that the following rules apply in (due) order to the duties of Vaisyas and Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been expounded the whole of the eternal Law relating to the Duties of the King; the law relating to the Vaiśya and the Śūdra respectively should be understood to be as follows.
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 9.323].
 <details><summary>भारुचिः</summary>
 
 श्लोकद्वयेन राजधर्मोपसंहारो [वैश्य]शूद्रवृत्तिधर्मोपक्षेपविशेषार्थो विज्ञेयः । तथा च तं विशेषं प्रदर्शयति- यत्कृतो ऽस्य पुनरारम्भः ॥ ९.३२४–२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-325	Thus the eternal law concerning the duties of a king has been fully declared; know that the following rules apply in (due) order to the duties of Vaisyas and Sudras.
 </details>

@@ -2,6 +2,11 @@
 title = "081 ॐ-कार-पूर्विकास् तिस्रो"
 +++
 
+<details><summary>Bühler</summary>
+
+081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The three imperishable Mahāvyāhṛtis preceded by the syllable ‘oṃ,’ and the three-footed Sāvitrī,—these should be regarded as the ‘Mouth of Brahman.’—(81)
@@ -91,11 +96,6 @@ Sāvitrī verse,—these constitute the *Sāvitra*, whereby one becomes absolved
 <details><summary>गोविन्दराजः</summary>
 
 **ओङ्कारपूर्विका** इति । **ओङ्कारपूर्विकास् तिस्र** एताः भूराद्या **महाव्याहृतयः अव्ययाः **अविनाशिन्यः तत्फल्स्य दीर्घकालत्वात् पादत्रयम् उक्ता चैषा “तत् सवितुर् वरण्यम्” इति **सावित्री ब्रह्मणो मुखं** वेदप्राप्तिद्वारं **विज्ञेयम् **। अतः स्वाध्यायादाव् एतद् अध्येयम् इति प्रकृतार्थस्तुतिः ॥ २.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

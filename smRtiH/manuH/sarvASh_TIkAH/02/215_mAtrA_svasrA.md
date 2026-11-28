@@ -2,6 +2,11 @@
 title = "215 मात्रा स्वस्रा"
 +++
 
+<details><summary>Bühler</summary>
+
+215	One should not sit in a lonely place with one's mother, sister, or daughter; for the senses are powerful, and master even a learned man.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not sit alone with his mother, sister or daughter. The powerful host of sense-organs overpowers even the learned.—(215)
@@ -33,11 +38,6 @@ See Comparative notes for [Verse 2.213].
 <details><summary>गोविन्दराजः</summary>
 
 **मत्रेति** । मातृभगिनीदुहितृभिर् अपि सह विजने न आसीत । यतो ऽप्रधृष्य **इन्द्रिय**समूहः शास्त्रज्ञम् अपि प्रसङ्गात् च्यावयति ॥ २.२१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	One should not sit in a lonely place with one's mother, sister, or daughter; for the senses are powerful, and master even a learned man.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "073 तद् वै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who know the ‘Day of Brahmā’ as ending with the (said) thousand ‘time-cycles,’ and the ‘night’ also as of the same extent,—are people who alone know what is ‘day and night’, and acquire merit.—(73)
@@ -37,9 +42,4 @@ If it be asked—what happens to the people who know this?—it is added that �
 <details><summary>गोविन्दराजः</summary>
 
 **तद्** इति । युगसहस्रेणान्तो यस्य तत् प्राजापत्यम् अहः तद्वेदनस्य पुण्यहेतुत्वात् **पुण्यं रात्रिं** च तत् परिमाणतो ये विजानन्ति ते **अहोरात्र**ज्ञनिनः, न तु मनुष्याद्यहोरात्रवेदनेनेति । ब्रह्माहर्विज्ञानप्रशंसा तद्वेदनाप्ररोचनार्थम् ॥ १.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.
 </details>

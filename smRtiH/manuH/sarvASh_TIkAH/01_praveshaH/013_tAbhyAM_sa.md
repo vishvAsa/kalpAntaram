@@ -2,6 +2,11 @@
 title = "013 ताभ्यां स"
 +++
 
+<details><summary>Bühler</summary>
+
+013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of those two pieces (of the egg) he formed Heaven and Earth, and, between them, the Ākāśa, the eight quarters and the eternal receptacle of water.—(13)
@@ -36,11 +41,6 @@ Out of those two pieces (of the egg) he formed Heaven and Earth, and, between th
 <details><summary>गोविन्दराजः</summary>
 
 **ताभ्याम्** इति । **ताभ्याम् **अण्डकपालाभ्यां **स** ब्रह्मा एकेन **दिवं **अपरेण **च भूमिं** निर्मितवान् । तयोश् च **मध्ये **आकाशं दिशश् चान्तरालदिग्भिः सह्**आष्टौ अपां स्थानं च **स्थिरं समुद्राख्यं **निर्ममे **। एतच् च तत्त्वैर् महदादिभिर् निर्मितवान् ॥ १.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.
 </details>
 
 <details><summary>भारुचिः</summary>

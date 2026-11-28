@@ -3,6 +3,11 @@ title = "032 इच्छयान्योन्यसंयोगः कन्
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	The voluntary union of a maiden and her lover one must know (to be) the Gandharva rite, which springs from desire and has sexual intercourse for its purpose.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mutual union of the bride and bridegroom, through love is to be known as the “Gāndharva” form; it has sexual intercourse for its end and it has its source in lust.—(32).
@@ -73,9 +78,4 @@ it is Gāndharva.’
 > पूर्वं परिणयस् तेषां पश्चाद् धोमो विधीयते ॥
 
 इति बह्वृचगृह्यपरिशिष्टदर्शनात् । भारतादौ च मुख्योपगमनवत् । एवं च “पाणिग्रहणका मन्त्राः” इत्यादि नरान्तरोपभुक्तकन्याविषये ऽवतिष्ठते, “पुनर् वैवाहिको विधिः कर्तव्यः” इत्यादिवचनात् गमनोत्तरकालम् अकृतसंस्कारा द्विजातीनां भार्या न भवति, शूद्रस्य भवत्य् एव, “त्रिभिर् वर्णैः” इत्य् उपादानात् तथाविधस्य पुत्रस्य रिक्थभाग् (-भाग्क्त्व-) दर्शनात् ॥ ३.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	The voluntary union of a maiden and her lover one must know (to be) the Gandharva rite, which springs from desire and has sexual intercourse for its purpose.
 </details>

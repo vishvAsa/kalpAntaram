@@ -3,6 +3,11 @@ title = "042 स्वानि कर्माणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	For men who follow their particular occupations and abide by their particular duty, become dear to people, though they may live at a distance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For men following their respective occupations,—even though living at a distance,—come to be liked by the people, while they remain firm in their own duties.—(42)
@@ -48,9 +53,4 @@ the country, caste or race should be maintained in the same condition. Those who
 <details><summary>भारुचिः</summary>
 
 सामयिकधर्मानुपालनप्रशंएयम् (?), प्ररोचनार्था ॥ ८.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	For men who follow their particular occupations and abide by their particular duty, become dear to people, though they may live at a distance.
 </details>

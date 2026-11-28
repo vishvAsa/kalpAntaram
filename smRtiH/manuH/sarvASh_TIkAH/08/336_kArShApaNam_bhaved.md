@@ -3,6 +3,11 @@ title = "336 कार्षापणम् भवेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+336	Where another common man would be fined one karshapana, the king shall be fined one thousand; that is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When an ordinary man would be fined one ‘Kārṣāpaṇa,’ the king should be fined one thousand; such is the established rule.—(336)
@@ -54,9 +59,4 @@ This verse is quoted in *Vivādaratnākara* (p. 654), which adds that the ‘rā
 <details><summary>भारुचिः</summary>
 
 राज्ञो ऽपि धर्मव्यतिक्रमम् आसेव्य यथोक्तात् सहस्रगुणो दण्डः वरुणायाप्सु प्रवेश्यो ऽयं ब्राह्मणेभ्यो वा विद्वद्भ्यः उपपाद्यः । अन्यस्यापि च दण्डहिरण्यस्याइताम् एव तद्द्वयीं प्रतिपत्तिं वक्ष्यति । य्क्तं च यन् महादण्डो राज्ञः स्याद् अल्पे ऽप्य् अपराधे येनासौ धर्मज्ञस् तद्व्यवस्थाहेतुश् च सन् धर्मव्यतिक्रमे वर्तते । तथा [सति ऽवि]दुषो ऽतिक्रमे दण्डभूयस्तम्" ज्यायसो ऽप्य् आहुः ॥ ८.३३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-336	Where another common man would be fined one karshapana, the king shall be fined one thousand; that is the settled rule.
 </details>

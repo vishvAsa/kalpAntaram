@@ -3,6 +3,11 @@ title = "088 सङ्ग्रामेष्व् अनिवर्तित
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	Not to turn back in battle, to protect the people, to honour the Brahmanas, is the best means for a king to secure happiness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Not shrinking from battle, protecting the people, and attending on brāhmaṇas,—is the best means of securing happiness for kings.—(88)
@@ -45,9 +50,4 @@ the Brāhmaṇas whatever is obtained in war, and to grant fearlessness to their
 <details><summary>भारुचिः</summary>
 
 यथा प्रजापालनब्राह्मणशुश्रूषणे राज्ञां विशिष्टो धर्म, एवं संग्रामेष्व् अनिवर्तित्वम् इत्य् अनिवृत्तिस्तुतिः ॥ ७.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	Not to turn back in battle, to protect the people, to honour the Brahmanas, is the best means for a king to secure happiness.
 </details>

@@ -3,6 +3,11 @@ title = "223 सन्ध्याञ् चोपास्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+223	Having performed his twilight-devotions, let him, well armed, hear in an inner apartment the doings of those who make secret reports and of his spies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having attended to his twilight devotions, he shall, well- armed, listen, in an inner room, to the doings of persons making eecret reports, and also of his spies.—(223)
@@ -61,9 +66,4 @@ by some artifice.’
 <details><summary>गोविन्दराजः</summary>
 
 **सन्ध्याम्** इति । ततः सन्ध्योपासनं कृत्वा गृहाभ्यन्तरे भृतशस्त्रो रहस्याभिधायिनां स्वव्यापारं **शृणुयात्** ॥ ७.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	Having performed his twilight-devotions, let him, well armed, hear in an inner apartment the doings of those who make secret reports and of his spies.
 </details>

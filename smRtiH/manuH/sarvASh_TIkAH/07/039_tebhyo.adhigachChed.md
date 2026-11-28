@@ -3,6 +3,11 @@ title = "039 तेभ्यो ऽधिगच्छेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	Let him, though he may already be modest, constantly learn modesty from them; for a king who is modest never perishes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Though his mind be already disciplined, he shall always learn discipline from them; the King with a disciplined mind never perishes.—(39).
@@ -54,9 +59,4 @@ comes through the dictates of Śāstra; it gives mastery over the senses.’
 <details><summary>भारुचिः</summary>
 
 विनयो हि द्विविधः- वाभाविकः आधेयश् च । शुश्रूषादिगुणयुक्तं च विद्या विनयति । अतो यद्य् अपि स्वभावतो विनीतात्मा भवेत्, तथाप्य् अभ्यासेन पाटवं जनयेत् । कस्मात् । पुनर् इयान् विनयाधाने यत्न आस्थीयते ॥ ७.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	Let him, though he may already be modest, constantly learn modesty from them; for a king who is modest never perishes.
 </details>

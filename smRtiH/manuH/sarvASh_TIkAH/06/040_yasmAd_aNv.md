@@ -3,6 +3,11 @@ title = "040 यस्माद् अण्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	For that twice-born man, by whom not the smallest danger even is caused to created beings, there will be no danger from any (quarter), after he is freed from his body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person, from whom not the slightest danger arises to living beings, suffers no danger from any source, when he has become freed from his body.—(40).
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 6.39].
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-040	For that twice-born man, by whom not the smallest danger even is caused to created beings, there will be no danger from any (quarter), after he is freed from his body.
 </details>

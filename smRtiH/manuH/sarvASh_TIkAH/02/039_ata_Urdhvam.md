@@ -2,6 +2,11 @@
 title = "039 अत ऊर्ध्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Beyond this, all these three, not having received the sacrament at the proper time, become excluded from Sāvitrī (initiation), and thereby come to be known as ‘Vrātyas’ (apostates), despised by all good men.—(39)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 2.38].
 <details><summary>गोविन्दराजः</summary>
 
 **अत ऊर्ध्वम्** इति । **एते** **यथाकालं** यो यस्योपनयनकालः तत्रोपकल्पिते ऽपि **असंस्क्र्ताः **सन्तः अस्मात् कालात् **ऊर्वं सावित्रीपतिताः** उपनयनभ्रष्टाः शिष्ट**विगर्हिताः **सन्तो **व्रात्य**सञ्ज्ञा भवन्ति । सञ्ज्ञाविधानं “व्रात्यानां याजनं कृत्वा” इत्य् एवमादिव्यवहारार्थम् ॥ २.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	After those (periods men of) these three (castes) who have not received the sacrament at the proper time, become Vratyas (outcasts), excluded from the Savitri (initiation) and despised by the Aryans.
 </details>
 
 <details><summary>भारुचिः</summary>

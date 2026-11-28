@@ -2,6 +2,11 @@
 title = "107 अस्मिन् धर्मो"
 +++
 
+<details><summary>Bühler</summary>
+
+107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Herein has been expounded Dharma in its entirety: the good and bad features of actions of all the four castes; as also eternal Morality.—(107)
@@ -60,11 +65,6 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 <details><summary>गोविन्दराजः</summary>
 
 **अस्मिन्न्** इति । **अस्मिन्** स्मार्तो **धर्मः** कार्त्स्न्येनोक्तः **कर्मणां च **विहितप्रतिषिद्धानाम्, **गुणदोषौ** इष्टानिष्टफले **वर्णानाम्** **आचारः **पुरुषघर्माख्यः साधारणप्राधान्यख्यापनार्थं चास्य पृथग् ग्रहणम् । एवं चैव तत्सन्निधौ धर्मशब्दो ऽत्र साधारणः सन्ध्योपासनादिप्रतिवचनः ॥ १.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
 </details>
 
 <details><summary>भारुचिः</summary>

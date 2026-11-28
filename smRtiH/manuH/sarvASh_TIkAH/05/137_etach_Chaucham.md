@@ -2,6 +2,11 @@
 title = "137 एतच् छौचम्"
 +++
 
+<details><summary>Bühler</summary>
+
+137	Such is the purification ordained for householders; (it shall be) double for students, treble for hermits, but quadruple for ascetics.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such is the purification for householders; double of this for students, treble for hermits, and quadruple for renunciates.—(135).
@@ -43,11 +48,6 @@ is double for students, treble for hermits and quadruple for ascetics.’
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्** इति । यद् **एतद्** “एका लिङ्गे” इत्यादि शौचम् एतद् उक्तं **गृहस्थानाम्** एव ब्रह्मचारि-वानप्रस्थभिक्षूणाम् एतद् एव द्वित्रिचतुर्गुणम् ॥ ५.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Such is the purification ordained for householders; (it shall be) double for students, treble for hermits, but quadruple for ascetics.
 </details>
 
 <details><summary>भारुचिः</summary>

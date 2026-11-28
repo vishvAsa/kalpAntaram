@@ -2,6 +2,11 @@
 title = "006 वेदो ऽखिलो"
 +++
 
+<details><summary>Bühler</summary>
+
+006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The entire Veda is the root-source of Dharma; also the Conscientious Recollection of righteous persons versed in the Veda, the Practice of Good (and learned) Men, and their self-satisfaction.—(6)
@@ -1439,11 +1444,6 @@ From the above we conclude that all the authorities are agreed on the following 
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं धर्मप्रमाणपरिगणनार्थम् आह – **वेद** इति । **वेदः **ऋग्यजुःसामलक्षणः** अखिलः** समग्रः । अर्थवादादीनाम् अपि विध्येकवाक्यत्वेन श्रवणात् **धर्मस्य मूलं **प्रमाणं मिथाज्ञानसंशयाभावात् निसर्गप्रामाण्याच् च । एतन् न्यायसिद्धम् । एतद् अस्यानूद्यते **स्मृत्य्**आदीनां तन्मूलत्वेन प्रामाण्यप्रतिपादनाय । तथा च मानवादिशास्त्रोपनिबन्धनं वेदविदां कर्तव्याकर्तव्यस्मरणम् **शीलं च** रागद्वेषपरित्यागात्मकम्, **आचारश् च** विवाहादौ कङ्कणबन्धनाद्याचरणरूपः, **साधूनां** धर्मिकाणां **आत्मनस् तुष्टिश् च** अदृष्टार्थाचर्यमाणपदार्थचेतः परितोषरूपा वैकल्पिकपदार्थविषया च धर्मं प्रति प्रमाणम् । एषां सर्वेषां वेदमूलकत्वात् ॥ २.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.
 </details>
 
 <details><summary>भारुचिः</summary>

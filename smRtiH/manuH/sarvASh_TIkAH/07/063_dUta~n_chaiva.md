@@ -3,6 +3,11 @@ title = "063 दूतञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	Let him also appoint an ambassador who is versed in all sciences, who understands hints, expressions of the face and gestures, who is honest, skilful, and of (noble) family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As ambassador he shall appoint one who is well versed in all the sciences, who understands hints, expressions and gestures, who is honest, expert and born of a noble family.—(63)
@@ -79,9 +84,4 @@ wise king shall depute to the court of the monarch against whom he intends to ma
 <details><summary>भारुचिः</summary>
 
 **दूतो** ऽमात्यगुणसंपदुपेतः कार्यः, **सर्वशास्त्रविशारदो**पदेशात् । इमाश् **चेङ्गिताकारचेष्टा** दूतेनावश्यं वेदितव्याः । परविषये राज्ञः । तत्र संधित्सत इमानीङ्गितानि दूतस्यादरेण सम्प्[अरिग्रहः, विश्वसनम्, मुहुः संपूजनम्, तद्वाक्यस्य चानसूयाभिनन्दनम् । एतान्य् एव विपर्यस्तानि विजिघृक्षतः । **आकारः** खलु शरीरगतः, म्लानमुखता वर्णविपर्ययः । तूष्णींभावो दीर्घोष्णनिश्वासादिः शरीरविकारो दैन्यं सूचयति । प्रसन्नमुखता वाक्यवैशारद्यं शरीरसंस्कार इत्य् एवमादि हर्षम् सूचयति । चेष्टासु कर्मस्व् अनभ्युत्थानं दैन्यम् आविष्करोति कार्यव्यापद्विषादानुगतम्, अभ्युत्थानं पुनर् हर्षं विपर्यये । **शुचित्वम्** अस्य दूतस्य स्त्रीगते ऽर्थगते [च] । स च विशेषेणोपदिश्यते । स्त्रीसंबन्धे मन्त्रभेदः परिभवश् चार्थग्रहणे कार्यहानिः । **कुलोद्गत**प्रयोजनम् उक्तम् ॥ ७.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	Let him also appoint an ambassador who is versed in all sciences, who understands hints, expressions of the face and gestures, who is honest, skilful, and of (noble) family.
 </details>

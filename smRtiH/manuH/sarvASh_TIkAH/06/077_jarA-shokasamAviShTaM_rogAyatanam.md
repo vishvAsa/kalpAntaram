@@ -3,6 +3,11 @@ title = "077 जरा-शोकसमाविष्टं रोगायत�
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	Let him quit this dwelling, composed of the five elements, where the bones are the beams, which is held together by tendons (instead of cords), where the flesh and the blood are the mortar, which is thatched with the skin, which is foul-smelling, filled with urine and ordure, infested by old age and sorrow, the seat of disease, harassed by pain, gloomy with passion, and perishable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall discard this abode of material substances, where the bones are the pillars, which is held together by the tendons, plastered with flesh and blood; covered with the skin, foul-smelling, and full of urine and ordure;—(76) beset with wrinkles and sorrow, the seat of disease, harassed, sullied with passions and perishable.—(77)
@@ -81,9 +86,4 @@ artificial means is evanescent like a shadow and vanishes even as a bubble of wa
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं अपवर्गसाधनभूतवैराग्योद्भवविषयकायस्वरूपम् आह **अस्थिस्थूणं स्नायुबद्धम्** इति । **जराशोकसमाविष्टम्** इति । पृथिव्यादिभूतविकारमांसादिमयं शरीरम् इदं गृहकं त्यजेत् । रूपकभङ्ग्या चास्य गृहत्वं दर्शयति । अस्थीनि स्थूणा इव यस्य तदवष्टब्धत्वात् स्नायुभिर् बद्धं मांसरुधिराभ्याम् उपलिप्तं चर्मच्छादितं मूत्रपुरीषाभ्यां पूर्णम् अत एव दुर्गन्धिजरोपेताभ्याम् आक्रान्तं व्याधीनां आश्रयभूतम् आतुरं क्षुत्पिपासादिकातरं बाहुल्येन राजसं नश्वरम् इति ॥ ६.७६–७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	Let him quit this dwelling, composed of the five elements, where the bones are the beams, which is held together by tendons (instead of cords), where the flesh and the blood are the mortar, which is thatched with the skin, which is foul-smelling, filled with urine and ordure, infested by old age and sorrow, the seat of disease, harassed by pain, gloomy with passion, and perishable.
 </details>

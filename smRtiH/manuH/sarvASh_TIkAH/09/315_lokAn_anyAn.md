@@ -3,6 +3,11 @@ title = "315 लोकान् अन्यान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+315	Who could prosper, while he injures those (men) who provoked to anger, could create other worlds and other guardians of the world, and deprive the gods of their divine station?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Who could prosper after injuring those who, on being provoked, would create other worlds and other guardians of the regions, and who would make the Gods cease to be Gods?—(315)
@@ -37,9 +42,4 @@ See Comparative notes for [Verse 9.313].
 <details><summary>कुल्लूकः</summary>
 
 ये स्वर्गादिलोकान्परानन्यांश्च लोकपालान्सृजन्तीति सम्भाव्यते। देवांश्च शापेन मानुषादीन्कुर्वन्ति तान्पीडयन् कः समृद्धिंप्राप्नुयात्॥ ३१५॥
-</details>
-
-<details><summary>Bühler</summary>
-
-315	Who could prosper, while he injures those (men) who provoked to anger, could create other worlds and other guardians of the world, and deprive the gods of their divine station?
 </details>

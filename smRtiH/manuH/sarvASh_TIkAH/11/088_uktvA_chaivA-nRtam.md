@@ -3,6 +3,11 @@ title = "088 उक्त्वा चैवाऽनृतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	Likewise for giving false evidence (in an important cause), for passionately abusing the teacher, for stealing a deposit, and for killing (his) wife or his friend:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Similarly also for telling a lie in giving evidence, for angering the preceptor, for misappropriating a trust, and for killing one’s wife or friend.—(88)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 11.87].
 <details><summary>भारुचिः</summary>
 
 अयं श्लोको महापातकसमानां निर्देशे पूर्वत्र कृतविचारः ॥ ११.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Likewise for giving false evidence (in an important cause), for passionately abusing the teacher, for stealing a deposit, and for killing (his) wife or his friend:
 </details>

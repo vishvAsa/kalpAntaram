@@ -3,6 +3,11 @@ title = "060 संयोगम् पतितैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	He who has associated with outcasts, he who has approached the wives of other men, and he who has stolen the property of a Brahmana become Brahmarakshasas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who associates with outcasts, he who approaches the wife of another person, and he who has stolen the property of a Brāhmaṇa, become ‘Brahmarākṣasas.’—(60)
@@ -47,9 +52,4 @@ milk, a crow; that of juice, a dog; that of clarified butter, an ichneumon; that
 <details><summary>गोविन्दराजः</summary>
 
 **संयोगम्** इति । यावता कालेन पतितो भवति तावन्तं कालं ब्रह्मादिभिश् चतुर्भिः सह संसर्गं कृत्वा परस्त्रियं च गत्वा ब्राह्मणस्वं च सुवर्णाद् अन्यद् अपहृत्यैकेन ब्रह्मराक्षसाख्यो भूतविशेषो जायते ॥ १२.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	He who has associated with outcasts, he who has approached the wives of other men, and he who has stolen the property of a Brahmana become Brahmarakshasas.
 </details>

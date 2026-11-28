@@ -3,6 +3,11 @@ title = "279 तडागभेदकं हन्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+279	Him who breaks (the dam of) a tank he shall slay (by drowning him) in water or by (some other) (mode of) capital punishment; or the offender may repair the (damage), but shall be made to pay the highest amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man breaks open a tank, he shall be slain in the water, or by simple form of death; or, he may repair the damage and be made to fay the highest amercement.—(279)
@@ -78,9 +83,4 @@ destroys the inlet of water, he should he made to pay the first amercement.—On
 <details><summary>भारुचिः</summary>
 
 वप्रं तटाकस्य भित्वोदकं हरतो वधो ऽप्स्व् अन्यत्र वा स्थले ऽशक्तस्य प्रतिसंस्कारे, शक्तस्यापि दण्डनम् । पुण्यानुबन्ध एवोभयोर् अप्य् अनुग्रहः कल्पितो भवति, तटाकस्वामिनः तटाकभेदकस्य च । प्रतिसंस्कारपक्षे चास्योत्तमसाहसः पणसहस्रम् ॥ ९.२७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-279	Him who breaks (the dam of) a tank he shall slay (by drowning him) in water or by (some other) (mode of) capital punishment; or the offender may repair the (damage), but shall be made to pay the highest amercement.
 </details>

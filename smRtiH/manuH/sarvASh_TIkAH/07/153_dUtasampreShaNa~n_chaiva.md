@@ -3,6 +3,11 @@ title = "153 दूतसम्प्रेषणञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+153	On sending ambassadors, on the completion of undertakings (already begun), on the behaviour of (the women in) his harem, and on the doings of his spies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —or the sending of ambassadors, the remaining details of undertakings, on the affairs of the harem, and on the work of spies;—(153)
@@ -75,9 +80,4 @@ is explained as ‘spy.’
 <details><summary>भारुचिः</summary>
 
 येन सह सन्धानं विग्रहो वा चिकीर्ष्यते तत्र **दूतसंप्रेषणं** चिन्त्यम् । आरब्ध**कार्यशेष**त्वं च चिन्तयेत्, आस्थापनाय । कक्ष्यान्तरेष्व् अन्तर्वंशिकसैन्याधिष्ठितो ऽन्तःपुरं प्रविशेत् । तत्र स्थविरस्त्रीपरिशुद्धां देवीं पश्येन् नापरिशुद्धाम् । देव्या गृहनिलीनो हि भ्राता भद्रसेनम् जघान, मातुः शयनान्तर्गतश् च पुत्रः कारूषम्, विषदिग्धेन नूपुरेण वैरन्त्यं [देवी] जघान, मेखलामणिना सौविरम्, वेण्यां निगूढेन शस्त्रेण विदूरथम् । तस्माद् एतान्य् आस्पदस्थानानि यत्नतः परीक्षेत । मुण्डजटिलकुहकपर्तिसंसर्गं बाह्याभिश् च दासीभिर् अन्तःपुरदासीनां प्रतिषेधयेत् । **प्रणिधीनां** च कापटिकादीनां चारपरम्पराभिश् **चेष्टितं** चिन्तयेत् ॥ ७.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	On sending ambassadors, on the completion of undertakings (already begun), on the behaviour of (the women in) his harem, and on the doings of his spies.
 </details>

@@ -2,6 +2,11 @@
 title = "242 नाऽब्राह्मणे गुरौ"
 +++
 
+<details><summary>Bühler</summary>
+
+242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A pupil, desiring an unsurpassable state, shall not be in life-long residence with a non-Brāhhaṇa teacher; or with a Brāhmaṇa-teacher who is not an expounder.—(242)
@@ -64,11 +69,6 @@ See Comparative notes for [Verse 2.241].
 <details><summary>गोविन्दराजः</summary>
 
 एवं वक्ष्यमाणस्य नैष्ठिकस्यापि अब्राह्मणाद् अध्ययनाद् यावज्जीवं तद् अगृहवासप्राप्तौ इदं तन्निषेधार्थम् आह **नेति **। नैष्ठिकः **शिष्यो ऽब्राह्मण**गुरुगृहे अध्यपनाचाराभिजनशून्यब्राह्मणगृहे वा सर्वोत्कृष्टां गतिम् इच्छन् यावज्जीविकं **वासं **न कुर्यात् ॥ २.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
 </details>
 
 <details><summary>भारुचिः</summary>

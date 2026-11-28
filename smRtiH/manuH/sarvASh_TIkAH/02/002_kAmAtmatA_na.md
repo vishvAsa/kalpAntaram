@@ -2,6 +2,11 @@
 title = "002 कामात्मता न"
 +++
 
+<details><summary>Bühler</summary>
+
+002	To act solely from a desire for rewards is not laudable, yet an exemption from that desire is not (to be found) in this (world): for on (that) desire is grounded the study of the Veda and the performance of the actions, prescribed by the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is not right to be absorbed in desires—“But there is in this world, no absolute absence of desire; for the study of the Vedas itself is prompted by desire, as also every act prescribed in the Veda.”—(2)
@@ -131,11 +136,6 @@ should undertake that which he likes.’
 <details><summary>गोविन्दराजः</summary>
 
 परिभाषान्तरम् आह – **कामात्मतेति** । **कामात्मता न प्रशस्ता,** फलाभिलाषशीलत्वम् अयुक्तम् । यतः शास्त्रचोदितकर्माणि फलाद्भिलाषत्यागेनाचर्यमाणान्य् आत्मज्ञानसाचिव्येन मोक्षाय कल्पन्ते । फलेच्छया त्व् अनुष्ठाने तेषां संसारहेतुत्वात् । अस्तु (परन् तु) कामात्मता न प्रशस्तेत्य् अनेनेच्छा निषिद्धा, एतन् मत्वाह – **न चैवेति** । इच्छाम् अन्तरेण **नेह** शास्त्रे प्रवृत्तिर् अस्ति यस्माद् वेदस्वीकरणं वैदिककर्मसम्बन्धश् चाभिलषणीय एव ॥ २.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	To act solely from a desire for rewards is not laudable, yet an exemption from that desire is not (to be found) in this (world): for on (that) desire is grounded the study of the Veda and the performance of the actions, prescribed by the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

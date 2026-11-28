@@ -3,6 +3,11 @@ title = "333 यस् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+333	On that man who may steal (any of) the above-mentioned articles, when they are prepared for (use), let the king inflict the first (or lowest) amercement; likewise on him who may steal (a sacred) fire out of the room (in which it is kept).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man steals these things when they have been prepared, the king should fine him one hundred; as also him who steals the fire from the house.—(333)
@@ -88,9 +93,4 @@ This verse is quoted in *Vivādacintāmaṇi* (p. 140), which says the ‘fire�
 <details><summary>भारुचिः</summary>
 
 य एतानि सूत्रादीनि यथोक्तान्य् उपकॢप्तानि यथाकथंचिद् अवगुप्तान्य् अपि प्रसभं स्तेनयेत् तं राजा प्रसङ्गनिवृत्त्यर्थम् अल्पे महति वा शतम् अविशेषेण दण्डयेत् । अग्नेश् चादरार्थं पृथग्ग्रहणम् । अपि च सूत्रादौ गणे मूल्याद् द्विगुणो दम उच्यते । न चाग्नेः क्रयविक्रय्[औ, अथः तं शतं दण्ड्]अयेद् राजा यश् चाग्निं चोरयेद् गृहात् । भोगायोपकॢप्तानि- एतानि यथासंभवं भोगाभिमुखेषु यो ऽपहरेत् तस्याद्यो दण्डः, यश् च परिगृहीतो ऽग्निः तम् एव वा दौःशील्याद् उपहरेत् । साधनं वा स्रुक्स्रुवोलूखलमुसलाद्य् अग्न्यर्थत्वाद् अग्निशब्देनोच्यते गुणतः ॥ ८.३३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-333	On that man who may steal (any of) the above-mentioned articles, when they are prepared for (use), let the king inflict the first (or lowest) amercement; likewise on him who may steal (a sacred) fire out of the room (in which it is kept).
 </details>

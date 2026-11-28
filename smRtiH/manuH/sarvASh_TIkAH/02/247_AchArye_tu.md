@@ -3,6 +3,11 @@ title = "247 आचार्ये तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Preceptor having died, he should serve, in the same manner as the Preceptor, the qualified son of the Preceptor, or the Preceptor’s wife, or his Sapiṇḍa.—(247)
@@ -53,9 +58,4 @@ either with his son, or with his wife or with his fire.’
 <details><summary>गोविन्दराजः</summary>
 
 नैष्ठिकधर्मविध्यर्थम् आह **आचार्य **इति । **आचार्ये **प्रमीते **गुरुवत् गुरुपुत्रदारसपिण्डानां** पूर्वस्य पूर्वस्याभावे उत्तरोत्तरस्य शुश्रूषा कुर्यात् ॥ २.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.
 </details>

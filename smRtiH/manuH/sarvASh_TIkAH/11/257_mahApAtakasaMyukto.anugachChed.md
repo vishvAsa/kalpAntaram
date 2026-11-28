@@ -3,6 +3,11 @@ title = "257 महापातकसंयुक्तो ऽनुगच्छ
 
 +++
 
+<details><summary>Bühler</summary>
+
+258	He who is stained by mortal sin, becomes pure, if, with a concentrated mind, he attends cows for a year, reciting the Pavamani (hymns) and subsisting on alms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who is polluted by a ‘heinous offence,’ should, with concentrated mind, attend upon cows; and by repeating the Pāvamānī verses and subsisting on alms for one year, he becomes pure.—(257)
@@ -48,9 +53,4 @@ repeated acts;—and in *Prāyaścittaviveka* (p. 501).
 <details><summary>भारुचिः</summary>
 
 **पावमान्यः** "उपास्मै गायता नर" इत्य् आरभ्य यावद् "यः पावमानीर् अध्येति" इत्य् एषा ऋक् । गवां च सेवनं गोघातप्रायश्चित्तम् उक्तम् । इहापि तच्छेषं द्रष्टव्यम् ॥ ११.२५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-258	He who is stained by mortal sin, becomes pure, if, with a concentrated mind, he attends cows for a year, reciting the Pavamani (hymns) and subsisting on alms.
 </details>

@@ -3,6 +3,11 @@ title = "091 सर्वभूतेषु चात्मानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	He who sacrifices to the Self (alone), equally recognising the Self in all created beings and all created beings in the Self, becomes (independent like) an autocrat and self-luminous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who perceives the Self in all beings, and all beings in the Self,—and sacrifices to the Self,—attains self-sovereignty.—(91)
@@ -133,9 +138,4 @@ recognises all creatures in the Self, who pondering thereon, does not become bew
 > **स्वाराज्यम् अधिगच्छति  ॥ १२.९१ ॥**
 
 यथोक्तेन श्रुत्युक्तेनात्मयाजित्वेनापवर्गाय कल्पते । स्वतन्त्रः संसारे भवति न कर्मक्लेशवासगः । एतच् च प्रसंख्यानं रागद्वेषग्रहणार्थवियुक्तम् अपवर्गाय स्यात् । संयमस्तुत्यर्थो वायं श्लोकः । आत्मज्ञानम् तु पूर्वत्र संस्कृतम् एव । उभयार्थो वा संभवाद् उभयत्र ॥ १२.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	He who sacrifices to the Self (alone), equally recognising the Self in all created beings and all created beings in the Self, becomes (independent like) an autocrat and self-luminous.
 </details>

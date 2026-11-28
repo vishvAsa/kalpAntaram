@@ -3,6 +3,11 @@ title = "165 भक्ष्य-भोज्यापहरणे यान-श�
 
 +++
 
+<details><summary>Bühler</summary>
+
+166	(To swallow) the five products of the cow (pankagavya) is the atonement for stealing eatables of various kinds, a vehicle, a bed, a seat, flowers, roots, or fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the stealing of eatables and edibles, of a conveyance or a bed, or a seat, or of fruits, roots and flowers,—the expiation consists of the Five Products of the cow.—(165)
@@ -54,9 +59,4 @@ flowers, roots or fruits, the drinking of the five bovine products has been orda
 <details><summary>भारुचिः</summary>
 
 अत्र च संख्या भक्ष्यभोज्यादीनाम् आवृत्त्यपेक्षया सप्रत्ययाप्रत्ययतो वा ॥ ११.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	(To swallow) the five products of the cow (pankagavya) is the atonement for stealing eatables of various kinds, a vehicle, a bed, a seat, flowers, roots, or fruit.
 </details>

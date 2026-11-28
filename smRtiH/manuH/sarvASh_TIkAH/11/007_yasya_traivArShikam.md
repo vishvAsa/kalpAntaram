@@ -3,6 +3,11 @@ title = "007 यस्य त्रैवार्षिकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+007	He who may possess (a supply of) food sufficient to maintain those dependant on him during three years or more than that, is worthy to drink the Soma-juice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For this reason, if a twice-born person possessing less wealth drinks Soma, he does not obtain its reward, even though he may have drunk Soma formerly.—(7)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 11.6].
 <details><summary>भारुचिः</summary>
 
 एवं च सति काम्यसोमापेक्षो ऽयं सामर्थ्याद् उपदेशो द्रष्टव्यः । नित्यस्य हि सोमस्य भृत्योपरोधेनापि करणम् इष्यते, नित्यत्वाद् एव । तथा च सत्य् अत्र तदैव दाननियमो युज्यते, यथोक्तो यक्ष्यमाणाय देयम् इति । इदं सोमग्रहणं सर्वकाम्यकर्मप्रदर्शनार्थम्, कारणस्य [स]मानत्वात् ॥ ११.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	He who may possess (a supply of) food sufficient to maintain those dependant on him during three years or more than that, is worthy to drink the Soma-juice.
 </details>

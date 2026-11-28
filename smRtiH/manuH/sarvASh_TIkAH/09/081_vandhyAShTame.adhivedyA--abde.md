@@ -3,6 +3,11 @@ title = "081 वन्ध्याष्टमे ऽधिवेद्या-�
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	A barren wife may be superseded in the eighth year, she whose children (all) die in the tenth, she who bears only daughters in the eleventh, but she who is quarrelsome without delay.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The barren wife shall be superseded in the eighth year; in the tenth she whose children die off; in the eleventh she who bears only daughters; but immediately she who talks harshly.—(81)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 9.77].
 <details><summary>भारुचिः</summary>
 
 धर्महानौ सत्याम् । एतद् आसाम् अधिवेदननियमतो विज्ञेयम्, येन जातपुत्रस्याधिकारः श्रौतेषु । अप्रियवादिन्यास् त्व् अनित्यम् अधिवेदनम्, जातपुत्रत्वे सति तया सहाधिकृतत्वात् कर्मसु ॥ ९.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	A barren wife may be superseded in the eighth year, she whose children (all) die in the tenth, she who bears only daughters in the eleventh, but she who is quarrelsome without delay.
 </details>

@@ -3,6 +3,11 @@ title = "096 उत्पद्यन्ते च्यवन्ते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	All those (doctrines), differing from the (Veda), which spring up and (soon) perish, are worthless and false, because they are of modern date.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those other (doctrines) which spring up and perish are all worthless and false, being of modern growth.—(96)
@@ -49,9 +54,4 @@ This verse is quoted in *Aparārka* (p. 12.)
 <details><summary>भारुचिः</summary>
 
 अतो वेद एव स्वतन्त्रो ऽनुशासने ऽन्यनिरपेक्षो भूत्वा, भूयः प्रमाणशास्त्रानुविधानाच् च । तन्मूलं धर्मशास्त्रम्, न त्व् अन्यानि तद्विधानि । पुरुषकृतयः कर्तृसमाख्याताः । यतश् चैतद् एवम् अतः ॥ १२.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	All those (doctrines), differing from the (Veda), which spring up and (soon) perish, are worthless and false, because they are of modern date.
 </details>

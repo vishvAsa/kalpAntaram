@@ -3,6 +3,11 @@ title = "067 ब्राह्मणस्य रुजः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	Giving pain to a Brahmana (by a blow), smelling at things which ought not to be smelt at, or at spirituous liquor, cheating, and an unnatural offence with a man, are declared to cause the loss of caste (Gatibhramsa)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Causing pain to a Brāhmaṇa,—smelling at things that should not be smelt, or at wine,—cheating—and sexual intercourse with a man,—all this is declared to lead to loss of caste.—(66)
@@ -57,9 +62,4 @@ sea-voyage, stealing a Brāhmaṇa’s property or a deposit, giving false evide
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राःमणस्येति** । ब्राह्मणस्य पीडोत्पादनं पलाण्ड्वादेः मद्यस्य च घ्राणं कुटिलत्वं पुंसि च मुखादौ मौथुनम् इत्य् एवं प्रत्येकं जातिभ्रंशकरं स्मृतम् ॥ ११.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	Giving pain to a Brahmana (by a blow), smelling at things which ought not to be smelt at, or at spirituous liquor, cheating, and an unnatural offence with a man, are declared to cause the loss of caste (Gatibhramsa)
 </details>

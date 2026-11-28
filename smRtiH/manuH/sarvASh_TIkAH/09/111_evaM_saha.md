@@ -3,6 +3,11 @@ title = "111 एवं सह"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	Either let them thus live together, or apart, if (each) desires (to gain) spiritual merit; for (by their living) separate (their) merit increases, hence separation is meritorious.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus may they live either together, or separately, with a view to spiritual merit; by separate living merit prospers; hence separation is meritorious.—(111)
@@ -99,9 +104,4 @@ are alive, the sons shall live together; when the parents have died, and the son
 <details><summary>भारुचिः</summary>
 
 अत्र कारणम् इदम् उच्यते । यदि ज्येष्ठो गुणवत्तया धर्माधिकारार्हो भवति, इतरे चानधिकृता असमर्थाश् च धर्मानुष्ठाने, अतो ऽयम् अविभागो द्रष्टव्यः । यदि त्व् अज्येष्ठवृत्तिर् ज्येष्ठः स्यात् गुणवान् अपि सन् गतो (?) ऽसमर्थेष्व् अपि धर्मानुष्ठाने कनीयस्सु अयम् अविभागो न स्यात् । उक्तं हि "यो ज्येष्ठो ज्येष्ठवृत्तिः स्यात्" इति । तथा "ज्येष्ठवृत्तिर् यस् तु स्यात्" इति च । एवं च सति धर्मानुष्ठानसमर्थेष्व् अधिकारार्हेषु कनीयस्सु दण्डापूपिकया प्रतिषिद्ध एवायम् अविभागो द्रष्टव्यः, सत्य् अपि ज्येष्ठस्य गुणवत्त्वे ज्येष्ठवृत्तित्वे च । तथा चोक्तम् "तस्माद् धर्म्या पृथक्क्रिया" इति । न च धर्म्ये विभागे सत्य् अविभागो युक्तः कारणोपदेशात् । तथा च तद् उक्तम् एव । एतेन पितापुत्रविभागो व्याख्यातः । तुल्यहेतुत्वात् । न चायं नास्तीति मन्तव्यः "ऊर्ध्वं पितुर्" विभागोपदेशात् । यस्माद् वक्ष्यति, "न तत्सुतैर् भजेत् सार्धम्" इति । ततो लिङ्गात् पितापुत्रयोर् विभागो विज्ञेयः । यतश् च सर्वेष्व् अधिकारार्हेषु धर्मानुष्ठानसमर्थेषु च धर्म्या पृथक्क्रिया । अत इदम् उच्यते ॥ ९.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	Either let them thus live together, or apart, if (each) desires (to gain) spiritual merit; for (by their living) separate (their) merit increases, hence separation is meritorious.
 </details>

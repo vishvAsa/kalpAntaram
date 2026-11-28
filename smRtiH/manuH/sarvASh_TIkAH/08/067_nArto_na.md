@@ -3,6 +3,11 @@ title = "067 नार्तो न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	Nor one extremely grieved, nor one intoxicated, nor a madman, nor one tormented by hunger or thirst, nor one oppressed by fatigue, nor one tormented by desire, nor a wrathful man, nor a thief.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —Nor one afflicted, nor one intoxicated, nor one demented, nor one tormented by hunger and thirst, nor one oppressed by fatigue, nor one tormented by love, nor one who is in a rage, nor a thief.—(67)
@@ -66,9 +71,4 @@ See Comparative notes for [Verse 8.64].
 <details><summary>भारुचिः</summary>
 
 **आर्तो** बन्धुविनाशादिना । एवं चोक्तव्याध्यार्ताद् अन्यो ऽयम् । **मत्तोन्मत्तौ** प्रसिद्दौ **क्षुत्तृष्णोपपीडितश्** च । **क्रुद्धः** क्रोधनत्वाद् अप्रत्ययवृत्तिः । **तस्करो** गोबलीवर्दन्यायेन **विकर्मकृद्**उपदेशाद् विज्ञेयः ॥ ८.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	Nor one extremely grieved, nor one intoxicated, nor a madman, nor one tormented by hunger or thirst, nor one oppressed by fatigue, nor one tormented by desire, nor a wrathful man, nor a thief.
 </details>

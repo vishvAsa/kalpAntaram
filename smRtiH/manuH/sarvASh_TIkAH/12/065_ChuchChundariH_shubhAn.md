@@ -3,6 +3,11 @@ title = "065 छुच्छुन्दरिः शुभान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	For stealing fine perfumes a musk-rat, for stealing vegetables consisting of leaves a peacock, for stealing cooked food of various kinds a porcupine, for stealing uncooked food a hedgehog.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing excellent perfumes, a musk-rat; for stealing vegetables with leaves, a peacock; for stealing cooked food of various kinds, a Śvāvit; and for stealing uncooked food a hedge-hog.—(65)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>गोविन्दराजः</summary>
 
 **छुच्छुन्दरिर्** इति । सुरभिद्रव्याणि कर्पूरादीनि हृत्वा छुच्छुन्दरी राजदुहिताख्या मूषिका भवति । पत्रात्मकं शाकं सर्षपादि हृत्वा मयूरो जायते ॥ १२.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	For stealing fine perfumes a musk-rat, for stealing vegetables consisting of leaves a peacock, for stealing cooked food of various kinds a porcupine, for stealing uncooked food a hedgehog.
 </details>

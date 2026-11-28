@@ -3,6 +3,11 @@ title = "012 अरक्षिता गृहे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	Women, confined in the house under trustworthy and obedient servants, are not (well) guarded; but those who of their own accord keep guard over themselves, are well guarded.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Women confined in the house under trusted servants are not well guarded; really well guarded are those who guard themselves by themselves.—(12)
@@ -52,9 +57,4 @@ This verse is quoted in *Vivādaratnākara* (p. 416), which explains ‘*āptak�
 <details><summary>भारुचिः</summary>
 
 अनन्तरश्लोकोतेन चोपायेनैता **आत्मानम् आत्मना** रक्षन्ति तस्मात् तत्स्तुतिपरम् एवेदम् । न तु गृहोपरोधाप्तपुरुषोपग्रहलक्षणयोस् स्त्रीरकषणहेत्वोर् अयं प्रतिषेधः, सामर्थ्यात् प्रकरणाच् चेति । अथ वा नारीसंदूषणपरिवर्जनस्तुतिपरम् एतत्, **आत्मानम् आत्मना यास् तु रक्षेयुस् ताः सुरक्षिता** इति । यतस् तत्परिवर्जनार्थं तानि दर्शयति ॥ ९.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	Women, confined in the house under trustworthy and obedient servants, are not (well) guarded; but those who of their own accord keep guard over themselves, are well guarded.
 </details>

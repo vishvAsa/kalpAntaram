@@ -3,6 +3,11 @@ title = "149 जड-मूकान्ध-बधिरांस् तैर्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+149	At the time of consultation let him cause to be removed idiots, the dumb, the blind, and the deaf, animals, very aged men, women, barbarians, the sick, and those deficient in limbs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the time of taking counsel, he shall send away the idiot, the dumb and the deaf, animals, very aged persons, women, foreigners, the sick and the maimed.—(149)
@@ -63,9 +68,4 @@ illiterate or untrustworthy or unrighteous persons.’
 <details><summary>गोविन्दराजः</summary>
 
 **जडमूकान्धबधिरान्** इति । बुद्धिवाक्चक्षुःश्रोत्रविकलान् तथा गोमृगशुकान् तथा वृद्धस्त्रीम्लेच्छातुरान् अङ्गहीनान् च **मन्त्रकाले अपसारयेत्** ॥ ७.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-149	At the time of consultation let him cause to be removed idiots, the dumb, the blind, and the deaf, animals, very aged men, women, barbarians, the sick, and those deficient in limbs.
 </details>

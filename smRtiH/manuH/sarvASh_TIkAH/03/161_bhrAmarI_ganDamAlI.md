@@ -2,6 +2,11 @@
 title = "161 भ्रामरी गन्डमाली"
 +++
 
+<details><summary>Bühler</summary>
+
+161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An epileptic, one having a string of scrofulous swellings, one who suffers from leucoderma, the backbiter, the lunatic, the blind man, and the derider of the Veda—all these should be avoided.—(161)
@@ -62,11 +67,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **भ्रामरीति** । अपस्मारी, गण्डमालाख्यव्याध्युपेतः, **श्वित्री**, सूचकः, धातुसङ्क्षोभादियुक्तः, **अन्धो** वेदस्य कुत्सकः, इत्य् एते हव्यकव्ययोर् **वर्ज्याः स्युः** ॥ ३.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
 </details>
 
 <details><summary>भारुचिः</summary>

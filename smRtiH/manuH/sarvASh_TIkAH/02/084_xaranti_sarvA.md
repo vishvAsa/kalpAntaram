@@ -2,6 +2,11 @@
 title = "084 क्षरन्ति सर्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+084	All rites ordained in the Veda, burnt oblations and (other) sacrifices, pass away; but know that the syllable (Om) is imperishable, and (it is) Brahman, (and) the Lord of creatures (Pragapati).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All vedic acts of oblation and sacrifice pass away; while this syllable (om) is to be regarded as imperishable; and it is Brahman, and also Prajāpati—(84)
@@ -67,11 +72,6 @@ syllable.’
 <details><summary>गोविन्दराजः</summary>
 
 **क्षरन्तीति **। सर्वाणि वेदचोदितानि होमयागानुष्ठानानि नश्वराणि तत्फलक्षयत्वात् । **अक्षरं** पुनः एतद् ओङ्काराख्यं **अक्षयं ज्ञेयं **तदर्थभावनाद्वारेण ब्रह्मावाप्त्याख्यस्य फलस्याक्षयत्वात् । ब्रह्म च प्रजापत्याख्यं एतद् एव ॥ २.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	All rites ordained in the Veda, burnt oblations and (other) sacrifices, pass away; but know that the syllable (Om) is imperishable, and (it is) Brahman, (and) the Lord of creatures (Pragapati).
 </details>
 
 <details><summary>भारुचिः</summary>

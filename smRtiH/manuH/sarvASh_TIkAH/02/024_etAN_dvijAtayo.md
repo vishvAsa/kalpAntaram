@@ -2,6 +2,11 @@
 title = "024 एताण् द्विजातयो"
 +++
 
+<details><summary>Bühler</summary>
+
+024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born people should seek to resort to these countries; the Śūdra may however, when distressed for a living, reside in any land.—(24).
@@ -254,11 +259,6 @@ Upāvṛt, Sindhu, Sauvīra, these countries are of *mixed origin*.’
 <details><summary>गोविन्दराजः</summary>
 
 अतः **एतान्** इति । साध्वाचारयागार्हत्वसम्भवात् अदृष्टार्थत्वाच् च्**ऐतान् **एव **देशान् **देशान्तरोद्भूता अपि **द्विजातयो **यत्नतः **आश्रयेरन्** । **शुद्रः **पुनः यदा जीविकाभावपीडितो भवति तदैतद्व्यतिरिक्तदेशे ऽपि **निवसेत् **॥ २.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "025 एषोदिता लोकयात्रा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+025	Thus has been declared the ever pure popular usage (which regulates the relations) between husband and wife; hear (next) the laws concerning children which are the cause of happiness in this world and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been declared the common practice, as between husband and wife, which is always happy; now understand the laws relating to children, which are conducive to happiness here as well as after death.—(25)
@@ -38,9 +43,4 @@ Thus has been declared the common practice, as between husband and wife, which i
 <details><summary>भारुचिः</summary>
 
 कस्य प्रजा, किं क्षेत्रिणो, बीजिन, उभयोर् वेति ॥ ९.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	Thus has been declared the ever pure popular usage (which regulates the relations) between husband and wife; hear (next) the laws concerning children which are the cause of happiness in this world and after death.
 </details>

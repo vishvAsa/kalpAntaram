@@ -3,6 +3,11 @@ title = "122 प्रोक्षणात् तृण-काष्ठम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	Grass, wood, and straw become pure by being sprinkled (with water), a house by sweeping and smearing (it with cowdung or whitewash), an earthen (vessel) by a second burning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Grass and wood and straw become pure by sprinkling; the house by sweeping and sprinkling; and an earthen pot by re-baking.—(121).
@@ -121,9 +126,4 @@ purified by smearing; if he dwells in it, then it should be burnt or demolished.
 > मद्यैर् मूत्रपुरीषैर् वा ष्ठीवनैः पूयशोणितैः ।
 
 > संस्पृष्टं नैव शुध्येत पुनःपाकेन मृन्मयम् ॥ इति ॥ ५.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	Grass, wood, and straw become pure by being sprinkled (with water), a house by sweeping and smearing (it with cowdung or whitewash), an earthen (vessel) by a second burning.
 </details>

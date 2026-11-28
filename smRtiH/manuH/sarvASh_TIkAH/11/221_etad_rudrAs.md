@@ -3,6 +3,11 @@ title = "221 एतद् रुद्रास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+222	The Rudras, likewise the Adityas, the Vasus and the Maruts, together with the great sages, practised this (rite) in order to remove all evil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Rudras, Ādityas and the Maruts, along with the Great Sages, have performed this penance, for deliverance from all evils.—(221)
@@ -51,9 +56,4 @@ the seven holy sages, Brahmā and Rūdra acquired a splendid abode.’
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्** इति । रुद्रादित्यवसुमरुदृषय एतच् चान्द्रायणाख्यं व्रतं प्रकाशाप्रकाशगुरुलघुसकलपापापनोदाय पापापेक्षया सकृदावृत्तितारतम्येन कृतवन्तः ॥ ११.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	The Rudras, likewise the Adityas, the Vasus and the Maruts, together with the great sages, practised this (rite) in order to remove all evil.
 </details>

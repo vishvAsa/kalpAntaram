@@ -3,6 +3,11 @@ title = "003 एतेभ्यो हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+003	To these most excellent among the twice-born, food and presents (of money) must be given; it is declared that food must be given to others outside the sacrificial enclosure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these best of twice-born men, the ‘gift’ shall consist of food accompanied by a present; for others, ‘gift’ has been declared to be the cooked food given outside the sacrificial enclosure.—(3)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 11.1-2].
 <details><summary>भारुचिः</summary>
 
 नियमानुवादो ऽयं भोजनविशेषेण । **इतरेभ्यो** ऽतिथिभ्यो **बहिर्वेदि** कृतान्नम् एव देयं नियमतः । तद् इदं पूर्वोक्तम् अतिथ्यन्नदानम् अनूद्यते । दक्षिणास् त्व् एषां न विधिर् न प्रतिषेधः ॥ ११.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	To these most excellent among the twice-born, food and presents (of money) must be given; it is declared that food must be given to others outside the sacrificial enclosure.
 </details>

@@ -3,6 +3,11 @@ title = "249 यावान् अवध्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+249	When a king punishes an innocent (man), his guilt is considered as great as when he sets free a guilty man; but (he acquires) merit when he punishes (justly).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sin incurred by the king in striking one who does not deserve it, is the same as that in acquitting one who deserves to be struck; but merit accrues to him if he chastises justly.—(249)
@@ -73,9 +78,4 @@ fast for one day, the priest for three days; or, if punishment is not inflicted 
 <details><summary>भारुचिः</summary>
 
 युक्तश् च तद्रक्षणाद् अधिकृतस्य राज्ञो वध्यमोक्षणे प्रत्यवायः । विशेषेण तु बलिषड्भागहारिणः शास्त्रप्रत्ययाद् दोषनिर्हारणस्य यथाश्रुतैर् एवोपायैर् दोषनिर्हरणं युक्तम् । प्रायश्चित्तवत् । तथा च शास्त्रलक्षणैव धर्माधर्मव्यवस्थेत्य् उक्तम् । एवं च तदुत्पत्तिप्रामाण्यवत् पापक्षये ऽस्य प्रामाण्यं स्यात् । अदृष्टार्थेषु तावद् एवम् । दृष्टार्थेषु तु राज्यतन्त्रविध्यर्थ उपदेशे यद् वधश्रवणं यथा "द्विट्सेविनश् च हन्यात्" इत्य् उक्तं त[त्र दृष्टप्र]योजनार्थत्वाद् उपदेशस्य न नियतो वधः । एवं च सत्य् उपायान्तरेणापि बन्धनादिना विनियच्छतो न दोषः ॥ ९.२४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-249	When a king punishes an innocent (man), his guilt is considered as great as when he sets free a guilty man; but (he acquires) merit when he punishes (justly).
 </details>

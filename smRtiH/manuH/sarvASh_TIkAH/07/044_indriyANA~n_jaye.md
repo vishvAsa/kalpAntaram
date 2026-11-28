@@ -3,6 +3,11 @@ title = "044 इन्द्रियाणाञ् जये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	Day and night he must strenuously exert himself to conquer his senses; for he (alone) who has conquered his own senses, can keep his subjects in obedience.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Day and night he shall put forth an effort to subdue his senses; because he whose senses are subjugated is capable of keeping his subjects under control.—(41)
@@ -57,9 +62,4 @@ injustice, having subdued his mind already powerless through the subjugation of 
 <details><summary>भारुचिः</summary>
 
 श्रोत्रादीनां शब्दादिषु यथाशास्त्रं प्रवृत्तिर् इन्द्रियजयः । स च वर्णधर्मेषूक्तो [मुख्यो विनय इति पुनर् इहोपदिष्टः] ॥ ७.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	Day and night he must strenuously exert himself to conquer his senses; for he (alone) who has conquered his own senses, can keep his subjects in obedience.
 </details>

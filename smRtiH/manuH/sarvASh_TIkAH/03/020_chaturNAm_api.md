@@ -2,6 +2,11 @@
 title = "020 चतुर्णाम् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Understand briefly these (following) eight forms of marriage of girls, among the four castes,—which are beneficial and not-beneficial here (in this life) and also after death.—(20)
@@ -78,11 +83,6 @@ elders, in accordance with the custom of her country, becomes forcibly united wi
 <details><summary>गोविन्दराजः</summary>
 
 **चतुर्णाम्** इति । **चतुर्णाम् अपि **ब्राह्मणादि**वर्णानां** परलोकेहलोकयोः कांश्चिद् **धिताहितान् इमान् **वक्ष्यमाणान् भार्याप्राप्तिहेतून् **विवाहान् **सङ्क्षेपेण शृणुत ॥ ३.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
 </details>
 
 <details><summary>भारुचिः</summary>

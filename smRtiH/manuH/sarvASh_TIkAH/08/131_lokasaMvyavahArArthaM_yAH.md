@@ -3,6 +3,11 @@ title = "131 लोकसंव्यवहारार्थं याः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+131	Those technical names of (certain quantities of) copper, silver, and gold, which are generally used on earth for the purpose of business transactions among men, I will fully declare.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to describe fully, for the sake of business-transactions, those technical terms that are used in the world in connection with silver and gold.—(131)
@@ -172,9 +177,4 @@ make one *Niṣka*.
 <details><summary>भारुचिः</summary>
 
 विशिष्टजातिपरिमाणस्य द्रव्यस्य संज्ञार्थ उपदेशो दण्डविशेषार्थः ॥ ८.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-131	Those technical names of (certain quantities of) copper, silver, and gold, which are generally used on earth for the purpose of business transactions among men, I will fully declare.
 </details>

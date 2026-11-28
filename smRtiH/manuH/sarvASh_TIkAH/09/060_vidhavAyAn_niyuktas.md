@@ -3,6 +3,11 @@ title = "060 विधवायान् नियुक्तस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	He (who is) appointed to (cohabit with) the widow shall (approach her) at night anointed with clarified butter and silent, (and) beget one son, by no means a second.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who has been authorised in regard to a widow shall, annointed with clarified butter and with speech controlled, beget, at night, one son,—and on no account a second one.—(60)
@@ -89,9 +94,4 @@ taken her bath, her brother-in-law, desiring an offspring for his deceased broth
 <details><summary>भारुचिः</summary>
 
 **विधवा**ग्रहणस्य दर्शनर्थत्वाद् अविधव्याम् अपि नियोगो न [निषिद्ध इति] विज्ञायते । वक्ष्यति हि "यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनां कथंचन" इति । एवं च पाण्डोर् अविधवानियोगाद् एवापत्योत्पत्तिः स्मर्यते । दिवा च प्रतिषेधान् **निशीत्य्** अयम् अन्धकारोपदेशः, तथा च व्यासोपगमः स्मर्यते ॥ ९.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	He (who is) appointed to (cohabit with) the widow shall (approach her) at night anointed with clarified butter and silent, (and) beget one son, by no means a second.
 </details>

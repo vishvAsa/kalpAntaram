@@ -2,6 +2,11 @@
 title = "037 ब्रह्मवर्चस-कामस्य कार्यो"
 +++
 
+<details><summary>Bühler</summary>
+
+037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Brāhmaṇa desirous of Brahmic glory, it should be done in the fifth year; for the ‘King’ desirous of power, in the sixth; and for the Vaiśya desirous of business, in the eighth.—(37)
@@ -94,11 +99,6 @@ is desired; during the eighth, if longevity is desired; during the ninth, if bri
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मवर्चसकामस्येति** । अध्ययनविज्ञानाद्यतिशयकृतं तेजो **ब्रह्मवर्चसं **बालस्य विशेषविज्ञानाभावात् तद् युक्तः पुत्रो मे भवेद् इत्य् एवंविधपितृकामना फलास्पदत्वात् पुत्रो ऽप्य् उपदिश्यते ब्रह्मवर्चसकाम इति । तस्य ब्राह्मणस्य** **गर्भपञ्चमे ऽब्दे उपनयनं कार्यम् । एवं क्षत्रियस्य हस्त्यश्वबाहुवीर्यादि ब्राह्माभ्यन्तरबलार्थिनो गर्भषष्ठे, **वैश्यस्य** बहुकृष्यादिचेष्टार्थिनो गर्भाष्टमे, गर्भसंवत्सराणाम् एव प्रकृतत्वात् ॥ २.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.
 </details>
 
 <details><summary>भारुचिः</summary>

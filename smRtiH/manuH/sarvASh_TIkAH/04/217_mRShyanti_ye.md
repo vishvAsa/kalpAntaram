@@ -2,6 +2,11 @@
 title = "217 मृष्यन्ति ये"
 +++
 
+<details><summary>Bühler</summary>
+
+217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor of thos e who bear the presence of the paramour, or of those who are entirely ruled b y women; nor the food of those in whose house death has occurred and the ten days have not passed; nor that which is disagree able.—(217)
@@ -76,11 +81,6 @@ embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer
 <details><summary>गोविन्दराजः</summary>
 
 **मृष्यन्तीति** । भार्याजारं ये सहन्ते तदन्नम् अभोज्यम् एवं (च) गृहाद् गतायां जारिण्याम् उपेक्षितायाम् अपि प्रतिषेधः । सर्वकर्मसु स्त्र्यायत्तानां अनिर्गताशौचं च मृतकान्नम् अप्रीतिकरं च न भूज्ञीत ॥ ४.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
 </details>
 
 <details><summary>भारुचिः</summary>

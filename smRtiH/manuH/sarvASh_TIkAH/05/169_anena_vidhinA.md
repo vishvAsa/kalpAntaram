@@ -2,6 +2,11 @@
 title = "169 अनेन विधिना"
 +++
 
+<details><summary>Bühler</summary>
+
+169	(Living) according to the (preceding) rules, he must never neglect the five (great) sacrifices, and, having taken a wife, he must dwell in (his own) house during the second period of his life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this manner, one shall not omit the Five Sacrifices; and during the second part of his life, he shall take to a wife and dwell in the house.—(167).
@@ -50,11 +55,6 @@ End of Discourse V.
 भक्ष्याभक्ष्यसुतकद्रव्यशुद्धिस्त्रीधर्मनिरूपणं  
 नाम पञ्चमो ऽध्यायः  
 षष्ठो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-169	(Living) according to the (preceding) rules, he must never neglect the five (great) sacrifices, and, having taken a wife, he must dwell in (his own) house during the second period of his life.
 </details>
 
 <details><summary>भारुचिः</summary>

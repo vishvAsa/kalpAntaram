@@ -3,6 +3,11 @@ title = "299 पीडनानि च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+299	Moreover, all calamities and vices; afterwards, when he has fully considered their relative importance, let him begin his operations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall begin operations after having taken into consideration all calamities and vices, and their relative importance.—(299)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 9.298].
 <details><summary>भारुचिः</summary>
 
 **पीडनानि** जगताम् अशनिपातदुर्भिक्षादीनि । स्वकृतानि **व्यसनानि** त्रयाणि देहदैवात्मगतानि क्षयहेतूनि । **ज्ञात्वा** लोकस्य **गुरुलाघ्वतः**, ततो दण्डगुरुत्वलघुत्वं **समाचरेत्** नृपतिर् नाविशेषेण । एवं च राजधर्मेषु वर्तमानो यावज्जीवम् ॥ ९.२९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-299	Moreover, all calamities and vices; afterwards, when he has fully considered their relative importance, let him begin his operations.
 </details>

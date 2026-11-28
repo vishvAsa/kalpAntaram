@@ -2,6 +2,11 @@
 title = "167 आ हैव"
 +++
 
+<details><summary>Bühler</summary>
+
+167	Verily, that twice-born man performs the highest austerity up to the extremities of his nails, who, though wearing a garland, daily recites the Veda in private to the utmost of his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is said that that twice-born man, who, even though garlanded, recites the Veda daily to the best of his capacity, undergoes the highest penance to his very nail-tips.—(167)
@@ -70,11 +75,6 @@ trees, so does one knowing the Veda burn all the evil in one’s self.’
 > वेदस्वीकरणं पूर्वं विचारो ऽभ्यसनं तपः । 
 
 > तद्दानं चैव शिष्येभ्यो वेदाभ्यासो हि पञ्चधा ॥ २.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	Verily, that twice-born man performs the highest austerity up to the extremities of his nails, who, though wearing a garland, daily recites the Veda in private to the utmost of his ability.
 </details>
 
 <details><summary>भारुचिः</summary>

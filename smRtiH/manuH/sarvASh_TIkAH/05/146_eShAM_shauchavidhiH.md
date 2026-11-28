@@ -3,6 +3,11 @@ title = "146 एषां शौचविधिः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+146	Thus the rules of personal purification for men of all castes, and those for cleaning (inanimate) things, have been fully declared to you: hear now the duties of women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the whole rule regarding cleanliness and purification of substances for all castes been expounded to you; listen now to the duties of women. (144).
@@ -30,9 +35,4 @@ The term ‘*rule regarding cleanliness*’, though a general one, yet, by reaso
 <details><summary>गोविन्दराजः</summary>
 
 **एष** इति । **एष** जननादिशौचविधिः समग्रो द्रव्याणां च तैजसानां शुद्धिः सकला सर्ववर्णानां ब्राह्मणादीनां सम्बन्धिनी युष्माकम् उक्ता, अधुना तु स्त्रीणां यो ऽनुष्ठेया धर्मास् ताञ् छृणुत ॥ ५.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	Thus the rules of personal purification for men of all castes, and those for cleaning (inanimate) things, have been fully declared to you: hear now the duties of women.
 </details>

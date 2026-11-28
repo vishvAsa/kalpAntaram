@@ -2,6 +2,11 @@
 title = "146 एषाम् अन्यतमो"
 +++
 
+<details><summary>Bühler</summary>
+
+146	If one of these three dines, duly honoured, at a funeral sacrifice, the ancestors of him (who gives the feast), as far as the seventh person, will be satisfied for a very long time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If any one of these should dine, duly honoured, at the Śrāddha performed by a certain person, there would be ever-lasting satisfaction for his ancestors, lasting till the seventh degree (of descendants).—(146)
@@ -61,11 +66,6 @@ the offerings to Gods and Pitṛs, he attains endless and imperishable results;�
 <details><summary>गोविन्दराजः</summary>
 
 **एषाम्** इति । **एषां **बह्वृचादीनां मध्याद् **अन्यतमो यस्य **त्व् अर्चितमनाः **श्राद्धं भुञ्जीत तस्य **पित्रादिसप्तपुरुषव्यापिनी अनवच्छिन्ना **पितॄणां तृप्तिः स्याद्** इति समस्तशाखाध्यायिभोजनफलकथनम् । अत एव विज्ञायते – यत्र क्वचनावस्थिताः पितरः पुत्राद्युपहृतकव्यैः सुखम् आसते । इतश् च पितृतृप्तिफलम् एतत्, श्राद्धकर्मणि च अकृताभ्यागमकृतविप्रणाशाव् अत्र चोदनीयौ, शास्त्रैकगोचरत्वे वैश्वानरवत् तथैवागमात् ॥ ३.१४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	If one of these three dines, duly honoured, at a funeral sacrifice, the ancestors of him (who gives the feast), as far as the seventh person, will be satisfied for a very long time.
 </details>
 
 <details><summary>भारुचिः</summary>

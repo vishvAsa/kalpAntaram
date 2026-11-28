@@ -3,6 +3,11 @@ title = "335 शुचिर् उत्कृष्टशुश्रूषु
 
 +++
 
+<details><summary>Bühler</summary>
+
+335	(A Sudra who is) pure, the servant of his betters, gentle in his speech, and free from pride, and always seeks a refuge with Brahmanas, attains (in his next life) a higher caste.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he is pure, attendant upon his superiors, of gentle speech, free from pride, and always dependent upon the Brāhmaṇa,—he attains a higher caste.—(335)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.333].
 तद् एवंवृत्तह्,
 
 ब्राह्मणापाश्रितशूद्रस्य तदाश्रयफलार्थवादो ऽयम् । फलविधिर् वायं न्यायशास्त्राविरोधाद् युक्तः ॥ ९.३३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-335	(A Sudra who is) pure, the servant of his betters, gentle in his speech, and free from pride, and always seeks a refuge with Brahmanas, attains (in his next life) a higher caste.
 </details>

@@ -2,6 +2,11 @@
 title = "216 श्व-वतां शौण्डिकानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor of dog-keepers, or of wine-sellers or of the clothes-washer, or of the dyer, or of the bard, or of the man in whose house there is a paramour.—(210)
@@ -64,11 +69,6 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 <details><summary>गोविन्दराजः</summary>
 
 श्वक्रीडिमद्यविक्रयिवस्त्रधावनपटरागकृन्निष्ठुराणां जायाजारश् च यस्याविज्ञातो गृहे ऽस्ति तेषाम् अन्नं न भक्षयेत् ॥ ४.२१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
 </details>
 
 <details><summary>भारुचिः</summary>

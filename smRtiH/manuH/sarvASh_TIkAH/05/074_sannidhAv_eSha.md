@@ -2,6 +2,11 @@
 title = "074 सन्निधाव् एष"
 +++
 
+<details><summary>Bühler</summary>
+
+074	The above rule regarding impurity on account of a death has been prescribed (for cases where the kinsmen live) near (the deceased); (Sapinda) kinsmen and (Samanodaka) relatives must know the following rule (to refer to cases where deceased lived) at a distance (from them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rule regarding Impurity due to death has been described in reference to cases where the parties are near one another. In reference to cases where they are not near, Kinsmen and relations should observe the following rule.—(73).
@@ -72,11 +77,6 @@ foreign land, he is not impure either for one day or for three days; he becomes 
 <details><summary>गोविन्दराजः</summary>
 
 **सन्निधाव् एष** इति । प्रेतदाहावस्थानापरिज्ञानेन सत्य् एष शावाशौचस्य कीर्तितो विधिः कथितो देशाण्तरावस्थानाद् अज्ञाने सत्य् अयं वक्ष्यमाणो विधिः सपिण्डसमानोदकैर् बोद्धव्यः ॥ ५.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	The above rule regarding impurity on account of a death has been prescribed (for cases where the kinsmen live) near (the deceased); (Sapinda) kinsmen and (Samanodaka) relatives must know the following rule (to refer to cases where deceased lived) at a distance (from them).
 </details>
 
 <details><summary>भारुचिः</summary>

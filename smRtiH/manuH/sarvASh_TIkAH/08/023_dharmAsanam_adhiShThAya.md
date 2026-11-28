@@ -3,6 +3,11 @@ title = "023 धर्मासनम् अधिष्ठाय"
 
 +++
 
+<details><summary>Bühler</summary>
+
+023	Having occupied the seat of justice, having covered his body, and having worshipped the guardian deities of the world, let him, with a collected mind, begin the trial of causes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having occupied the Judgment-seat, with his body covered and mind collected, he shall salute the Guardian-Deities, and then proceed with the investigation of suits.—(23)
@@ -64,9 +69,4 @@ Regions, the King shall enter the splendid Court and carry on the work of protec
 <details><summary>भारुचिः</summary>
 
 धर्मार्थम् आसनं **धर्मासनम्** । तत्रोपविश्य संवीताङ्ग इत्य् अनुवादात् विनीतवेषाभरणत्वस्यापूर्वगुणसंबन्धेन । **समाहितो** व्यवहारदर्शने । **प्रणम्य लोकपालेभ्यः** सभालेख्यस्थेभ्यः स्वस्थानेभ्यो वा वाङ्मनसाभ्यां **कार्यदर्शनम् आरभेत्** । व्यवहारदिदृक्षोर् दृष्टार्थो ऽयं विधिर् निर्देशो नृपतेः, अदृष्टार्थो वा शास्त्रस्यार्थवत्त्वाय ॥ ८.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	Having occupied the seat of justice, having covered his body, and having worshipped the guardian deities of the world, let him, with a collected mind, begin the trial of causes.
 </details>

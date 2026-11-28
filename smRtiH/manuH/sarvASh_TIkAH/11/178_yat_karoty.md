@@ -3,6 +3,11 @@ title = "178 यत् करोत्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+179	The sin which a twice-born man commits by dallying one night with a Vrishali, he removes in three years, by subsisting on alms and daily muttering (sacred texts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What a twice-born man commits by dallying with a Caṇḍālī for one night,—that he wipes off in three years, living on alms and constantly repeating (sacred texts).—(178)
@@ -102,9 +107,4 @@ a *Vṛṣalī* for one night, he becomes pure by living on alms and repeating t
 <details><summary>भारुचिः</summary>
 
 चण्डालान्त्यस्त्रीगमने प्रायश्चित्तस्याविधानात्, शूद्रायाः वृषल्याः पक्षे गम्यत्वाद् अनधिकृतत्वाच् च, चण्डालान्त्यस्त्रीगमन इदं प्रायश्चित्तं द्रष्टव्यम्, अधिकृतत्वात् तस्या इति । अपरे त्व् अक्रोधां शूद्रां वृषलीम् आहुः । पाठान्तरं च कुर्वन्ति "त्रिभिर् मासैः" इति । तत् पुनर् न न्याय्यम् अनधिकृतत्वात् तस्या इत्य् अपरे ॥ ११.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	The sin which a twice-born man commits by dallying one night with a Vrishali, he removes in three years, by subsisting on alms and daily muttering (sacred texts).
 </details>

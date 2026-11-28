@@ -3,6 +3,11 @@ title = "074 समक्षदर्शनात् साक्ष्यम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	Evidence in accordance with what has actually been seen or heard, is admissible; a witness who speaks truth in those (cases), neither loses spiritual merit nor wealth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Evidence based upon what is directly seen and is heard is admissible; and a witness, telling the truth in such cases, does not fall off from spiritual merit or worldly prosperity.—(74)
@@ -71,9 +76,4 @@ a respectable man, esteemed and appointed by both parties, and has come near the
 <details><summary>भारुचिः</summary>
 
 दर्शनश्रवणाभ्यां साक्षित्वसिद्धिः, न तु निबन्धनतः । अतो ऽन्तरेणापि निबन्धनं साक्षी स्याद् एव । एतावांस् तु साक्षिणो नियमः । निबन्धेनापि पृष्टेन सता सत्यं वक्तव्यम् इति । येन —
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Evidence in accordance with what has actually been seen or heard, is admissible; a witness who speaks truth in those (cases), neither loses spiritual merit nor wealth.
 </details>

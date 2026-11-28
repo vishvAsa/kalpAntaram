@@ -3,6 +3,11 @@ title = "073 यथा दुर्गाश्रितान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	As enemies do not hurt these (beings, when they are) sheltered by (their) fortresses, even so foes (can) not injure a king who has taken refuge in his fort.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as enemies do not hurt these beings sheltered in their fortresses, so also the enemies do not injure the king protected by his fort.
@@ -31,9 +36,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 202).
 <details><summary>भारुचिः</summary>
 
 दृष्टानत्श्लोकाव् आदरप्रतिपत्त्यर्थौ ॥ ७.७२–७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	As enemies do not hurt these (beings, when they are) sheltered by (their) fortresses, even so foes (can) not injure a king who has taken refuge in his fort.
 </details>

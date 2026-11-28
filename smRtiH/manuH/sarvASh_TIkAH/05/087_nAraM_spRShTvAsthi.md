@@ -2,6 +2,11 @@
 title = "087 नारं स्पृष्ट्वास्थि"
 +++
 
+<details><summary>Bühler</summary>
+
+087	A Brahmana who has touched a human bone to which fat adheres, becomes pure by bathing; if it be free from fat, by sipping water and by touching (afterwards) a cow or looking at the sun.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having touched a fatty human bone, the Brāhmaṇa becomes pure by bathing, but if it be free from fat, then by sipping water and touching a cow, or looking at the sun—(86).
@@ -65,11 +70,6 @@ human bone, or the shadow cast by the *Caṇḍāla* and the outcast,—on touch
 <details><summary>गोविन्दराजः</summary>
 
 **नारम्** इति । स्नेहयुक्तं मानुषास्थि स्पृष्ट्वा ब्राह्मणादि स्नात्वा विशुध्यति । स्नेहशून्यं पुनः स्पृष्ट्वोपस्पृश्य गोस्पर्शनादित्येक्षणयोर् अन्यतरत् कृत्वा विशुद्ध्यति ॥ ५.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	A Brahmana who has touched a human bone to which fat adheres, becomes pure by bathing; if it be free from fat, by sipping water and by touching (afterwards) a cow or looking at the sun.
 </details>
 
 <details><summary>भारुचिः</summary>

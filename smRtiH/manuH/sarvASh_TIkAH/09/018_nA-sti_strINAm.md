@@ -3,6 +3,11 @@ title = "018 नाऽस्ति स्त्रीणाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	For women no (sacramental) rite (is performed) with sacred texts, thus the law is settled; women (who are) destitute of strength and destitute of (the knowledge of) Vedic texts, (are as impure as) falsehood (itself), that is a fixed rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For women there is no dealing with the sacred texts; such is the rule of law; the fact is that, being destitute of organs and devoid of sacred texts, women are ‘false’—(18)
@@ -120,9 +125,4 @@ Do. (2.3.56).—‘The Veda declares that women are considered to be destitute o
 <details><summary>भारुचिः</summary>
 
 "अमन्त्रिका तु कार्येयं स्त्रीणाम् आवृद् अशेषतः" इत्य् उक्तम् यद् तद् इदम् उच्यते- "नास्ति स्त्रीणां क्रिया मन्त्रैः" इति । विवाहसंस्कारश् च मन्त्रतः पुरुषसंबन्धापेक्षया न स्वातन्त्र्येण साधारणो वा । यतो न व्याघातः । अर्थवादार्थं चैतन् निन्दावचनम् । इन्द्रियं प्रज्ञाधैर्यादि । तदभावात् स्त्रियो ऽनिन्द्रिया इत्य् उच्यन्ते, नान्यथा । एवं चाबला इत्य् एवम् एताः प्रसिद्धाः । यतो निरिन्द्रिया अमन्त्राश् च स्त्रियः अतस् तासां स्ववीर्यस्याभावात् स्वयम् आत्मसंरक्षणे सामर्थ्यं नास्ति । अमन्त्रत्वाच् च पुरुषवन् मन्त्रवता संस्कारेण शुद्धिर् नास्ति । अमन्त्रत्वाच् च पुरुषवन् मन्त्रवता संस्कारेण शुद्धिर् नास्ति । आत्मसंयमने त्व् आसां सुद्धिर् एषितव्या । अतश् चैता निरिन्द्रिया निर्वीर्या निस्संज्ञत्वान् निर्विज्ञानाः सत्यो ऽनृतशब्देन निन्द्यन्ते । व्यभिचारात्मकत्वेन वा प्रकृतेन ॥ ९.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	For women no (sacramental) rite (is performed) with sacred texts, thus the law is settled; women (who are) destitute of strength and destitute of (the knowledge of) Vedic texts, (are as impure as) falsehood (itself), that is a fixed rule.
 </details>

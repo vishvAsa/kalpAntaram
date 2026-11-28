@@ -3,6 +3,11 @@ title = "304 वार्षिकांश् चतुरो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+304	As Indra sends copious rain during the four months of the rainy season, even so let the king, taking upon himself the office of Indra, shower benefits on his kingdom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As Indra showers rain during four months of the year, so shall the king, acting like Indra, shower benefits on his people.—(304)
@@ -45,9 +50,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), where ‘*catura�
 **तथा हरेत्करं राष्ट्रान्नित्यमर्कव्रतं हि तत् ॥**
 
 यथा सूर्यो मार्गशीर्षाष्टमासान् रश्मिभिः स्तोकं स्तोकं रसमीषत्तापेनादत्ते, तथा राजाशास्त्रीयकरानपीडया सदा राष्ट्राद् गृह्यात् ।यस्मादेतदस्यार्कव्रतम् ॥ ३०५ \।\।
-</details>
-
-<details><summary>Bühler</summary>
-
-304	As Indra sends copious rain during the four months of the rainy season, even so let the king, taking upon himself the office of Indra, shower benefits on his kingdom.
 </details>

@@ -3,6 +3,11 @@ title = "286 अदूषितानान् द्रव्याणाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+286	For adulterating unadulterated commodities, and for breaking gems or for improperly boring (them), the fine is the first (or lowest) amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For adulterating unadulterated commodities, and for breaking or wrongly boring gems, the punishment shall be the first amercement.—(286)
@@ -77,9 +82,4 @@ Do. (Vivādaratnākara, p. 297).—‘If one sells commodities adulterated with 
 <details><summary>भारुचिः</summary>
 
 कुंकुमादिद्रव्याणां तत् सदृशेन मायाकुसुम्भादिना दूषणम् । भेदनं तु मणिभिः संबध्यते । मणीनां भेदने विनाशे ऽवेधे ऽस्थानवेधे च मणीनाम् एव सारानुरूपो दण्डः । एवं च सति प्रथमसाहसग्रहणं प्रदर्शनार्थं विज्ञेयम् । येन मणयो हि काकणिकमूल्या अपि सन्ति अनेकसाहस्राश् च । अतो नाविशेषेण युक्तो ऽत्र दण्ड इति । एतस्मात् कारणात् प्रथमसाहसग्रहणस्य प्रदर्शनार्थता कल्प्यते ॥ ९.२८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-286	For adulterating unadulterated commodities, and for breaking gems or for improperly boring (them), the fine is the first (or lowest) amercement.
 </details>

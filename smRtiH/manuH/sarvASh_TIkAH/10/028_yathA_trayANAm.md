@@ -3,6 +3,11 @@ title = "028 यथा त्रयाणाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	As a (Brahmana) begets on (females of) two out of the three (twice-born castes a son similar to) himself, (but inferior) on account of the lower degree (of the mother), and (one equal to himself) on a female of his own race, even so is the order in the case of the excluded (races, vahya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As to one his own alter-ego is born from two out of the three nearest castes, as also from his own caste,—even so is the order among those out of the outer circle.—(28)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 यथा ब्राह्मणक्षत्रियाभ्यां जनयितृभ्यां क्षत्रियावैश्ययोर् **आत्मास्य** द्विजत्वं **जायते** जातः सन्न् अधिकारसामर्थ्याद् द्विजो भवति, एवम् एव बाह्येष्व् अपि प्रातिलोम्येन वर्तमानेषु द्वाभ्याम् एव वैश्यक्षत्रियाभ्यां क्षत्रियाब्राह्मणयोर् **आत्मा** द्विजत्वं भवति । सति च द्विजत्व उपनयनादेः संस्कारस्य्[आनि]षेधं वक्ष्यति, "षड् एते द्विजधर्माणो भवन्ति" इति । एतावांस् तु विशेषः । यथैवानुलोमजाताः मातृदोषान् मातृहान्या न मातृजातीयाः, एवं प्रतिलोमजाताः पितृहान्या न पितृजातीयाः । [एवं च वैश्यक्षत्रियाभ्यां] प्रातिलोम्येन क्षत्रियाब्राह्मण्योर् यौ मागधसूतौ तयोर् अनुलोमजाताभ्यां सामान्यापादनं स्तुत्यर्थम्, स्तुतिश् च व्यवहारार्थ । अथ वा चण्डालादिप्रतिलोमपर्युदासार्था स्तुतिः ॥ १०.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	As a (Brahmana) begets on (females of) two out of the three (twice-born castes a son similar to) himself, (but inferior) on account of the lower degree (of the mother), and (one equal to himself) on a female of his own race, even so is the order in the case of the excluded (races, vahya).
 </details>

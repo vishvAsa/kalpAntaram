@@ -3,6 +3,11 @@ title = "058 रेतःसेकः स्वयोनीषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	Carnal intercourse with sisters by the same mother, with (unmarried) maidens, with females of the lowest castes, with the wives of a friend, or of a son, they declare to be equal to the violation of a Guru's bed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Carnal intercourse with one’s uterine sister, or with virgins, or with low-born women, or with the women of one’s friend or son,—all this they regard as equal to the ‘violating of the Preceptor’s bed.’—(58)
@@ -113,9 +118,4 @@ violating of the *guru’s* bed. Killing cows, apostacy, theft, non-payment of d
 <details><summary>भारुचिः</summary>
 
 महापातकसमानां चतुर्भिः श्लोकैर् निर्देशो गुरुत्वज्ञापनार्थः । सामान्यविहितस्यात्र गुरोः प्रायश्चित्तस्य कारणं यथा स्याद् इति । स्मृत्यन्तरे चोक्तम्- "एनसु(?) गुरुषु गुरूणि लघुषु लघूनि" इति । ननु यत् येन समानम् उच्यते तदीयं तस्य प्रायश्चित्तं युक्तम् । अत्रोच्यते । न युक्तं यदि ह्य् एतत् प्रायश्चित्तविधानर्थम् अभविष्यत्, यथाह भववान्, ततः प्रायश्चित्तातिदेसप्रकरण एवावक्ष्यत् । कौटसाक्ष्यसुहृद्वधयोश् चेह सुरापानसमीकृतयोः ब्रह्महत्यप्रायस्चित्तातिदेशम् उपरिष्टान् न कुर्यात् । गुरोश् चाऌईकनिर्बन्ध इत्य् एतस्य चेह ब्रह्महत्यासमीकृतस्य पुनर् उपर्तिष्टाद् (?) ब्रह्महत्याप्रयस्चित्तविधानात् । तथा कुमार्यादिरेतस्सेकस्य गुरुतल्पसमीक्ष्तस्येह पुनस् तत्र गुरुतल्पप्रायस्चित्तविधानाद् गम्यते नेदं प्रायस्चित्तार्थं समीकरणम् इति । अपरे तु मन्यन्ते — भेदेन समीकरणाद् यद् येन समीक्रियते तदीयं तस्य प्रायस्चित्तम् अनुमीयते । गुरुत्व हि केवले निदिदिक्षिते, महापातकसमत्वम् एव प्रतिनिर्दिशेत् सामान्येन । सुरापानसमीकृतयोश् च कौटसाक्ष्यसुहृद्वधयोर् ब्रह्महत्यातिदेशो विकल्पर्थः । गुरोस् च प्रतिरम्भो ऽलीकाद् अर्थान्तरम् एव । प्रायस्चित्तकरणे चास्यानध्ययनात् सामान्यविहितम् अप्य् एषु प्रायस्चित्तम् अनुमीयते । यस्य तु प्रायश्चित्तातिदेश एव श्रूयते न समीकरणम्; तत्र विकल्प् नास्ति । यथा "हत्वा गर्भम् अविज्ञातम्" इति । तस्मान् महापातकसमेषु तदीयं प्रायश्चित्तं सामन्यविहितं (?) वेति मन्यामहे । महापातकानि तत्समानि चोक्त्वोपपातकार्थम् अधुनेदम् आह ॥ ११.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	Carnal intercourse with sisters by the same mother, with (unmarried) maidens, with females of the lowest castes, with the wives of a friend, or of a son, they declare to be equal to the violation of a Guru's bed.
 </details>

@@ -3,6 +3,11 @@ title = "304 सर्वतो धर्मषड्भागो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+304	A king who (duly) protects (his subjects) receives from each and all the sixth part of their spiritual merit; if he does not protect them, the sixth part of their demerit also (will fall on him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the King who protects (his people) accrues the sixth part of the spiritual merit of all persons; and the sixth of their demerit also accrues to him, if he protects them not—(301).
@@ -111,9 +116,4 @@ the sixth part of the virtuous as well as the iniquitous deeds committed by his 
 > **अधर्माद् अपि षड्भागो भवत्य् अस्य ह्य् अरक्षतः  ॥ ८.३०३ ॥**
 
 अथ वा रक्षायाम् अधिकृतस्य् स्वयंभुवा, योग्यताशास्त्रेण वा तस्याननुष्ठानाद् युक्तम् अधर्मषड्भागवचनम् इदं शिष्टस्याक्रियायाः, अभिषेककाले वा प्रजासंरक्षणमताक्रियायाः, अन्यार्थप्रतिज्ञाहानिवत् ॥ ८.३०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-304	A king who (duly) protects (his subjects) receives from each and all the sixth part of their spiritual merit; if he does not protect them, the sixth part of their demerit also (will fall on him).
 </details>

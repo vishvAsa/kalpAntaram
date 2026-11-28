@@ -3,6 +3,11 @@ title = "152 अभोज्यानान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+153	But he who has eaten the food of men, whose food must not be eaten, or the leavings of women and Sudras, or forbidden flesh, shall drink barley (-gruel) during seven (days and) nights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one has eaten the food of persons of unfit food, or food left by a woman or a Śūdra,—or forbidden flesh,—he shall drink barley for seven days.—(152)
@@ -90,9 +95,4 @@ should subsist on milk for seven days. If a Kṣatriya eats the leavings of a Ś
 <details><summary>भारुचिः</summary>
 
 पतिग्रहणे च तत्स्त्रीग्रहणे द्विजातिनिर्देशसामर्थ्याद् एव सिद्धे पुनस् तद्ग्रहणं सर्ववर्णार्थम् इदं विज्ञेयम् । एषु **सप्तरात्रं यवान् पिबेत्** । अत्र च पानोपदेशाद् यवैः पिष्टैर् यवागुर् उपदिस्यते, येन द्रवद्रव्यसाधना हि पानक्रिया । अभोज्यश् च स्नातकव्रतकाध्याये व्याख्यातः ॥ ११.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	But he who has eaten the food of men, whose food must not be eaten, or the leavings of women and Sudras, or forbidden flesh, shall drink barley (-gruel) during seven (days and) nights.
 </details>

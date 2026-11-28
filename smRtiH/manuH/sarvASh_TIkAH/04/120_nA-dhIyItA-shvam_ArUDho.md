@@ -2,6 +2,11 @@
 title = "120 नाऽधीयीताऽश्वम् आरूढो"
 +++
 
+<details><summary>Bühler</summary>
+
+120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not recite the Veda while seated on a horse, or a tree, or an elephant, or a boat, or a donkey, or a camel; nor when seated on barren ground, nor when going on a conveyance.—(120).
@@ -53,11 +58,6 @@ boat,—while seated on these, or on a barren plot of land,...... these are occa
 <details><summary>गोविन्दराजः</summary>
 
 **नाधीयीतेति **। अश्ववृक्षहस्तिनौखरोष्ट्रारूढः तथोषरप्रदेशस्थः गन्त्र्यादिभिर् यानेन च गच्छन् **नाधीयीत **॥ ४.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
 </details>
 
 <details><summary>भारुचिः</summary>

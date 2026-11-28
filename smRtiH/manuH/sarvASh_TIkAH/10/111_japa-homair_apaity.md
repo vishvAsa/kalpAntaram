@@ -3,6 +3,11 @@ title = "111 जप-होमैर् अपैत्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	The guilt incurred by offering sacrifices for teaching (unworthy men) is removed by muttering (sacred texts) and by burnt offerings, but that incurred by accepting gifts (from them) by throwing (the gifts) away and by austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the muttering of sacred texts and by the offering of libations is the guilt incurred by teaching and sacrificing removed; while that incurred by receiving gifts is removed only by renouncing them and by austerities.—(111)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.109].
 <details><summary>भारुचिः</summary>
 
 प्रकरणाद् अयं प्रतिग्रहो ऽसत्प्रतिग्रहो विज्ञेयः । छन्दोभङ्गभयात् असच् छब्दो ऽत्र न पठितः प्रतिग्रहोपपदम् । जपहोमत्यागतपसां च प्रायश्चित्तप्रकरणोपदिष्टानाम् इहोपदेशः स्तुत्यर्थः, न विध्यर्थः ॥ १०.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	The guilt incurred by offering sacrifices for teaching (unworthy men) is removed by muttering (sacred texts) and by burnt offerings, but that incurred by accepting gifts (from them) by throwing (the gifts) away and by austerities.
 </details>

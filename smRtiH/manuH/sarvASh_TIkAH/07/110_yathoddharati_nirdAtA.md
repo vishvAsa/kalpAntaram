@@ -3,6 +3,11 @@ title = "110 यथोद्धरति निर्दाता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+110	As the weeder plucks up the weeds and preserves the corn, even so let the king protect his kingdom and destroy his opponents.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as the weeder plucks out the weed and preserves the corn, so shall the King preserve his kingdom and destroy his opponents.—(110)
@@ -58,9 +63,4 @@ removing of dangerous elements and honouring the twice-born—for these purposes
 <details><summary>गोविन्दराजः</summary>
 
 **यथोद्धरतीति **। यथा क्षेत्रस्य कक्षस्योत्पाटयिता कक्षं नाशयति धान्यं च रक्षति, एवं नृपो ऽनुकूलान् राष्ट्रियान् रक्षेत् प्रतिकूलांश् च हन्यात् ॥ ७.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	As the weeder plucks up the weeds and preserves the corn, even so let the king protect his kingdom and destroy his opponents.
 </details>

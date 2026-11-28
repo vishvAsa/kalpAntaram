@@ -3,6 +3,11 @@ title = "036 न वै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	Neither a girl, nor a (married) young woman, nor a man of little learning, nor a fool, nor a man in great suffering, nor one uninitiated, shall offer an Agnihotra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither a girl, nor a youthful woman, nor a man of little learning, nor a fool, nor one distressed, nor one without the sacraments shall act as a ‘Hotṛ’ at the Agnihotra.—(36)
@@ -78,9 +83,4 @@ and [9.18].\]
 <details><summary>भारुचिः</summary>
 
 कन्यादीनाम् अप्राप्तानां प्रतिषेधो ऽयम्, अग्निहोत्रादीनां सर्वकर्मणाम् अनुष्ठातृस्तुत्यर्थः । तत् पुनर् विचारणीयं युक्तायुक्ततया । एवं च सतीदम् आह ॥ ११.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	Neither a girl, nor a (married) young woman, nor a man of little learning, nor a fool, nor a man in great suffering, nor one uninitiated, shall offer an Agnihotra.
 </details>

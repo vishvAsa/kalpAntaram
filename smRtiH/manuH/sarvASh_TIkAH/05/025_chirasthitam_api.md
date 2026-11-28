@@ -2,6 +2,11 @@
 title = "025 चिरस्थितम् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+025	But all preparations of barley and wheat, as well as preparations of milk, may be eaten by twice-born men without being mixed with fatty (substances), though they may have stood for a long time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that is made of barley and wheat, as also all preparations of milk, may be eaten by twice-born men, without being mixed with oils, even though they may have been kept long—(25).
@@ -45,11 +50,6 @@ See Comparative notes for [Verse 5.24].
 <details><summary>गोविन्दराजः</summary>
 
 **चिरस्थितम्** इति । यवगोधूमक्षीरविकाराः सर्वे नैकरात्र्यन्तरितः सन्तः स्नेहप्रोक्षणरहिता अपि द्विजादिभिर् अदनीयाः ॥ ५.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	But all preparations of barley and wheat, as well as preparations of milk, may be eaten by twice-born men without being mixed with fatty (substances), though they may have stood for a long time.
 </details>
 
 <details><summary>भारुचिः</summary>

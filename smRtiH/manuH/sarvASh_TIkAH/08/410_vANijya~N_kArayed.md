@@ -3,6 +3,11 @@ title = "410 वाणिज्यङ् कारयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+410	(The king) should order a Vaisya to trade, to lend money, to cultivate the land, or to tend cattle, and a Sudra to serve the twice-born castes
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall make the Vaiśya to carry on trade, money-lending, agriculture,—and cattle-trading; and the Śūdra to perform service for the twice-born castes.—(410)
@@ -91,9 +96,4 @@ have no property; whatever they earn is the property of those to whom they belon
 <details><summary>भारुचिः</summary>
 
 वैश्यशूद्रौ वाणिज्यादिस्वकर्माकुर्वाणौ बलाद् राज्ञा कारयितव्यौ । अकुर्वाणौ च दण्डदण्ड्यौ स्याताम् । एवमर्थश् च राजधर्मे[षु पु]न[रारम्भः] ॥ ८.४०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-410	(The king) should order a Vaisya to trade, to lend money, to cultivate the land, or to tend cattle, and a Sudra to serve the twice-born castes
 </details>

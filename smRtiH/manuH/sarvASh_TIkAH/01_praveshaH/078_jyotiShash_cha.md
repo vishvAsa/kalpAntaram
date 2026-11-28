@@ -2,6 +2,11 @@
 title = "078 ज्योतिषश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After light, from out of the same Evolvent, emanates water, which has been declared to be endowed with the quality of taste. and after water, comes earth, endowed with the quality of odour.—Such is creation at the outset.—(78)
@@ -59,11 +64,6 @@ See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 <details><summary>गोविन्दराजः</summary>
 
 **ज्योतिष** इति । तेजसः पूर्ववत् । **आपः **रसाख्यगुणयुक्ता जायन्त इति **स्मृताः **मन्वादिभिः । **अद्भ्यश् **च गन्धाख्यगुणयुक्ता **भूमिर्** जायते । इत्य् एषा अन्तरालप्रलयानन्तरं प्रथमतः **सृष्टिः** ॥ १.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "072 साहसेषु च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	In all cases of violence, of theft and adultery, of defamation and assault, he must not examine the (competence of) witnesses (too strictly).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In all cases of violence, of theft and adultery, and of assault, verbal and corporeal,—he shall not investigate the character of the witnesses.—(72)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 8.70].
 <details><summary>भारुचिः</summary>
 
 वस्त्रपाटनोल्कादहनकेशछेदनादिष्व् अप्रत्ययकारी पुरुषः क्रोधचापलप्रभवेषु । स्तेयादीनि प्रसिद्धानि । एवमादिषु न परीक्षेत साक्षिणम्, "गृहिणः पुत्रिणः" इत्य् एवमादिना लक्षणेन । अर्थसंबन्धादिभिस् तु सामर्थ्यात् परीक्ष्या एव "अनुमानेन" । प्रतिषिद्धा अपि सन्तः परीक्ष्या एव साक्षिणो ऽनुमानतः । एवं चानुमानोपदेष्(श्?)ओ ऽत्रार्थवान् भवतीत्य् उक्तः । यत्र पुनः साक्षिणां समगुणानां विप्रतिपत्तिः, तत्र —
-</details>
-
-<details><summary>Bühler</summary>
-
-072	In all cases of violence, of theft and adultery, of defamation and assault, he must not examine the (competence of) witnesses (too strictly).
 </details>

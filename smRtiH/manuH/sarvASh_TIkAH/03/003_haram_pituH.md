@@ -2,6 +2,11 @@
 title = "003 हरम् पितुः"
 +++
 
+<details><summary>Bühler</summary>
+
+003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, by the due observance of his duties, he has acquired the Veda and his heritage from his father, and is so inclined,—his father shall first honour him, adorned with garlands and seated upon a couch, with the “Cow.”—(3)
@@ -111,11 +116,6 @@ Cow-honey-mixture;—as also the Ācārya, the Priest, the Accomplished Student,
 <details><summary>गोविन्दराजः</summary>
 
 **तम्** इति । **तं** कृतब्रह्मचर्यं ब्रह्मचर्यावस्थानोदितधर्मानुष्ठानानुशयेन प्रतिख्यातं “तस्मात् पुत्रम् अनुशिष्टं लोक्यम् आहुः” इति श्रुत्या **पितुः** प्रथमकल्पिकत्वात् पितुः सकाशात् तदभाव आचार्य अधीतवेदं कृतमाल्याद्यलङ्कारं परार्घ्यशयनोपविष्टं पिता तदभावे आचार्यादिः गृह्योक्तस्वरूपगोसाधनकमधुपर्काख्यकर्मणा गार्हपथ्यप्रतिपत्तेः प्राक् पूजयेत् । दियते इति दायः, ब्रह्मैव दायो ब्रह्मदायः, तं हरतीति **ब्रह्मदायहरति **॥ ३.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).
 </details>
 
 <details><summary>भारुचिः</summary>

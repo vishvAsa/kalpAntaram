@@ -3,6 +3,11 @@ title = "094 पितृ-देव-मनुष्याणां वेदश�
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	The Veda is the eternal eye of the manes, gods, and men; the Veda-ordinance (is) both beyond the sphere of (human) power, and beyond the sphere of (human) comprehension; that is a certain fact.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For Pitṛs, gods and men, the Veda is the eternal eye; the teaching of the Veda is beyond power and illimitable. Such is the settled fact.—(94)
@@ -133,9 +138,4 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra p. 129).
 <details><summary>भारुचिः</summary>
 
 पितृदेवमनुष्याणाम् अस्तित्वप्रसिद्दये कर्माङ्गत्वायाधिकारपुरुषस्य **वेदश् चक्षुः** । चक्षुर् इव, चक्षुः दर्शनार्थत्वात् । येन पितरो वेदविध्युपहृतम् एव भुञ्जते, तेन **वेदस्** तेषां **चक्षुर्** इत्य् उच्यते । **अतर्क्यं** चापौरुषेयत्वात् । **अप्रमेयं** च फलतो **वेदशास्त्रम्** । यस्मात् अतः ॥ १२.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	The Veda is the eternal eye of the manes, gods, and men; the Veda-ordinance (is) both beyond the sphere of (human) power, and beyond the sphere of (human) comprehension; that is a certain fact.
 </details>

@@ -2,6 +2,11 @@
 title = "022 आ समुद्रात्"
 +++
 
+<details><summary>Bühler</summary>
+
+022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The country extending as far as the Eastern Ocean and as far as the Western Ocean, and lying between the same two mountains,—the learned know as ‘Āryāvarta.’ (22).
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>गोविन्दराजः</summary>
 
 **आ समुद्राद्** इति । **पूर्वपश्चिमसमुद्रयोः **पुनर् अर्वाग्वर्ति यन् मध्यं **तयोश् च **हिमवद्विन्ध्ययोश् चोत्तरदक्षिणादिगवलम्बिनोः पर्वतयोः यन् मध्यं **आर्यावर्ता**ख्यं देशं विद्वांसो मन्यन्ते ॥ २.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
 </details>
 
 <details><summary>भारुचिः</summary>

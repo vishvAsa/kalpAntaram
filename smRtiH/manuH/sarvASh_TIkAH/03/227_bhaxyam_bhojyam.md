@@ -3,6 +3,11 @@ title = "227 भक्ष्यम् भोज्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also hard food and soft food of various kinds, roots, fruits, savoury meat and sweet-smelling drinks.—(227)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 3.226].
 <details><summary>गोविन्दराजः</summary>
 
 **भक्ष्यं भोज्यं च विविधं सुरसानि फलानि चेति** । तथा **भक्ष्यं **खरविशदं मोदकादि **भोज्यं** पायसादिना यथ्प्रकारं **मूलं फलं च **हृदयस्य प्रियाणि **मांसानि **पानकादीन च **सुरभीणि **भवन्ति** **भूमाव् एव विन्यसेत् ॥ ३.२२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.
 </details>

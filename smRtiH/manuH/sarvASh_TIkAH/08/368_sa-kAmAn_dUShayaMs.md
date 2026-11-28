@@ -3,6 +3,11 @@ title = "368 स-कामान् दूषयंस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+368	A man (of) equal (caste) who defiles a willing maiden shall not suffer the amputation of his fingers, but shall pay a fine of two hundred (panas) in order to deter him from a repetition (of the offence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man of equal status defiling a willing maiden shall not suffer amputation of fingers; he should be made to pay the fine of two hundred with a view to prevent repetition.—(368)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 असमास्व् (?) एतत् स्यात् कन्यासूत्तमस्य ॥ ८.३६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-368	A man (of) equal (caste) who defiles a willing maiden shall not suffer the amputation of his fingers, but shall pay a fine of two hundred (panas) in order to deter him from a repetition (of the offence).
 </details>

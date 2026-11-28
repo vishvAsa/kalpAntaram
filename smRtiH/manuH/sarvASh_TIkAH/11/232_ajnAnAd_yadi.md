@@ -3,6 +3,11 @@ title = "232 अज्ञानाद् यदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+233	He who, having either unintentionally or intentionally committed a reprehensible deed, desires to be freed from (the guilt on it, must not commit it a second time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Either intentionally or unintentionally, if one has done a reprehensible act, he must not do it a second time, if he seeks absolution from the former.—(232)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/
 <details><summary>भारुचिः</summary>
 
 ज्ञानकृतस्याप्य् अकुशलस्य निवृत्त्या शुद्धिः, किं पुनर् अज्ञानकृतस्येत्य् अनेन दर्शयति ॥ ११.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	He who, having either unintentionally or intentionally committed a reprehensible deed, desires to be freed from (the guilt on it, must not commit it a second time.
 </details>

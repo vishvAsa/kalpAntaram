@@ -3,6 +3,11 @@ title = "102 एतैर् व्रतैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+103	By these penances a twice-born man may remove the guilt incurred by a theft (of gold); but he may atone for connexion with a Guru's wife by the following penances.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man shall remove the guilt caused by theft by means of these penances. That caused by intercourse with the Preceptor’s wife he shall wipe off by means of these following penances.—(102)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 11.99].
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासः पूर्वोत्तरप्रकरणयोः ॥ ११.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	By these penances a twice-born man may remove the guilt incurred by a theft (of gold); but he may atone for connexion with a Guru's wife by the following penances.
 </details>

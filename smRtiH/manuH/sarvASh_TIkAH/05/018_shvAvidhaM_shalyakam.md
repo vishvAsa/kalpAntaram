@@ -2,6 +2,11 @@
 title = "018 श्वाविधं शल्यकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+018	The porcupine, the hedgehog, the iguana, the rhinoceros, the tortoise, and the hare they declare to be eatable; likewise those (domestic animals) that have teeth in one jaw only, excepting camels.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among five-nailed animals they declare the porcupine, the hedge-hog, the alligator, the rhinoceros, the tortoise and the hare, as fit to be eaten; as also all animals having one line of teeth. except the camel.—(18)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 5.17].
 <details><summary>गोविन्दराजः</summary>
 
 अत्र प्रतिप्रसवम् आह **श्वाविधं **शल्यकं** गोधां खड्गकूर्मशशांस् तथेति **। **श्वाविधं** सेधाख्यं प्राणिभेदं **शल्यकं **चाषं **गोधां** च प्राणिविशेषं **खड्गं** गण्डकं **कूर्मं** कच्छपं **शशं** च पञ्चनखेषु मध्यात् भक्षणार्हान् मन्वादय आहुः । तथा एकदन्तपङ्क्त्युपेतेषु मध्यात् उष्ट्रवर्जितान् अजादीन् इति भावः ॥ ५.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	The porcupine, the hedgehog, the iguana, the rhinoceros, the tortoise, and the hare they declare to be eatable; likewise those (domestic animals) that have teeth in one jaw only, excepting camels.
 </details>
 
 <details><summary>भारुचिः</summary>

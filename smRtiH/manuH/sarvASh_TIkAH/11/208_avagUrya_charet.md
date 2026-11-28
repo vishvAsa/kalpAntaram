@@ -3,6 +3,11 @@ title = "208 अवगूर्य चरेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+209	For threatening a Brahmana, (the offender) shall perform a Krikkhra, for striking him an Atikrikkhra, for shedding his blood a Krikkhra and an Atikrikkhra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On threatening a Brāhmaṇa, one shall perform the Kṛcchra; on striking him, the Atikṛcchara, and on shedding his blood, both the Kṛcchra and the Atikṛcchra.— (208)
@@ -57,9 +62,4 @@ blood, the *Kṛcchrātikṛcchra*; for inflicting such hurt as keeps the blood 
 <details><summary>भारुचिः</summary>
 
 सर्वो ब्राह्मणादिवर्णः । "ब्राह्मणस्य रुजःकृत्यम्" इति चैतज् जातिभ्रंशकरमध उपदिष्टम् । यतः तदीयेन प्रायश्चित्तेन कृच्छ्रातिकृच्छ्रौ विकल्पितौ स्याताम् ॥ ११.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-209	For threatening a Brahmana, (the offender) shall perform a Krikkhra, for striking him an Atikrikkhra, for shedding his blood a Krikkhra and an Atikrikkhra.
 </details>

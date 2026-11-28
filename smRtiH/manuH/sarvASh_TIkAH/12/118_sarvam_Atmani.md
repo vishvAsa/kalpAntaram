@@ -3,6 +3,11 @@ title = "118 सर्वम् आत्मनि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	Let (every Brahmana), concentrating his mind, fully recognise in the Self all things, both the real and the unreal, for he who recognises the universe in the Self, does not give his heart to unrighteousness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a concentrated mind, one should perceive in the Self all things, real as well as unreal. One who perceives all things in the Self never turns his mind towards wrong.—(118)
@@ -173,9 +178,4 @@ This verse is quoted in *Aparārka* (p. 1027).
 न केवलम् एतद् एव धर्मगुह्यं यद् उक्तं धर्मोपसंहारे- **एवं स भगवान् देवो लोकानां हितकाम्यया** इत्य् एवमादि, किं तर्हीदं चापरं परमात्मविषयं तत्प्रसंख्यानम् अध्यात्मोपासनारूपं धर्मगुह्यम् उच्यते ॥ १२.११७ ॥
 
 केचिद् आहुः क्षेत्रज्ञात्मविषयं तत्प्रसंख्यानम् अध्यात्मोपासनारूपं धर्मगुह्यम् । न, विरुद्धत्वात् । वक्ष्यति हि- "प्रशासितारं सर्वेषाम्" इत्य् एवमादि । यत इदं परमात्मविषयम् एवात्मग्रहणं विज्ञेयम् । तथा च प्रदर्शयिष्यामः । श्लोकम् इदानीं विवृणु[म]ः । **सर्वं** यद् वक्ष्यति । **सच् चासच् चेति** तद् व्यक्ताव्यक्तं सविकारं प्रधानम् उच्यते । **आत्मनीति** सर्ववेदशाखोपनिषदस् तत्त्वे परमात्मनीत्य् अर्थः । अध्यस्तं व्यवस्थितं तदधीनवृत्तिभेदपक्षे, तदात्मकतया वाभेदपक्ष इति केचित् । **संपश्येद्** इत्य् उपासीतेत्य् अर्थः । कथम् एवं यथोवचाम । तथा च पश्यतिर् उपासनार्थो विज्ञेयः । तस्य विशेषणं **समाहितः** आस्तिक्येन श्रद्धया यमनियमैर् वा समाहितात्मा पश्येत् । अस्य फलार्थवादः फलविधिर् वायम्- **सर्वं ह्य् आत्मनि संपश्यन् नाधर्मे कुरुते मनः**, परमात्मत्वेन सर्वम् इदं पश्यन् । यतश् च ॥ १२.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	Let (every Brahmana), concentrating his mind, fully recognise in the Self all things, both the real and the unreal, for he who recognises the universe in the Self, does not give his heart to unrighteousness.
 </details>

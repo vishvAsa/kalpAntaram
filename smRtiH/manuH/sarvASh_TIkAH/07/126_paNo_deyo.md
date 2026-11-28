@@ -3,6 +3,11 @@ title = "126 पणो देयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+126	One pana must be given (daily) as wages to the lowest, six to the highest, likewise clothing every six months and one drona of grain every month.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One paṇa shall be paid as the wages of the inferior, and six to the superior servant; as also clothing every sixth month and a Droṇa of grain every month.—(126)
@@ -61,9 +66,4 @@ constitute the monthly wage; to be paid on calculating after six months, or four
 <details><summary>भारुचिः</summary>
 
 भक्तपर्कॢप्तिः श्लोकद्वयेन । पणद्रोणयोः परिमाणं वक्ष्यति ॥ ७.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	One pana must be given (daily) as wages to the lowest, six to the highest, likewise clothing every six months and one drona of grain every month.
 </details>

@@ -2,6 +2,11 @@
 title = "052 स्त्रीधनानि तु"
 +++
 
+<details><summary>Bühler</summary>
+
+052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those relations who, through folly, live upon the bride’s properties—even the bride’s conveyances and clothes—are sinners and fall into the lowest state.—(52)
@@ -52,11 +57,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 <details><summary>गोविन्दराजः</summary>
 
 **स्त्रीधनानीति** । दुहितृभगिन्¥आसिसम्बन्धीनि हिरण्यानि दासीवाहनवस्त्राणि वा पित्रादय उपभुञ्जते । अतस् ते **पापाः** पाककर्माणो नरकं व्रजन्ति । प्रसङ्गात् स्त्रीधनोपजीवनप्रतिषेधः ॥ ३.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
 </details>
 
 <details><summary>भारुचिः</summary>

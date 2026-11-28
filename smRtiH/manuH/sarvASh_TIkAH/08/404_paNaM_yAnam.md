@@ -3,6 +3,11 @@ title = "404 पणं यानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+404	At a ferry an (empty) cart shall be made to pay one pana, a man's (load) half a pana, an animal and a woman one quarter of a (pana), an unloaded man one-half of a quarter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At a ferry-crossing, a cart shall be made to pay one ‘paṇa’; one man’s burden half a ‘paṇa,’ an animal and a woman a quarter ‘paṇa,’ and an unloaded man one half of a quarter.—(404)
@@ -83,9 +88,4 @@ water, it is one *māṣa*; it is to be one and a half times these in the case o
 <details><summary>भारुचिः</summary>
 
 रिक्तं **यानं** रथादि पणं दद्यात् । पुरुषवाह्यो भारो ऽर्धपणम् । प्रकृतस्य पणस्य **पादं पशुश् च** रिक्तका **योषिच् च** । **पादार्धं रिक्तकः पुमान्** ॥ ८.४०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-404	At a ferry an (empty) cart shall be made to pay one pana, a man's (load) half a pana, an animal and a woman one quarter of a (pana), an unloaded man one-half of a quarter.
 </details>

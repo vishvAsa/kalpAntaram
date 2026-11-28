@@ -3,6 +3,11 @@ title = "175 या पत्या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+175	If a woman abandoned by her husband, or a widow, of her own accord contracts a second marriage and bears (a son), he is called the son of a re-married woman (Paunarbhava).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a woman abandoned by her husband, or a widow, of her own accord, marries again and bears a son, that son is called ‘the son of a re-married woman.’—(175)
@@ -52,9 +57,4 @@ impotent or outcast husband, takes another lord,—the son born from her is call
 <details><summary>भारुचिः</summary>
 
 सवर्णः पौनर्भवो ऽसवर्णो ऽपि वा, असवर्णस् तु गुणतः ॥ ९.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-175	If a woman abandoned by her husband, or a widow, of her own accord contracts a second marriage and bears (a son), he is called the son of a re-married woman (Paunarbhava).
 </details>

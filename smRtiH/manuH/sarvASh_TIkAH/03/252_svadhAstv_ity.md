@@ -3,6 +3,11 @@ title = "252 स्वधास्त्व् इत्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇas should thereupon tell him—“May there be svadhā.” at all rites performed in honour of the Pitṛs, the syllable “Svadhā” constitutes the highest benediction.—(252)
@@ -38,9 +43,4 @@ svadhā*.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्वधेत्य् एवं वचनं ब्रूयुर्** इति । अनुज्ञानन्तरं दातारं **स्वधेय् एवं ब्राह्मणा ब्रूयुः **यस्मात् सर्वेषु कृतान्नाकृतान्नश्राद्धोदकतर्पणादिषु पितृकर्मसु स्वधाशब्दोच्चारणं प्रकृष्टा **आशीः **॥ ३.२५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.
 </details>

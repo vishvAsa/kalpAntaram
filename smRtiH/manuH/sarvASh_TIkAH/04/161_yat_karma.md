@@ -2,6 +2,11 @@
 title = "161 यत् कर्म"
 +++
 
+<details><summary>Bühler</summary>
+
+161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall perform, with diligence that act, by performing which there arises satisfaction in his inner soul; and he shall avoid the contrary.—(161)
@@ -32,11 +37,6 @@ This verse is quoted in *Aparārka* (p. 224), which explains ‘*Karma*’ as �
 <details><summary>गोविन्दराजः</summary>
 
 अशिष्टाप्रतिषिद्धं वैकल्पिकं वा । **यत् कर्मेति । यत् कर्म** अनुतिष्ठतः पुंसो ऽ**न्तरामनः** **परितोषो **भवति **तत् **यत्नतः **कुर्वीत** । आत्मतुष्टिकरं पुनर् **वर्जयेत् **॥ ४.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
 </details>
 
 <details><summary>भारुचिः</summary>

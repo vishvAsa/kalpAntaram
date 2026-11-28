@@ -2,6 +2,11 @@
 title = "081 श्रोत्रिये तूपसम्पन्ने"
 +++
 
+<details><summary>Bühler</summary>
+
+081	For a Srotriya who resides with (him out of affection), a man shall be impure for three days; for a maternal uncle, a pupil, an officiating priest, or a maternal relative, for one night together with the preceding and following days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of a learned companion, one shall remain impure for three days; in the case of a maternal uncle, a pupil, an officiating priest and relation, for a night along with the two days (preceding and following it).—(80).
@@ -82,11 +87,6 @@ officiates,—purification is obtained in three days.’
 <details><summary>गोविन्दराजः</summary>
 
 **श्रोत्रिय** इति । वेदाध्यायिनि केनापि मैत्र्यादिना निमित्तेन निकटवर्तिश् च सब्रह्मचारिण्य् अपि प्रेते त्रिरात्रम् आशौचवान् भवति । मातुलशिष्यर्विग्भागिनेयादिषु उभयतो ऽहर्द्वयं पक्षद्वयम् इव । यस्यास् तां रात्रिम् आशौचं बान्धवत्वे ऽपि मातुलस्य पुनर्वचनं मातुलेयादीनां विकल्पार्थम् ॥ ५.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	For a Srotriya who resides with (him out of affection), a man shall be impure for three days; for a maternal uncle, a pupil, an officiating priest, or a maternal relative, for one night together with the preceding and following days.
 </details>
 
 <details><summary>भारुचिः</summary>

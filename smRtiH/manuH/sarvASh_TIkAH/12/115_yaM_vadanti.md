@@ -3,6 +3,11 @@ title = "115 यं वदन्ति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+115	The sin of him whom dunces, incarnations of Darkness, and unacquainted with the law, instruct (in his duty), falls, increased a hundredfold, on those who propound it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When ignorant men, partaking of the quality of ‘Tamas,’ declare a certain act as right, without knowing what ‘right’ means,—the sin of that act falls hundred-fold upon those who propound it.—(115)
@@ -36,9 +41,4 @@ and unacquainted with the sacred Law, declare to be Dharma, falls, increased a h
 <details><summary>गोविन्दराजः</summary>
 
 **यम्** इति । ये मूढा विवेकाभावात् तमोरूपा धर्मानभिज्ञाः सन्तः पापकारिणो यत् प्रायश्चित्तम् उपदिशन्ति तत् प्रायश्चित्तनिमित्तभूतं पापं शतगुणं भूत्वा तेषां प्रायश्चित्तदातॄणां भवति ॥ १२.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	The sin of him whom dunces, incarnations of Darkness, and unacquainted with the law, instruct (in his duty), falls, increased a hundredfold, on those who propound it.
 </details>

@@ -3,6 +3,11 @@ title = "097 वरं स्वधर्मो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	It is better (to discharge) one's own (appointed) duty incompletely than to perform completely that of another; for he who lives according to the law of another (caste) is instantly excluded from his own.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Better one’s own duty imperfectly performed, and not the duty of another performed perfectly; he who subsists by the function of another, instantly falls off from his caste.—(97)
@@ -51,9 +56,4 @@ occupation of that next below it in rank.’
 <details><summary>भारुचिः</summary>
 
 अयम् अपरो निन्दार्थवादः । उत्कृष्टवर्णवृत्त्यनुष्ठानप्रतिषेधे स्वधर्मः परधर्म इति । प्रकरणात् तु वृत्तिविषयो धर्मशब्दः ॥ १०.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	It is better (to discharge) one's own (appointed) duty incompletely than to perform completely that of another; for he who lives according to the law of another (caste) is instantly excluded from his own.
 </details>

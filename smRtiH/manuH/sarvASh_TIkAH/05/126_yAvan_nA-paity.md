@@ -2,6 +2,11 @@
 title = "126 यावन् नाऽपैत्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+126	As long as the (foul) smell does not leave an (object) defiled by impure substances, and the stain caused by them (does not disappear), so long must earth and water be applied in cleansing (inanimate) things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From an object tainted by an unclean substance, as long as the smell and the stain caused by it do not disappear, so long should earth and water be applied to it,—in all cases of the purification of things.—(124).
@@ -94,11 +99,6 @@ substance remains on the defiled object, so long must earth and water be constan
 <details><summary>गोविन्दराजः</summary>
 
 **यावन् नापैत्य् अमेध्याक्ताद् गन्धो लेपश् च तत्कृतः** इति । पुरीषादिदग्धाद् यावत् पुरीषादिसम्बन्धिनौ गन्धलेपौ नापगच्छतः तावत् सर्वद्रव्यशुद्धिषु मृद् वारि प्रग्रहीतव्यम् इत्य् अमेध्याक्तद्रव्योक्तानुक्तशुद्धिविशेषविषयम् इदम् ॥ ५.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	As long as the (foul) smell does not leave an (object) defiled by impure substances, and the stain caused by them (does not disappear), so long must earth and water be applied in cleansing (inanimate) things.
 </details>
 
 <details><summary>भारुचिः</summary>

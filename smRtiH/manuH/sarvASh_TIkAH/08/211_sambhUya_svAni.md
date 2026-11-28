@@ -3,6 +3,11 @@ title = "211 सम्भूय स्वानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+211	By the application of these principles the allotment of shares must be made among those men who here (below) perform their work conjointly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among men carrying on their business jointly, the allotment of shares should be done by the application of these principles.—(211)
@@ -61,9 +66,4 @@ jointly, will have the earnings according to the amount of their share, greater,
 <details><summary>भारुचिः</summary>
 
 एकस्मिन् गृहकरणादौ सूत्रकारवधकिस्थपत्यादीनां गुरुलघुताम् अवक्ष्यानवेक्ष्य वा यथास्मरणं **कर्तव्यांशप्रकल्पना** । न ह्य् अशिल्पेषु व्यवहारेषु वा मनुष्याणां तुल्यता शक्या ग्रहीतुम् । अदत्तानपकर्म[वर्]णार्थम् इदम् आह — ॥ ८.२१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	By the application of these principles the allotment of shares must be made among those men who here (below) perform their work conjointly.
 </details>

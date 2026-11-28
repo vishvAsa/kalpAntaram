@@ -2,6 +2,11 @@
 title = "267 तिलैर् व्रीहि-यवैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the proper offering of sesamum, rice and barley, māṣa, water, roots and fruits, men’s ancestors are satisfied for one month.—(267)
@@ -43,11 +48,6 @@ See Comparative notes for [Verse 3.266].
 <details><summary>गोविन्दराजः</summary>
 
 **तिलर्** इति । **द्वै मासौ मत्स्यमांसेनेति । षण्मासांश् छागमांसेनेति ।** तिलधान्ययवमाषोदकमूलफलानां श्राद्धेन **दत्तेन** मनुष्याणां **मासं पितरस् तृप्यन्ति द्वौ** पाठीनादि**मत्यमांसेन** **त्रीन्** मार्गेण मांसेन **चतुरो **मेषसम्बन्धिना, **पञ्च **भक्ष्यपक्ष्युद्भवेन षड् आजेन सप्त चित्रमृगसम्बन्धिना अष्टौ सारङ्गमांसेन, नव शम्बराख्यमृगजेन ॥ ३.२६७–२६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,
 </details>
 
 <details><summary>भारुचिः</summary>

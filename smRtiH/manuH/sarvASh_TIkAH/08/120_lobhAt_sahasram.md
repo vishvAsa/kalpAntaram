@@ -3,6 +3,11 @@ title = "120 लोभात् सहस्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	(He who commits perjury) through covetousness shall be fined one thousand (panas), (he who does it) through distraction, in the lowest amercement; (if a man does it) through fear, two middling amercements shall be paid as a fine, (if he does it) through friendship, four times the amount of the lowest (amercement).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If through greed, he should be fined a thousand; if through embarrassment, the lowest amercement; if through fear, two middlling ones; if through friendship, four times the first.—(120)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 8.118].
 <details><summary>गोविन्दराजः</summary>
 
 **लोभाद्** इति । लोभेनानृताभिधाने सति पणानां वक्ष्यमाणानां सहस्रं दण्ड्यः । मोहेन प्रथमसाहसं वक्ष्यमाणम् । भयेन वक्ष्यमाणसाहसौ द्वौ । मैत्र्यात् प्रथमसाहसं चतुर्गुणम् ॥ ८.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	(He who commits perjury) through covetousness shall be fined one thousand (panas), (he who does it) through distraction, in the lowest amercement; (if a man does it) through fear, two middling amercements shall be paid as a fine, (if he does it) through friendship, four times the amount of the lowest (amercement).
 </details>

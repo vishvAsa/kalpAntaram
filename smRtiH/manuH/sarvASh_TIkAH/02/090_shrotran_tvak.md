@@ -2,6 +2,11 @@
 title = "090 श्रोत्रन् त्वक्"
 +++
 
+<details><summary>Bühler</summary>
+
+090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (They are) the Ear, the Skin, the Eyes, the Tongue and the Nose as the fifth; the Anus, the Generative Organ, the Hands and Feet, and Speech described as the tenth.—(90)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 2.89].
 <details><summary>गोविन्दराजः</summary>
 
 तानि च **श्रोत्रम्** इति । **त्वक् **चर्म तात्स्थ्यात् । अत्र स्पर्शनेन्द्रियं **त्वक्** उच्यते । **चक्षुषी **इति अधिष्ठानभेदात् द्विवचनम् । **श्रोत्रा**दौ च तदादारशक्त्यैक्यालम्बनम् एकवचनम् । **पायुः** अपानम् **उपस्थः** लिङ्गम् । **वाक्** शब्दाभिव्यञ्जकशरीरैकदेशः ॥ २.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
 </details>
 
 <details><summary>भारुचिः</summary>

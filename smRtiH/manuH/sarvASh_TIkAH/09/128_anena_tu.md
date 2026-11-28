@@ -3,6 +3,11 @@ title = "128 अनेन तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+128	According to this rule Daksha, himself, lord of created beings, formerly made (all his female offspring) appointed daughters in order to multiply his race.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In ancient times Dakṣa Prajāpati himself made ‘appointed daughters’ in this same manner, for the purpose of multiplying his race.—(128)
@@ -42,9 +47,4 @@ See Comparative notes for [Verse 9.127].
 <details><summary>भारुचिः</summary>
 
 प्रजापतिर् हि प्रजाविधिज्ञः । यतः स एवोदाहृतः ॥ ९.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	According to this rule Daksha, himself, lord of created beings, formerly made (all his female offspring) appointed daughters in order to multiply his race.
 </details>

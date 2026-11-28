@@ -3,6 +3,11 @@ title = "047 गन्धर्वा गुह्यका"
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	The Gandharvas, the Guhyakas, and the servants of the gods, likewise the Apsarases, (belong all to) the highest (rank of) conditions produced by Activity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gandharvas, Guhyakas, ‘Yakṣas,’ the attendants of the gods, and all the Apsaras, represent the high state among those partaking of ‘Rajas.’—(47)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **गन्धर्वा **इति । गन्धर्वा गुह्यका यक्षा जातिविशेषा ये देवानुयायिनो विद्याधरादयो ऽप्सरसश् च देवगणिका उदकोद्भवा अन्याश् चेत्य् एषां राजसेषु मनुष्येषूत्कृष्टा गतिः ॥ १२.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	The Gandharvas, the Guhyakas, and the servants of the gods, likewise the Apsarases, (belong all to) the highest (rank of) conditions produced by Activity.
 </details>

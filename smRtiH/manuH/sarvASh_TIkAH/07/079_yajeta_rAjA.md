@@ -3,6 +3,11 @@ title = "079 यजेत राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	A king shall offer various (Srauta) sacrifices at which liberal fees (are distributed), and in order to acquire merit, he shall give to Brahmanas enjoyments and wealth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King shall offer various sacrifices at which large sacrificial fees are paid; and for the purpose of acquiring merit, he shall provide for Brāhmaṇas luxuries and riches.—(79)
@@ -51,9 +56,4 @@ any Brāhmaṇa in his realm to perish from want, nor any other loading a pious 
 <details><summary>भारुचिः</summary>
 
 इमे अधिके यागदाने राज्ञो विधीयेते । नित्यवद् एवानयोर् अप्य् अकरणे प्रत्यवाय एव ॥ ७.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	A king shall offer various (Srauta) sacrifices at which liberal fees (are distributed), and in order to acquire merit, he shall give to Brahmanas enjoyments and wealth.
 </details>

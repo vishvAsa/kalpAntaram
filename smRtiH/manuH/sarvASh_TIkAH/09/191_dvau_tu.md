@@ -3,6 +3,11 @@ title = "191 द्वौ तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+191	But if two (sons), begotten by two (different men), contend for the property (in the hands) of their mother, each shall take, to the exclusion of the other, what belonged to his father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if two sons, born of two men, contend for the property in the mother’s possession, each shall take, to the exclusion of the other, what belonged to his own father.—(191)
@@ -39,9 +44,4 @@ This verse is quoted in *Vivādaratnākara* (p. 588), which notes that the term 
 <details><summary>भारुचिः</summary>
 
 या पुनर्भूः सापत्या सधना च परस्मिन् पुरुषे पुनर् भवति तत्रायं विभागः । इदं च पुनर्भूपुत्रस्यांशहरत्वे दर्शनम् ॥ ९.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	But if two (sons), begotten by two (different men), contend for the property (in the hands) of their mother, each shall take, to the exclusion of the other, what belonged to his father.
 </details>

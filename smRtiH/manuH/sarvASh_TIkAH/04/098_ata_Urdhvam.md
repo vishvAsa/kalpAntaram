@@ -2,6 +2,11 @@
 title = "098 अत ऊर्ध्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After this, he shall diligently read the Vedas during the bright fortnights, and all the subsidiary sciences during the dark fortnights.—(98)
@@ -36,11 +41,6 @@ carry on the study of the Subsidiary Sciences.’
 <details><summary>गोविन्दराजः</summary>
 
 **अत** इति । उत्सर्गानध्यायाद् **ऊर्ध्वं** शुक्लपक्षेषु संयमवान् वेदान् अधीयीत । **कृष्णपक्षे** तु **वेदाङ्गानि **व्याकरणादीनि नियमितः **पठेत् **॥ ४.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "216 एवं सर्वम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+216	Having thus consulted with his ministers on all these (matters), having taken exercise, and having bathed afterwards, the king may enter the harem at midday in order to dine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus discussed all this with his ministers, the king shall take exercise at midday; and having bathed, shall enter the inner apartment for the purpose of taking his food.—(216).
@@ -53,9 +58,4 @@ effect of poisons, and having decorated his person with antidotary gems, the Kin
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ७.२१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	Having thus consulted with his ministers on all these (matters), having taken exercise, and having bathed afterwards, the king may enter the harem at midday in order to dine.
 </details>

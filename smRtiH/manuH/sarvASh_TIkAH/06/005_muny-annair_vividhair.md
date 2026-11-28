@@ -2,6 +2,11 @@
 title = "005 मुन्य्-अन्नैर् विविधैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+005	Let him offer those five great sacrifices according to the rule, with various kinds of pure food fit for ascetics, or with herbs, roots, and fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These same ‘Great Sacrifices’ he should offer, according to rule, with various kinds of pure food fit for hermits, or with herbs, roots and fruits.—(5).
@@ -51,11 +56,6 @@ he shall maintain, with things obtained without ploughing, the fires, Pitṛs, g
 <details><summary>गोविन्दराजः</summary>
 
 **मुन्यन्नैर्** इति । **मुन्यन्नैर्** अपरैः पवित्रैः शाकमूलफलैर् वा एतान् एव पूर्वोक्तान् **महायज्ञान्** यथाशास्त्रम् अनुतिष्थेत् ॥ ६.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	Let him offer those five great sacrifices according to the rule, with various kinds of pure food fit for ascetics, or with herbs, roots, and fruit.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "042 तां विवर्जयतस्"
 +++
 
+<details><summary>Bühler</summary>
+
+042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of that same man, if he avoids the woman covered with impurity, intelligence, vitality, strength, sight and longevity flourish.—(42)
@@ -38,11 +43,6 @@ See Comparative notes for [Verse 4.40].
 <details><summary>गोविन्दराजः</summary>
 
 **ताम्** इति । **तां** पुनः रजस्वलां न गच्छतः प्रज्ञादीनि वर्धन्ते तस्मात् तां न व्रजेद् इति ॥ ४.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
 </details>
 
 <details><summary>भारुचिः</summary>

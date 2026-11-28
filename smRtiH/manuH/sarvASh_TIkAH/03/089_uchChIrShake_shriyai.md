@@ -3,6 +3,11 @@ title = "089 उच्छीर्षके श्रियै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hake an offering to Śrī on the “head” and to Bhadrakālī on the “feet;” for Brahman and Vāstoṣpati, he should place an offering in the centre of the homestead.—(89)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **उच्छीर्षक** इति । वास्तुपुरुषस्य शिरःप्रदेशे उत्तरपूर्वस्यां दिशि श्रियं तस्यैव पादप्रदेशे दक्षिणपश्चिमायां **भद्रकाल्यै ब्रह्मणे वास्तोष्पतये **चेति गृहमध्ये द्वन्द्वनिर्देशे ऽपि आङ्निर्देशाभावात् देवताद्वयम् ॥ ३.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.
 </details>

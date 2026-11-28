@@ -3,6 +3,11 @@ title = "311 निग्रहेण हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+311	For by punishing the wicked and by favouring the virtuous, kings are constantly sanctified, just as twice-born men by sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For by suppressing the vicious and postering the virtuous, kings become purified, just as twice-born men by the daily sacrifices.—(311)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 8.310].
 <details><summary>भारुचिः</summary>
 
 निर्बीजस्तुत्यर्थासंभवेन च यथाश्रुत उपकारो राज्ञो धर्मलक्षणस् तन्निग्रहात् प्रतीयते, निग्राह्यस्य च स्तेनस्य । तथा च "राजभिर् धृतदण्डा" इति वक्ष्यति । जानपदसंरक्षणाच् च धर्मसंबन्धः सिद्धः । यतः एवम् आत्मापरानुग्रहभूयस्त्वा[त् रक्षा] या न प्रमाद्यः पाप[निग्रहसाधु]संरक्षणार्थो राजेति । अथ त्व् एवासाम्येन प्रजासु वर्तमानं मोहात् कश्चित् क्षिपेत् । ततस् तेन ॥ ८.३१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-311	For by punishing the wicked and by favouring the virtuous, kings are constantly sanctified, just as twice-born men by sacrifices.
 </details>

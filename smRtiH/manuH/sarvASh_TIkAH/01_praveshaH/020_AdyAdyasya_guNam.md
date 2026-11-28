@@ -2,6 +2,11 @@
 title = "020 आद्याद्यस्य गुणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these (Elementary Substances), each succeeding one acquires the quality of what precedes it; and each elemental substance is endowed with as many qualities as the place it occupies (in the order in which the said substances are set forth).—(20)
@@ -71,11 +76,6 @@ succeeding and whatever it is and in whatever form and place, so many qualities 
 <details><summary>गोविन्दराजः</summary>
 
 **आद्याद् यस्येति** । **एषां **पूर्वतरश्लोकप्रस्तुतानां भूतानां मध्यात् **आद्यस्याद्यस्य **आकाशादेः सम्बन्धिनं शब्दादिकं **परः परो **वाय्वादिः गृह्णाति । आकाशादिगुणत्वं शब्दादीनां वक्ष्यते । तथा आकाशादिश् च क्रमशः । एवम् आकाशादिवर्जं अन्येषां द्वैगुण्यप्राप्ताव् आह **यो य** इति । **एषां यो यो यावतिथः** यो यावतां पूरणो द्वितीयादिः **स तावद्गुणः **द्विगुणस् त्रिगुण इत्येवमादिः मन्वादिभिः **स्मृतः **॥ १.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.
 </details>
 
 <details><summary>भारुचिः</summary>

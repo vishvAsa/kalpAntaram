@@ -2,6 +2,11 @@
 title = "199 नोदाहरेद् अस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even behind the Teacher’s back, he should not pronounce his mere name; nor should he mimic his gait, speech or deportment.—(199)
@@ -64,11 +69,6 @@ learned man, father-in-law, husband, and the mother’s sister.’
 <details><summary>गोविन्दराजः</summary>
 
 **नोदाहरेद्** इति । गुरोर् असन्निधाने ऽपि पूजावाक्यपदरहितं नाम नोच्चारयेत् । गुरोर् गमनभाषणभोजनादिचेष्टां नानुकुर्यात् एवम् अस्मद्गुरुर् गच्छतीति ॥ २.१९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
 </details>
 
 <details><summary>भारुचिः</summary>

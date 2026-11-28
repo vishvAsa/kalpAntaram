@@ -3,6 +3,11 @@ title = "116 वत्सस्य ह्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+116	For formerly when Vatsa was accused by his younger brother, the fire, the spy of the world, burned not even a hair (of his) by reason of his veracity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Formerly when Vatsa was accused by his younger brother, fire, the world’s spy, did not burn even a hair of his, because of truth.—(116)
@@ -127,9 +132,4 @@ See Comparative notes for [Verse 8.114].
 <details><summary>भारुचिः</summary>
 
 परकृतिर् इयम् अधिकृतविध्यर्थवादार्था । "वत्सस्य ह्य् अभिशस्तस्य" इति लिङ्गाद् अभिशस्तस्यायं शपथ इति केचित् । एवं च शूद्रशपथो ऽयं न स्यात् । किं तर्हि अस्माल् लिङ्गात् ब्राह्मणस्यैवायं स्यात्; न चैतद् इष्टम्- तेन यथा ब्राह्मणविषयः श्रुतः शूद्रस्यापीति शास्त्रसामर्थ्यात् । एवम् अभिशंसने श्रुति ऽन्यत्रापि । जगतः स्पशो निश्चर इत्य् अर्थः, "इह नो भवान् स्पशश् चरतु" इति श्रुतेः ॥ ८.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	For formerly when Vatsa was accused by his younger brother, the fire, the spy of the world, burned not even a hair (of his) by reason of his veracity.
 </details>

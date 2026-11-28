@@ -3,6 +3,11 @@ title = "066 अयन् द्विजैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	This practice which is reprehended by the learned of the twice-born castes as fit for cattle is said (to have occurred) even among men, while Vena ruled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the time that King Vena was ruling over his kingdom, this reprehensible bestial practice was introduced by ignorant twice-born men among men also.—(66)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 9.60].
 <details><summary>गोविन्दराजः</summary>
 
 **अयम्** इति । यस्माद् अयं पशुसम्बन्धी व्यवहारो ऽत्यन्तकुत्सितो वेनाख्ये राजनि कुर्वाणो ऽन्यत्वेन प्रोक्तस् तस्माद् आआदिमन्वादिभिर् एष श्रुतौ नास्तीति पूर्वोक्तस्यायम् हेतुः ॥ ९.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	This practice which is reprehended by the learned of the twice-born castes as fit for cattle is said (to have occurred) even among men, while Vena ruled.
 </details>

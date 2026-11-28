@@ -3,6 +3,11 @@ title = "240 एकः प्रजायते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone is a creature born, and alone does it cease to be; alone it enjoys its good deeds and also its evil deeds.—(239)
@@ -54,9 +59,4 @@ he dies, alone by himself does he pass through difficulties, and by himself alon
 <details><summary>गोविन्दराजः</summary>
 
 **एक** इति । **एक **एव सन् प्राणी उत्पद्यते न बान्धवैः सहैव । **एक एव **म्रियते । सुकृतदुष्कृतफले च **एक एव भूक्क्ते** । अतो मात्रादीनां जननमरणदुष्कृतपीडांशभोक्तृत्वाभावात् न तदपेक्षया धर्मं जह्यात् ॥ ४.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.
 </details>

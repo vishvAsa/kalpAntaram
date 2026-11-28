@@ -3,6 +3,11 @@ title = "139 ऋणे देये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+139	A debt being admitted as due, (the defendant) shall pay five in the hundred (as a fine), if it be denied (and proved) twice as much; that is the teaching of Manu.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the debt being admitted to be due, the debtor deserves (a fine of) five per cent.; and in the case of denial, twice as much; such is the ordinance of manu.—(139)
@@ -86,9 +91,4 @@ the debt, through ill-will, he should be compelled by the King to pay, after hav
 <details><summary>भारुचिः</summary>
 
 ऋणव्यवहारे स्वयं प्रतिपन्नो विंश[तिभागम्, प्रतिपादि]तः साक्ष्यादिभिर् दशभागम् । असमर्थो दण्डलेशं यत् किंचिद् इति । तच् चोक्तं पुरस्ताद् "दण्डलेशं च शक्तितः" इति । एते त्रयो ऽधर्मर्णस्य दण्डाः । ये तूत्तमर्णं दशभागं दापयन्ति अधमर्णं चान्यं दण्डं स्मृत्यन्तरात् ते दापयन्ति । इदं तु मानवं दर्शनम् ॥ ८.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	A debt being admitted as due, (the defendant) shall pay five in the hundred (as a fine), if it be denied (and proved) twice as much; that is the teaching of Manu.
 </details>

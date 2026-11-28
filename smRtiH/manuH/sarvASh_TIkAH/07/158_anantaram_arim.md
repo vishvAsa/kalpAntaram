@@ -3,6 +3,11 @@ title = "158 अनन्तरम् अरिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+158	Let (the king) consider as hostile his immediate neighbour and the partisan of (such a) foe, as friendly the immediate neighbour of his foe, and as neutral (the king) beyond those two.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall regard, as ‘enemy’, his immediate neighbour, as also the person who helps his enemy; the immediate neighbour of his enemy he shall regard as his ‘friend’; and as ‘neutral’ the king who is beyond those two.—(158)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 7.155].
 <details><summary>भारुचिः</summary>
 
 विजिगीषोर् भूम्य्**अनन्तरम् अरिं विद्यात्** । तथारिमित्रं मित्रमित्रं च । एवम् अपरभूम्यन्तरो विजिगीषोर् **मित्रं** भवति । **उदासीनस् तयोः परः** । अरिमित्रलक्षणं सहजकृत्रिमयोर् अपि द्रष्टव्यम् ॥ ७.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	Let (the king) consider as hostile his immediate neighbour and the partisan of (such a) foe, as friendly the immediate neighbour of his foe, and as neutral (the king) beyond those two.
 </details>

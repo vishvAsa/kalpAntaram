@@ -3,6 +3,11 @@ title = "103 गुरुतल्प्य् अभिभाष्यैनस
 
 +++
 
+<details><summary>Bühler</summary>
+
+104	He who has violated his Guru's bed, shall, after confessing his crime, extend himself on a heated iron bed, or embrace the red-hot image (of a woman); by dying he becomes pure;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who has violated his Preceptor’s bed shall confess his crime and lie down upon a heated iron-bed; or embrace a blazing image. By death he becomes purified.—(103)
@@ -89,9 +94,4 @@ down on a heated iron-bed along with the iron-image of a woman; or cutting out h
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुतल्पीति** । गुरुभार्यागमनपापम् अभिभाष्य जवलदायसे शयनं शयीत । “स्त्रीप्रकृतिं वा कार्ष्णायसीं कृताम्” इति संवर्तस्मरणाद् अयोमयीं ज्वलन्तीम् आलिङ्गेद् एवं मरणेनासौ शुध्यति ॥ ११.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	He who has violated his Guru's bed, shall, after confessing his crime, extend himself on a heated iron bed, or embrace the red-hot image (of a woman); by dying he becomes pure;
 </details>

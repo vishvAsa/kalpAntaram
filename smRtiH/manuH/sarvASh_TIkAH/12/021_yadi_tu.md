@@ -3,6 +3,11 @@ title = "021 यदि तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	But if it chiefly cleaves to vice and to virtue in a small degree, it suffers, deserted by the elements, the torments inflicted by Yama.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If on the other hand he practises vice for the most part, and virtue only in a small degree,—then, becoming deserted by those substances, he suffers the torments inflicted by Yama.—(21)
@@ -48,9 +53,4 @@ Our answer is that the man has no *material body*,—and yet there can be no ‘
 <details><summary>भारुचिः</summary>
 
 अधर्मभूयस्त्वात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-021	But if it chiefly cleaves to vice and to virtue in a small degree, it suffers, deserted by the elements, the torments inflicted by Yama.
 </details>

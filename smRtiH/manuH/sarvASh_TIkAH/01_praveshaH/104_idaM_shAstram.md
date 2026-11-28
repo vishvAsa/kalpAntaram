@@ -2,6 +2,11 @@
 title = "104 इदं शास्त्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa studying these institutes, and (thence) discharging all prescribed duties, is never defiled by sins of commission (or omission), proceeding from mind, speech or body.—(104)
@@ -36,11 +41,6 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads 
 <details><summary>गोविन्दराजः</summary>
 
 **इदम्** इति । **इदं शास्त्रं **पठन् **ब्राह्मणः **एतदर्थावबोधेन **शंसितव्रतः **अविकलयमनियमः सन् **मनोवाक्कायजैर्** विहिताकरणप्रतिषेधसेवनजनितैः पापैः न सम्बध्यते ॥ १.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
 </details>
 
 <details><summary>भारुचिः</summary>

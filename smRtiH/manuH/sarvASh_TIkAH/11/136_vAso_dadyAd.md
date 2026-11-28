@@ -3,6 +3,11 @@ title = "136 वासो दद्याद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+137	For killing a horse, he shall give a garment, for (killing) an elephant, five black bulls, for (killing) a goat, or a sheep, a draught-ox, for killing a donkey, (a calf) one year old;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On killing a horse, one should give a garment; and five black bulls on killing an elephant; on killing a goat and a sheep, an ox; and on killing a hare, a one-year-old calf.—(136)
@@ -61,9 +66,4 @@ killed an ass, he must give a calf one year old; the same if he has killed a ram
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातश्लोकः । अजाविकवधश् च संकीर्णकर उक्तः । एवं च तदीयं प्रायश्चित्तम् **अजमेषाव् अनड्वाहम्** इत्य् अनेनोपदेशसामर्थ्याद् विकल्पेत । एवम् अन्यत्रापि योज्यम् ॥ ११.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	For killing a horse, he shall give a garment, for (killing) an elephant, five black bulls, for (killing) a goat, or a sheep, a draught-ox, for killing a donkey, (a calf) one year old;
 </details>

@@ -3,6 +3,11 @@ title = "059 हिंस्रा भवन्ति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	Men who delight in doing hurt (become) carnivorous (animals); those who eat forbidden food, worms; thieves, creatures consuming their own kind; those who have intercourse with women of the lowest castes, Pretas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sanguinary persons become carnivorous animals; the eaters of impure food become worms; thieves become creatures consuming their own kind; and those having intercourse with women of the lowest caste become Pretas.—(59)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **हिंस्रा** इति । ये प्राणिवधशीलास् ते आममांसभक्षा गृध्रादयो भवन्ति । अभक्ष्यभक्षिणो ये ते कृमयो जायन्ते । ये महापातकव्यतिरिक्ताः चौरास् ते परस्परभक्ष्या मत्स्यादय उत्पद्यन्ते । ये चण्डालादिस्त्रीगामिनस् ते प्रेताख्याः प्राणिविशेषा भवन्ति ॥ १२.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	Men who delight in doing hurt (become) carnivorous (animals); those who eat forbidden food, worms; thieves, creatures consuming their own kind; those who have intercourse with women of the lowest castes, Pretas.
 </details>

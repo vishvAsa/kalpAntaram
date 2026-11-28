@@ -3,6 +3,11 @@ title = "024 ज्ञानेनैवाऽपरे विप्रा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	Other Brahmanas, seeing with the eye of knowledge that the performance of those rites has knowledge for its root, always perform them through knowledge alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Other Brāhmaṇas, looking, with the eye of knowledge, upon this act as having its root in knowledge, always sacrifice with these sacrifices, by means of knowledge.—(24)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 4.23].
 <details><summary>गोविन्दराजः</summary>
 
 **ज्ञानेनेति** । **अपरे **पुनर् **विप्राः एषां** यज्ञानां विद्वान् यजते विद्वान् याजयतीत्य् एवं अवबोधंउलम् अनुष्ठानं **ज्ञानचक्षुषा ** शास्त्रेण **पश्यन्तः** विज्ञानबलाद् एतान् यज्ञान् एतद्विषयसम्यगवबोधेनैव यावज्जीवं सम्पादयन्ति । तथा च “यो ह्य् एवं द्विजान् एतत् कर्म कुरुते यो वै तद् एवं वेद” इति ब्राह्मणम् ॥ ४.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Other Brahmanas, seeing with the eye of knowledge that the performance of those rites has knowledge for its root, always perform them through knowledge alone.
 </details>

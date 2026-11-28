@@ -3,6 +3,11 @@ title = "164 द्रव्याणाम् अल्प-साराणा�
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	He who has stolen objects of small value from the house of another man, shall, after restoring the (stolen article), perform a Samtapana Krikkhra for his purification.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one steals things of small value in the house of another, he should restore them; and for his own purification, he should perform the ‘Sāntapana Kṛcchra.’—(164)
@@ -50,9 +55,4 @@ penance should he performed.’
 <details><summary>भारुचिः</summary>
 
 अल्पसाराणाम् अल्पमूल्यानाम् अल्पोपभोगानां वा । भक्ष्यभोज्यादिष्व् अन्यस्य द्रव्यजातस्य गृहीतत्वात् त्रपुसीसादीनाम् इदं ग्रहणं विज्ञेयम् ॥ ११.१६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	He who has stolen objects of small value from the house of another man, shall, after restoring the (stolen article), perform a Samtapana Krikkhra for his purification.
 </details>

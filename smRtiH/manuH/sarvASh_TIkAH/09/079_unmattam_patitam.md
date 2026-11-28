@@ -3,6 +3,11 @@ title = "079 उन्मत्तम् पतितम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	But she who shows aversion towards a mad or outcast (husband), a eunuch, one destitute of manly strength, or one afflicted with such diseases as punish crimes, shall neither be cast off nor be deprived of her property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, however, she shows aversion to one who is mad, or an outcast, or impotent, or seedless, or afflicted with foul disease, there shall be no desertion, nor the wresting of her property.—(79)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 9.77].
 <details><summary>भारुचिः</summary>
 
 अत्र निमित्ते ऽत्याग एव तस्याः ॥ ९.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	But she who shows aversion towards a mad or outcast (husband), a eunuch, one destitute of manly strength, or one afflicted with such diseases as punish crimes, shall neither be cast off nor be deprived of her property.
 </details>

@@ -3,6 +3,11 @@ title = "137 पुत्रेण लोकाञ्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+137	Through a son he conquers the worlds, through a son's son he obtains immortality, but through his son's grandson he gains the world of the sun.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Through the son one conquers the worlds, through the grandson he obtains immortality, and through the son’s grandson he attains the regions of the Sun.—(137)
@@ -60,9 +65,4 @@ Sacrifices with hundreds of sacrificial fees,—these are not equal even to the 
 <details><summary>भारुचिः</summary>
 
 दौहित्रप्रशंसार्थः श्लोकः । कथम् । पौत्र एवायं दौहित्र इति कृत्वा स्तूयते मृतस्योपकारविशेषसंबन्धेन । कथम् । पुत्रिणो हि प्रमीताः पितृगणापन्नाः पितृवत् पूजार्हाः पुत्रपौत्रप्रपौत्रैर् विधिसामर्थ्याद् उपहृतस्य कव्यस्य प्रतिग्रहमात्रभोगाद् आ चतुर्थात् पुरुषात् संसारम् आपन्नाः तत्रासत इति । शास्त्रसामर्थ्याद् एतद् गम्यते । एवं हि पुत्रादिभिर् लोकादीञ् जयतीत्य् अयं संस्तव उपपद्यते । तथा च नामधेयनिर्वचनम् अत्र दर्शयति ॥ ९.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Through a son he conquers the worlds, through a son's son he obtains immortality, but through his son's grandson he gains the world of the sun.
 </details>

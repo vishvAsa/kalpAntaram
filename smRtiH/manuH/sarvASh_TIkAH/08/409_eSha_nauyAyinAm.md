@@ -3,6 +3,11 @@ title = "409 एष नौयायिनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+409	This decision in suits (brought) by passengers (holds good only) in case the boatmen are culpably negligent on the water; in the case of (an accident) caused by (the will of) the gods, no fine can be (inflicted on them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This law has been laid down in connection with suits by boat-passengers relating to the negligence of boatmen in water; there is no punishment in the case of accidents due to heaven.—(409)
@@ -50,9 +55,4 @@ This verse is quoted in *Vivādaratnākara* (p. 641).
 <details><summary>भारुचिः</summary>
 
 न किंचिद् वक्तव्यं स्फुटत्वाच् छ्लोकस्य ॥ ८.४०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-409	This decision in suits (brought) by passengers (holds good only) in case the boatmen are culpably negligent on the water; in the case of (an accident) caused by (the will of) the gods, no fine can be (inflicted on them).
 </details>

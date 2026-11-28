@@ -3,6 +3,11 @@ title = "022 तस्य भृत्यजनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	Having ascertained the number of those dependent on such a man, and having fully considered his learning and his conduct, the king shall allow him, out of his own property, a maintenance whereon he may live according to the law;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having ascertained the number of persons he has to maintain, and having investigated his learning and character, the king shall provide, out of his own property, a proper living for him.—(22)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 11.19].
 <details><summary>भारुचिः</summary>
 
 क्षुदवसन्नात्मकभृत्यस्याइतद् उच्यते विशेषेण ॥ ११.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	Having ascertained the number of those dependent on such a man, and having fully considered his learning and his conduct, the king shall allow him, out of his own property, a maintenance whereon he may live according to the law;
 </details>

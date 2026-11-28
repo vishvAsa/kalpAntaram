@@ -3,6 +3,11 @@ title = "204 यत् किम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+204	Whatever property the eldest (son) acquires (by his own exertion) after the father's death, a share of that (shall belong) to his younger (brothers), provided they have made a due progress in learning.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever property the eldest brother acquires after the death of the father, a share of that shall belong to the younger brothers, if they are devoted to learning.—(204)
@@ -102,9 +107,4 @@ acquire property through learning, valour, or other independent effort of his ow
 <details><summary>भारुचिः</summary>
 
 ज्येष्ठलब्धस्य वैद्याः सन्तो भागिनो यवीयांसः, न तु कनिष्ठलब्धस्य ज्यायान् इत्य् एतद् अर्थाल् [लभ्यते] ॥ ९.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	Whatever property the eldest (son) acquires (by his own exertion) after the father's death, a share of that (shall belong) to his younger (brothers), provided they have made a due progress in learning.
 </details>

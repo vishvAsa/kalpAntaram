@@ -2,6 +2,11 @@
 title = "078 बाले देशान्तरस्थे"
 +++
 
+<details><summary>Bühler</summary>
+
+078	If an infant (that has not teethed), or a (grownup relative who is) not a Sapinda, die in a distant country, one becomes at once pure after bathing in one's clothes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of a child, resident in a foreign country, who is a non-sapiṇḍa relation, dying,—one becomes pure immediately, by plunging into water wth his clothes on.—(77).
@@ -53,11 +58,6 @@ those who have renounced domestic life, and those who are not
 <details><summary>गोविन्दराजः</summary>
 
 **बाल** इति । **आदेशान्तरस्थे **ऽपि दन्तजात्यूने **बाले देशान्तरस्थे **वा बाले ऽपि **असपिण्डसमानोदके । देशान्तरस्थेति **। मृते सचैलं स्नात्वा **सद एव विशुध्यति **। देशान्तरस्थसपिण्डजननमरणयोस् तच्छेषशुद्धिर् उक्ता । समानोदकानां च त्र्यहाच् छुद्धिर् उक्ता तद्वैकल्पिकम् अनेन सद्यःशौचम् उच्यते ॥ ५.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	If an infant (that has not teethed), or a (grownup relative who is) not a Sapinda, die in a distant country, one becomes at once pure after bathing in one's clothes.
 </details>
 
 <details><summary>भारुचिः</summary>

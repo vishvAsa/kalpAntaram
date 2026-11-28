@@ -3,6 +3,11 @@ title = "381 न ब्राह्मणवधाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+381	No greater crime is known on earth than slaying a Brahmana; a king, therefore, must not even conceive in his mind the thought of killing a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no greater crime on earth than the slaying of a Brāhmaṇa; the king shall, therefore, not even think of his death in his mind.—(381)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.379].
 <details><summary>भारुचिः</summary>
 
 प्रतिषिद्धस्य निन्दार्थवादो निवृत्त्यर्थः ॥ ८.३८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-381	No greater crime is known on earth than slaying a Brahmana; a king, therefore, must not even conceive in his mind the thought of killing a Brahmana.
 </details>

@@ -3,6 +3,11 @@ title = "212 धर्मार्थं येन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+212	Should money be given (or promised) for a pious purpose by one man to another who asks for it, the gift shall be void, if the (money is) afterwards not (used) in the manner (stated).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man gives money, for a pious purpose, to another who asks for it,—if, subsequently, it is not used for that purpose, then, it shall not be given to him.—(212)
@@ -90,9 +95,4 @@ gift, he shall not give it if the recipient is found to be unrighteous.’
 <details><summary>भारुचिः</summary>
 
 स्वनिगदोपवर्णितः श्लोकः ॥ ८.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	Should money be given (or promised) for a pious purpose by one man to another who asks for it, the gift shall be void, if the (money is) afterwards not (used) in the manner (stated).
 </details>

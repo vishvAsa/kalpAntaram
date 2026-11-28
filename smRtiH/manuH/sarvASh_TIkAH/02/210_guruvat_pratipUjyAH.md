@@ -2,6 +2,11 @@
 title = "210 गुरुवत् प्रतिपूज्याः"
 +++
 
+<details><summary>Bühler</summary>
+
+210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s ladies belonging to the same caste should be honoured like the teacher himself; those not belonging to the same caste should be honoured with rising and salutations.—(210)
@@ -49,11 +54,6 @@ avoid hair-dressing, dressing, bathing and eating of the leavings.’
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुवद्** इति । गुरोः सजातीया भार्याः **गुरुवत् पूजनीयाः ।** विजातीयाः पुनः **प्रत्युत्थानाभिवादन**मात्रेण ॥ २.२१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
 </details>
 
 <details><summary>भारुचिः</summary>

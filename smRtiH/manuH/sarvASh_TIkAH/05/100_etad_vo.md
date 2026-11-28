@@ -2,6 +2,11 @@
 title = "100 एतद् वो"
 +++
 
+<details><summary>Bühler</summary>
+
+100	Thus the purification (required) on (the death of) Sapindas has been explained to you, O best of twice-born men; hear now the manner in which men are purified on the death of any (relative who is) not a Sapinda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 O Best or Brāhmaṇas, thus has been described to you the purification necesssary in the case of ‘Sapiṇḍa-relations.’—(99).
@@ -25,11 +30,6 @@ The two halves of this verse are meant to serve respectively the purpose of reca
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्** इति । हे ब्राह्मणाः । सपिण्डेषु प्रेतेषु यच् छैचं युष्माकम् उक्तं अधुना त्व् असपिण्डेषु सर्वेषु मृतेषु प्रेतशुद्धिं शृणुतेति भृगुर् महर्षीन् आह ॥ ५.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	Thus the purification (required) on (the death of) Sapindas has been explained to you, O best of twice-born men; hear now the manner in which men are purified on the death of any (relative who is) not a Sapinda.
 </details>
 
 <details><summary>भारुचिः</summary>

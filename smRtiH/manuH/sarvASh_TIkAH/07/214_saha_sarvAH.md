@@ -3,6 +3,11 @@ title = "214 सह सर्वाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+214	A wise (king), seeing that all kinds of misfortunes violently assail him at the same time, should try all (the four) expedients, be it together or separately, (in order to save himself.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Seeing all kinds of troubles frequently cropping up simutaneously, the wise person shall employ all the expedients, collectively as well as severally.—(214)
@@ -47,9 +52,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which explains �
 <details><summary>भारुचिः</summary>
 
 [**सर्वाः समुत्पन्नाह्** समीक्ष्य्]**आपदो भृशम्**, संयुक्तांश् च समस्तान् त्रीन् वा द्वौ वा वियुक्तांश् च प्रत्येकं **सर्वोपायान्** समादीन् **सृजेद्** विसृजेद् **बुधः** । न सहसा विषण्ण आसीतेत्य् अर्थः । स्वप्रकृतिभया[न्य् उप]क्षेपतस् तद् उपसंहरति ॥ ७.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	A wise (king), seeing that all kinds of misfortunes violently assail him at the same time, should try all (the four) expedients, be it together or separately, (in order to save himself.)
 </details>

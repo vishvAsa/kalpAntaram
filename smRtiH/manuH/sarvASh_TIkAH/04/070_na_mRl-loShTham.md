@@ -3,6 +3,11 @@ title = "070 न मृल्-लोष्ठम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Let him not crush earth or clods, nor tear off grass with his nails; let him not do anything that is useless or will have disagreeable results in the future.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not crush clods of earth; nor shall he cut grass with hi s nails. He shall not do an aimless act, nor one that is likely to lead to disagreeable results.—(70)
@@ -76,9 +81,4 @@ chops grass or eats his nails, is ever unclean and never attains long life.’
 <details><summary>गोविन्दराजः</summary>
 
 **न मृल्लोष्टम्** इति । “नाकारणं मृल्लोष्टं गृह्णीयात् तृणानि वा छिन्द्यात्” इत्य् आपस्तम्बस्मरणात् । निर्निमित्तं **मृल्लोष्टं न** गृह्णीयात् नखैस् **तृणं न छिन्द्यात्** । यतः स्वकर्मणो दृष्टम् अदृष्टं फलं नोत्पद्यते यच् चागामिनि असुखावहं तन्** न कुर्यात् **॥ ४.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Let him not crush earth or clods, nor tear off grass with his nails; let him not do anything that is useless or will have disagreeable results in the future.
 </details>

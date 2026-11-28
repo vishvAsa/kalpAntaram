@@ -3,6 +3,11 @@ title = "194 प्रहर्षयेद् बलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+194	After arranging his troops, he should encourage them (by an address) and carefully inspect them; he should also mark the behaviour (of the soldiers) when they engage the enemy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having arrayed his forces, he shall encourage them and thoroughly test them; even while they are engaging the enemy, he shall mark their behaviour.—(194).
@@ -53,9 +58,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—in
 <details><summary>भारुचिः</summary>
 
 जये धर्मार्थो ऽवरजये विसर्जन इत्य् एवमादिना यथाभूतशास्त्रार्थप्रदर्शनेन **प्रहर्षयेत्** । युद्ध्यतां **चेष्टाः** प्रत्यक्षीकुर्यात् । चलचित्ता हि पुरुषा उपकुर्वाणस्याप्य् अपकुर्वन्ति ॥ ७.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	After arranging his troops, he should encourage them (by an address) and carefully inspect them; he should also mark the behaviour (of the soldiers) when they engage the enemy.
 </details>

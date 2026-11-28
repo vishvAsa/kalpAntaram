@@ -2,6 +2,11 @@
 title = "127 द्वाव् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+127	Let a twice-born man always carefully interrupt the Veda-study on two (occasions, viz.) when the place where he recites is impure, and when he himself is unpurified.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man shall always carefully avoid only two conditions as unfit for study: viz. an unclean place of study and his own unclean condition.—(127)
@@ -56,11 +61,6 @@ note;—and in *Gadādharapaddhati* (Kāla, p. 196).
 <details><summary>गोविन्दराजः</summary>
 
 विद्यानैपुणकामं प्रति पूर्वोक्तानध्यायविकल्पार्थम् आह **द्वाव्** इति । अध्ययनभूमिम् **अशुद्धां आत्मानं चाशुचिम्** अपेक्ष्य **द्वौ वानध्यायौ । **ताव् एव प्रयत्नेन **नित्यं द्विजो वर्जयेत् । **ताभ्यां (मन्त्रो ऽपि) अन्यत्रापि यत्र नित्यग्रहणम् अर्थवादादि वा नित्यत्वे लिङ्गम् अस्ति तथापि नित्यम् एव वर्जयेत् । अन्यत्र तु विकल्पः ॥ ४.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Let a twice-born man always carefully interrupt the Veda-study on two (occasions, viz.) when the place where he recites is impure, and when he himself is unpurified.
 </details>
 
 <details><summary>भारुचिः</summary>

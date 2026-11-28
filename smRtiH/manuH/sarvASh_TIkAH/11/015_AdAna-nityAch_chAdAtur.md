@@ -3,6 +3,11 @@ title = "015 आदान-नित्याच् चादातुर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	(Or) he may take (it by force or fraud) from one who always takes and never gives, and who refuses to give it; thus the fame (of the taker) will spread and his merit increase.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall take it also from one who always acquires, and never gives, if he refuses to give up the thing; thus does his fame spread and merit increase.—(15)
@@ -52,9 +57,4 @@ misers; thus alone can the duty of the King be duly performed.’
 <details><summary>भारुचिः</summary>
 
 अयं **चादाननित्यो** ब्राह्मण उच्यते । आदाय यो न कल्पयति धनम् इष्टपूर्ताङ्गतया । तस्माद् **अप्रयच्छत** इदम् आदानम् उच्यते । न त्व् आदाननित्यस्यापि सतो यज्ञशीलस्य । एवं च सति पूर्वश्लोकः क्षत्रियविषय एव द्रष्टव्यः । अपरे त्व् आदाननित्यं वार्धिषुकं मन्यन्ते । शास्त्रप्रतिषिद्धवृद्धिगृहीतारम् (?) अया[ग]शीलम् । एतस्यां च कल्पनायां जातिर् अविवक्षिता । तथा च मन्त्रः "इं ते कृण्वन्ति कीकटेषु गावः" इत्येवमादिः ॥ ११.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	(Or) he may take (it by force or fraud) from one who always takes and never gives, and who refuses to give it; thus the fame (of the taker) will spread and his merit increase.
 </details>

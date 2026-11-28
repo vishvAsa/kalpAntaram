@@ -2,6 +2,11 @@
 title = "252 गुरुषु त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, however, the Teachers are dead, or when one lives in his house without them,—then, seeking for his own subsistence, he may always accept gifts from good persons.—(252)
@@ -34,11 +39,6 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुष्व्** इति । मात्रादिष्व् **अतीतेषु तैर् वा विना गृहे वसन् **आत्मजीवम् अन्विच्छन् अनापदि सर्वदा साधुभ्य एव प्रतिगृह्णीयात् ॥ ४.२५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
 </details>
 
 <details><summary>भारुचिः</summary>

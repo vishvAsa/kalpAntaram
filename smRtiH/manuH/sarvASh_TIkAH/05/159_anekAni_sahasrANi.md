@@ -3,6 +3,11 @@ title = "159 अनेकानि सहस्राणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+159	Many thousands of Brahmanas who were chaste from their youth, have gone to heaven without continuing their race.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Many thousands of unmarried Brāhmaṇa students have gone to heaven, without having perpetuated their race—(157).
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 5.154].
 <details><summary>गोविन्दराजः</summary>
 
 **अनेकानीति** । बाल्यत एव ब्रह्मचारिणाम् अकृतदाराणां वालखिल्यानां ब्राह्मणानां पुराणोपवर्णितानां बहुसहस्राण्य् अष्टाशीतिकुलवृद्ध्यर्थम् अपत्यान्य् अनुत्पाद्यैव स्वर्गं गतानि ॥ ५.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	Many thousands of Brahmanas who were chaste from their youth, have gone to heaven without continuing their race.
 </details>

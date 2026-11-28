@@ -3,6 +3,11 @@ title = "118 स्वेभ्यो ऽंशेभ्यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	But to the maiden (sisters) the brothers shall severally give (portions) out of their shares, each out of his share one-fourth part; those who refuse to give (it), will become outcasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the maidens of the same caste, the brothers shall each severally give the fourth part of his share; those not inclined to give would be outcasts—(118)
@@ -241,9 +246,4 @@ has not been performed, they must be initiated by the other brothers; the expens
 <details><summary>भारुचिः</summary>
 
 अनूढानां भगिनीनां नियमेन दानम् इदम् उच्यते, सान्तानिकादिदानवत् । "पतिताः स्युर् अदित्सवः" इति वचनात् । एतच् च स्वांशतो न समुदायतः । उद्वाहमात्रप्रयोजनं देयं स्वधर्मानुपरोधेन, न चतुर्भागो यथाश्रुतः । एवं हि बहुभ्रातृकाणाम् अल्पत्वाच् च कन्यानां धनं बहुतरम् आपद्येत, द्व्येकयोश् च भ्रात्रोर् बह्वीनां भगिनीनां दाने निर्धनत्वं प्रसज्येत । न चैतद् इष्टम्, "धर्म्या पृथक्रिया" इति वचनात् । अथ वा "प्रदद्युर् भ्रातरः पृथक्" इत्य् अत्र श्लोकपदे **पृथग्**वचनात् भिन्नमातृका एवैते सोदर्याभ्यो भगिनीभ्यः पूर्ववद् दद्युर् इति ॥ ९.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	But to the maiden (sisters) the brothers shall severally give (portions) out of their shares, each out of his share one-fourth part; those who refuse to give (it), will become outcasts.
 </details>

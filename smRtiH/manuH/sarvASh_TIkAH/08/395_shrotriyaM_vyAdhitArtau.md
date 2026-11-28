@@ -3,6 +3,11 @@ title = "395 श्रोत्रियं व्याधितार्तौ
 
 +++
 
+<details><summary>Bühler</summary>
+
+395	Let the king always treat kindly a Srotriya, a sick or distressed man, an infant and an aged or indigent man, a man of high birth, and an honourable man (Arya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king should always respect the Vedic scholar, the sick and the distressed, the infant and the aged, the indigent, the man of high family and the gentleman.—(395)
@@ -56,9 +61,4 @@ to the Brāhmaṇas; a field furnished with Brāhmaṇas is the source of prospe
 <details><summary>भारुचिः</summary>
 
 **श्रोत्रियः** शास्त्रप्रसिद्ध्या ब्राह्मणो गृह्यते । व्याधितार्तबालवृद्धाकिंचना अश्रोत्रिया अपि सन्तः । **महाउलीनम्**, [सगुणकुलजातम्], **आर्यं च राजा संपूजयेत् सदा** । प्रकरणात् कराग्रहेण ग्रासाच्छादनेन वा स्थित्यर्थेन । कराग्रहणादिकेन तपस्विश्रोत्रियप्रसङ्गाच् चायं व्यवहारमध्ये कारुधर्म उच्यते ॥ ८.३९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-395	Let the king always treat kindly a Srotriya, a sick or distressed man, an infant and an aged or indigent man, a man of high birth, and an honourable man (Arya).
 </details>

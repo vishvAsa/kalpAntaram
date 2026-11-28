@@ -3,6 +3,11 @@ title = "135 हत्वा हंसम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+136	If he has killed a Hamsa, a Balaka, a heron, a peacock, a monkey, a falcon, or a Bhasa, he shall give a cow to a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On having killed a swan, a balākā, a crane, a peacock, a monkey, a falcon, or a vulture,—one should give a cow to a Brāhmaṇa.—(135)
@@ -52,9 +57,4 @@ a cormorant, or an ape, or a falcon, or the vulture called *Bhāsa*, or a Brāhm
 <details><summary>भारुचिः</summary>
 
 समस्तवध एतत् प्रायश्चित्तं विभागानुपदेशात्, गोश् च महत्त्वात्, यथा "मार्जारनकुलौ हत्वा" इत्य् एवमादि । यत्र समस्तानाम् अप्य् उपदेशे प्रत्येकम् इच्छति तत्र पृथग् ग्रहणं करोति । तथा चोपरिष्टात् प्रदर्शयिष्यामः ॥ ११.१३३–१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-136	If he has killed a Hamsa, a Balaka, a heron, a peacock, a monkey, a falcon, or a Bhasa, he shall give a cow to a Brahmana.
 </details>

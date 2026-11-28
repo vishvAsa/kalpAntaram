@@ -3,6 +3,11 @@ title = "296 मनुष्यमारणे क्षिप्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+296	If a man is killed, his guilt will be at once the same as (that of) a thief; for large animals such as cows, elephants, camels or horses, half of that.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the case of a man being killed, on the spot, the guilt would be similar to that of the thief; and half of that in the case of the larger animals, such as cows, elephants, camels, horses and the like.—(296)
@@ -99,9 +104,4 @@ See Comparative notes for [Verse 8.295].
 <details><summary>भारुचिः</summary>
 
 सत्य् अप्य् अविशेषाभिदाने **चोरवत्** किल्बिषे न वधः, किं तर्हि उत्तमसाहसो धनदण्डः । तथा च **प्राणभृत्सु महत्सु** प्रभावतः गवादिषु परिमाणतश् च हस्त्यादिष्व् अर्धदण्डम् आह, चोरवत्किल्बिषदण्डात् । स चार्धदण्डो धनदण्ड एवोत्तमसाहसे युज्यते पूर्वाभिहिते, न वधे । तथा च क्षुद्रकाणां पशूनां तु **हिंसायां** तृतीयस्थाने **द्विशतो दम** उच्यमान उत्तरश्लोके, प्रथमे स्थाने उत्तमसाहस (?) धनदण्डं दर्शयत्य् अत्र । एवं च सति **चोरवत् किल्बिष** उत्तमसाहस एव धनदण्डः, न वधो युज्यते । यदि चैतद् एवं भवति ततो "राजा स्तेनेन गन्तव्यः" इत्य् अत्र राजाभिगमने स्तेनस्योभयं युक्तम् इदम् "शासनाद् वा विमोक्षाद् वा" इति । स च मोक्षो धनदण्डेनैव युक्तः । तथा च कृत्वोत्तरो दण्डविधिर् अर्थवान् भवति । **आदि**ग्रहणं च हयादिष्व् इत्य् एतत् महिषादिविषयं विज्ञेयम् ॥ ८.२९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-296	If a man is killed, his guilt will be at once the same as (that of) a thief; for large animals such as cows, elephants, camels or horses, half of that.
 </details>

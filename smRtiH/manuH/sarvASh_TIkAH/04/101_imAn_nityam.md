@@ -2,6 +2,11 @@
 title = "101 इमान् नित्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who is studying the Veda should always avoid these days, as unfit for study; so also the person who is doing the teaching of pupils according to rule.—(101)
@@ -39,11 +44,6 @@ knowledge in the fertile soil of the true pupil, except on the days unfit for st
 <details><summary>गोविन्दराजः</summary>
 
 **इमान्** इति । पूर्वोक्तेन विधानेन्**आधीयानः **शिष्यांश् चाध्यापयन् वक्ष्यमाणान् अनध्यायान् सर्वदा वर्जयेत् ॥ ४.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
 </details>
 
 <details><summary>भारुचिः</summary>

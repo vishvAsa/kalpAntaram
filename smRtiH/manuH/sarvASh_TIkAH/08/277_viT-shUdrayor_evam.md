@@ -3,6 +3,11 @@ title = "277 विट्-शूद्रयोर् एवम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+277	A Vaisya and a Sudra must be punished exactly in the same manner according to their respective castes, but the tongue (of the Sudra) shall not be cut out; that is the decision.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Vaiśya and the Śūdra also, the inflicting of punishment shall be of the same kind, according to their respective castes,—barring mutilation; such is the decision.—(277)
@@ -67,9 +72,4 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 150a).
 <details><summary>भारुचिः</summary>
 
 अयम् अपर उपदेशसामर्थ्याद् विकल्पार्थो विधिर् उच्यते । यदा ब्राह्मणः क्षत्रियम् आक्रोशति तदा तस्य पूर्वसाहसः । यदा च क्षत्रियो ब्राह्मणं तदा तत्र मध्यमः साहसः । एवं क्षत्रियवैश्ययोस् तथा वैश्यशूद्रयोः । एवं च सति शूद्रस्य जिह्वाछेदनवर्जं दण्डनिपातनम् उक्तं भवति ॥ ८.२७५–७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-277	A Vaisya and a Sudra must be punished exactly in the same manner according to their respective castes, but the tongue (of the Sudra) shall not be cut out; that is the decision.
 </details>

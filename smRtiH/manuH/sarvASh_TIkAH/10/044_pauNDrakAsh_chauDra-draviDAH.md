@@ -3,6 +3,11 @@ title = "044 पौण्ड्रकाश् चौड्र-द्रवि�
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	(Viz.) the Paundrakas, the Kodas, the Dravidas, the Kambogas, the Yavanas, the Sakas, the Paradas, the Pahlavas, the Kinas, the Kiratas, and the Daradas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Puṇḍrakas, the Coḍas, the Draviḍas, the Kāmbojas, the Yavanas, the Śākas, the Pāradas, the Pahlavas, the Cīnas, the Kirātas, the Daradas and the Khaśas.—(44)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 10.43].
 <details><summary>भारुचिः</summary>
 
 पुण्ड्रकादयो दरदान्राः क्षत्रियाः सन्तः क्रियालोपाच् छूद्रीभूताः ॥ १०.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	(Viz.) the Paundrakas, the Kodas, the Dravidas, the Kambogas, the Yavanas, the Sakas, the Paradas, the Pahlavas, the Kinas, the Kiratas, and the Daradas.
 </details>

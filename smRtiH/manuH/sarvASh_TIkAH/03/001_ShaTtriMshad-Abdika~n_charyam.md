@@ -2,6 +2,11 @@
 title = "001 षट्त्रिंशद्-आब्दिकञ् चर्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+001	The vow (of studying) the three Vedas under a teacher must be kept for thirty-six years, or for half that time, or for a quarter, or until the (student) has perfectly learnt them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Duties relating to the Three Vedas should be observed under the Preceptor for thirty-six years, or for half that period, or for a quarter, or precisely till they have been got up.—(1)
@@ -312,11 +317,6 @@ according to some, for 12 years.’
 **षट्त्रिंशदाब्दिकम्** उपकुर्वाणकब्रह्मचारिणो गार्हस्थ्याधिकारात् कियदवधिनि ब्रह्मचर्ये कृते गार्हस्थ्यम् आश्रयणीयम् इत्य् अत आह **षट्त्रिंशदाब्दिकम्** इति षट्त्रिंशद्वर्षसम्भवं गुरुगृहे ऋग्यजुःसामाख्यवेदत्रविषयं प्रतिशाखं द्वादशवर्षाणि **व्रतं **नियमसमूहः चर्तितार्थं **तदर्धिकं** चाष्टादश प्रतिशाखं षड् इति, **पादिकं** वा नव प्रतिशाखं त्रीणीति यावता वा कलिनोक्तवधेर् ऊर्ध्वम् अधो वा वेदान् गृह्णीयात् तावत्कालं चरितव्यम् । नियमफलापेक्षो विकल्पः “नियमेनाधीतं वीर्यवत्तरं भवति” इति श्रुतेः ।
 
 > अत्र चाथर्ववेदस्य “नेता एते अथर्वाङ्गिरसी” इत्यादिश्रुतेः, “श्रुतीर् अथर्वाङ्गिरसीः” इत्यादिस्मृतेश् च दृष्टव्यवहारे च इतरवेदवत् निरुपपदवेदशब्दप्रोयोगात् “अङ्गानि वेदाश् चत्वार” इति धर्मः (धर्मस्थानत्वस्य) तेष्व् अपि चतुर्षु व्यवहारात् सत्य् अपि वेदत्वे शान्त्यादिप्रयोजनत्वेन प्रायेण दृष्टार्थत्वात् “ऋग्वेदेनैव हौत्रम् अकुर्वत यजुर्वेदेनाध्वर्यवं सामवेदेनोद्गीथं यद् एव त्रय्यै विद्यायै संश्लेषं तेन ब्र्ह्मत्वम्” इति श्रुतेः त्रय्यैव क्रियापरिसमाप्तेः ग्रहणम् । “वेदः कृत्स्नो ऽधिगन्तव्यः” इति एकशाखाध्ययनेनैव स्वाध्यायनिवृत्तौ पुण्यातिशयापेक्षया ॥ ३.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	The vow (of studying) the three Vedas under a teacher must be kept for thirty-six years, or for half that time, or for a quarter, or until the (student) has perfectly learnt them.
 </details>
 
 <details><summary>भारुचिः</summary>

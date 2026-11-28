@@ -3,6 +3,11 @@ title = "129 वाग्दण्डम् प्रथमम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+129	Let him punish first by (gentle) admonition, afterwards by (harsh) reproof, thirdly by a fine, after that by corporal chastisement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First of all, he shall inflict punishment in the form of reprimand, then in the form of reproach, thirdly in the form of fine, and after that the death-penalty.—(129)
@@ -64,9 +69,4 @@ form of Reprimand and (3) in the form of Fine,—shall be inflicted either sever
 <details><summary>भारुचिः</summary>
 
 अपराधापेक्षैषा दण्डप्रकॢप्तिः क्रमेण स्यात् । वधश् चात्र ताडने न तु मारणे, सामर्थ्यात् । तथा च दर्शयति — ॥ ८.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	Let him punish first by (gentle) admonition, afterwards by (harsh) reproof, thirdly by a fine, after that by corporal chastisement.
 </details>

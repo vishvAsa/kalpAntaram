@@ -3,6 +3,11 @@ title = "222 प्रकाशम् एतत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+222	Gambling and betting amount to open theft; the king shall always exert himself in suppressing both (of them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gambling and Betting are open theft; the King shall always be careful in suppressing them.—(222)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.221].
 अतः,
 
 > **तयोर् नित्यं प्रतीघाते नृपतिर् यत्नवान् भवेत्  ॥ ९.२२२ ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-222	Gambling and betting amount to open theft; the king shall always exert himself in suppressing both (of them).
 </details>

@@ -3,6 +3,11 @@ title = "018 सद्यः प्रक्षालको"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	He may either at once (after his daily meal) cleanse (his vessel for collecting food), or lay up a store sufficient for a month, or gather what suffices for six months or for a year.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may be either one who washes off immediately, or one who lays by for a month, or one who lays by for six months, or one who lays by for a year.—(18).
@@ -62,9 +67,4 @@ pigeon, for a month; or he should collect them for a year.’
 <details><summary>भारुचिः</summary>
 
 । । । समानिचयस्यापवादः ॥ ६.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	He may either at once (after his daily meal) cleanse (his vessel for collecting food), or lay up a store sufficient for a month, or gather what suffices for six months or for a year.
 </details>

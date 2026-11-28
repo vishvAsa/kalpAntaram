@@ -3,6 +3,11 @@ title = "224 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	But the king himself shall impose a fine of ninety-six panas on him who gives a blemished damsel (to a suitor) without informing (him of the blemish).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man gives a defective damsel, without mentioning the defects, he should be punished by the king himself with a fine of ninety-six ‘paṇas.’—(221)
@@ -52,9 +57,4 @@ secret blemish, without making the blemish known, the King shall visit him with 
 <details><summary>भारुचिः</summary>
 
 धर्मप्रजानिरोधिना रोगेण गृहीता स्पृष्टमैथुना वा दोषवती । ताम् **अनाख्याय दोषवतीं** प्रयच्छतो दण्डः, "नोन्मत्ताया" इति पूर्वोक्तश्लोकेनैव गतार्थो, यतः वयम् अत्र नाधीयामहे । अथ वानुवादपक्षः केनचित् कारणेन तस्यास्य च शक्यते दर्शयितुम्, यतो युक्तम् अध्ययनम् [इहापि ॥ ८.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	But the king himself shall impose a fine of ninety-six panas on him who gives a blemished damsel (to a suitor) without informing (him of the blemish).
 </details>

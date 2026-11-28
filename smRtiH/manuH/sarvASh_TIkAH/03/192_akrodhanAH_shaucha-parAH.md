@@ -2,6 +2,11 @@
 title = "192 अक्रोधनाः शौच-पराः"
 +++
 
+<details><summary>Bühler</summary>
+
+192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Pitṛs are the foremost gods, free from anger, ever intent on purity, chaste, rid of all means of offence, and supremely blessed.—(192)
@@ -69,11 +74,6 @@ carefully offer into vessels, such as may be available; but specially in those o
 <details><summary>गोविन्दराजः</summary>
 
 **अक्रोधना** इति । क्रोधशून्याः मृद्वार्यादिशुद्धिनिरताः सर्वदावर्जितस्त्रीसम्प्रयोगाः त्यक्तायुधाः महात्मानः अनादिदेवतारूपाः **पितरः **अतः क्रोधादिरहितैः श्राद्धब्राह्मणैर् भाव्यम् ॥ ३.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
 </details>
 
 <details><summary>भारुचिः</summary>

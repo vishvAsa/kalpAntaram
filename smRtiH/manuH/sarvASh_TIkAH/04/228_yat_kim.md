@@ -2,6 +2,11 @@
 title = "228 यत् किम्"
 +++
 
+<details><summary>Bühler</summary>
+
+228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When asked, he should give something, without showing any displeasure. Because he may turn out to be a worthy recipient who will save him from everything.—(228)
@@ -42,11 +47,6 @@ some trouble or for the maintenance of his family,—he shall give what is asked
 <details><summary>गोविन्दराजः</summary>
 
 **यत् किञ्चिद्** इति । प्रार्थितेन अकृतदोषविचारेण स्वल्पम् अपि यथासम्भवं दातव्यम् । यस्माद् अनवरतं दानप्रवृत्तस्य कदाचिद् अवश्यं तथाविधं पात्रम् आगमिष्यति यत् दृष्टादृष्टदोषेभ्यो मोचयति ॥ ४.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
 </details>
 
 <details><summary>भारुचिः</summary>

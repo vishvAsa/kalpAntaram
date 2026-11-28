@@ -2,6 +2,11 @@
 title = "166 अनेन नारी"
 +++
 
+<details><summary>Bühler</summary>
+
+166	In reward of such conduct, a female who controls her thoughts, speech, and actions, gains in this (life) highest renown, and in the next (world) a place near her husband.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She, who does not fail in her duty to her husband, having her thought, speech and body well-controlled, reaches her husband’s regions; and is called ‘good’ by all gentle-men.—(163).
@@ -62,11 +67,6 @@ well-behaved, with senses under control, attains fame in this world and the supr
 <details><summary>गोविन्दराजः</summary>
 
 **अनेनेति** । मनोवाक्कायसंयतया नार्य् अनेन पूर्वोक्तेनाचारेणेह लोके श्रेष्टां कीर्तिं पतिलोकं च परलोके प्राप्नोतीत्य् उपसंहारार्थम् ॥ ५.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	In reward of such conduct, a female who controls her thoughts, speech, and actions, gains in this (life) highest renown, and in the next (world) a place near her husband.
 </details>
 
 <details><summary>भारुचिः</summary>

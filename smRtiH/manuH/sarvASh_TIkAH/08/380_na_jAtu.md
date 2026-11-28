@@ -3,6 +3,11 @@ title = "380 न जातु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+380	Let him never slay a Brahmana, though he have committed all (possible) crimes; let him banish such an (offender), leaving all his property (to him) and (his body) unhurt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Verily he shall not kill the Brāhmaṇa, even though he be steeped in all crimes; he should banish him from the kingdom, with all his property and unhurt.—(380).
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 8.379].
 <details><summary>गोविन्दराजः</summary>
 
 **न जात्व्** इति । सर्वपापकारिणम् अपि ब्राह्मणं कदाचिद् अपि न हन्यात् । अपि सर्वधनसंयुक्तम् अक्षतशरीरं राष्ट्रान् निर्वासयेत् ॥ ८.३८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-380	Let him never slay a Brahmana, though he have committed all (possible) crimes; let him banish such an (offender), leaving all his property (to him) and (his body) unhurt.
 </details>

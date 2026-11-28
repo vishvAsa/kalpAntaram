@@ -3,6 +3,11 @@ title = "165 ब्राह्मणायाऽवगुर्य +एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born person who threatens a Brāhmaṇa, with the intention of striking him, wanders about in the tāmisra hell for a hundred years.—(165)
@@ -43,9 +48,4 @@ unfit for heaven for a hundred years.’
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणायेति । द्विजातिर् **अपि हननेच्छया ब्राह्मणस्य दण्डाद्युद्यम्यैव वर्षशतं तामिस्राख्ये नरके परिभ्राम्यति ॥ ४.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.
 </details>

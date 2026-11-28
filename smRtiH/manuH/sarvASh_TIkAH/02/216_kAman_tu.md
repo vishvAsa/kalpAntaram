@@ -3,6 +3,11 @@ title = "216 कामन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The young man may perform the proper salutation on the ground to the young wives of his Teacher,—saying “here i am.”—(216)
@@ -44,9 +49,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 30l), as laying down h
 <details><summary>गोविन्दराजः</summary>
 
 **कामम्** इति । **गुरुपत्नीनां युवा **वन्दनं **भुवि** व्यत्यस्तपाणिना इति अनेन विधिना **असाव् अहम् इति ब्रुवन्** इत्य् उक्तरूपेनाभिवादनं **कुर्यात्** ॥ २.२१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'
 </details>

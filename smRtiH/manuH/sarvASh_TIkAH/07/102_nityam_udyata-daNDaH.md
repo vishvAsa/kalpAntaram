@@ -3,6 +3,11 @@ title = "102 नित्यम् उद्यत-दण्डः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+102	Let him be ever ready to strike, his prowess constantly displayed, and his secrets constantly concealed, and let him constantly explore the weaknesses of his foe.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall have his force always operative; his manliness always displayed, his secrets constantly concealed, ever following up the weak points of his enemy.—(102)
@@ -54,9 +59,4 @@ as—‘*acchidraśchidradarśī ca pareṣām vivarānugaḥ*.)’
 <details><summary>भारुचिः</summary>
 
 हस्त्यादिबलं योग्यादिभिर् नित्यम् अभिविनयेत्, शस्त्रावरणे च संस्कुर्यात् । सततम् एवम् अस्योद्यत्दण्डता राजमण्डले प्रकाशीभवति । संधिपालाटवीस्थानादिषु चाप्तपुरुषोपगृहीतैः संनद्धैः कवचिभिः सततं जागरितव्यम् । एवम् अस्य **विवृतपौरुष**ताविर्भवति । कृत्यपक्षस्य च रक्षणोपग्रहाभ्यां [**संवृतसंचारो**] बवत् । परकृत्यदूषणेन चरिछिद्रानुसारी स्यात् ॥ ७.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	Let him be ever ready to strike, his prowess constantly displayed, and his secrets constantly concealed, and let him constantly explore the weaknesses of his foe.
 </details>

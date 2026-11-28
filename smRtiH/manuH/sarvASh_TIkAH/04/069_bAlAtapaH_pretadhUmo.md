@@ -3,6 +3,11 @@ title = "069 बालातपः प्रेतधूमो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The young sun and the smoke from the dead body, should be avoided, as also a broken seat. He shall not cut his nails and hair, nob shall he tear his nails with his teeth.—(69)
@@ -66,9 +71,4 @@ body.’
 <details><summary>गोविन्दराजः</summary>
 
 **बालातप** इति । प्रथमोदितादित्यातपः । शवधूमभग्नपीठाद्युपवेशनानि वर्ज्यानि । **नखलोमानि **चात्मन **न छिन्द्यात् । दन्तैश् **च** नखान् नोत्पाटयेत्** ॥ ४.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.
 </details>

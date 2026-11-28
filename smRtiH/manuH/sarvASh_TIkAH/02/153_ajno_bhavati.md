@@ -2,6 +2,11 @@
 title = "153 अज्ञो भवति"
 +++
 
+<details><summary>Bühler</summary>
+
+153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ignorant person is verily a “child,” while the imparted of mantras is the “father.” They have called the ignorant man “child,” and the imparter of mantras, “father.”—(153)
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 2.150].
 <details><summary>कुल्लूकः</summary>
 
 वैशब्दोऽवधारणे । अज्ञ एव बालो भवति, न त्वल्पवयाः । मन्त्रदः पिताभवति । मन्त्रग्रहणं वेदोपलक्षणार्थम् - यो वेदमध्यापयति । व्याचष्टे स पिता । अत्रैव हेतुमाह -यस्मात्पूर्वेऽपि मुनयोऽज्ञं बालमित्यूचुः मन्दं च पितेत्येवाब्रुवन्नित्याह ॥१५३॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'
 </details>
 
 <details><summary>भारुचिः</summary>

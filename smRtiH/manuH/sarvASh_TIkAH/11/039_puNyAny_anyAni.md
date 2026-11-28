@@ -3,6 +3,11 @@ title = "039 पुण्यान्य् अन्यानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	Let him who has faith and controls his senses perform other meritorious acts, but let him on no account offer sacrifices at which he gives smaller fees (than those prescribed).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who has faith and control over his senses may perform other meritorious acts; but he shall not, on any account, perform sacrifices with small fees.—(39)
@@ -52,9 +57,4 @@ It is people entertaining such notions for whose sake the present text sets fort
 <details><summary>भारुचिः</summary>
 
 काम्ययज्ञवक्षिणा विधिर् अयम् । नित्यानां तु कर्मणाम् अल्पदक्षिणानाम् अप्य् अनुज्ञनम् इति ॥ ११.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	Let him who has faith and controls his senses perform other meritorious acts, but let him on no account offer sacrifices at which he gives smaller fees (than those prescribed).
 </details>

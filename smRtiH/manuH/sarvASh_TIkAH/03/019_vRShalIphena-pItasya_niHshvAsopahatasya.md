@@ -2,6 +2,11 @@
 title = "019 वृषलीफेन-पीतस्य निःश्वासोपहतस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is ho expiation for him who has drunk the moisture of the mouth of a Śūdra woman, who has been tainted by her breath, and who has begotten children on her.—(19).
@@ -69,11 +74,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 **वृषलीफेनपीतस्येति** । शूद्रया कृतपरिचुम्बनस्य तयैव च एकपर्यङ्कादौ मुखश्वासापवित्रीकृतस्य तस्याम् एव चोत्पन्नापत्यस्य संशुद्धिः नोप्दिश्यत इति पूर्वोत्तराव् अर्धश्लोकौ अत्यन्तनिषेधात् भृगुमतार्थवादौ ॥ ३.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "341 द्विजो ऽध्वगः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+341	A twice-born man, who is travelling and whose provisions are exhausted, shall not be fined, if he takes two stalks of sugar-cane or two (esculent) roots from the field of another man.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person, running short of provisions while on a journey, takes two sugar-cane stalks, or two roots, from another man’s field, he does not deserve to be made to pay a fine.—(341)
@@ -60,9 +65,4 @@ See Manu, 11.16-17.
 <details><summary>भारुचिः</summary>
 
 एवं च राजदण्डप्रतिषेदार्थो ऽयम् आरम्भो ऽर्थलक्षणे सति स्तेये, न तु चौर्याभ्यनुज्ञा । एतेनादोषः । शाकमत्स्यादिग्रहणं व्याख्यातम् ॥ ८.३४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-341	A twice-born man, who is travelling and whose provisions are exhausted, shall not be fined, if he takes two stalks of sugar-cane or two (esculent) roots from the field of another man.
 </details>

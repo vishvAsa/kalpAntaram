@@ -3,6 +3,11 @@ title = "065 अहोरात्रे विभजते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Sun divides the ‘Day’ and ‘Night’ of Men and Gods; [of others] what is conducive to the repose of beings is ‘Night,’ and what is conducive to activity is ‘Day.’—(65)
@@ -40,9 +45,4 @@ See the comparative notes for [Verse 1.64 (Measures of Time)].
 <details><summary>गोविन्दराजः</summary>
 
 **अहोरात्रे **इति । देवमानुषसम्बन्धिनी **अहोरात्रे सूर्यो** **विभजते** आदित्यो विभागीकरोति । ततश् च **भूतानां रात्रिः **स्वप्नार्थं भवति । कर्मोद्यमार्थं त्व् **अहः** ॥ १.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.
 </details>

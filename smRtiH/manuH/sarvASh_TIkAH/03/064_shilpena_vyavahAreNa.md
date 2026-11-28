@@ -3,6 +3,11 @@ title = "064 शिल्पेन व्यवहारेण"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king.—(64)
@@ -40,9 +45,4 @@ agriculture and through serving the king, families cease to be families; as also
 <details><summary>कुल्लूकः</summary>
 
 चित्रकर्मादिशिल्पेन कलया धनप्रयोगात्मकव्यवहारेण केवलशूद्वापत्येन गवाश्वरथक्रयविक्रयादिना कृषिराजसेवाभ्यां कुलानि विनश्यन्तीत्युत्तरेण सम्बन्धः ॥६४॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	By (practising) handicrafts, by pecuniary transactions, by (begetting) children on Sudra females only, by (trading in) cows, horses, and carriages, by (the pursuit of) agriculture and by taking service under a king,
 </details>

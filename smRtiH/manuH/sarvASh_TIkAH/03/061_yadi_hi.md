@@ -2,6 +2,11 @@
 title = "061 यदि हि"
 +++
 
+<details><summary>Bühler</summary>
+
+061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.—(61)
@@ -45,11 +50,6 @@ Parva.\]
 <details><summary>गोविन्दराजः</summary>
 
 **यदीति** । **यदि स्त्री** सुगन्धलेपनादि कान्तिमती न भवेत् तदा भर्तारं न प्रहर्षयेत् । भर्तुः अप्रहर्षाच् च गर्भग्रहणं न भवति ॥ ३.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.
 </details>
 
 <details><summary>भारुचिः</summary>

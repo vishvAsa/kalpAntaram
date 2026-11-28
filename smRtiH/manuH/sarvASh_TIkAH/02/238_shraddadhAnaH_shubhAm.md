@@ -2,6 +2,11 @@
 title = "238 श्रद्दधानः शुभाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+238	He who possesses faith may receive pure learning even from a man of lower caste, the highest law even from the lowest, and an excellent wife even from a base family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One imbued with faith may acquire excellent learning even from a lowly person, special law even from the lowest, and the gem of a wife even from a base family.—(238)
@@ -95,11 +100,6 @@ and Śūdras.’
 <details><summary>गोविन्दराजः</summary>
 
 **श्रद्दधान** इति । श्रद्धोपेतः प्रकृष्टां **विद्याम्** उक्तक्रमात्मज्ञानाद्युपदेशं क्षत्रियादेर् निकृष्टजातीयाद् अपि गृह्णीयात्, शूद्राद् अपि प्रकृष्टं **धर्मं** शास्त्राविरुद्धं तेन कुतो ऽपि ज्ञातं शिष्येत् । यत् “यदि स्त्री यद्य् अवरजः” इत्य् उक्तम्, तन् न, ततः शिक्xअयन्त्य् अपि (तु) तदनुष्ठानदर्शनेनानुष्ठानम् । उत्कृष्टां च अवैधव्यादिलक्षणोपेतां क्षत्रियकुम्भकारादि**कुलाद् अप्य् आददीत **॥ २.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	He who possesses faith may receive pure learning even from a man of lower caste, the highest law even from the lowest, and an excellent wife even from a base family.
 </details>
 
 <details><summary>भारुचिः</summary>

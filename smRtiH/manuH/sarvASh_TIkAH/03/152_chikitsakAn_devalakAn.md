@@ -2,6 +2,11 @@
 title = "152 चिकित्सकान् देवलकान्"
 +++
 
+<details><summary>Bühler</summary>
+
+152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Healers, temple-attendants, meat-sellers and those living by trade,—these should be avoided at rites performed in honour of gods and Pitṛs.—(152)
@@ -69,11 +74,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **चिकित्सका देवलका मांसविक्रयिणस् तथेति । **चिकित्सकादयो हव्यकव्ययोर् उभयोर् अपि वर्जनीया भवेयुः । **चिकित्सको** भिषक्, **देवलकः** प्रतिषेधः न धर्मार्थम्, तत्र विहितत्वात् । **मांसविक्रयिणः **सकृद् अपि । तथा च “सद्यः पतति मांसेन” इति लिङ्गम् । अन्यथा **विपणेन** गतार्थं स्यात्, इह च **जीवन्त** इत्य् उपादानात् मांसेन सकृद् अपि प्रतीयते । **विपणो** वाणिज्यम् ।॥ ३.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "033 लोभः स्वप्नो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	Covetousness, sleepiness, pusillanimity, cruelty, atheism, leading an evil life, a habit of soliciting favours, and inattentiveness, are the marks of the quality of Darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Avarice, drowsiness, irresolution, cruelty, disbelief, bad character, habit of begging, and inattentiveness are the characteristics of the quality of ‘Tamas.’—(33)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 सत्त्वादीनां त्रिभिः श्लोकैः फलोदयो ऽयम् उच्यते ॥ १२.३१–३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	Covetousness, sleepiness, pusillanimity, cruelty, atheism, leading an evil life, a habit of soliciting favours, and inattentiveness, are the marks of the quality of Darkness.
 </details>

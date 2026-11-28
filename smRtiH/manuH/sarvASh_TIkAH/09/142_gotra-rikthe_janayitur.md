@@ -3,6 +3,11 @@ title = "142 गोत्र-रिक्थे जनयितुर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+142	An adopted son shall never take the family (name) and the estate of his natural father; the funeral cake follows the family (name) and the estate, the funeral offerings of him who gives (his son in adoption) cease (as far as that son is concerned).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The adopted son shall not take the family-name or the property of his progenitor; the cake follows the family-name and the property; for him therefore who gives away his son the funeral offerings cease.—(142)
@@ -97,9 +102,4 @@ See Comparative notes for [Verse 9.141].
 <details><summary>भारुचिः</summary>
 
 गोत्ररिक्थे पिण्डदानं च जनयितुर् दत्त्रिमो न गृह्णीयात् । यस्मै तु दीयते ऽसौ तदीये तस्य गोत्ररिक्थे स्याताम् । पिण्डदानं च तत्संनियोगेन । यस्माद् गोत्रानुगः पिण्डः । अत एतस्मात् कारणाद् **व्यपैति दधतः स्वधा** पिण्डदानोपलक्षणम् । **स्वधा** सा च **व्यपैति जनयितुः**, तेन तस्यान्यस्मै दत्तत्वात् । अन्यस् त्व् आह- "गोत्ररिक्थे जनयितुर् न हरेद् अन्यस्मै दीयमानो ऽपि" । तथा द्व्यामुष्यायणो ऽसौ संपद्यते । गौतमस् तं विसेषयित्वाह- "पिण्डगोत्रर्षिस्[अंबन्धा रिक्थं भजेरन्" इति स एव] गोत्ररिक्थे भजेतेति ॥ ९.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	An adopted son shall never take the family (name) and the estate of his natural father; the funeral cake follows the family (name) and the estate, the funeral offerings of him who gives (his son in adoption) cease (as far as that son is concerned).
 </details>

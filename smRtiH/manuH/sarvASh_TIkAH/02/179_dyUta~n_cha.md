@@ -2,6 +2,11 @@
 title = "179 द्यूतञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From gambling, quarelling with people, calumniating, and also lying; prom gazing at and touching of women, and prom the injuring op others.—(179)
@@ -75,11 +80,6 @@ going on.’
 <details><summary>गोविन्दराजः</summary>
 
 **द्यूतम्** इति । अक्षादिक्रीडां जनैः सह कलहं परदोषादिकीर्तनम् असत्यं च स्त्रीणां च मैथुनसेवाशङ्कयालिङ्गनं परस्य च अर्थनाशाद्युपघातं च वर्जयेत् ॥ २.१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.
 </details>
 
 <details><summary>भारुचिः</summary>

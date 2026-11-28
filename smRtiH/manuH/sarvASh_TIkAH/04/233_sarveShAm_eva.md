@@ -2,6 +2,11 @@
 title = "233 सर्वेषाम् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giving or Veda surpasses all gifts or water, food, cows, buffaloes, clothes, sesamum, gold and clarified butter.—(233)
@@ -50,11 +55,6 @@ gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation 
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वेषाम् **इति । जलान्नगोभूवस्त्रतिलसुवर्णघृतादीनां सर्वेषां यानि दानानि तेषां मध्याद् वेददानं फलाधिक्यात् **विशिष्यते** ॥ ४.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
 </details>
 
 <details><summary>भारुचिः</summary>

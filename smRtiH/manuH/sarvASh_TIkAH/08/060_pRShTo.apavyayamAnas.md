@@ -3,6 +3,11 @@ title = "060 पृष्टो ऽपव्ययमानस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	(A defendant) who, being brought (into court) by the creditor, (and) being questioned, denies (the debt), shall be convicted (of his falsehood) by at least three witnesses (who must depose) in the presence of the Brahmana (appointed by) the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On having been summoned and questioned, if one denies it,—then he siiall be convicted by the man seeking for his due by means of at least three witnesses, in the presence of the king and the brāhmaṇas.—(60)
@@ -67,9 +72,4 @@ means of witnesses.’
 <details><summary>भारुचिः</summary>
 
 एकस्य साक्षित्व प्रतिषेधाद् द्वयोर् अपि साक्षित्वं त्रित्वापवादाद् भविष्यति, अन् केवलं त्रयाणाम् ॥ ८.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	(A defendant) who, being brought (into court) by the creditor, (and) being questioned, denies (the debt), shall be convicted (of his falsehood) by at least three witnesses (who must depose) in the presence of the Brahmana (appointed by) the king.
 </details>

@@ -3,6 +3,11 @@ title = "128 यथा फलेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+128	After (due) consideration the king shall always fix in his realm the duties and taxes in such a manner that both he himself and the man who does the work receive (their due) reward.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 क्षीणकृषेर् न्यूनः करो ग्रहीतव्य इत्य् एवम् अर्थम् एतत् । **वार्योकसः** जलौकसः । **षट्पदाः** भ्रमराः । **यथा** ते **स्वल्पम्** आददानाः परिपुष्टा भवन्ति, तथा **राज्ञा** मूलछेदो[^१५२] न कर्तव्यः ॥ ७.१२८ ॥
@@ -54,9 +59,4 @@ the year the sun draws out moisture, gently through his rays,—so should the ki
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । **यथा** राज्ञो वणिक्कर्षणादेश् च कर्मकर्तुः फलसम्बन्धो भवति तथा पर्यालोच्य **राजा** सर्वदा **राष्ट्रे करान् कल्पयेत्** ॥ ७.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	After (due) consideration the king shall always fix in his realm the duties and taxes in such a manner that both he himself and the man who does the work receive (their due) reward.
 </details>

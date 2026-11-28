@@ -2,6 +2,11 @@
 title = "185 छाया स्वो"
 +++
 
+<details><summary>Bühler</summary>
+
+185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Slaves are one’s own shadow; the daughter is the highest object of tenderness. For these reasons, when offended by these, he shall always bear it without heat.—(185)
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 4.182].
 <details><summary>गोविन्दराजः</summary>
 
 **छायेति । स्वो दासवर्गः **नीचैर् गामित्वात् आत्मछायेव । अतो नासौ विवादास्पदम्, **दुहिता** च **कृपणं** कृपापात्रम् अत **एतैर् **आक्रुष्टो ऽसम्तप्तः सर्वदा क्षमेत् ॥ ४.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
 </details>
 
 <details><summary>भारुचिः</summary>

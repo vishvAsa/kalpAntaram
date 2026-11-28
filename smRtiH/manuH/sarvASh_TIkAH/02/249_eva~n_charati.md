@@ -2,6 +2,11 @@
 title = "249 एवञ् चरति"
 +++
 
+<details><summary>Bühler</summary>
+
+249	A Brahmana who thus passes his life as a student without breaking his vow, reaches (after death) the highest abode and will not be born again in this world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who thus keeps his studentship unflinchingly, goes to the highest place and is never born again into this world.—(249)
@@ -61,11 +66,6 @@ the Brahmic Region.’
 श्रीमन्वाशयानुसारिण्यां ब्रह्मचर्याश्रमविधानं नाम  
 द्वितीयो ऽध्यायः  
 तृतीयो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-249	A Brahmana who thus passes his life as a student without breaking his vow, reaches (after death) the highest abode and will not be born again in this world.
 </details>
 
 <details><summary>भारुचिः</summary>

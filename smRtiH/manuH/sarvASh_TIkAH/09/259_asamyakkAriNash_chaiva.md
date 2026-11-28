@@ -3,6 +3,11 @@ title = "259 असम्यक्कारिणश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+259	Officials of high rank and physicians who act improperly, men living by showing their proficiency in arts, and clever harlots,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Misbehaving High officials and physicians, art-exhibitors, and clever harlots.—(259)
@@ -51,9 +56,4 @@ This verse is quoted in *Vivādaratnākara*, (p. 291), which adds the following 
 **
 
 See Comparative notes for [Verse 9.256].
-</details>
-
-<details><summary>Bühler</summary>
-
-259	Officials of high rank and physicians who act improperly, men living by showing their proficiency in arts, and clever harlots,
 </details>

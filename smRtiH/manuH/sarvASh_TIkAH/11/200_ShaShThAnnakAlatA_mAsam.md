@@ -3,6 +3,11 @@ title = "200 षष्ठान्नकालता मासम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+201	To eat during a month at each sixth mealtime (only), to recite the Samhita (of a Veda), and (to perform) daily the Sakala oblations, are the means of purifying those excluded from society at repasts (Apanktya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For persons excommunicated from repasts, the purification consists in (a) eating at the sixth meal-time, reciting the Vedic text, and the daily offering of the ‘Sākala homa,’ for a month.—(200)
@@ -45,9 +50,4 @@ This verse is quoted in *Aparārka* (p. 1158), which notes that the ‘*Apāṅk
 <details><summary>भारुचिः</summary>
 
 **अपाङ्क्त्याः** स्तेनपतितादयः । तथा चोक्तम्- "ये स्तेनपतितक्लीबाः" इत्य् एव्मादि । तेषां यान्य् अविहितप्रायश्चित्तान्य् अपङ्क्त्यकरणानि । तत्रेदं प्रायश्चित्तम् पूगयाजनादौ । शाकलहोमानां न विकल्पः पूर्वेण नित्यवचनात् ॥ ११.१९८–१९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	To eat during a month at each sixth mealtime (only), to recite the Samhita (of a Veda), and (to perform) daily the Sakala oblations, are the means of purifying those excluded from society at repasts (Apanktya).
 </details>

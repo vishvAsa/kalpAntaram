@@ -2,6 +2,11 @@
 title = "171 न सीदन्न्"
 +++
 
+<details><summary>Bühler</summary>
+
+171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Perceiving the quick overthrow of unrighteous sinners, he shall not turn his mind towards unrighteousness, even though suffering in consequence of righteonsness.—(171)
@@ -32,11 +37,6 @@ This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68), which adds the 
 <details><summary>गोविन्दराजः</summary>
 
 **नाधर्म** इति । यथा **गौः **वाहनदोहनादिना **सद्यो लोके फलति** तथ्**आधर्मश् चरितः सदो न फलति** । किं तर्हि । **शनैः शनैः **कालान्तरेण फलदानोन्मुखी भवन् **कर्तुर् मूलानी**व **कृन्तति **। कृत्तमूलापादपवत् कर्तारं निअरन्वयं नाशयति ॥ ४.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.
 </details>
 
 <details><summary>भारुचिः</summary>

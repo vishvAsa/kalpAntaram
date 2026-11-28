@@ -2,6 +2,11 @@
 title = "051 समाहृत्य तु"
 +++
 
+<details><summary>Bühler</summary>
+
+051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having collected as much food as may be needed, and having offered it, without guile, to his Teacher, he should eat it, with his face to the east, after having sipped water and become pure.—(51)
@@ -92,11 +97,6 @@ sun, offered to the Teacher and granted by him, is called *Nectar*.’
 <details><summary>गोविन्दराजः</summary>
 
 **समाहृत्येति** । **तद् भैक्षं यावदर्थं** तृप्तिपरिमाणम्, **अमायया** कदन्नपरिहारेण बहुभ्य **आहृत्य गुरवे निवेद्य **तेनानुगृहीतं सदा**चम्य शुचिः **सन्** प्राङ्मुखो ऽश्नीयाद्** इति दिङ्नियमः । **आचम्य** उपस्पृश्य द्विजो नित्यम् इति वक्ष्यमाणविध्यनुवादः । तत्र “खानि च” इत्यादिना अस्य सविशेषस्य चोदिष्यमाणत्वात् ॥ २.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.
 </details>
 
 <details><summary>भारुचिः</summary>

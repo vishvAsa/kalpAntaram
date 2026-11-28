@@ -3,6 +3,11 @@ title = "094 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	But the (Kshatriya) who is slain in battle, while he turns back in fear, takes upon himself all the sin of his master, whatever (it may be);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the Kṣatriya who, frightened and turned back, is slain by the enemies, takes upon himself all the sin that there may be of his master.—(94)
@@ -86,9 +91,4 @@ acquired by those who are killed while fleeing away from battle.’
 <details><summary>गोविन्दराजः</summary>
 
 **यस् त्व्** इति । **यो भीतः **पराङ्मुखीभूतः सङ्ग्रामे शत्रुभिर् हन्यते ऽपि यदि तथापि प्रभोर् यत् किञ्चित् पापं तत् सर्वं प्राप्नोति । पापं तस्य भवति ह्य् एतावद् अत्र विवक्षितम् । अन्यं वा कथयति अपापे प्रभौ पापाभावप्रसङ्गेन च प्रभोर् एव तत् प्रायश्चित्तं तेनासौ दुष्कृतात् प्रमुच्यते । भर्तृग्रहणाद् अमात्यस्यापि परावर्तनादिदोष एव, न प्रकृतस्यैव राज्ञः ॥ ७.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	But the (Kshatriya) who is slain in battle, while he turns back in fear, takes upon himself all the sin of his master, whatever (it may be);
 </details>

@@ -2,6 +2,11 @@
 title = "221 सूर्येण ह्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If during one’s sleep the sun has set, and if during one’s sleep the sun has risen,—if he does not perform the Expiatory Rite, he becomes tainted by grievous sin.—(221)
@@ -35,11 +40,6 @@ See Comparative notes for [Verse 2.220].
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादः । **सूर्येण ह्य् अभिनिम्लुक्त** इति । **सूर्येनाभिनिम्लुक्तः** निम्लोचनेनास्तं गमनेन **शयानः **सन् अभिव्याप्तः अनन्तरोक्तं **प्रायश्चित्तम् अकुर्वाणो महत्** पापेन** युक्तः स्यात्** ॥ २.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
 </details>
 
 <details><summary>भारुचिः</summary>

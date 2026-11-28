@@ -2,6 +2,11 @@
 title = "150 ब्राह्मस्य जन्मनः"
 +++
 
+<details><summary>Bühler</summary>
+
+150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, who brings about his Vedic birth, and teaches him his duty,—even though he be a mere child,—becomes in law the father of the old man (whom he teaches).—(150)
@@ -70,11 +75,6 @@ Teacher,—be he a child or of the same age as oneself,—as towards the Guru.�
 <details><summary>गोविन्दराजः</summary>
 
 न च वयोज्यैष्ठ्यं विद्यागुरोः पूजार्थम् अपेक्ष्यम्, यस्मात् **ब्राह्मस्येति** । उपनयनस्य कनीयः कर्तृत्वासम्भवात् तदुपलक्षिताध्यापनादि **कर्ता स्वधर्मस्य च **अयं धर्मम् इत्य् एवं बोधयिता **बालो ऽपि वृद्धस्यापि **धर्मार्थकर्मनिमित्तत्वेन पितृतुल्यो भवति ॥ २.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.
 </details>
 
 <details><summary>भारुचिः</summary>

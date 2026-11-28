@@ -3,6 +3,11 @@ title = "003 शुभाशुभ-फलङ् कर्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+003	Action, which springs from the mind, from speech, and from the body, produces either good or evil results; by action are caused the (various) conditions of men, the highest, the middling, and the lowest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Actions proceeding from mind, speech and body are conducive to good and bad results; and the conditions of men, due to actions, are high, low and middling.—(3)
@@ -67,9 +72,4 @@ whatever circumstances, of that he obtains the reward under the same circumstanc
 <details><summary>भारुचिः</summary>
 
 **मनोवाग्देह**कारणं च संकल्पोक्तिक्रियारूपं कर्मद्विप्रकारं कुशलाकुशलतया भिन्नानां गतीनां निमित्तम् । एवं च सति **शुभ**ग्रहणाद् अत्र धर्मनिर्देशो ऽपि प्रायश्चित्तप्रकरणशेष एव प्रणाडिकया विज्ञेयः ॥ १२.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	Action, which springs from the mind, from speech, and from the body, produces either good or evil results; by action are caused the (various) conditions of men, the highest, the middling, and the lowest.
 </details>

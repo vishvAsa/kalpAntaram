@@ -2,6 +2,11 @@
 title = "169 अपाङ्क्तदाने यो"
 +++
 
+<details><summary>Bühler</summary>
+
+169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to describe fully the results that afterwards accrue to the giver from giving, out of the offering to gods and to Pitṛs, to one who is unworthy of the line.—(169)
@@ -41,11 +46,6 @@ which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣ
 <details><summary>गोविन्दराजः</summary>
 
 **अपङ्क्त्यदान** इति । पङ्क्तिभोजनानर्हदाने **दातुर् **यद् एनो देवपित्रर्थहविषि फलोत्पत्तिर् भवति तत् साकल्येन **प्रवक्ष्यामि **॥ ३.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
 </details>
 
 <details><summary>भारुचिः</summary>

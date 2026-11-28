@@ -2,6 +2,11 @@
 title = "079 यद् प्राग्"
 +++
 
+<details><summary>Bühler</summary>
+
+079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Time-cycle of the Gods’ which has been described above as consisting of ‘twelve thousand periods,’—this multiplied by ‘seventy-one’ forms what is known here as ‘Manvantara’ (Regime of a Manu).—(79)
@@ -25,11 +30,6 @@ The period of time named ‘*manvantara*’ consists of seventy-one ‘Time-cycl
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । **यद्** एतत्च् चतुर्**युगं** द्वापरपरिमाणं दैवयुगम् उक्तं **तद्** **एकसप्ततिगुणं** मन्वन्तराख्यः कालः **इह** शास्त्रे **उच्यते** । एतावान् कालः एकस्य सतोः सर्गाद्यधिकारः ॥ १.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).
 </details>
 
 <details><summary>भारुचिः</summary>

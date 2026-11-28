@@ -2,6 +2,11 @@
 title = "160 धनुः-शराणाङ् कर्ता"
 +++
 
+<details><summary>Bühler</summary>
+
+160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The maker of bows and arrows, he whose wife dallies with another person and he who makes love to his brother’s widow, he who injures a friend, he who subsists by gambling and he who has his own son for his teacher.—(160)
@@ -104,11 +109,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **धनुःशराणाम्** इति । धनुःशरस्य कारकः । **अग्रेदिधिषूपतिः **ऽभ्रातुर् मृतस्य” इति वक्ष्यमाणः । वृत्तवशात् अग्र इत्य् अध्यलोपेन सत्यभामा भामेतिवत् । यत् तु गौतमीयपर्यालोचनया अग्रेदिधिषूपतिशब्देन द्वयं निष्पद्यते – अग्रेदिधिषूपतिः दिधिषूपतिश् च । तत्राग्रेदिधिषूपतिः अनूढाकन्यागामी, दिधिषूपतिस् तद्वोढेत्य् आहुः – तद् असत्, अशब्दार्थत्वात् । न च दिधिषूपतिश् च तद्वोढेति व्याख्यानं युक्तम्, “भ्रातुर् मृतस्य” इति मानवलक्षणविरोधात् । मित्रस्य यो ऽपकारे वर्तते, **द्यूतवृत्तिः **सभिकः, पुत्रेणाध्यापितः मुख्यस्य पुत्राचार्यत्वस्यासम्भवात् ॥ ३.१६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "356 परस्त्रियं यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+356	He who addresses the wife of another man at a Tirtha, outside the village, in a forest, or at the confluence of rivers, suffer (the punishment for) adulterous acts (samgrahana).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who converses with ‘another’s woman’ at a watering place, or in a wilderness, or in a forest, or at the confluence of rivers,—incurs the guilt of ‘adultery.’—(356)
@@ -75,9 +80,4 @@ confluence of two rivers, at a bathing place, in a garden, or in a park,—this 
 <details><summary>भारुचिः</summary>
 
 तीर्थादिषु विजनेषु कारणाद् अप्य् अभिभाषमाणः **संग्रहणम् आप्नुयाद्** अनाक्षारितो ऽपि पूर्वम् ॥ ८.३५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-356	He who addresses the wife of another man at a Tirtha, outside the village, in a forest, or at the confluence of rivers, suffer (the punishment for) adulterous acts (samgrahana).
 </details>

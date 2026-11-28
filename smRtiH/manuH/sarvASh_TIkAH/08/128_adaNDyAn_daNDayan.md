@@ -3,6 +3,11 @@ title = "128 अदण्ड्यान् दण्डयन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+128	A king who punishes those who do not deserve it, and punishes not those who deserve it, brings great infamy on himself and (after death) sinks into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king, punishing those who do not deserve to be punished, and not punishing those who deserve to be punished, attains great ill-fame and goes to hell.—(128)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 8.127].
 <details><summary>गोविन्दराजः</summary>
 
 **अदण्ड्यान्** इति । राजा दण्डानर्हान् दण्डयन् दण्डार्हश् चोत्स्ञ्य महद् अयशः प्राप्नोति नरक्ं च गच्छति ॥ ८.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	A king who punishes those who do not deserve it, and punishes not those who deserve it, brings great infamy on himself and (after death) sinks into hell.
 </details>

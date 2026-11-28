@@ -3,6 +3,11 @@ title = "016 एवं स्वभावम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+016	Knowing their disposition, which the Lord of creatures laid in them at the creation, to be such, (every) man should most strenuously exert himself to guard them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Knowing this disposition to be innate in them, from the very creation of the lord, the man should make the highest effort to guard them.—(16)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.14].
 <details><summary>भारुचिः</summary>
 
 व्यभिचारात्मकत्वम् आसां स्वभावतः । अतस् तं विदित्वा नित्यम् एता रक्ष्याः । न विश्वासाद् उपेक्षणीयाः गृहीतविनया इति कृत्वा ॥ ९.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Knowing their disposition, which the Lord of creatures laid in them at the creation, to be such, (every) man should most strenuously exert himself to guard them.
 </details>

@@ -3,6 +3,11 @@ title = "174 अधर्मेणैधते तावत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For a time one prospers through unrighteousness, for a while he experiences good things, and for a time he conquers his enemies; but, after all, he perishes root and branch.—(174)
@@ -42,9 +47,4 @@ For these reasons, righteousness should not be forsaken.—(1 74).
 <details><summary>गोविन्दराजः</summary>
 
 **अधर्मेनेति । अधर्मेण **परस्वहरणादिना सम्प्रति धनवृद्ध्यादियुक्तो भवति । तदनन्तरं तद्धनाद्युपभोगद्वारेण सुखान्य् अनुभवति, तदनुभावाच् च सुखित्वादिना शत्रून् अभिभवति, ततो ऽस्मिन्न् एव जन्मनि सर्वनाशं नश्यति मृतो वा अपुनर्भवं नरकम् उपैति ॥ ४.१७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.
 </details>

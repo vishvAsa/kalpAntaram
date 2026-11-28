@@ -2,6 +2,11 @@
 title = "084 न वर्धयेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+084	Let him not (unnecessarily) lengthen the period of impurity, nor interrupt the rites to be performed with the sacred fires; for he who performs that (Agnihotra) rite will not be impure, though (he be) a (Sapinda) relative.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not prolong the days of impurity; nor should he interrupt the rites performed in the fires; because he who performs those rites, even if he be a Sapiṇḍa, would never he impure.—(83).
@@ -151,11 +156,6 @@ shall not omit these During impurity due to death or birth, one should not omit 
 <details><summary>गोविन्दराजः</summary>
 
 **न वर्धयेद्** इति । यस्याग्निहोत्राद्यपेक्षम् अर्वाक् सञ्चयनाद् अस्थ्नाम् इत्य् एवमाद्यशौचसङ्कोच उक्तः स तु क्रियार्थं तावद् एवाशौचम् आश्रयेन् न तु निष्कर्मा सुखम् आसिष्युः इति बुद्ध्या । अशौचसंयुक्तान्य् अहानि वर्धयेत् तस्यां क्रियायां दशाहं नाश्रयेत् । रतेष् चाग्निष्व् अपि होत्रादिक्रिया न निरस्यन् न च तच्छ्रौतं कर्म कुर्वन् सपिण्डो ऽप्य् अशुद्धो भवति किं पुनर् अन्यत् तस्माद् अन्यं कारयेत् । तद् उक्तं गृह्ये “नित्यानि निवर्तन्ते । वैतनवर्जं शालाग्नौ चैके अन्य एतानि कुर्युः” इति ॥ ५.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	Let him not (unnecessarily) lengthen the period of impurity, nor interrupt the rites to be performed with the sacred fires; for he who performs that (Agnihotra) rite will not be impure, though (he be) a (Sapinda) relative.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "003 सन्त्यज्य ग्राम्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+003	Abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having given up cultivated food and all his belongings, he shall repair to the forest, either making over his wife to his sons, or along with her.—(3).
@@ -69,11 +74,6 @@ wearing matted locks and skins, performing Agnihotra and Baths, worshipping gods
 <details><summary>गोविन्दराजः</summary>
 
 **सन्त्यज्येति** । ग्रामोद्भवान्नभक्षणं गवाश्वादि च सर्वं त्यक्त्वा भार्या पुत्रेषु समर्प्य सह वा तया वनं गच्छेत् ॥ ६.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	Abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her.
 </details>
 
 <details><summary>भारुचिः</summary>

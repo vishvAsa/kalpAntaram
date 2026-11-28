@@ -3,6 +3,11 @@ title = "102 पूर्वां सन्ध्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who, during the morning-twilight, repeats (the Sāvitrī) standing, removes the sin of the (preceding) night; while he who, during the evening-Twilight, repeats it seated, destroys the sin committed during the day.—(102).
@@ -94,9 +99,4 @@ Twilight have their sins removed;... whatever sin is committed during the day, b
 <details><summary>गोविन्दराजः</summary>
 
 **पूर्वाम्** इति । **पूर्वां सन्ध्यां तिष्ठन् **सावित्रीं **जपन्** सञ्चितं प्रतनु रात्र्युत्पन्नं पापम् अपनुदति सर्वापनोदने प्रायश्चित्तकाण्डानर्थक्यात् । एवं **पश्चिम**सन्ध्यायाम् उपविष्टो जपन् **दिवाकृत**पापम् **अपहन्ति** ॥ २.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.
 </details>

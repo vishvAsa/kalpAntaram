@@ -3,6 +3,11 @@ title = "072 त्रिण्य् आद्यान्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	The first three of those (various kinds of fortresses) are inhabited by wild beasts, animals living in holes and aquatic animals, the last three by monkeys, men, and gods respectively.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By all means in his power he shall take shelter in a ‘hilly fort’; because among all these (forts) the hilly fort is distinguished by many good qualities.—(71).
@@ -77,9 +82,4 @@ strong walls and ditches, supplied with elephants, horses and chariots, with bri
 <details><summary>गोविन्दराजः</summary>
 
 **त्रीण्य् आद्यान्य् आश्रितास् त्व् एषां मृगगर्ताश्रया पुरेति** । मध्याद्यानि त्रीणि धन्वमह्यब्दुर्गाणि मृगादय आश्रिताः । तत्र धन्वदुर्गं मृगैर् आश्रितम् । महीदुर्गं बिलासादैर् नकुलादिभिः । अम्बुदुर्गम् उदकचारिभिः कूर्मादिभिः । उत्तराणि त्रीणि वृक्षनृगिरिदुर्गाणि क्रमेण प्लगङ्गमादय आश्रिताः । तत्र वृक्षदुर्गं वानरैर् आश्रितम् । नृदुर्गं मनुष्यैः । गिरिदुर्गं देवैः ॥ ७.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	The first three of those (various kinds of fortresses) are inhabited by wild beasts, animals living in holes and aquatic animals, the last three by monkeys, men, and gods respectively.
 </details>

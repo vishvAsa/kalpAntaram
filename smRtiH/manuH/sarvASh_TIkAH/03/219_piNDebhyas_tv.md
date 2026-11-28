@@ -2,6 +2,11 @@
 title = "219 पिण्डेभ्यस् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+219	But taking successively very small portions from the cakes, he shall make those seated Brahmana eat them, in accordance with the rule, before (their dinner).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in due order of sequence, taken very small portions out of the halls, he shall first feed those same seated Brāhmaṇas with them, in accordance with role.—(219).
@@ -51,11 +56,6 @@ This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri* 
 <details><summary>गोविन्दराजः</summary>
 
 **पिण्डेभ्य** इति । **पिण्डेभ्यः **अत्यन्ताल्पभागं पितृपिण्डक्रमेण गृहीत्वा तान् एव पित्राद्यर्थोपवेशितान् विप्रान् विधिवत् नयेच् च । आनुपूर्व्यां भोजनकाले अन्यभाजनात् पूर्वं भोजयेत् ॥ ३.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	But taking successively very small portions from the cakes, he shall make those seated Brahmana eat them, in accordance with the rule, before (their dinner).
 </details>
 
 <details><summary>भारुचिः</summary>

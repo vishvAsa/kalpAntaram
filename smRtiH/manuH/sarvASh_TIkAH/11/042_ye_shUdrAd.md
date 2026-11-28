@@ -3,6 +3,11 @@ title = "042 ये शूद्राद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	Those who, obtaining wealth from Sudras, (and using that) offer an Agnihotra, are priests officiating for Sudras, (and hence) censured among those who recite the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who perform the Agnihotra, after having obtained wealth from a Śūdra, are ‘Śūdra’s Priests,’ censured among Vedic scholars.—(42)
@@ -48,9 +53,4 @@ above.—11.24.\]]
 <details><summary>भारुचिः</summary>
 
 शूद्राद् अधिगतेनार्थेनाग्न्याधेयं न कर्तव्यम् । एवम् अग्न्याधेयं न कर्तव्यम् इत्य् अग्न्याधेयप्रतिषेधः । न तु प्रवृत्तकर्मणो नित्यानुष्ठानार्थः । तथा चोक्तम्, "न शूद्राद् भिक्षित्वा यज्ञानुष्ठानं कर्तव्यम्" इति । अयाचितलाभे तु नास्ति दोषः । तथाचासत्प्रतिग्रहाद् आत्मतृप्तिर् एका प्रतिषिद्धा । नित्यानि त्व् अभ्यनुज्ञातानि । यतः शूद्रधनेन प्रार्थितलब्धेन वाविशेषाभिधानसामर्थ्याद् अग्न्याधेयस्यैकस्य प्रतिषेधो ऽयं विज्ञेयः । यदि सर्वकर्मार्थो ऽयं प्रतिषेधः स्याद्, अनेनैव सिद्धत्वान् न शूद्राद् भिक्षणं प्रतिषिद्धं स्यान् "न यज्ञार्थं धनं शुद्रात्" इत्य् एवमादिना वाक्येन । अग्नीनां च वृषलाग्नित्वापवादाद् अग्न्याधेयप्रतिषेधो ऽयं गम्यते । तथा च दर्सयति ॥ ११.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	Those who, obtaining wealth from Sudras, (and using that) offer an Agnihotra, are priests officiating for Sudras, (and hence) censured among those who recite the Veda.
 </details>

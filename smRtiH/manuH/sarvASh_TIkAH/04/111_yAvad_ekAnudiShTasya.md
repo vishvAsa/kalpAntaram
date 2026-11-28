@@ -2,6 +2,11 @@
 title = "111 यावद् एकानुदिष्टस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While the odour and stain of a funeral rite not offered to his own ancestor remain upon the body of a learned Brāhmaṇa, he shall not recite the Veda.—(111)
@@ -42,11 +47,6 @@ etc. (see under 109). According to some only on eating at Śrāddha.’
 <details><summary>गोविन्दराजः</summary>
 
 त्र्यहाद् ऊर्ध्वम् अपि वा । **यावद्** इति । **यावद्** एकोद्देशेन निमन्त्रितस्य शास्त्रविदो ब्राह्मणस्य श्राद्धगतस्रक्चन्दनादिगन्धलेपो गात्रे भवतः तावव् वेदम् नाधीयीत ॥ ४.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

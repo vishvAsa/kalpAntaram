@@ -2,6 +2,11 @@
 title = "089 वृथा-सङ्कर-जातानाम् प्रव्रज्यासु"
 +++
 
+<details><summary>Bühler</summary>
+
+089	Libations of water shall not be offered to those who (neglect the prescribed rites and may be said to) have been born in vain, to those born in consequence of an illegal mixture of the castes, to those who are ascetics (of heretical sects), and to those who have committed suicide,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The water-offering is withdrawn from those born in vain and from intermixture, from those who are addicted to asceticism and from those who have abandoned themselves.—(88)
@@ -212,11 +217,6 @@ and such things, for him impurity shall be observed and water-offerings made.’
 <details><summary>गोविन्दराजः</summary>
 
 **वृथासङ्करजातानाम्** इति । वृथाजातानां बाहुल्येनोत्सृष्टस्वधर्माणां सङ्करजातानां वा नियुक्तासुतादीनां व्यतिक्रमसाहचर्याच् च वेदबाह्येषु च व्रतेषु रक्तपटादित्वादिषु वर्तमानानां तथा ॥ ५.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Libations of water shall not be offered to those who (neglect the prescribed rites and may be said to) have been born in vain, to those born in consequence of an illegal mixture of the castes, to those who are ascetics (of heretical sects), and to those who have committed suicide,
 </details>
 
 <details><summary>भारुचिः</summary>

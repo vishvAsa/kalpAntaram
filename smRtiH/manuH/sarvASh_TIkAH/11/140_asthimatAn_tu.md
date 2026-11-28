@@ -3,6 +3,11 @@ title = "140 अस्थिमतान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+141	But for destroying one thousand (small) animals that have bones, or a whole cart-load of boneless (animals), he shall perform the penance (prescribed) for the murder of a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one kills one thousand animals ‘with bones,’ or a full cart-load of boneless ones, he shall perform the penance for the killing of a Śūdra.—(140)
@@ -63,9 +68,4 @@ or a cart-load of boneless animals, one should perform the same penance as for k
 <details><summary>भारुचिः</summary>
 
 समुदायहिंसां परिज्ञायास्थिमतां च शूद्रस्यावृत्तस्य हिंसायां यत् प्रायश्चित्तं तच् चरेत् । एतेषाम् एव प्रत्येकं हिंसायाम् अधुनोच्यते ॥ ११.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	But for destroying one thousand (small) animals that have bones, or a whole cart-load of boneless (animals), he shall perform the penance (prescribed) for the murder of a Sudra.
 </details>

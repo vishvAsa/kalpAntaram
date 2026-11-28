@@ -3,6 +3,11 @@ title = "012 शूद्राद् आयोगवः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	From a Sudra are born an Ayogava, a Kshattri, and a Kandala, the lowest of men, by Vaisya, Kshatriya, and Brahmana) females, (sons who owe their origin to) a confusion of the castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the Śūdra on the Vaiśya, the Kṣatriya and the Brāhmaṇa maiden are born the mixed castes, ‘Āyogava,’ Kṣattṛ and the ‘Caṇḍāla,’ the lowest of men.—(12)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 एवं प्रातिलोम्येन शूद्राद् वैश्यायाम् आयोगवः, क्षत्रियायां क्षत्ता, ब्राह्मण्यां चण्डाल इति । अत्र तु श्लोके वैश्यराजन्ययोर् वर्णनिर्देशात् स्त्रीलिङ्गम् अविवक्षितम् । तदविवक्षा च पद्यग्रन्थानुविधानेन, इतरथा हि स्त्रीलिङ्गापाठे श्लोकभङ्गः स्याद् इति । एवम् एतान् प्रतिलोमान् उक्त्वा तद्विशेषविव्क्षयेदम् अधुनोच्यते ॥ १०.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	From a Sudra are born an Ayogava, a Kshattri, and a Kandala, the lowest of men, by Vaisya, Kshatriya, and Brahmana) females, (sons who owe their origin to) a confusion of the castes.
 </details>

@@ -2,6 +2,11 @@
 title = "258 एकाकी चिन्तयेन्"
 +++
 
+<details><summary>Bühler</summary>
+
+258	Alone let him constantly meditate in solitude on that which is salutary for his soul; for he who meditates in solitude attains supreme bliss.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alone, in solitude, he shall meditate upon what is good for himself. By meditating in solitude, he attains the highest good.—(258)
@@ -31,11 +36,6 @@ By means of this practice and meditation, he obtains the highest good—called �
 <details><summary>गोविन्दराजः</summary>
 
 तथा च वसन् **एकाकीति** । निर्जने प्रदेशे **एकाकी **सन् उपनिषदुक्तोपासनादिभिः परमात्मस्वरूपनिरूपणम् आत्महितं चिन्तयन् प्रकृष्टं **श्रेयो **मोक्षाख्यं प्राप्नोति ॥ ४.२५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-258	Alone let him constantly meditate in solitude on that which is salutary for his soul; for he who meditates in solitude attains supreme bliss.
 </details>
 
 <details><summary>भारुचिः</summary>

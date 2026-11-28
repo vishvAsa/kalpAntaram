@@ -2,6 +2,11 @@
 title = "150 सदा प्रहृष्टया"
 +++
 
+<details><summary>Bühler</summary>
+
+150	She must always be cheerful, clever in (the management of her) household affairs, careful in cleaning her utensils, and economical in expenditure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She should be always cheerful and alert in household-work; she should have the utensils well-cleaned and in spending she should be close-fisted.—(148).
@@ -64,11 +69,6 @@ the means of realising the three ends of Merit, Wealth and Pleasure.’
 <details><summary>गोविन्दराजः</summary>
 
 **सदेति** । सर्वदा भर्तरि क्रुद्धे ऽपि प्रसन्नवदनया गृहकर्मणि चतुरया सुसंस्पृष्टकुण्डकटाहादिभाण्डया व्यये चानुदारया भवितव्यम् ॥ ५.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	She must always be cheerful, clever in (the management of her) household affairs, careful in cleaning her utensils, and economical in expenditure.
 </details>
 
 <details><summary>भारुचिः</summary>

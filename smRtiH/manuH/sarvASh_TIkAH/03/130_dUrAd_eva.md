@@ -2,6 +2,11 @@
 title = "130 दूराद् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+130	Let him make inquiries even regarding the remote (ancestors of) a Brahmana who has studied an entire (recension of the) Veda; (if descended from a virtuous race) such a man is a worthy recipient of gifts (consisting) of food offered to the gods or to the manes, he is declared (to procure as great rewards as) a guest (atithi).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From far off one should examine the Brāhmaṇa thoroughly versed in the Veda; such a one is the proper channel for offerings to gods and Pitṛ and in the matter of gifts he has been declared to be the guest.—(130)
@@ -53,11 +58,6 @@ specially at the time of the Śrāddha.’
 <details><summary>गोविन्दराजः</summary>
 
 **दूराद्** इति । “ये मातृतो दशपुरुषं पितृतो दशपुरुषम्” इत्यादिसूत्रकारोक्तर्त्विक्परीक्षान्यायेन समस्तशाखाध्यायिनं **ब्राह्मणं** **परीक्षेत **यस्मात् तस्मात् तथाविधो ब्राह्मणो **हव्यकव्यानां तीर्थम्** इव (यथा) तीर्थेनोदकावतारणमार्गेणोदकार्थिनो गच्छन्ति एवं तथाविधेन ब्राह्मणेन हव्यकव्यानि देवान् पितॄन् गच्छन्ति । तथाविधो ब्राह्मणः **अतिथि**तुल्यः **स्मृतः** महाफलत्वात् ॥ ३.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	Let him make inquiries even regarding the remote (ancestors of) a Brahmana who has studied an entire (recension of the) Veda; (if descended from a virtuous race) such a man is a worthy recipient of gifts (consisting) of food offered to the gods or to the manes, he is declared (to procure as great rewards as) a guest (atithi).
 </details>
 
 <details><summary>भारुचिः</summary>

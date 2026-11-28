@@ -3,6 +3,11 @@ title = "195 उपवासकृशन् तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+196	But when he returns from the cow-house, emaciated with his fast, and reverently salutes, (the Brahmanas) shall ask him, 'Friend, dost thou desire to become our equal?'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he has returned from the cow-pen, emaciated with the fast, and humble, they shall ask him—‘friend, dost thou desire equality with us?’—(195)
@@ -51,9 +56,4 @@ seated among his kinsmen, shall offer grass to the cows; and when he has been ho
 <details><summary>गोविन्दराजः</summary>
 
 **उपवासकृतम्** इति । केवलं क्षीराहारेणाशनान्तरनिवृत्त्या तम् अपवितशरीअं गोष्ठात् प्रत्यागतं प्रह्वीभूतं हे साधो किं अस्माभिः सह सामान्यम् इच्छति पुनर् असत्प्रतिग्रहेअ न त्वं प्रवर्तस इत्य् एवं धर्मं ब्राह्मणाः परिपृच्छेयुः ॥ ११.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	But when he returns from the cow-house, emaciated with his fast, and reverently salutes, (the Brahmanas) shall ask him, 'Friend, dost thou desire to become our equal?'
 </details>

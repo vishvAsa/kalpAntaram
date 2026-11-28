@@ -2,6 +2,11 @@
 title = "024 चतुरो ब्राह्मणस्याद्यान्"
 +++
 
+<details><summary>Bühler</summary>
+
+024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise ones have regarded the first four as commended for the Brāhmaṇa, the Rākṣasa alone for the Kṣatriya and the Āsura for the Vaiśva and the Śūdra.—(24).
@@ -61,11 +66,6 @@ See Comparative notes for [Verse 3.23].
 <details><summary>गोविन्दराजः</summary>
 
 **चतुर** इति । **ब्राह्मणस्याद्यांश् चतुरः** । **क्षत्रियस्य राक्षसम् एकं वैश्यशूद्रयोश् चासुरं** स्मृत्यर्थोपनिबन्धनकाराः **प्रशस्तान्** मन्यन्ते । अत्र चारुरादीनां ब्राह्मणादिषु पूर्ववाक्यविहितानाम् इह निराकरणात् विकल्पतो नित्यासम्भवे वैकल्पिकेषु प्रवृत्तिः । एवम् उत्तरत्रापि वेदितव्यम् ॥ ३.२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
 </details>
 
 <details><summary>भारुचिः</summary>

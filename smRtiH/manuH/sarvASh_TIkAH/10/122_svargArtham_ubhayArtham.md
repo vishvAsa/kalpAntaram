@@ -3,6 +3,11 @@ title = "122 स्वर्गार्थम् उभयार्थम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	But let a (Sudra) serve Brahmanas, either for the sake of heaven, or with a view to both (this life and the next); for he who is called the servant of a Brahmana thereby gains all his ends.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall serve Brāhmaṇas either for the sake of heaven,  
@@ -78,9 +83,4 @@ See Comparative notes for [Verse 10.121].
 > **जात-ब्राह्मण-शब्दस्य सा ह्य् अस्य कृतकृत्यता  ॥ १०.१२२ ॥**
 
 यतश् चैतद् एवम् अतः ।
-</details>
-
-<details><summary>Bühler</summary>
-
-122	But let a (Sudra) serve Brahmanas, either for the sake of heaven, or with a view to both (this life and the next); for he who is called the servant of a Brahmana thereby gains all his ends.
 </details>

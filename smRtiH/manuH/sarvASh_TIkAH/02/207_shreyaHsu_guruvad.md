@@ -2,6 +2,11 @@
 title = "207 श्रेयःसु गुरुवद्"
 +++
 
+<details><summary>Bühler</summary>
+
+207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Towards superiors he should always behave as towards the Teacher, as also towards the Teacher’s son who has acquired the position of the Teacher, and towards the Teacher’s own blood-relations.—(207)
@@ -74,11 +79,6 @@ See Comparative notes for [Verse 2.206].
 <details><summary>गोविन्दराजः</summary>
 
 **श्रेयःसु **स्वापेक्षया विद्यादिभिर् अधिकेषु आचार्येष्व् इति (आर्येष्व् इति) गुरुपुत्रविशेषणम् । अनेन विशेषणेन स्वापेक्षायाधिकवयस्केषु स्वसमानजातिषु उत्कृष्टजातिषु परमावस्थेषु च गुरुपुत्रेषु **गुरुवद् वृत्तिम् आचरेद्** इत्य् अभिप्रायो मनोर् बोध्यः । **गुरोश् चैव स्वबन्धुषु** गुरोः पितृव्यादिषु ॥ २.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
 </details>
 
 <details><summary>भारुचिः</summary>

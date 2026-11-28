@@ -2,6 +2,11 @@
 title = "082 न संहताभ्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+082	Let him not scratch his head with both hands joined; let him not touch it while he is impure, nor bathe without (submerging) it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not scratch his own head with both hands joined together; he shall not touch it while unclean; and he shall not bathe without it.—(82).
@@ -77,11 +82,6 @@ head or his belly.’
 <details><summary>गोविन्दराजः</summary>
 
 **न संहताभ्याम्** इति । संश्लिष्टाभ्यां पाणिभ्यां स्वशिरो न कण्डयेत् । संहतवचनाद् असंहताभ्यां न निषेधः । एवं सर्वत्र व्यावर्त्य ज्ञेयम् । उच्छिष्टहस्तादिना येन केनचिद् अपि शिरो न स्पृशेत् । शिरसा विना च नित्यनैमित्तकस्नाने न कुर्यात् । दृष्टार्थे त्व् अनिषेधः, स्नानविधिनास्यैकवाक्यत्वात् ॥ ४.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	Let him not scratch his head with both hands joined; let him not touch it while he is impure, nor bathe without (submerging) it.
 </details>
 
 <details><summary>भारुचिः</summary>

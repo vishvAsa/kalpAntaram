@@ -2,6 +2,11 @@
 title = "078 एतद् अक्षरम्"
 +++
 
+<details><summary>Bühler</summary>
+
+078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Reciting, at the two twilights, this syllable and this verse, preceded by the Vyāhṛtis, the Brāhmaṇa, learned in the Veda, becomes endowed with Vedic merit.—(78)
@@ -165,11 +170,6 @@ Evening Prayers, while the sun is still visible, he should go on repeating the G
 <details><summary>गोविन्दराजः</summary>
 
 **एतत् **ओङ्काराख्यम् **अक्षरं एतां च सावित्रीं **भूर्भुवःस्वरित्येतद् **व्याहृतिपूर्विकां** वेदार्थज्ञो **विप्रः सन्ध्ययोर् जपन्** समस्तवेदपुण्येन सम्बध्यते इति विद्वान् ब्राह्मणः सन्ध्याजपसम्भूतफलमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
 </details>
 
 <details><summary>भारुचिः</summary>

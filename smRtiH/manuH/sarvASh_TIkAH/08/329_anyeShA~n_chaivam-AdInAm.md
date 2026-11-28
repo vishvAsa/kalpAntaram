@@ -3,6 +3,11 @@ title = "329 अन्येषाञ् चैवम्-आदीनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+329	Or other things of a similar kind, spirituous liquor, boiled rice, and every kind of cooked food, the fine (shall be) twice the value (of the stolen article).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of the theft of yarns, cotton, fermenting drug, cowdung, molasses, curds, milk, skimmed curd, water and grass (326),—of vessels made of bamboo or cane, as also of salts, earthenware, earth and ashes (327)—of fish, birds, oil, clarified butter, meat, honey, and other animal-products (328)—of other things of this kind, spirituous liquors, cooked rice and all kinds of cooked food,—the fine shall be double the value of the thing (stolen).—(326-329)
@@ -109,9 +114,4 @@ animals, clothes and such things, or large objects, the fine shall be not less t
 <details><summary>भारुचिः</summary>
 
 अथोक्तानां द्रव्याणां मूल्याद् द्विगुणो दमश् चतुर्भिः श्लोकैर् उच्यते । सूत्रादिश्लोकगणे चात्र यद् भस्मनो मृदश् च ग्रहणं तत्सर्वप्रदर्शनार्थं विज्ञयते । तथा च निगमयति "अन्येषां चैवमादीनाम्" इति ॥ ८.३२५–२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-329	Or other things of a similar kind, spirituous liquor, boiled rice, and every kind of cooked food, the fine (shall be) twice the value (of the stolen article).
 </details>

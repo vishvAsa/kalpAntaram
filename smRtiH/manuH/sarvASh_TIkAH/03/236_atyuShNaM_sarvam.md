@@ -2,6 +2,11 @@
 title = "236 अत्युष्णं सर्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All the food should be very hot, and they should eat with controlled speech; when asked by the giver, the Brāhmaṇas should not describe the qualities of the sacrificial food.—(236)
@@ -93,11 +98,6 @@ praise or decry the food. They should say nothing except by the gesture of the h
 > अन्यत्र फलमूलेभ्यः पानकाद् दध्न एव च ।
 
 इति शङ्खस्मरणात् फलादिव्यतिरेकेण सर्वम् उष्णं दद्यात् । संयतवाचश् च ब्राह्मणा अश्नीयुः । दात्रा च स्वाद्वस्वादु वेत्य् एनम् अन्नगुणान् पृष्टाः न कथयेयुः अभिनयेनापि । वाङ्नियमस्योक्तत्वात् (चाग्निप्रशस्योक्तत्वात्) ॥ ३.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
 </details>
 
 <details><summary>भारुचिः</summary>

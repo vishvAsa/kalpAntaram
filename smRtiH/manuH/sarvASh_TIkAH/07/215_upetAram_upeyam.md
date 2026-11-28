@@ -3,6 +3,11 @@ title = "215 उपेतारम् उपेयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	On the person who employs the expedients, on the business to be accomplished, and on all the expedients collectively, on these three let him ponder and strive to accomplish his ends.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (a) The employer of the expedients, (b) the end to be attained by the expedients and (c) the expedients themselves,—taking his stand upon all these three, he shall strive for the accomplishment of his purpose.—(215)
@@ -84,9 +89,4 @@ methods, either singly or severally or collectively and win over the subjects.�
 <details><summary>भारुचिः</summary>
 
 आनन्त्याद् अवस्थानाम् इदं समासेन सर्वोपायप्रदर्शनम् आ[त्मरक्षार्थ्]अम् ॥ ७.२१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	On the person who employs the expedients, on the business to be accomplished, and on all the expedients collectively, on these three let him ponder and strive to accomplish his ends.
 </details>

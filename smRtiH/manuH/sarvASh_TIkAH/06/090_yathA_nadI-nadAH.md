@@ -3,6 +3,11 @@ title = "090 यथा नदी-नदाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	As all rivers, both great and small, find a resting-place in the ocean, even so men of all orders find protection with householders
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as rivers and rivulets attain their resting-places in the Ocean, so do men of all other orders obtain support in the Householder.—(90).
@@ -59,9 +64,4 @@ place in the ocean, even so men of all orders find protection with Householders.
 <details><summary>भारुचिः</summary>
 
 यथा च गौतमः- "ऐकाश्रम्यं त्व् आचार्याः" इत्य् एवमादि । त्रयो ऽपि चैते, आश्रमाणां विकल्पाद् अस्मिन् पक्षे वेदस्मृतिशास्त्राविरोधेन यथाधिकारं व्याख्येयाः । एकान्तग्रहणस् त्व् आचार्यः शास्त्रविरोधाद् विज्ञेयः ॥ ६.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	As all rivers, both great and small, find a resting-place in the ocean, even so men of all orders find protection with householders
 </details>

@@ -2,6 +2,11 @@
 title = "004 अनभ्यासेन वेदानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+004	'Through neglect of the Veda-study, through deviation from the rule of conduct, through remissness (in the fulfilment of duties), and through faults (committed by eating forbidden) food, Death becomes eager to shorten the lives of Brahmanas.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Bhṛgu, the righteous son of Manu, said to the great sages—“Listen, by what fault Death seeks to destroy the Brāhmaṇas.”—(3).
@@ -48,11 +53,6 @@ what is enjoined and by doing what is forbidden, and by not controlling the sens
 <details><summary>कुल्लूकः</summary>
 
 वेदानामनभ्यासात्, स्वीयाचारपरित्यागात्, सामर्थ्येसत्यवश्यकर्तव्यकरणानुत्साहलक्षणादालक्ष्यात् अदनीयदोषाच्चमृत्युर्विप्रान्हन्तुमिच्छति, एतेषामधर्मोत्पादनहारेणायुःक्षयहेतुत्वात् ॥४॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	'Through neglect of the Veda-study, through deviation from the rule of conduct, through remissness (in the fulfilment of duties), and through faults (committed by eating forbidden) food, Death becomes eager to shorten the lives of Brahmanas.'
 </details>
 
 <details><summary>भारुचिः</summary>

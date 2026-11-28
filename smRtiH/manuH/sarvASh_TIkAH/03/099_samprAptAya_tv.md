@@ -3,6 +3,11 @@ title = "099 सम्प्राप्ताय त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+099	But let him offer, in accordance with the rule, to a guest who has come (of his own accord) a seat and water, as well as food, garnished (with seasoning), according to his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 To the guest that has happened to come, he should offer; according to rule, water and seat, and also food prepared to the best of his abilitv.—(99)
@@ -78,9 +83,4 @@ best of one’s capacity; and in the evening the guest is not to be deprived of 
 <details><summary>गोविन्दराजः</summary>
 
 **सम्प्राप्तायेति** । स्वयम् उपस्थितायातिथये आसनाचमनादि उदकान्नं च व्यजनविशेषैः यथासम्भवं सत्कृत्य “आसनावसथौ” इत्यादिवक्ष्यमाणविधिपूर्वकं दद्यात् ॥ ३.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	But let him offer, in accordance with the rule, to a guest who has come (of his own accord) a seat and water, as well as food, garnished (with seasoning), according to his ability.
 </details>

@@ -3,6 +3,11 @@ title = "112 शरीरकर्षणात् प्राणाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	As the lives of living creatures are destroyed by tormenting their bodies, even so the lives of kings are destroyed by their oppressing their kingdoms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the lives of living beings perish by the emasciation of their bodies, so do the lives of Kings perish by oppressing their kingdom—(112)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 7.110].
 <details><summary>भारुचिः</summary>
 
 राष्ट्रं हि तस्य शरीरम् इति । यतश् चैतद् एवम् अतस् तद्दोषपर्युदासाय ॥ ७.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	As the lives of living creatures are destroyed by tormenting their bodies, even so the lives of kings are destroyed by their oppressing their kingdoms.
 </details>

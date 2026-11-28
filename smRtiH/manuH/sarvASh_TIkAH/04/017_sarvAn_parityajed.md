@@ -2,6 +2,11 @@
 title = "017 सर्वान् परित्यजेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall relinquish all things impeding study, maintaining himself somehow. This is what constitutes the accomplish ment of his aims.—(17)
@@ -42,11 +47,6 @@ Those things that are likely to obstruct Vedic study should all be relinquished;
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वान्** इति । **यथा तथा यापयंस् त्व्** इति । येन केनचिद् उपायेनात्मादीन् बिभ्रद् वेदाध्ययनविरुद्धान् अप्रतिषिद्धान् अपि विषयोपभोगादीन् अर्थान् **परित्यजेत्** यस्मात् सा ब्राह्मणस्य **कृतकृत्यता **यत् स्वाध्यायपरत्वम् ॥ ४.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
 </details>
 
 <details><summary>भारुचिः</summary>

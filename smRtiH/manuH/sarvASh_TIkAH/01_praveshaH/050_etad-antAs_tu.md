@@ -2,6 +2,11 @@
 title = "050 एतद्-अन्तास् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+050	The (various) conditions in this always terrible and constantly changing circle of births and deaths to which created beings are subject, are stated to begin with (that of) Brahman, and to end with (that of) these (just mentioned immovable creatures).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus have been described the conditions of life, beginning with brahmā and ending with those just mentioned, which occur in this ever frightful and constantly fluctuating cycle of births and deaths of created beings.—(50)
@@ -43,11 +48,6 @@ This description of the cycle of births and deaths as being due to Virtue and Vi
 <details><summary>गोविन्दराजः</summary>
 
 **एतदन्ता **इति । स्थावरावसानाः ब्रह्मप्रधानाः संसारोत्पत्तयो नित्यं **घोरे** भीषणे ऽस्मिन् **भूत्नानां **क्षेत्रज्ञानां **संसारे **बहुशः शरीरादानत्यागलक्षणाः सर्वा नश्वरा उक्ताः ॥ १.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	The (various) conditions in this always terrible and constantly changing circle of births and deaths to which created beings are subject, are stated to begin with (that of) Brahman, and to end with (that of) these (just mentioned immovable creatures).
 </details>
 
 <details><summary>भारुचिः</summary>

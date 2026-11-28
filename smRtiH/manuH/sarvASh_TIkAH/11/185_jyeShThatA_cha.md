@@ -3,6 +3,11 @@ title = "185 ज्येष्ठता च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+186	And (if he be the eldest) his right of primogeniture shall be withheld and the additional share, due to the eldest son; and his stead a younger brother, excelling in virtue, shall obtain the share of the eldest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The right of primogeniture shall be withheld, as also the additional share of property due to the eldest; the additional share due to him as the eldest shall be obtained by his younger brother, who is superior to him in quality.—(185)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 11.182].
 <details><summary>गोविन्दराजः</summary>
 
 **ज्येष्ठतेति** । ज्येष्ठकार्यं प्रत्युत्थानादि तस्य न कार्यं ज्येष्ठलभ्यं चोद्धारधनं नास्य देयम् । एतच् च पूर्वसिद्धम् एव यवीयसः प्राप्त्यर्थम् अनूद्यते । तस्य च ज्येष्ठसम्बन्धिनम् उद्धारांशं तदनुजो गणाधिको लभते ॥ ११.१८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	And (if he be the eldest) his right of primogeniture shall be withheld and the additional share, due to the eldest son; and his stead a younger brother, excelling in virtue, shall obtain the share of the eldest.
 </details>

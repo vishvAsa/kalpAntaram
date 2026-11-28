@@ -3,6 +3,11 @@ title = "085 मन्यन्ते वै"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	'The wicked, indeed, say in their hearts, "Nobody sees us;" but the gods distinctly see them and the male within their own breasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The sinners indeed think that “no one sees us”; but the gods see them, as also their own inner personality.’—(85)
@@ -83,9 +88,4 @@ See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/ma
 इह प्रकरणाद् अनृताभिधायिनः पापकृत इत्य् उच्यन्ते । सामर्थ्यात् तु सर्वस्य व्यतिक्रमकारिण इदं ग्रहणम् —
 
 > **तांश् च देवाः प्रपश्यन्ति स्वश् चैवान्तरपूरुषः  ॥ ८.८५ ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-085	'The wicked, indeed, say in their hearts, "Nobody sees us;" but the gods distinctly see them and the male within their own breasts.
 </details>

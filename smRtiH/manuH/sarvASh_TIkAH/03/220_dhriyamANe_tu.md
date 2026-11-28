@@ -2,6 +2,11 @@
 title = "220 ध्रियमाणे तु"
 +++
 
+<details><summary>Bühler</summary>
+
+220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While his father holds, one should make the offering to the previous ancestors; or, he may feed his own father at the Śrāddha as a Brāhmana.—(220).
@@ -103,11 +108,6 @@ he shall offer it to those whom his father offers it.’
 <details><summary>गोविन्दराजः</summary>
 
 **ध्रियमाण** इति । जीवति **पितरि** पितामहादीनाम् एव त्रयाणां श्राद्धं कुर्यात् न पितुः । अथ वा पितृस्थाने **तम्** एव स्वकं पितरं श्राद्धे भोजयेत् पितामहप्रपितामहयोश् च ब्राह्मणौ भोजयेत् पिण्डौ च दद्यात् ॥ ३.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).
 </details>
 
 <details><summary>भारुचिः</summary>

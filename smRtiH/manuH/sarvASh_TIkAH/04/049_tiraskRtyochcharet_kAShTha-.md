@@ -3,6 +3,11 @@ title = "049 तिरस्कृत्योच्चरेत् काष्
 
 +++
 
+<details><summary>Bühler</summary>
+
+049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 केचिद् इमं श्लोकम् अस्मिन्न् अध्याये नाधीयते[^१२०] ।
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 4.45].
 <details><summary>गोविन्दराजः</summary>
 
 **तिरस्कृत्येति** । काष्ठपत्रलोष्टतृणैः भूमिम् अन्तर्धाय मौनी उच्छिष्टचाण्डालादिस्पर्श-प्रायश्चित्तरहितः आच्छादितगात्रः प्रावृतशिरा मूत्रपुरीषे कुर्यात् ॥ ४.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.
 </details>

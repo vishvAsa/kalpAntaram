@@ -3,6 +3,11 @@ title = "407 गर्भिणी तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+407	But a woman who has been pregnant two months or more, an ascetic, a hermit in the forest, and Brahmanas who are students of the Veda, shall not be made to pay toll at a ferry.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But a woman who is pregnant two months or more, an ascetic, a hermit, and brāhmaṇas in holy orders shall not be made to pay the toll at a ferry-crossing.—(407)
@@ -58,9 +63,4 @@ or toll from a student or an ascetic or a renunciate, or a pregnant woman, or on
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थः श्लोकः ॥ ८.४०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-407	But a woman who has been pregnant two months or more, an ascetic, a hermit in the forest, and Brahmanas who are students of the Veda, shall not be made to pay toll at a ferry.
 </details>

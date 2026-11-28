@@ -3,6 +3,11 @@ title = "193 उपधाभिश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+193	That man who by false pretences may possess himself of another's property, shall be publicly punished by various (modes of) corporal (or capital) chastisement, together with his accomplices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who may appropriate, by fraudulent means, the property of another person, should be punished publicly, along with his accomplices, with various modes of death.—(193)
@@ -78,9 +83,4 @@ bailed it, in the very manner in which it was bailed.’
 <details><summary>भारुचिः</summary>
 
 पवित्रासनेनाशादानेन स्वकलत्रसं[भोग]न्यासेनागामिकालोपकारप्रदर्शनेनेत्य् एवमादिभिर् उपधाभिः परद्रव्यापहारी ससहायो विविधैर् वधिः प्रकाशम् अनुशासनीयः, येन कष्ट[तरस् तदीयनिग्रहस् स]र्वद्रव्यापहारेणेति ॥ ८.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	That man who by false pretences may possess himself of another's property, shall be publicly punished by various (modes of) corporal (or capital) chastisement, together with his accomplices.
 </details>

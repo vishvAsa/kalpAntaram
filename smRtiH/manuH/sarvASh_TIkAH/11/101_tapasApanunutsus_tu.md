@@ -3,6 +3,11 @@ title = "101 तपसापनुनुत्सुस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+102	He who desires to remove by austerities the guilt of stealing the gold (of a Brahmana), shall perform the penance (prescribed) for the slayer of a Brahmana, (living) in a forest and dressed in (garments) made of bark.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person is desirous of removing the guilt of stealing gold by means of penance, he should perform the penance prescribed for the slayer of a Brāhmaṇa,—living in a forest, clothed in rags.—(101)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 11.99].
 <details><summary>भारुचिः</summary>
 
 त्रिभिः श्लोकैः सुवर्णस्तेयप्रायश्चित्तविधिः । क्षत्रियादीनां च विशेषेण प्रायश्चित्तविधेर् अनाम्नातत्वात् **सुवर्णस्तेयकृद् विप्र** इति यद् इदं विप्रग्रहणम् एतत् सर्ववर्णप्रदर्शनार्थं विज्ञेयम् । तथा "ब्राह्मणस् तपसैव वा" इति यद् उक्तम् अत्रेदम् उच्यते । न हि तपश् शक्यते क्षत्रियादिवर्णानां प्रतिषेद्धुम् । अपरे त्व् एतस्माद् यत्नात् ब्राह्मणस्याइवैकस्य तपः नेतरेषां वर्णानाम् इति मन्यन्ते । राजाभिगमनस्य च राजधर्मेषु सिद्धस्यापि सतः पुनर् इहोपदेशः प्रायश्चित्तार्थः, तत्र च राजदण्डार्थः, तपोविधित्सया वा पुनर्ग्रहणम् । ब्राह्मणस्य च वधो नास्तीति तत्रैवोक्तम् । निगदव्याख्यातम् अन्यत् ॥ ११.९८–१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	He who desires to remove by austerities the guilt of stealing the gold (of a Brahmana), shall perform the penance (prescribed) for the slayer of a Brahmana, (living) in a forest and dressed in (garments) made of bark.
 </details>

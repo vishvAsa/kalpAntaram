@@ -3,6 +3,11 @@ title = "011 अर्थस्य सङ्ग्रहे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+011	Let the (husband) employ his (wife) in the collection and expenditure of his wealth, in keeping (everything) clean, in (the fulfilment of) religious duties, in the preparation of his food, and in looking after the household utensils.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall employ her in the accumulation and disbursement of wealth, as also in cleanliness, in religious acts, in the cooking of food and in taking care of the household furniture.—(11)
@@ -74,9 +79,4 @@ articles in good array, to maintain saving habits, to be careful with her domest
 <details><summary>भारुचिः</summary>
 
 पारीणह्यम् आसनशयनोपधानास्त्रणादि "पत्नी हि पारीणह्यस्येशे" इति श्रुतेः ॥ ९.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	Let the (husband) employ his (wife) in the collection and expenditure of his wealth, in keeping (everything) clean, in (the fulfilment of) religious duties, in the preparation of his food, and in looking after the household utensils.
 </details>

@@ -3,6 +3,11 @@ title = "405 भाण्डपूर्णानि यानानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+405	Carts (laden) with vessels full (of merchandise) shall be made to pay toll at a ferry according to the value (of the goods), empty vessels and men without luggage some trifle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Carts laden with commodities should be made to pay the ferry-toll according to their value; those not laden with commodities may pay a triple, as also men without luggage.—(405)
@@ -75,9 +80,4 @@ See Comparative notes for [Verse 8.404].
 <details><summary>भारुचिः</summary>
 
 कर्मद्रव्यानुरूप्येण पूर्णानि यानानि दद्युः । अपरिच्छदा अपि यत् किंचिद् दद्युः । रिक्तकस्यैको ऽर्धपादः ॥ ८.४०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-405	Carts (laden) with vessels full (of merchandise) shall be made to pay toll at a ferry according to the value (of the goods), empty vessels and men without luggage some trifle.
 </details>

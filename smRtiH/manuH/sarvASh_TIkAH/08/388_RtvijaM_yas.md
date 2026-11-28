@@ -3,6 +3,11 @@ title = "388 ऋत्विजं यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+388	A sacrificer who forsakes an officiating priest, and an officiating priest who forsakes a sacrificer, (each being) able to perform his work and not contaminated (by grievous crimes), must each be fined one hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a sacrificer forsakes an officiating priest, and if an officiating priest forsakes a sacrificer,—each being capable of doing the work and free from disqualifications,—their punishment is one hundred each—(388).
@@ -83,9 +88,4 @@ seq.\]]
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः ॥ ८.३८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-388	A sacrificer who forsakes an officiating priest, and an officiating priest who forsakes a sacrificer, (each being) able to perform his work and not contaminated (by grievous crimes), must each be fined one hundred (panas).
 </details>

@@ -3,6 +3,11 @@ title = "012 देवताभ्यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	Having offered those most pure sacrificial viands, consisting of the produce of the forest, he may use the remainder for himself, (mixed with) salt prepared by himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having offered to the gods that most pure offering consisting of wild-growing things, he shall take to himself the remnant, as also the salt prepared by himself—(12).
@@ -44,9 +49,4 @@ This verse is quoted in *Mitākṣarā* (on 3.46), which explains that the salt 
 <details><summary>भारुचिः</summary>
 
 तच्छेषवृत्तितास्य नियम्यते ॥ ६.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	Having offered those most pure sacrificial viands, consisting of the produce of the forest, he may use the remainder for himself, (mixed with) salt prepared by himself.
 </details>

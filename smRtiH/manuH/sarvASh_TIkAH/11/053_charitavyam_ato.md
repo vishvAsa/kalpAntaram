@@ -3,6 +3,11 @@ title = "053 चरितव्यम् अतो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Penances, therefore, must always be performed for the sake of purification, because those whose sins have not been expiated, are born (again) with disgraceful marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because persons with sins unexpiated are born with disgraceful marks, therefore expiatory rites shall always be performed, for the purpose of purification.—(53)
@@ -63,9 +68,4 @@ should perform expiatory penances; thus do the people and his own self become ap
 > **निन्द्यैर् हि लक्षणैर् युक्ता जायन्ते ऽनिष्कृतैनसः  ॥ ११.५२ ॥**
 
 एवं च सतीयं पापकृद्वरणना षड्भिः श्लोकैः प्रायश्चित्तानुष्ठानप्रशंसार्था विज्ञेयेति । अधुना त्व् अभिहितकारणानि प्रायश्चित्तान्य् उच्यन्ते ॥ ११.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Penances, therefore, must always be performed for the sake of purification, because those whose sins have not been expiated, are born (again) with disgraceful marks.
 </details>

@@ -3,6 +3,11 @@ title = "323 दत्त्वा धनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+323	But (a king who feels his end drawing nigh) shall bestow all his wealth, accumulated from fines, on Brahmanas, make over his kingdom to his son, and then seek death in battle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Bestowing his wealth, obtained from all kinds of fines, upon Brāhmaṇas, and making over the kingdom to his son, the king shall bring about his departure in battle.—(323)
@@ -78,9 +83,4 @@ This verse is quoted in *Rājanītiratnākara* (p. 40a).
 <details><summary>भारुचिः</summary>
 
 प्रायणं च राज्ञः प्रथमकल्पः । अतस् तदभाव इतरे कल्पा यथा स्युः स्वकामप्रायणाविरोधश् चास्य व्याख्यातः ॥ ९.३२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-323	But (a king who feels his end drawing nigh) shall bestow all his wealth, accumulated from fines, on Brahmanas, make over his kingdom to his son, and then seek death in battle.
 </details>

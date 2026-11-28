@@ -3,6 +3,11 @@ title = "174 यस् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+174	But that evil-minded king who in his folly decides causes unjustly, his enemies soon subjugate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If an evil-minded king, through folly, deal with cases unjustly,—his enemies bring him under their control in no time.—(174)
@@ -53,9 +58,4 @@ worlds; otherwise it makes them discomforted.’
 <details><summary>भारुचिः</summary>
 
 अपरक्तप्रकृतिम्, बहुकृत्यवन्तं वृद्धपर्यवसानादिभिः । पुनर् आहितविज्ञाननिर्णयः सन् राजा — ॥ ८.१७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	But that evil-minded king who in his folly decides causes unjustly, his enemies soon subjugate.
 </details>

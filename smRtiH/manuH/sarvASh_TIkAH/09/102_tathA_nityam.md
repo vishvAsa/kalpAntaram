@@ -3,6 +3,11 @@ title = "102 तथा नित्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+102	Let man and woman, united in marriage, constantly exert themselves, that (they may not be) disunited (and) may not violate their mutual fidelity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Man and wife, after they have passed through the rites, should always so exert themselves that they may not become separated and be unfaithful to each other.—(102)
@@ -41,9 +46,4 @@ This verse is quoted in *Vivādaratnākara* (p. 421).
 <details><summary>भारुचिः</summary>
 
 विहितस्य स्त्रीपुंधर्मस्यानेकप्रकारस्यास्मिन् प्रकरणे तदनुष्ठानादरार्थम् इदम् उक्तानुकीर्तनम् ॥ ९.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	Let man and woman, united in marriage, constantly exert themselves, that (they may not be) disunited (and) may not violate their mutual fidelity.
 </details>

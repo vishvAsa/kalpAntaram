@@ -3,6 +3,11 @@ title = "117 संसारगमनञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The threefold transmigration of the Soul, arising from actions,—the highest good,—and the examination of the good and bad features of actions.—(117)
@@ -35,9 +40,4 @@ See 12. 51 *et seq*.
 <details><summary>गोविन्दराजः</summary>
 
 **संसारगमनम्** इति ॥ १.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,
 </details>

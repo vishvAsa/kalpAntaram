@@ -2,6 +2,11 @@
 title = "203 दैवकार्याद् द्विजातीनाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For twice-born men, the rite in honour of the Pitṛs excels that in honour of the gods; the rite in honour of the gods has been declared to be the previous sustainer of the rite in honour of the Pitṛs.—(203)
@@ -40,11 +45,6 @@ the annual Śrāddha to individual ancestors,—if one performs other five sacri
 <details><summary>गोविन्दराजः</summary>
 
 **देवकार्याद्** इति । दैवस्य देवकर्मणः सकाशात् पित्र्यं कर्म द्विजातीनां विशेषेण कर्तव्यतयोपदिश्यते । प्रधानं हि तत् यस्मात् दैवकर्म पितृकर्मणः पूर्व सत् परिपूरकं स्मृतम् । एवं च तस्य पितृकार्यपरिपूरकवद् अङ्गत्वम् इति ॥ ३.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
 </details>
 
 <details><summary>भारुचिः</summary>

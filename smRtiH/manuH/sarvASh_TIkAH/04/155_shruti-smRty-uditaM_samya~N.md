@@ -2,6 +2,11 @@
 title = "155 श्रुति-स्मृत्य्-उदितं सम्यङ्"
 +++
 
+<details><summary>Bühler</summary>
+
+155	Let him, untired, follow the conduct of virtuous men, connected with his occupations, which has been fully declared in the revealed texts and in the sacred tradition (Smriti) and is the root of the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the Parvas he should go to the gods, and to the righteous Brāhmaṇas, to the King for protection, and also to the superiors.—(153)
@@ -75,11 +80,6 @@ which has been ordained in the Śruti and the Smṛti.’
 <details><summary>गोविन्दराजः</summary>
 
 **श्रुतिस्मृत्युदितम्** इति । श्रुतिस्मृतिभ्यां सम्यग् उक्तं स्वेषु चाध्ययनयागादिष्व् अङ्गत्वेन सम्बद्धं धर्मस्य मूलभूतं साध्वाचारम् अनलसः सन् अभीक्ष्णम् अनुतिष्ठेत्॥ ४.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	Let him, untired, follow the conduct of virtuous men, connected with his occupations, which has been fully declared in the revealed texts and in the sacred tradition (Smriti) and is the root of the sacred law.
 </details>
 
 <details><summary>भारुचिः</summary>

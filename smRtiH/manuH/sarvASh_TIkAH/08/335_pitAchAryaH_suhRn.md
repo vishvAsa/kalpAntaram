@@ -3,6 +3,11 @@ title = "335 पिताचार्यः सुहृन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+335	Neither a father, nor a teacher, nor a friend, nor a mother, nor a wife, nor a son, nor a domestic priest must be left unpunished by a king, if they do not keep within their duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither the father or the preceptor or the friend or the mother or the wife or the son or the priest is unpunishable for the King, when they do not keep within their duty.—(335)
@@ -77,9 +82,4 @@ learned should not suffer corporal punishment, or imprisonment, or fine or banis
 <details><summary>भारुचिः</summary>
 
 प्रकरणात् सुवर्णस्तेयदण्डो ऽयम् । यदि त्व् अन्यत्रापि कार्यसामान्यात् कुप्यते ततो ऽयं सर्वव्यतिक्रमेषु प्रकरणानुक्रमेण दण्डः पित्रादीनां विज्ञेयः । गुरुत्वात् परिपालनीयत्वं येनैषाम् अत्यन्तम् । अतो ऽदण्ड्याशङ्कानिवृत्त्यर्थम् एषाम् इदं दण्डवचनम् । अन्ये त्व् अर्थवादम् इमं स्तेयदण्डस्यान्यपुरुषविषयस्य कल्पयन्ति । तद् अयुक्तम्, उत्तरश्लोके राजदण्डविरोधात् ॥ ८.३३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-335	Neither a father, nor a teacher, nor a friend, nor a mother, nor a wife, nor a son, nor a domestic priest must be left unpunished by a king, if they do not keep within their duty.
 </details>

@@ -3,6 +3,11 @@ title = "315 स्कन्धेनादाय मुसलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+315	(And he must) carry on his shoulder a pestle, or a club of Khadira wood, or a spear sharp at both ends, or an iron staff.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —Carrying on his shoulder a pestle, or a Club of khadira wood, or a spear sharp at both ends, or an iron staff.—(315)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 8.314].
 <details><summary>भारुचिः</summary>
 
 एकार्थविषयो विकल्पो मुसलादीनां ब्राह्मणवर्जम् । अन्ये तु वर्णक्रमेणैषां मुसलादीनाम् उपदेशं मन्यन्ते । एवं च स स्वयम् उपगतः श्रद्दधानतया क्षत्रियादिर् यथाशास्त्रम् ॥ ८.३१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-315	(And he must) carry on his shoulder a pestle, or a club of Khadira wood, or a spear sharp at both ends, or an iron staff.
 </details>

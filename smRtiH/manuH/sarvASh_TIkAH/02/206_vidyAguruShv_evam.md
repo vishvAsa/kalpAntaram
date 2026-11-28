@@ -2,6 +2,11 @@
 title = "206 विद्यागुरुष्व् एवम्"
 +++
 
+<details><summary>Bühler</summary>
+
+206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This same shall be his constant behaviour towards his intellectual teachers, towards his blood-relations, towards persons restraining him from sin and towards those who give him salutary advice.—(206)
@@ -64,11 +69,6 @@ prevents him from doing wrong, the sub-teacher, the paternal uncle, the maternal
 <details><summary>गोविन्दराजः</summary>
 
 **विद्यागुरुष्व् एवेम् एवेति** । आचार्याद् अन्येषु उपाध्यायादिषु **विद्यागुरुष्व् एवम् एव **वर्तेत । तथा **स्वयोनिषु गुरुषु** अधर्मनिवर्तकौषधाद्युपदेष्टृष्व् एव **नित्या वृत्तिः** ॥ २.२०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
 </details>
 
 <details><summary>भारुचिः</summary>

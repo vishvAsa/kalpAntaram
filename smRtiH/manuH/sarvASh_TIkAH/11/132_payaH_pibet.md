@@ -3,6 +3,11 @@ title = "132 पयः पिबेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+133	Or he may drink milk during three days, or walk one hundred yoganas, or bathe in a river, or mutter the hymn addressed to the Waters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may drink milk only for three days, or walk over eight hundred miles of road, or bathe in a stream, or recite the hymn addressed to the Waters.—(132)
@@ -78,9 +83,4 @@ See Comparative notes for [Verse 11.131].
 > **उपस्पृशेत् स्रवन्त्यां वा सूक्तं वाब्दैवतं जपेत्  ॥ ११.१३१ ॥**
 
 समुद्रगामिन्यां विशिष्टायां स्नायाद् इत्य् अर्थः । सपरिष्करस्नानोपदेशपरतश् चैतत् सामर्थ्याद् विशिष्टम् उपदिश्यते । **सूक्तं वाब्दैवतं जपेत्** । सर्वेषु च पयःपानं सामर्थ्याद् उपवासो वा त्रिरात्रं सप्रत्ययाप्रत्ययवधोपेक्षया ॥ ११.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Or he may drink milk during three days, or walk one hundred yoganas, or bathe in a river, or mutter the hymn addressed to the Waters.
 </details>

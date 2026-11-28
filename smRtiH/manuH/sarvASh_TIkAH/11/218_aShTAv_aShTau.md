@@ -3,6 +3,11 @@ title = "218 अष्टाव् अष्टौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+219	He who performs the lunar penance of ascetics, shall eat (during a month) daily at midday eight mouthfuls, controlling himself and consuming sacrificial food (only).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who performs the ‘Yati-Cāndrāyaṇa’ shall eat daily at midday eight morsels, controlling himself and eating only ‘sacrificial food.’—(218)
@@ -51,9 +56,4 @@ the penance called *Yati-Cāndrāyaṇa*.’
 <details><summary>गोविन्दराजः</summary>
 
 **अष्टाव् **इति । **नियतात्मा हव्ष्यास्येति** । यतिचान्द्रायणाख्यं चान्द्रायणं कुर्वन् विगतान्नगन्धो हविष्यस्य ओदनादेर् अष्टाव् अष्टौ ग्रासान् मध्याह्नकाले समश्नीयात् ॥ ११.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	He who performs the lunar penance of ascetics, shall eat (during a month) daily at midday eight mouthfuls, controlling himself and consuming sacrificial food (only).
 </details>

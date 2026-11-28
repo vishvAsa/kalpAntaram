@@ -2,6 +2,11 @@
 title = "001 विद्वद्भिः सेवितः"
 +++
 
+<details><summary>Bühler</summary>
+
+001	Learn that sacred law which is followed by men learned (in the Veda) and assented to in their hearts by the virtuous, who are ever exempt from hatred and inordinate affection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learn that Dharma, which has been ever followed by, and sanctioned by the heart of, the learned and the good, who are free from love and hate.—(1)
@@ -187,11 +192,6 @@ Nyāya view (quoted in Vīramitrodaya-Paribhāṣā, p.29).—‘Dharma is that 
 <details><summary>गोविन्दराजः</summary>
 
 ॐ नमः सरस्वत्यै । एवम् अध्ययनश्रवणार्थं महाप्रयोजनतां शाश्त्रस्य प्रतिपाद्याधुना प्रकृताभिधानार्थम् उपक्रमते । तत्र तावद् अभिधास्यमानं धर्मसामान्यलक्षणं सकलशास्त्रव्यापकत्वेन परिभाषार्थम् आह **विद्वद्भिर् **इति । धर्मस्यानन्यप्रमाणत्वाद् विद्वद्भिर् वेदार्थज्ञैः **सद्भिः **धार्मिकैः सर्वदा **रागद्वेषशून्यैः **आचरितो **हृदयेनाभ्यनुज्ञातो **ऽन्तःकरण[वि]चिकित्साशून्यो **यो धर्मः** अदृष्टार्थकर्तव्यरूपस् तं शृणुत ॥ २.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	Learn that sacred law which is followed by men learned (in the Veda) and assented to in their hearts by the virtuous, who are ever exempt from hatred and inordinate affection.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "280 रात्रौ श्राद्धम्"
 +++
 
+<details><summary>Bühler</summary>
+
+280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should not perform Śrāddha at night; for the night has been declared to be ‘fit for demons;’—nor at the two twilights, nor when the sun has just risen.—(280)
@@ -102,11 +107,6 @@ except during an eclipse; during the two twilights however, it should never be p
 <details><summary>गोविन्दराजः</summary>
 
 **रात्राव्** इति । **रात्रौ श्राद्धं न कुर्वीत **श्राद्धस्य ध्वंसनसामान्यात् **राक्षसी **चासौ मन्वादिभिः कथिता । तथा **सन्ध्यहोः **“आदित्ये ऽचिरोदिते” इति रात्र्यादौ निषेधं कुर्वन् अपराह्णाद् अन्यत्रापि तिथिच्छेदग्रहणाद्यपेक्षया श्राद्धम् अस्तीति ज्ञापयति मासानुमासिकश्राद्धाद्यसम्भवेन ॥ ३.२८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.
 </details>
 
 <details><summary>भारुचिः</summary>

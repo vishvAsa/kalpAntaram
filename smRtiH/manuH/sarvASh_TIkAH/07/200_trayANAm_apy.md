@@ -3,6 +3,11 @@ title = "200 त्रयाणाम् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+200	(But) if even those three before-mentioned expedients fail, then let him, duly exerting himself, fight in such a manner that he may completely conquer his enemies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But in the event of the three aforesaid expedients failing, he shall fight in such a manner as to conquer his enemies completely.—(200)
@@ -62,9 +67,4 @@ reading ‘*saṃyattaḥ*’ (for ‘*sampannaḥ*’), explains it as ‘with 
 <details><summary>भारुचिः</summary>
 
 विजिगीषोः सामादीनां परिक्षये साधकत्वम् । तथा संदिग्धे विजये कामं युध्येत, यस्माज् जये ऽर्थः पराजये स्वर्ग इति । युद्धम् एव तत्र ज्यायः । यदार्थसंदिग्धः पराजयस् तदा निष्पतनं साधीयः- निर्गतो हि पुनः कार्यम् आसादयति ॥ ७.२०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	(But) if even those three before-mentioned expedients fail, then let him, duly exerting himself, fight in such a manner that he may completely conquer his enemies.
 </details>

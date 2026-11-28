@@ -3,6 +3,11 @@ title = "071 यद् एतत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This period of the four time-cycles that have been just computed,—twelve thousand such periods are called the ‘time-cycle of the gods.’—(71)
@@ -51,9 +56,4 @@ words of the text.
 <details><summary>गोविन्दराजः</summary>
 
 **यद् **इति । **यद् एतत्** परिगणित्म् आदाव् अस्मात् श्लोकात् प्राक् चतुर्युगम् एतद् द्वादश्सहस्रगुणं देवयुगं वेदयुगं नाम कालः ॥ १.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.
 </details>

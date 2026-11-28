@@ -2,6 +2,11 @@
 title = "063 स्वायम्भुवाद्याः सप्तैते"
 +++
 
+<details><summary>Bühler</summary>
+
+063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These seven almighty Manus, of whom Svāyambhuva is the first, having called into existence the whole of this world, consisting of movable and immovable beings, sustained it, each during his own regime.—(63)
@@ -41,11 +46,6 @@ But this is not right; it is only when the term ‘*antara*’ occurs along with
 <details><summary>गोविन्दराजः</summary>
 
 **स्वायम्भुवाद् या** इति । अनन्तरोक्ताः षट् स्वायम्भुवश् च एवं **सप्त** । **एते **स्वायम्भुवप्रमुखाः **मनवो **बहुतेजसः । आत्मीयात्मीयाधिकारकाले **इदं** जङ्गमस्थावरम् **उत्पाद्य आपुः **प्रजाः पालितवन्तः ॥ १.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).
 </details>
 
 <details><summary>भारुचिः</summary>

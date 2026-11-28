@@ -3,6 +3,11 @@ title = "374 शूद्रो गुप्तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+374	A Sudra who has intercourse with a woman of a twice-born caste (varna), guarded or unguarded, (shall be punished in the following manner): if she was unguarded, he loses the part (offending) and all his property; if she was guarded, everything (even his life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A śūdra having intercourse with a twice-born woman, protected or unprotected, shall be deprived of his limb and his whole property, in the case of the unprotected woman, and of everything in that of the protected.—(374).
@@ -110,9 +115,4 @@ Brāhmaṇa woman, the King shall put him to death on a heated iron-bed, burning
 <details><summary>भारुचिः</summary>
 
 **एकाङ्गं** च प्रधानम् अत्र यद् अपराधसाधनं तत् प्रगृह्यते । तेनास्य हानिः कर्तव्या । गुप्ते तूभयेन हीयते । सत्य् अपि चाविशेषवचने वर्णानाम् औत्तमाधर्यवद् दण्डो ऽपि तथा स्यात्, यथान्यत्र । विषमसमीकरणं तु दण्डसामान्याद् अन्याय्यं स्यात् ॥ ३.३७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-374	A Sudra who has intercourse with a woman of a twice-born caste (varna), guarded or unguarded, (shall be punished in the following manner): if she was unguarded, he loses the part (offending) and all his property; if she was guarded, everything (even his life).
 </details>

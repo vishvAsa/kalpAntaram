@@ -3,6 +3,11 @@ title = "141 अमात्यमुख्यन् धर्मज्ञम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+141	When he is tired with the inspection of the business of men, let him place on that seat (of justice) his chief minister, (who must be) acquainted with the law, wise, self-controlled, and descended from a (noble) family.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When tired with looking after the affairs of men, he shall place in that place his chief minister, who is conversant with the law, wise, self-controlled, and born of a noble family.—(141)
@@ -47,9 +52,4 @@ shall look after the cases.’
 <details><summary>भारुचिः</summary>
 
 कार्यदर्शने **खिन्नः** सर्वोत्कृष्टम् अमात्यं दर्शनस्थाने स्थापयेत् ॥ ७.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	When he is tired with the inspection of the business of men, let him place on that seat (of justice) his chief minister, (who must be) acquainted with the law, wise, self-controlled, and descended from a (noble) family.
 </details>

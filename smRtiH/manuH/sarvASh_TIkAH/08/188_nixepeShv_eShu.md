@@ -3,6 +3,11 @@ title = "188 निक्षेपेष्व् एषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+188	Such is the rule for obtaining back all those open deposits; in the case of a sealed deposit (the depositary) shall incur no (censure), unless he has taken out something.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of all deposits, such should be the method of restoration; but in the case of a sealed deposit, he should incur nothing, if he does not extract anything from it.—(188)
@@ -61,9 +66,4 @@ deposit- the *Yācita*, the *Anvāhita*, the *Nyāsa* and the *Nikṣepa*.’
 <details><summary>भारुचिः</summary>
 
 तदीयं द्रव्यं रूपतः परिमाणतश् च **समुद्र** एव निक्षेपो धारयितव्यः । न च समुद्रो निक्षेपः प्रत्यर्पित इत्य् एतावता निक्षेपधारी मुच्यते, यदि तस्मान् न किंचित् संहरति प्र[ति]मुद्राकरणेनापस्रावणादिना वान्[येन्]ओपायेन । अपरे ऽपि वर्णयन्ति समुद्रयानरूढानां निक्षेपधारी यानव्यापत्तौ सति यदि किंचिद् आत्मीयं न संहरत्य् अर्थं नाभियोज्यो भवति निक्षेप्तुः । एतद् उक्तं भवति । परित्यज्यात्मीयं निक्षेपरक्षणे यत्नः करणीय इति ॥ ८.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	Such is the rule for obtaining back all those open deposits; in the case of a sealed deposit (the depositary) shall incur no (censure), unless he has taken out something.
 </details>

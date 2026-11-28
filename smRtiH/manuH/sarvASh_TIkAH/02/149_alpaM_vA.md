@@ -2,6 +2,11 @@
 title = "149 अल्पं वा"
 +++
 
+<details><summary>Bühler</summary>
+
+149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one benefits him by means of knowledge, more or less,—him also one should regard herb as the “mentor,” by virtue of that benefit of knowledge.—(149)
@@ -66,11 +71,6 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 <details><summary>गोविन्दराजः</summary>
 
 अपरं गुरुलक्षणम् आह पूजार्थम् **अल्पम्** इति । **यस्य **कस्यचित् **श्रुतस्याल्पं बहु वा **यो बोधयति **तम् अपीह **पूजाप्रकरणे तेन श्रुतोपकारेण जानीयात् ॥ २.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "186 शत्रुसेविनि मित्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+186	Let him be very much on his guard against a friend who secretly serves the enemy and against (deserters) who return (from the enemy's camp); for such (men are) the most dangerous foes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be very much on his guard against an ally who may be secretly serving the enemy, as also against one who has gone away and returned; as he is the more dangerous enemy.—(1 86)
@@ -47,9 +52,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 397).
 <details><summary>भारुचिः</summary>
 
 मित्रदुःखगतप्रत्यागतयोर् **युक्ततरो** भूत्वा सुतरां न विश्वसेत् ॥ ७.१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-186	Let him be very much on his guard against a friend who secretly serves the enemy and against (deserters) who return (from the enemy's camp); for such (men are) the most dangerous foes.
 </details>

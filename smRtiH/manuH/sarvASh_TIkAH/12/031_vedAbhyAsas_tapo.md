@@ -3,6 +3,11 @@ title = "031 वेदाभ्यासस् तपो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	The study of the Vedas, austerity, (the pursuit of) knowledge, purity, control over the organs, the performance of meritorious acts and meditation on the Soul, (are) the marks of the quality of Goodness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Vedic study, austerity, knowledge, purity, control over the organs, practice of virtue and meditation on the Soul,—are the characteristics of the quality of ‘Sattva.’—(31)
@@ -49,9 +54,4 @@ below.)]
 <details><summary>गोविन्दराजः</summary>
 
 **वेदाभ्यास** इति । वेदाभ्यासकृच्छ्राद्याचरणं शास्त्रावबोधो मृद्वारिशौचम् इन्द्रियसंयमो दानादिधर्मानुष्ठानं चात्मध्यानम् इत्य् एतत् सत्त्वाख्यगुणसम्बन्धिकार्यम् ॥ १२.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	The study of the Vedas, austerity, (the pursuit of) knowledge, purity, control over the organs, the performance of meritorious acts and meditation on the Soul, (are) the marks of the quality of Goodness.
 </details>

@@ -3,6 +3,11 @@ title = "119 एषाम् अन्यतमे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+119	I will propound in (due) order the particular punishments for him who gives false evidence from any one of these motives.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to explain, in due order, the particular punishments for him who should give false evidence from any one of these causes.—(119)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 8.118].
 <details><summary>गोविन्दराजः</summary>
 
 **एषाम्** इति । एषां लोभादीनाम् अन्यतमस्मिन् निमित्ते सति यो ऽसत्यं साक्ष्यं ब्रूयात् तस्य दण्डविशेषात् क्रमेण वक्ष्यामि ॥ ८.११९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-119	I will propound in (due) order the particular punishments for him who gives false evidence from any one of these motives.
 </details>

@@ -2,6 +2,11 @@
 title = "138 चक्रिणो दशमीस्थस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+138	Way must be made for a man in a carriage, for one who is above ninety years old, for one diseased, for the carrier of a burden, for a woman, for a Snataka, for the king, and for a bridegroom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Way should be made for one in a chariot, for one who is in the tenth stage of life, for one suffering from disease, for one carrying a burden, for a woman, for the person who has just passed out of studentship, for the king and for the bridegroom.—(138)
@@ -87,11 +92,6 @@ the aged, the man with a load, the King, the Accomplished Student, a woman, the 
 <details><summary>गोविन्दराजः</summary>
 
 **चक्रिण** इति । चक्रयुक्तगन्त्र्यादियानारूढस्य अतिवृद्धातुर**भारिकस्त्रीणां** च राजशब्दसन्निधानाच् च ब्राह्मणस्यैव कृतसमावर्तनस्नानस्य भूपतिविवाहार्थप्रस्थितयोश् च गमनोपरोधिपथो ऽपक्रामेद् इति पूजाप्रकरणात् एषाम् एतत् पूजैकदेशविधानम् ॥ १.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	Way must be made for a man in a carriage, for one who is above ninety years old, for one diseased, for the carrier of a burden, for a woman, for a Snataka, for the king, and for a bridegroom.
 </details>
 
 <details><summary>भारुचिः</summary>

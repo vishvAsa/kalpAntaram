@@ -3,6 +3,11 @@ title = "125 राजा कर्मसु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+125	For women employed in the royal service and for menial servants, let him fix a daily maintenance, in proportion to their position and to their work.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For women employed in the King’s service and also for menial servants, he shall fix daily wages, in proportion to their position and work.—(125)
@@ -48,9 +53,4 @@ kingdom he shall apportion the livelihood of his dependents; or he may provide t
 <details><summary>भारुचिः</summary>
 
 वस्त्रसंस्काराद्युपलेपनभोजनादिलक्षणेत्य् अर्थः॥ ७.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	For women employed in the royal service and for menial servants, let him fix a daily maintenance, in proportion to their position and to their work.
 </details>

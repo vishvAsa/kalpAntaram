@@ -3,6 +3,11 @@ title = "044 कपालं वृक्षमूलानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	A potsherd (instead of an alms-bowl), the roots of trees (for a dwelling), coarse worn-out garments, life in solitude and indifference towards everything, are the marks of one who has attained liberation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The potsherd, the roots of trees, coarse cloth, solitude, e quality towards all,—are the mark of the liberated man.—(44).
@@ -65,9 +70,4 @@ a tree.’
 <details><summary>भारुचिः</summary>
 
 **समता**दिगुणविधानार्थम् इदं भिक्षोः ॥ ६.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	A potsherd (instead of an alms-bowl), the roots of trees (for a dwelling), coarse worn-out garments, life in solitude and indifference towards everything, are the marks of one who has attained liberation.
 </details>

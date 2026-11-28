@@ -3,6 +3,11 @@ title = "367 अभिषह्य तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+367	But if any man through insolence forcibly contaminates a maiden, two of his fingers shall be instantly cut off, and he shall pay a fine of six hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if any man wantonly defiles a maiden through sheer audacity, his fingers should be instantly clipped off, or he should be fined six hundred.—(367)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 अकामां सेवमानस्याङ्गुलिच्छेदेनं दण्डं च **षट्शतम्** । अन्येषां तु पाठः- "अविषह्यां तु यः कन्यां कुर्याद् दर्पेण मानवः" इति ॥ ८.३६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-367	But if any man through insolence forcibly contaminates a maiden, two of his fingers shall be instantly cut off, and he shall pay a fine of six hundred (panas).
 </details>

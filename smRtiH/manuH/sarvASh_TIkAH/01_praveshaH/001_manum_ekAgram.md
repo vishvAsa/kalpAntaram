@@ -2,6 +2,11 @@
 title = "001 मनुम् एकाग्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+001	The great sages approached Manu, who was seated with a collected mind, and, having duly worshipped him, spoke as follows:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Great Sages, having approached Manu, paid their respect to him in due form, and finding him seated with mind calm and collected, addressed him these words—(1).
@@ -85,11 +90,6 @@ P. 2, l. 23—‘*Dharmaśabdaśca*—This is a paraphrase of Jaimini’s defini
 इह भृगुशिष्यः कश्चिद् विच्छिन्नपारम्पर्यतः स्मृत्यर्थप्रबन्धम् इदम् आह – स्वेच्छागृहीतशरीराय प्रजापतये ऽमिततेजसे प्रणम्य मन्वभिहितान् नानाप्रकारान् धर्मान् अदृष्टार्थकर्तव्यतारूपान् इष्टानिष्टप्राप्तिपरिहारप्रयोजनस्य वेदमूलत्वस्यैषाम् इष्यमाणत्वात् नित्यान् कथ्यिष्यामि । अधर्माणां वक्ष्यमाणानाम् अपीह पृथगप्रतिज्ञानं निन्दितकर्माभ्यासेन पातित्ये सति धर्मानुष्ठानानधिकारापत्तेः धर्मप्रतिज्ञायाम् एवान्तर्भावात् । मनुर् नाम महर्षिः अशेषवेदार्थादिज्ञानेन प्राप्तमनुसञ्ज्ञः आगमपरम्परया सकलविद्वज्जनकर्णचरीभूतसर्गस्थितिप्रलयकरणाधिकृतः । स्वयम्भुव इति क्रियाग्रहणम् अपि कर्तव्यम् इति सम्प्रदाने चतुर्थी । वेदार्थोपनिबन्धकत्वेन छन्दस्तुल्यत्वात् स्मृतीनां तु दुष्टा क्वचिद् अत्र छान्दसी रूपसिद्धिः ॥
 
 **मनुम्** इति । तं मनुम् **एकाग्रम् आसीनम्** अविक्षिप्तचित्तं स्थितं आभिमुख्येन आदरतो गत्वा । **महर्षयः** अणिमादिगुणयोगान् महान्तः ऋग्यजुःसामदर्शनान् महर्षयः । **यथान्यायं** शास्त्रोक्तमर्यादानतिक्रमेण प्रकर्षेण पूजयित्वा **इदं** समन्तरवक्ष्यमाणं **वाक्यम्** उक्तवन्तः ॥ १.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	The great sages approached Manu, who was seated with a collected mind, and, having duly worshipped him, spoke as follows:
 </details>
 
 <details><summary>भारुचिः</summary>

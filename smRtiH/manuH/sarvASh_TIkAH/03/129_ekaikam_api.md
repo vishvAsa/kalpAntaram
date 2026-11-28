@@ -2,6 +2,11 @@
 title = "129 एकैकम् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+129	Let him feed even one learned man at (the sacrifice) to the gods, and one at (the sacrifice) to the manes; (thus) he will gain a rich reward, not (if he entertains) many who are unacquainted with the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By feeding at least one learned brāhmaṇa each at the rite performed in honour of the gods and that performed in honour of the ancestors,—one obtains a full reward; and not by feeding even many men ignorant of the Veda.’—(129)
@@ -54,11 +59,6 @@ householders, old men, persons devoted to good acts, those learned in the Veda, 
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **एकैकम् **इति । दैवपित्र्योः **एकैकम् अपि **वेदार्थविदं **भोजयेत् **। परिपूर्णं **फलं** पितृतृप्त्याख्यं **प्राप्नोति** । न त्व् अविदुषो **बहून् अपि **भोजयन् **पुष्कलं फलम् आप्नोति** इत्य् अभिधानात् ब्राह्मणस्य भोजनम् अत्र प्रधानं पिण्डदानादि तु अङ्गम् इत्य् अवसीयते ॥ ३.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	Let him feed even one learned man at (the sacrifice) to the gods, and one at (the sacrifice) to the manes; (thus) he will gain a rich reward, not (if he entertains) many who are unacquainted with the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

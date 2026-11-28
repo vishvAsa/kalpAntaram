@@ -2,6 +2,11 @@
 title = "047 तासाम् आद्याश्"
 +++
 
+<details><summary>Bühler</summary>
+
+047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of these the first four days have been deprecated, as also the eleventh and the thirteenth, the remaining ten days have been recommended.—(47)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 **तासाम् **इति । **तासां** पुनः षोडशानां रात्रीणां **आद्याश् चतस्रः** ऋतुदर्शनात् प्रभृति **चैकादशीत्रयोदश्यौ च **निन्दिताः । अतस् तासु न गन्तव्यम् । **शिष्टा दश् रात्रयो **गमने **प्रशस्ता स्युः** ॥ ३.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
 </details>
 
 <details><summary>भारुचिः</summary>

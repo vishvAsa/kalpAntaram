@@ -2,6 +2,11 @@
 title = "168 शोणितं यावतः"
 +++
 
+<details><summary>Bühler</summary>
+
+168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many particles of dust the blood takes up from the ground, during so many years is the blood-spiller devoured by others in the other world.—(168)
@@ -40,11 +45,6 @@ See Comparative notes for [Verse 4.167].
 <details><summary>गोविन्दराजः</summary>
 
 **शोणितम्** इति । प्रहृतब्राह्मणोत्पन्नं रुधिरं क्षितिपृष्ठान् यत्सङ्ख्याकान् रजःकणान् पिण्डीकरोति तत्सङ्ख्याकानि वर्षाणि रुधिरस्योत्पादकः परलोके श्वादिभिः भक्ष्यते ॥ ४.१६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.
 </details>
 
 <details><summary>भारुचिः</summary>

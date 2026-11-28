@@ -3,6 +3,11 @@ title = "153 शुक्तानि च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+154	A twice-born man who has drunk (fluids that have turned) sour, or astringent decoctions, becomes, though (these substances may) not (be specially) forbidden, impure until they have been digested.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person drinks soured liquids or decoctions,—even though they be pure,—remains impure until it has gone down.—(153)
@@ -56,9 +61,4 @@ their unmixed form, or food kept overnight, or the leaves of the *Ṛcīka* plan
 <details><summary>भारुचिः</summary>
 
 **मेध्यानि** यानि प्रतिषिद्धानि । अत्र चापकरणम् एव प्रायश्चित्तं नायत् ॥ ११.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	A twice-born man who has drunk (fluids that have turned) sour, or astringent decoctions, becomes, though (these substances may) not (be specially) forbidden, impure until they have been digested.
 </details>

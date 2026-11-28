@@ -3,6 +3,11 @@ title = "089 आहवेषु मिथो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	Those kings who, seeking to slay each other in battle, fight with the utmost exertion and do not turn back, go to heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Kings, seeking to slay each other in battle and fighting with gheat energy, without turning back, proceed to heaven.—(89)
@@ -143,9 +148,4 @@ Kṣatriya, and the Brāhmaṇa at his back; therefore he should always guard hi
 <details><summary>भारुचिः</summary>
 
 अतश् च संग्रामाद् अनिवर्तित्वं राज्ञां विशेषधर्मः । तस्य च युध्यतो नियमः शिष्यते च ॥ ७.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Those kings who, seeking to slay each other in battle, fight with the utmost exertion and do not turn back, go to heaven.
 </details>

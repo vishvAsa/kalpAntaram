@@ -2,6 +2,11 @@
 title = "032 शक्तितो ऽपचमानेभ्यो"
 +++
 
+<details><summary>Bühler</summary>
+
+032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Householder shall give as much as he can to those who do not cook their own food; and, for the sake of all living beings, he shall make apportionment, without detriment (to himself).—(32)
@@ -75,11 +80,6 @@ Do. (2.10.10).—‘Distribution of food has been laid down for such seekers for
 <details><summary>गोविन्दराजः</summary>
 
 अन्नमात्रं पुनः **शक्तत** इति । गृहस्थेन पाकरहितेभ्यः पाखण्ड्यादिभ्यो यथाशक्त्यान्नं देयम्, स्वकुटुम्बाद्नुपरोधेन वृक्षपर्यन्तेभ्यो दोह्यादिदानेन **संविभागः** कर्तव्यः ॥ ४.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
 </details>
 
 <details><summary>भारुचिः</summary>

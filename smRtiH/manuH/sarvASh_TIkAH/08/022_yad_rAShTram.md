@@ -3,6 +3,11 @@ title = "022 यद् राष्ट्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	That kingdom where Sudras are very numerous, which is infested by atheists and destitute of twice-born (inhabitants), soon entirely perishes, afflicted by famine and disease.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That kingdom where there is a majority of Śūdras, which is infested with non-believers and destitute of twice-born people, quickly perishes entirely, becoming afflicted by famine and disease.—(22)
@@ -50,9 +55,4 @@ Medhātithi does not explain ‘*Śūdra*’ here as ‘unbelievers’; he has b
 <details><summary>भारुचिः</summary>
 
 **शूद्रभूयिष्ठम्** इति धर्मानुशासितृशूद्रभूयिष्ठम् इत्य् अर्थः । एतत्साम्[अर्थ्यात् तद्]राष्ट्रं **नास्तिकाक्रान्तं** भवति । अत्र कारणं वक्ति । यस्माद् अद्विजप्रायं धर्मानुशासितृब्राह्मणरहितम् । युक्तं चैतद् । ईदृग् राष्ट्रं **विनश्यति** । अयम् अपि श्लोकः पूर्ववत् क्षत्रियवैश्यनियोगस्तुत्यर्थः । न तु जातिमात्रनियोगसुत्यर्थ इत्य् उक्तम् । यदा निराकुलो राजा स्वयं व्यवहारं द्रष्टुम् इच्छति, तदा —
-</details>
-
-<details><summary>Bühler</summary>
-
-022	That kingdom where Sudras are very numerous, which is infested by atheists and destitute of twice-born (inhabitants), soon entirely perishes, afflicted by famine and disease.
 </details>

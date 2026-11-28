@@ -3,6 +3,11 @@ title = "198 अवहार्यो भवेच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+198	If the (offender) is a kinsman (of the owner), he shall be fined six hundred panas; if he is not a kinsman, nor has any excuse, he shall be guilty of theft.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a relative, he shall be made to pay the penalty of six hundred; if he is not a relative, nor one having access to him, he shall incur the guilt of theft (specially).—(198)
@@ -78,9 +83,4 @@ which is made at an unreasonably low price, or in the interior of a house, or ou
 <details><summary>भारुचिः</summary>
 
 **अवहार्यो** दण्ड्यः **सान्वयः** सनिःसरः षट्शतं दमम् । **निरन्वयस्** तद् **अनपसरः प्राप्तः स्याच् चोरकिल्बिषम्** इत्य् अनेनापराधमहत्त्वाद् दण्डमहत्त्वं दर्शयति पूर्वस्मात् । अन्यस् त्व् आह- **अपसरः** क्रयाद् अन्यो धनागमः । एवं च सति — ॥ ८.१९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-198	If the (offender) is a kinsman (of the owner), he shall be fined six hundred panas; if he is not a kinsman, nor has any excuse, he shall be guilty of theft.
 </details>

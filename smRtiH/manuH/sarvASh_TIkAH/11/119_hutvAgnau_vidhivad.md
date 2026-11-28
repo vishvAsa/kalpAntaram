@@ -3,6 +3,11 @@ title = "119 हुत्वाग्नौ विधिवद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	Having offered according to the rule oblations in the fire, he shall finally offer (four) oblations of clarified butter to Vata, to Indra, to the teacher (of the gods, Brihaspati) and to Agni, reciting the Rik verse 'May the Maruts grant me,' &c.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having, in due form, poured oblations into the fire, he shall finally pour oblations of clarified butter to Vāta, Indra, Guru and Vahni, with the verse ‘sam, etc.’—(119)
@@ -68,9 +73,4 @@ See Comparative notes for [Verse 11.118].
 <details><summary>भारुचिः</summary>
 
 अवकीर्णीपदार्थं प्रायश्चित्तनिमित्तम् अवधारयति ॥ ११.११७–११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	Having offered according to the rule oblations in the fire, he shall finally offer (four) oblations of clarified butter to Vata, to Indra, to the teacher (of the gods, Brihaspati) and to Agni, reciting the Rik verse 'May the Maruts grant me,' &c.
 </details>

@@ -3,6 +3,11 @@ title = "310 प्रतापयुक्तस् तेजस्वी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+310	(If) he is ardent in wrath against criminals and endowed with brilliant energy, and destroys wicked vassals, then his character is said (to resemble) that of Fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always be endowed with brilliant energy and ardent in his wrath against offenders; he shall exterminate his disaffected vassals; this is the function of agni.—(310)
@@ -40,9 +45,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19).
 तथा सर्वाणि भूतानि विभ्रतः पार्थिवं व्रतम्॥ ३२१ !**
 
 यथा पृथिवी सर्वाण्युच्चावचानि स्थावरजङ्गमान्युत्कृष्टापकृष्टानि समं कृत्वा धारयते तद्वद्विद्वद्धनिकगुणवद्भूतानि तदितराणि च दीनानाथादिसर्वभूतानि रक्षणयनदानादिनासामान्येन धारयतः पृथिवीसम्बन्धि व्रतं भवति॥ ३११॥
-</details>
-
-<details><summary>Bühler</summary>
-
-310	(If) he is ardent in wrath against criminals and endowed with brilliant energy, and destroys wicked vassals, then his character is said (to resemble) that of Fire.
 </details>

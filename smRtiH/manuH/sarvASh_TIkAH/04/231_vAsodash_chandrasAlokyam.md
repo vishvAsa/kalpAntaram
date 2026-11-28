@@ -3,6 +3,11 @@ title = "231 वासोदश् चन्द्रसालोक्यम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of cloth obtains resemblance to the Moon, the giver of horse resemblance to horse-owners, the giver of the ox great good fortune, and the giver of the cow toe region of the Sun.—(231)
@@ -98,9 +103,4 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 <details><summary>गोविन्दराजः</summary>
 
 **वासोद** इति । वस्तरदश् चन्द्रेण सह समानलोकतां छन्द्र्लोकं **अश्वदः **अश्विभ्यां समानलोकतां वृषप्रदः महतीं श्रियं गोप्रदः आदित्यलोकं प्राप्नोति ॥ ४.२३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;
 </details>

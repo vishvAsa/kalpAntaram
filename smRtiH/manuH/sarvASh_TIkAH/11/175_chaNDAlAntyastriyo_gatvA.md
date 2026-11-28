@@ -3,6 +3,11 @@ title = "175 चण्डालान्त्यस्त्रियो गत
 
 +++
 
+<details><summary>Bühler</summary>
+
+176	A Brahmana who unintentionally approaches a woman of the Kandala or of (any other) very low caste, who eats (the food of such persons) and accepts (presents from them) becomes an outcast; but (if he does it) intentionally, he becomes their equal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa unintentionally approaches a woman of the Caṇḍāla or other lowest-born castes,—or eats her food, or receives her presents,—he becomes an outcast; but if he does it intentionally, he becomes her equal.—(175)
@@ -89,9 +94,4 @@ and constantly repeat the *Śuddhavatī* verses;—or he may go to bathe with th
 <details><summary>भारुचिः</summary>
 
 चण्डालो ऽन्त्यो येषाम्, आयोगवादीनां शूद्रप्रभवानां त इमे चण्डालान्त्याह् । तेषां स्त्रीप्रतिषेधः । प्रायश्चित्तं तु वक्ष्यामः । पतनसाम्ययोः को विशेषः । प्रायश्चित्तेन प्रत्याहारः पतने, प्रायश्चित्ताभावस् तु साम्ये विज्ञेयः ॥ ११.१७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	A Brahmana who unintentionally approaches a woman of the Kandala or of (any other) very low caste, who eats (the food of such persons) and accepts (presents from them) becomes an outcast; but (if he does it) intentionally, he becomes their equal.
 </details>

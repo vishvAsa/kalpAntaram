@@ -2,6 +2,11 @@
 title = "022 यज्ञार्थम् ब्राह्मणैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+022	Beasts and birds recommended (for consumption) may be slain by Brahmanas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The commended beasts and birds may be killed by Brāhmaṇas for the purpose of sacrifice, and for the purpose of feeding their dependents; as Agastya did this of old.—(22).
@@ -60,11 +65,6 @@ sake; if he cooks it for the sake of gods and Brāhmaṇas, he incurs no sin,’
 <details><summary>गोविन्दराजः</summary>
 
 यागार्थं ब्राह्मणादिभिः कृतैः **प्रशस्ता **ये चोदिताः श्रुतौ **मृगपक्षिणः **ते **वध्या** इति श्रुत्युक्तानुवादः । **भृत्यानां चैवेत्य्** एतद् विधित्सितम् । स्वाम्याद् आपनार्थं (?) **भृत्यानाम्** अवश्यभरणीयानां वृद्धमात्रादीनां स्थित्यर्थं च वध्याः । **अगस्त्यो **यस्मात् पूर्वम् एवं कृतवान् इति चोपसंहारात् ॥ ५.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	Beasts and birds recommended (for consumption) may be slain by Brahmanas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old.
 </details>
 
 <details><summary>भारुचिः</summary>

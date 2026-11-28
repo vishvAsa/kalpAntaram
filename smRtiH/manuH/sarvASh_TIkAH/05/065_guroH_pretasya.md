@@ -2,6 +2,11 @@
 title = "065 गुरोः प्रेतस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+065	A pupil who performs the Pitrimedha for his deceased teacher, becomes also pure after ten days, just like those who carry the corpse out (to the burial-ground).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The pupil performing the ‘Pitṛmedha’ for his dead Teacher becomes purified in ten days; just as those who carry the dead body.—(64)
@@ -55,11 +60,6 @@ Father-in-law, the friend, the *Guru* and the Guru’s wife, and the maternal gr
 <details><summary>गोविन्दराजः</summary>
 
 **गुरोर्** इति । असपिण्डस्याचार्यादेर् गुरोः प्रेतस्यान्त्येष्टिं शिष्यः कृत्वा प्रेतनिर्हारिकैः पूर्वोक्तैस् तुल्यं दशरात्रेण शुद्ध्यति ॥ ५.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	A pupil who performs the Pitrimedha for his deceased teacher, becomes also pure after ten days, just like those who carry the corpse out (to the burial-ground).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "158 पुत्रान् द्वादश"
 
 +++
 
+<details><summary>Bühler</summary>
+
+158	Among the twelve sons of men whom Manu, sprung from the Self-existent (Svayambhu), enumerates, six are kinsmen and heirs, and six not heirs, (but) kinsmen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among the twelve kinds of sons that Manu sprung from the Self-existent one has mentioned,—six are kinsmen as well as heirs, and six are kinsmen, not heirs.—(158)
@@ -72,9 +77,4 @@ wife through another man, the son of an Appointed Daughter, the son of the unmar
 <details><summary>भारुचिः</summary>
 
 दायविभागप्रकरणापेक्षः पुत्राणाम् अयम् उपदेशो ऽत्र । सूत्रस्थानीयस्येदं भाष्यं तत्स्वरूपनिर्देशार्थं भवति ॥ ९.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	Among the twelve sons of men whom Manu, sprung from the Self-existent (Svayambhu), enumerates, six are kinsmen and heirs, and six not heirs, (but) kinsmen.
 </details>

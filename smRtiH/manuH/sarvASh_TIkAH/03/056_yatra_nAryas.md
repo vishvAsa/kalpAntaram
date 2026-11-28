@@ -2,6 +2,11 @@
 title = "056 यत्र नार्यस्"
 +++
 
+<details><summary>Bühler</summary>
+
+056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where women are honoured, there the gods rejoice; where, on the other hand, they are not honoured, there all rites are fruitless.—(56)
@@ -42,11 +47,6 @@ and fondled; where women are honoured, there the gods rejoice; where they are no
 <details><summary>गोविन्दराजः</summary>
 
 **यत्रेति **। यस्मिन् कुले पित्रादिभिः स्त्रियः पूज्यन्ते **तत्र देवताः **प्रसीदन्ति । **यत्र** पुनर् **एता न पूज्यन्ते तत्र **देवताप्रसादाभावात् यागादि**क्रियाः सर्वा निष्फला **भवन्तीति ॥ ३.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
 </details>
 
 <details><summary>भारुचिः</summary>

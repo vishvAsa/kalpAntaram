@@ -3,6 +3,11 @@ title = "034 आश्रमाद् आश्रमम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	He who after passing from order to order, after offering sacrifices and subduing his senses, becomes, tired with (giving) alms and offerings of food, an ascetic, gains bliss after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one, after passing from stage to stage and after offering the sacrifices, with senses subdued, tired of alms and offerings,—goes forth as a wandering mendicant, and then dies, then he prospers.—(34)
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 6.33].
 </details>
 
 <details><summary>भारुचिः</summary>
-
-034	He who after passing from order to order, after offering sacrifices and subduing his senses, becomes, tired with (giving) alms and offerings of food, an ascetic, gains bliss after death.
-</details>
-
-<details><summary>Bühler</summary>
 
 034	He who after passing from order to order, after offering sacrifices and subduing his senses, becomes, tired with (giving) alms and offerings of food, an ascetic, gains bliss after death.
 </details>

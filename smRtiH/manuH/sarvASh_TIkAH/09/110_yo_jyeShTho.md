@@ -3,6 +3,11 @@ title = "110 यो ज्येष्ठो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+110	If the eldest brother behaves as an eldest brother (ought to do), he (must be treated) like a mother and like a father; but if he behaves in a manner unworthy of an eldest brother, he should yet be honoured like a kinsman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the eldest brother behaves as the eldest brother, he is like a mother, and like a father. If however he does not behave like the eldest brother, he shall be honoured simply as a kinsman.—(110)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.105].
 <details><summary>भारुचिः</summary>
 
 गुरुकार्यनिवृत्त्यर्थम् इदं बन्धुवचनम् । तथा च सति ॥ ९.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	If the eldest brother behaves as an eldest brother (ought to do), he (must be treated) like a mother and like a father; but if he behaves in a manner unworthy of an eldest brother, he should yet be honoured like a kinsman.
 </details>

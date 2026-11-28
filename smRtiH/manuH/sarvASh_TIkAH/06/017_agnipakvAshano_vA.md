@@ -3,6 +3,11 @@ title = "017 अग्निपक्वाशनो वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	He may eat either what has been cooked with fire, or what has been ripened by time; he either may use a stone for grinding, or his teeth may be his mortar.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may be one living on food cooked by fire, or one eating only what Ripens in its own time; he may use the stone for grinding or he may use his teeth as the mortar.—(17).
@@ -63,9 +68,4 @@ eat only such fruits as ripen in their own time; or he may use stone for breakin
 <details><summary>भारुचिः</summary>
 
 अग्निपक्वभुक् कालपक्वभुग् अश्मकुत्तभुग् इत्य् एते दन्तोलूखलिकाः ॥ ६.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	He may eat either what has been cooked with fire, or what has been ripened by time; he either may use a stone for grinding, or his teeth may be his mortar.
 </details>

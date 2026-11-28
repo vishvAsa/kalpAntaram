@@ -3,6 +3,11 @@ title = "245 ईशो दण्डस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+245	Varuna is the lord of punishment, for he holds the sceptre even over kings; a Brahmana who has learnt the whole Veda is the lord of the whole world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Varuṇa i s the lord of punishment, as he holds the sceptre over the King; while the Brāhmaṇa, well versed in the Veda, is the lord of the whole world.—(245)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 9.243].
 <details><summary>भारुचिः</summary>
 
 तस्मात् तद् धनं राज्ञा न ग्राह्यम् । किं चान्यत् ॥ ९.२४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	Varuna is the lord of punishment, for he holds the sceptre even over kings; a Brahmana who has learnt the whole Veda is the lord of the whole world.
 </details>

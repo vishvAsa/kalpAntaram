@@ -3,6 +3,11 @@ title = "214 तप्तकृच्छ्रञ् चरन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	A Brahmana who performs a Taptakrikkhra (penance) must drink hot water, hot milk, hot clarified butter and (inhale) hot air, each during three days, and bathe once with a concentrated mind.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who is performing the ‘Tapta-Kṛcchra’ shall drink hot water, hot milk, hot clarified butter and hot air,—each for three days; bathing once and having his mind concentrated.—(214)
@@ -56,9 +61,4 @@ three days, hot clarified butter; and for further three days, not milk, and let 
 > सर्पिषः पलम् एकं तु त्रिरात्रं चोष्णमारुतम् ॥
 
 इति पराशरोक्तपरिमाणानाम् एकवारं स्नानं कुर्वन् संयमवान् पिबेत् । उष्णमारुतं उष्णोदकं वा ॥ ११.२१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	A Brahmana who performs a Taptakrikkhra (penance) must drink hot water, hot milk, hot clarified butter and (inhale) hot air, each during three days, and bathe once with a concentrated mind.
 </details>

@@ -3,6 +3,11 @@ title = "215 भ्रातॄणाम् अविभक्तानाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	If undivided brethren, (living with their father,) together make an exertion (for gain), the father shall on no account give to them unequal shares (on a division of the estate).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among undivided brothers, if there is a joint concern,—the father shall, on no account, make an unequal division among his sons.—(215)
@@ -47,9 +52,4 @@ several brothers living together,—in that property all are equal sharers; if e
 <details><summary>कुल्लूकः</summary>
 
 भ्रातॄणां पित्रा सहावस्थितानामविभक्तानां यदि सह धनार्जनार्थमु.धानं धानं भवेत्तदाविभागकाले न कस्यचित्पुत्रस्याधिकं पिता कदाचिद्दद्यात् ॥ २१६ \।\।
-</details>
-
-<details><summary>Bühler</summary>
-
-215	If undivided brethren, (living with their father,) together make an exertion (for gain), the father shall on no account give to them unequal shares (on a division of the estate).
 </details>

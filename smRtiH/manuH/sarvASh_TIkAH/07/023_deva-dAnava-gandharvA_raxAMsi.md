@@ -3,6 +3,11 @@ title = "023 देव-दानव-गन्धर्वा रक्षां�
 
 +++
 
+<details><summary>Bühler</summary>
+
+023	The gods, the Danavas, the Gandharvas, the Rakshasas, the bird and snake deities even give the enjoyments (due from them) only, if they are tormented by (the fear of) punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is only when pressed by Punishment that Devas, Dānavas, Gandharvas, Rākṣasas, Birds and Reptiles subserve the experiences (of others).—(23).
@@ -78,9 +83,4 @@ the practice of sticking to one’s own Dharma is increased among men.’
 <details><summary>भारुचिः</summary>
 
 एवम् ईश्वरा अपि सन्तो देवादयो ऽनुग्रहोपघाताभ्याम् । दण्डभयाद् एवानुग्राह्यान् अनुगृह्णन्ति, उपघात्यांश् चोपघ्नन्ति । यदि च दण्डान् न बिभुर् ऐश्वर्याद् यथाकामम् अभिप्रवर्तेरन्, न च प्रवर्तन्ते । अतो मन्यामहे देवादयो ऽपि दण्डभयाद् एव सत्य् अप्य् ऐश्वर्ये यथा कर्मानुग्रहोपघाताभ्यां वर्तन्ते न यथाकामम् इति अतिशयवचनेनैषा दण्डस्तुतिः ॥ ७.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	The gods, the Danavas, the Gandharvas, the Rakshasas, the bird and snake deities even give the enjoyments (due from them) only, if they are tormented by (the fear of) punishment.
 </details>

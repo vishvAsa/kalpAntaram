@@ -2,6 +2,11 @@
 title = "143 स्पृष्ट्वैतान् अशुचिर्"
 +++
 
+<details><summary>Bühler</summary>
+
+143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having touched these, while impure, he shall always wipe with water, with his palm, his sense-organs, as also his limbs and the navel.—(143)
@@ -44,11 +49,6 @@ touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman;
 <details><summary>गोविन्दराजः</summary>
 
 **स्पृट्वेति । अशुचिः** सन् गवादीन् **स्पृष्ट्वा अद्भिः** प्राणायतनानि चक्षुरादीन्य् अङ्गानि च **सर्वाणि स्पृशेत्** “नाभिम् अद्भिर् हस्तमध्येन स्पृशेत्” इति प्रकरणपठितं प्रायश्चित्तं लाघवार्थम् । तत्र हि क्रियमाणे गवादिस्पर्शे कर्तव्यं स्यात् ॥ ४.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
 </details>
 
 <details><summary>भारुचिः</summary>

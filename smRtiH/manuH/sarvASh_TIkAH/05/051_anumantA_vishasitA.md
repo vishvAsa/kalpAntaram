@@ -2,6 +2,11 @@
 title = "051 अनुमन्ता विशसिता"
 +++
 
+<details><summary>Bühler</summary>
+
+051	He who permits (the slaughter of an animal), he who cuts it up, he who kills it, he who buys or sells (meat), he who cooks it, he who serves it up, and he who eats it, (must all be considered as) the slayers (of the animal).
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 अन्येन हन्यमानं स्वप्रयोजनतो यद्य् अन्यो ऽनुमोदते साध्व् अयं हन्ता करोतीत्य् **अनुमन्ता** । **विशसिता** हतस्याङ्गविभागकारः । **उपहर्ता** परिवेषकः । **खादक** इत्य् एते सर्वे **घातकाः** ।
@@ -158,11 +163,6 @@ This verse is quoted in *Aparārka* (p. 251)—in *Mitākṣarā* (on 1.181), as
 <details><summary>गोविन्दराजः</summary>
 
 **अनुमन्तेति** । अन्येन हन्यमानम् अवलोक्य साध्व् अयं हन्ता करोतीति यो ऽनुमोदते सो ऽ**नुमन्ता । विशसिता **अङ्गविभागकरो न हन्ता (**निहन्ता)** वधकः, **क्रयविक्रयी **क्रीत्वा विक्रीणीते, **संस्कर्ता **रन्धकः **उपहर्ता **परिवेष्टा **खादको** भक्षयिता, एते **घातका **इति । अत्र च निहन्तारं वर्जयित्वा अन्येषाम् अघातकानां घातकवचनम् अशास्त्रितप्राणिवधे ऽनुमोदनादीन्य् अपि न कार्याणीत्य् एवमर्थं न तु घातकत्वप्रतिपादनार्थं कर्तव्याकर्तव्यप्रतिपादनपरत्वाद् अस्य शास्त्रस्य घातकखादकादीनां पृथक् प्रायश्चित्तदर्शनात् ॥ ५.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	He who permits (the slaughter of an animal), he who cuts it up, he who kills it, he who buys or sells (meat), he who cooks it, he who serves it up, and he who eats it, (must all be considered as) the slayers (of the animal).
 </details>
 
 <details><summary>भारुचिः</summary>

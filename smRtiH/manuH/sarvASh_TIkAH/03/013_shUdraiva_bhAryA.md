@@ -2,6 +2,11 @@
 title = "013 शूद्रैव भार्या"
 +++
 
+<details><summary>Bühler</summary>
+
+013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra, the Śūdra girl. alone has been ordained to be the wife; for the Vaiśya, she as also the girl of his own caste; for the Kṣatriya, those two as also the girl of his own caste; and for the Brāhmaṇa those three as also the girl of his own caste—(13).
@@ -57,11 +62,6 @@ See Comparative notes for [Verse 3.12].
 <details><summary>गोविन्दराजः</summary>
 
 **शूद्रेति **। **शूद्रय्स् शूद्रैव भार्या **भवति, नोत्कृष्टापकृष्टे शूद्रा वैश्या च वैश्यस्य मन्वादिभिः स्मृता । वैश्या शूद्रा क्षत्रिया च क्षत्रियस्य, क्षत्रिया वैश्या ब्राह्मणी च ब्राह्मणस्य । “शूद्राम् प्य् एके मन्त्रवर्जम्” इति **वसिष्ठ**स्मरणात् मन्त्रवर्जिता एषां द्विजातीनां भवति ॥ ३.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

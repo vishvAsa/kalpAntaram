@@ -2,6 +2,11 @@
 title = "095 डिम्भाहव-हतानाञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+095	(The same rule applies to the kinsmen) of those who have fallen in a riot or a battle, (of those who have been killed) by lightning or by the king, and (of those who perished fighting) for cows and Brahmanas, and to those whom the king wishes (to be pure).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also in the case of those killed in a riot or Battle or by lightning or by the king; and of those who have died for the sake of cows and Brāhmaṇas; as also for the person for whom the king desires it.—(94).
@@ -73,11 +78,6 @@ lightning, or by entering fire or water, by fall from a precipice, or in battle,
 <details><summary>गोविन्दराजः</summary>
 
 **डिम्बाहवहतानाम्** इति । डिम्बे जनौघसम्पीडने अशस्त्रकलहे वा हतानां तथा सङ्ग्रामाशनिहतानां राज्ञा वा सङ्ग्रामे ऽपि हतानां गोब्राह्मणपरित्राणार्थम् असङ्ग्रामे ऽपि व्याघ्रादिव्यापादितानां यस्य च पुरोहितादेः स्वकार्यविघातार्थं पृथिवीपतिर् इच्छति तस्यापि सद्यःशौचम् ॥ ५.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	(The same rule applies to the kinsmen) of those who have fallen in a riot or a battle, (of those who have been killed) by lightning or by the king, and (of those who perished fighting) for cows and Brahmanas, and to those whom the king wishes (to be pure).
 </details>
 
 <details><summary>भारुचिः</summary>

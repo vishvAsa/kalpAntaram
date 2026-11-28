@@ -3,6 +3,11 @@ title = "100 अप्सु भूमिवद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+100	'They declare (false evidence) concerning water, concerning the carnal enjoyment of women, and concerning all gems, produced in water, or consisting of stones (to be) equally (wicked) as a lie concerning land.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘That concerning water they declare to be similar to that concerning land; as also that relating to the sexual enjoyment of women, and to gems, water-born as well as granitic.’—(100)
@@ -60,9 +65,4 @@ same guilt as in that regarding land; likewise by false evidence regarding crimi
 <details><summary>गोविन्दराजः</summary>
 
 **अप्स्व्** इति । उदकविषये ऽनृते स्त्रीणां भोगेषु विषये अब्जेषु पद्मरागादिषु पाषाणमयेषु च सर्ववैडूर्यदिषु अनृते भूमिवद् दोषं आहुः सर्वं हन्तीति ॥ ८.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	'They declare (false evidence) concerning water, concerning the carnal enjoyment of women, and concerning all gems, produced in water, or consisting of stones (to be) equally (wicked) as a lie concerning land.
 </details>

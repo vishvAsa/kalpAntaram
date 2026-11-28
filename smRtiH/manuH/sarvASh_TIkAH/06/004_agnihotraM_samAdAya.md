@@ -2,6 +2,11 @@
 title = "004 अग्निहोत्रं समादाय"
 +++
 
+<details><summary>Bühler</summary>
+
+004	Taking with him the sacred fire and the implements required for domestic (sacrifices), he may go forth from the village into the forest and reside there, duly controlling his senses.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking with him the Sacred Fire, as also all the ritualistic appurtenances of the Fire, the man shall go forth from the village to the forest and live there, with his senses under control.—(4).
@@ -42,11 +47,6 @@ lire according to the rule of the Śramaṇaka, he shall offer the Agnihotra.’
 <details><summary>गोविन्दराजः</summary>
 
 **अग्निहोत्रम्** इति । श्रौताग्नीन् **गृह्यं** चाग्निम् अग्न्युपकरणं च स्रुक्स्रुवादि समादाय **ग्रामाद्** बहिः निःसृत्य जितेन्द्रियः सन् **निवसेत्** ॥ ६.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Taking with him the sacred fire and the implements required for domestic (sacrifices), he may go forth from the village into the forest and reside there, duly controlling his senses.
 </details>
 
 <details><summary>भारुचिः</summary>

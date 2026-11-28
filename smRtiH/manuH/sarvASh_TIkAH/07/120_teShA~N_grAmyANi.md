@@ -3,6 +3,11 @@ title = "120 तेषाङ् ग्राम्याणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	The affairs of these (officials), which are connected with (their) villages and their separate business, another minister of the king shall inspect, (who must be) loyal and never remiss;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The affairs of these officers pertaining to the villages, as also their individual affairs another minister of the King shall inspect, who is loyal and never idle.—(120)
@@ -54,9 +59,4 @@ officers appointed in the kingdom, through his spies, the king shall honour the 
 <details><summary>भारुचिः</summary>
 
 अधिपतीनां कर्ता कृतितस् तत्कृताकृतम् अनुपश्येत् ॥ ७.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	The affairs of these (officials), which are connected with (their) villages and their separate business, another minister of the king shall inspect, (who must be) loyal and never remiss;
 </details>

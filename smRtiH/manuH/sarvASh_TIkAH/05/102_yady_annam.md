@@ -2,6 +2,11 @@
 title = "102 यद्य् अन्नम्"
 +++
 
+<details><summary>Bühler</summary>
+
+102	But if he eats the food of the (Sapindas of the deceased), he is purified in ten days, (but) in one day, if he does not eat their food nor dwells in their house.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if he eats their food, he becomes pure in ten days; if however he does not eat their food, he is purified in one day, if he does not dwell in that house.—(101).
@@ -45,11 +50,6 @@ under impurity: nor shall he dwell with them.’
 <details><summary>गोविन्दराजः</summary>
 
 **यदीति** । स निर्हारको यदि तेषाम् आशौचिनां सम्बन्ध्यन्नम् अश्नाति तदा दशाहेन शुध्यति, न त्रिरात्रेण । अन्नं पुनस् तत्सम्बन्धि अनश्नन् यदि तत्सम्बन्धिनि गृहे न निवसेत् तदाहोरात्रेणैव, न त्रिरात्रदशरात्राभ्याम् । एवं च निर्हारकस्य निवासान्नभोजनरहितस्याहोरात्रम् अनश्नतस् तत्र वसतः पूर्वोक्तं त्रिरात्रम् अश्नतो वसतश् च दशाहम् ॥ ५.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	But if he eats the food of the (Sapindas of the deceased), he is purified in ten days, (but) in one day, if he does not eat their food nor dwells in their house.
 </details>
 
 <details><summary>भारुचिः</summary>

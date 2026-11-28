@@ -3,6 +3,11 @@ title = "035 ऋणानि त्रीण्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+035	When he has paid the three debts, let him apply his mind to (the attainment of) final liberation; he who seeks it without having paid (his debts) sinks downwards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall turn his mind towards Liberation only after having paid off the three debts; without having paid them, if he seeks for Liberation, he sinks downwards.—(35)
@@ -43,11 +48,6 @@ being freed from all motions of *I* and *mine*, the Brāhmaṇa, the Kṣatriya 
 </details>
 
 <details><summary>भारुचिः</summary>
-
-035	When he has paid the three debts, let him apply his mind to (the attainment of) final liberation; he who seeks it without having paid (his debts) sinks downwards.
-</details>
-
-<details><summary>Bühler</summary>
 
 035	When he has paid the three debts, let him apply his mind to (the attainment of) final liberation; he who seeks it without having paid (his debts) sinks downwards.
 </details>

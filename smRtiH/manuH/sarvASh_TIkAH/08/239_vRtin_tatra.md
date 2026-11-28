@@ -3,6 +3,11 @@ title = "239 वृतिन् तत्र"
 
 +++
 
+<details><summary>Bühler</summary>
+
+239	(The owner of the field) shall make there a hedge over which a camel cannot look, and stop every gap through which a dog or a boar can thrust his head.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should set up an enclosure there which the camel cannot see, and shut up every opening through which the head of a dog ok a boar could be thrust.—(239)
@@ -75,9 +80,4 @@ the road-side, an enclosure should he erected which the camel may not look over,
 <details><summary>भारुचिः</summary>
 
 पशुवारणसमर्थायाम् तु वृतौ कृतायां सस्योपघाते पालस्य दोषः स्यात् ॥ ८.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-239	(The owner of the field) shall make there a hedge over which a camel cannot look, and stop every gap through which a dog or a boar can thrust his head.
 </details>

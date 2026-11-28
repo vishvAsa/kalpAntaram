@@ -3,6 +3,14 @@ title = "087 समोत्तमाधमै राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+समोत्तमाधमै राजा त्व्  
+आहूतः पालयन् प्रजाः ।  
+न निवर्तेत सङ्ग्रामात्  
+क्षात्रं धर्मम् अनुस्मरन्  ॥ ७.८७ ॥ [८८ मेधातिथिपाठे]
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While protecting his people, if the king is challenged by enemies, either equal in strength, or stronger, or weaker, he shall not shrink from battle, bearing in mind the duty of the kṣatriya.—(87)
@@ -68,12 +76,4 @@ the Kṣatriya shall fight and even give up his life.’
 <details><summary>भारुचिः</summary>
 
 आहूतस्य [येन] केनापि संग्रामाद् अनिवृत्तिः स्यात्, यत्कारणम् एष हि राज्ञां विशिष्टो धर्मः ॥ ७.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-समोत्तमाधमै राजा त्व्  
-आहूतः पालयन् प्रजाः ।  
-न निवर्तेत सङ्ग्रामात्  
-क्षात्रं धर्मम् अनुस्मरन्  ॥ ७.८७ ॥ [८८ मेधातिथिपाठे]
 </details>

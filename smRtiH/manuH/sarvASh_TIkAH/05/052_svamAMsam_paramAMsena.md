@@ -2,6 +2,11 @@
 title = "052 स्वमांसम् परमांसेन"
 +++
 
+<details><summary>Bühler</summary>
+
+052	There is no greater sinner than that (man) who, though not worshipping the gods or the manes, seeks to increase (the bulk of) his own flesh by the flesh of other (beings).
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 अधिकपुष्ट्यर्थं यो मांसम् अश्नाति तस्येयं निन्दा । न तु रोगोत्पत्तिभयाशङ्कया । यत आह । **यो वर्धयितुम् इच्छन्तीति** । तस्याप्य् **अनभ्यर्च्य पितॄन् देवान्** । न तु रोगहेतोत्स् त्व् अर्चनम् अकुर्वतो ऽपि कथंचिद् असंभवान् न दोषः ॥ ५.५२ ॥
@@ -50,11 +55,6 @@ line reading as ‘*Nāradaḥ prāha dharmātmā niyatam sovasīdati* under 14;
 <details><summary>गोविन्दराजः</summary>
 
 **स्वमांसम्** इति । स्वशरीरमांसं **परमांसेन **देवार्चनरहितेन **यो **वृद्धिं नेतुम्** इच्छति **तस्माद् अधिको ऽन्यो ऽपुण्यकर्ता नास्तीत्य् अविधिमांसभक्षणनिन्दार्थवाद एव ॥ ५.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	There is no greater sinner than that (man) who, though not worshipping the gods or the manes, seeks to increase (the bulk of) his own flesh by the flesh of other (beings).
 </details>
 
 <details><summary>भारुचिः</summary>

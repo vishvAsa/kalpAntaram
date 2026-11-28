@@ -2,6 +2,11 @@
 title = "194 हीनान्न-वस्त्र-वेषः स्यात्"
 +++
 
+<details><summary>Bühler</summary>
+
+194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the peesenge of his Teacher, he should always have inferior food, dress and apparel; he should rise before him, and go to sleep later.—(194)
@@ -69,11 +74,6 @@ Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is desc
 <details><summary>गोविन्दराजः</summary>
 
 **हीनान्नवस्त्रवेष** इति । गुर्वपेक्षया संस्कारपरिमाणादिना न्यूनान्नवस्त्रालङ्कारो यावज्जीवं गुरोः सन्निधाने स्यात् । शयनाच् च गुरूत्थानात् प्राग् उत्तिष्ठेत् । तत्स्वप्नानन्तरं शयीत ॥ २.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "200 य एते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the principal bodies of Pitṛs that have been described, know that there are endless sons and grandsons in this world.—(200)
@@ -41,9 +46,4 @@ This verse is quoted in *Hemādri*, (Śrāddha, p. 48).
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति** । य एते **सोमपादयः प्रधानभूताः पितृगणा उक्ताः **तेषाम् अपीह** संसारे पितर एव पुत्रपौत्रा विज्ञेयाः ॥ ३.२०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.
 </details>

@@ -2,6 +2,11 @@
 title = "128 आपः शुद्धा"
 +++
 
+<details><summary>Bühler</summary>
+
+128	Water, sufficient (in quantity) in order to slake the thirst of a cow, possessing the (proper) smell, colour, and taste, and unmixed with impure substances, is pure, if it is collected on (pure) ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Water collected on the ground is pure, if it is sufficient to allay the thirst of the cow; but only if it is not contaminated by any unclean thing, becoming affected by with its smell, colour and taste.—(126)
@@ -68,11 +73,6 @@ purified in ten nights.’
 <details><summary>गोविन्दराजः</summary>
 
 **आप** इति । यत्परिमाणास्व् अप्सु गोस् तृष्णाच्छेदो भवति ता आपो गन्धवर्णरसान्वितत्वेन **अमेध्येन** यदि व्याप्ता न भवन्ति तदा भूम्यादिगताः शुद्धा अप्रयतप्रसङ्गासु चित्ताशङ्कायाम् इदं भूमिग्रहणं नान्तरिक्षापां शुद्धत्वव्यावृत्त्यर्थम् ॥ ५.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-128	Water, sufficient (in quantity) in order to slake the thirst of a cow, possessing the (proper) smell, colour, and taste, and unmixed with impure substances, is pure, if it is collected on (pure) ground.
 </details>
 
 <details><summary>भारुचिः</summary>

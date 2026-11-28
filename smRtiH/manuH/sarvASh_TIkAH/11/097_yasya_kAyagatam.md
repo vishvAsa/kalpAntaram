@@ -3,6 +3,11 @@ title = "097 यस्य कायगतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	When the Brahman (the Veda) which dwells in his body is (even) once (only) deluged with spirituous liquor, his Brahmanhood forsakes him and he becomes a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the ‘Brahman’ resident in his body has been once deluged by wine, the ‘Brāhmaṇahood’ disappears and the man becomes a Śūdra.—(97)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 11.94].
 <details><summary>भारुचिः</summary>
 
 आत्मस्थं ब्रह्मभावनाख्यं यस्मात् अतः **कायगतम्** इत्य् अर्थवादो ऽयम् । **ब्राह्मण**ग्रहणं चात्र श्लोकत्रये धारणार्थम् । अनन्तरश्लोके गौडीमाद्व्योः ब्राह्मणप्रतिषेधात् तदपेक्षया । अथ तु पूर्वश्लोकप्रतिषेधापेक्षो ऽपि ततः पूर्वस्य प्रतिषेधस्योत्तरस्य च सामान्येनामी श्लोकत्रयार्थवादाः । एतस्मिंश् च पक्षे ब्राह्मणग्रहणं निदर्शनार्थं यथासंभवं विज्ञेयम् । अन्ये तूक्तप्रतिषिद्धत्वात् क्षत्रियवैश्ययोर् विकल्पं मन्यन्ते गौडीमाध्व्योः प्रतिषेधस्य । तद् इदं य्क्तम् अयुक्तं वेति विचारणीयम्, ग्रन्थगौरवभयात् तु न लिख्यते । किं चातः यदि जातिनिमित्तः सर्वावस्थम् अपेयम् । अथ मदगुणनिमित्ते ततो ऽपि नष्टे तस्मिन्न् अल्पं वा पेयं स्यात् । यत इदम् उच्यते गुणनिमित्तो ऽयं प्रतिषेधः । एवं सति प्रत्यस्तमितमदगुणं दयं कुत्रचिद् आचरन्ति ब्राह्मणाः । तथा चोक्तम्- "अमेध्ये वा पतेन् मत्तः" इत्य् एवमादिषु मदगुणनिमित्त एव प्रतिषेधो मद्यस्येति विज्ञयते । अनुत्पन्नमदगुणं च माध्वीकम् अपर्युषितं च पीयते । यतः गुणापेक्ष एव प्रतिषेधः । [अन्]ये ऽपि च नाचरन्ति विनष्टमदगुणम् अपि सन् मद्यम् । तथा च वक्ष्यत् "सुराभाण्डस्थितस् तथा" इत्य् एवमादि ॥ ११.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	When the Brahman (the Veda) which dwells in his body is (even) once (only) deluged with spirituous liquor, his Brahmanhood forsakes him and he becomes a Sudra.
 </details>

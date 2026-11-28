@@ -3,6 +3,11 @@ title = "059 यो यावन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	In the double of that sum which (a defendant) falsely denies or on which (the plaintiff) falsely declares, shall those two (men) offending against justice be fined by the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one falsely denies a debt, or if the other falsely demands it,—these two, proficient in dishonesty, should be made by the king to pay a fine double that sum.—(59)
@@ -83,9 +88,4 @@ party proves it to he so, then the former shall pay to the King a fine equal to 
 > **तौ नृपेण ह्य् अधर्मज्ञौ दाप्यौ तद्द्विगुणं दमम्  ॥ ८.५९ ॥**
 
 तस्माद् अपह्नुताद् अभियोगाच् च मिथ्याभियोक्तारं निह्नवकं च सोपदेशं [यत्] किंचित् प्रतिपद्यमानं तद्द्विगुणं दापयेत् । साक्ष्युपलक्षणार्थम् इदं प्रकरणम् अधुनोच्यते ॥ ८.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	In the double of that sum which (a defendant) falsely denies or on which (the plaintiff) falsely declares, shall those two (men) offending against justice be fined by the king.
 </details>

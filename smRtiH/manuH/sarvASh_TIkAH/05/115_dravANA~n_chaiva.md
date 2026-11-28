@@ -2,6 +2,11 @@
 title = "115 द्रवाणाञ् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+115	The purification prescribed for all (sorts of) liquids is by passing two blades of Kusa grass through them, for solid things by sprinkling (them with water), for (objects) made of wood by planing them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For all liquids, purification has been declared to consist in throwing out a little; for solids, in sprinkling; and for wooden articles, in scraping.—(114).
@@ -104,11 +109,6 @@ heap by sprinkling water; liquids by straining.’
 <details><summary>गोविन्दराजः</summary>
 
 **द्रवाणाम्** इति । **द्रवाणां **घृतादीनां बौधायनाद्यभिहितप्रस्थमात्रप्रमाणानां श्वकाकाद्युच्छिष्टानाम् अमेध्यसंसर्गकोटाद्युपहतानाम् अमेध्यस्पृष्टद्रव्यस्पृष्टानां चोत्प्लवनम् “कुशाग्राभ्यां पवमानः सुवर्जन” इत्य् अनुवाकेनेति स्मृत्यन्तरोक्तो दधिदुग्धप्रक्षेपणपर्यन्तः । समानजातीयद्रव्यसेवनं वा स्मृतम् । संहतानां च शयनादीनाम् उच्छिष्टाद्युपहतानां क्षालितैकदेशानाम् अभ्युक्षणं दारुमयानां चोच्छिष्टलेपाद्युपहतानां तक्षणम् ॥ ५.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	The purification prescribed for all (sorts of) liquids is by passing two blades of Kusa grass through them, for solid things by sprinkling (them with water), for (objects) made of wood by planing them.
 </details>
 
 <details><summary>भारुचिः</summary>

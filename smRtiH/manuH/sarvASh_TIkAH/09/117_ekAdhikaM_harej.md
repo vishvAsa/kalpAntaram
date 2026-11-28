@@ -3,6 +3,11 @@ title = "117 एकाधिकं हरेज्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	Let the eldest son take one share in excess, the (brother) born next after him one (share) and a half, the younger ones one share each; thus the law is settled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eldest son shall take one share in excess; the one born next to him a share and a half; and the younger ones one share each; such is the settled law.—(117)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 9.116].
 <details><summary>भारुचिः</summary>
 
 गुणाधिके ज्येष्ठे ईषद्प्रकृष्टगुणे च तदनन्तरजे तदवरेषु च ताभ्यां निकृष्टगुणेषु समेषु वायं विभागः सामर्थ्याद् विज्ञायते । "समेत्य भ्रातरः सह" इति वचनात् प्रतिषिद्धं भगिनीभ्यः पित्र्यधनांशदानम् । इष्यते च तासाम् अनूढतया निमित्तेन तत्प्राप्तिः । यत इदं तदपवादार्थम् आरभ्यते ॥ ९.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Let the eldest son take one share in excess, the (brother) born next after him one (share) and a half, the younger ones one share each; thus the law is settled.
 </details>

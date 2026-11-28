@@ -2,6 +2,11 @@
 title = "172 नाऽभिव्याहारयेद् ब्रह्म"
 +++
 
+<details><summary>Bühler</summary>
+
+172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should hot pronounce Vedic texts, apart from the Svadhā-offering; because so long as he is not born in the Veda, he is equal to a śūdra.—(172)
@@ -78,11 +83,6 @@ he likes, short of committing degrading sins.’
 <details><summary>गोविन्दराजः</summary>
 
 एवं च प्राग् उपनयनाद् अध्ययनप्रतिषेधे सति प्रतिप्रसवम् आह **नाभिव्याहारयेद्** इति । स्वधाशब्दाख्यमन्त्रसाधनं कर्म निनीयते पितॄन् प्रति प्राप्यते येन तत् **स्वधानिनयनम्**, पित्र्यं कर्म तद् वर्जयित्वा न वेदम् उदाहारयेत् । यस्मात् वेदनिमित्तं **यावन् न जायते** यावद् उपनीतस् तावत् शूद्रतुल्यो ऽसौ । एतद् एव ज्ञापकम् उपनीतपितृप्रसवे (अनुपनीतपितृमरणे) सत्य् एकोद्दिष्टं श्राद्धादिकरणाधिकारस्य ॥ २.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

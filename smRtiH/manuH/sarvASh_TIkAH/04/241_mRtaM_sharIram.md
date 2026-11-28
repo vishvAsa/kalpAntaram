@@ -2,6 +2,11 @@
 title = "241 मृतं शरीरम्"
 +++
 
+<details><summary>Bühler</summary>
+
+241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Leaving the dead body on the ground, like a log of wood or a clod of earth, the relations depart with averted faces; spiritual merit alone follows him.—(241)
@@ -45,11 +50,6 @@ log of wood or a clod of earth; having used it for a while, they turn their back
 <details><summary>गोविन्दराजः</summary>
 
 **मृतम्** इति । मृतस्य शरीरं काष्ठवद् अवज्ञया भूमौ परित्यज्य पराङ्मुखा **बान्धवा** गच्छन्ति न तत्सहायर्थं वर्तन्ते । **धर्मः** पुनः **तं** परलोके यान्तं पश्चाद् गच्छति॥ ४.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "301 कृतन् त्रेतायुगम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+301	The various ways in which a king behaves (resemble) the Krita, Treta, Dvapara, and Kali ages; hence the king is identified with the ages (of the world).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The actions of the king constitute the ‘Kṛta’, the ‘Tretā’, the ‘Dvāpara’ and the ‘Kali’ cycles; as it is the king that is called the ‘cycle.’—(301)
@@ -39,9 +44,4 @@ For this reason also the King should be always exerting himself:—Want of exert
 <details><summary>भारुचिः</summary>
 
 तथा च कलियुगम् इति कृत्वा नोदासीनः स्यात् । येन च राजवृत्तेनायं कलियुगादिभिर् व्यपदिश्यते राजा। तद् दर्शयति ॥ ९.३०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-301	The various ways in which a king behaves (resemble) the Krita, Treta, Dvapara, and Kali ages; hence the king is identified with the ages (of the world).
 </details>

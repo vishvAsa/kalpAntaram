@@ -2,6 +2,11 @@
 title = "002 एवं यथोक्तम्"
 +++
 
+<details><summary>Bühler</summary>
+
+002	'How can Death have power over Brahmanas who know the sacred science, the Veda, (and) who fulfil their duties as they have been explained (by thee), O Lord? '
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “How is it, O Lord, that Death overpowers the Brāhmaṇas who are learned in the Vedic lore, and who perform their duty exactly as it has been thus described?”—(2)
@@ -33,11 +38,6 @@ Those Twice-born men who perform the duty exactly in the form in which it has be
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवम्** अतिक्रान्तं शास्त्रोक्तं **स्वधर्मम् **आचरतां **वेदशास्त्र**ज्ञानां ब्राह्मणानां **कथं** भाव्यम्, आयुःक्षयकारणस्य धर्मलोपादेर् अभावात् ॥ ५.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	'How can Death have power over Brahmanas who know the sacred science, the Veda, (and) who fulfil their duties as they have been explained (by thee), O Lord? '
 </details>
 
 <details><summary>भारुचिः</summary>

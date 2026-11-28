@@ -3,6 +3,11 @@ title = "080 त्रिवारम् प्रतिरोद्धा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	If either he fights at least three times (against robbers in defence of) a Brahmana's (property), or reconquers the whole property of a Brahmana, or if he loses his life for such a cause, he is freed (from his guilt).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he fights at least thrice on behalf of a Brāhmaṇa, or reconquers his entire property, or gives up his life for his sake,—he becomes absolved.—(80)
@@ -73,9 +78,4 @@ See Comparative notes for [Verse 11.72].
 > **विप्रस्य तन्निमित्ते वा प्राणालाभे विमुच्यते  ॥ ११.७९ ॥**
 
 इत्य् एतद् उक्तार्थम् । अस्येदानीम् उपसंहारो, यथायोगं प्रायश्चित्तम् अनुषक्तव्यः ॥ ११.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	If either he fights at least three times (against robbers in defence of) a Brahmana's (property), or reconquers the whole property of a Brahmana, or if he loses his life for such a cause, he is freed (from his guilt).
 </details>

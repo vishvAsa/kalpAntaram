@@ -3,6 +3,11 @@ title = "080 जराञ् चैवाऽप्रतीकाराम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+080	Old age against which there is no remedy, the pangs of diseases, afflictions of many various kinds, and (finally) unconquerable death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Separations from relations and loved ones, dwelling with the wicked, acquiring wealth and losing it, making of friends and enemies.—(79)
@@ -32,9 +37,4 @@ The meaning of these two verses is clear.—(79-80)
 <details><summary>गोविन्दराजः</summary>
 
 **जराम्** इति । जरां चाप्रतिबन्धां व्याधिभिश् च पीडनम् अनेकप्रकारांश् च क्षुत्पिपासादिना तांश् तान् उपतापान् मृत्युं चानपासनीयम् आसादयन्ति ॥ १२.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	Old age against which there is no remedy, the pangs of diseases, afflictions of many various kinds, and (finally) unconquerable death.
 </details>

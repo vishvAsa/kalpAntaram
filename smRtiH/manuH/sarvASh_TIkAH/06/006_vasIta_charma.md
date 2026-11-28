@@ -2,6 +2,11 @@
 title = "006 वसीत चर्म"
 +++
 
+<details><summary>Bühler</summary>
+
+006	Let him wear a skin or a tattered garment; let him bathe in the evening or in the morning; and let him always wear (his hair in) braids, the hair on his body, his beard, and his nails (being unclipped).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should wear either skin or a bit of cloth; he shall bathe in the evening, as also in the meaning; he shall always wear matted locks, as also beard, hair on his body and nails.—(6)
@@ -72,11 +77,6 @@ suffer the hairs of his head, of his heard and of his body and his nails to grow
 <details><summary>गोविन्दराजः</summary>
 
 “वसीत चर्म चीरं वा मार्गं वा चार्क्षम् एव वा” इति । मृगादिचर्म वस्त्रखण्डं वा वृक्षवल्कलं वा आच्छदयेत् । **सायं** प्रातश् च **स्नायात्** । **श्मश्रुलोमनखांश् च नित्यं** धरयेत् ॥ ६.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	Let him wear a skin or a tattered garment; let him bathe in the evening or in the morning; and let him always wear (his hair in) braids, the hair on his body, his beard, and his nails (being unclipped).
 </details>
 
 <details><summary>भारुचिः</summary>

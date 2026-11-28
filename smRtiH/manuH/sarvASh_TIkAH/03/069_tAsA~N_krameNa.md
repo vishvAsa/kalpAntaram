@@ -2,6 +2,11 @@
 title = "069 तासाङ् क्रमेण"
 +++
 
+<details><summary>Bühler</summary>
+
+069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the purpose of expiating all these in their course, the five great sacrifices have been ordained by the great sages, for householders (to be performed) daily.—(69)
@@ -65,11 +70,6 @@ shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.�
 <details><summary>गोविन्दराजः</summary>
 
 **तासाम्** इति । **तासां **चुल्ल्यादीनां सूनानां यथाक्रमं **निष्कृत्यर्थं **तदुत्पन्नपापनिर्हरणार्थं **प्रत्यहं पञ्च महायज्ञाः **गृहस्थानां मन्वादिभिः स्मृताः ॥ ३.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
 </details>
 
 <details><summary>भारुचिः</summary>

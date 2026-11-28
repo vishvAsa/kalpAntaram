@@ -2,6 +2,11 @@
 title = "097 यथाशास्त्रन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having performed, according to law, the “Utsarga” of the Vedas, he shall cease for the night with its two wings, including the same day and night.—(97)
@@ -44,11 +49,6 @@ fullmoon day of Śrāvaṇa, one should not read at night, for one month.’
 <details><summary>गोविन्दराजः</summary>
 
 **यथाशास्त्रम्** इति । एवम् उक्तशास्त्रानतिक्रमेण **छन्दसाम् उत्सर्गा**ख्यं कर्म ग्रामाद् **बहिः** कृत्वा ततः उभयतोहनी पक्षाव् इव यस्या मध्यवर्तुन्या रात्याः तां **रात्रिं** तम् **एवैकम्** अहोरात्रम् अनध्यायं कुर्यात् ॥ ४.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	Having performed the Utsarga outside (the village), as the Institutes (of the sacred law) prescribe, he shall stop reading during two days and the intervening night, or during that day (of the Utsarga) and (the following) night.
 </details>
 
 <details><summary>भारुचिः</summary>

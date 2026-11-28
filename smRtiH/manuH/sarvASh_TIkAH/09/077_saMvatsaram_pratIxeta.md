@@ -3,6 +3,11 @@ title = "077 संवत्सरम् प्रतीक्षेत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	For one year let a husband bear with a wife who hates him; but after (the lapse of) a year let him deprive her of her property and cease to cohabit with her.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one year the husband shall bear with a hating wife; after the year he shall wrest her property and cease to co-habit with her.—(77)
@@ -88,9 +93,4 @@ with better qualities.’
 <details><summary>भारुचिः</summary>
 
 न संवसेद् इत्य् उपगमनिवृत्तिः न निर्वासनम् । पातके ऽपि तस्याः [तन् न] युक्तं "निरुन्ध्याद् एकवेश्मनि" इति तत्र प्रायश्चित्तोपदेशात् । अन्यस् तु त्यागम् एवाह । एवं च सति त्यजतो नातिदोषः कारणोपदेशात् । न त्व् अन्यत्र । सर्वश् च स्त्रीत्यागः प्राग् अग्न्याधेयात् विज्ञेयः, नोत्तरत्र, तया सार्धम् अस्य प्रजाकर्मसहत्वोपदेशाद् इति कश्चित् ॥ ९.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	For one year let a husband bear with a wife who hates him; but after (the lapse of) a year let him deprive her of her property and cease to cohabit with her.
 </details>

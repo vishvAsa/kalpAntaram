@@ -3,6 +3,11 @@ title = "237 धनुःशतम् परीहारो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+237	On all sides of a village a space, one hundred dhanus or three samya-throws (in breadth), shall be reserved (for pasture), and thrice (that space) round a town.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Around the village there should be a pasture-ground, four hundred ‘bows’ or three ‘stick-throws’ (in width); but three times that space around the town.—(237)
@@ -59,9 +64,4 @@ village-people, and in consonance with the extent of land available and the orde
 <details><summary>भारुचिः</summary>
 
 यो देशो ग्रामनगरयोः समन्ततो गवां सुखप्रचारस्थानासनार्थम् अनुप्तसस्यकार्यः ॥ ८.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	On all sides of a village a space, one hundred dhanus or three samya-throws (in breadth), shall be reserved (for pasture), and thrice (that space) round a town.
 </details>

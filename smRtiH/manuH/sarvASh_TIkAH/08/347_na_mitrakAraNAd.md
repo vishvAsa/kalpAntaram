@@ -3,6 +3,11 @@ title = "347 न मित्रकारणाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+347	Neither for friendship's sake, nor for the sake of great lucre, must a king let go perpetrators of violence, who cause terror to all creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither for the sake of friendship, nor for the sake of a large gain of money, should the king let off the perpetrators of violence, who cause terror to all living beings.—(347)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 8.345].
 <details><summary>भारुचिः</summary>
 
 साहसिकनिन्दैषा तन्निग्रहादरार्था विज्ञेया । अन्याय्यशस्त्रग्रहणस्य वर्णस्य शस्त्रग्रहणं साहसम् । तेन यो वर्तते स साहसिकः । एवं च सति तद्दोषप्रतिषेधार्थं निमित्ततः शस्त्रग्रहणं द्विजातेर् इदं तदपवादभूतम् आरभ्यते ॥ ८.३४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-347	Neither for friendship's sake, nor for the sake of great lucre, must a king let go perpetrators of violence, who cause terror to all creatures.
 </details>

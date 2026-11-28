@@ -3,6 +3,11 @@ title = "256 शिरोभिस् ते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+256	Let them, putting earth on their heads, wearing chaplets (of red flowers) and red dresses, being sworn each by (the rewards for) his meritorious deeds, settle (the boundary) in accordance with the truth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Placing earth upon their heads, wearing garlands and red clothes, and being sworn by their respective meritorious deeds, they shall decide honestly.—(256)
@@ -74,9 +79,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 नयनविधिः ॥ ८.२५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	Let them, putting earth on their heads, wearing chaplets (of red flowers) and red dresses, being sworn each by (the rewards for) his meritorious deeds, settle (the boundary) in accordance with the truth.
 </details>

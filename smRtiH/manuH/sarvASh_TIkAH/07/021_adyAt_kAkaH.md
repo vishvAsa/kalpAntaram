@@ -3,6 +3,11 @@ title = "021 अद्यात् काकः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	The crow would eat the sacrificial cake and the dog would lick the sacrificial viands, and ownership would not remain with any one, the lower ones would (usurp the place of) the higher ones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The crow would eat the Sacrificial Cake, and the dog would lick the offering-materials; rights of ownership would not remain with any one and there would be a confusion among the high and low.—(21).
@@ -44,9 +49,4 @@ reversal of all standards of superiority and inferiority.’
 <details><summary>भारुचिः</summary>
 
 सर्वा धर्माण् (?) । काकश्वादयः ऋद्धिमद्भिः सर्वोत्तमैर् अपि देवैर् दण्डाद् ऋते न शक्यन्ते प्रतिवारयितुम् । किं पुनर् अन्यः । सुहृन्मित्रस्वजनवचनाद् इति ॥ ७.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	The crow would eat the sacrificial cake and the dog would lick the sacrificial viands, and ownership would not remain with any one, the lower ones would (usurp the place of) the higher ones.
 </details>

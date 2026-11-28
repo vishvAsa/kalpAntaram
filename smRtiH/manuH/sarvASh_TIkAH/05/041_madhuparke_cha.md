@@ -2,6 +2,11 @@
 title = "041 मधुपर्के च"
 +++
 
+<details><summary>Bühler</summary>
+
+041	On offering the honey-mixture (to a guest), at a sacrifice and at the rites in honour of the manes, but on these occasions only, may an animal be slain; that (rule) Manu proclaimed.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 > **एष्व् अर्थेषु पशून् हिंसन् वेदतत्त्वार्थविद् द्विजः ।**
@@ -15,11 +20,6 @@ title = "041 मधुपर्के च"
 <details><summary>गोविन्दराजः</summary>
 
 **मधुपर्के चेति** । राजर्त्विक्स्नातकेत्येवमादिनोदिते गृह्योक्तस्वरूपे **मधुपर्के यज्ञे च** ज्योतिष्टोमादौ पित्र्ये दैवे च **कर्मणि** एव **पशवो **हिंसनीयाः **नान्यत्रेत्य्** एवं **मनुर् **उक्तवान् ॥ ५.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	On offering the honey-mixture (to a guest), at a sacrifice and at the rites in honour of the manes, but on these occasions only, may an animal be slain; that (rule) Manu proclaimed.
 </details>
 
 <details><summary>भारुचिः</summary>

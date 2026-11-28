@@ -3,6 +3,11 @@ title = "274 काणं वाप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+274	He who even in accordance with the true facts (contemptuously) calls another man one-eyed, lame, or the like (names), shall be fined at least one karshapana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, even truly, calls another ‘one-eyed’ or ‘lame’ or something else like it,—he should be made to pay a fine of at least one ‘Kārṣāpaṇa.’—(274)
@@ -87,9 +92,4 @@ or ironically—in regard to defective limbs or sense-organs or diseases,—he s
 <details><summary>भारुचिः</summary>
 
 कार्षापणावरत्वं चापराधं परिज्ञाय स्थाप्यम् । तथा च विहितदण्डापवादः शास्त्रोक्त एवानुबन्धं परिज्ञायेत्य् एवमादि ॥ ८.२७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-274	He who even in accordance with the true facts (contemptuously) calls another man one-eyed, lame, or the like (names), shall be fined at least one karshapana.
 </details>

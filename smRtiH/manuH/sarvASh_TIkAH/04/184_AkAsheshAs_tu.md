@@ -3,6 +3,11 @@ title = "184 आकाशेशास् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Female relatives (have power) over the region of the Heavenly nymphs; maternal relations, over that of the Viśvedevas; marriage-relations, over the region of the Waters; the mother and maternal uncle, over the Earth; the children, the aged, the emaciated and the sick should be regarded as the lords of Ākāśa; the elder brother is equal to the Father; the wife and the son are one’s own body.—(183-184).
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 4.182].
 <details><summary>गोविन्दराजः</summary>
 
 **आकाशेशा **इति । **बालवृद्ध**संश्रित्**आतुराः **अन्तरिक्षलोके प्रभवन्ति । **ज्येष्ठो भ्राता **पितृतुल्यः । अतो ऽसाव् अपि प्रजापतिलोके प्रभुः । **भार्यापुत्रौ **“अर्धो ह वा एष आत्मनः यज् जाया आत्मा वैपुत्रनामासि” (कौशुप् २.५१) इति श्रुतेः स्वम् एव शरीरम् अतः आत्मना सह कथं विवदेत् ॥ ४.१८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,
 </details>

@@ -2,6 +2,11 @@
 title = "107 आसनावसथौ शय्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should offer seat, room, bed, foliowing and attendance of the best kind to superiors, of the inferior kind to inferiors and of the equal (ordinary) kind to equals.—(107)
@@ -70,11 +75,6 @@ warm welcome and honour him with the offering of water and seat and also with wa
 <details><summary>गोविन्दराजः</summary>
 
 **आसनावसथाव्** इति । युगपदनेकातिथ्यवस्थाने सति ह्य् आसनस्थानविश्रामस्थानश्रद्धादि-शयनानुगमनपरिचरणं इतरेतरापेक्षयोत्कृष्टमध्यमेषु उत्कृष्टापकृष्टम् अमध्यमं कुर्यात् । अन्नं पुनस् तुल्यम् एव, तत्र विशेषाश्रवणात् ॥ ३.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
 </details>
 
 <details><summary>भारुचिः</summary>

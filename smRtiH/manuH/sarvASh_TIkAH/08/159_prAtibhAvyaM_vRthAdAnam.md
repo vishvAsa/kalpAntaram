@@ -3,6 +3,11 @@ title = "159 प्रातिभाव्यं वृथादानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+159	But money due by a surety, or idly promised, or lost at play, or due for spirituous liquor, or what remains unpaid of a fine and a tax or duty, the son (of the party owing it) shall not be obliged to pay.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the son shall not be liable to pay the surety-money, or a futile gift, or gambling deists, or debts due to liquor, or the balance of fines and duties.—(159)
@@ -156,9 +161,4 @@ which he has vouched for, the debtor shall pay him twice as much, after the laps
 <details><summary>भारुचिः</summary>
 
 एतेषु पुत्रस्यासंबन्धः शास्त्रसामर्थ्याद् विज्ञेयः । शुल्कावशेषम् इति वचनात् कृत्स्ने शुल्के ऽस्ति पुत्रस्य संबन्धः । दण्डावशेषस्याप्य् एनं विधिम् इच्छन्ति केचित् । प्रातिभाव्यसंबन्धेन च समानविधित्वात् वृथादानादिषु पित्र्येषु न पुत्राः संबध्यन्ते । इदानीं द्विप्रकारस्य प्रतिभुवो न **पुत्रो दातुम् अर्हती**त्य् एतस्मिन् प्राप्त इदम् आरभ्यते — ॥ ८.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	But money due by a surety, or idly promised, or lost at play, or due for spirituous liquor, or what remains unpaid of a fine and a tax or duty, the son (of the party owing it) shall not be obliged to pay.
 </details>

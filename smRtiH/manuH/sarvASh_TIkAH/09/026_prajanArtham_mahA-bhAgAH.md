@@ -3,6 +3,11 @@ title = "026 प्रजनार्थम् महा-भागाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	Between wives (striyah) who (are destined) to bear children, who secure many blessings, who are worthy of worship and irradiate (their) dwellings, and between the goddesses of fortune (sriyah, who reside) in the houses (of men), there is no difference whatsoever.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no difference whatever between the goddess of fortune and the women who secure many blessings for the sake of bearing children, who are worthy of worship and who form the glory of their household—(26)
@@ -72,9 +77,4 @@ always honour women; O Bhārata, when the woman is loved and also held in restra
 <details><summary>भारुचिः</summary>
 
 एषो ऽस्याभिप्रायः- सर्वदोषावस्कन्नानाम् अपि हि स्त्रीणां प्रजननायोगान् महाप्रयोजनत्वे सत्य् अयुक्तस् तासां परित्यागः प्रायश्चित्तप्रत्याहरणीयत्वात् । तथा च वक्ष्यति संयतां वासयेद् गृहे, "यत् पुंसः परदारेषु तच् चैनं चारयेद् व्रतम्" इति वचनात् । न चाकस्मात् स्तुतिः प्रवर्तत इति कृत्वावश्यम् एतद् अभ्युपगन्तव्यम् ॥ ९.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	Between wives (striyah) who (are destined) to bear children, who secure many blessings, who are worthy of worship and irradiate (their) dwellings, and between the goddesses of fortune (sriyah, who reside) in the houses (of men), there is no difference whatsoever.
 </details>

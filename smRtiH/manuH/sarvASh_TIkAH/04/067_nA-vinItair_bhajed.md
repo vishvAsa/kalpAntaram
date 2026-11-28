@@ -3,6 +3,11 @@ title = "067 नाऽविनीतैर् भजेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not travel with untrained beasts of burden; nor with such as are suffering from hunger or disease; nor with those whose horns, eyes or hoofs are injured; nor with those that are disfigured by their tails.—(67)
@@ -56,9 +61,4 @@ defective conveyances.’
 <details><summary>गोविन्दराजः</summary>
 
 **नाविनीतैर्** इति । अश्ववृषभादिभिः गन्त्र्यादिधुर्वहनविनियुक्तैर् अदान्तैः बुभुक्षाव्याध्यार्तियुक्तैः भिन्नशृङ्गाक्षिखुरैः छिन्नपुच्छैः न यायात् ॥ ४.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.
 </details>

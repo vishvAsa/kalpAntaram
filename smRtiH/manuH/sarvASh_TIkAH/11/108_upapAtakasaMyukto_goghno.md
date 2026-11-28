@@ -3,6 +3,11 @@ title = "108 उपपातकसंयुक्तो गोघ्नो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+109	He who has committed a minor offence by slaying a cow (or bull) shall drink during (the first) month (a decoction of) barley-grains; having shaved all his hair, and covering himself with the hide (of the slain cow), he must live in a cow-house.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The cow-killer, charged with a minor offence, shall drink barley for three months; and having shaved his head and covered with the skin of the cow, he shall live in the cow-pen.—(108)
@@ -84,9 +89,4 @@ five bovine products for a month, sleeping in the cowpen, serving the cows; and 
 three times during the day, and live among cows during the night, and go behind them during the day; when it is hot, or raining, or very cold or when the wind is blowing strongly, he shall not protect himself until he has protected the cows to the best of his ability. If he finds a cow grazing in a field or in a threshing yarn—either his own or belonging to some one else,—he shall not tell of it to any one; nor shall he tell any one when he finds a calf sucking milk. He shall drink water when the cows drink it, he down when they he down, and with all his strength shall save a cow when she has either fallen down or stuck in mud. One shall prescribe as penance for cow-killing a suitable *Prājāpatya* and
 *Kṛcchra*: (Forms of these penances)—For one day he shall eat once; for
 one day he shall eat only in the evening; for one day he shall eat only what he gets without asking for it; and for one day he shall live on air; for two days he shall eat only once; for two days he shall eat what he gets without asking for it, for two days he shall eat only at night; for two days he shall live on air. Each of these being done for three days; and for four days. The prescribed penance having been performed, he shall feed Brāhmaṇas, present them with fees and recite the sacred texts. After feeding the Brāhmaṇas, the cow-killer becomes purified without doubt.’
-</details>
-
-<details><summary>Bühler</summary>
-
-109	He who has committed a minor offence by slaying a cow (or bull) shall drink during (the first) month (a decoction of) barley-grains; having shaved all his hair, and covering himself with the hide (of the slain cow), he must live in a cow-house.
 </details>

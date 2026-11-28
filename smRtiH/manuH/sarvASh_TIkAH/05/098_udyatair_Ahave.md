@@ -2,6 +2,11 @@
 title = "098 उद्यतैर् आहवे"
 +++
 
+<details><summary>Bühler</summary>
+
+098	By him who is slain in battle with brandished weapons according to the law of the Kshatriyas, a (Srauta) sacrifice is instantly completed, and so is the period of impurity (caused by his death); that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one who is killed in battle with brandished weapons, in the manner befitting the kṣatriya, sacrificial performances become instantly completed; and so also is the impurity; such is the established law—(97).
@@ -55,11 +60,6 @@ orbit—the mendicant firm in Yoga and one killed in the battle-front.’
 <details><summary>गोविन्दराजः</summary>
 
 **उद्यतैर्** इति । सङ्ग्राम उद्यतैः खड्गादिभिः अपराङ्मुखत्वादिक्षत्रियधर्मयुक्तस्य हतस्य तत्क्षणाद् एव यज्ञसमाप्तिस् तत्कालम् एव यज्ञफलसम्बन्धात् तथाशौचम् अपि तत्क्षणाद् एव समाप्तिम् एतीत्य् एवं शास्त्रमर्यादा ॥ ५.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	By him who is slain in battle with brandished weapons according to the law of the Kshatriyas, a (Srauta) sacrifice is instantly completed, and so is the period of impurity (caused by his death); that is a settled rule.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "221 भुक्तवान् विहरेच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+221	When he has dined, he may divert himself with his wives in the harem; but when he has diverted himself, he must, in due time, again think of the affairs of state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having dined, he shall amuse himself in the inner apartment, in the company of the ladies; and having amused himself, he shall in due time again attend to business.—(221)
@@ -50,9 +55,4 @@ and perfumes, and being decked with garlands and ornaments, the king shall hold 
 <details><summary>गोविन्दराजः</summary>
 
 **भुक्तवान्** इति । कृतभोजनः सन् तस्मिन्न् एवान्तःपुरे भार्याभिः सह क्रीडेत् । कालातिक्रमेण च सप्तमे दिवसस्य भागे तत्र विहृत्याष्टमे भागे पुनः कार्याणि चिन्तयेत् ॥ ७.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	When he has dined, he may divert himself with his wives in the harem; but when he has diverted himself, he must, in due time, again think of the affairs of state.
 </details>

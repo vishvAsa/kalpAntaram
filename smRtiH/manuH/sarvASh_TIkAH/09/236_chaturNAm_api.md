@@ -3,6 +3,11 @@ title = "236 चतुर्णाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+236	On those four even, if they do not perform a penance, let him inflict corporal punishment and fines in accordance with the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even on all these four, if they do not perform the expiatory penance, the king shall inflict corporal punishment along with fine, in accordance with the law.—(236)
@@ -65,9 +70,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 **चतुर्णाम् अपीति** वचनात् तत्संबन्धी पञ्चमो गृह्यते । स्त्रीबालब्राह्मणवधे [व]धदण्ड उक्तः । **चतुर्णाम् अपि चैतेषाम्** इत्य् अत्र श्लोक [अङ्क]न[ं] धनदण्डश् च । तद् एतत् पातकानुरूपं कार्यम् । शूद्रस्य तु ब्रह्महत्याप्रायश्चित्तम् अकुर्वतो दण्डद्वयम् ॥ ९.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	On those four even, if they do not perform a penance, let him inflict corporal punishment and fines in accordance with the law.
 </details>

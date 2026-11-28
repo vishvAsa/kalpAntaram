@@ -3,6 +3,11 @@ title = "054 ओघ-वाताहृतम् बीजम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	If seed be carried by water or wind into somebody's field and germinates (there), the (plant sprung from that) seed belongs even to the owner of the field, the owner of the seed does not receive the crop.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If seed, carried away by rain or wind, germinates in a soil,—that seed belongs to the owner of the soil, and the owner of the seed does not receive the produce.—(54)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 ओघवातग्रहणं च प्रदर्शनार्थं विज्ञेयम् । अतश् च यश् चौर्याद् बलाद् वा पारक्षेत्रवापी न तस्यास्ति भाग इति गम्यते ॥ ९.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	If seed be carried by water or wind into somebody's field and germinates (there), the (plant sprung from that) seed belongs even to the owner of the field, the owner of the seed does not receive the crop.
 </details>

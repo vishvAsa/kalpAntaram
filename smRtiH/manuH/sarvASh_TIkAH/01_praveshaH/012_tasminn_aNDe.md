@@ -2,6 +2,11 @@
 title = "012 तस्मिन्न् अण्डे"
 +++
 
+<details><summary>Bühler</summary>
+
+012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That supreme lord, having dwelt in that egg for a y ear, himself, by his own thought, broke that egg into two parts.—(12)
@@ -43,11 +48,6 @@ broke, not because the indwelling Brahmā willed it, hut because of its full *de
 <details><summary>गोविन्दराजः</summary>
 
 **तस्मिन्न्** इति । पूर्वोक्ते **अण्डे स **ब्रह्मा यदृच्छया **संवत्सरम् **आसित्वा, **आत्मनः** आत्मगतेन **ध्यायेन्**ऐव **तद् अण्डं **द्विखण्डं कृतवान् ॥ १.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
 </details>
 
 <details><summary>भारुचिः</summary>

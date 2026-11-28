@@ -3,6 +3,11 @@ title = "112 आतुराम् अभिशस्ताम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+113	(When a cow is) sick, or is threatened by danger from thieves, tigers, and the like, or falls, or sticks in a morass, he must relieve her by all possible means:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a cow is sick, or threatened with danger from thieves, tigers and the like, or falls, or becomes stuck in a morass, he shall rescue her with all his strength.—(112)
@@ -47,9 +52,4 @@ See Explanatory notes for [Verse 11.108].
 **
 
 See Comparative notes for [Verse 11.108].
-</details>
-
-<details><summary>Bühler</summary>
-
-113	(When a cow is) sick, or is threatened by danger from thieves, tigers, and the like, or falls, or sticks in a morass, he must relieve her by all possible means:
 </details>

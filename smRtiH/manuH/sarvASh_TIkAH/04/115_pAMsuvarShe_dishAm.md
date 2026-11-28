@@ -3,6 +3,11 @@ title = "115 पांसुवर्षे दिशाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall not read during a dust-storm, or while the sky is burning, or while jackals are howling, or while dogs ur donkeys or camels are crying in a line.—(115).
@@ -53,9 +58,4 @@ instruments, or cry of distress,—in the outskirts of the village, or in the cr
 <details><summary>गोविन्दराजः</summary>
 
 **पांसुवर्ष** इति । रजोवर्षे दिग्दाहे च यत्र ज्वलिता इव दिशो लक्ष्यन्ते । शृगालश्वखरविरुते पङ्क्त्याकारेण चोपविश्य **द्विजो न पठेत्** ॥ ४.११५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.
 </details>

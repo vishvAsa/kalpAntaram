@@ -3,6 +3,11 @@ title = "056 वि-धूमे सन्न-मुसले"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	When no smoke ascends from (the kitchen), when the pestle lies motionless, when the embers have been extinguished, when the people have finished their meal, when the remnants in the dishes have been removed, let the ascetic always go to beg.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The renunciate shall go for begging alms at a time when there is no smoke issuing, when the pestle has ceased to ply, when fire embers have been extinguished, when people have eaten, and when the removal of the dishes has been finished.—(56)
@@ -69,11 +74,6 @@ shall beg for pure food daily in the evening.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-056	When no smoke ascends from (the kitchen), when the pestle lies motionless, when the embers have been extinguished, when the people have finished their meal, when the remnants in the dishes have been removed, let the ascetic always go to beg.
-</details>
-
-<details><summary>Bühler</summary>
 
 056	When no smoke ascends from (the kitchen), when the pestle lies motionless, when the embers have been extinguished, when the people have finished their meal, when the remnants in the dishes have been removed, let the ascetic always go to beg.
 </details>

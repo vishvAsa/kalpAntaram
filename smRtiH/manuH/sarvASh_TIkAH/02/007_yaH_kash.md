@@ -2,6 +2,11 @@
 title = "007 यः कश्"
 +++
 
+<details><summary>Bühler</summary>
+
+007	Whatever law has been ordained for any (person) by Manu, that has been fully declared in the Veda: for that (sage was) omniscient.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever Dharma for whatever person has been described by Manu,—all this is declared in the Veda; since the Veda embodies all knowledge.—(7)
@@ -53,11 +58,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 20.7.)
 <details><summary>गोविन्दराजः</summary>
 
 तथा च वेदमूलत्वम् एषां दर्शयति – **य **इति । **कस्यचित् **श्रुतिशीलाचारात्मतुष्टिप्रमाणको धर्मः कस्यचित् ब्राह्मणादेः **मनुना **कथितः **स **सर्वैर् वेदैर् उक्तः उच्छिन्नविप्रकीर्णमन्त्रार्थवादलिङ्गमूलत्वात् तत्स्मरणस्य, अतीन्द्रियार्थप्रतिपादने हि वेदविदाम् अगृह्यमाणकारणानां वेदस्यैव मूलत्वसम्भवात् । यस्मात् सर्वदृष्टार्थज्ञानहेतुत्वात् **सर्वज्ञानमयः **सर्वज्ञानारब्ध इव वेदः । अत्र च अष्टकादीनां महाप्रत्यवायादीनां ग्रन्थेनोपनिबन्धः । शीलाचारात्मतुष्टीनां पुनर् अल्पप्रत्यवायत्वात् [न] उपनिबन्धः ॥ २.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	Whatever law has been ordained for any (person) by Manu, that has been fully declared in the Veda: for that (sage was) omniscient.
 </details>
 
 <details><summary>भारुचिः</summary>

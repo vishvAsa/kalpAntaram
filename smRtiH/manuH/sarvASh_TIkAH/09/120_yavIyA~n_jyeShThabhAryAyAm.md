@@ -3,6 +3,11 @@ title = "120 यवीयाञ् ज्येष्ठभार्याया
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	If a younger brother begets a son on the wife of the elder, the division must then be made equally; this the law is settled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the younger brother begets a son on the wife of the elder, the division in that case shall be equal; such is the settled law.—(120)
@@ -54,9 +59,4 @@ the same mother, but from diverse fathers, their shares shall be determined by t
 <details><summary>भारुचिः</summary>
 
 ज्येष्ठांशापवादार्थो ऽयम् आरम्भः । एवं च ज्येष्ठापत्यतया तदंशाधिको भागो न स्यात्, गुणवतो ऽपि कनीयसोत्पन्नत्वात् क्षेत्रजत्वाच् च । नाप्य् अर्धांशः, किं तर्हि "समस् तत्र विभागः स्यात्" । केन, पितृव्येन पितुः कनीयसोत्पादकेनेति । अयं च नियुक्तासुतः क्षेत्रजो विज्ञेयः । अनियुक्तासुतस्य त्व् अनंशार्हत्वम् एव वक्ष्यते । ज्येष्ठपुत्रस्य तु गुणवतः पितुर् इव सोद्धारो धणांश इत्य् एतद् अपि च सामर्थ्याद् गम्यते ॥ ९.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	If a younger brother begets a son on the wife of the elder, the division must then be made equally; this the law is settled.
 </details>

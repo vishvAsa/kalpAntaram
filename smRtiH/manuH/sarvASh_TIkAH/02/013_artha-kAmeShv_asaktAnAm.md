@@ -2,6 +2,11 @@
 title = "013 अर्थ-कामेष्व् असक्तानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+013	The knowledge of the sacred law is prescribed for those who are not given to the acquisition of wealth and to the gratification of their desires; to those who seek the knowledge of the sacred law the supreme authority is the revelation (Sruti).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The knowledge of Dharma is ordained for those who are not addicted to the pursuit of wealth and pleasures; and for those seeking for the knowledge of Dharma, the Revealed Word is the highest authority.—(13)
@@ -145,11 +150,6 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 <details><summary>गोविन्दराजः</summary>
 
 **अर्थकामेष्व्** इति । **अर्थकामा**ख्यदृष्टपुरुषार्थेषु **असक्तानां **तल्लिप्साशून्यानां तत्त्वावबोधनं शास्त्रेण विधीयते । तल्लिप्सया लोकव्यक्त्यर्थं धर्मानुष्ठाने सति अदृष्टफलाभावात् किं धर्मज्ञानेनेत्य् अभिप्रायः । तथा च श्रुतिस्मृत्यादिविरोधे सति तत्त्वं ज्ञातुम् इच्छतां श्रुत्यादीनां मध्यात् **श्रुतिः** प्रकृष्टं **प्रमाणम्** । अतश् च श्रुतिविरोधे स्मृत्यवबाधः, प्रत्यक्षविरोधे ऽनुमानस्य दुर्बलत्वात् ॥ २.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	The knowledge of the sacred law is prescribed for those who are not given to the acquisition of wealth and to the gratification of their desires; to those who seek the knowledge of the sacred law the supreme authority is the revelation (Sruti).
 </details>
 
 <details><summary>भारुचिः</summary>

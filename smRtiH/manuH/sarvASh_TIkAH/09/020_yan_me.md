@@ -3,6 +3,11 @@ title = "020 यन् मे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	'If my mother, going astray and unfaithful, conceived illicit desires, may my father keep that seed from me,' that is the scriptural text.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘If my mother, unfaithful unto her lord, became enamoured while roaming about,—may my father’s semen remove that from me’;—this is an example of this.—(20)
@@ -85,9 +90,4 @@ See Comparative notes for [Verse 9.19].
 <details><summary>भारुचिः</summary>
 
 कस्मिंश्चित् किल कर्मणि यजमान इदम् आह- यद्य् अपि मे माता परपुरुषलोभा व्यभिचारिणी भवेत् तथापि तद् रेतः पितैव मे वृङ्क्ता[म् इति । अस्य]इतन् निदर्शनम्- वेदे ऽपि च स्वभावव्यभिचारित्वं स्त्रीणां दृश्यते । ततस् तत्संरक्षणार्थम् अयं वैदिको निगम उदाहृतः ॥ ९.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	'If my mother, going astray and unfaithful, conceived illicit desires, may my father keep that seed from me,' that is the scriptural text.
 </details>

@@ -2,6 +2,11 @@
 title = "095 श्रावण्याम् प्रौष्ठपद्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having perfomed the “Upākarma” (starting rite) on the full- moon day in the month of Śrāvaṇa or of Bhādrapada, the Brāhmaṇa shall, with due diligence, study the vedas, according to rule, during four months and a half.—(95)
@@ -96,11 +101,6 @@ the fullmoon day of Bhādra, under the asterism of Hastā.’
 <details><summary>गोविन्दराजः</summary>
 
 **श्रावण्याम्** इति । श्रावणस्य भाद्रपदस्य वा पौर्णमास्याम् उपाकर्माख्यं (कर्म) गृह्योक्तविधानेन कृत्वा ततः सार्धाश् चतुरो मासान् ब्राह्मणो यत्नवान् वेदान्** अधीयीत** ॥ ४.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.
 </details>
 
 <details><summary>भारुचिः</summary>

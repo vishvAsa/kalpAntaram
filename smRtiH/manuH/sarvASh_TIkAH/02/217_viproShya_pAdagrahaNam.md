@@ -2,6 +2,11 @@
 title = "217 विप्रोष्य पादग्रहणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having returned from a journey, he should clasp the feet of his Teacher’s wife, and daily he should salute her, bearing in mind the duty of the righteous.—(217)
@@ -51,11 +56,6 @@ journey.’
 <details><summary>गोविन्दराजः</summary>
 
 **विप्रोष्येति** । प्रवासप्रत्यागतः **पादो**पसं**ग्रहणं **प्रत्यहं पुनर् अभिवादनमात्रं गुरुभार्यासु कुर्यात् । एष एव साध्वाचार इति सञ्चिन्तयन् ॥ २.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
 </details>
 
 <details><summary>भारुचिः</summary>

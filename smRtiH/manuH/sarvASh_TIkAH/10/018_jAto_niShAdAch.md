@@ -3,6 +3,11 @@ title = "018 जातो निषादाच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+018	The son of a Nishada by a Sudra female becomes a Pukkasa by caste (gati), but the son of a Sudra by a Nishada female is declared to be a Kukkutaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Āvṛta’ is born from the Brāhmaṇa on the ‘ugra’ maiden, the ‘Ābhīra’ on the ‘Ambaṣṭha’ maiden and the ‘Dhigvaṇa’ on the ‘Āyogava’ maiden.—(15)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 10.6].
 > **शूद्राज् जातो निषाद्यां तु स वै कुक्कुटकः स्मृतः  ॥ १०.१८ ॥**
 
 अयं निषादो ऽस्मिञ् छ्लोके न शूद्रायां ब्राह्मणाज् जातो यथोक्तः । प्रतिलोमाधिकारसामर्थ्यात् । इतरथा हि ब्राह्मणजातः शूद्रायां यो निषाद उक्तः तस्माच् छूद्रायां जातस्यानुलोम्यात् पुल्कसत्वम् अयुक्तम्, प्रतिलोमत्वात् पुल्कसजातेर् इति । एवम् एव,
-</details>
-
-<details><summary>Bühler</summary>
-
-018	The son of a Nishada by a Sudra female becomes a Pukkasa by caste (gati), but the son of a Sudra by a Nishada female is declared to be a Kukkutaka.
 </details>

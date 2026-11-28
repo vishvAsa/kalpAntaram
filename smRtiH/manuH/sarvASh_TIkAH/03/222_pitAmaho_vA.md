@@ -2,6 +2,11 @@
 title = "222 पितामहो वा"
 +++
 
+<details><summary>Bühler</summary>
+
+222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu has declared that either the grandfather may eat at that Śrāddha, or the man himself may, according to his will, perform it, after being permitted by him.—(222)
@@ -49,11 +54,6 @@ father and to the grand-father.’
 <details><summary>गोविन्दराजः</summary>
 
 **पितामह** इति । पितामहविप्रस्थाने पितामहं वा भोजयेत् । पितृप्रपितामहयोः पिण्डदानं ब्राह्मणभोजनं च कुर्यात् । अथ वा पित्रा पितामहेन वा जीवता अहं न भुञ्जे यथेच्छम् एव (कुर्विति) **अनुज्ञातः** **स्वयम् एव** यथारुचि **समाचरेत्** । उक्तपक्षेभ्यः पक्षान्तरं यथा गृह्ये उक्तम्- “जीवत्पितृकस्यानारम्भः कर्माणीति होमान्तः” ॥ ३.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.
 </details>
 
 <details><summary>भारुचिः</summary>

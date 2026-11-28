@@ -3,6 +3,11 @@ title = "036 तेन यद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	Whatever must be done by him and by his servants for the protection of his people, that I will fully declare to you in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever should be done by him and his servants, for the protecting of his people, all that I am going to explain to you precisely and in due order—(36)
@@ -37,9 +42,4 @@ By the King and his ‘servants’—*i.e*., his assistants—whatever has to be
 <details><summary>भारुचिः</summary>
 
 श्रोतॄणाम् अवधानार्थः श्लोकः ॥ ७.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	Whatever must be done by him and by his servants for the protection of his people, that I will fully declare to you in due order.
 </details>

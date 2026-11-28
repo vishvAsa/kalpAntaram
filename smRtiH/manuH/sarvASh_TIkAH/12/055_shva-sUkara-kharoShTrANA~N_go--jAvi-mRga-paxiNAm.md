@@ -3,6 +3,11 @@ title = "055 श्व-सूकर-खरोष्ट्राणाङ् ग�
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	The slayer of a Brahmana enters the womb of a dog, a pig, an ass, a camel, a cow, a goat, a sheep, a deer, a bird, a Kandala, and a Pukkasa.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who kills a Brāhmaṇa enters the womb of a dog, a pig, an ass, a camel, a cow, a goat, a sheep, a deer or a bird, or that of a Caṇḍāla or a Pukkasa.—(55)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **श्वशूकरखरोष्ट्राणाम्** इति । श्वशूकरखरोष्ट्रगोच्छागैडकमृगपक्षिनां चाण्डालानां शूद्रेण ब्राह्मणीजातानां सम्बन्धिनीं जातिं ब्रह्महा प्राप्नोति ॥ १२.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	The slayer of a Brahmana enters the womb of a dog, a pig, an ass, a camel, a cow, a goat, a sheep, a deer, a bird, a Kandala, and a Pukkasa.
 </details>

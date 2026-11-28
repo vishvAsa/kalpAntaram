@@ -2,6 +2,11 @@
 title = "067 वैवाहिको विधिः"
 +++
 
+<details><summary>Bühler</summary>
+
+067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For females the Rites of marriage have been ordained to be their ‘Vedic Sacrament,’ the serving of the husbands their ‘residence with the Teacher,’ and the household-duties their ‘tending of fire.’—(67)
@@ -72,11 +77,6 @@ also there was Upanayana, also the teaching of the Veda and the pronouncing of t
 <details><summary>गोविन्दराजः</summary>
 
 एवम् उपनयने ऽप्य् अमन्त्रके प्राप्ते आह **वैवाहिक** इति । यद् विवाहविधानं तद् एवासां वैदिकसंस्कारः उपनयनस्थाने । **पतिसेवा** च गुरुशुश्रूषास्थाने, **गृहकृत्यं **चाग्निपरिचरणस्थाने ॥ २.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
 </details>
 
 <details><summary>भारुचिः</summary>

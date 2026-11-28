@@ -3,6 +3,11 @@ title = "022 यामीस् ता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	The individual soul, having endured those torments of Yama, again enters, free from taint, those very five elements, each in due proportion.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That personality, having suffered those torments inflicted by Yama, and thereby freed from sin, again enters into those very material substances, each in due proportion.—(22)
@@ -41,9 +46,4 @@ The purport of these four verses is as follows:—It is only when there is a lar
 <details><summary>भारुचिः</summary>
 
 पुनर् अस्य कर्मजस्य शरीरस्य प्रतिपत्त्यर्थं ता एव पञ्चभूतमात्रा अब्येति । येन न ताभिर् विना पुरुषस्योपभोगः संभवति ॥ १२.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	The individual soul, having endured those torments of Yama, again enters, free from taint, those very five elements, each in due proportion.
 </details>

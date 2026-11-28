@@ -2,6 +2,11 @@
 title = "245 उत्तमान् उत्तमान्"
 +++
 
+<details><summary>Bühler</summary>
+
+245	A Brahmana who always connects himself with the most excellent (ones), and shuns all inferior ones, (himself) becomes most distinguished; by an opposite conduct he becomes a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having recourse to superior kinds of people, and avoiding the inferior kinds, the Brāhmaṇa attains eminence; by the contrary procedure, he becomes a Śūdra.—(245)
@@ -35,11 +40,6 @@ Having recourse to superior kinds of people, and avoiding the inferior kinds, th
 <details><summary>गोविन्दराजः</summary>
 
 **उत्तमान् उत्तमान् एव गच्छन् हीनांश् च वर्जयन्न्** इति । उत्तमसम्बन्धेषू उत्तमाननुसरन् निकृष्टांश् च **वर्जयन् ब्राह्मणः श्रेष्ठत्वं **प्राप्नोति । विपर्ययन् पुनः जातेर् अनपायात् शूद्रतुल्यतां** **प्राप्नोति ॥ ४.२४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	A Brahmana who always connects himself with the most excellent (ones), and shuns all inferior ones, (himself) becomes most distinguished; by an opposite conduct he becomes a Sudra.
 </details>
 
 <details><summary>भारुचिः</summary>

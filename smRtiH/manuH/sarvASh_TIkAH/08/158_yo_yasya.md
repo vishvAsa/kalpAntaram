@@ -3,6 +3,11 @@ title = "158 यो यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+158	The man who becomes a surety in this (world) for the appearance of a (debtor), and produces him not, shall pay the debt out of his own property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man stands surety for the appearance of a person, if he does not produce him, he shall pay his debt out of his own property.—(158)
@@ -85,9 +90,4 @@ the absconding debtor, the surety should be given time, extending up to a month 
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यात एवायं श्लोकः । इदानीम् अस्य दर्शनप्रतिभुवो ऽधमर्णम् उत्तमर्णस्यादर्शयतः स्वधनाद् ऋणदानप्राप्तौ सत्याम् मृतस्य "रिक्थभाज ऋणं प्रतिकुर्युः" इत्य् अनेन शास्त्रेणार्थतश् च तत्पुत्रदानं प्राप्तं सत् प्रतिषिध्यते ॥ ८.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	The man who becomes a surety in this (world) for the appearance of a (debtor), and produces him not, shall pay the debt out of his own property.
 </details>

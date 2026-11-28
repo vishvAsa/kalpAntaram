@@ -3,6 +3,11 @@ title = "331 परिपूतेषु धान्येषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+331	For husked grain, vegetables, roots, and fruit the fine (shall be) one hundred (panas) if there is no connexion (between the owner and the thief), fifty (panas) if such a connexion exists.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For husked grains, for vegetables, roots and fruits, there shall be a fine of a hundred, in a case where there has been no propitiation; and fifty, where there has been propitiation.—(331)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 8.326-329].
 <details><summary>भारुचिः</summary>
 
 **निरन्वये** आरक्षानधिष्ठिते ग्रहणम् अयुक्ततरम् इति शतं दण्ड उच्यते, **सान्वये** तूभयत्र दोषात् साहसत्वाद् वार्धम् उच्यते । अन्यस् त्व् आह- **निरन्वये** निरनुगमे यदि नानुनयति ततो हरणं शतदण्ड्यो भवति । अथानुगमयति ततः पञ्चाशत् ॥ ८.३३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-331	For husked grain, vegetables, roots, and fruit the fine (shall be) one hundred (panas) if there is no connexion (between the owner and the thief), fifty (panas) if such a connexion exists.
 </details>

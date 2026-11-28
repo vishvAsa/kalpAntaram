@@ -3,6 +3,11 @@ title = "076 सर्वस्वं वेदविदुषे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	Or he may present to a Brahmana, learned in the Vedas, whole property, as much wealth as suffices for the maintenance (of the recipient), or a house together with the furniture;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall make over to a Brāhmaṇa learned in the Veda, his entire property, which should be wealth sufficient for his maintenance,—or a house along with the furniture.—(76)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 11.72].
 **सर्वस्वम्** इति । सर्वस्वं वा वेदज्ञाय ब्राह्मणाय दद्याद् यस्माद् धनं जीवनाय समर्थं गृहे वा गृहोपयोगि । धनधान्यादियुक्तं यतः 
 
  गृहोपभोगिधनधान्यादियुक्तं यतः सर्वस्वं वा गृहं सपरिच्छदं दद्यात् । जीवनायालम् इति वचनाज् जीवनपर्याप्तं सर्वस्वं दद्यात् नातो ऽर्वाक् ॥ ११.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	Or he may present to a Brahmana, learned in the Vedas, whole property, as much wealth as suffices for the maintenance (of the recipient), or a house together with the furniture;
 </details>

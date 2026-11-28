@@ -2,6 +2,11 @@
 title = "053 आर्षे गोमिथुनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people declare that the bovine pair are the “consideration” (to be accepted) in the Ārṣa form of marriage. This is not true; for small or large, the act becomes a ‘selling’ all the same.—(53)
@@ -75,11 +80,6 @@ hundred cows is made, it is known as *selling*.’ *Apastamba-Dharmasūtra* (2.1
 <details><summary>गोविन्दराजः</summary>
 
 **आर्षे **इति । **आर्षे **विवाहे **गोमिथुनं शुल्कं** वराद् ग्राह्यम् इति केचिद् आचार्याः प्राहुः तत् पुनर् असत्यम्, यस्माद् अल्पार्थं साध्यत्वाद् अल्पो वा भवतु बहुमूल्यसाध्यत्वान् महान् वा भवतु सर्वथा विक्रयस् तावद् असौ भवति । “एवम् एकं गोमिथुनम्” इत्य् एतत् परमतम् इत्य् अवसीयते ॥ ३.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	Some call the cow and the bull (given) at an Arsha wedding 'a gratuity;' (but) that is wrong, since (the acceptance of) a fee, be it small or great, is a sale (of the daughter).
 </details>
 
 <details><summary>भारुचिः</summary>

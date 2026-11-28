@@ -3,6 +3,11 @@ title = "095 देवदत्ताम् पतिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+095	The husband receives his wife from the gods, (he does not wed her) according to his own will; doing what is agreeable to the gods, he must always support her (while she is) faithful.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The husband obtains his wife as a present from the gods, and not by his own wish; hence he should always support the faithful wife, thereby doing what is agreeable to the gods.—(95)
@@ -90,9 +95,4 @@ gods is the teaching of the Law; he (who does not treat her well) falsifies the 
 <details><summary>भारुचिः</summary>
 
 स्वप्रयत्नाद् ऋते पित्रोपनीता देवदत्ता भवति, स्वव्यापारपाप्ता वा । उपदेशप्रयोजनं तां साध्वीं द्विषतीम् अपि द्वेष्यां च सतीं बिभृयात् । येनेदृश्या सहधर्मचारिण्या यजमानेन हविः प्रत्तं देवताभिः प्रतिगृह्यते । प्रसवशुद्धा च सा देवपितृमौष्याणाम् अनृण्ये हि निमित्तम् भवति । यतस् ताम् ईदृशीं द्वेष्यतादिभिर् अपि कारणैर् न परित्यजेत् । येन ॥ ९.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	The husband receives his wife from the gods, (he does not wed her) according to his own will; doing what is agreeable to the gods, he must always support her (while she is) faithful.
 </details>

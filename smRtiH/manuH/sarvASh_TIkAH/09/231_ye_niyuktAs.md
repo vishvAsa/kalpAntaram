@@ -3,6 +3,11 @@ title = "231 ये नियुक्तास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+231	But those appointed (to administer public) affairs, who, baked by the fire of wealth, mar the business of suitors, the king shall deprive of their property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the officers deputed to look after the business of suitors should, fired by the heat of wealth, hamper that business,—these the King shall render penniless.—(231)
@@ -70,9 +75,4 @@ punishment ordained for the judge who takes bribes.’
 <details><summary>भारुचिः</summary>
 
 धनोष्मणा कस्यचिद् व्यवहारतः साहाय्यं कुर्वन्ति । ते निःस्वाः कार्याः । अथ वा अधिकृताः सन्तो धनं गृहीत्वा ये ऽन्यथा कार्याणि कुर्युः ते निःस्वाः कार्या इति ॥ ९.२३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-231	But those appointed (to administer public) affairs, who, baked by the fire of wealth, mar the business of suitors, the king shall deprive of their property.
 </details>

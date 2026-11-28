@@ -3,6 +3,11 @@ title = "043 पाणिग्रहणसंस्कारः स-वर्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of girls of the same caste (as the bridegroom) the sacramental rite of “taking the hand” has been prescribed; and in that of the marriage of girls of different castes, this (following) should be known as the right procedure.—(43)
@@ -46,9 +51,4 @@ bridegroom, the hand is to be held.’
 <details><summary>गोविन्दराजः</summary>
 
 **पाणिग्रहणसंस्कार** इति । हस्तग्रहणात्मकसंस्कारः गृह्योक्तः समानजातिषु गृह्यमाणासु शास्त्रेणोच्यते असजातिषु पुनः उह्यमानासु विवाहकर्मणि अयं वक्ष्यमाणो विधिः पाणिग्रहणस्थाने विज्ञेयः ॥ ३.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).
 </details>

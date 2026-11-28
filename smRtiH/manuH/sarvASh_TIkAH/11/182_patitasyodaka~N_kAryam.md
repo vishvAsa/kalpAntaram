@@ -3,6 +3,11 @@ title = "182 पतितस्योदकङ् कार्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+183	The Sapindas and Samanodakas of an outcast must offer (a libation of) water (to him, as if he were dead), outside (the village), on an inauspicious day, in the evening and in the presence of the relatives, officiating priests, and teachers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one has become an outcast, his Sapiṇḍas and relations shall offer him ‘water’ outside, on an inauspicious day, in the evening, in the presence of relatives, priests and elders.—(182)
@@ -70,9 +75,4 @@ must upset a jar with water with her feet.’
 <details><summary>भारुचिः</summary>
 
 जीवत एवेत्य् अर्थः । तस्यायं विधिर् उच्यते ॥ ११.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-183	The Sapindas and Samanodakas of an outcast must offer (a libation of) water (to him, as if he were dead), outside (the village), on an inauspicious day, in the evening and in the presence of the relatives, officiating priests, and teachers.
 </details>

@@ -3,6 +3,11 @@ title = "088 सर्वे ऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	But all (or) even (any of) these orders, assumed successively in accordance with the Institutes (of the sacred law), lead the Brahmana who acts by the preceding (rules) to the highest state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The student, the Householder, the Hermit and the Renunciate,—all these, several stages emanate from the Householder.—(87). But all these, when observed in due order, a ccording to the scriptures lead the Brāhmaṇa who has (thus) acted according to the law, to the highest state.—(88).
@@ -99,9 +104,4 @@ the rules, without allowing himself to be disturbed, he will gain liberation.’
 <details><summary>भारुचिः</summary>
 
 **अपि**शब्दात् सर्वे ऽपि त्रयो ऽपि द्वाव् अपि एको ऽपीत्य् अयम् एव विकल्पः प्रदर्शनीयः, समुच्चयवत् तेषाम् । तथा च स्मृत्यन्तरम्- "तस्याश्रमविकल्पम् एके" (ग्ध् ३.१) इति । सर्वसमुच्चयवच् च द्वित्रिसमुच्चयो ऽप्य् **अपि**शब्दसामर्थ्याद् उपदिष्टो मन्तव्यः ॥ ६.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	But all (or) even (any of) these orders, assumed successively in accordance with the Institutes (of the sacred law), lead the Brahmana who acts by the preceding (rules) to the highest state.
 </details>

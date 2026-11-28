@@ -2,6 +2,11 @@
 title = "087 जप्येनैव तु"
 +++
 
+<details><summary>Bühler</summary>
+
+087	But, undoubtedly, a Brahmana reaches the highest goal by muttering prayers only; (whether) he perform other (rites) or neglect them, he who befriends (all creatures) is declared (to be) a (true) Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is by means of repeating mantras that the Brāhmaṇa succeeds;—there is no doubt in this. He may, or may not, do anything else, one comes to be called a Brāhmaṇa if he is of a friendly disposition.—(87)
@@ -83,11 +88,6 @@ Manu\].
 <details><summary>गोविन्दराजः</summary>
 
 **जप्येनैव त्व्** इति । **जप्येनैव ब्राह्मणो **मोक्षं प्राप्नुयात् अत्र संशय एव नास्ति कथम् अल्पप्रयासेन महत्फलं प्राप्यत इति । द्रव्यत्यागाद् अप्य् अन्तःसंयमस्य दुष्करत्वात् । एवं च **कुर्याद् अन्यत्** तादर्थ्येन ज्योतिष्टोमादिकम् असौ कर्म **यदि वा न कुर्यात्** यतः सर्वभूतोपकाररतो **ब्राह्मणः **स्याद् इति शास्त्रेणोच्यते । अग्निष्टोमीयादि (अग्नीषोमीयादि) वधेन कुतो **मैत्रः **इति । एवं श्रौतस्मार्तकर्मानुष्ठानाशक्तो जप्यपरः पुरुषः संसिद्ध्यनुवादो (संसिद्ध्य्तीत्य् अनुवादो) ऽयं प्रकृतविधिस्तुत्यर्थः ॥ २.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	But, undoubtedly, a Brahmana reaches the highest goal by muttering prayers only; (whether) he perform other (rites) or neglect them, he who befriends (all creatures) is declared (to be) a (true) Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

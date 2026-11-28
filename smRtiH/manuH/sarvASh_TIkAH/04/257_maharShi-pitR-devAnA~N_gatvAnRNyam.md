@@ -2,6 +2,11 @@
 title = "257 महर्षि-पितृ-देवानाङ् गत्वानृण्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having paid off, according to law, the debts owing to the Great Sages, to the Pitṛs and to the Gods, he shall consign everything to his son and remain fixed in neutrality.—(257)
@@ -39,11 +44,6 @@ What is meant is the^(‘)renunciation’ of only ordinary voluntary acts done f
 <details><summary>गोविन्दराजः</summary>
 
 **महर्षिपितृदेवानाम् **इति । **महर्षिपितृदेवानां **स्वाध्यायप्रजायज्ञसम्पादनेन यथाशास्त्रम् ऋणसंशुद्धिं कृत्वा ततः पुत्रे सर्वां गृहधुरं च सन्न्यस्य धनार्जनात् दानदीनाश्रितः सन् “वाच्य् एके जुह्वति प्राणम्” (४.२३) इत्यादिनीत्या ज्ञानबलान् महायज्ञादीन् सम्पादयन् गृह एव क्वचित् कालं वसेत् ॥ ४.२५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
 </details>
 
 <details><summary>भारुचिः</summary>

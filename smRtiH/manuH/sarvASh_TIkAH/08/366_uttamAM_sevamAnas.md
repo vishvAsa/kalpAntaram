@@ -3,6 +3,11 @@ title = "366 उत्तमां सेवमानस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+366	A (man of) low (caste) who makes love to a maiden (of) the highest (caste) shall suffer corporal punishment; he who addresses a maiden (on) equal (caste) shall pay the nuptial fee, if her father desires it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An inferior man courting a superior maiden deserves death; he who courts a maiden of equal status, shall pay the nuptial fee, if her father so wishes.—(366).
@@ -84,9 +89,4 @@ See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 अविशेषाभिधानात् सकामाम् अकामां चोत्तमां सेवमानस्य जघन्यस्य वध एव । **समां** तु सकामां सेवमानस्य शुल्कदानं तत्समो वा दण्डः । एतच्छ्लोकनिबन्धनश् च पूर्वः संग्रहणप्रकरणे श्लोकः "अब्राह्मणः संग्रहणे प्राणान्तं दण्डम् अर्हति" इति ॥ ८.३६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-366	A (man of) low (caste) who makes love to a maiden (of) the highest (caste) shall suffer corporal punishment; he who addresses a maiden (on) equal (caste) shall pay the nuptial fee, if her father desires it.
 </details>

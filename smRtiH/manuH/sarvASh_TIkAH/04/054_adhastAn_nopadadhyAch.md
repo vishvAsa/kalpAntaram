@@ -3,6 +3,11 @@ title = "054 अधस्तान् नोपदध्याच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Let him not place (fire) under (a bed or the like); nor step over it, nor place it (when he sleeps) at the foot-(end of his bed); let him not torment living creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not place fire under himself; nor shall he step over it; he shall not place it under his feet. He shall not do anything dangerous to life.—(54)
@@ -48,9 +53,4 @@ Do. (1.12.6).—‘He shall not pass between the fire and the Brāhmaṇa.’
 <details><summary>गोविन्दराजः</summary>
 
 **अधस्ताद्** इति । **न चैनं पादतः कुर्यान्** **न** प्राणिवधम् **आचरेत्** । तथा च खट्वादिषु अग्निं अधस्तान् न स्थापयेत् । नाप्य् एनम् उल्लङ्घयेत् । न च पाददेशतः कुर्यात् । प्राणिपीडाकरं च नाचरेत् ॥ ४.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Let him not place (fire) under (a bed or the like); nor step over it, nor place it (when he sleeps) at the foot-(end of his bed); let him not torment living creatures.
 </details>

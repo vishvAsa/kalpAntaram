@@ -2,6 +2,11 @@
 title = "035 कॢप्तकेश-नख-श्मश्रुर् दान्तः"
 +++
 
+<details><summary>Bühler</summary>
+
+035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Keeping his hair, nails and beard clipped, subdued, wearing white clothes, pure,—he shall always remain engaged in Vedic study, also in what may be conducive to his welfare.—(35)
@@ -54,11 +59,6 @@ colouring; also what is naturally black. He shall wear only such cloth as may no
 <details><summary>गोविन्दराजः</summary>
 
 **कृतकेशनखश्मश्रुर्** इति । लूनकेशनखश्मश्रुः शमवान् शुक्लवासाः बाह्याभ्यन्तरशौचोपेतः वेदाभ्यासशीलः औषधोपयोगादिरतः स्यात् ॥ ४.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
 </details>
 
 <details><summary>भारुचिः</summary>

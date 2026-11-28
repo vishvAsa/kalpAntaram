@@ -3,6 +3,11 @@ title = "076 विविधाश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	And various torments, the (pain of) being devoured by ravens and owls, the heat of scorching sand, and the (torture of) being boiled in jars, which is hard to bear;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also various forms of torments, being devoured by ravens and owls, tortures from morasses and scorching sand, and terrible boiling in jars.—(76)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 12.75].
 <details><summary>गोविन्दराजः</summary>
 
 **विविधा** इति । नानाप्रकाराः क्रकपाटनादिकाः पीडाः काकोलूकैश् च भक्षणं तप्तककरम्भसिकताभितापान् स्थालीषु वनानि दुःखेन सोढुं शक्यानि प्राप्नुवन्ति ॥ १२.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	And various torments, the (pain of) being devoured by ravens and owls, the heat of scorching sand, and the (torture of) being boiled in jars, which is hard to bear;
 </details>

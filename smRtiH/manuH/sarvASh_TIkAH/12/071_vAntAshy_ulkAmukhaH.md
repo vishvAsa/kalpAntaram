@@ -3,6 +3,11 @@ title = "071 वान्ताश्य् उल्कामुखः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	A Brahmana who has fallen off from his duty (becomes) an Ulkamukha Preta, who feeds on what has been vomited; and a Kshatriya, a Kataputana (Preta), who eats impure substances and corpses.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa fallen off from his own duty becomes a ‘fire-mouthed’ Preta feeding on vomitings; and the Kṣatriya a ‘foul-nosed’ Preta feeding on impure substances and dead bodies.—(71)
@@ -46,9 +51,4 @@ This verse is quoted in *Mitākṣarā* (3.220), in the sense that the man negle
 <details><summary>गोविन्दराजः</summary>
 
 **वान्ताशीति** । ब्राह्मणः भ्रष्टस्वकर्माग्निपिशाचो नाम भूतविशेषो ज्वालामुखः छर्दिभुग् भवति । क्षत्रियः पुनः भ्रष्टकर्मा पूतनाख्यः पिशाचविशेषो गन्धघोणपुरीषसर्वभुक् जायते ॥ १२.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	A Brahmana who has fallen off from his duty (becomes) an Ulkamukha Preta, who feeds on what has been vomited; and a Kshatriya, a Kataputana (Preta), who eats impure substances and corpses.
 </details>

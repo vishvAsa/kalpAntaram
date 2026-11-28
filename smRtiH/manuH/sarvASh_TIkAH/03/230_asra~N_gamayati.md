@@ -3,6 +3,11 @@ title = "230 अस्रङ् गमयति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+230	A tear sends the (food) to the Pretas, anger to his enemies, a falsehood to the dogs, contact with his foot to the Rakshasas, a shaking to the sinners.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Tears make the food go to ghosts, anger to enemies, lie to dogs, touching with the foot to demons, and shaking to sinners.—(230)
@@ -45,9 +50,4 @@ in cleanliness, Rākṣasas take away all that is sacrificed or offered or given
 <details><summary>गोविन्दराजः</summary>
 
 **अस्रं गमयति प्रेतान्** इति । अश्रु क्रियमाणं प्रेताखान् भूतविशेषान् श्राद्धान्नादि प्रापयति क्रोधः **अनृतं शुनः पादस्पर्शो रक्षांसि अवधूननं **पापकारिणं तस्माद् एतन् न कुर्यात् ॥ ३.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	A tear sends the (food) to the Pretas, anger to his enemies, a falsehood to the dogs, contact with his foot to the Rakshasas, a shaking to the sinners.
 </details>

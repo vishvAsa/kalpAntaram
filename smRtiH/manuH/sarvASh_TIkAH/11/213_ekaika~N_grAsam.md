@@ -3,6 +3,11 @@ title = "213 एकैकङ् ग्रासम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+214	A twice-born man who performs an Atikrikkhra (penance), must take his food during three periods of three days in the manner described above, (but) one mouthful only at each meal, and fast during the last three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man who is performing the ‘Atikṛcchra’ shall eat only one mouthful at each of the three times mentioned above, for three days,—and shall fast during the last three days.—(213)
@@ -64,9 +69,4 @@ and follow the rules of the *Kṛcchra*,—that is the *Atikṛcchra*.’
 <details><summary>गोविन्दराजः</summary>
 
 **एकैकम्** इति । **त्र्यहं चोपवसेद्** इति । अतिकृच्छाख्यकृच्छ्रं द्विजातिः कुर्वन् प्रातःसायम् अयाचितरूपेणैकैकं ग्रासं त्रीणि त्र्यहान्य् अश्नीयात् । अन्यच् च त्र्यहं न किञ्चिद् भुञ्जीत ॥ ११.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	A twice-born man who performs an Atikrikkhra (penance), must take his food during three periods of three days in the manner described above, (but) one mouthful only at each meal, and fast during the last three days.
 </details>

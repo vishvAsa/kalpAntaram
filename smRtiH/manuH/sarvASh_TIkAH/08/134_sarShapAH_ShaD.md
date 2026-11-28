@@ -3,6 +3,11 @@ title = "134 सर्षपाः षड्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+134	Six grains of white mustard are one middle-sized barley-corn, and three barley-corns one krishnala (raktika, or gunga-berry); five krishnalas are one masha (bean), and sixteen of those one suvarna.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Six ‘mustards’ make one middling ‘barley-corn’; three of these make one ‘guñjā-berry’; a ‘bean’ is made of five ‘guñja-berries;’ and sixteen ‘beans’ make one ‘gold-piece.’—(131)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.131].
 <details><summary>कुल्लूकः</summary>
 
 गौरसर्षपाः षट् मध्यो, न स्थूलो नापि सूक्ष्मो, यवो भवति । त्रिभिर्यवैः कृष्णलं रक्तिकेति प्रसिद्धम् । पञ्चभिः कृष्णलैर्माषः । षोडश भाषा सुवर्णः स्यात् । पुंलिङ्गश्चायं परिमाणवचनः ॥१३४॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	Six grains of white mustard are one middle-sized barley-corn, and three barley-corns one krishnala (raktika, or gunga-berry); five krishnalas are one masha (bean), and sixteen of those one suvarna.
 </details>

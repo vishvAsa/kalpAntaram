@@ -2,6 +2,11 @@
 title = "026 कर्मणाञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the due discrimination of actions, he differentiated Virtue and Vice; and he connected these creatures with such pairs of opposites as Pleasure-Pain and the like.—(26)
@@ -86,11 +91,6 @@ The other ‘*Dvandvas*’ are *Kāma* (Desire)—*Krodha* (Anger)—*Rāga* (At
 <details><summary>गोविन्दराजः</summary>
 
 **कर्मणाम्** इति । अयं **धर्मः** अतस् तत्साधकं दानादिकर्म कर्तव्यम्, अयं पुनर् **अधर्मः** अतस् तत्सम्पादकं चौर्यादि न कार्यम् इत्य् एवं दानचौर्यादिकर्मणां विभागाय **धर्माधर्मौ **पृथक् पृथक् कृतवान् । धर्माधर्मफलभूतैश् च **द्वन्द्वैः** परस्परविरुद्धैः पुत्रोत्पत्तिविनाशादिभिः **सुखदुःखैः**, **आदि**शब्दात् क्षुत्सौहित्यादिभिश् **चेमाः प्रजा** योजितवान् ॥ १.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
 </details>
 
 <details><summary>भारुचिः</summary>

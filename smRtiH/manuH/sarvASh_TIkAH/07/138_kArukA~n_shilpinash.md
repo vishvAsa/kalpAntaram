@@ -3,6 +3,11 @@ title = "138 कारुकाञ् शिल्पिनश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+138	Mechanics and artisans, as well as Sudras who subsist by manual labour, he may cause to work (for himself) one (day) in each month.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Mechanics and Artisans, as also shudras who subsist by bodily labour,—the King shall make each of these work for one day every month.—(138)
@@ -50,9 +55,4 @@ work for him for one day in the month; those who live by manual labour shall wor
 <details><summary>भारुचिः</summary>
 
 ये शिल्पमात्रोपजीविनस् तान् मासानुमासिकम् **एकैकम्** अहः कर्म कारयेत्, **आत्मोपजीविनश्** च ॥ ७.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	Mechanics and artisans, as well as Sudras who subsist by manual labour, he may cause to work (for himself) one (day) in each month.
 </details>

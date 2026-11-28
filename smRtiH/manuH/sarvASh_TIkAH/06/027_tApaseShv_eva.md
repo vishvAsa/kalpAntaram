@@ -3,6 +3,11 @@ title = "027 तापसेष्व् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	From Brahmanas (who live as) ascetics, let him receive alms, (barely sufficient) to support life, or from other householders of the twice-born (castes) who reside in the forest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall receive alms just enough for subsistence, only from brāhmaṇa-hermits, or from such twice-born householders as live in the forests.—(27).
@@ -43,11 +48,6 @@ This verse is quoted in *Aparārka* (p. 945) as laying down the means of subsist
 </details>
 
 <details><summary>भारुचिः</summary>
-
-027	From Brahmanas (who live as) ascetics, let him receive alms, (barely sufficient) to support life, or from other householders of the twice-born (castes) who reside in the forest.
-</details>
-
-<details><summary>Bühler</summary>
 
 027	From Brahmanas (who live as) ascetics, let him receive alms, (barely sufficient) to support life, or from other householders of the twice-born (castes) who reside in the forest.
 </details>

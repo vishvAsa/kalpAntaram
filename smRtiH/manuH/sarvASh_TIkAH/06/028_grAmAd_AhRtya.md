@@ -3,6 +3,11 @@ title = "028 ग्रामाद् आहृत्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	Or (the hermit) who dwells in the forest may bring (food) from a village, receiving it either in a hollow dish (of leaves), in (his naked) hand, or in a broken earthen dish, and may eat eight mouthfuls.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While dwelling in the forest, he may bring food from the village,—receiving it either in his hollowed hand or in a potsherd,—and eat eight morsels.—(28).
@@ -46,11 +51,6 @@ speech controlled, shall eat eight mouthfuls.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-028	Or (the hermit) who dwells in the forest may bring (food) from a village, receiving it either in a hollow dish (of leaves), in (his naked) hand, or in a broken earthen dish, and may eat eight mouthfuls.
-</details>
-
-<details><summary>Bühler</summary>
 
 028	Or (the hermit) who dwells in the forest may bring (food) from a village, receiving it either in a hollow dish (of leaves), in (his naked) hand, or in a broken earthen dish, and may eat eight mouthfuls.
 </details>

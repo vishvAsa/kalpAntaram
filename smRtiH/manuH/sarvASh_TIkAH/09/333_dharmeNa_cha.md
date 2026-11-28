@@ -3,6 +3,11 @@ title = "333 धर्मेण च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+333	Let him exert himself to the utmost in order to increase his property in a righteous manner, and let him zealously give food to all created beings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall put forth his best efforts towards increasing his property in a righteous manner; and he shall zealously give food to all beings.—(333)
@@ -60,9 +65,4 @@ words of the Veda.’
 <details><summary>भारुचिः</summary>
 
 अष्टाभिः श्लोकैर् उक्तापि सती वैश्यवृत्तिर् विशेषार्थं पुनर् अभिधीयते । स च विशेषो ऽयम्- **न च वैश्यस्य कामः स्यान् न रक्षेयं पशून्** इति । एवं च सत्य् अस्यान्याभ्यो वृत्तिभ्यः पशुरक्षणवृत्तिर् एव धर्म्येति विज्ञायते । **मणिमुक्ता**दिग्रहणं च सर्वद्रव्यदर्शनार्थम् । तथा च सति नास्य किंचिद् अपि अक्रेयम् इति गम्यते । अन्यच् च हिरण्यादिदानं परिहाप्यान्नं विशेषतो दद्यात्, **सर्वभूतानाम्** इति वचनाति । न केवलं गुणवद्ब्राह्मणेभ्यः । शूद्रस्या[पि वृत्तिर् इदान्]ईम् उच्यते धर्म्या च ॥ ९.३२९–३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-333	Let him exert himself to the utmost in order to increase his property in a righteous manner, and let him zealously give food to all created beings.
 </details>

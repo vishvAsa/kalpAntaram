@@ -3,6 +3,11 @@ title = "219 वस्त्रम् पत्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+219	A dress, a vehicle, ornaments, cooked food, water, and female (slaves), property destined for pious uses or sacrifices, and a pasture-ground, they declare to be indivisible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A cloth, a conveyance, an ornament, cooked food, water, women, what is conducive to welfare and pasture-ground,—these they declare to be impartible.—(219)
@@ -98,9 +103,4 @@ have been declared to he impartible have not taken into consideration the fact t
 <details><summary>भारुचिः</summary>
 
 एतान् अपीच्छया विभजेतन् । "नाकामो दातुम् अर्हति" इत्य् एतद् अनुवादो ऽयं द्रष्टव्यः । सर्वत्रैवेच्छातो दानम् अयुक्तं प्रतिषेद्धुम् । सर्वत्र धनविभागे प्राप्ते- **वस्त्रं** [प्रसिद्धम् । **पत्रं**] पतत्य् अनेनेत्य् अश्वादिः । **अलंकारं** सामर्थ्यात् पितरि जीवति यद् येन परिगृहीतम् । **कृतान्नं** तण्डुलादि । **उदकं** तदाधारकूपादिः । **स्त्रियः** उपभोगदास्यः प्रतिनियताः । **योगक्षेमप्रचारं च** येन द्रव्येण योगक्षेमर्थं पर्चरन्ति । **योगो** ऽनुपात्तपरिलाभः, **क्षेमम्** उपात्तपरिपालनम् । **योगक्षेमं** वा तदर्थं राज्ञापि दीयमानं द्रष्टव्यम् । **प्रचारं च** प्रचरणभूमिजम् इन्धनकादि, **न विभाज्यं प्रचक्षते** ॥ ९.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	A dress, a vehicle, ornaments, cooked food, water, and female (slaves), property destined for pious uses or sacrifices, and a pasture-ground, they declare to be indivisible.
 </details>

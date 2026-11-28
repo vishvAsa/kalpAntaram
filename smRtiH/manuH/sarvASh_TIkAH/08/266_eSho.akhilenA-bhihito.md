@@ -3,6 +3,11 @@ title = "266 एषो ऽखिलेनाऽभिहितो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+266	Thus the law for deciding boundary (disputes) has been fully declared, I will next propound the (manner of) deciding (cases of) defamation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the whole law relating to the demarcation of boundaries been propounded. After this I am going to expound that relating to verbal assault.—(266)
@@ -43,9 +48,4 @@ sequence’ is there in the present case? This has been folly explained by the a
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः । ननु चैवं क्रमभेदः, "पारुष्ये दण्डवाचिके" इत्य् अभिधानाद् व्यवहारास्पन्दानुक्रण्याम् । [शब्दक्रम्]आत् तत्र पूर्वं दण्डपारुष्यग्रहणम् । अयं त्व् अर्थक्रमम् अश्रित्यात्र वाक्पारुष्यस्य पूर्वम् उपन्यासः । स च शब्दक्रमाद् गरीयान् । यतो नास्ति क्रमभेदः, अल्पाच्तरत्वाद् (?) [अस्मिन् द्वन्]द्वे ॥ ८.२६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-266	Thus the law for deciding boundary (disputes) has been fully declared, I will next propound the (manner of) deciding (cases of) defamation.
 </details>

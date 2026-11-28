@@ -2,6 +2,11 @@
 title = "213 स्वभाव एष"
 +++
 
+<details><summary>Bühler</summary>
+
+213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is the very nature of women to corrupt men. It is for this reason that the wise are never unguarded regarding women.—(213)
@@ -57,11 +62,6 @@ wise men do not become too much. attached to women.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्वभाव** इति । स्वरूपम् एतत् स्त्रीणां यन् मनुष्याणां स्मरोद्रेकजननम् । **अतो** ऽस्माद् धेतोः प्राज्ञः न स्पर्शनादिप्रमादं भजते ॥ २.२१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
 </details>
 
 <details><summary>भारुचिः</summary>

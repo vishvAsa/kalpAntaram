@@ -2,6 +2,11 @@
 title = "038 यावन्ति पशु-रोमाणि"
 +++
 
+<details><summary>Bühler</summary>
+
+038	As many hairs as the slain beast has, so often indeed will he who killed it without a (lawful) reason suffer a violent death in future births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many hairs there are on the body of the animal, so m any times after dying does its needless killer suffer violent death, birth after birth.—(38.)
@@ -46,11 +51,6 @@ dwells in hell for as many days as there are hairs on the animal’s body.’
 <details><summary>गोविन्दराजः</summary>
 
 यस्माद् **यावन्ति पशुरोमाणीति । वृथा **उद्देशम् अन्तरेण यः पशुं हन्ति स मृतः सन् तस्य हतस्य पशोः सकाशात् [यावत्सङ्ख्यानि पशुरोमाणि] तत्सङ्ख्याकान् वारान् **जन्मनि जन्मनि मारणं प्राप्नोति** तस्माद् वृथा पशुं न हन्यात् । हशब्द आगमसूचकः ॥ ५.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	As many hairs as the slain beast has, so often indeed will he who killed it without a (lawful) reason suffer a violent death in future births.
 </details>
 
 <details><summary>भारुचिः</summary>

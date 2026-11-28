@@ -2,6 +2,11 @@
 title = "081 यो ह्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+081	For he who explains the sacred law (to a Sudra) or dictates to him a penance, will sink together with that (man) into the hell (called) Asamvrita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who expounds to him the law, and he who indicates the penance to him, will sink, along with him, into the hell called “asaṃvṛta.”—(81).
@@ -37,11 +42,6 @@ See Comparative notes for [Verse 4.80].
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । यस्मात् **यः** शूद्रस्य धर्मव्रते उपदिशति स ब्राह्मणः पापोत्पत्तिनिमित्तभूतेन तेनैव शूद्रेण सह अतिमहत्त्वाद् असंवृताख्यं तमः अन्धकारं प्रविशति । पञ्चके प्रकृते द्वयोः फलकथनं प्रायश्चित्तगौरवार्थम् ॥ ४.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	For he who explains the sacred law (to a Sudra) or dictates to him a penance, will sink together with that (man) into the hell (called) Asamvrita.
 </details>
 
 <details><summary>भारुचिः</summary>

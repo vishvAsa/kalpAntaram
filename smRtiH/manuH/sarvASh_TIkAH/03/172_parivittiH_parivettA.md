@@ -2,6 +2,11 @@
 title = "172 परिवित्तिः परिवेत्ता"
 +++
 
+<details><summary>Bühler</summary>
+
+172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The superseded elder brother, the superseding younger brother, and she through whom the superseding is done,—all these go to hell, along with the giver and the officiating priest as the fifth.—(172)
@@ -66,11 +71,6 @@ marries illegally—all these are outcasts.’
 <details><summary>गोविन्दराजः</summary>
 
 प्रसङ्गाद् एतद्व्यतिक्रमफलम् आह **परिवित्तिर्** इति । **परिवित्तिपरिवेत्तारौ यया च** कन्यया हेतुभूतया परिवेदनं क्रियते **दाता** च कन्यायाः याजकश् च तदुद्वाहहोमस्योपदेष्टा येषां **पञ्चमः **ते नरकं गच्छन्ति ॥ ३.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
 </details>
 
 <details><summary>भारुचिः</summary>

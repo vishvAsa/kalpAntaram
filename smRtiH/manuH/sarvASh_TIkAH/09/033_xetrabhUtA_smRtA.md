@@ -3,6 +3,11 @@ title = "033 क्षेत्रभूता स्मृता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	By the sacred tradition the woman is declared to be the soil, the man is declared to be the seed; the production of all corporeal beings (takes place) through the union of the soil with the seed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The woman has been declared to be like the ‘soil,’ and the man has been declared to be like the seed; and the production of all corporeal beings proceeds from the union of the soil and the seed.—(33)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 अत एतस्मात् कारणाद् युक्तेयं विप्रतिपत्तिः ॥ ९.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	By the sacred tradition the woman is declared to be the soil, the man is declared to be the seed; the production of all corporeal beings (takes place) through the union of the soil with the seed.
 </details>

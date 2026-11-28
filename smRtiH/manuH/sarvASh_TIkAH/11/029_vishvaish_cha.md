@@ -3,6 +3,11 @@ title = "029 विश्वैश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	By the Visve-devas, by the Sadhyas, and by the great sages (of the) Brahmana (caste), who were afraid of perishing in times of distress, a substitute was made for the (principal) rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The substitute of the Primary Rule was ordained by the Viśvedevas, the Sādhyas and the great Brāhmaṇa Sages, when they were afraid of perishing in abnormal times.—(29)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 1.75].
 <details><summary>भारुचिः</summary>
 
 तथा च सति-
-</details>
-
-<details><summary>Bühler</summary>
-
-029	By the Visve-devas, by the Sadhyas, and by the great sages (of the) Brahmana (caste), who were afraid of perishing in times of distress, a substitute was made for the (principal) rule.
 </details>

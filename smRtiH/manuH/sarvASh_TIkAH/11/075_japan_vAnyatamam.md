@@ -3,6 +3,11 @@ title = "075 जपन् वान्यतमम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	Or, in order to remove (the guilt of) slaying a Brahmana, he may walk one hundred yoganas, reciting one of the Vedas, eating little, and controlling his organs;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, for the purpose of expiating Brāhmaṇa -slay ing, he shall walk eight hundred miles, reciting one of the Vedas, eating little and controlling his senses.—(75)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 11.72].
 <details><summary>गोविन्दराजः</summary>
 
 **जपन्न्** इति । वेदानां मध्याद् व्दाव् एकं वेदं जप्यं अल्पहारः संयतेन्द्रियः ब्रह्महत्यानिर्हरणाय योजनशतं गच्छेत् ॥ ११.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	Or, in order to remove (the guilt of) slaying a Brahmana, he may walk one hundred yoganas, reciting one of the Vedas, eating little, and controlling his organs;
 </details>

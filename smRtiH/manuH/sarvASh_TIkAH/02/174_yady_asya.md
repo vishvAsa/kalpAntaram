@@ -2,6 +2,11 @@
 title = "174 यद्य् अस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+174	Whatever dress of skin, sacred thread, girdle, staff, and lower garment are prescribed for a (student at the initiation), the like (must again be used) at the (performance of the) vows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That skin, that sac red thread, that girdle, that staff and that garment, which has been prescribed for one, stand during the observances also.—(174)
@@ -48,11 +53,6 @@ This verse is quoted in *Aparārka* (p. 58), which explains ‘*vrateṣu*’ as
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । **यस्य **ब्रह्मचारिणो **यज्**जातीयानि **चर्मो**वीत**मेखलादण्ड**वस्त्राण्य् उपनयने उक्तानि तज्जातीयान्य् एव नान्यानि प्रतिव्रतम् उपादेयानि । पूर्वोपात्तानां धारणोपदेशात् पुनस् तद्विधानम् अनर्थकम् इति तज्जातीयान्य् अन्यानि प्रतीयते । पूर्वेषां च कार्यानुपयोगात् विनष्टतुल्यत्वे सति अप्सु प्रास्येति प्रतिपत्तिः ॥ २.१७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	Whatever dress of skin, sacred thread, girdle, staff, and lower garment are prescribed for a (student at the initiation), the like (must again be used) at the (performance of the) vows.
 </details>
 
 <details><summary>भारुचिः</summary>

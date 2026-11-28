@@ -2,6 +2,11 @@
 title = "158 सर्वलक्षण-हीनो ऽपि"
 +++
 
+<details><summary>Bühler</summary>
+
+158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man of evil conduct becomes deprecated among men; he is constantly suffering pain, is sick and short-lived.—(157)
@@ -54,11 +59,6 @@ for ‘*Yaḥ sadācāravān*.’)
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वलक्षणहीन** इति । यः सम्यग् आचारवान् **श्रद्दधानो **ऽकुत्सकः स आजानुबाहुत्वादिसर्व-प्रशस्तलक्षणशून्यो ऽपि वर्षशतं **जीवति **। प्रथमे ऽध्याये शास्त्रस्तुत्यर्था आचारस्तुतिः । इह त्व् आचारफलसमर्पणार्थम् एतत् ॥ ४.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.
 </details>
 
 <details><summary>भारुचिः</summary>

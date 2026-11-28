@@ -2,6 +2,11 @@
 title = "068 एष प्रोक्तो"
 +++
 
+<details><summary>Bühler</summary>
+
+068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described the Initiatory Ceremony of twice-born men,—that which sanctifies them and marks their (real) birth. Learn now the duties to which they should apply themselves.—(68)
@@ -58,11 +63,6 @@ Brāhmaṇa.’
 <details><summary>गोविन्दराजः</summary>
 
 **एष** इति । **एष द्विजातीनाम्** उपनयनभवो **विधिर्** उक्तः **उत्पत्तेर् व्यञ्जकः** प्रकाशकः जातस्याप्य् अनुपनीतस्याजा(ज्ञा)तसमत्वात् पुण्यहेतुत्वात् **पुण्यः** । इदानीम् उपनीतस्योपनयनकर्मणि सम्बन्धः तच् छृणुत ॥ २.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
 </details>
 
 <details><summary>भारुचिः</summary>

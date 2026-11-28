@@ -2,6 +2,11 @@
 title = "009 आरण्यानाञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+009	(The milk) of all wild animals excepting buffalo-cows, that of women, and all (substances turned) sour must be avoided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That of all wild animals, except the buffalo; the milk of females (women) and all soured substances should be avoided.—(9)
@@ -76,11 +81,6 @@ kept over-night, with the exception of rice cooked in sugar, curds, molasses, or
 <details><summary>गोविन्दराजः</summary>
 
 **आरण्यानाम्** इति । माहिषवर्जम् **आरण्यानां **सर्वेषां हस्त्यादीनां **मृगाणां **सम्बन्धि क्षीरं स्त्रैणं च वर्जयेत् । तथा यानि प्राप्तस्वरसानि कालान्तरेणोदकादिसंसर्गकालपरिवासाभ्यां चाम्लीभवन्ति तानि सर्वाणि शुक्तानि वर्जयेत् ॥ ५.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	(The milk) of all wild animals excepting buffalo-cows, that of women, and all (substances turned) sour must be avoided.
 </details>
 
 <details><summary>भारुचिः</summary>

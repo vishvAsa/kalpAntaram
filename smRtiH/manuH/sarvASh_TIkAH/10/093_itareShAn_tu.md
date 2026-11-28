@@ -3,6 +3,11 @@ title = "093 इतरेषान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	But by willingly selling in this world other (forbidden) commodities, a Brahmana assumes after seven nights the character of a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By selling, through greed, other commodities, the Brāhmaṇa assumes, in seven nights, the character of the Vaiśya.—(93)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 मांसादीनां श्लोकद्वयेन गुरुलघुत्वप्रदर्सनं प्रायश्चित्तर्थं विज्ञेयम्, गुरुणि गुरुप्रायश्चित्तं यथा स्याल् लघुनि लघ्व् इति ॥ १०.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	But by willingly selling in this world other (forbidden) commodities, a Brahmana assumes after seven nights the character of a Vaisya.
 </details>

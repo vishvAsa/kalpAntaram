@@ -3,6 +3,11 @@ title = "109 असाक्षिकेषु त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+109	If two (parties) dispute about matters for which no witnesses are available, and the (judge) is unable to really ascertain the truth, he may cause it to be discovered even by an oath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In witness-less cases, if he cannot get at the truth between the two disputants by any means, he should discover it by means of oath.—(109)
@@ -79,9 +84,4 @@ argument, custom, oaths, king’s edict and confession by the defendant.’
 <details><summary>भारुचिः</summary>
 
 सत्यप्रशंसार्थं पुराकल्पार्थवाद उदाह्रियते विहितानुष्ठानप्ररोचनाय ॥ ८.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	If two (parties) dispute about matters for which no witnesses are available, and the (judge) is unable to really ascertain the truth, he may cause it to be discovered even by an oath.
 </details>

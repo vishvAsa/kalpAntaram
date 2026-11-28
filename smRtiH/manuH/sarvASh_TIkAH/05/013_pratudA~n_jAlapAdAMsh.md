@@ -2,6 +2,11 @@
 title = "013 प्रतुदाञ् जालपादांश्"
 +++
 
+<details><summary>Bühler</summary>
+
+013	Those which feed striking with their beaks, web-footed birds, the Koyashti, those which scratch with their toes, those which dive and live on fish, meat from a slaughter-house and dried meat,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those birds that feed by striking with their beaks, those that are web-footed, the koyaṣṭi, those that scratch with their nails, those that dive and eat fish, slaughter-house meat, and dried meat.—(13)
@@ -92,11 +97,6 @@ red-footed birds, meat from the slaughter-house and dry flesh,—on eating these
 <details><summary>गोविन्दराजः</summary>
 
 **प्रतुदान्** इति । प्रहृत्य चञ्च्वा भक्षयन्ति तान् दार्वाघाटादीन्, **जालपादांश् च **कोयष्टिधूसरिकाख्यं पक्षिणं, नखैः विक्षिप्य ये भक्षयन्ति तान्, श्रद्धाभ्यनुज्ञातारण्यकुक्कुटव्यतिरिक्तान् चकोरककुभागींश् च तथा निमज्ज्य ये मत्स्यान् अदन्ति मद्ग्वादयः तान् “सूना घातनस्थानम्” इतीत्यभिधानिकस्मरणात् आघातस्थाने भवं मांसं भक्ष्याणाम् अपि **वल्लूरं **शुष्कमांसं वर्जयेत् । जालपादत्वाद् एव प्लवहंसचक्रवाकानां निषेधसिद्धौ पृथग्वचनं तदन्येषां मायादीनां विकल्पज्ञापनार्थम् । विकल्पश् चापदि भक्ष्याण्य् अनापदि नेत्य् एवं व्यवस्थितो विज्ञेयः । यतो बुद्धिपूर्वकारिविरचिते ग्रन्थे आचार्यस्यैवमभिप्राय उन्नीयते । नूनं जालपादप्रतिषेधो नास्वासति (प्रतिषेधेनाश्वासः) येन **जालपाद**विशेषान् हंसादीन् स्वशब्देन निषेधति । न चात्यन्तानाश्वासः तथा सति जालपादप्रतिषेधो ऽनर्थकः स्यात् । तस्माद् विशेषो ऽत्र्यानुमीयते । कस्याञ्चिद् अवस्थायां मद्ग्वादीनां भक्षणम् अभिमतं कस्याञ्चिद् प्रतिषेध एवेति । तेनापदि तु भक्षणं अनापदि तु निषेध एव, प्रतिषेधद्व्ययार्थत्वात् । यदि पुनस् तुल्यविकल्पः स्यात् तदा जालपादनिषेधस्यानर्थक्यम् एव स्यात्, तद्वचनम् अन्तरेणैव तथाविधविकल्पस्य कदाचिद् भक्ष्याणि कदाचिन् नेत्य् एव तत्फलं सम्पद्यते । तच् च ज्ञापनम् अन्तरेणैव लौकिकत्वाद् भक्षणस्य अर्थित्वानर्थित्वाभ्यां सिद्धम् । तस्मात् जालपादप्रतिषेधाभिधानाद् एव व्यवस्थितो ऽयं विकल्प इत्य् अवसीयते ॥ ५.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Those which feed striking with their beaks, web-footed birds, the Koyashti, those which scratch with their toes, those which dive and live on fish, meat from a slaughter-house and dried meat,
 </details>
 
 <details><summary>भारुचिः</summary>

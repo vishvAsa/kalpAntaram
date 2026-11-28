@@ -3,6 +3,11 @@ title = "072 दैविकानां युगानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Time-cycles’ of the Gods, one thousand in number, should be regarded as one ‘day’ of brahmā; and (his) ‘night’ also is of the same extent.—(72)
@@ -28,9 +33,4 @@ The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 <details><summary>गोविन्दराजः</summary>
 
 **दैविकानाम्** इति । एषां देव**युगानां** **सहस्रं ब्राह्मम् अहर्** विज्ञेयम् । सहस्रम् एव रात्रिसङ्ख्ययेत्य् अनुवादः ॥ १.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.
 </details>

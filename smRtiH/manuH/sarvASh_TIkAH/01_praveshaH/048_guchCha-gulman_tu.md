@@ -2,6 +2,11 @@
 title = "048 गुच्छ-गुल्मन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The various kinds op clumps and thickets, and the other species of grass, as also low-spreading tendrils and creepers—all these grow out of seeds and slips.—(48)
@@ -30,11 +35,6 @@ Burnell represents Medhātithi to explain ‘*guccha-gulma*’ as ‘one root an
 <details><summary>गोविन्दराजः</summary>
 
 **गुच्छगुल्मम्** इति । मूलत एव येषां लतावृन्दं भवति । न तु प्रकाण्डानि ते **गुच्छाः **मल्लिकाद्याः । **गुल्मास्** तु अस्पष्टह्रस्वप्रायलतात्मकाः अप्रकाण्डाः पुष्पकाद्याः । **तृणजातयो** दूर्वाद्याः **प्रताना **तन्तुरूपाः त्रपुषालाबुप्रभृतयः **वल्ल्यः** व्रतत्यो गूडुच्यादयः ॥ १.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.
 </details>
 
 <details><summary>भारुचिः</summary>

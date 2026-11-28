@@ -2,6 +2,11 @@
 title = "100 यथोदितेन विधिना"
 +++
 
+<details><summary>Bühler</summary>
+
+100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 According to the prescribed rule, the Brāhmaṇa shall, every day, during normal times, diligently recite the Veda in verse, as also the Veda in verse and prose.—(100)
@@ -58,11 +63,6 @@ stopping of reading for that reading which has been laid down as to be done ever
 <details><summary>गोविन्दराजः</summary>
 
 **यथोदितेनेति** । अध्यापकस्य कर्मान्तरव्यग्रत्वं आत्मनश् च बहुवेदने ह्य् आपत् तदभावे पूर्वोक्तविधिना द्विजो यत्नवान् सर्वदा गायत्र्यादिछन्दोयुक्तं ऋक्सामाख्यं **ब्रह्म **पठेत् । तथा **ब्रह्म** ब्राह्मणं गायत्र्यादिछन्दोयुक्तमन्त्रमिश्रं यजुर्वेदाख्यम् । मन्त्रब्राह्मणयोर् मिश्रपाठात् वैलक्षण्ये सत्य् अयं पृथङ्निर्देशः ॥ ४.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.
 </details>
 
 <details><summary>भारुचिः</summary>

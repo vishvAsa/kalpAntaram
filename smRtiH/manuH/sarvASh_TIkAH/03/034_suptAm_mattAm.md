@@ -2,6 +2,11 @@
 title = "034 सुप्ताम् मत्ताम्"
 +++
 
+<details><summary>Bühler</summary>
+
+034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the man approaches the girl by stealth, while she is asleep, or intoxicated or unconscious,—it is the “Paiśāca” form, the wickedest and the basest of marriages.—(34).
@@ -167,11 +172,6 @@ the girl is won by the employment of women, drinks, wine, and presents.’
 <details><summary>गोविन्दराजः</summary>
 
 **सुप्ताम् **इति । **सुप्तां **निद्रोपेतां **क्षीबां** शीलरक्षणानिबर्हणां निर्जने प्रदेशे यस्मिन् विवाहे उपगच्छति स पापहेतुः **विवाहानां** मध्ये **पैशाचो** ऽष्टमः ख्यातः ॥ ३.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
 </details>
 
 <details><summary>भारुचिः</summary>

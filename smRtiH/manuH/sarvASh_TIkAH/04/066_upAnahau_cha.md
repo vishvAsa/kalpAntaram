@@ -3,6 +3,11 @@ title = "066 उपानहौ च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	Let him not use shoes, garments, a sacred string, ornaments, a garland, or a water-vessel which have been used by others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not use shoes, on clothes, or sacred thread, or ornament, or garland, or water-pot, which has been used by others.—(66)
@@ -41,9 +46,4 @@ thread, which have been worn by others.’
 <details><summary>गोविन्दराजः</summary>
 
 **उपानहाव्** इति । उपानद्वस्त्रयज्ञोपवीताभरणमाल्यकमण्ड्लून् अन्योपयुक्तान् **न धारयेत् **॥ ४.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	Let him not use shoes, garments, a sacred string, ornaments, a garland, or a water-vessel which have been used by others.
 </details>

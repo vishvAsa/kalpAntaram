@@ -3,6 +3,11 @@ title = "256 द्विविधांस् तस्करान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+256	Let the king who sees (everything) through his spies, discover the two sorts of thieves who deprive others of their property, both those who (show themselves) openly and those who (lie) concealed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The spy-eyed king shall discover the two kinds of thieves who take away the property of other men, those that are ‘open’ and those ‘concealed’—(256)
@@ -61,9 +66,4 @@ receive bribes, robbers, gamblers, public prostitutes, those who roam about in d
 <details><summary>भारुचिः</summary>
 
 चारचक्षुर्भिः पार्थिवैः परद्रव्यनिर्हरतां तास्कर्यं विज्ञेयम् । आदरार्थं चायम् उपदेशः आदाव् एषां विज्ञेयः ॥ ९.२५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	Let the king who sees (everything) through his spies, discover the two sorts of thieves who deprive others of their property, both those who (show themselves) openly and those who (lie) concealed.
 </details>

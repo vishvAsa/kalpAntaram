@@ -3,6 +3,11 @@ title = "060 इन्द्रियाणान् निरोधेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	By the restraint of his senses, by the destruction of love and hatred, and by the abstention from injuring the creatures, he becomes fit for immortality.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the restraining of the senses, by the destruction of love and hatred, and by not injuring living beings, he becomes fit for immortality.—(60)
@@ -61,9 +66,4 @@ go forth from his house as a Renunciate, after he has wiped off the three debts 
 <details><summary>भारुचिः</summary>
 
 संसारस्वभावावलोकनेन च नित्यम् इन्द्रियजयम् आतिष्ठेत् । तच् च पुनर् इदम् ॥ ६.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	By the restraint of his senses, by the destruction of love and hatred, and by the abstention from injuring the creatures, he becomes fit for immortality.
 </details>

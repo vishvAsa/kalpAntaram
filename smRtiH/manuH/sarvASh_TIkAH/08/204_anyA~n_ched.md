@@ -3,6 +3,11 @@ title = "204 अन्याञ् चेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+204	If, after one damsel has been shown, another be given to the bridegroom, he may marry them both for the same price; that Manu ordained.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After one damsel has been shown, if another be given to the bridegroom, then he should marry both of them for the same single price,—so Manu has ordained.—(204)
@@ -70,9 +75,4 @@ marriage, without mentioning the defect, he should be punished by the King with 
 <details><summary>भारुचिः</summary>
 
 निरवद्यां कन्यां दर्शयित्वा यः सा[वद्यां ददा]ति तस्य उभे अपि **ते एकशुल्केन**इव वहनीये ॥ ८.२०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	If, after one damsel has been shown, another be given to the bridegroom, he may marry them both for the same price; that Manu ordained.
 </details>

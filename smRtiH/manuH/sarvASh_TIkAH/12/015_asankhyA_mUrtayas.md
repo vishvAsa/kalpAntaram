@@ -3,6 +3,11 @@ title = "015 असङ्ख्या मूर्तयस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	From his body innumerable forms go forth, which constantly impel the multiform creatures to action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From his body emanate innumerable forms, which constantly energise all kinds of beings.—(15)
@@ -56,9 +61,4 @@ Others explain that the ‘body’ of the Supreme Self is Primordial Matter, not
 <details><summary>भारुचिः</summary>
 
 **उच्चावचानि भूतानि सततं** [याः **असङ्ख्या मूर्तीश् चेष्टयन्ति** ताः] तस्य परमात्मनो **निष्पतन्ति शरीरतः** प्रधानाद् इत्य् उक्तम् । **मूर्तयः** कार्यकारणानि क्षेत्रज्ञस्य भोगसाधनानि । औपनिषदास् तु परमात्मानम् एव शरीरशब्देनाहुः ॥ १२.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	From his body innumerable forms go forth, which constantly impel the multiform creatures to action.
 </details>

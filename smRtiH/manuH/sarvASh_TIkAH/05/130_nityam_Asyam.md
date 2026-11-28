@@ -2,6 +2,11 @@
 title = "130 नित्यम् आस्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+130	The mouth of a woman is always pure, likewise a bird when he causes a fruit to fall; a calf is pure on the flowing of the milk, and a dog when he catches a deer.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mouth of women is always pure; as also the bird in the dropping of fruits; the calf is pure in causing the flow (of milk); and the dog is pure in the catching of deer—(128).
@@ -101,11 +106,6 @@ by the wind; women, old persons and children are never impure.’
 <details><summary>गोविन्दराजः</summary>
 
 **नित्यम्** इति । “स्त्रियश् चरति संसर्गम्” इति गौतमस्मरणात् तत्कालं नित्यं **स्त्रीणाम् आस्यं शुचि** । तथा काकाद्यत्यन्ताहतपक्षिचञ्चुघातपातिफलं शुचि । वत्समुखं च दोहवेलायां क्षीरप्रस्नावने शुचि । **श्वा** च यदा मृगादि हन्तुं गृह्णाति तदा तद्व्यापारे शुचिः ॥ ५.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	The mouth of a woman is always pure, likewise a bird when he causes a fruit to fall; a calf is pure on the flowing of the milk, and a dog when he catches a deer.
 </details>
 
 <details><summary>भारुचिः</summary>

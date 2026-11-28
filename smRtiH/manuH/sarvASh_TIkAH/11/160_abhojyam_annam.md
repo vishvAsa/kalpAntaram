@@ -3,6 +3,11 @@ title = "160 अभोज्यम् अन्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+161	He who desires to be pure, must not eat forbidden food, and must vomit up such as he has eaten unintentionally, or quickly atone for it by (various) means of purification.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one desires his own purity, he should not eat improper food; when eaten unintentionally, it should be thrown out, or speedily atoned for by means of purifications.—(160)
@@ -68,9 +73,4 @@ and eat clarified butter.’
 <details><summary>गोविन्दराजः</summary>
 
 **अभोज्यम्** इति । आत्मनः शुद्धिकामेन प्रतिषिद्धम् अन्नं हठान् न भक्षणीयं प्रमादभुक्ते पुनर् वमितव्यं तदसम्भवे प्रायश्चित्तैः क्षिप्रं शोधनीयम् । यत् तु वमनप्रक्षेपे ऽपि लघुप्रायश्चित्तं भवति ॥ ११.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	He who desires to be pure, must not eat forbidden food, and must vomit up such as he has eaten unintentionally, or quickly atone for it by (various) means of purification.
 </details>

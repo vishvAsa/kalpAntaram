@@ -2,6 +2,11 @@
 title = "259 एषोदिता गृहस्थस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described the eternal course of life of the Brāhmaṇa-Householder, as also the series of observances for the Accomplished Student, which is conducive to the increase of the quality of goodness, and is praiseworthy.—(259)
@@ -33,11 +38,6 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 <details><summary>गोविन्दराजः</summary>
 
 **एषेति** । एषा ऋतादिका जीविका नित्या अनित्याया आपदि विधानात् **गृहस्थस्य **ब्राह्मणस्योक्ता । तथा **स्नातकव्रत**विधिश् च **सत्त्वा**ख्यगुण**वृद्धिकरः** प्रशस्तस्यैवोक्तः ॥ ४.२५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
 </details>
 
 <details><summary>भारुचिः</summary>

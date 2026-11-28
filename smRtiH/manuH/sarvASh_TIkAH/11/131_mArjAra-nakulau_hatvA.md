@@ -3,6 +3,11 @@ title = "131 मार्जार-नकुलौ हत्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+132	Having killed a cat, an ichneumon, a blue jay, a frog, a dog, an iguana, an owl, or a crow, he shall perform the penance for the murder of a Sudra;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having killed a cat, an ichneumon, a blue jay, a frog, a dog, an iguana, an owl and a crow,—he shall perform the penance of the ‘Śūdra-killer.’—(131)
@@ -142,9 +147,4 @@ frog or birds, one should drink milk for three days, or perform a quarter of the
 <details><summary>भारुचिः</summary>
 
 समुच्चितानां वध एतत् प्रायश्चित्तम् । तथा च वक्ष्यति "अस्थिमतां तु सत्त्वानां सहस्रस्य प्रमापने" इति । अपरे तु लघुत्वाद् एतेषां शूद्रजातानां प्रतिलोमानाम् आयोगवक्षत्तृचण्डालानां यद् वधे प्रायश्चित्तं तद् एतत् समस्तवध इति । प्रत्येकं तु वध इदम् अन्यत् प्रायश्चित्तं पूर्वस्माल् लघूपदिश्यते ॥ ११.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	Having killed a cat, an ichneumon, a blue jay, a frog, a dog, an iguana, an owl, or a crow, he shall perform the penance for the murder of a Sudra;
 </details>

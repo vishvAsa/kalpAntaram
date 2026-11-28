@@ -3,6 +3,11 @@ title = "144 क्षत्रियस्य परो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+144	The highest duty of a Kshatriya is to protect his subjects, for the king who enjoys the rewards, just mentioned, is bound to (discharge that) duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The protection of the people is the Kṣatriya’s highest duty; the King, who enjoys the fruits mentioned, becomes endowed with merit.—(144)
@@ -36,9 +41,4 @@ See the Texts under 112.
 <details><summary>भारुचिः</summary>
 
 **युक्तश् चैवाप्रमत्तश्** चा[स्खलितबुद्धिर्] यस्य । प्रजारक्षणविध्यर्थवादार्थास् त्रयः श्लोकाः ॥ ७.१४२–४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	The highest duty of a Kshatriya is to protect his subjects, for the king who enjoys the rewards, just mentioned, is bound to (discharge that) duty.
 </details>

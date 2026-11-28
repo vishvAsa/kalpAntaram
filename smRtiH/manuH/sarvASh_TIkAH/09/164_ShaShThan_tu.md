@@ -3,6 +3,11 @@ title = "164 षष्ठन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+164	But when the legitimate son of the body divides the paternal estate, he shall give one-sixth or one-fifth part of his father's property to the son begotten on the wife.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the legitimate son is dividing the paternal estate, he shall give to the ‘Kṣetraja’ son one-sixth or one-fifth part of the father’s property.—(164)
@@ -55,9 +60,4 @@ parts, of which two shall go to the father, two to the body-born son, three betw
 <details><summary>भारुचिः</summary>
 
 क्षेत्रजस्य तृतीयो ऽयं विकल्पो नियुक्तासुतस्य मुख्यत्वात् । षष्टपञ्चमभागविकल्पश् च गुणापेक्षः ॥ ९.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	But when the legitimate son of the body divides the paternal estate, he shall give one-sixth or one-fifth part of his father's property to the son begotten on the wife.
 </details>

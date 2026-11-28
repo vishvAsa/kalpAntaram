@@ -3,6 +3,11 @@ title = "092 यमो वैवस्वतो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	'If thou art not at variance with that divine Yama, the son of Vivasvat, who dwells in thy heart, thou needest neither visit the Ganges nor the (land of the) Kurus.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The, god Yama, the son of Vivasvat, who sits in your heart,—if you have no quarrel with him, you need not visit the Gaṅgā, nor the Kurus.—(92)
@@ -70,9 +75,4 @@ This verse is quoted in *Aparārka* (p. 674);—and in *Smṛticandrikā* (Vyava
 <details><summary>गोविन्दराजः</summary>
 
 **यम** इति । सर्वभूतमयः सविता विवस्वत् पुत्रो यमाख्यो देवो ऽयं लोकतः कर्णगोचरीभूतत्वात् तव हृदये परिस्फुरति तेन सह यवितवाधर्मकारित्वाभावाद् विवादो नास्ति तदा पापनिर्हरणार्थं मा गङ्गां कुरुक्षेत्रं यासीः ॥ ९.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	'If thou art not at variance with that divine Yama, the son of Vivasvat, who dwells in thy heart, thou needest neither visit the Ganges nor the (land of the) Kurus.
 </details>

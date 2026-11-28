@@ -2,6 +2,11 @@
 title = "017 यन् मूर्त्य्-अवयवाः"
 +++
 
+<details><summary>Bühler</summary>
+
+017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because the six subtile components of the frame (of primordial matter) enter into (produce) these, therefore the wise ones have described the frame of that (primordial matter) as ‘body.’—(17)
@@ -53,11 +58,6 @@ forward *another* construction by which *sūkṣmāḥ* is the nominative and
 <details><summary>गोविन्दराजः</summary>
 
 **यत् मूर्त्यवयवा **इति । यस्मान् मूर्तिसम्पादकाः आकारनिर्वर्तकाः **सूक्ष्माः** तन्मात्राहङ्काराख्याः **अवयवाः** तस्यात्मनो विकल्पन्ते । यस्य सम्बन्धेन **इमानि **वक्ष्यमाणानि भूतान्य् **आश्रयन्ति **कर्यत्वेन । **तस्मात् तस्या**त्मनो या **मूर्तिः** स्वभावः ताम् एव परिणतां **शरीरम्** इति लौकिका ब्रुवन्तीत्य् एवं शरीरनिर्वचनम् उक्तक्रमोत्पत्तिदार्ढ्यार्थम् ॥ १.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)
 </details>
 
 <details><summary>भारुचिः</summary>

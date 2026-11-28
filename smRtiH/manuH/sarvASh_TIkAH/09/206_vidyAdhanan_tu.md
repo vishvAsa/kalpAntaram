@@ -3,6 +3,11 @@ title = "206 विद्याधनन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+206	Property (acquired) by learning belongs solely to him to whom (it was given), likewise the gift of a friend, a present received on marriage or with the honey-mixture.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The gains of learning shall be the sole property of the man by whom they have been acquired; as also friendly presents, marriage.—presents, and presents received in connection with the ‘honey—mixture.’—(206)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 9.204].
 <details><summary>भारुचिः</summary>
 
 **औद्वाहिक**ग्रहणेन सर्वं श्वशुरगृहाल् लब्धं गृह्यते ॥ ९.२०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	Property (acquired) by learning belongs solely to him to whom (it was given), likewise the gift of a friend, a present received on marriage or with the honey-mixture.
 </details>

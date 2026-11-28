@@ -3,6 +3,11 @@ title = "146 तत्र स्थितः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+146	Tarrying there, he shall gratify all subjects (who come to see him by a kind reception) and afterwards dismiss them; having dismissed his subjects, he shall take counsel with his ministers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Staying there, he shall welcome all his subjects and then send them away. Having sent off all the people, he shall take counsel with his minister.—(146)
@@ -61,9 +66,4 @@ in the Court, he shall see the aged men, the ministers and his dependants and al
 <details><summary>भारुचिः</summary>
 
 **मन्त्रि]भिः सह** । नित्यवृत्तं राज्ञः श्लोकद्वयेनोच्यते ॥ ७.१४५–४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-146	Tarrying there, he shall gratify all subjects (who come to see him by a kind reception) and afterwards dismiss them; having dismissed his subjects, he shall take counsel with his ministers.
 </details>

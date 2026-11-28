@@ -2,6 +2,11 @@
 title = "234 व्रतस्थम् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+234	Let him eagerly entertain at a funeral sacrifice a daughter's son, though he be a student, and let him place a Nepal blanket on the on the seat (of each guest), scattering sesamum grains on the ground.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At a śrāddha he should, with special care, feed the daughter’s son, even though he be still under vows (of studentship). He should offer the blanket as seat and scatter sesamum on the ground.—(234)
@@ -82,11 +87,6 @@ the body, Yava, Nīvāra, Mudga, while flowers, clarified butter,—these are ve
 <details><summary>गोविन्दराजः</summary>
 
 **व्रतस्थम् अपि दौहित्रम्** इति । ब्रह्मचारिणम् अपि सदा **दौहित्रं श्राद्धे यत्नेन भोजयेत् **। दौहित्रस्य चानुकल्पकमध्याद् आम्नाते सति पुनः इदं यत्नवचनम् आनुकल्पिकमध्ये ऽत्याज्यत्वं (जाड्यत्वं) ख्यापयति । सत्कृतं चारु आसनं दद्यात् । न दौहित्र एव दद्यात् अपि तु सर्वब्राह्मणेषु, “त्रीणि श्राद्धे पवित्राणि” (३.२३५) इत्यादिवचनात् । तिलांश् च भूमौ प्रक्षिपेत् ॥ ३.२३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	Let him eagerly entertain at a funeral sacrifice a daughter's son, though he be a student, and let him place a Nepal blanket on the on the seat (of each guest), scattering sesamum grains on the ground.
 </details>
 
 <details><summary>भारुचिः</summary>

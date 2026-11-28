@@ -3,6 +3,11 @@ title = "403 तुलामानम् प्रतीमानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+403	All weights and measures must be duly marked, and once in six months let him re-examine them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Scales, weights and measures should be duly marked; and they should be re-examined after every six months.—(403)
@@ -58,9 +63,4 @@ measures shall see to the setting up of instruments for measurement.’
 <details><summary>भारुचिः</summary>
 
 त्रयम् अप्य् एतद् राजमुद्राङ्कितम् अनाधृष्यं भवति । ऋज्व् अन्यत् ॥ ८.४०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-403	All weights and measures must be duly marked, and once in six months let him re-examine them.
 </details>

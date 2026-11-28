@@ -3,6 +3,11 @@ title = "253 प्रतिगृह्याऽप्रतिग्राह�
 
 +++
 
+<details><summary>Bühler</summary>
+
+254	That man who, having accepted presents which ought not to be accepted, or having eaten forbidden food, mutters the Taratsamandiya (Rikas), becomes pure after three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man has accepted a gift that should not be accepted, or has eaten reprehensible food, he becomes pure in three days, by repeating the Taratsamandīya’ verses.—(253)
@@ -53,9 +58,4 @@ or food given by a person whose food should not be eaten, the means of removing 
 <details><summary>भारुचिः</summary>
 
 तरत्समन्दीयं प्रसिद्धम् ॥ ११.२५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-254	That man who, having accepted presents which ought not to be accepted, or having eaten forbidden food, mutters the Taratsamandiya (Rikas), becomes pure after three days.
 </details>

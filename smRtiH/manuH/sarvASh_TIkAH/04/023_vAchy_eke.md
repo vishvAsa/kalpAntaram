@@ -2,6 +2,11 @@
 title = "023 वाच्य् एके"
 +++
 
+<details><summary>Bühler</summary>
+
+023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people constantly offer their life-breath into speech, and their speech into the life-breath,—knowing that in speech and in life-breath rests the imperishable fulfilment of sacrifices.—(23)
@@ -47,11 +52,6 @@ different sacrifice, the Daiva sacrifice; other Yogins have recourse to another 
 <details><summary>गोविन्दराजः</summary>
 
 **वाचीति** । अन्ये पुनः **वाचि** प्राणाख्ये च वायौ अक्षयफलां यज्ञसम्पत्तिं मन्यमाना अभिधानकामे वागग्नौ तूष्णीम्भावकाद् एव च प्राणाग्नौ वागाहुतिं जुह्वति प्राणाहुतिं जुह्वति । एवम् अनवरतं भावयत्न आसते । तथा च कौषीतकिरहस्यब्राह्मणम्- “यावद् वै पुरुषो भाषते न तावत् प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति । यावद् वै पुरुषः पाणिति न तावद् भाषितुं शक्नोति वाचं तदा प्राणे जुहोति । एते अनन्ते अमृते आहुती जागत् स्वपंश् च सततं जुहोति अथ या अन्या आहुतयो ऽन्नवत्यस् ताः कर्ममय्यो हि भवन्ति, एवं तद्वस्मै तत्पूर्वे विद्वांसो ऽग्निहोत्रं जुहवां चक्रुः” इति ॥ ४.२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
 </details>
 
 <details><summary>भारुचिः</summary>

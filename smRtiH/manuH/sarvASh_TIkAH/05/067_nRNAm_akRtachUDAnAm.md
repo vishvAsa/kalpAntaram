@@ -2,6 +2,11 @@
 title = "067 नृणाम् अकृतचूडानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+067	(On the death) of children whose tonsure (Kudakarman) has not been performed, the (Sapindas) are declared to become pure in one (day and) night; (on the death) of those who have received the tonsure (but not the initiation, the law) ordains (that) the purification (takes place) after three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of persons whose tonsure has not been performed purification has been declared to come after a night; but in the case of those whose tonsure has been performed, purification is held to come after three days.—(66).
@@ -165,11 +170,6 @@ years old, the impurity attaches to the parents only.’
 ( १ ) असंस्कृता या वाङ्मात्रेण प्रतिगृहीता न च विवाहितास्तासां मरणे बान्धवाः पतिपक्षास्त्रिरात्रेण, सनाभयस्तु सपिण्डाःस्वपितृपक्षा यथोक्तेन कल्पेन निवृत्तचौडकानामिति जातेरधिकारात्त्रिरात्रेण ।अन्यैस्तूक्त सादर्या दशरात्रेणेति तेषां चाभिप्रायः। अष्टवर्षायाः कन्याया दानं विहितम्, अदत्तायाश्च निवृत्तचौडकव्यपदेशाभावात् । पुंस इवोपनीतस्य तदानीं कल्पान्तरस्यानाम्नानाद्दशाह एव युक्तः । अन्यैस्तु पठितम्— अहस्त्वदत्तकन्यासु वालेषु च विशोधनमिति । तत्र व्याख्यातारः - पञ्चदशाब्ददेशीयापि या ह्यदत्ता कन्या तिष्ठेत्तदधरेवाशौचम्' यतो मुख्यमाम्नानमतिक्रम्य कालक्षपणे प्रमाणाभावात् । तत्रोच्यते—बालेषु चेति कोऽस्यार्थो यावता उक्तमेव योगविभागे अदन्तजन्मनः सद्य इति । न चैतेन तद्बाधितुं युक्तं सामान्यरूपत्वादस्य,तस्य च विशेषव्यवस्थापनरूपत्वात् । अतोऽयमेकाहः पृथगुक्तोऽपि आचूडादेव व्यवतिष्ठतः सामान्यस्य विशेषापेक्षत्वात् । तस्मादनार्षं एवायमर्धश्लोकः प्रतिपद्यते । स्पर्शविषयतया नेयम् । स्पर्शप्रतिषेधो हि मृतकसूतकयोर्बालस्यापि पुंवत्प्राप्तः । तदर्थमेतदुक्तं स्यात् अहस्त्वदत्तकन्यासु बालेषु च विशोधनमिति । एवञ्चविषयसप्तम्याश्रिता भवति, सा च युक्ता कारकविभक्तित्वात् । इतरथा अध्याहृत्य भावलक्षणा सप्तमी व्याख्यायेत, बालेषु मृतेषु जीवतां शुद्धिरिति । न च तदुपस्पर्शनादाशौचम् । एतेनैतत् सिद्ध्यति, विषयान्तरे तस्य च चरितार्थत्वात् भूमौ परिवृतत्वात् भूमौ परिवृतस्य च स्पर्शनसम्भवात् । अविशेषोक्तौ कुतो विशेषप्रतिपत्तिरिति चेत् ? तस्याचमनकल्पो विद्यते इत्येतत्सन्निधौ तादृशस्येव स्पर्शस्य प्रतीयमानत्वात् । तथा च रजस्वलासृष्टिनो वालस्य स्पर्शनं नेच्छन्ति, अथास्य विशेषणत्वात् । तथा गौतमेन तदुक्तम्— "स्वस्थां मृतौ युक्तमेवाधातुमेतस्य” तस्माद्युक्तौवाधानकाललक्षणा ।
 
 क्तेन विधिना शुद्ध्यन्तीति व्याचक्षाते । अत्र च व्याख्यान पुत्रवत्कन्यायामाप चूडाकरणादूर्ध्वमरणे त्र्यहाशौचं स्यात् । तच्चादिपुराणाद्यनेकवचनविरुद्धम् ॥७२॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	(On the death) of children whose tonsure (Kudakarman) has not been performed, the (Sapindas) are declared to become pure in one (day and) night; (on the death) of those who have received the tonsure (but not the initiation, the law) ordains (that) the purification (takes place) after three days.
 </details>
 
 <details><summary>भारुचिः</summary>

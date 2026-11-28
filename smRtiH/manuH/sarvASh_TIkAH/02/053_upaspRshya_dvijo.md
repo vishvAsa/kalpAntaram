@@ -2,6 +2,11 @@
 title = "053 उपस्पृश्य द्विजो"
 +++
 
+<details><summary>Bühler</summary>
+
+053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-b orn person should always take his food after having sipped water and with due care; and after having eaten, he should rinse his mouth in the proper manner and touch the cavities with water.—(53).
@@ -126,11 +131,6 @@ without any mantra.’
 <details><summary>गोविन्दराजः</summary>
 
 **उपस्पृश्येति** । सर्वदा ब्रह्मचर्याद् ऊर्ध्वम् अपि द्विजः आचम्य **अन्नं समाहितो **अनन्यमना भुञ्जीत । **भुक्त्वा च** यथाशास्त्रम् **उपस्पृशेत्** । **अद्भिश् च खानि** इन्द्रियछिद्राणि “खानि चोपस्पृशेच् छीर्ष्ण्यानि” इति गौतमस्मरणात् शिरस्थानि** स्पृशेत्** । **उपस्पृशेद् **इत्य् उक्त्वा **खानि च संस्पृशेद्** इति यत् पृथग् आह अतो ऽवसीयते यद् उपस्पर्शनाचमनशब्दाभ्यां त्रिर् अभ्युक्षणमात्रं प्रधानम् उच्यते खस्पर्शनादिका तु इतिकर्तव्यतयेति । तथा च आचमनम् इति भक्षणार्थेनैव धातुसमाख्यानात् ॥ २.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).
 </details>
 
 <details><summary>भारुचिः</summary>

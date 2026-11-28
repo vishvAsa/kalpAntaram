@@ -3,6 +3,11 @@ title = "042 अत्र गाथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	With respect to this (matter), those acquainted with the past recite some stanzas, sung by Vayu (the Wind, to show) that seed must not be sown by (any) man on that which belongs to another.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On this point, persons conversant with ancient lore recite some ‘Gāthās’ sung by Vāyu, to the effect that man should not sow his seed in what belongs to another.—(42)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>गोविन्दराजः</summary>
 
 **अत्रेति **। अस्मिन्न् अर्थे वायुप्रोक्ता गाथाः छन्दोविशेषयुक्तानि वाक्यानि नीतिकालज्ञाः कथयन्ति यथा परभार्यायां बीजं मनुष्येण न वप्तव्यम् इति ॥ ९.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	With respect to this (matter), those acquainted with the past recite some stanzas, sung by Vayu (the Wind, to show) that seed must not be sown by (any) man on that which belongs to another.
 </details>

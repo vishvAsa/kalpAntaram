@@ -3,6 +3,11 @@ title = "218 ऋणे धने"
 
 +++
 
+<details><summary>Bühler</summary>
+
+218	And if, after all the debts and assets have been duly distributed according to the rule, any (property) be afterwards discovered, one must divide it equally.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After all the assets and liabilities have been duly distributed, if something be discovered afterwards,—all this must be divided equally.—(218)
@@ -47,9 +52,4 @@ concealed with a fraudulent purpose, the King shall recover it from the cheat by
 <details><summary>भारुचिः</summary>
 
 द्रष्ट्रा न तद् ग्राह्यम् इत्य् एवमर्थं पुनर् उपदेशः, ज्येष्ठांशप्रतिषेधार्थो वा, द्व्यंशः पूर्वजः इत्य् एवम् उक्तं ज्येष्ठस्य तद् अत्र न स्यात् ॥ ९.२१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-218	And if, after all the debts and assets have been duly distributed according to the rule, any (property) be afterwards discovered, one must divide it equally.
 </details>

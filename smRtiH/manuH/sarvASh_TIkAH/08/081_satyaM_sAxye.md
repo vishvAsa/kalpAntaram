@@ -3,6 +3,11 @@ title = "081 सत्यं साक्ष्ये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	'A witness who speaks the truth in his evidence, gains (after death) the most excellent regions (of bliss) and here (below) unsurpassable fame; such testimony is revered by Brahman (himself).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘The witness, telling the truth in his evidence, attains irreproachable regions, also unsurpassable fame; such speech is honoured by Brahmā himself.—(81)’
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 8.79].
 <details><summary>भारुचिः</summary>
 
 दृष्टादृष्टफलसंबन्धेनेयं स्तुतिः सत्यवचनार्था । न च केवलं सत्यस्यावचनाद् एतद् यथोक्तं न भवति, किं तर्हि प्रत्यवायश् चापरः । तथा प्रदर्शयति ॥ ८.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	'A witness who speaks the truth in his evidence, gains (after death) the most excellent regions (of bliss) and here (below) unsurpassable fame; such testimony is revered by Brahman (himself).
 </details>

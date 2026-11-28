@@ -3,6 +3,11 @@ title = "041 त्रिविधा त्रिविधैषा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	But know this threefold course of transmigrations that depends on the (three) qualities (to be again) threefold, low, middling, and high, according to the particular nature of the acts and of the knowledge (of each man).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This threefold Migratory State due to the qualities should be understood to be again of three kinds each—high, low and middling, in accordance with the peculiar character of the act and knowledge of each man.—(41)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 त्रिविधा सती पुनः कर्मविद्याभियोगात् त्रिधा भिद्यते । एतास्व् अपि नवसु वृत्तिषु कर्मविद्ययोगाद् एव वृत्तय आनन्त्येन कल्प्यन्ते ॥ १२.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	But know this threefold course of transmigrations that depends on the (three) qualities (to be again) threefold, low, middling, and high, according to the particular nature of the acts and of the knowledge (of each man).
 </details>

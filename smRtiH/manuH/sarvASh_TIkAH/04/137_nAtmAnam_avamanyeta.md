@@ -2,6 +2,11 @@
 title = "137 नात्मानम् अवमन्येत"
 +++
 
+<details><summary>Bühler</summary>
+
+137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not despise himself by reason of former failures. Until death, he should seek fortune, and he should never think her unattainable.—(137)
@@ -65,11 +70,6 @@ not touch any one in his vitals.’
 <details><summary>गोविन्दराजः</summary>
 
 **नात्मानम्** इति । प्रथमोत्पन्नाभिर् असम्पद्धिः **आत्मानं **नावजानीयात् । अपि तु **आ मृत्योः **श्र्यर्थम् उद्यमं कुर्यात्, **न दुर्लभा** श्रीर् इति बुध्येत ॥ ४.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
 </details>
 
 <details><summary>भारुचिः</summary>

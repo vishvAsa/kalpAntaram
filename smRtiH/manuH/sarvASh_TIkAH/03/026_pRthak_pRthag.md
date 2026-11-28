@@ -2,6 +2,11 @@
 title = "026 पृथक् पृथग्"
 +++
 
+<details><summary>Bühler</summary>
+
+026	For Kshatriyas those before-mentioned two rites, the Gandharva and the Rakshasa, whether separate or mixed, are permitted by the sacred tradition.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The two forms of marriage mentioned before—i.e., the Gāndharva and the Rākṣasa—have been declared, whether separately or mixed, to be lawful for the Kṣatriya.—(26)
@@ -69,11 +74,6 @@ all,—since it is accompanied by love.’
 <details><summary>गोविन्दराजः</summary>
 
 **पृथग्** इति । **गान्धर्वराक्षसाख्यौ विवाहौ पूर्वोक्तौ तौ पृथक् पृथक् मिश्रौ वा क्षत्रस्याधर्माव्** इति पूर्वं सिद्धम् । **मिश्रौ धर्म्यौ यस्य तौ स्मृतौ **इत्य् अनेनोच्यते । तत्रेतरेतरानुरागपूर्वं यदा कन्या वरेणात्मानं संविदा युद्धादिनापहारयति तदा गान्धर्वराक्षसौ मिश्रौ भवतः ॥ ३.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	For Kshatriyas those before-mentioned two rites, the Gandharva and the Rakshasa, whether separate or mixed, are permitted by the sacred tradition.
 </details>
 
 <details><summary>भारुचिः</summary>

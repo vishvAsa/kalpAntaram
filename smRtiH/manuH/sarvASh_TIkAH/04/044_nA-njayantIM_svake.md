@@ -3,6 +3,11 @@ title = "044 नाऽञ्जयन्तीं स्वके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	A Brahmana who desires energy must not look at (a woman) who applies collyrium to her eyes, has anointed or uncovered herself or brings forth (a child).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The brāhmaṇa, desiring brightness, shall not look at a woman who is a pplying collyrium to her own eyes, or who has anointed herself, or who is uncovered, or is bringing forth a child.—(44)
@@ -123,9 +128,4 @@ See Comparative notes for [Verse 4.43].
 <details><summary>गोविन्दराजः</summary>
 
 **नाञ्जयन्तीम्** इति । तथा स्वनेत्रयोः अञ्जनं ददतीं घृ**आभ्यक्तां **“नग्नां नान्यत्र मैथुनात्” इत्य् आपस्तम्बस्मरणात् नेक्षेत । अपत्यं च **प्रसवन्तीं **वीर्यकामो ब्राह्मणो **न पश्येत्** ॥ ४.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	A Brahmana who desires energy must not look at (a woman) who applies collyrium to her eyes, has anointed or uncovered herself or brings forth (a child).
 </details>

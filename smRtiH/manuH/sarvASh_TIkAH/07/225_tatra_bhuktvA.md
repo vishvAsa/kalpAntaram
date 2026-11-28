@@ -3,6 +3,11 @@ title = "225 तत्र भुक्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+225	Having eaten there something for the second time, and having been recreated by the sound of music, let him go to rest and rise at the proper time free from fatigue.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Then, having eaten a little again, and having been recreated by the sound of musical instruments, he shall sleep and rise at the proper time, freed from fatigue.—(225)
@@ -50,9 +55,4 @@ business for the next day, and taking leave of his attendants and having all nec
 <details><summary>गोविन्दराजः</summary>
 
 **तत्र भुक्त्वा पुनः किञ्चित् तूर्यघोषैः प्रहर्षिभिः** । **संविशेच् च यथाकालम् उत्तिष्ठेद् विगतक्लमः** । **तत्रा**न्तःपुरे **किञ्चिन्** नातितृप्तं वादित्रशब्दैः श्रुतिसुखैर् युक्ते **भुक्त्वा** कालानतिक्रमेण गतार्धरात्रप्रहरायां रात्रौ सुप्यात् । सुप्त्वा च पश्चिमे यामे **उत्तिष्ठेत्** ॥ ७.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	Having eaten there something for the second time, and having been recreated by the sound of music, let him go to rest and rise at the proper time free from fatigue.
 </details>

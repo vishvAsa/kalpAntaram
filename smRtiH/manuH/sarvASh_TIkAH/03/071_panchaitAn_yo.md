@@ -2,6 +2,11 @@
 title = "071 पञ्चैतान् यो"
 +++
 
+<details><summary>Bühler</summary>
+
+071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who omits not these sacrifices, to the best of his capacity, on any day, does not become tainted by the sin of the ‘slaughter-house,’ even though living in the house.—(71)
@@ -53,11 +58,6 @@ feeding of children, young girls, old persons, the pregnant woman, the sick and 
 <details><summary>गोविन्दराजः</summary>
 
 **पञ्चेति । एतान् पञ्च महायज्ञान् यो** यथाशक्ति न जहाति स सर्वकालम् **अपि गृहे वसन्** चुल्ल्यादिसूनाजनितैः पापैर् न सम्बध्यते ॥ ३.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
 </details>
 
 <details><summary>भारुचिः</summary>

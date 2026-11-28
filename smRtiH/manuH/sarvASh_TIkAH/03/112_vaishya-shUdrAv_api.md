@@ -2,6 +2,11 @@
 title = "112 वैश्य-शूद्राव् अपि"
 +++
 
+<details><summary>Bühler</summary>
+
+112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya and the Śūdra also, when arrived in the family in the character of guests, he should feed, along with his servants,—showing his compassionate disposition.—(112)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 3.110].
 <details><summary>गोविन्दराजः</summary>
 
 **वैश्यशूद्राव्** इति । **वैश्यशूद्राव्** अपाथेयाव् अतिथिरूपौ गृहे प्राप्तौ तदा कारुण्यात् सहभोजनीयौ ॥ ३.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
 </details>
 
 <details><summary>भारुचिः</summary>

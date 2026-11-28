@@ -3,6 +3,11 @@ title = "021 व्रात्यात् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	But from a Vratya (of the) Brahmana (caste) spring the wicked Bhriggakantaka, the Avantya, the Vatadhana, the Pushpadha, and the Saikha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the ‘Apostate’ Brāhmaṇa is born the evil- natured ‘Bhṛjjakaṇṭaka,’ the Āvantya, the ‘Vāṭadhāna’ the ‘Puṣpadha,’ and the ‘Śaikha.’—(21)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 व्रात्याद् विप्राद् वर्णायाम् एव, तस्याः पूर्वश्लोके ऽधिकृतत्वाद् इहावचनात् स्त्री[जातेः । तस्यां यो जातः] स भूर्जकण्ठनामा भवति व्रात्याभिजनः । स्मृत्यन्तरे वैश्यायां ब्राह्मणाज् जातो भृज्जकण्ठः स्मर्यते । स चानुलोमत्वाद् अपापात्मा । यतः इदं तदपेक्षं विशेषणम् उच्यते- पापात्मत्वम् अस्य व्रात्याज् जातत्वाद् असंस्कृतात्मनः । ततो ऽपि ब्राह्मण्याम् एवावन्त्यः पापतरः, न तु भूर्जकण्टः स्त्रियां तस्यां हि जातो ऽवर्णस् तन्नाम भवति । अत इदं विशेष्यते । ब्राह्मण्याम् एव । एतेनोत्तरा व्याख्याताः- एवम् अवन्त्याद् वातधानः पापतमः, तस्मात् पुष्पधः, ततो ऽपि शैख इति । ईषद्विकारत्वाद् वयम् निर्देशः, पञ्चधा ब्राह्मणव्रात्यजातानां निदर्शनार्थो वा । एवम् उत्तरयोर् अपि बोद्धव्यम् । क्षत्रियव्रात्याज् जाताः क्षत्रियायाम् अधुनोच्यन्ते ॥ १०.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	But from a Vratya (of the) Brahmana (caste) spring the wicked Bhriggakantaka, the Avantya, the Vatadhana, the Pushpadha, and the Saikha.
 </details>

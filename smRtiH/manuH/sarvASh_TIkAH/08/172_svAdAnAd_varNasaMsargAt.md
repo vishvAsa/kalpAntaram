@@ -3,6 +3,11 @@ title = "172 स्वादानाद् वर्णसंसर्गात
 
 +++
 
+<details><summary>Bühler</summary>
+
+172	By taking his due, by preventing the confusion of the castes (varna), and by protecting the weak, the power of the king grows, and he prospers in this (world) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By taking what is his due, by the proper adjustment of castes, and by protecting the weak, the power of the king grows, and he prospers here as also after death.—(172)
@@ -65,9 +70,4 @@ obtain lawfully.’
 <details><summary>भारुचिः</summary>
 
 यथाशास्त्रं पुनर् अस्य वर्तमानस्य, व्यवहारेभ्यो ऽन्यतश् च पौरजानपदेभ्यस् तद्द्रव्यादानाद्, दुर्बलानां च बलवद्भ्यो रक्षणाद्, वर्णानाम् असर्गः परस्परेणासङ्करः प्रजासु भवति । ततश् च राजा **प्रेत्येह वर्धत** इति । अधिकृतविधिस्तुतिमात्रम् इदम् ॥ ८.१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	By taking his due, by preventing the confusion of the castes (varna), and by protecting the weak, the power of the king grows, and he prospers in this (world) and after death.
 </details>

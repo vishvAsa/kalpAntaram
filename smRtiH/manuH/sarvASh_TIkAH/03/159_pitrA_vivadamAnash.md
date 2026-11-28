@@ -2,6 +2,11 @@
 title = "159 पित्रा विवदमानश्"
 +++
 
+<details><summary>Bühler</summary>
+
+159	He who wrangles or goes to law with his father, the keeper of a gambling-house, a drunkard, he who is afflicted with a disease (in punishment of former) crimes, he who is accused of a mortal sin, a hypocrite, a seller of substances used for flavouring food,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One quarrelling with one’s father, the keeper of a gambling house, the drunkard, one afflicted with a foul disease, one accused of sins, the hypocrite, and the dealer in essence.—(159)
@@ -104,11 +109,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **पित्रेति** । **पापरोग्य् अभिशस्तश् च जालिको रसविक्रयी । **शास्त्रालोकवस्तुषु यः **पित्रा** सह विवदते, **कितवः **अपरः देवयति, इतरस्योक्तत्वात् । **केकर** इति पाठकाचारः । सुराव्यतिरिक्तमद्यस्य पाता कुष्ठी, पातकोपपातककर्तृत्वेनोत्पन्नाभिशापो ऽसत्य् अपि तत्कारित्वनिश्चये, सव्याजो धर्मानुष्ठाने, रसशब्दस्येक्षुरसादाव् अपि प्रसिद्धत्वात् तद्विक्रयी विषस्येव तत्राप्य् अर्थशास्त्रे रसशब्दप्रयोगात् इत्य् एते उभयत्र परिहर्तव्याः ॥ ३.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-159	He who wrangles or goes to law with his father, the keeper of a gambling-house, a drunkard, he who is afflicted with a disease (in punishment of former) crimes, he who is accused of a mortal sin, a hypocrite, a seller of substances used for flavouring food,
 </details>
 
 <details><summary>भारुचिः</summary>

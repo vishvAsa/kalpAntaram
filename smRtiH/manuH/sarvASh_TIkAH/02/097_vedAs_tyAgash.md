@@ -2,6 +2,11 @@
 title = "097 वेदास् त्यागश्"
 +++
 
+<details><summary>Bühler</summary>
+
+097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vedas, Renunciation, Sacrifices, Restraints and Austerities never attain fulfilment for one whose disposition is vitiated.—(97)
@@ -61,11 +66,6 @@ not wicked—there is Upanayana, Vedic Study, Fire-laying and other acts leading
 
 *Āpastamba-Dharmasūtra* (5. 1).—‘The term *Tapas* is Applied to the
 observances;—transgression thereof leads to the trickling away of Knowledge and Religious Acts.’
-</details>
-
-<details><summary>Bühler</summary>
-
-097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).
 </details>
 
 <details><summary>भारुचिः</summary>

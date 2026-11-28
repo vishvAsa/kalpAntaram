@@ -3,6 +3,11 @@ title = "179 कुलजे वृत्तसम्पन्ने"
 
 +++
 
+<details><summary>Bühler</summary>
+
+179	A sensible man should make a deposit (only) with a person of (good) family, of good conduct, well acquainted with the law, veracious, having many relatives, wealthy, and honourable (arya).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise man shall, entrust a deposit to one who is born of good family, is endowed with character, cognisant of the law, and truthful, has a large following, and is wealthy and honourable—(179)
@@ -89,9 +94,4 @@ another man, through fear of the King, robbers or other dangers, or for the purp
 <details><summary>भारुचिः</summary>
 
 निक्षेपिलक्षणविध्यर्थः श्लोकः । **कुलजे** प्रकृष्टाभिजने । [**वृत्तसंपन्ने**] आचारवति । प्रकरणाद् अर्थव्यवहारे, इतरत्र वा । एवं चार्थव्यवहारे शुचिर् भवति यदि धर्मज्ञतया **सत्यवादी** भवति । तथा च सति वृत्तविशेषणम् इदं विज्ञेयम् । एवंवृत्तो यदि भवति ततो ऽयं निक्षेपयोग्यः संपद्यते । **महापक्षश्** चागम्यश् चाटविकादीनां भवति, स्वपक्षपराभवभयाच् च न विकारं याति । एवं च धनित्वोपदेशो व्याख्येयः । **आर्यश्** चैवंवृत्तः शूद्रो ऽपि विज्ञेयः, अविक्रियात्मकत्वाद् इति । अन्ये तु द्विजातिम् आचक्षते, तस्य चादृष्टार्थं ग्रहणम् आहुर् इति ॥ ८.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	A sensible man should make a deposit (only) with a person of (good) family, of good conduct, well acquainted with the law, veracious, having many relatives, wealthy, and honourable (arya).
 </details>

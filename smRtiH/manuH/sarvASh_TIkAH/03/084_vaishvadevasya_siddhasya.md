@@ -2,6 +2,11 @@
 title = "084 वैश्वदेवस्य सिद्धस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Out of the food cooked in the domestic fire, for the Viśvedevas, the Brāhmaṇa shall every day offer, according to rule, Homa to these deities,’—(84)
@@ -98,11 +103,6 @@ outcasts, as also for birds, one shall offer food outside, on the ground.’
 <details><summary>गोविन्दराजः</summary>
 
 **वैश्वदेवस्येति **। वैश्वदेवार्थस्यान्नस्य सतो वैवाहिके ऽग्नौ कालान्तराहिते वा परिसमूहनादि गृह्योक्तेतिकर्तव्यतापूर्वकम् **आभ्यो** वक्ष्यमाणाभ्यो **देवताभ्यः** प्रत्यहं **ब्राह्मणो होमं कुर्यात्,** ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
 </details>
 
 <details><summary>भारुचिः</summary>

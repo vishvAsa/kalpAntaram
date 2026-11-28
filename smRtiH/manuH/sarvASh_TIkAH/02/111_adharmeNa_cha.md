@@ -3,6 +3,11 @@ title = "111 अधर्मेण च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who instructs in an unlawful manner, and he who asks in an unlawful manner,—of those two one or the other either dies (untimely), or incurs the ill-will (of the people).—(111)
@@ -43,9 +48,4 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 <details><summary>गोविन्दराजः</summary>
 
 **अधर्मेणेति** । उक्तमर्यादातिक्रमेण **यः प्राह यो** वा **पृच्छति तयोर् अन्यतरः **यो ऽतिक्रमकृत् स म्रियते **द्वेषं **वा लोके भजते ॥ २.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.
 </details>

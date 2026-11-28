@@ -2,6 +2,11 @@
 title = "081 स्वाध्यायेनाऽर्चयेतर्षीन् होमैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should worship, according to law, the Sages by Vedic Study, the Gods by Homa-offerings, the Pitṛs by Śrāddha offerings, the Men by food and the Elementals by the offering of Bali.’—(81)
@@ -85,11 +90,6 @@ the gods, one should make offerings to the Elementals, and also offer food on th
 <details><summary>गोविन्दराजः</summary>
 
 किं तद् इत्य् आह **स्वाध्यायेनेति** । नानाप्रकारत्वाद् अर्चनस्य स्वाध्यायादेर् अर्चनार्थत्वम् अविरुद्धं पूर्वोक्तमहायज्ञार्थैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रम् अर्चयेत् ॥ ३.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
 </details>
 
 <details><summary>भारुचिः</summary>

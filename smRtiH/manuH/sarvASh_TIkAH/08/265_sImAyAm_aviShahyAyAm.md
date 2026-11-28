@@ -3,6 +3,11 @@ title = "265 सीमायाम् अविषह्यायाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+265	If the boundary cannot be ascertained (by any evidence), let a righteous king with (the intention of) benefiting them (all), himself assign (his) land (to each); that is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of the boundary being unascertainable, the righteous king shall himself assign to them their lands, on the basis of advantages. Such is the established law.—(265)
@@ -77,9 +82,4 @@ true state of things, and no boundary-marks, then the King himself shall fix the
 <details><summary>भारुचिः</summary>
 
 दूरत्वाद् अशक्योपभोगायां राजा दृष्टोपकारसंबन्धेनैकत्र प्रयच्छेत् भूमिम् । न च राज्ञो ग्रहणे तत्र दोषः । एवमर्थश् चायम् उपदेशः; अतो ऽप्रदाने ऽपि न दोषः ॥ ८.२६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-265	If the boundary cannot be ascertained (by any evidence), let a righteous king with (the intention of) benefiting them (all), himself assign (his) land (to each); that is the settled rule.
 </details>

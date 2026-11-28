@@ -3,6 +3,11 @@ title = "047 अतिवादांस् तितिक्षेत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	Let him patiently bear hard words, let him not insult anybody, and let him not become anybody's enemy for the sake of this (perishable) body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall patiently bear improper words, and shall not insult anyone; and he shall not make enmity with any one, for the sake of his present body—(47).
@@ -68,9 +73,4 @@ one with contempt. Should one man chop his one arm with an axe, and another spri
 > **न चेमं देहम् आश्रित्य वैरं कूर्वीत केनचित्  ॥ ६.४७ ॥**
 
 एवं च सति क्षमायोगा
-</details>
-
-<details><summary>Bühler</summary>
-
-047	Let him patiently bear hard words, let him not insult anybody, and let him not become anybody's enemy for the sake of this (perishable) body.
 </details>

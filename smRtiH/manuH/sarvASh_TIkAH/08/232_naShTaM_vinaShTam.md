@@ -3,6 +3,11 @@ title = "232 नष्टं विनष्टम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+232	The herdsman alone shall make good (the loss of a beast) strayed, destroyed by worms, killed by dogs or (by falling) into a pit, if he did not duly exert himself (to prevent it).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The keeper alone should make good what has strayed, or been destroyed by worms, or killed by dogs, or has perished in an unsafe place,—if it was left without human aid.—(232)
@@ -80,9 +85,4 @@ care, allows them to perish, or loses them through his negligence, he shall make
 <details><summary>भारुचिः</summary>
 
 गोपप्रमादेन ॥ ८.२३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	The herdsman alone shall make good (the loss of a beast) strayed, destroyed by worms, killed by dogs or (by falling) into a pit, if he did not duly exert himself (to prevent it).
 </details>

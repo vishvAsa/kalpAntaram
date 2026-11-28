@@ -3,6 +3,11 @@ title = "063 सर्वाकारेष्व् अधीकारो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	Superintending mines (or factories) of any sort, executing great mechanical works, injuring (living) plants, subsisting on (the earnings of) one's wife, sorcery (by means of sacrifices), and working (magic by means of) roots, (and so forth),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Superintending all mines, executing large mechanical works, destroying medicinal herbs, subsisting on women, performing malevolent rites and sorcery.—(63)
@@ -59,9 +64,4 @@ This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the following 
 **
 
 See Comparative notes for [Verse 11.58].
-</details>
-
-<details><summary>Bühler</summary>
-
-064	Superintending mines (or factories) of any sort, executing great mechanical works, injuring (living) plants, subsisting on (the earnings of) one's wife, sorcery (by means of sacrifices), and working (magic by means of) roots, (and so forth),
 </details>

@@ -3,6 +3,11 @@ title = "295 स चेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+295	But if he is stopped on his way by cattle or by (another) carriage, and he causes the death of any living being, a fine shall without doubt be imposed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if he happens to be stopped on the road and causes the death of a living being, either through animals or through the cart,—in such a case there is no doubt regarding punishment.—(295)
@@ -71,9 +76,4 @@ killed, the man should be made to pay a fine according to the character of the a
 <details><summary>भारुचिः</summary>
 
 अना]प्ताद् वाज्ञानात् संरोधादिदोषात् पशुभिर् वा संमुखीनरथयुक्तैः संरोद्धृभिः रथेन वा जघनोपसर्पिणा संरुद्धयुग्यस् संनि[हि]तश् चामुत्[अश् च परिपात्]आदिभिः कारणैः तत्र दण्डनिमित्तो ऽप्राधो दण्ड इत्य् उच्यते । गुणतः स विचारितो ऽनन्तरम् एव । यानस्वाम्यादीनां "यत्रापवर्तते युग्यम्" इत्य् एवमादिना वाक्ये[ष्व् अ]त्र दण्डो विचारितः । वक्ष्यमाणश्लोकेषु यानस्वाम्यादीनाम् अनन्तरोक्तेश्व् अपराधेषु युग्यावर्तनादिभिः कारणैर् मनुष्यादिमारणे वक्ष्यमाणो "मनुष्यमारणे क्षिप्रम्" इत्य् एवमादिः । न त्व् अविशेषेण मनुष्यादिप्राणिहिंसाया दण्डः । किं तर्हि विचारितः नानाप्रकार उपदिष्टः मनुष्यादिहिंसाविशेषाख्यः । अथ वा पशुरथग्रहणं नैव स्वयानसंरुद्ध्विशेषणं यथा व्याख्यातम् अस्माभिः, किं तर्हि पशुभिर् वा बलीवर्धाख्यैर् आत्मीयरथयुक्तैः रथेन वा आत्मीयन् क्वचित् सङ्कुले इतश् चामुतश् च मार्गात् परिपतंस् तत्सङ्कटत्वाद् यदि ऽप्रमापयेत् प्राणभृतः तत्र दण्डो विचारितः" इत्य् एतद् उक्तार्थम् । इदानीं पूर्वापराधेषु प्राजकादीनां दण्डविकल्प उच्यते ॥ ८.२९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-295	But if he is stopped on his way by cattle or by (another) carriage, and he causes the death of any living being, a fine shall without doubt be imposed.
 </details>

@@ -3,6 +3,11 @@ title = "058 अग्न्यगारे गवाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the abode of fire, in the cow-pen, in the presence of Brāhmaṇas, during the reading of Vedas, at the time of eating, he shall uncover his right hand.—(58).
@@ -51,9 +56,4 @@ in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at meeting 
 <details><summary>गोविन्दराजः</summary>
 
 **अग्न्यागार** इति । अग्निशालायां **गवां गोष्ठे **निवासे ब्राह्मणसमीपे स्वाध्यायभोजनकालयोः **दक्षिणं पाणिम्** आ बाहोर् वासस **उद्धरेत्** ॥ ४.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.
 </details>

@@ -2,6 +2,11 @@
 title = "017 शूद्रां शयनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having placed a Śūdrā woman on his bed, the Brāhmaṇa goes to perdition; and having begotten a son by her, he falls from Brāhmaṇahood itself.—(17).
@@ -46,11 +51,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 **शूद्राम्** इति । **शूद्रां **गत्वा **ब्राह्मणो **नरकं व्रजति, इत्य् अत्यन्तप्रतिषेधः । शेषो ऽर्थवादः । **सुतं **शूद्रायाम् उत्पाद्य **ब्राह्मण्याद् एव **भ्रश्यतीत्य् अयं सुतोत्पत्तिनिषेधार्थवादः । एवं चेहार्थवादो यो ब्राह्मणग्रहणाद् अत्यन्तप्रतिषेधः सुतोत्पत्तिनिषेधो ब्रह्मणनविषयाद् एव ॥ ३.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
 </details>
 
 <details><summary>भारुचिः</summary>

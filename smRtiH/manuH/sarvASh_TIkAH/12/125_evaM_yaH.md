@@ -3,6 +3,11 @@ title = "125 एवं यः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+125	He who thus recognises the Self through the Self in all created beings, becomes equal (-minded) towards all, and enters the highest state, Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who thus perceives the Self through the Self, in all beings, becomes equal towards all and attains the highest state, Brahman.—(125)
@@ -50,9 +55,4 @@ It is only when one has got rid of all notions of ‘I’ and ‘mine,’—expr
 > **स सर्वसमताम् एत्य ब्रह्माभ्येति परं पदम्  ॥ १२.१२५ ॥**
 
 फलविधि एष आगमोपपत्तिभ्यां विज्ञेयः । न फलार्थवादः । एवम् इदं परमात्मयोगप्रसंख्यानोपासनाफलम् उपसंहृत्य शास्त्रम् अधुनोपसंहरति ॥ १२.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	He who thus recognises the Self through the Self in all created beings, becomes equal (-minded) towards all, and enters the highest state, Brahman.
 </details>

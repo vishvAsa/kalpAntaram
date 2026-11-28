@@ -2,6 +2,11 @@
 title = "016 पाठीन-रोहिताव् आद्यौ"
 +++
 
+<details><summary>Bühler</summary>
+
+016	(But the fish called) Pathina and (that called) Rohita may be eaten, if used for offerings to the gods or to the manes; (one may eat) likewise Ragivas, Simhatundas, and Sasalkas on all (occasions).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Pāṭhīna’ and the ‘Rohita’ are fit to be eaten when used as offerings to gods or Pitṛs; the ‘Rājīva’, the ‘Siṃhatuṇḍa’ and the ‘Saśalka,’ (one may eaṭ) on all occasions—(16)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 5.15].
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं जातिविशेषक्रियाविशेषसमवलम्बनेन मत्स्यप्रतिप्रसवम् आह **पाठीनरोहिताव्** इति । **पाठीनः **चन्द्र्कारण्यो मत्स्यभेद एव । **रोहितो **ऽपि रोहितमत्स्याख्यः । तौ दैवपित्र्यकर्मविनियुक्तौ इत्य् अदनार्हौ न त्व् अन्यदा । **राजीवाः **पुनः पद्मवर्णा मत्स्यविशेषाः । तथा सिंहमुखाः **सशल्काश् च **शकलिचिलिचिमशब्दाभ्याम् आयुर्वेदप्रसिद्धाः । सर्वदा हव्यकव्याभ्याम् अन्यत्रापि भक्षणार्हाः ॥ ५.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	(But the fish called) Pathina and (that called) Rohita may be eaten, if used for offerings to the gods or to the manes; (one may eat) likewise Ragivas, Simhatundas, and Sasalkas on all (occasions).
 </details>
 
 <details><summary>भारुचिः</summary>

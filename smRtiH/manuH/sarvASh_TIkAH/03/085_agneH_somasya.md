@@ -3,6 +3,11 @@ title = "085 अग्नेः सोमस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	First to Agni, and (next) to Soma, then to both these gods conjointly, further to all the gods (Visve Devah), and (then) to Dhanvantari,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First to Agni and to Soma, then to both these together, then to the Viśve-devas and to Dhanvantari.—(85)
@@ -34,9 +39,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>कुल्लूकः</summary>
 
 वचनद्वयम् “स्वाहाकारप्रदानहोमः" इति कात्यायनस्मरणादादावग्नये स्वाहा सोमाय स्वाहेति निरपेक्षदेवताकं होमद्वयं कृत्वा अग्नीषोमाभ्यां स्वाहेति समस्तदेवताकंहोमं कुर्यात् । ततो विश्वेभ्यो देवेभ्यो, धन्वन्तरये ॥८५॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	First to Agni, and (next) to Soma, then to both these gods conjointly, further to all the gods (Visve Devah), and (then) to Dhanvantari,
 </details>

@@ -3,6 +3,11 @@ title = "114 अकृतञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+114	(The acceptance on an untilled field is less blamable than (that of) a tilled one; (with respect to) cows, goats, sheep, gold, grain, and cooked food, (the acceptance of) each earlier-named (article is less blamable than of the following ones).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Uncultivated land is less reprehensible than cultivated land; and among cows, goats, sheep, gold, grains, and food each preceding one is less reprehensible than the succeeding.—(114)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 10.113].
 <details><summary>भारुचिः</summary>
 
 उत्तरस्योत्तरस्य परित्यागे ऽभ्युदयः ॥ १०.११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	(The acceptance on an untilled field is less blamable than (that of) a tilled one; (with respect to) cows, goats, sheep, gold, grain, and cooked food, (the acceptance of) each earlier-named (article is less blamable than of the following ones).
 </details>

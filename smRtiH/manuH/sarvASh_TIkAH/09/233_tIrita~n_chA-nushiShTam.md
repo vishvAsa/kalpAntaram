@@ -3,6 +3,11 @@ title = "233 तीरितञ् चाऽनुशिष्टम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+233	Whenever any (legal transaction) has been completed or (a punishment) been inflicted according to the law, he shall sanction it and not annul it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever has been finally settled and whatever punishment has been inflicted,—he shall accept as lawfully done, and shall not annul it—(233)
@@ -68,9 +73,4 @@ contrary to the law, the King shall revise it and fine the judge one thousand.�
 <details><summary>भारुचिः</summary>
 
 एवं च सति मैत्र्या कारुण्येन वान्येन वा कारणान्तरेण न निवर्तयेत् । अर्थाद् अशास्त्रकृतं निवर्तयेत् । तथा च सति ॥ ९.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	Whenever any (legal transaction) has been completed or (a punishment) been inflicted according to the law, he shall sanction it and not annul it.
 </details>

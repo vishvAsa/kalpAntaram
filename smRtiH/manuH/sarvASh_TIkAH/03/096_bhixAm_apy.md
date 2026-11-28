@@ -3,6 +3,11 @@ title = "096 भिक्षाम् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In accordance with scriptural injunctions, one should make over to the Brāhmaṇa knowing the true meaning of the Veda even alms and a water-put, after having honoured him.—(90)
@@ -83,9 +88,4 @@ pronounce the syllable *svasti*,—it is excellent.’
 <details><summary>गोविन्दराजः</summary>
 
 **भिक्षाम्** इति । फलपुष्पादिना सत्कृत्य पारमार्थिकवेदार्थज्ञाय ब्राह्मणाय स्वस्तिवाच्येत्यादिविधिपूर्वकं प्रतिपादयेत् इति ब्रह्मचारिभिक्षादानाद् विध्यन्तरम् इदम् । तथा च वसिष्ठः- “श्रोत्रियाय अन्नं दत्वा ब्रह्मचारिणे” इत्य् आह ॥ ३.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).
 </details>

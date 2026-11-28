@@ -3,6 +3,11 @@ title = "173 अमानुषीषू पुरुष"
 
 +++
 
+<details><summary>Bühler</summary>
+
+174	A man who has committed a bestial crime, or an unnatural crime with a female, or has had intercourse in water, or with a menstruating woman, shall perform a Samtapana Krikkhra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man who has had sexual intercourse with nonhuman females, or with a menstruating woman,—and he who has discharged his semen in a place other than the female organ, or in water,—should perporm the ‘Sāntapana Kṛcchra.’—(173)
@@ -93,9 +98,4 @@ Do. (3.291).—‘If one has intercourse with a woman during the day, one should
 <details><summary>भारुचिः</summary>
 
 "अमानुषीष्व् अनङ्गे च पैशाच्यां चैव योषिति" इत्य् अपरः पाठो ऽस्य श्लोकार्धस्य । "खे च" इत्य् अपरे पठन्ति । **अमानुषीषु** बडबाद्यासु । **पुरुषे** चानङ्गे । **उदक्या** प्रसिद्धा । अयोनौ च जले च रेतः सिक्त्वा । व्यवहितेषु वक्ष्यत्य् अनन्तरश्लोके नौप्रभृतिषु । **कृच्छ्रं सान्तपनं चरेत्** । तच् च वक्ष्यति । बडबादिवद् गवि प्रायश्चित्तम् नयम् एतत् । अतस् तस्यानुक्तत्वात् स्मृत्यन्तराद् वर्णनीयम्- " । । । स्नुषायां गविच् च [गुरु]तल्पसमः" इति ॥ ११.१७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-174	A man who has committed a bestial crime, or an unnatural crime with a female, or has had intercourse in water, or with a menstruating woman, shall perform a Samtapana Krikkhra.
 </details>

@@ -2,6 +2,11 @@
 title = "049 पुमान् पुंसो"
 +++
 
+<details><summary>Bühler</summary>
+
+049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A male child is born when the man’s seed is in excess, and a female child when the woman’s (is in excess); when the two are equal, there is born either a non-male or a boy and a girl; when it is weak and small in quantity, there is failure.—(49)
@@ -75,11 +80,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 **पुमान्** इति । पुंसो ऽधिकबीजे अयुग्मास्व् अपि रात्रिषु पुमान् स्त्र्याकृतिः दुर्बलो हीनाङ्गो जायते, आयुर्वेदे एवाभिधानात् । स्त्रीबीजे त्व् अधिके युग्मास्व् अपि स्त्री पुरुषाक्र्तिः दुर्बला हीनाङ्गी वा जायते आयुर्वेददर्शनात् । समे स्त्रीपुरुषबीजे युग्मास्व् अयुग्मास्व् अपि नपुंसकं जायते ॥ ३.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).
 </details>
 
 <details><summary>भारुचिः</summary>

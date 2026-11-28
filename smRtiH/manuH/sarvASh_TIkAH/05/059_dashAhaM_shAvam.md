@@ -2,6 +2,11 @@
 title = "059 दशाहं शावम्"
 +++
 
+<details><summary>Bühler</summary>
+
+059	It is ordained (that) among Sapindas the impurity on account of a death (shall last) ten days, (or) until the bones have been collected, (or) three days or one day only.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among ‘Sapiṇḍas’. the period of impurity due to death is ordained to last for ten days; or till the collecting of the bones, or for three days, or for one day only—(59).
@@ -159,11 +164,6 @@ are impure for ten days.’
 > दानं प्रतिग्रहो होमं स्वाध्यायश् च निवर्तते ।
 
 इत्य् एतद् वाक्यं भवत्य् एव । उत्तरत्रापि वृत्ताद्यपेक्षयैव विकल्पाविज्ञेयाः ॥ ५.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	It is ordained (that) among Sapindas the impurity on account of a death (shall last) ten days, (or) until the bones have been collected, (or) three days or one day only.
 </details>
 
 <details><summary>भारुचिः</summary>

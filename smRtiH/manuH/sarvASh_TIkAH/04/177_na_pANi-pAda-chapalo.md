@@ -2,6 +2,11 @@
 title = "177 न पाणि-पाद-चपलो"
 +++
 
+<details><summary>Bühler</summary>
+
+177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not be fickle with his hands and feet, nor fickle with his eyes, nor crooked, nor fickle with his speech, nor harm others by deed or thought.—(177)
@@ -46,11 +51,6 @@ with his eyes, nor with his limbs; such should be the conduct of the cultured.�
 <details><summary>गोविन्दराजः</summary>
 
 **न पाणिपादचपल** इति । हस्तपादचक्षुर्वाग्व्यापारान् निष्प्रयोजनान् न कुर्यात् अनृजुश् च क्रूरकृत् परोपघातकम् अयुक्तबुद्धिश् च न स्याद् इति । पुनर् वचनम् उक्तप्रयोजनम् ॥ ४.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
 </details>
 
 <details><summary>भारुचिः</summary>

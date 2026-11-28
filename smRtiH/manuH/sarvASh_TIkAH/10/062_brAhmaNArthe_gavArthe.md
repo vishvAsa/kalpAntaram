@@ -3,6 +3,11 @@ title = "062 ब्राह्मणार्थे गवार्थे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	Dying, without the expectation of a reward, for the sake of Brahmanas and of cows, or in the defence of women and children, secures beatitude to those excluded (from the Aryan community, vahya.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For aliens perfection is secured by unrequitedly giving up the body for the sake of Brāhmaṇas and cows, and in defence of women and children.—(62)
@@ -64,9 +69,4 @@ save a Brāhmaṇa, or a cow, or for the sake of a woman or a child,—may confe
 <details><summary>भारुचिः</summary>
 
 बाह्याः प्रतिलोमा गृह्यन्ते । अनुपस्कृतो धनेनापरिक्रीतः । देहत्यागविशेषणम् इदम् । सिद्धिर् अधिकारस्यान्यजन्मनि सिद्धिर् इति कारणाद् उच्यते अधिकारसामर्थ्यात् । अथ वा व्यवहितैव स्वर्गप्राप्तिः । नियोगार्थम् इदं प्रायश्चित्तशास्त्रं प्रतिलोमानाम् एवेति केचित् कल्पयन्ति । अपरे तु दण्डापूपिकया सर्वेषाम् अविशेषेनेदम् इच्छन्ति । अस्य देहत्यागस्य प्रायश्चित्तार्थम् उपदेशाद् बाह्यानां पुरुषधर्मार्थम् इदम् उच्यते ॥ १०.६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	Dying, without the expectation of a reward, for the sake of Brahmanas and of cows, or in the defence of women and children, secures beatitude to those excluded (from the Aryan community, vahya.)
 </details>

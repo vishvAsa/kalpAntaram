@@ -3,6 +3,11 @@ title = "211 येषाञ् ज्येष्ठः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+211	If the eldest or the youngest (brother) is deprived of his share, or if either of them dies, his share is not lost (to his immediate heirs).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the eldest or the youngest of the brothers should be deprived of his shares,—or if either of them dies,—his share does not become lost.—(211)
@@ -81,9 +86,4 @@ be taken by re-united co-parceners; those of brothers living separately by those
 <details><summary>भारुचिः</summary>
 
 प्रोषितस्य मृतस्य वा भागम् उद्धृत्य ॥ ९.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	If the eldest or the youngest (brother) is deprived of his share, or if either of them dies, his share is not lost (to his immediate heirs).
 </details>

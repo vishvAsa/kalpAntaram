@@ -3,6 +3,11 @@ title = "369 कन्यैव कन्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+369	A damsel who pollutes (another) damsel must be fined two hundred (panas), pay the double of her (nuptial) fee, and receive ten (lashes with a) rod.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a maiden pollutes another maiden, her fine shall be two hundred; she shall also pay the double of her nuptial fee and shall receive ten lashes.—(369)
@@ -56,9 +61,4 @@ It is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 1016);—and in
 <details><summary>भारुचिः</summary>
 
 शुल्कं गोमिथुनं द्विगुणं कन्यापित्रे दद्यात् द्विशतं राजदण्डम् ॥ ८.३६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-369	A damsel who pollutes (another) damsel must be fined two hundred (panas), pay the double of her (nuptial) fee, and receive ten (lashes with a) rod.
 </details>

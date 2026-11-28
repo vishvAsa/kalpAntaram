@@ -3,6 +3,11 @@ title = "014 यत्र धर्मो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+014	Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where justice is destroyed by injustice, or truth by falsehood, while people are looking on,—there the members of the court also are destroyed.—(14)
@@ -67,9 +72,4 @@ members do not extract the dart from the wounds, they are hit by it themselves. 
 > **हन्यते प्रेक्षमाणानां हतास् तत्र सभासदः  ॥ ८.१४ ॥**
 
 तस्मात् सभ्यैर् नोदासीनैर् भवितव्यम् । न साक्षिणः कुर्वन्तीति सभ्या मुच्यन्ते ॥ ८.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed.
 </details>

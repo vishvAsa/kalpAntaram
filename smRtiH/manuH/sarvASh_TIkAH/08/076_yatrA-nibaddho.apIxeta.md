@@ -3,6 +3,11 @@ title = "076 यत्राऽनिबद्धो ऽपीक्षेत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	When a man (originally) not appointed to be a witness sees or hears anything and is (afterwards) examined regarding it, he must declare it (exactly) as he saw or heard it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though not put down as a witness, if a person happens to see or hear anything in regard to a case,—when he comes to be questioned about it, he should speak out exactly as he has seen or heard it.—(76)
@@ -69,9 +74,4 @@ Do. (1.166).—‘If a witness dies or goes abroad after having been appointed, 
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ८.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	When a man (originally) not appointed to be a witness sees or hears anything and is (afterwards) examined regarding it, he must declare it (exactly) as he saw or heard it.
 </details>

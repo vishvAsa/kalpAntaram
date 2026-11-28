@@ -2,6 +2,11 @@
 title = "003 त्वम् एको"
 +++
 
+<details><summary>Bühler</summary>
+
+003	'For thou, O Lord, alone knowest the purport, (i.e.) the rites, and the knowledge of the soul, (taught) in this whole ordinance of the Self-existent (Svayambhu), which is unknowable and unfathomable.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thou alone, O Lord, art conversant with what ought to be done, which forms the true import of this entire Veda—which is eternal, inconceivable and not directly cognisable.—(3)
@@ -131,11 +136,6 @@ It is noteworthy that Medhātithi has supplied, under verse 11 below, a totally 
 <details><summary>गोविन्दराजः</summary>
 
 **त्वेम् एक **इति । यस्मात् **त्वम् एवैको** ऽ**स्य सर्वस्य** शास्त्रस्य अकृतकस्य इदं कर्तव्यम् इदं नेत्य् एवंविधस्य । यत् त्व् इदं शास्त्रं तत् कृत्वा असाव् इति तत्र ग्रन्थविषये अतिगहनत्वाद् एवंरूपम् एतद् इति । चिन्तयितुम् अशक्यस्य अतिमहत्त्वात् इयद् एतद् इति प्रमातुम् अशक्यस्य कार्यरूपो ऽनुष्ठेयरूपो यः पारमार्थिको ऽर्थः तं वेत्सि सर्वशक्ते ॥ १.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	'For thou, O Lord, alone knowest the purport, (i.e.) the rites, and the knowledge of the soul, (taught) in this whole ordinance of the Self-existent (Svayambhu), which is unknowable and unfathomable.'
 </details>
 
 <details><summary>भारुचिः</summary>

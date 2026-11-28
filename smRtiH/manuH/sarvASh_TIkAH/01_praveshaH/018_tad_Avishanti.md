@@ -2,6 +2,11 @@
 title = "018 तद् आविशन्ति"
 +++
 
+<details><summary>Bühler</summary>
+
+018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The great elemental substances, along with their functions, as also the mind, along with its subtile components, enter into that which (on that account) is the generator of all things and imperishable.—(18)
@@ -86,11 +91,6 @@ Medhātithi himself offers a second explanation.
 <details><summary>गोविन्दराजः</summary>
 
 **तद्** इति । **तद् **ब्रह्म तन्मात्राहङ्कारावस्थम् अनन्तरं महा**भूतान्य् **आकाशादीनि **आविशन्ति **तन्मात्रेभ्यः उत्पद्यन्ते । **सह कर्मभिः** यथाक्रमं धारणसङ्ग्रहपाकव्यूहनावकाशदानाख्यैः तत्कार्यैः **मनश् चावयवैः** शुभाशुभसङ्कल्पैः **सूक्ष्मैः **बहिर्दृश्यत्वाभावात् । **सर्वभूतकृत्** शुभाशुभसङ्कल्पप्रभवकर्मनिमित्तत्वात् जगतः **अव्ययं **अविनाशि आविशन्ति अहङ्कारात् तस्योत्पत्तेः ॥ १.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.
 </details>
 
 <details><summary>भारुचिः</summary>

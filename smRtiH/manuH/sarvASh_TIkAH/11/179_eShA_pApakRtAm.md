@@ -3,6 +3,11 @@ title = "179 एषा पापकृताम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+180	The atonement (to be performed) by sinners (of) four (kinds) even, has been thus declared; hear now the penances for those who have intercourse with outcasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the atonement tor the four kinds of sinners been set forth; now listen to these (following) expiations for those who associate with outcasts.—(179)
@@ -31,9 +36,4 @@ This verse is quoted in *Prāyaścittaviveka* (p. 141).
 <details><summary>गोविन्दराजः</summary>
 
 **एषेति** । हिंसा अभक्ष्यभक्षणस्तेयागम्यागमनकारिणां चतुर्णाम् अपि महापातकिनाम् इतरेषां चैषा संशुद्धिर् उक्ता । इदानीं पतितसंयोगिनां चेमा वक्ष्यमाणाः संशुद्धिः शृणुत ॥ ११.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	The atonement (to be performed) by sinners (of) four (kinds) even, has been thus declared; hear now the penances for those who have intercourse with outcasts.
 </details>

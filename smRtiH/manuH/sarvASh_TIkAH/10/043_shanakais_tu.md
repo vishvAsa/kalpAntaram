@@ -3,6 +3,11 @@ title = "043 शनकैस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+043	But in consequence of the omission of the sacred rites, and of their not consulting Brahmanas, the following tribes of Kshatriyas have gradually sunk in this world to the condition of Sudras;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But by the omission of the sacred rites, and also by their neglect of Brāhmaṇas, the following Kṣatriya castes have gradually sunk to the position of the low-born.—(43)
@@ -70,9 +75,4 @@ together; they recognise authority other than the Vedas and live in the North an
 > स्वकर्मणां च त्यागेन जायते वर्णसंकरः ॥ (म्ध् १०.२४)
 
 इति यद् उक्तं तस्य प्रपञ्चो ऽयम् । शूद्रवत् कर्मानधिकारः । क्रियालोपे चात्र हेतुः **ब्राह्मणादर्शनेन चेति** । तदभावात् प्रायश्चित्ताभावम् आह । अथ वोभयार्थं ब्राह्मणादर्शनं क्रियालोपहेतुः प्रायश्चित्ताभावहेतुश् च । अपकर्षहेतुप्रदर्शनं च परिहारार्थम् । यतस् ते प्रदर्श्यन्ते ॥ १०.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	But in consequence of the omission of the sacred rites, and of their not consulting Brahmanas, the following tribes of Kshatriyas have gradually sunk in this world to the condition of Sudras;
 </details>

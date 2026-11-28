@@ -2,6 +2,11 @@
 title = "080 ऋषयः पितरो"
 +++
 
+<details><summary>Bühler</summary>
+
+080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sages, Pitṛs, gods, elementals and guests have expectations from family-men; one who knows should fulfil (one’s duty) towards them.’—(80)
@@ -48,11 +53,6 @@ three debts; he repays that to the sages, by means of religious studentship, tha
 <details><summary>गोविन्दराजः</summary>
 
 न चानित्यतापत्तिः, यत आह **ऋषय** इति । ऋषिप्रभृतयो गृहस्थेभ्यः सकाशात् यतो ऽर्थयन्ते यतः शास्त्रज्ञेन एभ्यः कर्तव्यम् ॥ ३.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).
 </details>
 
 <details><summary>भारुचिः</summary>

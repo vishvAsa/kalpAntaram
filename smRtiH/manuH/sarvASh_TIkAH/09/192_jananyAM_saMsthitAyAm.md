@@ -3,6 +3,11 @@ title = "192 जनन्यां संस्थितायाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+192	But when the mother has died, all the uterine brothers and the uterine sisters shall equally divide the mother's estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the mother has died, all the uterine brothers and uterine sisters shall divide the mother’s property equally.—(192)
@@ -73,9 +78,4 @@ inherit.’
 <details><summary>भारुचिः</summary>
 
 समवचनान् नास्त्य् अत्र ज्येष्ठांशः । भगिन्यश् च सनाभय ऊढा अनूढाश् च गृह्यन्ते । अनूढा एवेति केचित् । बगिन्यभावे तु ॥ ९.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	But when the mother has died, all the uterine brothers and the uterine sisters shall equally divide the mother's estate.
 </details>

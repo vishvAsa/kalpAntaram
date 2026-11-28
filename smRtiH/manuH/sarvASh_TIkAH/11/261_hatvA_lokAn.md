@@ -3,6 +3,11 @@ title = "261 हत्वा लोकान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+262	A Brahmana who retains in his memory the Rig-veda is not stained by guilt, though he may have destroyed these three worlds, though he may eat the food of anybody.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even if he kills the three worlds, or if he eats here and there, he does not incur any sin, if he retains the Ṛgveda (in memory).—(261)
@@ -46,9 +51,4 @@ by any guilt.’
 <details><summary>भारुचिः</summary>
 
 **ऋग्वेद**ग्रहणम् इतरवेदप्रदर्शनार्थम् अपि स्यात् । तथा च दर्शयति ॥ ११.२५७–२५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-262	A Brahmana who retains in his memory the Rig-veda is not stained by guilt, though he may have destroyed these three worlds, though he may eat the food of anybody.
 </details>

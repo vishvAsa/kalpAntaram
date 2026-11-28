@@ -2,6 +2,11 @@
 title = "034 न सीदेत्"
 +++
 
+<details><summary>Bühler</summary>
+
+034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Accomplished Brāhmaṇa shall not, if he can, suffer from hunger; nor shall he wear torn or dirty clothes, so long as he has any property.—(34).
@@ -50,11 +55,6 @@ nor with a woman in her courses.’
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । स्नातको ब्राह्मणो विद्वत्त्वात् प्रतिग्रहसमर्थो राजादिधनसम्भवे सति क्षुधावसादं न कदाचिद् गच्छेत् । न च सम्भवे जीर्णमलिनवसनः स्यात् ॥ ४.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
 </details>
 
 <details><summary>भारुचिः</summary>

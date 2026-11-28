@@ -3,6 +3,11 @@ title = "221 एतद् दण्डविधिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+221	A righteous king shall apply this law of fines in villages and castes (gati) to those who break an agreement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This is the law of punishment which the king shall follow in the case of the breakers of compacts relating to villages and caste-federations.—(221)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.219].
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ८.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	A righteous king shall apply this law of fines in villages and castes (gati) to those who break an agreement.
 </details>

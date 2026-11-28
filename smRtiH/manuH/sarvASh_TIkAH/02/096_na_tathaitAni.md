@@ -2,6 +2,11 @@
 title = "096 न तथैतानि"
 +++
 
+<details><summary>Bühler</summary>
+
+096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These (organs), being contaminated with objects, are not capable of being subjugated by mere abstinence, as they are by ever present knowledge.—(90)
@@ -76,11 +81,6 @@ is disgusted with birth, with death and with mental and physical ailments. The i
 <details><summary>गोविन्दराजः</summary>
 
 एवं तर्हि विषयशून्यदेहावस्थानमात्र उपाय इत्य् अत आह **नेति **। **एतानी**न्दिर्याणि विषयासक्त्या प्रक्ष्टदोषजनकानि **न तथा** रूपादिविषयानुपभोगेन **सम्यक् नियन्तुं शक्यन्ते यथा** विषयगतदोषभावना**विज्ञानेन **नित्यकालं नियन्तुं पार्यते ॥ २.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
 </details>
 
 <details><summary>भारुचिः</summary>

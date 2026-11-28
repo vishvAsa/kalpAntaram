@@ -3,6 +3,11 @@ title = "073 यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	If anybody gives away a maiden possessing blemishes without declaring them, (the bridegroom) may annul that (contract) with the evil-minded giver.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man gives away a defective maiden, without declaring the defects, one may annul that act of the wicked girl-betrother.—(73)
@@ -34,9 +39,4 @@ See Comparative notes for [Verse 9.72].
 <details><summary>भारुचिः</summary>
 
 छद्मनोपपादिता त्याज्येत्यस्यायम् अनुवादः कारणतस् त्यागे दोशा(?)भावप्रदर्शनार्थम् ॥ ९.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	If anybody gives away a maiden possessing blemishes without declaring them, (the bridegroom) may annul that (contract) with the evil-minded giver.
 </details>

@@ -3,6 +3,11 @@ title = "258 उत्कोचकाश् चाऽउपधिका"
 
 +++
 
+<details><summary>Bühler</summary>
+
+258	Those who take bribes, cheats and rogues, gamblers, those who live by teaching (the performance of) auspicious ceremonies, sanctimonious hypocrites, and fortune-tellers,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who take bribes, dissemblers, cheats and gamblers, fortune-tellers and palmists.—(258)
@@ -102,9 +107,4 @@ This verse is quoted in *Vivādaratnākara* (p. 291), which adds the following e
 **
 
 See Comparative notes for [Verse 9.256].
-</details>
-
-<details><summary>Bühler</summary>
-
-258	Those who take bribes, cheats and rogues, gamblers, those who live by teaching (the performance of) auspicious ceremonies, sanctimonious hypocrites, and fortune-tellers,
 </details>

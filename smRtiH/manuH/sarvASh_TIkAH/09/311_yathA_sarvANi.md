@@ -3,6 +3,11 @@ title = "311 यथा सर्वाणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+311	As the Earth supports all created beings equally, thus (a king) who supports all his subjects, (takes upon himself) the office of the Earth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the earth sustains all beings equally, so does the king support all beings; and this is the function of Pṛthivī.—(311)
@@ -36,9 +41,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19), which adds the fol
 
 [\[See texts under
 7.1-42.\]]
-</details>
-
-<details><summary>Bühler</summary>
-
-311	As the Earth supports all created beings equally, thus (a king) who supports all his subjects, (takes upon himself) the office of the Earth.
 </details>

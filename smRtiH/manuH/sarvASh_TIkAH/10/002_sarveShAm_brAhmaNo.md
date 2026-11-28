@@ -3,6 +3,11 @@ title = "002 सर्वेषाम् ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	The Brahmana must know the means of subsistence (prescribed) by law for all, instruct the others, and himself live according to (the law)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should know the means of livelihood for all men; he shall duly expound them to the others and himself do accordingly.—(2)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 10.1].
 <details><summary>भारुचिः</summary>
 
 वृत्तये उपायान् विद्यात् । अथ वा वृत्तिं च विद्याधर्मप्राप्त्युपायांश् च । सर्वग्रहणं चाधिकाराद् वर्णद्वयापेक्षम् एव । अथ वा अस्योभयस्याप्य् अर्थवादः ॥ १०.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	The Brahmana must know the means of subsistence (prescribed) by law for all, instruct the others, and himself live according to (the law)
 </details>

@@ -2,6 +2,11 @@
 title = "076 अग्नौ प्रास्ताहुतिः"
 +++
 
+<details><summary>Bühler</summary>
+
+076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An oblation duly thrown into the fire reaches the sun; from the sun proceeds rain from, rain food, and from food, the creatures.—(76)
@@ -42,11 +47,6 @@ This verse is quoted in *Aparārka* (p. 994).
 <details><summary>गोविन्दराजः</summary>
 
 तथा च **अग्नौ प्रास्ताहुतिर्** इति । अग्नाव् आहुतिः **सम्यग्** यथाविधि प्रक्षिप्ता हुता रसाहरणरूपत्वाद् अदित्यस्य आदित्यं प्राप्नोति स आहुतिरसः कालेन परिपक्वः आदित्याद् **वृष्टि**रूपेण **जायते **। ततो ऽ**न्नम्,** तदुपभोगेन च **प्रजा जायन्ते **॥ ३.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).
 </details>
 
 <details><summary>भारुचिः</summary>

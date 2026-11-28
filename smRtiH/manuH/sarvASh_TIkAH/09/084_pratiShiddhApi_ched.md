@@ -3,6 +3,11 @@ title = "084 प्रतिषिद्धापि चेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+084	But she who, though having been forbidden, drinks spirituous liquor even at festivals, or goes to public spectacles or assemblies, shall be fined six krishnalas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the wife, though forbidden, drinks wine even at festivals or visits, shows and assemblies, she shall be fined six ‘Kṛṣṇalas’.—(84)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 9.77].
 <details><summary>भारुचिः</summary>
 
 प्रतिषेधो मद्यपानस्य न प्रेक्षासमाजगमने । अथ वा प्रसङ्गनिवृत्त्यर्थम् । एवं च सति दण्डस्याल्पत्वाद् अप्रतिषेधे ऽस्त्य् अनुज्ञालेशो ऽभ्युदयादिना निमित्तेन । तच् च मद्यम् असुरा द्विजातिस्त्रीणां विज्ञेयम् । तथा च सति पूर्वत्राप्य् अधिवेदननिमित्तेन मद्यपान एषैव व्याख्या "मद्यपासत्यवृत्ता च" इत्य् अत्र । इतरवर्णविषयं चैतत्प्रतिषेधरूपं विज्ञेयम् ॥ ९.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	But she who, though having been forbidden, drinks spirituous liquor even at festivals, or goes to public spectacles or assemblies, shall be fined six krishnalas.
 </details>

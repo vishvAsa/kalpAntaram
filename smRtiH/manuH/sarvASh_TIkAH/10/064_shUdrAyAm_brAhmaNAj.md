@@ -3,6 +3,11 @@ title = "064 शूद्रायाम् ब्राह्मणाज्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	If (a female of the caste), sprung from a Brahmana and a Sudra female, bear (children) to one of the highest caste, the inferior (tribe) attains the highest caste within the seventh generation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the child born from a Śūdra woman to a Brāhmaṇa goes on being wedded to a superior person,—the inferior attains the superior caste, within the seventh generation.—(64)
@@ -70,9 +75,4 @@ above.)]
 <details><summary>भारुचिः</summary>
 
 **शूद्रायां ब्राह्मणाज् जातो** वर्णः स्त्रीलक्षणः पारशवाख्यः, श्रेयसा चेद् ब्राह्मणेनैव पुंनाम्ना पुनः पुनः प्रजायते, एवम् अनेन प्रकारेणासाव् **अश्रेयाञ्** छौद्रो वर्णः **श्रेयसीं** ब्राह्मण**जातिं गच्छत्य् आ स्पतमाद् युगाज्** जन्मन इत्य् अर्थः । बीजप्राधान्येन । अतश् चानेन युगपरिवर्तक्रमेण ॥ १०.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	If (a female of the caste), sprung from a Brahmana and a Sudra female, bear (children) to one of the highest caste, the inferior (tribe) attains the highest caste within the seventh generation.
 </details>

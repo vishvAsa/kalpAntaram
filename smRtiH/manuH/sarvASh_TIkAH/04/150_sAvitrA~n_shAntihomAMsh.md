@@ -2,6 +2,11 @@
 title = "150 सावित्राञ् शान्तिहोमांश्"
 +++
 
+<details><summary>Bühler</summary>
+
+150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On special days, he shall always offer the oblations to Savitṛ, and also the Pacificatory Oblations; on the “Aṣtakas” and on the “Anvaṣṭakas” he shall always worship the Pitṛs.’—(150)
@@ -64,11 +69,6 @@ should offer balls of food, which is conducive to endless satisfaction.’
 <details><summary>गोविन्दराजः</summary>
 
 **सावित्रान्** इति । सवितृदेवताकान् अनिष्टनिवृत्त्यर्थांश् च होमान् पक्षसन्धिषु अमावास्यादिषु च “आज्यं हविर् अनादेयम्” इति सूत्रकारस्मरणात् आज्येन नित्यं कुर्यात् । तथा अष्टकाख्येन कर्मणा अष्टकापश्चाद्भाविनीषु च नवमीषु **अन्वष्टकाख्येन** कर्मणा प्रमीतान् पित्रादीन् तर्पयेत् ॥ ४.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

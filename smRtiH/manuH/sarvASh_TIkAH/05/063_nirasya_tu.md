@@ -2,6 +2,11 @@
 title = "063 निरस्य तु"
 +++
 
+<details><summary>Bühler</summary>
+
+063	But a man, having spent his strength, is purified merely by bathing; after begetting a child (on a remarried female), he shall retain the impurity during three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man, having emitted semen becomes pure by bathing; hence, on account of seminal filiation he should observe impurity for these days.—(62)
@@ -70,11 +75,6 @@ The *Hāralatā*, which has both lines of (62) explains the meaning as—‘The 
 <details><summary>गोविन्दराजः</summary>
 
 **निरस्य त्व् **इति । “स्नानं मैथुनिनः स्मृतम्” इति मिथुने स्नानविधानान् मैथुनाद् अन्यत्राबुद्धिपूर्वं रेतः स्रावे सत्य् उपस्पृश्यैव पुमान् शुद्ध्यति । तथा च मूत्रवद् रेतस उत्सर्गे शौचम् इत्य् आपस्तम्बो ऽब्रवीद् एतच् चेह प्रसङ्गेनाह । यत्र पुनर् जनने बीजनिमित्तमात्र एवाभिसम्बन्धो न शास्त्रतो यथा परपूर्वाभार्याप्रसवे तत्र त्र्यहम् आशौचम् अनुवर्तते । तथा च विष्णुः- “परपूर्वासु भार्यासु प्रसूतासु त्रिरात्रम्” इति ॥ ५.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	But a man, having spent his strength, is purified merely by bathing; after begetting a child (on a remarried female), he shall retain the impurity during three days.
 </details>
 
 <details><summary>भारुचिः</summary>

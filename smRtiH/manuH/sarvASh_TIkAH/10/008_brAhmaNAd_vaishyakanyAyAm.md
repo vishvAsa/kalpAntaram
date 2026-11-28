@@ -3,6 +3,11 @@ title = "008 ब्राह्मणाद् वैश्यकन्याय
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	From a Brahmana a with the daughter of a Vaisya is born (a son) called an Ambashtha, with the daughter of a sudra a Nishada, who is also called Parasava.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the Brāhmaṇa on a Vaiśya maiden is born the ‘Ambaṣṭha’ and on a Śūdra maiden the ‘Niṣāda,’ who is called ‘Pārośora.’—(8)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 नामतः न वर्णतः । यः स्मृत्यन्तरे भृज्यकण्ठनामा । द्व्यन्तरायां तु ब्राह्मणाद् एव निषादः शूद्रकन्यायाम् ॥ १०.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	From a Brahmana a with the daughter of a Vaisya is born (a son) called an Ambashtha, with the daughter of a sudra a Nishada, who is also called Parasava.
 </details>

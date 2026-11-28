@@ -2,6 +2,11 @@
 title = "164 व्यभिचारात् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+164	By violating her duty towards her husband, a wife is disgraced in this world, (after death) she enters the womb of a jackal, and is tormented by diseases (the punishment of) her sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The woman, who, through failure in her duty to her husband, becomes an object of contempt in the world, comes to be born as a jackal and is tormented by foul diseases.—(162).
@@ -41,11 +46,6 @@ See Comparative notes for [Verse 5.154].
 <details><summary>गोविन्दराजः</summary>
 
 नरान्तरसम्पर्कात् तु स्त्री इहलोके गर्ह्यतां जन्मान्तरे च सृगालयोनिं प्राप्नोति । अत्यन्तक्रूरैश् च कुष्टादिरोगैः सम्पीड्यते ॥ ५.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	By violating her duty towards her husband, a wife is disgraced in this world, (after death) she enters the womb of a jackal, and is tormented by diseases (the punishment of) her sin.
 </details>
 
 <details><summary>भारुचिः</summary>

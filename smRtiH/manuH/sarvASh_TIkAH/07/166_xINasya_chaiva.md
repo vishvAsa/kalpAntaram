@@ -3,6 +3,11 @@ title = "166 क्षीणस्य चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+166	Sitting quiet is stated to be of two kinds, (viz. that incumbent) on one who has gradually been weakened by fate or in consequence of former acts, and (that) in favour of a friend.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Halting has been declared to be of two kinds:—(1) that which is necessary for one who has become gradually weakened, either by chance or through previous acts, and (2) that which is necessitated by considerations for his ally.—(166)
@@ -43,9 +48,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326).
 <details><summary>भारुचिः</summary>
 
 साधुकारी चैव क्षयं गच्छति **दैवाद्**, अपरः **पूर्वक्ष्तेन** प्रमादेन तस्योभयथापि **क्षीणस्या**त्मसंवरणक्रियासनम्; यश् च परस्य शत्रुः स विजिगीषोर् मित्रं तस्मिन् क्षीणे तदनुरोधात् समर्थो ऽप्य् आसीत । एवं **द्विविधम् आसनम्** । "मोहात् पूर्वकृतेन वा" इत्य् अपरो हेतुपाठः ॥ ७.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	Sitting quiet is stated to be of two kinds, (viz. that incumbent) on one who has gradually been weakened by fate or in consequence of former acts, and (that) in favour of a friend.
 </details>

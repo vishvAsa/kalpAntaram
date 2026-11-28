@@ -3,6 +3,11 @@ title = "094 रसा रसैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	Condiments may be bartered for condiments, but by no means salt for (other) condiments; cooked food (may be exchanged) for (other kinds of) cooked food, and sesamum seeds for grain in equal quantities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Savoury articles should be bartered for savoury articles, but never salt for another savoury article,—cooked food, for cooked food, and sesamum for corn, in equal quantities.—(94)
@@ -76,9 +81,4 @@ for other substances of the same kind, be it for one more valuable or for one wo
 <details><summary>भारुचिः</summary>
 
 **लवणस्य तिलैर्** विनिमयप्रतिषेधाद् **रसैर्** अन्यैस् तिलानि मातव्याः । **तिला धान्येन** व्रीह्यदिना; **तत्समम्** एव प्रस्थः प्रस्थे[न] निमातव्यः । न त्व् अल्पार्घितया ॥ १०.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	Condiments may be bartered for condiments, but by no means salt for (other) condiments; cooked food (may be exchanged) for (other kinds of) cooked food, and sesamum seeds for grain in equal quantities.
 </details>

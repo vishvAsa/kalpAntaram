@@ -3,6 +3,11 @@ title = "008 अतः स्वल्पीयसि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	But a twice-born man, who, though possessing less than that amount of property, nevertheless drinks the Soma-juice, does not derive any benefit from that (act), though he may have formerly drunk the Soma-juice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a wealthy man gives to other people, while his own people are living in distress,—such counterfeit virtue would be like swallowing poison, which is sweet in the beginning.—(8)
@@ -44,9 +49,4 @@ This verse is quoted in *Aparārka* (p. 283);—and in *Hemādri* (Dāna p. 40).
 <details><summary>भारुचिः</summary>
 
 नियमशास्त्रव्यतिक्रमेण न केवलम् अस्य तत्कर्मनैष्फल्यम् प्रत्यवायश् चापरः । **अपीतसोमपूर्वस्यायं** व्यतिक्रमो निष्फलः प्रत्यवायाय च स्यात्, किं पुनर् इतरस्येति निन्दार्थवादः न **चापीतसोमपूर्वो ऽपीत्य्** अनेन स्तुत्यर्थेनातिसयवचनेन न नित्यस्य सोमपानस्याप्रवृत्तिः सक्या कल्पयितुम् । एवं च सत्य् एतस्माद् एव स्तुत्यतिशयाल् लिङ्गान् नित्यस्यानिवृत्तिर् गम्यते । तथा च नित्यार्थं नियमतो देयम् । इतरत्र त्व् अनियमः । इदानीं शक्तस्य दातुर् नियम उच्यते ॥ ११.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	But a twice-born man, who, though possessing less than that amount of property, nevertheless drinks the Soma-juice, does not derive any benefit from that (act), though he may have formerly drunk the Soma-juice.
 </details>

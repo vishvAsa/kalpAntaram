@@ -2,6 +2,11 @@
 title = "167 एतान् विगर्हिताचारान्"
 +++
 
+<details><summary>Bühler</summary>
+
+167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The learned Brāhmaṇa should avoid at both (rites) these l owest of twice-born men, who are of reprehensible conduct and who are unworthy of company.—(167)
@@ -45,11 +50,6 @@ of the line; the wise man should avoid them with great care at the performance o
 <details><summary>गोविन्दराजः</summary>
 
 **एतान्** इति । एते निन्दिताचाराः स्तेनादयः इहजन्मनि । काणादयश् च “एवं कर्माव्शेषेण जायन्ते” इति वक्ष्यमाणत्वात् प्राग्जन्मनि । अत एतान् योग्यब्राह्मणैः सह एकपङ्क्तिभोजनानर्हान् ब्राह्मणापसदान् द्विजश्रेष्ठः शास्त्रज्ञः दैवे पित्र्ये च वर्जयेत् ॥ ३.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
 </details>
 
 <details><summary>भारुचिः</summary>

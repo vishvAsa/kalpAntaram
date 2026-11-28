@@ -3,6 +3,11 @@ title = "008 बालो ऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	Even an infant king must not be despised, (from an idea) that he is a (mere) mortal; for he is a great deity in human form.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though an infant, the King shall not be despised as if he were merely human; because he is a great divinity in human form.—(8)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 <details><summary>भारुचिः</summary>
 
 शक्नोति ह्य् अयं बालो ऽप्य् अमात्यादिभिर् अकार्यकारिणो निवर्तयितुम् ॥ ७.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	Even an infant king must not be despised, (from an idea) that he is a (mere) mortal; for he is a great deity in human form.
 </details>

@@ -3,6 +3,11 @@ title = "188 एतद् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+189	Let him follow the same rule in the case of female outcasts; but clothes, food, and drink shall be given to them, and they shall live close to the (family-) house.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This same method is to be adopted also in the case of female outcasts; but clothing, food and drink shall be supplied to them and they shall live close to the house.—(188)
@@ -91,9 +96,4 @@ abandoned: One who has intercourse with her husband’s pupil, one who has inter
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ११.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-189	Let him follow the same rule in the case of female outcasts; but clothes, food, and drink shall be given to them, and they shall live close to the (family-) house.
 </details>

@@ -2,6 +2,11 @@
 title = "170 अधार्मिको नरो"
 +++
 
+<details><summary>Bühler</summary>
+
+170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who is unrighteous, he whose wealth is mis-begotten, and he who is always addicted to injuring, never obtains happiness in this world.—(170)
@@ -35,11 +40,6 @@ Such a man does not obtain happiness in this world.—(170).
 <details><summary>गोविन्दराजः</summary>
 
 **अधार्मिक** इति । यस्माद् **यो नरः **अधर्माचरणशीलो **यस्य **वा असत्यम् एव धनं तत् प्राधान्येन व्यवहाराख्यं सर्वदा हिंसानिरतः स इह लोके ऽपि न सुखं वर्धते । तस्माद् एतन् न कार्यम् ॥ ४.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
 </details>
 
 <details><summary>भारुचिः</summary>

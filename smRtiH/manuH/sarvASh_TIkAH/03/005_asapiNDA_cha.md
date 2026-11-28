@@ -2,6 +2,11 @@
 title = "005 असपिण्डा च"
 +++
 
+<details><summary>Bühler</summary>
+
+005	A damsel who is neither a Sapinda on the mother's side, nor belongs to the same family on the father's side, is recommended to twice-born men for wedlock and conjugal union.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She who is not a “sapiṇḍa” of one’s mother, not of the same “Gotra” as his Father, and who is not born of (unlawful) intercourse—has been recommended for marriage.—(5)
@@ -335,11 +340,6 @@ one may marry the girl who is in the third grade on the mother’s side and in t
 <details><summary>गोविन्दराजः</summary>
 
 **असपिण्डेति **। “सपिण्डता तु पुरुषे सप्तमे विनिवर्तते” (म्ध् ५.६०) इत्य् अपि वक्ष्यति । अतो **मातुर् असपिण्डा** मातामहप्रमातामहान्वयजाता या न भवति या च मातामहीप्रमातामह्याद्यन्वयजाता च भवति, **पितुश् च या **समानगोत्रा **न भवति,** चशब्दात् सपिण्डाच् च पितृष्व्स्रादिसन्ततिजाता या **न भवति सा द्विजातीनां मैथुनादौ दारकर्मणि **योज्या ॥ ३.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	A damsel who is neither a Sapinda on the mother's side, nor belongs to the same family on the father's side, is recommended to twice-born men for wedlock and conjugal union.
 </details>
 
 <details><summary>भारुचिः</summary>

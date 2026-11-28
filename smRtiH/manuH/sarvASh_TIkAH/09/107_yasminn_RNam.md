@@ -3,6 +3,11 @@ title = "107 यस्मिन्न् ऋणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+107	That son alone on whom he throws his debt and through whom he obtains immortality, is begotten for (the fulfilment of) the law; all the rest they consider the offspring of desire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That son alone to whom the man transfers his debt, and through whom he attains immortality, is the ‘duty-born son;’ others are known as ‘lust-born.’—(107).
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.105].
 <details><summary>भारुचिः</summary>
 
 स शिष्टः स्यात् । अविभागपक्षे चेयं ज्येष्ठस्य कनीयस्सु वृत्तिर् उच्यते ॥ ९.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	That son alone on whom he throws his debt and through whom he obtains immortality, is begotten for (the fulfilment of) the law; all the rest they consider the offspring of desire.
 </details>

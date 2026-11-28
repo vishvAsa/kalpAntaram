@@ -3,6 +3,11 @@ title = "210 सर्वेषाम् अर्धिनो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+210	The (four) chief priests among all (the sixteen), who are entitled to one half, shall receive a moiety (of the fee), the next (four) one half of that, the set entitled to a third share, one third, and those entitled to a fourth a quarter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From among all, the chief men shall receive half; the next shall receive half of that; the ‘thirders’ the third part and the ‘fourthers’ the fourth part of it.—(210)
@@ -100,9 +105,4 @@ part of what is received by the first set;—and the fourth set, consisting of t
 <details><summary>भारुचिः</summary>
 
 "ताञ् छतेन दाक्षयन्ति" इति वचनाद् अष्टचत्वारिंशद् भवन्तीति । एवं तदर्धाद् इव संख्यानिर्देश उत्तरत्र समर्थो भवति । तेनार्धिनो ऽध्वर्युब्रह्मोद्गातृहोतारो **मुख्या** ऋत्विजो भवन्ति । तदर्धेन चतुर्विंशत्या **अर्धिनो ऽपरे** उक्तेभ्यो द्वितीयस्थानं प्रतिप्रस्थातृमैत्रावरुणब्राह्मणाच्छंसिप्रस्तोतारः । एवं च कात्यायनः "षत् षत् द्वितीयेभ्यः" वक्ति । **तृतीयिनः** तृतीयं स्थानं येषां त इमे तृतियिनः, तृतीयांशाः । समुदायेन षोडश पशुभाजः । कात्यायनो ऽपि चैवम् एव वक्ति- "चतस्रश् चतस्रस् तृतीयेभ्यः" इति । प्रत्येकं चतुर्थ अंशो येषां त इमे **चतुर्थांशाः** समुदायतो द्वादशपशुभाजः **पादिनो** भवन्ति । कात्यायनो ऽपि "तिस्रस् तिस्र इतरेभ्यः" । आद्यसंख्यापेक्षया पाद एषाम् अस्तीति **पादिनः** । चतुर्थस्थाना उच्यन्ते । स्थाने स्थानिनां व्यपदेशो ऽयम् । **चतुर्थांश**शब्दस् तु भागकल्पकः समासपदेन । तथा चोक्तम्, विपर्ययेण वैतद् व्याख्येयम् । उभवनिर्देशश् चात्र पादपूरणार्थो विज्ञेयः । यद्य् अप्य् अन्यतरस्माद् उभयार्थप्रतीतिः अयं सर्वो विधिर् न्यायश्रुतिसिद्धो दृष्टान्तत्वेनेहोपादीयते । यथा संभूयैकं कर्म सहकुर्वतां दृष्टा गुरुलघुताम् अवक्ष्यानवेक्ष्य वा वचनसामर्थ्याद् विषमांशप्रकॢप्तिः । एवम् — ॥ ८.२०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-210	The (four) chief priests among all (the sixteen), who are entitled to one half, shall receive a moiety (of the fee), the next (four) one half of that, the set entitled to a third share, one third, and those entitled to a fourth a quarter.
 </details>

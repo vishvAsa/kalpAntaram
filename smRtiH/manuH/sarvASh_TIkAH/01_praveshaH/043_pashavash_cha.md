@@ -3,6 +3,11 @@ title = "043 पशवश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Cattle, Deer, Wild Beasts with two rows of teeth, Rākṣasas, Piśācas and Men are viviparous.—(43)
@@ -38,9 +43,4 @@ The term ‘*dat*’ is synonymous with ‘*danta*,’ and is totally different 
 <details><summary>गोविन्दराजः</summary>
 
 **पशव** इति । **जरायु**गर्भसम्पातः तत्रादौ सम्भवन्ति । ततस् तन्मुक्ता जायन्ते ॥ १.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.
 </details>

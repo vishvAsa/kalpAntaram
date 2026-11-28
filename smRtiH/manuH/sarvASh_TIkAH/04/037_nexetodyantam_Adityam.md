@@ -3,6 +3,11 @@ title = "037 नेक्षेतोद्यन्तम् आदित्य
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not look at the Sun when rising, nor when setting, nor when it is eclipsed, nor when it is in water, nor when it has reached the middle of the sky.—(37)
@@ -65,9 +70,4 @@ naked woman; nor the rising or setting sun and moon.’
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । उदयास्तमनराहुग्रस्तोदकप्रतिबिम्बमध्याह्नवर्तिनम् आदित्यं कस्मिंश्चिद् अपि **नेक्षेत **॥ ४.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.
 </details>

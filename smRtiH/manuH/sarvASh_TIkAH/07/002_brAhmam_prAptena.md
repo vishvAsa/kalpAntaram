@@ -3,6 +3,11 @@ title = "002 ब्राह्मम् प्राप्तेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	A Kshatriya, who has received according to the rule the sacrament prescribed by the Veda, must duly protect this whole (world).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The protection of all this shall be done according to law, by the Kṣatriya who has received the Vedic training in due form.—(2).
@@ -75,9 +80,4 @@ of the people is the highest duty of kings. The king is the protector of all cas
 
 एके तु दृष्टार्थत्वाद् उपदेशं वृत्त्यर्थं मन्यन्ते । तथा च सति पित्र्ये धने निध्यधिगमे ऽन्यथा प्राप्तौ न नियोगतः क्षत्रियो राज्यम् आतिष्ठेद् इति ।   
 तद् अयुक्तम्, "वेदाभ्यासो ब्राह्मणस्य क्षत्रियस्य तु रक्षणम्, वार्ताकर्मैव वैश्यस्य विशिष्टानि स्वकर्मसु" इत्य् उक्तत्वाद् विशिष्टत्वं चैषां दृष्टादृष्टसंबन्धेन युक्तम् । नियमाश्रयश् चादृष्टसंबन्धः । वृत्तिदाश् चानाथा दीनाश् च राज्ञा रक्ष्यन्ते, यतो न दृष्टार्थम् एव रक्षणम् ॥ ७.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	A Kshatriya, who has received according to the rule the sacrament prescribed by the Veda, must duly protect this whole (world).
 </details>

@@ -3,6 +3,11 @@ title = "090 पशूनां रक्षणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; as also trade, money-lending and cultivating of land. (90).
@@ -28,9 +33,4 @@ This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *
 <details><summary>गोविन्दराजः</summary>
 
 **वणिक्पथं** स्थपथवारिपथादिना वाणिज्यायै गमनम् । **कुसीदं **वृद्ध्यर्थं धनप्रयोगः ॥ १.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.
 </details>

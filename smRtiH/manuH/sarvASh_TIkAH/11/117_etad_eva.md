@@ -3,6 +3,11 @@ title = "117 एतद् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	Twice-born men who have committed (other) minor offences (Upapataka), except a student who has broken his vow (Avakirnin), may perform, in order to purify themselves, the same penance or also a lunar penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Twice-born men who have committed the minor offences, except the ‘immoral’ religious student, may, in order to purify themselves, perform this same penance, or the ‘Cāndrāyaṇa’ penance.—(117)
@@ -50,9 +55,4 @@ absolved either in the aforesaid manner, or by the *Cāndrāyaṇa*, or by the *
 <details><summary>भारुचिः</summary>
 
 एतद् एव गोघातप्रायश्चित्तं सर्वोपपातकेष्व् अतिदिश्यते । तद्विकल्पेन चान्द्रायणम् एव । एवं च सति गोहत्यायाश् चान्द्रायणं न स्यात्, तद्वैकल्पिकसामर्थ्यात्, यथान्येषूपपातकेषु । अत एव पृथङ्निर्देशः । अवकीर्णिवर्ज्यम् इति चानेन प्रतिषेधलिङ्गेन गोवधादौ यद् उक्ता व्रताः स्युर् इति तद् अवकीर्णिनो ग्रहणम् इति विज्ञायते ॥ ११.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	Twice-born men who have committed (other) minor offences (Upapataka), except a student who has broken his vow (Avakirnin), may perform, in order to purify themselves, the same penance or also a lunar penance.
 </details>

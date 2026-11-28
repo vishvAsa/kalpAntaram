@@ -3,6 +3,11 @@ title = "411 क्षत्रियञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+411	(Some wealthy) Brahmana shall compassionately support both a Kshatriya and a Vaisya, if they are distressed for a livelihood, employing them on work (which is suitable for) their (castes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa shall, through compassion, support a Vaiśya and a Kṣatriya, who are distressed for a livelihood, and should make them do his own work.—(411)
@@ -73,9 +78,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 न तु दासकर्मणा वासोभाण्डधावनादिना । येन दासकर्मप्रतिषेधार्थो [कारयन्] इमौ स्वानि कर्माण्य् आनृशंस्येन भरणीयाव् एव ॥ ८.४०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-411	(Some wealthy) Brahmana shall compassionately support both a Kshatriya and a Vaisya, if they are distressed for a livelihood, employing them on work (which is suitable for) their (castes).
 </details>

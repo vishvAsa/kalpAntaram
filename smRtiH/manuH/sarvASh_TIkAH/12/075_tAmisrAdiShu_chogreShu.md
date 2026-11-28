@@ -3,6 +3,11 @@ title = "075 तामिस्रादिषु चोग्रेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	(The torture of) being tossed about in dreadful hells, Tamisra and the rest, (that of) the Forest with sword-leaved trees and the like, and (that of) being bound and mangled;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (They also suffer) being tossed about in the Tāmisra and other dreadful hells, and being bound and mangled in the ‘forest with sword-leaved trees’ and other places.—(75)
@@ -41,9 +46,4 @@ virtue of their grievous sins, and thus having their had Karma exhausted, those 
 <details><summary>गोविन्दराजः</summary>
 
 **तामिस्रादिष्व्** इति । तामिस्रादिषु चतुर्थाध्यायोक्तेषु घोरेषु परिलुण्ठनं प्राप्नुवन्ति । असिपत्रवनादींश् च चतुर्थाध्यायोक्तांश् च बन्धनच्छेदेनात्मकान् नरकान् प्राœनुवन्ति इति पूर्ववाक्यादिहोत्तरत्र चानुषज्जते ॥ १२.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	(The torture of) being tossed about in dreadful hells, Tamisra and the rest, (that of) the Forest with sword-leaved trees and the like, and (that of) being bound and mangled;
 </details>

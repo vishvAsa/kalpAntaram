@@ -3,6 +3,11 @@ title = "358 स्त्रियं स्पृशेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+358	If one touches a woman in a place (which ought) not (to be touched) or allows (oneself to be touched in such a spot), all (such acts done) with mutual consent are declared (to be) adulterous (samgrahana).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one touches a woman in an improper place, or condones it when touched by her,—all this, when done with mutual consent, has been declared to be ‘adultery’—(358)
@@ -92,9 +97,4 @@ See Comparative notes for [Verse 8.357].
 <details><summary>भारुचिः</summary>
 
 सर्व एवैते संग्रहणे समावेदितव्याः यथोक्ताः परार्थाः स्त्रियश् चतुर्मात्रैः श्लोकैः, न तु संग्रहणम् एव च । यतो नैषां संग्रहणसमो दण्डः स्यात् । तदुक्तं अपराधं परिज्ञायेति । अथ तु सर्वेष्व् एतेषु संग्रहणदण्डः कल्प्यते, संपूर्णे किं करिष्यति, न विषमसमीकरणं न्याय्यम् ॥ ८.३५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-358	If one touches a woman in a place (which ought) not (to be touched) or allows (oneself to be touched in such a spot), all (such acts done) with mutual consent are declared (to be) adulterous (samgrahana).
 </details>

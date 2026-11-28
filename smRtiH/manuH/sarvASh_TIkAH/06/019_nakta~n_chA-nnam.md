@@ -3,6 +3,11 @@ title = "019 नक्तञ् चाऽन्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	Having collected food according to his ability, he may either eat at night (only), or in the day-time (only), or at every fourth meal-time, or at every eighth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having collected food to the best of his ability, he should eat it at night, or during the day; or he may do it at every fourth time, or at every eighth time.—(19).
@@ -52,9 +57,4 @@ the *Kṛcchra* method; or he may eat food on the lapse of a fortnight, or of a 
 <details><summary>भारुचिः</summary>
 
 [लेखोऽव्यक्तः।]
-</details>
-
-<details><summary>Bühler</summary>
-
-019	Having collected food according to his ability, he may either eat at night (only), or in the day-time (only), or at every fourth meal-time, or at every eighth.
 </details>

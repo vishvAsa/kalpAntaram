@@ -3,6 +3,11 @@ title = "375 वैश्यः सर्वस्व-दण्डः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+375	(For intercourse with a guarded Brahmana a Vaisya shall forfeit all his property after imprisonment for a year; a Kshatriya shall be fined one thousand (panas) and be shaved with the urine (of an ass).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya should be fined his entire property after a year’s imprisonment; the Kṣatriya is to be fined one thousand, and be shaved with urine.—(375)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.374].
 <details><summary>भारुचिः</summary>
 
 अनिच्छन्त्यां ब्राह्मण्याम् एवैतयोर् उभयदण्डः सामर्थ्याद् विज्ञेयः ॥ ८.३७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-375	(For intercourse with a guarded Brahmana a Vaisya shall forfeit all his property after imprisonment for a year; a Kshatriya shall be fined one thousand (panas) and be shaved with the urine (of an ass).
 </details>

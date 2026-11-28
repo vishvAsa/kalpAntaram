@@ -3,6 +3,11 @@ title = "217 अनपत्यस्य पुत्रस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+217	A mother shall obtain the inheritance of a son (who dies) without leaving issue, and, if the mother be dead, the paternal grandmother shall take the estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The property of a childless son shall be inherited by his mother; and if the mother also is dead, his father’s mother shall receive that property.—(217)
@@ -65,9 +70,4 @@ his property goes to his brother; in the absence of the brother, his mother and 
 <details><summary>भारुचिः</summary>
 
 जीवत्यां मातरि पितामह्यां च न सोदरा ईशन्ते ऽनपत्यस्य स्वधनस्य, नापि तत्पितासोदर्या वा भ्रातरः ॥ ९.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-217	A mother shall obtain the inheritance of a son (who dies) without leaving issue, and, if the mother be dead, the paternal grandmother shall take the estate.
 </details>

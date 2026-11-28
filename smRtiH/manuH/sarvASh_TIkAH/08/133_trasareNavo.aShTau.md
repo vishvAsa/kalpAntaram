@@ -3,6 +3,11 @@ title = "133 त्रसरेणवो ऽष्टौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+133	Know (that) eight trasarenus (are equal) in bulk (to) a liksha (the egg of a louse), three of those to one grain of black mustard (ragasarshapa), and three of the latter to a white mustard-seed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Eight Triads should be known as one ‘Louse-egg’ in measure; three of these as one ‘Black Mustard’; and three of these latter as a ‘White Mustard.’—(133)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 8.131].
 <details><summary>कुल्लूकः</summary>
 
 अष्टौ त्रसरेणवो लिक्षैका परिमाणेन ज्ञेया । तास्तिस्रो लिक्षा राजसर्षपो ज्ञेयः । ते राज सर्षपास्त्रयोगौरसर्षपो ज्ञेयः ॥१३३॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Know (that) eight trasarenus (are equal) in bulk (to) a liksha (the egg of a louse), three of those to one grain of black mustard (ragasarshapa), and three of the latter to a white mustard-seed.
 </details>

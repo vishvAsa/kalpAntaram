@@ -3,6 +3,11 @@ title = "271 संवत्सरन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one year by cow’s milk and milk-preparations; and by the meat of old goat there is satisfaction lasting for twelve years.—(271)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 3.269].
 > वार्ध्रीणसं तु तं प्राहुः याज्ञिकाः पितृकर्मणि ॥
 
 इत्य् एवं निगमे पठितस्य् **मांसेन द्वादशवार्षिकी तृप्तिर् भवति ** । पिबतः कर्णजिह्वं यस्य जलं स्पृशति सः त्रिपिब इव त्रिपिबः ॥ ३.२७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.
 </details>

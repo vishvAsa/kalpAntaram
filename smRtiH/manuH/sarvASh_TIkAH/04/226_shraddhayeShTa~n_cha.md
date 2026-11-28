@@ -2,6 +2,11 @@
 title = "226 श्रद्धयेष्टञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always diliqenty perform, with faith, sacrifices and other religious acts; done with faith, and with well-begotten wealth, they become imperishable.—(226)
@@ -150,11 +155,6 @@ Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipse
 <details><summary>गोविन्दराजः</summary>
 
 यत एवम् अतः **श्रद्दयेति** ॥ ४.२२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "016 न फालकृष्टम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+016	Let him not eat anything (grown on) ploughed (land), though it may have been thrown away by somebody, nor roots and fruit grown in a village, though (he may be) tormented (by hunger).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not eat anything produced by ploughing, even though it mat have been thrown away by some one; nor such flowers and fruits as are grown in villages, even though he in be in distress.—(16)
@@ -46,9 +51,4 @@ sugar-cane and *Priyaṅgu*,—these are the village-grown substances.’
 <details><summary>भारुचिः</summary>
 
 अयं प्रतिषेधो **फालकृष्टानां** तथाफालकृष्टानाम् अपि ग्रामजातानाम् आरण्यानाम् ॥ ६.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Let him not eat anything (grown on) ploughed (land), though it may have been thrown away by somebody, nor roots and fruit grown in a village, though (he may be) tormented (by hunger).
 </details>

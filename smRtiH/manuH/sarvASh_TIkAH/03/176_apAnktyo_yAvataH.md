@@ -3,6 +3,11 @@ title = "176 अपाङ्क्त्यो यावतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one who is unworthy of company happen to look upon a number of those that are worthy of company, while those are eating, then the foolish giver (of food) does not obtain the reward of feeding so many men.—(176).
@@ -43,9 +48,4 @@ eunuch, a hundred; the man suffering from leucoderma, as much as he sees _(;)—
 <details><summary>गोविन्दराजः</summary>
 
 **अपाङ्क्त्या **इति । पङ्क्तिभुञ्जानानर्हान् तान् अपि । **यावतः** यावत्सङ्ख्याकान् अनर्हा भोजनानर्हा अनुपश्यन्ति तावत्सङ्ख्याकानां सम्बन्धि तत्र श्राद्धादौ **दाता** अज्ञः **नात्र फलम् आप्नुयात्** इति अपाङ्क्त्यदर्शनफलम् उक्तम् ॥ ३.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.
 </details>

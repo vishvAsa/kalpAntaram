@@ -3,6 +3,11 @@ title = "061 मणि-मुक्ता-प्रवालानि हृत�
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	A man who out of greed has stolen gems, pearls or coral, or any of the many other kinds of precious things, is born among the goldsmiths.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who, through greed, steals gems, pearls and corals, or the various kinds of precious articles, is born among ‘Hemakartṛs.’—(61)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>गोविन्दराजः</summary>
 
 **मणिमुक्ताप्रवालानीति ।** मणीन् पद्मरागादीन् मुक्ताविद्रुमानि च विविधानि रत्नानि वैदूर्यहीरकादीनि लोभेनात्मीयभ्रमादिना सुवर्णकारयोनौ जायते । इत्य् एतच् च हेमकाराख्यं पक्षिणम् आहुः ॥ १२.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	A man who out of greed has stolen gems, pearls or coral, or any of the many other kinds of precious things, is born among the goldsmiths.
 </details>

@@ -3,6 +3,11 @@ title = "050 चैत्यद्रुम-श्मशानेषु शै�
 
 +++
 
+<details><summary>Bühler</summary>
+
+050	Near well-known trees and burial-grounds, on mountains and in groves, let these (tribes) dwell, known (by certain marks), and subsisting by their peculiar occupations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Near worshipped trees and cremation-grounds, on hills and in groves, these shall dwell, duly marked, subsisting by their respective occupations.—(50)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.46].
 <details><summary>गोविन्दराजः</summary>
 
 **चैत्यद्रुमश्मशानेषु** इति । ग्रामादिसमीपे ख्यातवृक्षश् चैत्यस् तन्मूलश्मशान-पर्वतवनसमीपेषु एते प्रकाशाः सन्तः स्वकर्मभिर् जीवन्तो वसेयुः ॥ १०.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	Near well-known trees and burial-grounds, on mountains and in groves, let these (tribes) dwell, known (by certain marks), and subsisting by their peculiar occupations.
 </details>

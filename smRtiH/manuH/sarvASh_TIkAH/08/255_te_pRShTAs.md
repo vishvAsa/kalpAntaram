@@ -3,6 +3,11 @@ title = "255 ते पृष्टास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+255	As they, being questioned, unanimously decide, even so he shall record the boundary (in writing), together with their names.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The opinion that, on being questioned, they unanimously declare in regard to the boundary,—according to that he shall lay down the boundary, recording also the names of them all.—(255)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 निबन्धनं लेख्यम् अपि स्मरणार्थं तल् लिखेत् ॥ ८.२५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-255	As they, being questioned, unanimously decide, even so he shall record the boundary (in writing), together with their names.
 </details>

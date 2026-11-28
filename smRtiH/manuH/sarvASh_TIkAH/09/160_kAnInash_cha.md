@@ -3,6 +3,11 @@ title = "160 कानीनश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+160	The son of an unmarried damsel, the son received with the wife, the son bought, the son begotten on a re-married woman, the son self-given, and the son of a Sudra female, (are) the six (who are) not heirs, (but) kinsmen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) The ‘Aurasa,’ ‘Body-born,’ (2) the ‘Kṣetraja,’ ‘Soil-born,’ (3) the ‘Datta,’ ‘given’ (adopted), (4) the ‘Kṛtrima,’ ‘appointed,’ (5) the ‘Gūḍhotpanna,’ ‘Secretly born,’ and (6) the ‘Apaviddha,’ ‘Cast off,’—these six are both heirs and kinsmen.—(159)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 9.158].
 <details><summary>भारुचिः</summary>
 
 कार्यार्थो ऽयं वर्गप्रविभागः पुत्राणाम्, तच् च वक्ष्यति । सहोपदेशाद् औरसेन साम्यं मा भूत् क्षेत्रजादीनाम् इति । अत इदम् उच्यते ॥ ९.१५९–६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	The son of an unmarried damsel, the son received with the wife, the son bought, the son begotten on a re-married woman, the son self-given, and the son of a Sudra female, (are) the six (who are) not heirs, (but) kinsmen.
 </details>

@@ -2,6 +2,11 @@
 title = "160 सर्वम् परवशम्"
 +++
 
+<details><summary>Bühler</summary>
+
+160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that is dependent on others is painful; all that is dependent on oneself is pleasing; he shall know this to be, in short, the definition of pleasure and pain.—(160)
@@ -40,11 +45,6 @@ This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **सर्वम्** इति । यत् परप्रार्थनादिसंसाध्यं तत् सर्वं दुःखहेतु । यच् चात्मैकसाधनं तत् सर्वं सुखनिमित्तम् इत्य् एतत् सङ्क्षेपतः **सुखदुःखलक्षणं **जानीयात् ॥ ४.१६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
 </details>
 
 <details><summary>भारुचिः</summary>

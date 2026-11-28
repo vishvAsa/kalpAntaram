@@ -3,6 +3,11 @@ title = "355 यस् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+355	But a man, not before accused, who (thus) speaks with (a woman) for some (reasonable) cause, shall not incur any guilt, since in him there is no transgression.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, however, he is one who has not been previously accused, and converses with her for some good reason, he does not incur any guilt; as in his case there has been no transgression.—(355)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 8.354].
 <details><summary>भारुचिः</summary>
 
 संव्यवहारार्थं प्रकाशसंभाषणम् अनाशङ्क्यमानस्याभ्यनुज्ञाते (?) ॥ ८.३५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-355	But a man, not before accused, who (thus) speaks with (a woman) for some (reasonable) cause, shall not incur any guilt, since in him there is no transgression.
 </details>

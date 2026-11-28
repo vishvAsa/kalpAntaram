@@ -3,6 +3,11 @@ title = "182 आचार्यो ब्रह्मलोकेशः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher is the lord of the world of Brahmā; the Father is sovereign of the world of Prajāpati; the Guest is the master of the world of Indra; and the Priests are the lords of the world of gods.—(182)
@@ -44,9 +49,4 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्य** इति । यत आचार्यादयो दृष्ट्या शक्त्या ब्रह्मप्रजापतीन्द्रदेवलोकानां प्रभवः अतः परिहृततद्विवादस्य गृहस्थस्यैतान् लोकान् वदन्ति । तद्विवादपरित्यागेन ब्रह्मलोकादि प्राप्यत इत्य् एतद् अनया भङ्ग्या उक्तम् एव (एवं) उत्तरत्रापि विज्ञेयम् ॥ ४.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.
 </details>

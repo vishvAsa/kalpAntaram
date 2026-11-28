@@ -3,6 +3,11 @@ title = "252 एतैर् लिङ्गैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+252	By these signs, by long continued possession, and by constantly flowing streams of water the king shall ascertain the boundary (of the land) of two disputing parties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By these signs shall the king determine the boundary between two contending parties; as also by long-continued possession and by flowing streams of water.—(252)
@@ -96,9 +101,4 @@ consideration in the matter of deciding boundary-disputes; but only while there 
 <details><summary>भारुचिः</summary>
 
 यत्र निबद्धानि लिङ्गा[नि नष्टानि] न चान्यतरस्य शून्यता स्मर्यते, तत्र पूर्वभुक्तिः प्रमाणम् । अन्यतरशून्यत्वे तु ऽन भोगेन प्रणश्यति" इति पूर्वभुक्तिर् नाश्रियते । विद्यते हि भोगस्य निमित्त[त्वम् यस्मात् अशून्ये ऽव]च्छेदः क्रियते । किम् अत्र लिङ्गकरणेन स्रोत एव हि नित्यम् अभिप्रवृत्तं सीमास्थापकं भविष्यति । न हि पूर्वभुक्तौ सत्याम् उदकागमो निर्हेतुको विकल्पेन वा बाध[को युक्तः कल्प]यितुम् । तस्माच् छून्यविषय एव सुखप्रतिपत्त्यर्थ आयत्युपेतयोर् उदकागमः कल्प्यते । अथ वा महास्रोतो [अशून्य]विषय एव द्रष्टव्यः । स्रोतांसि हि महान्ति कदाचित् [अपथेन] प्रवर्तन्ते, तत्र पूर्वभुक्तिम् अतीत्यापि स्रोत एव निर्णयाय स्याद् इति ॥ ८.२५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-252	By these signs, by long continued possession, and by constantly flowing streams of water the king shall ascertain the boundary (of the land) of two disputing parties.
 </details>

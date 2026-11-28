@@ -3,6 +3,11 @@ title = "016 निषेकादि-श्मशानान्तो मन�
 
 +++
 
+<details><summary>Bühler</summary>
+
+016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That person alone, and none other, should be regarded as entitled to the scripture, for whom the sacraments beginning with conception and ending with the crematorium, are prescribed as to be done with mantras.—(16)
@@ -115,9 +120,4 @@ svādyāyādhyayanavidhināca*.’ Here both the *Bhāṭṭa* and the *Prābhā
 <details><summary>गोविन्दराजः</summary>
 
 **निषेकादीति **। गर्भाधानाद्यन्त्येष्टिपर्यन्तो **यस्य** **मन्त्रैर् **युक्तो ऽनुष्ठानकल्पः उक्तः स च द्विजातेर् उक्तः । अतस् **तस्य अस्मिन् **स्मृति**शास्त्रे **अध्ययनश्रवण्**आधिकारो **बोद्धव्यः न तु शूद्रादेः अर्थानुष्ठानं पुनः प्रतिलोमपर्यन्तान् प्रत्य् अपि चोदितत्वान् नानेन निषेध्यते । प्रवचनं त्व् अत्र ब्राह्मणस्येत्य् उक्तम् । विदिषेत्य् अत्र धर्मप्रमाणानि परिभाषाश् चोक्ताः ॥ २.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.
 </details>

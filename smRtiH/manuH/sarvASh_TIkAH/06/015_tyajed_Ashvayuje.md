@@ -3,6 +3,11 @@ title = "015 त्यजेद् आश्वयुजे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	Let him throw away in the month of Asvina the food of ascetics, which he formerly collected, likewise his worn-out clothes and his vegetables, roots, and fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the month of Āśvina he shall throw away the formerly-gathered ‘hermit’s food’, as also the worn-out clothes and the herbs, roots and fruits.—(15).
@@ -66,9 +71,4 @@ day, or for a month, or for six months, or for a year; and give it up in the mon
 <details><summary>भारुचिः</summary>
 
 "षण्मासनिचयः" (म्ध् ६.१८) इति वैकल्पिकानि वक्ष्यति ॥ ६.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Let him throw away in the month of Asvina the food of ascetics, which he formerly collected, likewise his worn-out clothes and his vegetables, roots, and fruit.
 </details>

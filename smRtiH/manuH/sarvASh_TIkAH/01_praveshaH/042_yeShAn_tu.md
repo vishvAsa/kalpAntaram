@@ -3,6 +3,11 @@ title = "042 येषान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That kind of action which belongs to the several beings has been described here. I am now going to explain the manner of their birth.—(42) 
@@ -52,9 +57,4 @@ called because of the act of *destroying in secret* (‘*rahasi kṣaṇana*’)
 <details><summary>गोविन्दराजः</summary>
 
 **येषाम्** इति । **येषां **भूतानां यथारूपं **कर्म तत् तहैवेह** शास्त्रे **कीर्तितम् **एव । युष्माकं यतो नामनिर्देशाद् एव, देवताद्योतनात् द्युतिस्थानाद् वा देवताः, यक्षणाद् यक्षाः इत्य् एवमादिकर्मप्रतिपत्तिः । इदानीं येन कर्मसम्बन्धेन जायन्ते तं वक्ष्यामीति _केचित्_ । अथ वा **येषां यादृशं कर्म इह **संसारे पूर्वैर् अपि कथितं यथा ओषध्यः फलपाकान्ता इत्य् एवमादि **तत् तथा अभिधास्यामि **यथा **क्रमयोगं चेति** ॥ १.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.
 </details>

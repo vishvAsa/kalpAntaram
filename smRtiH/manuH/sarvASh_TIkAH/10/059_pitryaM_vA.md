@@ -3,6 +3,11 @@ title = "059 पित्र्यं वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	A base-born man either resembles in character his father, or his mother, or both; he can never conceal his real nature.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The base-born man bears the character or his father, or of his mother, or of both; he can never conceal his origin.—(59)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 10.57].
 > **न कथंचन दुर्योनिः प्रकृतिं स्वां नियच्छति  ॥ १०.५९ ॥**
 
 एवं चागमतो ऽविज्ञातस्य प्रतिपत्तये ऽनुमानं युक्तम् । एवं च दर्शयति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-059	A base-born man either resembles in character his father, or his mother, or both; he can never conceal his real nature.
 </details>

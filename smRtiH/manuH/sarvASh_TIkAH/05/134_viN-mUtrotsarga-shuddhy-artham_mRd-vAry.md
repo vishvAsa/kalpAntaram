@@ -2,6 +2,11 @@
 title = "134 विण्-मूत्रोत्सर्ग-शुद्ध्य्-अर्थम् मृद्-वार्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+134	In order to cleanse (the organs) by which urine and faeces are ejected, earth and water must be used, as they may be required, likewise in removing the (remaining ones among) twelve impurities of the body.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the cleansing of the ejectors or urine and faeces, earth and water should be used, as much as may be necessary; as also in the twelve cleansings of the bodily excretions.—(132).
@@ -86,11 +91,6 @@ water fetched for the purpose—till the stain and the smell disappear.’
 > उपपत्तिम् अवस्थां च ज्ञात्वा शौचं समाचरेत् ॥ इति ।
 
 अतो देवपित्राद्यदृष्टार्थकर्मप्रवृत्त उत्तरेष्व् अप्य् आददीत, अन्यत्र तु नेति । आत्मा श्रोत्रियत्वाचाराद्यतिशयोपेतो ऽन्यथा वा द्रव्यम् अल्पमया वा बह्व्या चाशौचक्रियया प्रायश्चित्तार्हं द्रव्यप्रयोजनं दृष्टादृष्टाद्युपयोगित्वेनोपपत्तिः संशोधकद्रव्यसम्पत्तिर् अवस्थाशरीरात् ॥ ५.१३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	In order to cleanse (the organs) by which urine and faeces are ejected, earth and water must be used, as they may be required, likewise in removing the (remaining ones among) twelve impurities of the body.
 </details>
 
 <details><summary>भारुचिः</summary>

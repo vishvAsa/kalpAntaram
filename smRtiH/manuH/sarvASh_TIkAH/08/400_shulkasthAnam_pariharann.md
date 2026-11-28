@@ -3,6 +3,11 @@ title = "400 शुल्कस्थानम् परिहरन्न्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+400	He who avoids a custom-house (or a toll), he who buys or sells at an improper time, or he who makes a false statement in enumerating (his goods), shall be fined eight times (the amount of duty) which he tried to evade.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one who buts and sells avoids a custom-house, and at the improper time, or makes a wrong statement in counting,—he shall be made to pay a fine eight times the amount evaded.—(400)
@@ -80,9 +85,4 @@ weights and measures incurs the penalty of having his limbs cut off, or some cor
 <details><summary>भारुचिः</summary>
 
 कः शक्ष्यति काले दिवा शुल्कस्थानं परिहर्तुम् इति स्वभावसिद्धं कालम् अनुवदति । न त्व् एतेन ततो ऽन्यकालो ऽभ्यनुज्ञायते, दिवाकाले परिहरतो न दोष इति । शुल्कम् अष्टगुणं दाप्यम् । तथा यावती संख्या तावतीम् अप्य् अष्टगुणां दापयेत् मिथावचनेन । आगमोपयोगौ द्रव्यस्यानियताव् इतीदम् उच्यते ॥ ८.३९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-400	He who avoids a custom-house (or a toll), he who buys or sells at an improper time, or he who makes a false statement in enumerating (his goods), shall be fined eight times (the amount of duty) which he tried to evade.
 </details>

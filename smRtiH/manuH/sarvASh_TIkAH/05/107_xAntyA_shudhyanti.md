@@ -2,6 +2,11 @@
 title = "107 क्षान्त्या शुध्यन्ति"
 +++
 
+<details><summary>Bühler</summary>
+
+107	The learned are purified by a forgiving disposition, those who have committed forbidden actions by liberality, secret sinners by muttering (sacred texts), and those who best know the Veda by austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learned men become pure by tolerance; by liberality those who have done what should not be done; secret sinners by the repeating of sacred texts; and by austerity those who are well-versed in the Veda.—(106).
@@ -47,11 +52,6 @@ in *Śuddhikaumudī* (p. 360).
 <details><summary>गोविन्दराजः</summary>
 
 **क्षाण्त्येति** । ये शास्त्रज्ञास् ते ऽपराधक्षमया शुध्यन्ति । यथा वक्ष्यति (११.२४५) “महायज्ञ(क्रिया) क्षमा । नाशयन्त्य् आसु पापानि” इति । **अकार्यकारिणो दानेन** । यथा वक्ष्यति “सर्वस्वं वा वेदविदे” इति । अप्रख्यातपापा **जप्येन** । यथा वक्ष्यति परं तरत्समन्दीयम् इति । वेदतत्त्वार्थज्ञाश् चान्द्रायणादिना प्रायश्चित्तप्रकारेण वक्ष्यमाणेन ॥ ५.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	The learned are purified by a forgiving disposition, those who have committed forbidden actions by liberality, secret sinners by muttering (sacred texts), and those who best know the Veda by austerities.
 </details>
 
 <details><summary>भारुचिः</summary>

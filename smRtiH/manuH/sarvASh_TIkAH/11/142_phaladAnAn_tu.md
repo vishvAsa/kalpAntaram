@@ -3,6 +3,11 @@ title = "142 फलदानान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+143	For cutting fruit-trees, shrubs, creepers, lianas, or flowering plants, one hundred Rikas must be muttered.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one cuts fruit-bearing trees, shrubs, creepers, branches of trees or flowering plants, he should recite one hundred Ṛk verses.—(142)
@@ -86,9 +91,4 @@ should recite a hundred *Ṛk* verses.’
 <details><summary>भारुचिः</summary>
 
 एतच् चायज्ञीये छेदन एषां प्रायश्चित्तम् । तथा च वक्ष्यति "वृथालम्भे ऽनुगच्छेद् गाम्" इत्य् एवमादिः ॥ ११.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	For cutting fruit-trees, shrubs, creepers, lianas, or flowering plants, one hundred Rikas must be muttered.
 </details>

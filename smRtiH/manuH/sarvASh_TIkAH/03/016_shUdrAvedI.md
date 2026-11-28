@@ -2,6 +2,11 @@
 title = "016 शूद्रावेदी "
 +++
 
+<details><summary>Bühler</summary>
+
+016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who marries a Śūdra girl becomes an outcastk,—according to atri and to the son of Utathya; according to Śaunaka, by the birth of a son; and according to Bhṛgu, by having children from her (alone).—(16).
@@ -59,11 +64,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 मतन्तराण्य् आहुः **शूद्रावेदीति **। अत्रेर् उतथ्यपुत्रस्य च गौतमस्यैतन् मतं यत् शूद्रोद्वोढा पतितो भवतीति । निन्दया प्रतिषेधानुमानम् । न ह्य् अकस्मात् निन्दा प्रवर्तत इति । तन्मतेनायं शूद्राया अत्यन्तप्रतिषेधः । शौनकस्य पुनर् मतं यत् शूद्रासुतोत्पत्त्या पततीति । अतश् च तन्मते ऽनर्तौ नाम् उपेयात् । भृगोः पुनर् मतं यत् केवलशूद्रापत्यतया पततीति । एवं च तत्पक्षे इतरासु जातापत्यः शूद्राम् ऋतौ व्रजेत् ॥ ३.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).
 </details>
 
 <details><summary>भारुचिः</summary>

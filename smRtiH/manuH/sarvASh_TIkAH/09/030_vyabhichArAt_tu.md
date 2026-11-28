@@ -3,6 +3,11 @@ title = "030 व्यभिचारात् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	But for disloyalty to her husband a wife is censured among men, and (in her next life) she is born in the womb of a jackal and tormented by diseases, the punishment of her sin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [These are the same as verses 164 and 165 of Discourse V]
@@ -58,9 +63,4 @@ reside after death in the same regions with their husbands; those that are unfai
 <details><summary>भारुचिः</summary>
 
 यस्मात् तस्माद् आभिः भर्तृपारतन्त्र्यं न मोक्तव्यम् ॥ ९.२९–३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	But for disloyalty to her husband a wife is censured among men, and (in her next life) she is born in the womb of a jackal and tormented by diseases, the punishment of her sin.
 </details>

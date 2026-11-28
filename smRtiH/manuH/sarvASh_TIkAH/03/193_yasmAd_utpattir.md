@@ -3,6 +3,11 @@ title = "193 यस्माद् उत्पत्तिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Now fully learn from whom all these have their origin and who are to be worshipped, by whom and by what roles.—(193)
@@ -30,9 +35,4 @@ this ‘*learn fully*,’ as described now.
 <details><summary>गोविन्दराजः</summary>
 
 **यस्माद्** इति । एषां पितॄणां यस्य सकाशाद् **उपत्तिः ये च **पितरो **यैः** ब्राह्मणादिभिः यागादिभिर् **नियमैः** शास्त्रोक्तकर्मभिः यथा स्युः तत् शृणुत ॥ ३.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.
 </details>

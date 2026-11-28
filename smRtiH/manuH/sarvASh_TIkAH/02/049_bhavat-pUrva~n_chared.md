@@ -2,6 +2,11 @@
 title = "049 भवत्-पूर्वञ् चरेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, having undergone Initiation, should beg for food with words of which ‘bhavat’ (‘Lady’) forms the beginning; the Kṣatriya with words of which ‘bhavat’ forms the middle; and the Vaiśya with words of which ‘bhavat’ forms the end.—(49)
@@ -89,11 +94,6 @@ should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām 
 <details><summary>गोविन्दराजः</summary>
 
 कथम् इत्य् आह – **भवत्पूर्वम्** इति । “भवति देहि” इत्य् एवं **भवच्**छब्द**पूर्वं** भिक्षाप्रार्थनावाक्यं ब्राह्मण उच्चारयेत् । एवं “भिक्षां भवति देहि” इति **भवन्मध्यं** क्षत्रियः, “भिक्षां देहि भवति” इति **भवदुत्तरं** वैश्यः ॥ २.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).
 </details>
 
 <details><summary>भारुचिः</summary>

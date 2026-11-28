@@ -3,6 +3,11 @@ title = "123 पितॄणाम् मासिकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	The wise call the monthly funeral offering to the manes Anvaharya (to be offered after the cakes), and that must be carefully performed with the approved (sorts of) flesh (mentioned below).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The monthly śrāddha to the Pitṛs the wise call “anvāhārya;” and it should be carefully performed with such meat as has been commended.—(123)
@@ -74,9 +79,4 @@ whose father is dead must perform Śrāddha on the moonless day every month.’
 <details><summary>गोविन्दराजः</summary>
 
 अधुना नामवचनेन पिण्डपितृयज्ञानन्तरम् अस्य समर्थयते **पिण्डानाम्** इति । यत् एव तन् मासिकं श्राद्धं पिण्डानाम् अनु पश्चाद् आह्रियते ततः पिण्डान्वाहार्यकम् एतद् विद्वांसो मन्यन्ते । एवं च युक्तं यत् पिण्डपितृयज्ञानन्तरं क्रियत् इति । तन् मांसेन विशेषेण विहितेन खड्गमांसादिना **प्रयत्नतः** कर्यम्, तदभावे पुनर् अन्यैर् हविष्यैः ॥ ३.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	The wise call the monthly funeral offering to the manes Anvaharya (to be offered after the cakes), and that must be carefully performed with the approved (sorts of) flesh (mentioned below).
 </details>

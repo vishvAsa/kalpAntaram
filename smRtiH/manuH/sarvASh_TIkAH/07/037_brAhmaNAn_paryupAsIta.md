@@ -3,6 +3,11 @@ title = "037 ब्राह्मणान् पर्युपासीत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	Let the king, after rising early in the morning, worship Brahmanas who are well versed in the threefold sacred science and learned (in polity), and follow their advice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After rising in the morning, the King shall wait upon the Brāhmaṇas, who are accomplished students of the Threefold Science and learned; and shall follow their advice.—(37)
@@ -65,9 +70,4 @@ as checks upon himself; as these would save him from improper positions and woul
 <details><summary>भारुचिः</summary>
 
 त्रयो ऽवयवा अस्येति त्रयी । तस्यां ग्रन्थार्थयोर् वृद्धास् ते **त्रैविद्यवृद्धाः**, तान् । अथ वा त्रैविद्याध्यायिनस् त्रैविद्यवृद्धाश् च वयस्थप्रज्ञया च त्रैविद्यवृद्धा, ये आन्वीक्षिक्यां दण्डनीत्यां च स्वभिविनीतास् ते विद्वांसः तान् **विदुषः प्रातर् उत्थायोपासीता**नन्यचित्तः । यच् च ते ब्रूयुस् तच् चाविशङ्कितं कुर्यान् न हि ते किंचिद् अहितं राज्ञो वक्ष्यन्ति परमधार्मिकत्वात् ॥ ७.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	Let the king, after rising early in the morning, worship Brahmanas who are well versed in the threefold sacred science and learned (in polity), and follow their advice.
 </details>

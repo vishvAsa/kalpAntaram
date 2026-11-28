@@ -3,6 +3,11 @@ title = "072 विधिवत् प्रतिगृह्याऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+072	Though (a man) may have accepted a damsel in due form, he may abandon (her if she be) blemished, diseased, or deflowered, and (if she have been) given with fraud.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even after having accepted the maiden in due form, one mat repudiate her, if she be blemished, or diseased, or corrupted, or betrothed by deception.—(72)
@@ -114,9 +119,4 @@ defects, or asks for her hand, he shall not obtain her, even though she may have
 <details><summary>भारुचिः</summary>
 
 प्रतिगृ]हीतापि सत्य् एव निमित्ते त्याजा (?) नान्यत्र "निष्क्रयविसर्गाभ्याम्" इति वचनात् । अतो ऽस्याः त्यागनिमित्तैर् विना यथाकामं न त्यागो ऽस्ति, यथोच्छिष्टद्रव्याणाम् ॥ ९.७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-072	Though (a man) may have accepted a damsel in due form, he may abandon (her if she be) blemished, diseased, or deflowered, and (if she have been) given with fraud.
 </details>

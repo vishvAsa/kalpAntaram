@@ -3,6 +3,11 @@ title = "207 शोणितं यावतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+208	As many particles of dust as the blood of a Brahmana causes to coagulate, for so many thousand years shall the shedder of that (blood) remain in hell.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As many particles of dust on the ground as Brāhmaṇa’s blood coagulates, for so many thousand years will the shedder (of that blood lie in hell.—(207)
@@ -41,9 +46,4 @@ This also is purely declamatory.—(207)
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तम् इदानीं तस्य कर्मणो विवक्षन्न् इदम् आह,
-</details>
-
-<details><summary>Bühler</summary>
-
-208	As many particles of dust as the blood of a Brahmana causes to coagulate, for so many thousand years shall the shedder of that (blood) remain in hell.
 </details>

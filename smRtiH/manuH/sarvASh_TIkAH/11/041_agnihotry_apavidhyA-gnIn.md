@@ -3,6 +3,11 @@ title = "041 अग्निहोत्र्य् अपविध्याऽ
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	A Brahmana who, being an Agnihotrin, voluntarily neglects the sacred fires, shall perform a lunar penance during one month; for that (offence) is equal to the slaughter of a son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa who has set up the fires neglects them wilfully, he shall perform the ‘Cāndrāyaṇa’ penance for a month; as his offence is equal to the offence of killing a hero.—(41)
@@ -69,9 +74,4 @@ Veda improperly, shall beg alms for one year from Brāhmaṇa households.’
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तम् इदं कामकारेणाग्निहोत्रपरित्यागे ब्राह्मणस्य विधीयते चान्द्रायणम् । अकामतस् तु सामान्यप्रायश्चित्तम् इदम् । इदं चाप्रकरणे ऽपि प्रायश्चित्तविधानं विग्णानाम् अपि नित्यानां कर्मणाम् अनुष्ठानस्तुत्यर्थम् ॥ ११ ४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	A Brahmana who, being an Agnihotrin, voluntarily neglects the sacred fires, shall perform a lunar penance during one month; for that (offence) is equal to the slaughter of a son.
 </details>

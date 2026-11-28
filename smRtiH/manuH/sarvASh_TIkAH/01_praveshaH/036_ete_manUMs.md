@@ -2,6 +2,11 @@
 title = "036 एते मनूंस्"
 +++
 
+<details><summary>Bühler</summary>
+
+036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These mighty (Sages) called into being the seven Manus, gods and gods’ habitations, as also Great Sages,—all possessed of illimitable power.—(36)
@@ -44,11 +49,6 @@ described in Verse 22).”
 <details><summary>गोविन्दराजः</summary>
 
 **एते** इति । **एते** दश बहुतेजस्काः **सप्तान्यान् मनून् **सृष्टवन्तः । तथा **देवान् देवनिकायान् महर्षींश् च **अपरिमिततेजस्कान् । तेषां सर्वेषां मनूनां मन्वन्तरे एकैकस्य सर्गाद्यधिकारः ॥ १.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
 </details>
 
 <details><summary>भारुचिः</summary>

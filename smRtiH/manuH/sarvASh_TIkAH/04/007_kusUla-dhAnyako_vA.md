@@ -2,6 +2,11 @@
 title = "007 कुसूल-धान्यको वा"
 +++
 
+<details><summary>Bühler</summary>
+
+007	He may either possess enough to fill a granary, or a store filling a grain-jar; or he may collect what suffices for three days, or make no provision for the morrow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be either one possessing a granary full of grains, or one possessing a jar full of grains; he may be one possessing what is wanted for three days, or one who does not possess enough for the morrow.—(7)
@@ -105,11 +110,6 @@ have been described by the wise—the first is the possessing of a granary-full 
 <details><summary>गोविन्दराजः</summary>
 
 स च ब्राह्मणः शौचसङ्कोचतारतम्यापेक्षया **कुसूलधान्यक** इति । कोष्ठकप्रमाणधान्यादिसञ्चयो वा स्यात् द्वादशाहमात्रपर्याप्तधनः । उष्ट्रिकाप्रमाणधान्यादिसङ्ग्रहो वा षडहमात्रपर्याप्तधनः । त्र्यहमात्रपर्याप्तं ईहायां चेष्टायां भवं धान्यादि यस्य तथा वा स्यात् । श्वो भवं धान्यादि यस्य नाद्याह्निकश्वस्तनो वा स्यात् । एवं यात्रामात्रप्रसिद्ध्यर्थं नित्यस्य सञ्चयसङ्कोचधर्मतारतम्यापेक्षयायम् अपवादः ॥ ४.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	He may either possess enough to fill a granary, or a store filling a grain-jar; or he may collect what suffices for three days, or make no provision for the morrow.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "009 यदा स्वयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+009	But if the king does not personally investigate the suits, then let him appoint a learned Brahmana to try them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he himself may not carry on the investigation of suits, he shall appoint a learned Brāhmaṇa to do the work of investigation.—(9)
@@ -81,9 +86,4 @@ seated on the seat of judgment, shall investigate the suits quietly.’
 <details><summary>भारुचिः</summary>
 
 यदा कुतश्चिन् निमित्तान्तरतः स्वयं नृपतिः कार्यं न पश्येत्, तदा नियुञ्ज्याद् **ब्राह्मणं कार्यदर्शने**, नान्यवर्णं धर्मज्ञं व्यवहारज्ञम् अपि सन्तम्, ब्राह्मणम् अपि च विद्वांसं ब्राह्मणज्ञेयेष्व् एव शास्त्रेषु । तद्वर्तिधर्मानतिलङ्घनार्थोच्यते- व्यवहारदर्शनार्था तु विद्वत्तार्थगृहीतत्वाद् अशासनीया (?) ॥ ८.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	But if the king does not personally investigate the suits, then let him appoint a learned Brahmana to try them.
 </details>

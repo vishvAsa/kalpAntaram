@@ -3,6 +3,11 @@ title = "240 प्रायश्चित्तन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+240	But (men of) all castes who perform the prescribed penances, must not be branded on the forehead by the king, but shall be made to pay the highest amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But men of the senior castes, who perform the expiatory penances, as prescribed, shall not be branded on the forehead by the king; they shall be made to pay the highest amercement.—(240)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 पूर्वे वर्णाः ब्राह्मणादयः । प्रमादवधे च पञ्चशतो दण्ड इत्य् एतद् अर्थाद् गम्यते ॥ ९.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	But (men of) all castes who perform the prescribed penances, must not be branded on the forehead by the king, but shall be made to pay the highest amercement.
 </details>

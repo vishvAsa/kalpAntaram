@@ -3,6 +3,11 @@ title = "033 मैत्रेयकन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	A Vaideha produces (with the same) a sweet-voiced Maitreyaka, who, ringing a bell at the appearance of dawn, continually. praises (great) men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the ‘Vaideha’ begets the Madhūka-like ‘Maitreyaka,’ who constantly praises men, and serves as the bell-ringer at sunrise.—(33)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 **मैत्रेयकं** तु नाम्ना मैरेयकं वा पाठान्तरेण वैदेहको जनयति, वैश्यजातो ब्राह्मण्यां य उक्तः । मैत्रेयकं च गुणेन विशिनष्टि **माधूकं** मधुरभाषिणम् । संप्रसूयते आयोगव्याम् एवाधिकृतायाम् । तस्य वृत्तिनिर्देशः- **नॄन् प्रशंसत्य् अजस्रं यो घण्टाताडो ऽरुणोदये**, प्रातर् गायंस् तु वन्दनादिभिः ॥ १०.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	A Vaideha produces (with the same) a sweet-voiced Maitreyaka, who, ringing a bell at the appearance of dawn, continually. praises (great) men.
 </details>

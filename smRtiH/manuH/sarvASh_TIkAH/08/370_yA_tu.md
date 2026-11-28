@@ -3,6 +3,11 @@ title = "370 या तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+370	But a woman who pollutes a damsel shall instantly have (her head) shaved or two fingers cut off, and be made to ride (through the town) on a donkey.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if a woman pollutes a maiden, she deserves immediate shaving off, or the amputation of two fingers, and also being carried by a donkey.—(370)
@@ -44,9 +49,4 @@ herself not a maiden;—in *Aparārka* (p. 859), which says *strī* meant here i
 <details><summary>भारुचिः</summary>
 
 मौण्ड्या]ङ्गुलिच्छेदयोर् विकल्पः ॥ ८.३६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-370	But a woman who pollutes a damsel shall instantly have (her head) shaved or two fingers cut off, and be made to ride (through the town) on a donkey.
 </details>

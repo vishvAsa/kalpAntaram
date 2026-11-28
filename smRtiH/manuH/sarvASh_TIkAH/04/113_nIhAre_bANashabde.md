@@ -2,6 +2,11 @@
 title = "113 नीहारे बाणशब्दे"
 +++
 
+<details><summary>Bühler</summary>
+
+113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor during a fog, nor during the sound of arrows, nor at the two twilights, nor on the Moonless Day, nor on the fourteenth day, nor on the Full Moon Day, nor on the eighth day.—(113).
@@ -67,11 +72,6 @@ days of the months of Kārtika, Phālguna and Āṣāḍha.’
 <details><summary>गोविन्दराजः</summary>
 
 धूमिकायां **वाणशब्दे सन्ध्ययोः अमावास्याचतुर्दशीपौर्णमास्यष्टमीषु च न अधीयीत **। अष्टकानाम् उत्तरत्राभिधानाद् इहामावास्यादिसाहचर्याद् अष्टकाग्रहणम् अष्टम्यर्थम् ॥ ४.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.
 </details>
 
 <details><summary>भारुचिः</summary>

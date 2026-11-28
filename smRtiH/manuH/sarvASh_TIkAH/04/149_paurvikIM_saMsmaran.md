@@ -2,6 +2,11 @@
 title = "149 पौर्विकीं संस्मरन्"
 +++
 
+<details><summary>Bühler</summary>
+
+149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Recollecting his former births, the twice-born person continues to study the Veda; and by his continuous study of the Veda, he obtains absolute, endless bliss.—(149)
@@ -46,11 +51,6 @@ This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika
 <details><summary>गोविन्दराजः</summary>
 
 ततः किम् अत आह **पौर्विकीम्** इति । पूर्वजातिं स्वां **संस्मरन् **ईदृग् अयं वेदाभ्यासः येन जन्मान्तरं स्मर्यत इति मत्वा अभीक्ष्णं वेदाभ्यासम् एव करोति तेन चानवरतम् आचर्यमाणे वेदार्थावबोधजाते सति ब्रह्मप्राप्तौ परमात्मरूपम् **अक्षयं सुखं **प्राप्नोति ॥ ४.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

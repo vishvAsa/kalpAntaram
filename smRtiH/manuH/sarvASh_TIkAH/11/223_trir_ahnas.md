@@ -3,6 +3,11 @@ title = "223 त्रिर् अह्नस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	Let him bathe three times each day and thrice each night, dressed in his clothes; let him on no account talk to women, Sudras, and outcasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thrice in the day and thrice in the night shall he enter water along with his clothes; and he shall never converse with women, Śūdras and outcasts.—(223)
@@ -55,9 +60,4 @@ and consecrate the food-morsels with the *Gāyatrī*.’
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिर् अह्नस् त्रिर् निशायाम्** इति । अह्नो रात्रेश् चारम्भमध्यावसानेषु स्नानार्थं सचैलो नद्यादौ प्रविशेद् एतच् च पिपीलिकामध्यचान्द्रायणवर्जं तत्रोपस्पृशंस् त्रिषवणम् इत्य् उक्तत्वात् स्त्रीशूद्रपतितैश् च सहसं भाषणं न कदाचिद् यावद् व्रतं कुर्यात् ॥ ११.२२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	Let him bathe three times each day and thrice each night, dressed in his clothes; let him on no account talk to women, Sudras, and outcasts.
 </details>

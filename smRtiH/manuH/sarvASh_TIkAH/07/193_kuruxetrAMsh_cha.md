@@ -3,6 +3,11 @@ title = "193 कुरुक्षेत्रांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+193	(Men born in) Kurukshetra, Matsyas, Pankalas, and those born in Surasena, let him cause to fight in the van of the battle, as well as (others who are) tall and light.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Men born in the countries of Kurukṣhtra, Matsya, Pañcāla, and Śūrasena.—he shall make these fight in the vanguard; as also those that are tall and light.—(193)
@@ -63,9 +68,4 @@ greedy and sinful; for this reason the weaned over troops of the enemy are bette
 <details><summary>भारुचिः</summary>
 
 एते हि पृथुवक्षस आजानुबाहवो द्विस्पृशो महावर्ष्माणश् च सेनामुखेष्व् ईषन्मनोघातं परेषां कुर्वन्ति ॥ ७.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	(Men born in) Kurukshetra, Matsyas, Pankalas, and those born in Surasena, let him cause to fight in the van of the battle, as well as (others who are) tall and light.
 </details>

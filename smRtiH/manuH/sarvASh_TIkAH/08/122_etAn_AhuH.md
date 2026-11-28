@@ -3,6 +3,11 @@ title = "122 एतान् आहुः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+122	They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They declare these penalties for false evidence to have been prescribed by the wise, for the purpose that justice may not fail and injustice hay be prevented.—(122)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 8.118].
 <details><summary>भारुचिः</summary>
 
 त्रयः श्लोका दण्डप्रकॢप्त्यर्थाः । साक्षिणा मिथ्यावचनेषु सहस्रं शतम् इति च यद् उक्तम् अत्र तत्रा[पेक्षया] विकृतस्य वा । एवं प्रथममध्यमोत्तमसाहसग्रहणेषु विशेषतः सर्वं वक्ष्यति ॥ ८.१२०–१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-122	They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.
 </details>

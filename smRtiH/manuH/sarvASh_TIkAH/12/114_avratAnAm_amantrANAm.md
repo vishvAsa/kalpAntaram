@@ -3,6 +3,11 @@ title = "114 अव्रतानाम् अमन्त्राणाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+114	Even if thousands of Brahmanas, who have not fulfilled their sacred duties, are unacquainted with the Veda, and subsist only by the name of their caste, meet, they cannot (form) an assembly (for settling the sacred law).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even if thousands of Brāhmaṇas come together,—who have not fulfilled their duties, who are ignorant of the sacred texts, who subsist merely by the name of their caste,—the character of the ‘Assembly’ cannot belong to them.—(114)
@@ -46,9 +51,4 @@ have not fulfilled their sacred duties, are unacquainted with the Veda, and subs
 <details><summary>गोविन्दराजः</summary>
 
 **अव्रतानाम्** इति । सावित्रादिब्रह्मचारिव्रतरहितानां वेदाध्ययनशून्यानां ब्राह्मणजातिमात्रोपजीविनां सहस्राणाम् एकीभूतानां परिषत्त्वं नास्ति धर्मनिर्णयासामर्थ्यात् ॥ १२.११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Even if thousands of Brahmanas, who have not fulfilled their sacred duties, are unacquainted with the Veda, and subsist only by the name of their caste, meet, they cannot (form) an assembly (for settling the sacred law).
 </details>

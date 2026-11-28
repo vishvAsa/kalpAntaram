@@ -3,6 +3,11 @@ title = "186 प्रायश्चित्ते तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+187	But when he has performed his penance, they shall bathe with him in a holy pool and throw down a new pot, filled with water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If however the expiation has been performed, they shall bathe with him in a sacred reservoir of water and shall throw into the water a fresh jar filled with water.—(186)
@@ -59,9 +64,4 @@ penance may be re-admitted. Those who strike their teacher, mother or father may
 <details><summary>गोविन्दराजः</summary>
 
 **प्रायश्चित्त** इति । कृते पुनः पतितेन प्रायश्चित्ते उदकपूर्णं नवं तेनैव प्रायश्चित्तेन सह पवित्रे जलाधारे स्नात्वा तेन सपिण्डसमानोदकाः प्रक्षिपेयुः । इह नवग्रहणाद् दासीघटम् इत्य् अत्रोपयुक्तघटग्रहणं गम्यते ॥ ११.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	But when he has performed his penance, they shall bathe with him in a holy pool and throw down a new pot, filled with water.
 </details>

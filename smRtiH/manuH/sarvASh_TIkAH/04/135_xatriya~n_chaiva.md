@@ -2,6 +2,11 @@
 title = "135 क्षत्रियञ् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Desiring his own prosperity, he shall never despise a Kṣatriya, a serpent, a learned Brāhmaṇa,—even if they be feeble.—(135)
@@ -47,11 +52,6 @@ shall never despise the following three, even though they be very much reduced�
 <details><summary>गोविन्दराजः</summary>
 
 **क्षत्रियं चैवेति** । यो भवनशीलः क्षत्रियसर्पविद्वद्ब्राह्मणान् तदानीं दुर्बलान् अपि कदाचिन् नावजानीयात् ॥ ४.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
 </details>
 
 <details><summary>भारुचिः</summary>

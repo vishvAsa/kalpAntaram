@@ -3,6 +3,11 @@ title = "040 अन्यद् उप्तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	That one (plant) should be sown and another be produced cannot happen; whatever seed is sown, (a plant of) that kind even comes forth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “It is not possible that what is sown is of one kind and what is produced is of a different kind; the seed that is produced is the same that is sown.”—(40)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 एतावद्बीजप्राधान्यपक्षः । अधुना [क्षेत्रप्राधान्यपक्षः प्रदर्श्य]ते ॥ ९.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	That one (plant) should be sown and another be produced cannot happen; whatever seed is sown, (a plant of) that kind even comes forth.
 </details>

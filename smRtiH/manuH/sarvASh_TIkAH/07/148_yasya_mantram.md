@@ -3,6 +3,11 @@ title = "148 यस्य मन्त्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+148	That king whose secret plans other people, (though) assembled (for the purpose), do not discover, (will) enjoy the whole earth, though he be poor in treasure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That King, whose secret plans other people, coming together, do not know, enjoys the whole earth, even though he be poor in treasure.—(148)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 7.148].
 <details><summary>गोविन्दराजः</summary>
 
 **यस्येति** । यस्य राज्ञो मन्त्रिव्यतिरिक्ताः जनाः सम्मील्याभ्यूह्य मन्त्रं **न जानन्ति** स **क्षीणकोशो ऽपि** समग्रां **पृथिवीं भुनक्ति** ॥ ७.१४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	That king whose secret plans other people, (though) assembled (for the purpose), do not discover, (will) enjoy the whole earth, though he be poor in treasure.
 </details>

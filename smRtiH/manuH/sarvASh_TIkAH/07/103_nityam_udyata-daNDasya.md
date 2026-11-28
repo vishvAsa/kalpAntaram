@@ -3,6 +3,11 @@ title = "103 नित्यम् उद्यत-दण्डस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+103	Of him who is always ready to strike, the whole world stands in awe; let him therefore make all creatures subject to himself even by the employment of force.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of him who has his force constantly operative, the whole world stands in awe. He shall, therefore, subdue all men by means of force—(103)
@@ -50,9 +55,4 @@ good and chastise the wicked; such is the duty of kings, who also obtain wealth 
 <details><summary>भारुचिः</summary>
 
 **उद्यतदण्डस्या**यत्नेनैव शत्रूप[नतिर् भवति] ॥ ७.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	Of him who is always ready to strike, the whole world stands in awe; let him therefore make all creatures subject to himself even by the employment of force.
 </details>

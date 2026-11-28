@@ -3,6 +3,11 @@ title = "090 कामम् उत्पाद्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	But he who subsists by agriculture, may at pleasure sell unmixed sesamum grains for sacred purposes, provided he himself has grown them and has not kept them long.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the agriculturist may, if he wishes, sell pure sesamum for sacred purposes, if he has cultivated them himself and has not kept these long.—(90)
@@ -89,9 +94,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 तिलानां विक्रयप्रतिषेधाद् अयं तेषां विशेषाश्रयो विक्रयप्रतिप्रसवः । शुद्धग्रहणं मिश्रीकृतान्यद्रव्यप्रतिषेधार्थम् (?) । अथ वा **तिल**शब्दस्यावधारणार्थत्वं दर्शयति, एवं च नेदम् अन्यप्रदर्शनार्थम्, कारणस्य समानत्वाद् इति । **धर्मार्थं** नित्यकर्मसङ्गे पुत्रदारात्ययप्राप्तौ । **अचिरस्थितान्** इत्य् अर्घप्रतीक्षणप्रतिषेधः । अस्यार्थवादः ॥ १०.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	But he who subsists by agriculture, may at pleasure sell unmixed sesamum grains for sacred purposes, provided he himself has grown them and has not kept them long.
 </details>

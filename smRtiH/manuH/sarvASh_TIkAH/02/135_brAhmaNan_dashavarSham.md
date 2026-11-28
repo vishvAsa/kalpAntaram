@@ -2,6 +2,11 @@
 title = "135 ब्राह्मणन् दशवर्षम्"
 +++
 
+<details><summary>Bühler</summary>
+
+135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa or ten years and the Kṣatriya or a hundred years should be known as father and son; and of the two this Brāhmaṇa is the father.—(135)
@@ -64,11 +69,6 @@ Brāhmaṇa, ten years old, should he regarded as father and son; of the two, th
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणम्** इति । ब्राह्मणक्षत्रिययोः दशवर्षशतवर्षवयसयोः अभिवादनादौ पितापुत्रव्यवहारः स्यात् । तयोर् मध्यात् पुनः ब्राह्मणः पितृस्थानीयः ॥ १.१३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "028 नवेनाऽनर्चिता ह्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For his Fires, greedy or n ew grains and meat, seek to devour his very life, if they are not worshipped with new grains and with meat.—(28)
@@ -30,11 +35,6 @@ By pointing out the evils arising from the omission of the said rites, the text 
 <details><summary>गोविन्दराजः</summary>
 
 **नवेनेति** । यस्मान् नवसस्येन पशुयागेन (दानेन) चानिष्ट्वा **अग्नयो **नवान्नमांसानि काङ्क्षिणो ऽस्याग्न्याहितस्य **प्राणान् एव** भक्षयितुम् **इच्छन्ति **। तस्माद् आग्रयणपशुयागौ कर्तव्यौ ॥ ४.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
 </details>
 
 <details><summary>भारुचिः</summary>

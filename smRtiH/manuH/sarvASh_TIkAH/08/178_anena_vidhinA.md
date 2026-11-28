@@ -3,6 +3,11 @@ title = "178 अनेन विधिना"
 
 +++
 
+<details><summary>Bühler</summary>
+
+178	According to these rules let the king equitably decide between men, who dispute with each other the matters, which are proved by witnesses and (other) evidence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In this manner shall the king settle the disputes of men quarrelling among themselves, deciding them with the help of witnesses and other evidence.—(178)
@@ -72,9 +77,4 @@ learned Brāhmaṇas, both the suits preferred by litigants and those instituted
 <details><summary>भारुचिः</summary>
 
 **प्रत्ययसिद्धानि** हेतुसिद्धानीत्य् अर्थः । ऋणव्यवहारोपसंहारार्थः श्लोकः । निक्षेपविध्यर्थम् इदम् अधुनोच्यते ॥ ८.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	According to these rules let the king equitably decide between men, who dispute with each other the matters, which are proved by witnesses and (other) evidence.
 </details>

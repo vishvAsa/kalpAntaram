@@ -3,6 +3,11 @@ title = "190 निक्षेपस्याऽपहर्तारम् अ
 
 +++
 
+<details><summary>Bühler</summary>
+
+190	Him who appropriates a deposit and him (who asks for it) without having made it, (the judge) shall try by all (sorts of) means, and by the oaths prescribed in the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The appropriator of a deposit, as also one who has not deposited anything (and yet asks for it),—the king shall test by all methods, as also by means of oaths and ordeals prescribed in the scriptures.—(190)
@@ -71,9 +76,4 @@ such use, in accordance with place and time; also a line of 12 *Paṇas*. If the
 <details><summary>भारुचिः</summary>
 
 यस् त्व् अपदेशाद् विना निक्षिप्तं याच्यमानो निक्षेप्त्रे न दद्यात्- असाक्षिके निक्षेप एतद् उच्यते । निक्षेप्ता वा गृहीत्वा पुनर् याचेत, अदत्वा वा । स राज्ञा प्राङ्विवाकेन वा सामादिभिः सर्वोपायैर् अन्वेष्य, तदसंभवे तु **शपथैश् चैव वैदिकैः** अग्निहरणादिभिः । **च**शब्दाल् लौकिका अपि कोशपानादयो ऽत्रानुरुध्यन्ते । कार्यसामान्याच् च निक्षेपविधेर् अन्यत्राप्य् एषाम् अप्रतिषेधः ॥ ८.१८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	Him who appropriates a deposit and him (who asks for it) without having made it, (the judge) shall try by all (sorts of) means, and by the oaths prescribed in the Veda.
 </details>

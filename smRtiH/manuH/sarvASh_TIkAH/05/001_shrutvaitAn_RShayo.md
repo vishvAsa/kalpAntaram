@@ -2,6 +2,11 @@
 title = "001 श्रुत्वैतान् ऋषयो"
 +++
 
+<details><summary>Bühler</summary>
+
+001	The sages, having heard the duties of a Snataka thus declared, spoke to great-souled Bhrigu, who sprang from fire:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sages, having heard the duties of the Accomplished Student as just described, said this to the high-souled Bhṛgu, who sprang from fire.—(1)
@@ -65,11 +70,6 @@ Our answer is as follows:—The greater seriousness here spoken of refers to *ga
 <details><summary>गोविन्दराजः</summary>
 
 **श्रुत्वैतान् **इति । **इदम् ऊचुर् महाभागम्** इति । **एतान्** यथोक्तान् स्नातकधर्मान् **ऋषयः श्रुत्वा **अग्नेर् जातं परोपकारिणं **भृगुं इदं** वक्ष्यमाणम् उक्तवन्तः । प्रथमे ऽध्याये मनुप्रभवत्वं भृतोर् उक्तम् । इह तु श्रौतार्थवाददृष्ट्याग्निप्रभवत्वम् उच्यते । तत्र हि “तस्य यद् रेतसः प्रथमं देदीयते तद् असाव् आदित्यो ऽभवत् । यद् द्वितियम् आसीत् तद् भृगुः” इति श्रूयते । अत एव भ्रष्टाद् रेतस उत्पन्न इत् इभृगुर् इत्य् एवं भवति । एवं च एकस्मिन् जन्मनि तस्यैकं कारणम् अन्यस्मिंश् चापरम् इति न कदाचिद् अनुपपत्तिः ॥ ५.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	The sages, having heard the duties of a Snataka thus declared, spoke to great-souled Bhrigu, who sprang from fire:
 </details>
 
 <details><summary>भारुचिः</summary>

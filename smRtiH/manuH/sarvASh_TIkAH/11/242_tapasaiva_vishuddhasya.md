@@ -3,6 +3,11 @@ title = "242 तपसैव विशुद्धस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+243	The gods accept the offerings of that Brahmana alone who has purified himself by austerities, and grant to him all he desires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is only when the Brāhmaṇa has been purified by Austerities that Heavenly Beings accept their sacrifices and advance their interests.—(242)
@@ -75,9 +80,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 काम्यकर्मसाध्यत्वात् तद् अनुष्ठातॄणाम् । अतश् चैतन् न्याय्यं कर्तुम् । इदं चापरं पश्य तपसो महाभाग्यम् ॥ ११.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-243	The gods accept the offerings of that Brahmana alone who has purified himself by austerities, and grant to him all he desires.
 </details>

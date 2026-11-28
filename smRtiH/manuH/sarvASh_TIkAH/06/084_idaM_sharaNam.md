@@ -3,6 +3,11 @@ title = "084 इदं शरणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+084	That is the refuge of the ignorant, and even that (the refuse) of those who know (the meaning of the Veda); that is (the protection) of those who seek (bliss in) heaven and of those who seek endless (beatitude).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This is the refuge for the ignorant, this for the learned; this for those seeking heaven, and this also for those desiring immortality.—(84)
@@ -57,9 +62,4 @@ For all these the Veda is the only ‘*refuge*’, and there is no other path. S
 <details><summary>भारुचिः</summary>
 
 आनन्तर्याद् ब्रह्मणो जपकर्मेदम् उच्यते यथा सांख्येन । अथ वा परिव्रज्याप्रशंसेयम्, तदुपसंहारदर्शनात् चातुराश्रमिधर्मक्रमेण शास्त्रस्यानुपसंहारात् तस्य । तथा च शास्त्रोपसंहारशास्त्रस्तुतिर् वक्ष्यते ॥ ६.८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-084	That is the refuge of the ignorant, and even that (the refuse) of those who know (the meaning of the Veda); that is (the protection) of those who seek (bliss in) heaven and of those who seek endless (beatitude).
 </details>

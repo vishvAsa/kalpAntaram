@@ -2,6 +2,11 @@
 title = "248 सहपिण्डक्रियायान् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+248	But after the Sapindikarana of the (deceased father) has been performed according to the sacred law, the sons must offer the cakes with those ceremonies, (described above.)
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But after the Amalgamating Rite has been duly performed, the offering of balls shall be done by the sons, by this same method.—(248)
@@ -334,11 +339,6 @@ with the Piṭṛs, the body-born son shall offer to the parents, on the day of 
 प्रेतपात्रं च (न) सर्वं पितृपात्रेषु प्रसेक्तव्यम् । अपि तु पृथक् प्रेतब्राह्मणोपदेशसामर्थात् तदर्घार्थं तत्र किञ्चिद(नु)वशेषणीयम् । साधारनत्वात् अविभक्तभ्रातृधनोपयोगवत् तस्माद् अर्घो देयः । एवं च _यत् कैश्चित्_ सपिण्डीकरणे पञ्चब्राह्मणभोजनं प्रतितामहपितृसम्बन्ध्यर्घ्यपात्रं पिण्डत्रिधाधारणं चोक्तम्, _तद् असत्_, उक्तवाक्यविरोधाद् एव शास्त्रतः कृते सत्य् अनयैवावृता अभावास्य प्रक्रियया पुत्रैः प्रतिसंवत्सरं मृताहे कर्तव्यम् ।
 
 > _ननु_ सन्निहितपरामर्शकत्वात् सर्वनाम्नः अनयैवेत्य् एकोद्दिष्टातिदेशो न्याय्यः । _नैवम्_, एवं भेदनिर्देशेन शास्त्रनिर्देशं न कुर्यात् । असपिण्डक्रियायाम् एष विधिः । सहपिण्डक्रियायां पुनः कृतायाम् अयम् इति । तस्माद् अमावास्येतिकर्तव्यतानिर्देश एवं न्याय्यः । इति सपिण्डकरणसांवत्सरिके ऽपि स्मृतिमञ्जर्याम् । ऋजुपञ्जिकायां विस्तरतो निरूप्यते ॥ ३.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-248	But after the Sapindikarana of the (deceased father) has been performed according to the sacred law, the sons must offer the cakes with those ceremonies, (described above.)
 </details>
 
 <details><summary>भारुचिः</summary>

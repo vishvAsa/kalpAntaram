@@ -3,6 +3,11 @@ title = "070 इतरेषु स-सन्ध्येषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In each of the other time-cycles, along with their ‘junctures’ and ‘juncture-ends’, the ‘thousands’ and ‘hundreds’ are reduced by one.—(70)
@@ -43,9 +48,4 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 <details><summary>गोविन्दराजः</summary>
 
 **इतरेष्व्** इति । त्रेतादिषु पुनस् त्रिषु युगेषु सन्ध्यासन्ध्यांशसहितेषु एकैकहान्या **सहस्राणि शतानि च **भवन्ति** **। त्रेता त्रीणि सहस्राणि, तत् सन्ध्यासन्ध्यांशैश् च त्रीणि त्रीणि शतानि । एवं द्वापरकलियुगयोः सम्ध्यासन्ध्यांशसहितयोः पूर्वस्माद् पूर्वस्माद् एकैकसहस्र्शतापायो द्रष्टव्यः ॥ १.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).
 </details>

@@ -3,6 +3,11 @@ title = "106 श्वमांसम् इच्छन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+106	Vamadeva, who well knew right and wrong, did not sully himself when, tormented (by hunger), he desired to eat the flesh of a dog in order to save his life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Vāmadeva, expert in the knowledge of right and wrong, when distressed, desired to eat dog’s flesh for saving his life,—and he did not become defiled.—(106)
@@ -40,9 +45,4 @@ See Comparative notes for [Verse 10.101].
 <details><summary>गोविन्दराजः</summary>
 
 **श्वमांसम् इच्छन्न्** इति । वामदेवाख्यऋषिः कार्याकार्यवित् क्षुधार्तः प्राणपरित्राणार्थं श्वमांसं भक्षयितुम् इच्छन् पापेन न लिप्तवान् ॥ १०.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-106	Vamadeva, who well knew right and wrong, did not sully himself when, tormented (by hunger), he desired to eat the flesh of a dog in order to save his life.
 </details>

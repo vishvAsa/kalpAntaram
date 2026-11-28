@@ -2,6 +2,11 @@
 title = "109 अद्भिर् गात्राणि"
 +++
 
+<details><summary>Bühler</summary>
+
+109	The body is cleansed by water, the internal organ is purified by truthfulness, the individual soul by sacred learning and austerities, the intellect by (true) knowledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The limbs are purified by water; the mind is purified by truthfulness; the soul proper by learning and austerity; and cognition is purified by knowledge.—(108).
@@ -74,11 +79,6 @@ This verse is quoted in *Smṛtisāroddhāra* (p. 249);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **अद्भिर्** इति । अङ्गानि स्वेदाद्युपहतानि **अद्भिः शुध्यन्ति** । **मनश्** च कथञ्चिद् असत्सङ्कल्पोपहतं सत्याभिधानेन **शुध्यति** । पारमार्थिकश् चात्मापरमात्माख्यकोशकारकृमिवद् आत्मैव रागादिमलजालावबद्धो विद्ययोपनिषदाद्युक्तात्मोपासनाभिस् तपसा चाखिलमललोपी ब्रह्मस्वरूप एवावतिष्टते । तथा बुद्धिर् विपरीतार्थग्राहिणी तेनाशुद्धासती यथा भूतार्थग्राहिणा विज्ञानेन शुध्यति ॥ ५.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	The body is cleansed by water, the internal organ is purified by truthfulness, the individual soul by sacred learning and austerities, the intellect by (true) knowledge.
 </details>
 
 <details><summary>भारुचिः</summary>

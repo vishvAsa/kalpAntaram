@@ -3,6 +3,11 @@ title = "290 यानस्य चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+290	They declare with respect to a carriage, its driver and its owner, (that there are) ten cases in which no punishment (for damage done) can be inflicted; in other cases a fine is prescribed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of the conveyance, its rider and its owner, they lay down ten exclusions; for the rest penalties are prescribed.—(290)
@@ -65,9 +70,4 @@ quadrupeds, or through wood and bricks, or through stones, beasts of burden or c
 <details><summary>भारुचिः</summary>
 
 वक्ष्यमाणेषु दशसु निमित्तेषु द्रव्यविनाशे प्राणिवधे वा दण्डो नास्तीत्य् एतद् अतिवर्तनं दण्डस्य । अपरे तु तस्य न दशत्वम् [विवक्षितम्] आहुः ॥ ८.२८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-290	They declare with respect to a carriage, its driver and its owner, (that there are) ten cases in which no punishment (for damage done) can be inflicted; in other cases a fine is prescribed.
 </details>

@@ -3,6 +3,11 @@ title = "406 दीर्घाध्वनि यथादेशम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+406	For a long passage the boat-hire must be proportioned to the places and times; know that this (rule refers) to (passages along) the banks of rivers; at sea there is no settled (freight).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For a long passage, the boat-fare should be in propor tion to the time and place; this should be understood to be the rule regarding the banks of rivers; in connection with the sea, there is no fixed rule.—(406)
@@ -73,9 +78,4 @@ See Comparative notes for [Verse 8.404].
 <details><summary>भारुचिः</summary>
 
 दीर्घे यातव्ये ऽध्वनि कल्प्यस् तरः क्षयलाभान् अवेक्ष्य । तथा नदीवैपुल्यम् अपेक्ष्य पारगमने । ऋज्व् अन्यत् ॥ ८.४०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-406	For a long passage the boat-hire must be proportioned to the places and times; know that this (rule refers) to (passages along) the banks of rivers; at sea there is no settled (freight).
 </details>

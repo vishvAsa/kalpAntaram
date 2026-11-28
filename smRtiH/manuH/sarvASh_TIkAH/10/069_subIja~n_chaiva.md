@@ -3,6 +3,11 @@ title = "069 सुबीजञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	As good seed, springing up in good soil, turns out perfectly well, even so the son of an Aryan by an Aryan woman is worthy of all the sacraments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as good seed grown in a good soil turns out well, so is the child born to an Ārya from an Ārya woman worthy of all sacraments.—(59)
@@ -48,9 +53,4 @@ seq*.\]]
 > **तथार्यजातस् त्व् आर्यायां सर्वं संस्कारम् अर्हति  ॥ १०.६९ ॥**
 
 उपदेशसामर्थ्याच् छ्रौतं स्मार्तं च । कः पुनर् असौ । स्वजातिजो ऽनन्तरजश् च शूद्रवर्जम् । पारशवादिस् त्व् अनुलोमो ऽपि स्मार्तम् एव पाकयज्ञादिकं, न श्रौतं "मातृदोषविगर्हणाद्" इत्य् उक्तम् । प्रतिलोमाः पुनर् आयोगवादयः पुरुषधर्मैर् अप्य् अहिंसादिभिर् अधिरियन्ते, ब्राह्मणादित्राने च देहत्यागेन । एवं च सत्य् एकान्तपरिग्रहेण सर्वत्र यत्,
-</details>
-
-<details><summary>Bühler</summary>
-
-069	As good seed, springing up in good soil, turns out perfectly well, even so the son of an Aryan by an Aryan woman is worthy of all the sacraments.
 </details>

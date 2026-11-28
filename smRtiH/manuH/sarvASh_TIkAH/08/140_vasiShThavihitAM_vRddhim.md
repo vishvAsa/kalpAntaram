@@ -3,6 +3,11 @@ title = "140 वसिष्ठविहितां वृद्धिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+140	A money-lender may stipulate as an increase of his capital, for the interest, allowed by Vasishtha, and take monthly the eightieth part of a hundred.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The money-lender shall stipulate an interest sanctioned by Vasiṣṭha, for increasing the capital. He shall take monthly the eightieth part of a hundred.—(140)
@@ -91,9 +96,4 @@ debtor exactly as he had lent it to him. As regards interest, he shall take, in 
 <details><summary>भारुचिः</summary>
 
 अशीतभागः प्रथमः कल्पः प्रयुक्तस्यार्थस्य वृद्धिः ॥ ८.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-140	A money-lender may stipulate as an increase of his capital, for the interest, allowed by Vasishtha, and take monthly the eightieth part of a hundred.
 </details>

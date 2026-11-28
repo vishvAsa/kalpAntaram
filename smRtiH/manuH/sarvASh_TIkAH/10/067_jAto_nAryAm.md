@@ -3,6 +3,11 @@ title = "067 जातो नार्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	The decision is as follows: 'He who was begotten by an Aryan on a non-Aryan female, may become (like to) an Aryan by his virtues; he whom an Aryan (mother) bore to a non-Aryan father (is and remains) unlike to an Aryan.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The decision is that—‘one born to an Ārya from a Non-Ārya woman may be an Ārya in quality; but one born to a Non-ārya even from an Ārya woman is always Non-Ārya’—(67)
@@ -70,9 +75,4 @@ seq*.\]]
 > **जातो ऽप्य् अनार्याद् आर्यायाम् अनार्य इति निश्चयः  ॥ १०.६७ ॥**
 
 चाण्डालादिभिः, तस्य शूद्रधर्मे ऽप्य् अनधिकारात् । अस्याभिप्रायः को हि शक्तो भगवतो धर्मस्य हेतुतः साधुत्वम् अवधारयितुम् । एवं हि हेत्वनवस्थानात् धर्मानवस्थानम् अपि प्रसज्येत । तथा चैतत् पुरस्तात् प्रत्याख्यातम् एव "अचिन्त्यस्याप्रमेयस्य" इत्य् अत्र । एवं च सति यथोपदेशं बीजयोन्योः प्राधान्यम् अभ्युपगन्तव्यम्, न त्व् अनुमानतः । उपदेशविषयाद् अन्यत्रापि यथा सुखदुःखयोर् धर्माधर्मोत्पत्ताव् इति । तथा च कृत्वा ॥ १०.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	The decision is as follows: 'He who was begotten by an Aryan on a non-Aryan female, may become (like to) an Aryan by his virtues; he whom an Aryan (mother) bore to a non-Aryan father (is and remains) unlike to an Aryan.'
 </details>

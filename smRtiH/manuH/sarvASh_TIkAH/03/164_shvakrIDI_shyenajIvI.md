@@ -2,6 +2,11 @@
 title = "164 श्वक्रीडी श्येनजीवी"
 +++
 
+<details><summary>Bühler</summary>
+
+164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who sports with dogs, the falconer, the defiler of virgins, the cruel man, he who derives his subsistence from Śūdras, and he who sacrifices to the Gaṇas.—(164)
@@ -56,11 +61,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **श्वक्रीडीति** । श्वभिः यः क्रीडति, याजकक्रियादिजीवकः कन्याया निन्दकः हिंसारतः, शूद्रजीव्नः । वृषलपुत्र इति वा पाठः । चतुर्दश्यादौ विनायकादिगणयागकृत् इत्य् एव उभयत्र वर्जनीयाः॥ ३.१६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
 </details>
 
 <details><summary>भारुचिः</summary>

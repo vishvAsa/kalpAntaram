@@ -3,6 +3,11 @@ title = "231 एवं सञ्चिन्त्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+232	Having thus considered in his mind what results will arise from his deeds after death, let him always be good in thoughts, speech, and actions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus considered in his mind the results arising after death from his deeds, he should perform good acts, by his thought, speech and body.—(231)
@@ -113,9 +118,4 @@ See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/
 <details><summary>भारुचिः</summary>
 
 उभयम् अपि निवृत्तिं प्रायश्चित्तं च, येनैकत्रानुत्पत्तिर् एव पापस्य, अन्यत्रोत्पन्नस्य विनाशः । यतश् चैतद् एवम् अतः ॥ ११.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	Having thus considered in his mind what results will arise from his deeds after death, let him always be good in thoughts, speech, and actions.
 </details>

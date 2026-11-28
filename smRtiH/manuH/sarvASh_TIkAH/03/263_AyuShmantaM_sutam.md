@@ -2,6 +2,11 @@
 title = "263 आयुष्मन्तं सुतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She brings forth a long-lived son, endowed with fame and intelligence, wealthy, with numerous offspring, good and righteous.—(263)
@@ -37,11 +42,6 @@ See Comparative notes for [Verse 3.262].
 <details><summary>गोविन्दराजः</summary>
 
 **आयुष्मन्तम्** इति । धर्मानुष्ठानरतं द्वादशाध्यायवक्ष्यमाणसत्त्वाख्यगुणयुक्तं चिरायुषं ख्यातिमन्तम् अतीतार्थस्मरणयुक्तं हिरण्यादिधनयुक्तं सन्ततिमन्तं एवंविधगुणयुक्तं पुत्रं जनयति ॥ ३.२६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "274 अपि नः"
 +++
 
+<details><summary>Bühler</summary>
+
+274	'May such a man (the manes say) be born in our family who will give us milk-rice, with honey and clarified butter, on the thirteenth lunar day (of the month of Bhadrapada) and (in the afternoon) when the shadow of an elephant falls towards the east.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘May there be one in our family, who may offer milk-rice mixed with honey and butter on the thirteenth, and when the shadow of the elephant falls towards the east.’—(274)
@@ -63,11 +68,6 @@ family who, during the rains, on the thirteenth day of the brighter fortnight, p
 <details><summary>गोविन्दराजः</summary>
 
 **अपीति** ।॥ ३.२७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-274	'May such a man (the manes say) be born in our family who will give us milk-rice, with honey and clarified butter, on the thirteenth lunar day (of the month of Bhadrapada) and (in the afternoon) when the shadow of an elephant falls towards the east.'
 </details>
 
 <details><summary>भारुचिः</summary>

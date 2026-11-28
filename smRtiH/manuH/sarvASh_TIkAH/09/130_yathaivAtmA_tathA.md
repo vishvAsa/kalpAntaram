@@ -3,6 +3,11 @@ title = "130 यथैवात्मा तथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+130	A son is even (as) oneself, (such) a daughter is equal to a son; how can another (heir) take the estate, while such (an appointed daughter who is even) oneself, lives?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son is as one’s own self, and the daughter is equal to the son; hence so long as she is there in her own real character, how can anyone else take his property?—(130)
@@ -49,9 +54,4 @@ himself on a wedded wife of equal caste to be a legitimate son of the body. They
 <details><summary>भारुचिः</summary>
 
 पितरि प्रेते सपुत्रा अपुत्रा वा पुत्रिका धनं हरेत् तदीयम् ॥ ९.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	A son is even (as) oneself, (such) a daughter is equal to a son; how can another (heir) take the estate, while such (an appointed daughter who is even) oneself, lives?
 </details>

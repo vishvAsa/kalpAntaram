@@ -2,6 +2,11 @@
 title = "007 हीन-क्रियन् निष्-पुरुषम्"
 +++
 
+<details><summary>Bühler</summary>
+
+007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such families as—(1) that in which the sacred rites have been abandoned, (2) which is male-less, (3) which is devoid of the Veda, (4) members of which are woolly and subject to (5) piles, (6) phthisis, (7) dyspepsia, (8) epilepsy, (9) leucoderma, and (10) leprosy.—(7)
@@ -75,11 +80,6 @@ See Comparative notes for [Verse 3.6].
 <details><summary>गोविन्दराजः</summary>
 
 **हीनक्रियम्** इति । यागादिरहितं कुलं स्त्रीजनकं वेदशून्यं प्रचुरतरदीर्घतोमाञ्चितम् आर्शाद्याख्यव्याध्युपेतं राजयक्ष्मिमन्दाग्न्यपस्मारिश्वित्रिकुष्ठीनां च सम्बन्धीनि **कुलानि वर्जयेत् **॥ ३.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
 </details>
 
 <details><summary>भारुचिः</summary>

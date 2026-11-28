@@ -3,6 +3,11 @@ title = "124 प्रकल्प्या तस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+124	They must allot to him out of their own family (-property) a suitable maintenance, after considering his ability, his industry, and the number of those whom he is bound to support.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They should provide out of their family, a suitable maintenance for him, after considering his own capacity, and the man’s skill and the burden of persons to be supported by him.—(124)
@@ -35,9 +40,4 @@ maintenance, ‘*out of their,family*’;—that is, he should be looked after l
 <details><summary>भारुचिः</summary>
 
 सत्याम् अपि धर्मार्थायां विप्रसेवायां प्रकल्प्या तस्य तैर् वृत्तिः । अर्थाच् चैतद् आपद्यते वृत्तितो ऽप्य् आश्रितस्य, किं पुनर् अवृत्तेः शूद्रस्य । पुत्रवच् चास्य शुश्रूषा न वृत्तिपरिक्रयेण, येनासौ धर्मोपनतः । एवंविधस्यापि च शूद्रस्य ॥ १०.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-124	They must allot to him out of their own family (-property) a suitable maintenance, after considering his ability, his industry, and the number of those whom he is bound to support.
 </details>

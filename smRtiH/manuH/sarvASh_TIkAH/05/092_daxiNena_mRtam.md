@@ -2,6 +2,11 @@
 title = "092 दक्षिणेन मृतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+092	Let him carry out a dead Sudra by the southern gate of the town, but (the corpses of) twice-born men, as is proper, by the western, northern, or eastern (gates).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should carry the dead śūdra by the southern gate of the city; but the twice-born persons by the western, northern and eastern gates respectively—(91).
@@ -47,11 +52,6 @@ towards the village.’
 <details><summary>गोविन्दराजः</summary>
 
 **दक्षिणेनेति** । शूद्रं मृतं दक्षिणदिग्वर्तिना नगरादिद्वारेण निर्हरेत् । पश्चिमोत्तरपूर्वदिग्वर्तिभिः पुरद्वारैर् यथाक्रमं वैश्यक्षत्रियब्राह्मणान् निर्हरेत् । अमङ्गलत्वाच् छूद्रादिप्रक्रमेणात्र धर्माभिधानम् ॥ ५.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Let him carry out a dead Sudra by the southern gate of the town, but (the corpses of) twice-born men, as is proper, by the western, northern, or eastern (gates).
 </details>
 
 <details><summary>भारुचिः</summary>

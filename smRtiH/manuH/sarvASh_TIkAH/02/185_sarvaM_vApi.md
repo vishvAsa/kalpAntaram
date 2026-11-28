@@ -2,6 +2,11 @@
 title = "185 सर्वं वापि"
 +++
 
+<details><summary>Bühler</summary>
+
+185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of al the afouesaid being not available, he may wander over the whole village, remaining pure and having his speech well-controlled; but he should avoid persons of ill-repute.—(185)
@@ -46,11 +51,6 @@ only raw food, that also just enough for one night.’
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वम्** इति । बन्धुगृहादिभ्यो ऽप्य् अलाभे चातुर्वर्ण्यादिष्व् आहरेत् । स जितेन्द्रियः सन् भिक्षावाक्यवर्जं मौनं **अभिशस्तान् **पुनः पातकित्वेन प्रसिद्धान् निश्चितपातकान् दण्डापूपकया पतितांश् च **वर्जयेत् **॥ २.१८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
 </details>
 
 <details><summary>भारुचिः</summary>

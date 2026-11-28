@@ -3,6 +3,11 @@ title = "259 दातारो नो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+259	'May liberal men abound with us! May (our knowledge of) the Vedas and (our) progeny increase! May faith not forsake us! May we have much to give (to the needy)!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘May our benefactors prosper! As also the Vedas and our progeny! May our faith never waver! May there be much for us to give away!’—(259)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 3.258].
 <details><summary>गोविन्दराजः</summary>
 
 **दातार** इति । **श्रद्धा च नो मा व्यगमत् बहु देयं च नो ऽस्त्व् इति । **अस्मत्कुले बहवो दानशीला भवन्तु । **वेदाश् च **अध्ययनाध्यापनावभोधेज्यारूपेण **वर्धन्ताम्** । **सन्ततिः **पुत्रादिः वर्धताम् । हव्यकव्यविषया **श्रद्धा**स्माकं **मा व्यगमत् । बहु देयं च नो ऽस्त्व् इति **। दानार्थं च धनं बह्वस्माकं भवतात् ॥ ३.२५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-259	'May liberal men abound with us! May (our knowledge of) the Vedas and (our) progeny increase! May faith not forsake us! May we have much to give (to the needy)!'
 </details>

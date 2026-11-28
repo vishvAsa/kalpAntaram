@@ -3,6 +3,11 @@ title = "069 स्त्रियो ऽप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	Women, also, who in like manner have committed a theft, shall incur guilt; they will become the females of those same creatures (which have been enumerated above).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing things, women also should incur guilt on this same principle; they become the female of those same creatures that have been named.—(69)
@@ -39,9 +44,4 @@ same ignominious punishment; they become females to those male animals.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्त्रिय** इति । स्त्रियो ऽप्य् अनेन कल्पेन रूपेणेच्छातः परस्वंहृत्वा पापं प्राप्नुवन्ति । तेन च पापेनोक्तजन्तुस्त्रीत्वं ताः प्रपद्यन्ते ॥ १२.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	Women, also, who in like manner have committed a theft, shall incur guilt; they will become the females of those same creatures (which have been enumerated above).
 </details>

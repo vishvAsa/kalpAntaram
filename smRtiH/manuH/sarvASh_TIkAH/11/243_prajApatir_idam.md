@@ -3,6 +3,11 @@ title = "243 प्रजापतिर् इदम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+244	The lord, Pragapati, created these Institutes (of the sacred law) by his austerities alone; the sages likewise obtained (the revelation of) the Vedas through their austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It was by means of Austerity that Lord Prajāpati gave forth these ordinances; and it was by means of Austerity that the Sages obtained the Vedas.—(243)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 प्रजापतिर् अपि भूत्वा तपःशरण इति कर्तव्येषु, किं पुनर् मनुष्या इत्य् एवम् अस्य स्तुतित्वं बोद्धव्यम् ॥ ११.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-244	The lord, Pragapati, created these Institutes (of the sacred law) by his austerities alone; the sages likewise obtained (the revelation of) the Vedas through their austerities.
 </details>

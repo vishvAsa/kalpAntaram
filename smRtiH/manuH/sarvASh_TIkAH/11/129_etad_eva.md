@@ -3,6 +3,11 @@ title = "129 एतद् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+130	A Brahmana who has slain a virtuous Vaisya, shall perform the same penance during one year, or he may give one hundred cows and one (bull).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa kills a righteous Vaiśya, he shall perform this same expiatory rite for one year; or he may give a hundred cows and one (bull).—(129)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 11.126].
 <details><summary>भारुचिः</summary>
 
 संभवद्वित्तस्येदं पूर्ववद् वैकल्पिकम् । द्विजोत्तमग्रहणं चेतरवर्णनिदर्शनार्थम्, नावधारणार्थम् ॥ ११.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	A Brahmana who has slain a virtuous Vaisya, shall perform the same penance during one year, or he may give one hundred cows and one (bull).
 </details>

@@ -2,6 +2,11 @@
 title = "229 तेषान् त्रयाणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The service of these three is declared to be the highest austerity; until permitted by them, one should not perform any other meritorious act.—(229)
@@ -58,11 +63,6 @@ nothing until permitted by them.’
 <details><summary>गोविन्दराजः</summary>
 
 यत एवम् अतः **तेषाम्** इति । **तेषां** मात्रादीनां **रयाणां** परिचर्या तपोऽन्तरेभ्यः प्रकृष्टं **तपः** मन्वादिभिः कथ्यते । एवं च **तैर् अनुज्ञातः **नित्यनैमित्तकवर्जम् **अन्यं धर्मं **नाचरेत् ॥ २.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
 </details>
 
 <details><summary>भारुचिः</summary>

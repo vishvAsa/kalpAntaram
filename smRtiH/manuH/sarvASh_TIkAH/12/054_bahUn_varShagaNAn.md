@@ -3,6 +3,11 @@ title = "054 बहून् वर्षगणान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Those who committed mortal sins (mahapataka), having passed during large numbers of years through dreadful hells, obtain, after the expiration of (that term of punishment), the following births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Persons who have committed the heinous offences, having passed, during several years, through dreadful hells, reach, after the expiation thereof, the following migratory states.—(54)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 12.53].
 <details><summary>गोविन्दराजः</summary>
 
 **बहून्** इति । ब्रह्महत्यादिमहापातककारिणो बहून् वर्षसमूहान् भीषणान् नरकान् प्राप्य दुष्कृतक्षयाद् ईषद्दुष्कृतशेषेणेमा वक्ष्यमाणा योनीः प्राप्नुवन्ति ॥ १२.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Those who committed mortal sins (mahapataka), having passed during large numbers of years through dreadful hells, obtain, after the expiration of (that term of punishment), the following births.
 </details>

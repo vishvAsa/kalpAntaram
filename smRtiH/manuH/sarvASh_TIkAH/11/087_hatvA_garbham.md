@@ -3,6 +3,11 @@ title = "087 हत्वा गर्भम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	For destroying the embryo (of a Brahmana, the sex of which was) unknown, for slaying a Kshatriya or a Vaisya who are (engaged in or) have offered a (Vedic) sacrifice, or a (Brahmana) woman who has bathed after temporary uncleanness (Atreyi), he must perform the same penance,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having killed an unknown embryo, one should perform this same penance,—also on killing a Kṣatriya or a Vaiśya, who has performed sacrifices, or a woman of the ‘Ātreyī’ race.—(87)
@@ -116,9 +121,4 @@ should perform the penance laid down for the Brāhmaṇa-killer.’
 <details><summary>भारुचिः</summary>
 
 ब्रह्महत्याप्रायश्चित्तातिदेशो ऽयं गर्भादिहन्तॄणाम् । गर्भश् च ब्राह्मणगर्भ एव प्रकरणाद् विज्ञेयः । **आत्रेयी** तु रजस्वला ब्राह्मण्य् एव । तस्यां हि कदाचित् पुंसस् संभव इति, अतस् तां हत्वा ब्रह्महा भवति । गोत्रत इत्य् अपर आत्रेयीम् आहुः, यस्माच् चात्रेयीं हत्वा ब्रह्महा भवति, ततो ऽन्यां ब्राह्मणीं हत्वा न ब्रह्महेति गम्यते । गवादिषु तु जातिमात्रस्य विवक्षितत्वात् स्त्रियां पुंसि चाविशेषेण प्रायश्चित्तम् । यच् चोपरिष्टश्लोके वक्ष्यति, "कृत्वा च स्त्रीसुहृद्वधम्" इति, स्त्रीग्रहणं तद् अपि ब्रह्मण्या एव । गोवधादौ च स्त्रीग्रहणस्य विद्यमानत्वाद् विकल्पेन ब्राह्मण्याम् इदं प्रायश्चित्तं स्यात् । विकल्पश् च गुणापेक्षो युक्तः, गुरुलघुप्रायश्चित्तयोः प्रत्ययाप्रत्ययकारणेन वा । एवं चात्रेयीग्रहणम् अर्थवद् भवति । सवनगतौ राजन्यवैस्यौ हत्वैतद् एव । तथा च ब्राह्मणम्, "यो वै कश्चिद् यजते ब्राह्मणिभूयैव यजते" इति ॥ ११.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	For destroying the embryo (of a Brahmana, the sex of which was) unknown, for slaying a Kshatriya or a Vaisya who are (engaged in or) have offered a (Vedic) sacrifice, or a (Brahmana) woman who has bathed after temporary uncleanness (Atreyi), he must perform the same penance,
 </details>

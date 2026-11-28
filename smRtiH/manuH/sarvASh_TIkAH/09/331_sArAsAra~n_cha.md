@@ -3,6 +3,11 @@ title = "331 सारासारञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+331	Moreover, the excellence and defects of commodities, the advantages and disadvantages of (different) countries, the (probable) profit and loss on merchandise, and the means of properly rearing cattle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also the excellences and defects of commodities, the advantages and disadvantages relating to countries, the profit and loss on merchandise and also cattle-breeding.—(331)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 9.326].
 इदमुत्कृष्टमेतदपकृष्टमित्येकजातीनामपि द्रव्याणां विशेषं जानीयात्तथा देशानां प्राक्पश्चिमादीनां क्व किमल्पमूल्यंकिं बहुमूल्यं चेत्यादि देशगुणदोषौ बुध्येत। विक्रयद्रव्याणां चेयता
 
 कालेन इयानपचय उपचयो वेति विद्यात्। तथाऽस्मिन् देशे कालेऽनेन च तृणोदकयवादिना पशवोवर्धन्तेऽनेन क्षीयन्त इत्येतदपि जानीयात्॥ ३३१॥
-</details>
-
-<details><summary>Bühler</summary>
-
-331	Moreover, the excellence and defects of commodities, the advantages and disadvantages of (different) countries, the (probable) profit and loss on merchandise, and the means of properly rearing cattle.
 </details>

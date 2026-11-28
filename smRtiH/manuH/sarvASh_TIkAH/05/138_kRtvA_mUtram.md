@@ -3,6 +3,11 @@ title = "138 कृत्वा मूत्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+138	When he has voided urine or faeces, let him, after sipping water, sprinkle the cavities, likewise when he is going to recite the Veda, and always before he takes food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having passed urine or faeces, and sipped water, one should touch. with water the cavities; also when he may be going to read the Veda, and always when going to take food.—(136).
@@ -74,9 +79,4 @@ cavities above the navel, his head and his chest with water.’
 <details><summary>गोविन्दराजः</summary>
 
 **कृत्वेति** । मूत्रपुरीषं कृत्वा कृतपूर्वोक्तशौचः कृतान्नभक्षः सण् शीर्षन्यादीन्द्रियछिद्राणि उपस्पृशेत् । आचमनम् एव वृत्तानुरोधात् । एवम् उक्तं तथा चोत्तरश्लोके विशेषयिष्यति । वेदं चाध्येतुम् इच्छन्न् अन्नं चाश्नन् यावज्जीवं आचामेद् इति । तच् च द्वितीयाधाय उभयम् अपि “अध्येष्यमाणस् त्व् आचान्तो” “निवेद्य गुरवे ऽश्नीयाद् आचामेद्” इत्य् उक्तं व्रताङ्गत्वार्थम्, इह तु शौचाङ्गतयोच्यते ॥ ५.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	When he has voided urine or faeces, let him, after sipping water, sprinkle the cavities, likewise when he is going to recite the Veda, and always before he takes food.
 </details>

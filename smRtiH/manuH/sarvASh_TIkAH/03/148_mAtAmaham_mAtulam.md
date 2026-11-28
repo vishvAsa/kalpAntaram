@@ -2,6 +2,11 @@
 title = "148 मातामहम् मातुलम्"
 +++
 
+<details><summary>Bühler</summary>
+
+148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One may feed the maternal grandfather, the maternal uncle, the sister’s son, father-in-law, the teacher, the daughter’s son, the son-in-law, a relative, the priest and him at whose sacrifices the performer officiates.—(148)
@@ -58,11 +63,6 @@ son,—these deserve to be offered the seat at the Śrāddha to the Pitṛs; the
 <details><summary>गोविन्दराजः</summary>
 
 **मातामहम्** इति । मातामहमातुलभागिनेयश्वशुरविद्यागुरुदौहित्रर्त्विग्याज्यान् **भोजयेत्** । विट् प्रजा तस्याः पतिं **विट्पतिं** जामातरं **बन्धुं **च सगोत्रादिकम् ॥ ३.१४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
 </details>
 
 <details><summary>भारुचिः</summary>

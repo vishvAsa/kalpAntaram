@@ -3,6 +3,11 @@ title = "230 भूमिदो भूमिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver of land obtains land, the giver of gold long life, the giver of house excellent mansions, and the giver of silver exquisite beauty.—(230)
@@ -43,9 +48,4 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 <details><summary>गोविन्दराजः</summary>
 
 **भूमिद** इति । **भूमिदो** भूम्याधिपत्यं च सुवर्णदो **दीर्घम् आयुः, गृहदः** श्रेष्ठानि गृहाणि, **रूप्यदः **उत्कृष्टं **रूपं** लभते ॥ ४.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),
 </details>

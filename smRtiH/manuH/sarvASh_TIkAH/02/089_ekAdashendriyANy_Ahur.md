@@ -2,6 +2,11 @@
 title = "089 एकादशेन्द्रियाण्य् आहुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those eleven organs which the ancient sages have named I shall now fully describe in due order.—(89)
@@ -67,11 +72,6 @@ engendered.
 <details><summary>गोविन्दराजः</summary>
 
 **एकादशेति **। यानि पूर्वे मन्वादयो विद्वांसः **इन्द्रियाण्य् **उक्तवन्तः **तानि यथावत् **कार्त्स्न्येन्**आनुपूर्वशः **कर्मेण **सम्यङ्** यथारूपं बुद्ध्यथ तथा **वक्ष्यामि **॥ २.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
 </details>
 
 <details><summary>भारुचिः</summary>

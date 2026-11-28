@@ -3,6 +3,11 @@ title = "235 ब्राह्मणस्य तपो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+236	(The pursuit of sacred) knowledge is the austerity of a Brahmana, protecting (the people) is the austerity of a Kshatriya, (the pursuit of) his daily business is the austerity of a Vaisya, and service the austerity of a Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘austerity’ for the Brāhmaṇa is ‘knowledge’; the ‘austerity’ for the Kṣatriya is ‘protecting’; the ‘austerity’ for the Vaiśya is ‘agriculture’; and the ‘austertty’ for the Śūdra is ‘service.’—(235)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तप्रकरणे ऽस्योपदेशाद् विज्ञायते दृष्टार्थेष्व् अपि नियमः शुद्धिहेतुः, किं पुनर् विहितप्रायश्चित्तानुष्ठानानाम् । तथा चोक्तं ज्ञानस्य शुद्धिहेतुत्वम्, "ज्ञानं तपो ऽग्निर् आहारः," "बुद्धिर् ज्ञानेन शुध्यति" इति च । तस्य चार्थप्राप्तस्यात्र विशुद्ध्यर्थ उपदेशो विज्ञेयः ॥ ११.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	(The pursuit of sacred) knowledge is the austerity of a Brahmana, protecting (the people) is the austerity of a Kshatriya, (the pursuit of) his daily business is the austerity of a Vaisya, and service the austerity of a Sudra.
 </details>

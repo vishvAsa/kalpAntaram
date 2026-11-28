@@ -2,6 +2,11 @@
 title = "147 बालया वा"
 +++
 
+<details><summary>Bühler</summary>
+
+147	By a girl, by a young woman, or even by an aged one, nothing must be done independently, even in her own house.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whether she be a child, or a young woman, or an aged woman, she should not do any act by herself, even in the house.—(145).
@@ -48,11 +53,6 @@ the woman).’
 <details><summary>गोविन्दराजः</summary>
 
 **बालयेति** । बालयौवनवार्ध्क्यावस्थयापि स्त्रिया सूक्ष्मम् अपि गृहकार्यं स्वेच्छया न किञ्चिद् अपि कर्तव्यम् ॥ ५.१४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	By a girl, by a young woman, or even by an aged one, nothing must be done independently, even in her own house.
 </details>
 
 <details><summary>भारुचिः</summary>

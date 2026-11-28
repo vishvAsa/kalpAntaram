@@ -3,6 +3,11 @@ title = "287 समैर् हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+287	But that man who behaves dishonestly to honest (customers) or cheats in his prices, shall be fined in the first or in the middlemost amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who treats equals as unequals in value should receive the punishment of the first or the middlemost amercement.—(287)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.286].
 <details><summary>भारुचिः</summary>
 
 अपरिच्छिन्नार्धानां द्रव्याणाम् अज्ञाततया कार्यवत्तां वावेद्क्ष्य क्रेतुर् यो ऽन्यथा विक्रीणीते भावदोषेण तस्य [वि]क्रेतुर् द्रव्यापेक्षया प्रथममध्यमौ कल्प्यौ । अथ वा क्रेतरि प्रथमः कार्यः विक्रेतुर् मध्यमः ॥ ९.२८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-287	But that man who behaves dishonestly to honest (customers) or cheats in his prices, shall be fined in the first or in the middlemost amercement.
 </details>

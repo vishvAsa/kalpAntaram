@@ -3,6 +3,11 @@ title = "126 जन्मज्येष्ठेन चाह्वानम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+126	And with respect to the Subrahmanya (texts) also it is recorded that the invocation (of Indra shall be made) by the first-born, of twins likewise, (conceived at one time) in the wombs (of their mothers) the seniority is declared (to depend) on (actual) birth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the Subrahmaṇyā text also, the invocation has been declared as to be done by the son who is eldest by birth. Between sons conceived as twins, seniority has been declared to be dependent upon birth.—(126)
@@ -75,9 +80,4 @@ See Comparative notes for [Verses 9.122-123].
 <details><summary>भारुचिः</summary>
 
 एककालनिषिक्तयोर् अपि सतोः । अत्र कश्चित् "सदृशस्त्री" वचनात् पूर्वविधिम् असदृशस्त्रीविषयं मन्यते । तद् अयुक्तम्, येन विषमसमीकरणम् अन्याय्यम् । "सदृशस्त्री"ग्रहणं चात्र विध्यन्तरसंबन्धेनोच्यमानं न पूर्वविधेर् असदृशस्त्रीविषयत्वं दर्शयितुं समर्थम् । यतश् च वक्ष्यति, "एतद् विधानं विज्ञेयं विभागस्यैकयोनिषु, बह्वीषु चैकजातानां न्नास्त्रीषु नोबोधत" इति । अतश् चेद् असमञ्जसं पौनरुक्त्याद् आपद्यते ॥ ९.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	And with respect to the Subrahmanya (texts) also it is recorded that the invocation (of Indra shall be made) by the first-born, of twins likewise, (conceived at one time) in the wombs (of their mothers) the seniority is declared (to depend) on (actual) birth.
 </details>

@@ -3,6 +3,11 @@ title = "224 पाणिभ्यान् तूपसङ्गृह्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking up with his hands the supply of food, he shall himself gently place it near the Brāhmaṇas, thinking of his Pitṛs (all the time).—(224)
@@ -60,9 +65,4 @@ meat, cakes, curds, butter, milk-pudding, mixed rice, and preparations of fruits
 <details><summary>गोविन्दराजः</summary>
 
 **पाणिभ्याम्** इति । अन्नपूर्णपात्रं कराभ्यां गृहीत्वा **पितृन् **स्मरन् विप्रसमीपे परिवेषणार्थं **शनैः** स्थापयेत् ॥ ३.२२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.
 </details>

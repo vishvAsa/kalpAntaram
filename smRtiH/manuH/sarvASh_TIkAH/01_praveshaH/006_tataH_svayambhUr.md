@@ -2,6 +2,11 @@
 title = "006 ततः स्वयम्भूर्"
 +++
 
+<details><summary>Bühler</summary>
+
+006	Then the divine Self-existent (Svayambhu, himself) indiscernible, (but) making (all) this, the great elements and the rest, discernible, appeared with irresistible (creative) power, dispelling the darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thereafter, the supreme being Hiraṇyagarbha, self-born, unmanifest and bringing into view this (universe), appeared,—dispelling darkness and having his (creative) power operating upon the Elemental Substances and other things.—(6)
@@ -65,11 +70,6 @@ The reader should refer to the latter portion of the *Bhāṣya* on verse 11, wh
 <details><summary>गोविन्दराजः</summary>
 
 **तत** इति पूर्वोक्तावस्थानन्तरम् । स्वेच्छाचिकीर्षितशरीरपरिग्रहः आत्मा, **अव्यक्तः **प्रत्यक्षाद्यगोचरः ध्यानैकगम्यत्वात् उत्पादयन् जगत् । **महाभूतानि** पृथिव्यादीनि **आदि**ग्रहणात् अन्यान्य् अपि महदादीनि तत्त्वानि । **वृत्तं **प्राप्तं **ओजः** सृष्टिसामर्थ्यं येनासौ प्रकाशो बभूव शरीरग्रहणं कृतवान् **तमोनुदः** प्रलयस्य ध्वंसकः ॥ १.६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-006	Then the divine Self-existent (Svayambhu, himself) indiscernible, (but) making (all) this, the great elements and the rest, discernible, appeared with irresistible (creative) power, dispelling the darkness.
 </details>
 
 <details><summary>भारुचिः</summary>

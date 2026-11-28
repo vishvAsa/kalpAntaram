@@ -3,6 +3,11 @@ title = "081 अध्यक्षान् विविधान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	For the various (branches of business) let him appoint intelligent supervisors; they shall inspect all (the acts) of those men who transact his business.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Here and there he shall appoint several proficient inspectors; they shall supervise all the acts of men working for him.—(81)
@@ -58,9 +63,4 @@ one officer without supervisors, according to the importance of the charge. For 
 <details><summary>भारुचिः</summary>
 
 सुवर्णकोष्ठागारप्ण्यकुप्यायुधतुलाशुल्कनौहस्त्यश्वरथपदात्य्**अध्यक्षा**दीन् **विविधान् विपश्चितः** स्थापयेत् । सर्व एते अमात्यगुणसंपद्युक्ता विज्ञेयाः ॥ ७.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	For the various (branches of business) let him appoint intelligent supervisors; they shall inspect all (the acts) of those men who transact his business.
 </details>

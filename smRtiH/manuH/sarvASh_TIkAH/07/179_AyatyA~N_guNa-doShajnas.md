@@ -3,6 +3,11 @@ title = "179 आयत्याङ् गुण-दोषज्ञस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+179	He who knows the good and the evil (which will result from his acts) in the future, is quick in forming resolutions for the present, and understands the consequences of past (actions), will not be conquered.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who is alive to the good and bad points in re gard to the future, is quick in his decisions relating to the present, and understands the consequences of his acts in the past, is never overpowered by his enemies.—(179)
@@ -50,9 +55,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 <details><summary>भारुचिः</summary>
 
 **आयत्यां** तावद् गुणदोषौ सर्वकार्येषु विज्ञेयौ; शेषावधृतिर् अनुष्ठानं च तस्य राजतन्त्रानुग्रहाय दोषपरिहारेणेति एवं च तत्शत्रुनिबर्हणं कवचम् इव सर्वकार्यानुगतं नित्यं विजिगीषुणा चिन्त्यम् ॥ ७.१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	He who knows the good and the evil (which will result from his acts) in the future, is quick in forming resolutions for the present, and understands the consequences of past (actions), will not be conquered.
 </details>

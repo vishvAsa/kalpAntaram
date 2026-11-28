@@ -2,6 +2,11 @@
 title = "152 मङ्गलार्थं स्वस्त्ययनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+152	For the sake of procuring good fortune to (brides), the recitation of benedictory texts (svastyayana), and the sacrifice to the Lord of creatures (Pragapati) are used at weddings; (but) the betrothal (by the father or guardian) is the cause of (the husband's) dominion (over his wife).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At their wedding, the sacrifice to Prajāpati, which is the means of securing welfare, is performed for the purpose of procuring good fortune; it is the giving away that is the source of ownership.—(150).
@@ -56,11 +61,6 @@ It is quoted in *Smṛtitattva*, (p. 130) which adds the following notes:—‘*
 <details><summary>गोविन्दराजः</summary>
 
 **मङ्गलार्थम्** इति । यद् **आसां स्वस्त्ययनं** शान्त्यादिमन्त्रवाचनं हि प्रजापतियागश् च विवाहेषु क्रियते तन् मङ्गलार्थम् अभीष्टार्थं सम्पत्त्यर्थं न तु भर्तुः स्वत्वापादनार्थं यस्मात् प्राग् विवाहात् यद् वाग्दानं तद् भर्तुः स्वाम्यजनकं एवं च वाग्दानतः प्रभृत्य् आसां भर्तृपारतन्त्र्यं न विवाहात् ॥ ५.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	For the sake of procuring good fortune to (brides), the recitation of benedictory texts (svastyayana), and the sacrifice to the Lord of creatures (Pragapati) are used at weddings; (but) the betrothal (by the father or guardian) is the cause of (the husband's) dominion (over his wife).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "171 पैतृस्वसेयीम् भगिनीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+172	He who has approached the daughter of his father's sister, (who is almost equal to) a sister, (the daughter) of his mother's sister, or of his mother's full brother, shall perform a lunar penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On having had intercourse with one’s sister born of his father’s sister, or of his mother’s sister, or of his mother’s full brother,—one should perform the Cāndrāyaṇa.—(171)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 11.170].
 <details><summary>गोविन्दराजः</summary>
 
 **पितृष्वस्रेयीम्** इति । पितृष्वसृमातृश्वसृदुहितरं मातुः स्वभ्रातुः सोदरस्य दुहितरं गत्वा चान्द्रायणं चरेत् ॥ ११.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-172	He who has approached the daughter of his father's sister, (who is almost equal to) a sister, (the daughter) of his mother's sister, or of his mother's full brother, shall perform a lunar penance.
 </details>

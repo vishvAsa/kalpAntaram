@@ -2,6 +2,11 @@
 title = "151 दूराद् आवसथान्"
 +++
 
+<details><summary>Bühler</summary>
+
+151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Far from the dwelling-place shall he perform urination, far off he shall perform feet-washing, and far away he shall do the throwing of the leavings of food.—(151)
@@ -58,11 +63,6 @@ second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’
 <details><summary>गोविन्दराजः</summary>
 
 **दूराद्** इति । “क्षिप्रं गत्वा क्षेपमात्रं शरस्य” इति पुराणस्मरणद् एवंविधात् गृहस्य दूरात् मूत्रपुरीषपादधावनोदकोच्छिष्टपरिषेकोदकाद्य् उत्सृजेत् ॥ ४.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
 </details>
 
 <details><summary>भारुचिः</summary>

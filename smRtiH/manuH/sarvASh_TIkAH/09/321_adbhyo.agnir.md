@@ -3,6 +3,11 @@ title = "321 अद्भ्यो ऽग्निर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+321	Fire sprang from water, Kshatriyas from Brahmanas, iron from stone; the all-penetrating force of those (three) has no effect on that whence they were produced.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Fire sprang from water, the Kṣatriya from the Brāhmaṇa, and iron from stone; the all-penetrating force of each of these becomes extinguished in its source.—(321)
@@ -41,9 +46,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 152).
 **
 
 See Comparative notes for [Verse 9.313].
-</details>
-
-<details><summary>Bühler</summary>
-
-321	Fire sprang from water, Kshatriyas from Brahmanas, iron from stone; the all-penetrating force of those (three) has no effect on that whence they were produced.
 </details>

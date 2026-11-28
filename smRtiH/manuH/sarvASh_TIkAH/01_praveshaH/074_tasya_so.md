@@ -2,6 +2,11 @@
 title = "074 तस्य सो"
 +++
 
+<details><summary>Bühler</summary>
+
+074	At the end of that day and night he who was asleep, awakes and, after awaking, creates mind, which is both real and unreal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the end of the said ‘Day and Night,’ Brahmā, who was asleep, wakes up, and ha vino woken up, he creates mind, which partakes op the nature op the existent and the non-existent.—(74)
@@ -57,11 +62,6 @@ Of the second half of the verse, two explanations have been mentioned by Medhāt
 <details><summary>गोविन्दराजः</summary>
 
 **तस्येति** । **स** ब्रह्मा **तस्या**होरात्रस्यान्ते **सुप्तः **सन् **प्रतिबुध्यते** । ततो मन आत्मीयं सृजति । लोकपिण्डसृष्ट्यर्थं नियुङ्क्ते । न तूत्पदयति । अस्मिन् अन्तरालप्रलयापगमे, तस्य महाप्रलयान्तरम् उत्पन्नत्वात् । तथा च “मनः सिसृक्षया युक्तः सर्गाय निदधे पुनः” इति पुराणे उक्तम् ॥ १.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	At the end of that day and night he who was asleep, awakes and, after awaking, creates mind, which is both real and unreal.
 </details>
 
 <details><summary>भारुचिः</summary>

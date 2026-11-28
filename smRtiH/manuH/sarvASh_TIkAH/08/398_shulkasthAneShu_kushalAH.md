@@ -3,6 +3,11 @@ title = "398 शुल्कस्थानेषु कुशलाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+398	Let the king take one-twentieth of that (amount) which men, well acquainted with the settlement of tolls and duties (and) skilful in (estimating the value of) all kinds of merchandise, may fix as the value for each saleable commodity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall take one-twentieth of the price of saleable commodities, that may be fixed by men who have experience of custom-houses and are experts in all kinds of merchandise.—(398)
@@ -107,9 +112,4 @@ in the country itself, the King shall levy a duty in the shape of the tenth part
 <details><summary>भारुचिः</summary>
 
 द्रव्यस्यागमनिर्गमे देशकालापेक्षया अर्घनिपातेन विंशभागः शुल्कः ॥ ८.३९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-398	Let the king take one-twentieth of that (amount) which men, well acquainted with the settlement of tolls and duties (and) skilful in (estimating the value of) all kinds of merchandise, may fix as the value for each saleable commodity.
 </details>

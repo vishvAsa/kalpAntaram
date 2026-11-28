@@ -2,6 +2,11 @@
 title = "277 युक्षु कुर्वन्"
 +++
 
+<details><summary>Bühler</summary>
+
+277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Performing (the śrāddha) on the even dates and under the even asterisms, one obtains all desires; and honouring the Pitṛs on the odd ones, he obtains prosperous offspring.—(277)
@@ -59,11 +64,6 @@ suitable substances, place and Brāhmaṇas.’
 <details><summary>गोविन्दराजः</summary>
 
 **युक्ष्व्** इति । युग्मासु तिथिषु द्वितीयाचतुर्थ्यादिषु युग्मेषु नक्षत्रेषु अश्विनीकृत्तिकादिषु श्राद्धेषु **पितॄन्** पूजयन् श्रुतधनादि**परिपुष्टां** सन्ततिं **प्राप्नोति** ॥ ३.२७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
 </details>
 
 <details><summary>भारुचिः</summary>

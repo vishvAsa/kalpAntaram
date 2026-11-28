@@ -2,6 +2,11 @@
 title = "109 आचार्यपुत्रः शुश्रूषुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s son, one who is eager to do service, one who imparts knowledge, one who is righteous, one who is clean, a near relative, one who is competent, one who gives monet, one who is gentle, and one’s own (son)—these ten should be taught for the sake of merit.—(109)
@@ -91,11 +96,6 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्यपुत्र** इति । **आचार्यपुत्रः **परिचर्यापरः विद्याप्रदः धर्मानुष्ठानशीलः मृद्वार्यादिशौचयुक्तः बन्धुः ग्रहणधारणसमर्थः पणपूर्वम् अप्य् अर्थदाता आर्जवोपेतः आत्मना उपनीतः एते **दश **धर्मार्थम् **अध्याप्याः** । **अर्थदः शुश्रूषुः **“ज्ञानाद् अध्यापनाद् अपि धर्मो ऽस्ति नियमादृष्टरूपेण” इति वचनात् ॥ २.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
 </details>
 
 <details><summary>भारुचिः</summary>

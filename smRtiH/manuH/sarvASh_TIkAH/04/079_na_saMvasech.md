@@ -3,6 +3,11 @@ title = "079 न संवसेच्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not associate with outcasts, nor with Cāṇḍālas, nor with Pulkasas; nor with the illiterate; nor with the haughty; nor with Antyas; nor with Antyāvasāyins.—(79)
@@ -80,9 +85,4 @@ extending from five to twenty years—for him the expiation has been prescribed 
 <details><summary>गोविन्दराजः</summary>
 
 **न संवशेद्** इति । पतितचाण्डालपुल्कसाल्पबुद्धिगर्हितान्त्यावसायिभिः ग्रामन्तरनिवासिभिर् अपि कार्त्यार्थम् एकप्रदेशे मुहूर्तम् अपि नासीतेति । “नाधर्मिके वसेद् ग्रामे” इत्यादिभ्यो भेदः । पतितादयश् च दशमैकादशाध्याये वक्ष्यन्ते ॥ ४.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.
 </details>

@@ -2,6 +2,11 @@
 title = "207 अवकाशेषु चोक्षेषु"
 +++
 
+<details><summary>Bühler</summary>
+
+207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Pitṛs are always pleased with what is offered in clean places, on water-banks and in secluded places.—(207)
@@ -55,11 +60,6 @@ buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near 
 <details><summary>गोविन्दराजः</summary>
 
 **अवकाशेष्व्** इति । स्वभावशुचिषु स्थानेषु नद्यादिपुलिनेषु च निर्जनेषु प्रदेशेषु **दत्तेन** श्राद्धादिना **पितरः** सर्वदा तुष्यन्ति तस्मिंश् च देशे ॥ ३.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "105 ज्ञानन् तपो"
 +++
 
+<details><summary>Bühler</summary>
+
+105	The knowledge (of Brahman) austerities, fire, (holy) food, earth, (restraint of) the internal organ, water, smearing (with cowdung), the wind, sacred rites, the sun, and time are the purifiers of corporeal (beings).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Wisdom, austerity, fire, food, clay, mind, water, smearing, wind, action, the sun and time are means of purification for corporeal beings.—(104).
@@ -74,11 +79,6 @@ Do. (3.30-33).—‘Time, fire, acts, clay, wind, mind, knowledge, austerity, wa
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं कानिचिद् वाक्यान्तरसिद्धानि शुद्धिसाधनानि सङ्क्षेपावबोधाय प्रसङ्गतो ऽनुवदितुं कानिचिच् च प्रसङ्गतो ऽंशपूर्वानि विधातुम् आह **जानम् **इति । ज्ञानं बुद्धेः शुद्धिर्तर्तृ, यथा वक्ष्यति “बुद्धिर् ज्ञानेन शुध्यति” इति । सङ्कल्पकं मनो निश्चायिका बुद्धिर् इति । बुद्धिर् मनसो भेदः । एवं तपो वेदविदां यथाभिधास्यति “तपसा वेदवित्तमाः” इत्य् अग्निर् यथा वदिष्यति “पुनःपाकेन मृन्मयम्” इत्य् आहार्तो यथा कथयिष्यति “हविष्येन यवाग्वा वा” इति मृवारिणी यथा जल्पिष्यति “मृद्वाति चादेयम् अर्थवद्” इति । मनो यथा ख्यास्यति “मनःपूतं सदा भवेद्” इति । उपाञ्जनम् उपलेपनं यथा भणिष्यति “सम्माऋजनेनाञ्जनेन” इति । वायोर् इह शास्त्रे शोध्यं न निर्दिष्टं तस्य मृत्पर्णतृणकाष्टानां च चाण्डालादिवायसैः स्पर्शने शौचम् “सोमसूर्यांसुमारुतैः” इत्य् एवमादिविप्लाव्याद्युक्तं कर्म यथा कीर्तयिष्यति “यजेत वाश्वमेधेन” इत्यदित्यौ यथोक्तं “गाम् आलभ्यार्कं वीक्ष्य वा” इति कालो यथोक्तम् “शुध्येद् विप्रो दशाहेन” इत्य् एवं ज्ञानादीनि मनुष्याणां साक्षाद् उपयोग्यद्रव्यद्वारेण च शुद्धेः कर्तॄणि ॥ ५.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	The knowledge (of Brahman) austerities, fire, (holy) food, earth, (restraint of) the internal organ, water, smearing (with cowdung), the wind, sacred rites, the sun, and time are the purifiers of corporeal (beings).
 </details>
 
 <details><summary>भारुचिः</summary>

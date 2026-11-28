@@ -3,6 +3,11 @@ title = "201 जित्वा सम्पूजयेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+201	When he has gained victory, let him duly worship the gods and honour righteous Brahmanas, let him grant exemptions, and let him cause promises of safety to be proclaimed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having gained victory, he shall worship the gods and the righteous Brāhmaṇas, grant remissions and proclaim amnesties.—(201).
@@ -78,9 +83,4 @@ the king should grant maintenances for the conquered king himself; half of it to
 <details><summary>गोविन्दराजः</summary>
 
 **जित्वेति** । परराष्ट्रं जित्वा तत्रत्यान् देवान् धर्मप्रधानान् ब्राह्मणांश् च दानमानादिभिः पूजयेत् । तथा श्रोत्रियादिगतावश्यदानेषु मयैतद् अनुज्ञातम् इत्य् एवं परिहारान् दद्यात् तथा स्वामिभक्त्यास्माकं यैर् अपकृतं तेषां मया क्षान्तम् इदानीम् आश्वस्ताः सन्तः स्वव्यापारम् अनुतिष्ठन्त्व् एवम् अभयानि ख्यापयेत् ॥ ७.२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	When he has gained victory, let him duly worship the gods and honour righteous Brahmanas, let him grant exemptions, and let him cause promises of safety to be proclaimed.
 </details>

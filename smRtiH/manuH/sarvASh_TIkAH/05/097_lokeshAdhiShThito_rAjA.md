@@ -2,6 +2,11 @@
 title = "097 लोकेशाधिष्ठितो राजा"
 +++
 
+<details><summary>Bühler</summary>
+
+097	Because the king is pervaded by those lords of the world, no impurity is ordained for him; for purity and impurity of mortals is caused and removed by (those) lords of the world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King is possessed by the Lords of the World; no im purity, therefore, has been ordained for him; for the purity and impurity affect mortals and have their origin and end in the worldly regions.—(96).
@@ -39,11 +44,6 @@ Buhler wrongly attributes to Medhātithi the reading
 <details><summary>गोविन्दराजः</summary>
 
 **लोकेशाधिष्ठित** इति । एवमुक्तनीत्या यतो लोकेश्वराक्रान्तो राजानो ऽन्यस्याशौचं विधीयते स्वकार्यम् उपदिश्यते । यस्मान् मनुष्याणां यच् छौचम् आशौचं तल् लोकेशेभ्यः प्रभवत्य् अपैति च । तस्माद् अन्यशौचाशौचोत्पादनोपासनसमर्थलोकेशरूपस्य राज्ञः कुत एवात्मनो ऽशौचम् इति प्रकृतार्थस्तुतिः ॥ ५.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	Because the king is pervaded by those lords of the world, no impurity is ordained for him; for purity and impurity of mortals is caused and removed by (those) lords of the world.
 </details>
 
 <details><summary>भारुचिः</summary>

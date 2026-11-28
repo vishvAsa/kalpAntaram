@@ -3,6 +3,11 @@ title = "109 चतुर्थकालम् अश्नीयाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+110	During the two (following) months he shall eat a small (quantity of food) without any factitious salt at every fourth meal-time, and shall bathe in the urine of cows, keeping his organs under control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For two months, with senses controlled, he shall eat a limited quantity of food, without any pungent salt, at the fourth meal-time; and shall bathe in cow’s urine.—(109)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 11.108].
 **उपपातकसंयुक्त** इति । **चतुर्थकालम्** इति । **दिवेति **। **तिष्ठन्तीष्व्** इति । **आतुअराम्** इति । **उष्ण** इति । **आत्मन** इति । **अनेनेति** । 
 
 गोघाती उपपातकवान् स मासं यावत् सक्तुयवागुरूपेण यवान् पिबेत् । अन्यन् मासद्वयं गुडादिक्षारवर्जितलवणम् अन्नम् एकम् अहर् अहर् भुक्त्वा द्वितीये ऽह्नि सायं स्तोकम् अश्नीयात् । तेनैव च गोचर्मणाच्छादितो मुण्डितकेशादिगोमूत्रेण स्नानं कुर्वन् संयतेन्द्रियो मासत्रयम् अपि गोनिवासे वसेत् । यासां गवां गोष्ठे वसेत् तासां दिवा गोष्ठादूरादिगच्छन्तीनां पश्चाद् गच्छेद् तासां चानुगमनं कुर्वन् स्थितः सम्मूर्च्छनैर् ऊर्ध्वम् ऊर्ध्वम् उद्भूतं रज आस्वदयेत् ताभिर् एव सह पुनर् गोष्ठम् एत्य कण्डुयनादिना ताः परिचर्य प्रणम्य च ततो रात्राव् अनिषिद्धोपविष्ट आसीत । तथा व्याधुयेतां चौरव्याघ्रादिभिर् भयहेतुभिर् आक्रान्तां श्वभ्रादिपतितां कर्दमावसक्तां परया शक्त्या मोचयेत् । तथोष्णे आदित्ये तपति वर्षति मघे वाति वायौ शीतैर् अत्यर्थं वाति गोर् यथाशक्ति रक्षाम् कृत्वात्मनस् त्राणं कुर्यात् तथात्मनो ऽन्येषां वा गृहे क्षेत्रे खले च सस्यादि भक्षयन्तीं गां वत्सां च क्षीरं पिबन्तं न ब्रूयात् । अनेनोक्तविधानेन यो गोघ्नो गाम् अनुसरति स गोवधचरितं पापं त्रिभिर् मासैर् अपनुदेत् ॥ ११.१०७–११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-110	During the two (following) months he shall eat a small (quantity of food) without any factitious salt at every fourth meal-time, and shall bathe in the urine of cows, keeping his organs under control.
 </details>

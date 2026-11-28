@@ -3,6 +3,11 @@ title = "281 सहासनम् अभिप्रेप्सुर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+281	A low-caste man who tries to place himself on the same seat with a man of a high caste, shall be branded on his hip and be banished, or (the king) shall cause his buttock to be gashed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a low-born person tries to occupy the same seat with his superior, he should be branded on the hip and banished; or the king shall have his buttocks cut off.—(281)
@@ -80,9 +85,4 @@ same seat with his superior in caste, shall be branded on his hip and banished; 
 <details><summary>गोविन्दराजः</summary>
 
 **सहासनम्** इति । ब्राह्मणेन सहैकस्मिन्न् आसने निकृष्टजन्मा शूद्र उपविशन् कट्यां कृततप्तायःस्थिरचिह्नो देशान् निर्वासनीयः । स्फिजाख्यं वा श्रोष्यधोकर्तनं कुर्यात् ॥ ८.२८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-281	A low-caste man who tries to place himself on the same seat with a man of a high caste, shall be branded on his hip and be banished, or (the king) shall cause his buttock to be gashed.
 </details>

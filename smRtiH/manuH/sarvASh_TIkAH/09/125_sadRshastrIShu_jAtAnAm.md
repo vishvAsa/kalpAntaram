@@ -3,6 +3,11 @@ title = "125 सदृशस्त्रीषु जातानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+125	Between sons born of wives equal (in caste) (and) without (any other) distinction no seniority in right of the mother exists; seniority is declared (to be) according to birth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among sons born of equal wives,—if there is no other distinction,—there is no seniority on account of their mothers; seniority is declared to be by birth only.—(125)
@@ -55,9 +60,4 @@ See Comparative notes for [Verses 9.122-123].
 <details><summary>भारुचिः</summary>
 
 अस्यार्थवादः-
-</details>
-
-<details><summary>Bühler</summary>
-
-125	Between sons born of wives equal (in caste) (and) without (any other) distinction no seniority in right of the mother exists; seniority is declared (to be) according to birth.
 </details>

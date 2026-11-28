@@ -3,6 +3,11 @@ title = "150 अज्ञानात् प्राश्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+151	(Men of) the three twice-born castes who have unintentionally swallowed ordure or urine, or anything that has touched Sura, must be initiated again.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The three twice-born castes, who have unwittingly swallowed ordure or urine, or anything that has been in contact with wine, are liable to re-initiation.—(150)
@@ -76,9 +81,4 @@ Do. (12.1).—‘The Brāhmaṇa who has eaten defiled food, or semen or beef or
 <details><summary>भारुचिः</summary>
 
 सुरासंस्पृष्टं चसति रसग्रहणे विज्ञेयम् । एतस्मिन् व्यभिचारे पुनः संस्कारः द्विजातीनां स्मृत्यन्तरसामर्थ्याच् च सतप्तकृच्छ्रः । तथा च गौतमीयम् अत्रोपसंहरणीयम् (?)- "मूत्रपुरीषरेतसां च प्राशने" (ग्ध् २३.३) इति एतत् । एवं च सति तप्तकृच्छ्रपुनःसंस्कारौ समुच्चितौ प्रायश्चित्तम्, न पुनः संस्कारमात्रम् । अत्यन्तलघुत्वाद्, इहापि च "मत्या भुक्त्वाचरेत् कृच्छ्रं रेतो विण्मूत्रम् एव च" इत्य् उक्तम् अभोज्यप्रकरणे । अत ब्रूयात् तत्र मतिपान उक्तो मूत्रादीनां कृच्छ्रः, इह त्व् अमत्येति । सत्यम् एतत्, कल्पान्तरत्वात् तु सप्रत्ययाप्रत्ययव्यतिक्रमयोर् अविरोध इति । पुनःसंस्कारगर्हणाच् च सर्वस्मिंस् तद्धर्मे प्राप्त इदं नियमार्थम् आरभ्यते ॥ ११.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	(Men of) the three twice-born castes who have unintentionally swallowed ordure or urine, or anything that has touched Sura, must be initiated again.
 </details>

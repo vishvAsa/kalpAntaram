@@ -3,6 +3,11 @@ title = "192 स्यन्दनाश्वैः समे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+192	On even ground let him fight with chariots and horses, in water-bound places with boats and elephants, on (ground) covered with trees and shrubs with bows, on hilly ground with swords, targets, (and other) weapons.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On even ground he shall fight with chariots and horses; on marshy ground with boats and elephants; on ground covered with trees and thickets with bows; and on firm ground with swords and shields and other weapons.—(192)
@@ -56,9 +61,4 @@ they should he flanked by chariot-warriors; these last again should bo flanked b
 <details><summary>भारुचिः</summary>
 
 सामर्थ्यदर्शनार्थो ऽयम् उपदेशः ॥ ७.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	On even ground let him fight with chariots and horses, in water-bound places with boats and elephants, on (ground) covered with trees and shrubs with bows, on hilly ground with swords, targets, (and other) weapons.
 </details>

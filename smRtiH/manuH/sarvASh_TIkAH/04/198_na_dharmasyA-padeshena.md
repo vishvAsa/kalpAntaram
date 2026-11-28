@@ -2,6 +2,11 @@
 title = "198 न धर्मस्याऽपदेशेन"
 +++
 
+<details><summary>Bühler</summary>
+
+198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having committed a sin, he shall not perform penance un der the pretext of doing a righteous act,—deceiving women and Śūdras by thus covering his sin by a penance.—(198)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 4.195].
 <details><summary>गोविन्दराजः</summary>
 
 **न धर्मस्येति** । **पापं कृत्वा **धर्मार्थव्रतख्यापनव्याजेन धार्मिको ऽयम् इति शूद्रादिमूर्खलोकमोहनं कुर्वन् तेन धर्मव्रतव्याजेन **पापम्** अवच्छाद्य प्रायश्चित्तं न कुर्यात् ॥ ४.१९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
 </details>
 
 <details><summary>भारुचिः</summary>

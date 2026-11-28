@@ -2,6 +2,11 @@
 title = "040 रूप-सत्त्व-गुणोपेता धनवन्तो"
 +++
 
+<details><summary>Bühler</summary>
+
+040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Endowed with beauty and the quality of goodness, possessing wealth, and fame, with full enjoyment and righteous, they live for a hundred years.—(40)
@@ -53,11 +58,6 @@ See Comparative notes for [Verse 3.39].
 <details><summary>कुल्लूकः</summary>
 
 रूपं मनोहराऽऽकृतिः, सत्त्वं द्वादशाध्याये वक्ष्यमाणं, गुणा दयादयः, तैर्युक्ता धनितः ख्यातिमन्तो यथेप्सितवस्त्रस्त्रग्गन्धलेपनादिभोगशालिनो धार्मिकाश्च पुत्रा जायन्त इति पूर्वमनुवर्तते । शतं च वर्षाणि जीवन्ति ॥४०॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Endowded with the qualities of beauty and goodness, possessing wealth and fame, obtaining as many enjoyments as they desire and being most righteous, they will live a hundred years.
 </details>
 
 <details><summary>भारुचिः</summary>

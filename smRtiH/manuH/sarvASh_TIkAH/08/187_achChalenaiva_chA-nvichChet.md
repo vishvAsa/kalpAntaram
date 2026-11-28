@@ -3,6 +3,11 @@ title = "187 अच्छलेनैव चाऽन्विच्छेत्
 
 +++
 
+<details><summary>Bühler</summary>
+
+187	And (in doubtful cases) he should try to obtain that object by friendly means, without (having recourse to) artifice, or having inquired into (depositary's) conduct, he should settle (the matter) with gentle means.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In doubtful cases he should try to obtain it without artifice and in a friendly manner; or having ascertained his character, he should settle the matter by gentle means.—(187)
@@ -51,9 +56,4 @@ amicably, without resorting to stratagems. Or, he shall explore the depositary�
 <details><summary>भारुचिः</summary>
 
 अविदितं स्वयं प्रयच्छतो यदि तद्गतः कश्चित् कर्णेजपात् संशयः स्यात्, तत **अच्छलेनैव** तस्य **वृत्तिं विचार्य**, तदधिगमो विज्ञेयः, निक्षेपधारिणा प्रज्ञाय ॥ ८.१८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	And (in doubtful cases) he should try to obtain that object by friendly means, without (having recourse to) artifice, or having inquired into (depositary's) conduct, he should settle (the matter) with gentle means.
 </details>

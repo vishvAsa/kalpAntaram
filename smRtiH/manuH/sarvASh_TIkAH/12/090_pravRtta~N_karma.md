@@ -3,6 +3,11 @@ title = "090 प्रवृत्तङ् कर्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	He who sedulously performs acts leading to future births (pravritta) becomes equal to the gods; but he who is intent on the performance of those causing the cessation (of existence, nivritta) indeed, passes beyond (the reach of) the five elements.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who devotes himself to the ‘active’ side, attains equality to the gods; while he who devotes himself to the ‘passive’ section, passes beyond the five material substances.—(90)
@@ -200,9 +205,4 @@ This verse is quoted in *Aparārka* (p. 1033).
 <details><summary>भारुचिः</summary>
 
 वायुशरीर आकाशशरीरो वा सूक्ष्मो भवति । तथा चोक्तम्- "तद् ब्रह्मपरम् अभ्येति वायुभूतः स्वसूर्तिमान्" ॥ अथ वा मोक्षम् अन्येनोपायेनेमं शास्ति पञ्चभूतात्ययशब्देन । इदानीं ध्यानस्य ज्ञानस्य वा स्तुत्य् अर्थम् इदम् आरभ्यते ।
-</details>
-
-<details><summary>Bühler</summary>
-
-090	He who sedulously performs acts leading to future births (pravritta) becomes equal to the gods; but he who is intent on the performance of those causing the cessation (of existence, nivritta) indeed, passes beyond (the reach of) the five elements.
 </details>

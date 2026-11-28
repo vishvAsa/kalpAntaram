@@ -3,6 +3,11 @@ title = "082 ध्यानिकं सर्वम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+082	All that has been declared (above) depends on meditation; for he who is not proficient in the knowledge of that which refers to the Soul reaps not the full reward of the performance of rites.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All this that has been declared here is appurtenant to Meditation; he who does not realise and cultivate the said mental attitude does not obtain the reward of the acts.—(82)
@@ -74,9 +79,4 @@ Buhler has misunderstood Kullūka, who does not explain ‘*adhiyajñam*’ as �
 > **न ह्य् अनध्यात्मवित् कश्चित् क्रियाफलम् उपाश्नुते  ॥ ६.८२ ॥**
 
 आत्मनि तद् इत्य् अध्यात्मं बुद्ध्यादि तद् वेत्तीत्य् **अध्यात्मविच्** च । पुनर् यथाविषयं व्याकरणीयम् । अस्य निदर्शनार्थम् इदं रहस्यब्राह्मणं भवति "यो वा एतद् अक्षरं गार्ग्य् अविदित्वा ऽस्मिंल् लोके जुहोति यजते तपस् तप्यते बहूनि वर्षसहस्राण्य् अन्तवद् एवास्य तद् भवति" इति श्रुतेः । तथा च समुच्चये प्रशस्यते- "तद् य इत्तम् एतद् विदुर् ये चेमे ऽरण्ये श्रद्धा तप इत्य् उपासते, ते ऽर्चिषम् अभिसंभवन्ति" इत्य् एवमादिः । अधुना षडङ्गवेदाध्ययनोपदेशात् पूर्वत्र ब्रह्मचारिप्रकरणे नियमार्थं प्रव्रजितस्येदम् आरभ्यते, विशेषार्थं वा ॥ ६.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	All that has been declared (above) depends on meditation; for he who is not proficient in the knowledge of that which refers to the Soul reaps not the full reward of the performance of rites.
 </details>

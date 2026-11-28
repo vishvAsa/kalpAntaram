@@ -2,6 +2,11 @@
 title = "152 मैत्रम् प्रसाधनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the forenoon, he shall perform the evacuation of bow els, toilette, bath, cleaning of the teeth, dying of the eyes, and the worship of the gods.—(152)
@@ -63,11 +68,6 @@ Do. (Do., 161.25).—(Same as Manu.)
 <details><summary>गोविन्दराजः</summary>
 
 **मैत्रम्** इति । **मैत्रं** पायुर् इति पश्वङ्गसंस्तवे पायौ मित्रदेवताकथनश्रवणाद् इहाप्य् अभेदोपचारेण **मैत्रः **पायुः । तत्र भवः उत्सर्गे सति शौचं तथानुलेपनादिशरीरसंस्कारनित्यस्नानदन्तधावनाञ्जनदेवार्चनानि **पूर्वाह्ण एव कुर्वीत **॥ ४.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
 </details>
 
 <details><summary>भारुचिः</summary>

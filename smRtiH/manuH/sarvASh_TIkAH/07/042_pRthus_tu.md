@@ -3,6 +3,11 @@ title = "042 पृथुस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	But by humility Prithu and Manu gained sovereignty, Kubera the position of the Lord of wealth, and the son of Gadhi the rank of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But through discipline Pṛthu and Manu obtained kingdoms, Kubera obtained the lordship of wealth and the son of Gādhi attained Brāhmaṇahood.—(42)
@@ -60,9 +65,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 120).
 <details><summary>भारुचिः</summary>
 
 त्रिभिः शॢओकैर् विनयस्य प्रत्यक्षफलतां वेनादिदृष्टान्तैर् दर्शयति विनयाधानप्ररोचनाय ॥ ७.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	But by humility Prithu and Manu gained sovereignty, Kubera the position of the Lord of wealth, and the son of Gadhi the rank of a Brahmana.
 </details>

@@ -3,6 +3,11 @@ title = "071 बाल-वृद्धातुराणाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	But the (judge) should consider the evidence of infants, aged and diseased men, who (are apt to) speak untruly, as untrustworthy, likewise that of men with disordered minds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the event of minors, aged and diseased persons deposing falsely in their evidence, the Judge should make up his mind regarding the speech being irregular; so also in the case of men with disordered minds.—(71)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 8.70].
 <details><summary>भारुचिः</summary>
 
 केन । सत्यानृतवचनविभागार्थेनानुमानेन, उक्तं च "बाह्यैर् विभावयेल् लिङ्गैः" इत्यादि, "यथा नयत्य् असृक्पातैः" इति च । एवं चानुमानोपदेश इदमर्थो भवति । यदि यथोक्तानां साक्षिणाम् असंभवे साहसादिषु प्रतिषिद्धा अपि साक्षिणो भवन्त्य् अनुमानेन विशोध्यन्ते, अप्रतिषिद्धाश् च कदाचित् । एवं च सति —
-</details>
-
-<details><summary>Bühler</summary>
-
-071	But the (judge) should consider the evidence of infants, aged and diseased men, who (are apt to) speak untruly, as untrustworthy, likewise that of men with disordered minds.
 </details>

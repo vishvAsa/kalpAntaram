@@ -3,6 +3,11 @@ title = "061 द्वितीयम् एके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+061	Some (sages), versed in the law, considering the purpose of the appointment not to have been attained by those two (on the birth of the first), think that a second (son) may be lawfully procreated on (such) women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some people, learned in the subject, admit, on the basis of propriety, of a second procreation on women,—perceiving, as they do, that the couple’s purpose of authorisation’ is not (otherwise) accomplished.—(61)
@@ -100,9 +105,4 @@ See Comparative notes for [Verse 9.60].
 <details><summary>भारुचिः</summary>
 
 अनयोः स्मृत्योर् द्वितीयपुत्रजननस्मृतिर् ज्यायसी, सन्तानानुग्रहात् । कारणम् अत्र गृह्यत इति चेद् उभयत्र कारणग्रहणाद् अप्रवृत्तिर् एवं सति स्यात् ॥ ९.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	Some (sages), versed in the law, considering the purpose of the appointment not to have been attained by those two (on the birth of the first), think that a second (son) may be lawfully procreated on (such) women.
 </details>

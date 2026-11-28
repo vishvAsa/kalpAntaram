@@ -3,6 +3,11 @@ title = "048 इह दुश्चरितैः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Some wicked men suffer a change of their (natural) appearance in consequence of crimes committed in this life, and some in consequence of those committed in a former (existence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Evil-minded men suffer disfigurement,—some from evil deeds committed during the present life and others from those committed in former lives.—(48)
@@ -74,9 +79,4 @@ wine-drinker has black teeth, the gold stealer has deformed nails; the violator 
 <details><summary>भारुचिः</summary>
 
 एवं च œऊर्वकृताद् एव कर्मणो ऽभ्युदयप्रत्यव्याव् इति यत् सांख्यैर् उच्यते तद् अवसन्नम् । सो ऽयम् अधुनाकुशलकर्मनिमित्तो रूपविपर्ययप्रपञ्चो ऽनुक्रम्यते प्रायश्चित्तानुष्ठानशेषतया ॥ ११.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Some wicked men suffer a change of their (natural) appearance in consequence of crimes committed in this life, and some in consequence of those committed in a former (existence).
 </details>

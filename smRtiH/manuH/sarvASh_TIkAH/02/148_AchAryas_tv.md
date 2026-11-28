@@ -2,6 +2,11 @@
 title = "148 आचार्यस् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the “birth” which the Preceptor, well-versed in the Veda, brings about for him, in the lawful manner, by means of the Sāvitrī,—that is real, imperishable, immortal.—(148)
@@ -43,11 +48,6 @@ gives him birth in knowledge.’
 <details><summary>कुल्लूकः</summary>
 
 आचार्यःपुनर्वेदज्ञोऽस्य माणवकस्य यां जाति यज्जन्म विधिवत्सावित्र्येति साङ्गोपनयनपूर्व कसावित्र्यनुवचनेनोत्पादयति, सा जातिःसत्या अजराऽमरा च, ब्रह्मप्राप्तिफलत्वात् । उपनयनपूर्वकस्य वेदाध्ययनतदर्थज्ञानानुष्ठानैनिष्कामस्य मोक्षलाभात् ॥१४८॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	But that birth which a teacher acquainted with the whole Veda, in accordance with the law, procures for him through the Savitri, is real, exempt from age and death.
 </details>
 
 <details><summary>भारुचिः</summary>

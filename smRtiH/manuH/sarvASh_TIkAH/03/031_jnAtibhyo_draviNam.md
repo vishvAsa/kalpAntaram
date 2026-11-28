@@ -3,6 +3,11 @@ title = "031 ज्ञातिभ्यो द्रविणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one carries away the maiden, after having given, of his own will, as much wealth as the (he?) can to the kinsmen, as well as to the bride herself, this is called the “Āsura” form.—(31).
@@ -72,9 +77,4 @@ by other people, of hypocrisy and deceit,—it is the Āsura form.’
 <details><summary>गोविन्दराजः</summary>
 
 **ज्ञातिभ्य** इति । **कन्यायै **कन्या**ज्ञातिभ्यः **यथाशक्ति धनं **दत्वा **यत् **कन्यायाश् चाप्रदानं** आदानं स्वीकारं स्वेच्छातो नार्षवद् धनजातिपरिमाणानियमेन **आसुरो **विवाह **उच्यते **॥ ३.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.
 </details>

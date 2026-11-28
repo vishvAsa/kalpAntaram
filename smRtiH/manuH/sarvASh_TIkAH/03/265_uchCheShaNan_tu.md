@@ -3,6 +3,11 @@ title = "265 उच्छेषणन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+265	But the remnants shall be left (where they lie) until the Brahmanas have been dismissed; afterwards he shall perform the (daily) domestic Bali-offering; that is a settled (rule of the) sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The leavings shall remain until the Brāhmaṇas have been dismissed. After that, he should make the domestic offerings. Such is the established law.—(265)
@@ -70,9 +75,4 @@ leavings shall not he washed.’
 > वैश्वदेवं तदा कुर्यात् निर्वृत्ते श्राद्धकर्मणि ॥
 
 इति **धर्मो व्यवस्थितः** ॥ ३.२६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-265	But the remnants shall be left (where they lie) until the Brahmanas have been dismissed; afterwards he shall perform the (daily) domestic Bali-offering; that is a settled (rule of the) sacred law.
 </details>

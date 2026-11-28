@@ -2,6 +2,11 @@
 title = "074 ब्रह्मणः प्रणवम्"
 +++
 
+<details><summary>Bühler</summary>
+
+074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should always pronounce the Praṇava in the beginning and at the end of the Veda. if it is not accompanied by the syllable ‘oṃ’ in the beginning, it trickles away; and (if it is not accompanied by it) at the end, it becomes shattered.—(74)
@@ -66,11 +71,6 @@ Heaven; therefore when going to read the Veda, one should begin with it.’
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मण** इति । वेदपाठस्यारम्भान्तयोः ओङ्कारं **सर्वदा **ग्रहणार्थाध्यापनकालात् कालान्तरे ऽपि कुर्यात् । यस्माद् यस्य ब्रह्मणः **पूर्वम् अनोङ्कृतः **तत् **स्रवति **गृहीतम् अपि विस्मृत्य गच्छति । **परस्ताच् च विशीर्यते **। यस्य न कृतः तद् विशीर्यते नैव गृह्यते ॥ २.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
 </details>
 
 <details><summary>भारुचिः</summary>

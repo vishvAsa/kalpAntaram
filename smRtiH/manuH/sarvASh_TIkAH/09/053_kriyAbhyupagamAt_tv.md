@@ -3,6 +3,11 @@ title = "053 क्रियाभ्युपगमात् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	But if by a special contract (a field) is made over (to another) for sowing, then the owner of the seed and the owner of the soil are both considered in this world as sharers of the (crop).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If however the seed is given for the purpose of sowing, after the acceptance of a compact,—in that case both, the owner of the soil and the owner of the seed, are considered to be sharers of the produce.—(r>3)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 एवं च संविदा बीजी फलं लभते, नान्यथा । अयं च संविदा करणेन तृतीयः पक्षो विज्ञेयः । यत्र त्व् एवम् उभयोः संविन् नास्ति तत्र ॥ ९.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	But if by a special contract (a field) is made over (to another) for sowing, then the owner of the seed and the owner of the soil are both considered in this world as sharers of the (crop).
 </details>

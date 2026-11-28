@@ -3,6 +3,11 @@ title = "112 ज्येष्ठस्य विंश"
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	The additional share (deducted) for the eldest shall be one-twentieth (of the estate) and the best of all chattels, for the middlemost half of that, but for the youngest one-fourth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the eldest, the additional portion shall consist of the twentieth part of the property, as also the best of all the chattels; half of that for the middlemost, and the fourth of that for the youngest.—(112)
@@ -125,9 +130,4 @@ the property as the additional share for the eldest who happens to be well-behav
 <details><summary>भारुचिः</summary>
 
 **ज्येष्ठस्य** विंशतिभागः **सर्वद्रव्येषु च यद् वरम्** । **मध्यमस्य ततो ऽर्धं** चत्वारिंशद् भागः । वरद्रव्यानन्तरश् चोद्धारो मध्यमस्य । एवं चतुर्थस् त्व् अशीतिभागो यवीयसः सर्वद्रव्येभ्यश् च हीनः उद्धारः । "द्रव्येभ्यश् च वरं वरम्" इत्य् अस्मिन् पाठे मध्यमकनिष्ठयोस् तदनुरूपैवांशकल्पना विज्ञेया । एवं च मध्यगा उद्धृत्य यद् अन्यच् छिष्यते तस्य समो विभागः कार्यः । त्रयाणां चायं समगुणानां विभागविधिः, त्रयाणाम् उद्धारदर्शनात् । अयम् अपरो विभागः ॥ ९.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	The additional share (deducted) for the eldest shall be one-twentieth (of the estate) and the best of all chattels, for the middlemost half of that, but for the youngest one-fourth.
 </details>

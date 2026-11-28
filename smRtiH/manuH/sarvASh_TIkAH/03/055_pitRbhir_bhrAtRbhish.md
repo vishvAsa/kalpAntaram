@@ -3,6 +3,11 @@ title = "055 पितृभिर् भ्रातृभिश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These shall be honoured and adorned by their fathers and brothers, husbands and brothers-in-law, who are desirous of their own welfare.—(55)
@@ -60,9 +65,4 @@ fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if thes
 <details><summary>गोविन्दराजः</summary>
 
 **पितृभिर्** इति । पितृभ्रातृभर्तृभिः बह्वीं सम्पदम् आप्तुकामैः स्त्रियः **पूज्याः **अलङ्कर्तव्याश् च ॥ ३.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.
 </details>

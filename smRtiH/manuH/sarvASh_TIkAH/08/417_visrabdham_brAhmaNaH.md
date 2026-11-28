@@ -3,6 +3,11 @@ title = "417 विस्रब्धम् ब्राह्मणः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+417	A Brahmana may confidently seize the goods of (his) Sudra (slave); for, as that (slave) can have no property, his master may take his possessions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa may confidently have recourse to seizing the goods of the Śūdra; as the latter has no property, and his property is meant to be seized by the master.—(417)
@@ -71,9 +76,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 दासाधिकाराद् दासः । शूद्रात् तस्मात् तत्स्वामिने । नाब्राह्मणस्य प्रतिग्रहपक्षो द्रष्टव्यो ब्राह्मणस्य स्वदासप्रतिग्रहः । अथ वेतरस्माच् छूद्राद् अदासाल् लघीयान् अयं प्रतिग्रहो विज्ञेयः । न ह्य् अकस्मात् ततः प्रशंसावर्षवचनं युक्तम् । न तु शूद्रस्येत्तंभूतस्यापि द्विजातिभिः साम्यं युक्तं कर्तुम् इति । यत एवमभिप्राय एवायं निर्देशो वेदितव्यः ॥ ८.४१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-417	A Brahmana may confidently seize the goods of (his) Sudra (slave); for, as that (slave) can have no property, his master may take his possessions.
 </details>

@@ -3,6 +3,11 @@ title = "164 सत्या न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+164	That agreement which has been made contrary to the law or to the settled usage (of the virtuous), can have no legal force, though it be established (by proofs).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No contract, even though substantiated, is valid, if what is contracted for is contrary to law or to established custom.—(161)
@@ -67,9 +72,4 @@ adverse, to the custom of the country, the contents of which answer to the rules
 <details><summary>भारुचिः</summary>
 
 धर्मविरुद्धश् च व्यवहारो ऽपत्यभार्याविक्रयादिर् न सिध्यति । येनासौ [धर्मं] वारयति । वृद्धिः सा प्रयोगकाले द्विगुणीभूतापि पुनर् वर्धत एव प्रतिमासम्- एवं ग्रामपुञ्जग्रहणादिवृद्धयो ऽपि प्रतिषिद्धा बोद्धव्याः । ऋणसंबन्धाद् इदम् अपरं तद्गतम् एवोच्यते ॥ ८.१६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	That agreement which has been made contrary to the law or to the settled usage (of the virtuous), can have no legal force, though it be established (by proofs).
 </details>

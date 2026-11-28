@@ -3,6 +3,11 @@ title = "001 राजधर्मान् प्रवक्ष्यामि
 
 +++
 
+<details><summary>Bühler</summary>
+
+001	I will declare the duties of kings, (and) show how a king should conduct himself, how he was created, and how (he can obtain) highest success.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 I am going to expound the duties of Kings; how the Lord of Men should conduct himself, how he came into existence and how excellent success accrues to him.—(1).
@@ -102,9 +107,4 @@ This verse is quoted in *Rājanītiratnākara* (p. 2 b).
 <details><summary>भारुचिः</summary>
 
 **सिद्धिस्** तु **परमा** राज्ञः स्वीकृतसर्वराजमण्डलस्यानन्तरं सकलमहीमण्डलाधिपत्ये सति निरतिशया धर्मार्थसुखत्रिवर्गाभ्युदयप्राप्तिर् अपरामात्यादिप्रकृतिसम्पत् ॥ ७.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	I will declare the duties of kings, (and) show how a king should conduct himself, how he was created, and how (he can obtain) highest success.
 </details>

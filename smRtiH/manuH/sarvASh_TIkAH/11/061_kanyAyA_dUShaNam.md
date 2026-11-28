@@ -3,6 +3,11 @@ title = "061 कन्याया दूषणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	Defiling a damsel, usury, breaking a vow, selling a tank, a garden, one's wife, or child,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Defiling a maiden, usury, breaking of a vow, selling a tank, a garden, one’s wife or a child.—(61)
@@ -75,9 +80,4 @@ This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the following 
 **
 
 See Comparative notes for [Verse 11.58].
-</details>
-
-<details><summary>Bühler</summary>
-
-062	Defiling a damsel, usury, breaking a vow, selling a tank, a garden, one's wife, or child,
 </details>

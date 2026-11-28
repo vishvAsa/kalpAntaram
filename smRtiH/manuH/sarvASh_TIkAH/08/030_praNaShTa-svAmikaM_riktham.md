@@ -3,6 +3,11 @@ title = "030 प्रणष्ट-स्वामिकं रिक्थम�
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	Property, the owner of which has disappeared, the king shall cause to be kept as a deposit during three years; within the period of three years the owner may claim it, after (that term) the king may take it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Property, the owner whereof has disappeared, the King shall keep for three years; up to three years the owner may receive it; but after that the King (shall take it).—(30)
@@ -117,9 +122,4 @@ ownership, he obtains what had been lost and recovered. If he fails to prove his
 <details><summary>भारुचिः</summary>
 
 परेण त्र्यब्दान् नष्टस्वामिकस्य धनस्य राज्ञो भोगानुज्ञा, नापहरणम् अस्य । येनोर्ध्वम् अपि त्र्यब्दात् स्वामिन्य् आगते न युक्तं तद् अपहर्तुम्, न हि शक्यं न्यायविरोधेन शास्त्रविरोधेन चार्थकल्पनायां परस्वग्रहणम् अभ्यनुज्ञातुम् । न चार्वाक् त्र्यब्दाद् धरेत् स्वामीत्य् अनेनोर्ध्वं त्र्यब्दात् स्वामिनो ऽस्वामित्वम् इत्य् उच्यते । किं तर्हि परेण नृपतिर् हरेद् इत्य् अस्य भोगो ऽतिसर्गविधेर् वा संबन्धो ऽनूद्यते वाक्यस्वाभाव्यात् । एवं च सत्य् ऊर्ध्वम् अपि त्र्यब्दाद् आगत्य —
-</details>
-
-<details><summary>Bühler</summary>
-
-030	Property, the owner of which has disappeared, the king shall cause to be kept as a deposit during three years; within the period of three years the owner may claim it, after (that term) the king may take it.
 </details>

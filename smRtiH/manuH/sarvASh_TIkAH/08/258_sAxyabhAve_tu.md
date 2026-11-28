@@ -3,6 +3,11 @@ title = "258 साक्ष्यभावे तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+258	On failure of witnesses (from the two villages, men of) the four neighbouring villages, who are pure, shall make (as witnesses) a decision concerning the boundary in the presence of the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the absence of witnesses four honest inhabitants of neighbouring villages shall make the determination of the boundary, in the presence of the king.—(258)
@@ -72,9 +77,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 पूर्वे ऽनुभाविनः । इमे तु सामन्ताः कर्णपरंपरया श्रुतवन्तः ॥ ८.२५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-258	On failure of witnesses (from the two villages, men of) the four neighbouring villages, who are pure, shall make (as witnesses) a decision concerning the boundary in the presence of the king.
 </details>

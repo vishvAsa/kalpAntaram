@@ -3,6 +3,11 @@ title = "215 त्रींस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+215	But having made three cakes out of the remainder of that sacrificial food, he must, concentrating his mind and turning towards the south, place them on (Kusa grass) exactly in the same manner in which (he poured out the libations of) water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having made these balls out of the remnant of the said sacrificial material, he should, with collected mind and facing the South, offer them in the manner of the water-libations.—(215)
@@ -68,9 +73,4 @@ sesamum, he shall offer the balls near the food-remnant, in the manner of the Pi
 <details><summary>गोविन्दराजः</summary>
 
 **त्रीन्** इति । तस्माद् अग्न्यादिहोमार्थाहुतिं दत्वा हुतशिष्टान् **त्रीन् पिण्डान् कृत्वा** औदकेन विधिना दक्षिणहस्तेन पितृतीर्थेनानन्यचित्तो **दक्षिणामुखस् **तेषु दर्भेषु “तं हस्तं निमृज्यात्” इति दर्शनात् दर्भेषु दद्यात् । अत एव चोदकम् अपि पूर्वोक्तपिण्डाधारभुवि दर्भेष्व् एव दद्यात् ॥ ३.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-215	But having made three cakes out of the remainder of that sacrificial food, he must, concentrating his mind and turning towards the south, place them on (Kusa grass) exactly in the same manner in which (he poured out the libations of) water.
 </details>

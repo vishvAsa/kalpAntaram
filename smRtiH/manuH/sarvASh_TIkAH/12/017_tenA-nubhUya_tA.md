@@ -3,6 +3,11 @@ title = "017 तेनाऽनुभूय ता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+017	When (the evil-doers) by means of that body have suffered there the torments imposed by Yama, (its constituent parts) are united, each according to its class, with those very elements (from which they were taken).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After they have suffered, through this body, the torments inflicted by yama, those constituents become dissolved into each of those same material elements.—(17)
@@ -39,9 +44,4 @@ After the man has ‘*experienced*’ these torments, through the said body of f
 <details><summary>गोविन्दराजः</summary>
 
 **तेनेति** । तेन शरीरेण ता यमसम्बन्धिन्यो यातना दुष्कृतिवतानुभूता न भवन्ति । तच् छरीरारम्भकाणि पृथिव्यादीनि भूतानि तेष्व् एव भूतभागेषु तन्मात्राख्येषु यथा स्वं प्रलीयन्ते ॥ १२.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	When (the evil-doers) by means of that body have suffered there the torments imposed by Yama, (its constituent parts) are united, each according to its class, with those very elements (from which they were taken).
 </details>

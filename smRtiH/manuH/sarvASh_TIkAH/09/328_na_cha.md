@@ -3,6 +3,11 @@ title = "328 न च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+328	A Vaisya must never (conceive this) wish, I will not keep cattle; and if a Vaisya is willing (to keep them), they must never be kept by (men of) other (castes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Vaiśya shall never conceive the wish—‘I will not tend cattle;’ and so long as the Vaiśya is willing, they should not be tended by any one else.—(328)
@@ -79,9 +84,4 @@ See Comparative notes for [Verse 9.326].
 <details><summary>भारुचिः</summary>
 
 राज्ञो ऽयम् उपदेशः, तथान्यमनुष्यस्य ब्राह्मणादेः । इदं चान्यद् वैशेषिकं वैष्यस्य वृत्तिकर्मणा ॥ ९.३२७–२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-328	A Vaisya must never (conceive this) wish, I will not keep cattle; and if a Vaisya is willing (to keep them), they must never be kept by (men of) other (castes).
 </details>

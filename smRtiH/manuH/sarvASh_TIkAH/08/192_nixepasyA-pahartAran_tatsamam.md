@@ -3,6 +3,11 @@ title = "192 निक्षेपस्याऽपहर्तारन् त
 
 +++
 
+<details><summary>Bühler</summary>
+
+192	The king should compel him who does not restore an open deposit, and in like manner him who retains a sealed deposit, to pay a fine equal (to its value).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In all cases the king shall make the appropriator of a deposit pay a fine equal in value to it; also the appropriator of a friendly loan.—(192)
@@ -81,9 +86,4 @@ See Comparative notes for [Verse 8.190].
 > **तथोपनिधिहर्तारम् अविशेषेण पार्थिवः  ॥ ८.१९१ ॥**
 
 औपरिष्टश्लोकार्धस्योपनिध्यर्थ आरम्भः । चोरवच्छिष्टिर् अधिकाराद् उपनिधाव् अपि स्याद् ब्राह्मणवर्जम् ॥ ८.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	The king should compel him who does not restore an open deposit, and in like manner him who retains a sealed deposit, to pay a fine equal (to its value).
 </details>

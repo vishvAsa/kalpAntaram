@@ -3,6 +3,11 @@ title = "077 तद् अध्यास्योद्वहेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	Inhabiting that, let him wed a consort of equal caste (varna), who possesses auspicious marks (on her body), and is born in a great family, who is charming and possesses beauty and excellent qualities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having occupied it, he shall wed a wife of the same caste as himself, who is equipped with auspicious signs, born in a noble family, charming, and possessed of beauty and excellent qualities. (77)
@@ -50,9 +55,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 407).
 <details><summary>भारुचिः</summary>
 
 राज्यतन्त्रसहायार्थं महतः कुलाद् इत्य् एतत्संबन्धेन सवर्णादीनाम् उक्तानाम् अनुवादः ॥ ७.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	Inhabiting that, let him wed a consort of equal caste (varna), who possesses auspicious marks (on her body), and is born in a great family, who is charming and possesses beauty and excellent qualities.
 </details>

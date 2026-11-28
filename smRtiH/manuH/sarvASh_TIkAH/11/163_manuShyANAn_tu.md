@@ -3,6 +3,11 @@ title = "163 मनुष्याणान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+164	The lunar penance has been declared to be the expiation for stealing men and women, and (for wrongfully appropriating) a field, a house, or the water of wells and cisterns.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the stealing of men and women, of a field or a house, or the water of a well, or a tank,—the Cāndrāyaṇa has been declared to be the expiation.—(163)
@@ -66,9 +71,4 @@ a field,—the *Cāndrāyaṇa* penance should be performed.’
 <details><summary>भारुचिः</summary>
 
 जलाहरणम् आत्मोपभोगार्थं प्रतिषिद्धम् । कूपवाप्यादेस् त्व् आहरणं परोपभोगार्थम् अपि । अतस् तयोः स्वकाभिसंबन्धमत्रत्वाद् एवापहरणदोष इत्य् एतस्माद् वैलक्षण्यात् पृथग्ग्रहणम् । अन्यो वा समाधिर् वक्तव्यः ॥ ११.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-164	The lunar penance has been declared to be the expiation for stealing men and women, and (for wrongfully appropriating) a field, a house, or the water of wells and cisterns.
 </details>

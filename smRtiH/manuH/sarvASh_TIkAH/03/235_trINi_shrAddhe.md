@@ -2,6 +2,11 @@
 title = "235 त्रीणि श्राद्धे"
 +++
 
+<details><summary>Bühler</summary>
+
+235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Three things are sacred at Śrāddhas—the daughter’s son, blanket and sesamum, and they commend three things in this connection—cleanliness, absence of anger and absence of haste.—(235)
@@ -44,11 +49,6 @@ See Comparative notes for [Verse 3.234].
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **त्रीणीति** । **दौहित्रा**दीनि **त्रीणि श्राद्धे पवित्राणि त्रीणि चैव **वस्तूनि शौचाक्रोधविश्रम्भाख्यानि श्राद्धे अतिशयेनेच्छन्ति ॥ ३.२३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
 </details>
 
 <details><summary>भारुचिः</summary>

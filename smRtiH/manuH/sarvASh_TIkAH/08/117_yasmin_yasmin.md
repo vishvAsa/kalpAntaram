@@ -3,6 +3,11 @@ title = "117 यस्मिन् यस्मिन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+117	Whenever false evidence has been given in any suit, let the (judge) reverse the judgment, and whatever has been done must be (considered as) undone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In whatever suit false evidence should have been given, the effect of that shall cease, and what has been done shall be undone.—(117)
@@ -52,9 +57,4 @@ This verse is quoted in *Mitākṣarā* (on 2.77), to the effect that even thoug
 <details><summary>भारुचिः</summary>
 
 अर्धसमाप्ते निवर्तनम्, दण्डान्ते ऽपि कृते **अकृतं भवेत्** । एवं च सति पुनस् तत् परीक्ष्यं निवृत्तिवचनात् । तच् च पुनः —
-</details>
-
-<details><summary>Bühler</summary>
-
-117	Whenever false evidence has been given in any suit, let the (judge) reverse the judgment, and whatever has been done must be (considered as) undone.
 </details>

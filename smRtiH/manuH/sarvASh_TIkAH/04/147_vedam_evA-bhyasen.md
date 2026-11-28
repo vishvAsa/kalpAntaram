@@ -2,6 +2,11 @@
 title = "147 वेदम् एवाऽभ्यसेन्"
 +++
 
+<details><summary>Bühler</summary>
+
+147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall diligently recite the Veda, whenever he finds time. They declare this to be his primary duty; everything else is declared to be his secondary duty.—(147)
@@ -56,11 +61,6 @@ elder superior to the mother; there is no friend superior to charity,—either h
 <details><summary>गोविन्दराजः</summary>
 
 **वेदम् एव जपेन् नित्यम्** इति । यस्मिन् यस्मिन् काले दृष्टार्थकर्मोपरोधो भवति तत्र नित्यं **वेदम् एवा**नलसः सन् **जपएत् **। यस्मात् तं ब्रह्मणस्य **परं धर्मं **मन्वादय **आहुः** । तदन्यस् त्व् अमुख्यो धर्मस् तैर् **उच्यते **॥ ४.१४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
 </details>
 
 <details><summary>भारुचिः</summary>

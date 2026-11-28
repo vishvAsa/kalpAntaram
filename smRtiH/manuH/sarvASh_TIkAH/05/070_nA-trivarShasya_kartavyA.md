@@ -2,6 +2,11 @@
 title = "070 नाऽत्रिवर्षस्य कर्तव्या"
 +++
 
+<details><summary>Bühler</summary>
+
+070	The relatives shall not offer libations to (a child) that has not reached the third year; but if it had teeth, or the ceremony of naming it (Namakarman) had been performed, (the offering of water is) optional.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the child up to three years of age, the relations shall not make water-offerings; but for one whose teeth had appeared, or whose naming had been done, it may be done optionally.—(69)
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 5.68].
 <details><summary>गोविन्दराजः</summary>
 
 **नात्रिवर्षस्येति** । यस्य तृतीयं वर्षं नापक्रान्तं तं तस्योदकक्रिया अग्निसंस्काराद्यौर्ध्वदेहिकं न कर्तव्यम् इत्य् उत्तरविधित्सार्थं पूर्वानुवादः । जातदन्तस्य चोदकक्र्या अग्निसंस्काराद्यौर्ध्वदेहिकं कर्तव्यं दशम्याम् उपस्थाप्य पिता नाम करोतीति गृह्यदर्शणाद् अस्माद् वाक्याद् ऊर्ध्वं कर्तव्यम् । यद्य् अकरणपक्षसम्भवे करणपक्षादरणं क्लेशावहं तथा पक्षद्वयाम्नानाज् जातन्दतानम्नो [*?] करणे प्रेतोपकारो भवत्य् अकरणात् पुनःप्रत्यवायाभाव इत्य् अवसीयते ॥ ५.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	The relatives shall not offer libations to (a child) that has not reached the third year; but if it had teeth, or the ceremony of naming it (Namakarman) had been performed, (the offering of water is) optional.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "020 द्विजातयः सवर्णासु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+020	Those (sons) whom the twice-born beget on wives of equal caste, but who, not fulfilling their sacred duties, are excluded from the Savitri, one must designate by the appellation Vratyas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sons that the twice-born men beget on wives of equal caste, but who, not fulfilling their sacred duties, become excluded from the Sāvitrī—should be designated as ‘Vrātyas’ (apostates).—(20)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 सावित्रीपतिताद् व्रात्यो जायते । न तु सावित्रीपतितो व्रात्यो भवति । एवं च व्रात्यस्तोमप्रायश्चित्तं सावित्रीपतितो व्रात्यो भवति । एवं च व्रात्यस्तोमप्रायश्चित्तं सावित्रीपतितस्य न भवति, अन्यत् त्व् अस्य प्रायश्चित्तं कल्प्यम् । इतः प्रभृति चैते व्रात्या जाताः । पुत्रपौत्रा व्रात्या इति केचित् । तद् अयुक्तम् । उक्तत्वाद् व्रात्यलक्षणस्योपनयनप्रकर्णे, "अत ऊर्ध्वं त्रयो ऽप्य् एते" इत्यादि । तस्मान् नेदं व्रात्यलक्षणम्, अव्रताद् यो जायते स व्रात्य इति, किं तर्ह्य् अव्रत एव व्रात्य इत्य् उक्तम् । यतः तेनास्य विरोधाद् अनर्थो ऽयम् । विप्रतिषिद्धं चैतत् । यदि **द्विजातयः** कथम् अव्रताः । अथाव्रताः कथं द्विजातयः । कथं तर्ह्य् अस्य पा[ठः], "द्विजातयः सवर्णासु जनयन्त्य् अव्रतांस् तु यान् तान् सावित्रीपरिभ्रष्टान्" — उपनयनादिसंस्कारकीनान् — "व्रात्यान् इत्य् अभिनिर्दिशेत्" । उक्तव्रात्यलक्षणानुवाद उत्तरप्रकरणादिसंबन्धर्थः । सो ऽय[म् एव] ॥ १०.२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-020	Those (sons) whom the twice-born beget on wives of equal caste, but who, not fulfilling their sacred duties, are excluded from the Savitri, one must designate by the appellation Vratyas.
 </details>

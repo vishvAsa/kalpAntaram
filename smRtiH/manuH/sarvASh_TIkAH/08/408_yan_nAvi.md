@@ -3,6 +3,11 @@ title = "408 यन् नावि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+408	Whatever may be damaged in a boat by the fault of the boatmen, that shall be made good by the boatmen collectively, (each paying) his share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If anything on the boat happen to be damaged by the fault of the boatmen,—it shall be made good by the boatmen collectively, each according to his share.—(408)
@@ -46,9 +51,4 @@ This verse is quoted in *Vivādaratnākara* (p. 642), which explains ‘*dāśa*
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ८.४०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-408	Whatever may be damaged in a boat by the fault of the boatmen, that shall be made good by the boatmen collectively, (each paying) his share.
 </details>

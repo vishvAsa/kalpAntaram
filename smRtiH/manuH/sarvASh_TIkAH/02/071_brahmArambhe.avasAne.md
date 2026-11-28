@@ -2,6 +2,11 @@
 title = "071 ब्रह्मारम्भे ऽवसाने"
 +++
 
+<details><summary>Bühler</summary>
+
+071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the beginning and at the end op the (study of) the Veda, the feet of the Teacher should always be clasped; and the veda should me studied with joined palms; this is what has been called the ‘Brahmāñjali.’—(71)
@@ -105,11 +110,6 @@ Veda, looking at the teacher’s face, keeping the hands in control, placed over
 <details><summary>गोविन्दराजः</summary>
 
 **ब्रह्मारम्भ** इति । अन्वाहिकवेदपाठारम्भान्तयोः **सदा **अहर् अहः **गुरोः **पादोपसङ्ग्रणकं कर्तव्यम् । संहतौ च कच्छपके इति प्रसिद्धसन्निवेशेन हस्तौ कृत्वाध्येतव्यम् । यस्मात् **स ब्रह्माञ्जलि**शब्देनोच्यत इत्य् ऋषिभिः **स्मृतः** इत्य् अलौकिकत्वात् ब्रह्माञ्जलिस्वरूपनिरूपणम् ॥ २.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "182 भ्रातॄणाम् एकजातानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+182	If among brothers, sprung from one (father), one have a son, Manu has declared them all to have male offspring through that son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among brothers, born of the same father, if even one have a son, Manu has declared all of them to be ‘with son,’ through that son.—(182)
@@ -61,9 +66,4 @@ his brother’s son would he the son and shall perform his Śrāddha and offer t
 <details><summary>भारुचिः</summary>
 
 सति भ्रातृपुत्र एते प्रतिनिधयः [न] कर्तव्याः इत्य् एवंपरम् एतत् । अथ वा [तत्पुत्रस्य] प्रथमं दत्तकादिन्यायेन प्रतिनिधित्वम् अनेन श्लोकेन विज्ञायते । अलभ्यमाने त्व् असति वा भ्रातृपुत्रे ऽन्ये कल्पा आश्रयणीया इति ॥ ९.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	If among brothers, sprung from one (father), one have a son, Manu has declared them all to have male offspring through that son.
 </details>

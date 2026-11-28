@@ -3,6 +3,11 @@ title = "019 राजा भवत्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	But where he who is worthy of condemnation is condemned, the king is free from guilt, and the judges are saved (from sin); the guilt falls on the perpetrator (of the crime alone).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where, however, the person deserving of censure is actually censured, there the king becomes sinless, the members of the court become freed, and the sin falls upon the perpetrator.—(19)
@@ -52,9 +57,4 @@ the King is guiltless and the judges free from blame; the guilt falls on the off
 <details><summary>भारुचिः</summary>
 
 एवं सम्यग्व्यवहारदर्शने,सर्वम् इदं साधु संपद्यत इति अर्थप्राप्तो ऽप्य् अयम् अर्थो वाक्यस्वाभाव्याद् अनूद्यते ॥ ८.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	But where he who is worthy of condemnation is condemned, the king is free from guilt, and the judges are saved (from sin); the guilt falls on the perpetrator (of the crime alone).
 </details>

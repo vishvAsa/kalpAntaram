@@ -3,6 +3,11 @@ title = "030 प्रभुः प्रथमकल्पस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	That evil-minded man, who, being able (to fulfil) the original law, lives according to the secondary rule, reaps no reward for that after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one, who is able to fulfil the primary rule, adopts the substitute,—this evil-minded man does not obtain its reward in the other world.—(30)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 1.75].
 <details><summary>भारुचिः</summary>
 
 तस्मात् परेण यत्नेन नित्यकर्मार्थम् उद्यच्छतस् तद् अशक्ताव् एतद् भवेत् । न सति सामर्थ्य इति । यश् च धर्मतन्त्रसङ्गे सति परापहरणादिषु प्रवर्तमानः केनचिद् राजपुरुषेण कथंचिद् बाध्येत, ततो बाध्यमानो ऽप्य् असौ ॥ ११.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	That evil-minded man, who, being able (to fulfil) the original law, lives according to the secondary rule, reaps no reward for that after death.
 </details>

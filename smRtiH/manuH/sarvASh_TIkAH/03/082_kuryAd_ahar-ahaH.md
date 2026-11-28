@@ -2,6 +2,11 @@
 title = "082 कुर्याद् अहर्-अहः"
 +++
 
+<details><summary>Bühler</summary>
+
+082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should daily offer Śrāddha with food, or with water, or with milk, roots and fruits,—(thereby) bringing pleasure to the Pitṛs.—(82)
@@ -41,11 +46,6 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 <details><summary>गोविन्दराजः</summary>
 
 तेषु पितृयज्ञनिरूपणार्थं तावद् आह **दद्याद् अहर् अहर्** इति । **पितृभ्यः प्रीतिम्** उत्पादयन् **अन्नोदक**क्षीर**मूलफलैः **यथासम्भवं प्रत्यहं श्राद्धं कुर्यात् ॥ ३.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
 </details>
 
 <details><summary>भारुचिः</summary>

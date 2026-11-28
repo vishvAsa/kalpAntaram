@@ -3,6 +3,11 @@ title = "276 ब्राह्मण-क्षत्रियाभ्यान
 
 +++
 
+<details><summary>Bühler</summary>
+
+276	(For mutual abuse) by a Brahmana and a Kshatriya a fine must be imposed by a discerning (king), on the Brahmana the lowest amercement, but on the Kshatriya the middlemost.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The discerning king shall inflict this punishment upon the Brāhmaṇa and the Kṣatriya: the brāhmaṇa shall be fined the lowest amercement and the kṣatriya the middlemost—(276)
@@ -49,9 +54,4 @@ in regard to a heinous offence;—It is quoted in *Vivādacintāmaṇi* (Calcutt
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणक्षत्रियाभ्याम्** इति । ब्राह्मणक्षत्रियाभ्याम् इतरेतरं पतनीयाक्रोशे कृते सति तयोः शास्त्राभिजनदेशजात्यादिनायं दण्डः कर्तव्यः । क्षत्रियाक्रोशे सति ब्राह्मणे प्रथमसाह्सः कर्तव्यः । ब्राह्मणाक्रोशे निपुणः क्षत्रिये मध्यमसाहसः ॥ ८.२७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-276	(For mutual abuse) by a Brahmana and a Kshatriya a fine must be imposed by a discerning (king), on the Brahmana the lowest amercement, but on the Kshatriya the middlemost.
 </details>

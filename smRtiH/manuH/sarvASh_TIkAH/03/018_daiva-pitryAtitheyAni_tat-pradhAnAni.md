@@ -2,6 +2,11 @@
 title = "018 दैव-पित्र्यातिथेयानि तत्-प्रधानानि"
 +++
 
+<details><summary>Bühler</summary>
+
+018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the rites performed by one in honour of deities, Pitṛs and Guests are dominated by her (his Śūdra wife), then the Pitṛs and the Gods do not eat of them; and the man does not go to heaven.—(18)
@@ -79,11 +84,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 **दैवपित्र्यतिथेयानि** इति । “यस् तु तत्कारयेन् मोहात् सजात्या स्थितयान्यया” (म्ध् ९.८७) इति निषेधं वक्ष्यति । अतो ऽसन्निहितायाम् अपि सजात्यायां यागश्राद्धातिथिदानानि यस्य शूद्रया दत्तानि तद् धव्यकव्यं **पितृदेवा **नोपजीवन्ति । **न च **तेनातिथेयेन **स** गृहस्थः **स्वरं गच्छति **॥ ३.१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
 </details>
 
 <details><summary>भारुचिः</summary>

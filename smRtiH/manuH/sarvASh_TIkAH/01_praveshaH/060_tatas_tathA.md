@@ -2,6 +2,11 @@
 title = "060 ततस् तथा"
 +++
 
+<details><summary>Bühler</summary>
+
+060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thereupon, being thus directed by Manu, the great sage Bhṛgu, with a gladdened heart, said to the sages—‘Listen.’—(60)
@@ -40,11 +45,6 @@ With this verse ends the *Introductory Section* of the work, describing the Orig
 <details><summary>गोविन्दराजः</summary>
 
 **तत** इति । **स भृगुः मनुना तथोक्तः **अयं श्रावयिष्यतीत्य् अनेन प्रकारेणार्थाद् उक्तो न तु त्वं श्रावयेति । **ततो** ऽनन्तरं **स** (गुरुः) **भृगुः** सम्भावनया **प्रीतात्मा तान् ऋषीन् श्रूयताम् इत्य् **उवाच ॥ १.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
 </details>
 
 <details><summary>भारुचिः</summary>

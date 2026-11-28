@@ -2,6 +2,11 @@
 title = "101 असपिण्डन् द्विजम्"
 +++
 
+<details><summary>Bühler</summary>
+
+101	A Brahmana, having carried out a dead Brahmana who is not a Sapinda, as (if he were) a (near) relative, or a near relative of his mother, becomes pure after three days;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa, having carried, like a relation, a dead Brāhmaṇa who is not his ‘Sapiṇḍa’ relation,—or the near relatives of his mother,—becomes pure in three days.—(100).
@@ -55,11 +60,6 @@ or cremating a dead body; one who carries it, and applies fire to it, becomes pu
 <details><summary>गोविन्दराजः</summary>
 
 **असपिण्डम्** इति । असपिण्डं मृतं ब्राह्मणं ब्राह्मणो बन्धुवत् स्नेहेन निर्हृत्य मातुश् च सन्निकृष्टान् बान्धवान् मातुलादीन् निर्हृत्य त्रिरात्रेण शुध्यति ॥ ५.१०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	A Brahmana, having carried out a dead Brahmana who is not a Sapinda, as (if he were) a (near) relative, or a near relative of his mother, becomes pure after three days;
 </details>
 
 <details><summary>भारुचिः</summary>

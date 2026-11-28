@@ -3,6 +3,11 @@ title = "239 महापातकिनश् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+240	Both those who have committed mortal sin (Mahapataka) and all other offenders are severally freed from their guilt by means of well-performed austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who have committed heinous offences, as also those who have committed other misdeeds, become freed from their sins by means of austerities well-performed.—(239)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 विनष्टकिल्बिषाणां च प्रतिबन्धाभावाद् विहितकर्मानुष्ठानतपसा सर्वार्थेन यथोक्ता सिद्धिः । किं चान्यत् ॥ ११.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	Both those who have committed mortal sin (Mahapataka) and all other offenders are severally freed from their guilt by means of well-performed austerities.
 </details>

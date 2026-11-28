@@ -2,6 +2,11 @@
 title = "285 विघसाशी भवेन्"
 +++
 
+<details><summary>Bühler</summary>
+
+285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should daily live upon “vighasa,” and daily he should eat “amṛta.” “Vighasa” is that which is left by those who must be fed; and “amṛta” is the remnant of sacrific es.—(285)
@@ -78,11 +83,6 @@ Manu\].—‘The remnant of sacrifices is *amṛta*; and the eating of this is e
 <details><summary>गोविन्दराजः</summary>
 
 **विघसाशीति** । सर्वदा विधसभोजनः स्यात् इत्य् एतत् यज्ञशेषभुक् तुल्यत्वापादनेन स्तुत्यर्थम् अस्य पुनर्वचनम् । सर्वदा च अमृतभोजनः स्यात् । अप्रसिद्धत्वात् विघसामृते निरूपयति अतिथ्यादि**भुक्तशेषं विघसम्** उच्यते । यज्ञावशिष्टं पुरोडाशादि **अमृतम्** इति ॥ ३.२८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
 </details>
 
 <details><summary>भारुचिः</summary>

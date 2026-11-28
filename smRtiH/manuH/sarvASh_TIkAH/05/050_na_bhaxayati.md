@@ -2,6 +2,11 @@
 title = "050 न भक्षयति"
 +++
 
+<details><summary>Bühler</summary>
+
+050	He who, disregarding the rule (given above), does not eat meat like a Pisaka, becomes dear to men, and will not be tormented by diseases.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **विधिर्** देवार्चनं तद् **धित्वा यो न भक्षयति,** किं तर्हि विधिना भक्षयति । **स** लोकस्य **प्रियतां** प्राप्नोति । प्रियः सर्वस्य भवति । **व्याधिभिश् च** । कृशदुर्बलादेर् मांसम् अश्नतो व्याधिर् उपजायते । तेनापि विधिनैवाशितव्यम् । तथा भक्षयन् **व्याधिभिश् च न पीड्यते** । अन्यथा अश्नन्न् अपि मांसं पीड्यत एव व्याधिभिः । **पिशाचवद्** इति । पिशाचास् तिर्यग्जातिविशेषास् ते विधिम् अनपेक्ष्य मांसम् अश्नन्ति । ततो ऽन्यो ऽपि तथा भक्षयन् पिशाचसदृशो भवतीति निन्द्यते ॥ ५.५० ॥
@@ -29,11 +34,6 @@ title = "050 न भक्षयति"
 <details><summary>गोविन्दराजः</summary>
 
 किम् उताविहितमांसभक्षणाद् इत्य् अविहितमांसभक्षणनिन्दार्थम् आह **न भक्षयतीति । यो **देवाद्यर्चनादिविधिपरित्यागेन पिशाचवन् मांसं **न भक्षयति स **सर्वलोकप्रियो भवति । **व्याधिभिश् च न पीड्यते **॥ ५.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	He who, disregarding the rule (given above), does not eat meat like a Pisaka, becomes dear to men, and will not be tormented by diseases.
 </details>
 
 <details><summary>भारुचिः</summary>

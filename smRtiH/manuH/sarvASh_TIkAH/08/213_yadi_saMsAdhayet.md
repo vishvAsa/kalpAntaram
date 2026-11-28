@@ -3,6 +3,11 @@ title = "213 यदि संसाधयेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+213	But if the (recipient) through pride or greed tries to enforce (the fulfilment of the promise), he shall be compelled by the king to pay one suvarna as an expiation for his theft.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, through arrogance or greed, the man should seek to recover it, he should be made by the King to pay one gold-piece, as an expiation for that theft.—(213)
@@ -62,9 +67,4 @@ punishment, or blame or calamity,—the man accepting the gift should be punishe
 <details><summary>भारुचिः</summary>
 
 येन धर्मार्थं किंचित् प्रतिश्रुतं न तु दत्तम् । तं चेद् धर्मम् अकुर्वन् प्रतिश्रुतम् इति कृत्वा साधयेद् अदातारम्, ततो **राज्ञा सुवर्णं** स **दाप्यः** । सोपधं [याचितारः न स्तेयकारिणः, अन्यायकारित्वाद् उ]द्धृतदण्डास् त्व् इति ॥ ८.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-213	But if the (recipient) through pride or greed tries to enforce (the fulfilment of the promise), he shall be compelled by the king to pay one suvarna as an expiation for his theft.
 </details>

@@ -3,6 +3,11 @@ title = "302 परमं यत्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+302	Let the king exert himself to the utmost to punish thieves; for, if he punishes thieves, his fame grows and his kingdom prospers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King shall, make the best efforts for suppressing thieves; by the suppression of thieves comes fame and the kingdom prospers.—(302)
@@ -90,9 +95,4 @@ save his people from the ravages of prostitutes, talkers, evil-doers, royal favo
 <details><summary>भारुचिः</summary>
 
 कथम् । जानपदानां हि कर्मणां वृत्त्यर्थानाम् अदृष्टप्रयोजनानां च सुकृतपरिपन्थिनिग्रहणम् । एवं च सति, इति ॥ ८.३०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-302	Let the king exert himself to the utmost to punish thieves; for, if he punishes thieves, his fame grows and his kingdom prospers.
 </details>

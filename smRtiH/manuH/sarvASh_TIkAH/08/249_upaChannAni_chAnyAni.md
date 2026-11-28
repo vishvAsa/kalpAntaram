@@ -3,6 +3,11 @@ title = "249 उपछन्नानि चान्यानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+249	And as he will see that through men's ignorance of the boundaries trespasses constantly occur in the world, let him cause to be made other hidden marks for boundaries,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall also set up hidden boundary-marks,—seeing that in the world there are constant trespasses, due to the ignorance of boundaries among men.—(249)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 8.245].
 <details><summary>गोविन्दराजः</summary>
 
 **उपच्छन्नानीति** । सीमापरिज्ञाने सर्वदा लोके जनानां भ्रान्तिं दृष्ट्वा अदुष्टानि गुह्यानि वक्ष्यमाणानि सीमाचिह्नानि कारयेत् ॥ ८.२४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-249	And as he will see that through men's ignorance of the boundaries trespasses constantly occur in the world, let him cause to be made other hidden marks for boundaries,
 </details>

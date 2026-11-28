@@ -3,6 +3,11 @@ title = "108 अनाम्नातेषु धर्मेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	If it be asked how it should be with respect to (points of) the law which have not been (specially) mentioned, (the answer is), 'that which Brahmanas (who are) Sishtas propound, shall doubtlessly have legal (force).'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the question should arise—“How should it be in regard to those points upon which the laws have not been declared?”—[the answer is]—what the cultured Brāhmaṇas declare, that shall be the undoubted law.—(108)
@@ -114,9 +119,4 @@ should he followed which is approved of by at least ten such Brāhmaṇas as are
 <details><summary>भारुचिः</summary>
 
 **अनाम्नातेष्व्** अनुपदिष्टेषु प्रायश्चित्तलक्षणेषु धर्मेष्व् अन्येषु च सामर्थ्याद् अनाम्नातं चोभयथा स्मरणं सग्रन्थकम् अग्रन्थकं च । अथ वादर्शनम् एवोभयथा स्मरणस्यानाम्नातत्वम् । अनाम्नातेष्व् अज्ञातेषु धर्मेषु किं कर्तव्यम् इति संदेहे सतीदम् आह **यं शिष्टा ब्रूयुः स धर्मः स्याद् अशङ्कितः** । येनाम्नातत्वम् अनाम्नातत्वं वा प्रति न कश्चिद् द्वेषो ऽस्ति तेषाम् । एवं च कृत्वोक्तम् "आचारश् चैव साधूनाम्" इति । शिष्टब्राह्मणलक्षणम् अधुना वक्ति ॥ १२.१०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	If it be asked how it should be with respect to (points of) the law which have not been (specially) mentioned, (the answer is), 'that which Brahmanas (who are) Sishtas propound, shall doubtlessly have legal (force).'
 </details>

@@ -3,6 +3,11 @@ title = "112 दाराधिगमनञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	(The law of) marriage and the description of the (various) marriage-rites, the regulations for the great sacrifices and the eternal rule of the funeral sacrifices,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The taking of wife,—the definition of the several forms of Marriage,—the method of the Great Sacrifices,—the eternal regulations relating to the offering to Pitṛs. — (112)
@@ -30,9 +35,4 @@ All this forms the subject-matter of discourse III.—(112)
 <details><summary>गोविन्दराजः</summary>
 
 **दाराधिगमनम्** इति ॥ १.११२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	(The law of) marriage and the description of the (various) marriage-rites, the regulations for the great sacrifices and the eternal rule of the funeral sacrifices,
 </details>

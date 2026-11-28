@@ -2,6 +2,11 @@
 title = "191 तस्माद् अविद्वान्"
 +++
 
+<details><summary>Bühler</summary>
+
+191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these reasons, the illiterate man should fight shy of accepting each and every gift. By receiving even a small gift, the illiterate person sinks, like the cow in a morass.—(191)
@@ -44,11 +49,6 @@ See Comparative notes for [Verse 4.190].
 <details><summary>गोविन्दराजः</summary>
 
 **तस्माद्** इति । यस्माद् असारद्रव्यप्र्तिग्रहे ऽपि अज्ञः कर्दमे **गौर् इव **नरके मज्जति, **तस्माद् अविद्वान् **यतः कुतश्चित् हिरण्यादिव्यतिरिक्तप्रतिग्रहाद् अपि त्रस्येत् ॥ ४.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.
 </details>
 
 <details><summary>भारुचिः</summary>

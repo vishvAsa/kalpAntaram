@@ -3,6 +3,11 @@ title = "075 साक्षी दृष्ट-श्रुताद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	A witness who deposes in an assembly of honourable men (Arya) anything else but what he has seen or heard, falls after death headlong into hell and loses heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A witness asserting, in an assembly of noble men, anything apart from what he has seen and heard, falls downwards into hell after death and becomes shut out from heaven.—(75)
@@ -66,9 +71,4 @@ evidence.’
 <details><summary>भारुचिः</summary>
 
 न केवलं धर्मानुत्पत्त्या स्वर्गाद् धीयत इत्य् उक्तम् । अयं च पूर्वश्लोकशेष एवार्थवादः, तथा च संबन्धेन दर्शित एवायम् अर्थः । यतश् च दर्शनश्रवणाभ्यां साक्षित्वसिद्धिः, न निबन्धात् ॥ ८.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	A witness who deposes in an assembly of honourable men (Arya) anything else but what he has seen or heard, falls after death headlong into hell and loses heaven.
 </details>

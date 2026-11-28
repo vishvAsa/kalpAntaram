@@ -3,6 +3,11 @@ title = "105 अजीगर्तः सुतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+105	Agigarta, who suffered hunger, approached in order to slay (his own) son, and was not tainted by sin, since he (only) sought a remedy against famishing.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Ajīgarta, buffering from hunger, went forward to kill his son; and as he sought a remedy for hunger, he did not become tainted with sin.—(105)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 10.101].
 <details><summary>गोविन्दराजः</summary>
 
 **अजीगर्त** इति । अजीगर्ताख्यऋषिः बुभुक्षितः पुत्रं शुनःशेफं हन्तुं प्रचक्रमे, न च तथा क्षुत्प्रतीकारं कुर्वन् पापेन लिप्तवान् ॥ १०.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	Agigarta, who suffered hunger, approached in order to slay (his own) son, and was not tainted by sin, since he (only) sought a remedy against famishing.
 </details>

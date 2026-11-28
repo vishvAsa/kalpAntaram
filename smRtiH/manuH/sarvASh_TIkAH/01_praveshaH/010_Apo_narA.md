@@ -2,6 +2,11 @@
 title = "010 आपो नरा"
 +++
 
+<details><summary>Bühler</summary>
+
+010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Water is called ‘nara,’—water being the offspring of nara; since water was the first thing created by (or, the original residence of) that being, he is, on that account, described as ‘nārāyaṇa.’—(10)
@@ -88,11 +93,6 @@ of Nārāyaṇa himself, the second half is put in the First Person.\]—“*Tha
 <details><summary>गोविन्दराजः</summary>
 
 **आपो नारा**शब्देन कथिता यस्मात् तास् तस्य पुरुषस्यात्माख्यस्योक्तेन प्रकारेणापत्यानि । ता आपो यस्माद् आत्मनः **पूर्वम् अयनम्** आद्य आश्रयः । एत्य् अस्मिन्न् इत्य् अयनम् इति कृत्वा **तेनासौ नारायणः स्मृतः** । इत्य् एवं पूर्वोक्तदार्ढ्याय एतत् स्वनामनिर्वचनम्, नरायण एव नारायणः इति अन्येषाम् अपि दृश्यत इति दीर्घेण ॥ १.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.
 </details>
 
 <details><summary>भारुचिः</summary>

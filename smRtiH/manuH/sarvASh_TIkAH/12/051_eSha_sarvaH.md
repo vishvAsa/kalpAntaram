@@ -3,6 +3,11 @@ title = "051 एष सर्वः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+051	Thus (the result) of the threefold action, the whole system of transmigrations which (consists) of three classes, (each) with three subdivisions, and which includes all created beings, has been fully pointed out.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described the entire thrice threefold migratory process pertaining to all beings, arising out of the three kinds of action.—(51)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 ये ऽप्य् अत्र न कीर्तितास् ते ऽप्य् उक्तसादृश्यास् त्रैविध्यान्तर्भूता एव वेदितव्याः, इत्य् उपसंहारश्लोको ऽयम् ॥ १२.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	Thus (the result) of the threefold action, the whole system of transmigrations which (consists) of three classes, (each) with three subdivisions, and which includes all created beings, has been fully pointed out.
 </details>

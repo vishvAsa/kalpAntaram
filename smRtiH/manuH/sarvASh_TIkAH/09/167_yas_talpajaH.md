@@ -3,6 +3,11 @@ title = "167 यस् तल्पजः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+167	He who was begotten according to the peculiar law (of the Niyoga) on the appointed wife of a dead man, of a eunuch, or of one diseased, is called a son begotten on a wife (Kshetraga).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a son is born of the wife of a man, either dead or impotent or diseased, by one who has been duly ‘authorised,’—that son is declared to be ‘kṣetraja’ ‘soil-born.’—(167)
@@ -59,9 +64,4 @@ the woman’s husband is alive is called *Kṣetraja*; and when begotten after h
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ९.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	He who was begotten according to the peculiar law (of the Niyoga) on the appointed wife of a dead man, of a eunuch, or of one diseased, is called a son begotten on a wife (Kshetraga).
 </details>

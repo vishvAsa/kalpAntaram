@@ -3,6 +3,11 @@ title = "106 नैत्यके नाऽस्त्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no “day forbidden for study” in regard to the daily recitation; since this has been called “Brahmasatra”; it is meritorious, being offered with the offering of study, and being maintained by the syllable “vaṣaṭ” in the shape of the recitation made on forbidden days.—(106)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादम् आह **नैत्यक** इति । **नैत्यके** एकस्मिन् ब्रह्मयज्ञे **अनध्यायो नास्ति **। यस्मात् **ब्रह्मसत्रं** **तत्** मन्वादिभिः **स्मृतम्** । अतः सततप्रवृत्तगवामयनादिसत्रतुल्यत्वात् सर्वदैव तद् अनुष्ठेयम् । किम् अस्य सत्त्रसादृश्यम् इत्य् अत आह **ब्रह्माहुतितुअम्** इत्यादि । सत्त्रं सोमाहुत्याहुतं भवति । इदम् अपि वेदोच्चारणाहुत्याहुतं ब्रह्म, आहुतिर् इव आहुत्यर्थत्वात् पुण्यहेतुत्वाच् च सत्त्रतुल्यम् । सत्त्रं च प्रदानार्थेन वषट्कारेण युक्तं भवति । इदम् अपि अनध्यायाध्ययनात् **अनध्यायवषट्कृतम्** ॥ २.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.
 </details>

@@ -3,6 +3,11 @@ title = "021 पुष्प-मूल-फलैर् वापि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	Or he may constantly subsist on flowers, roots, and fruit alone, which have been ripened by time and have fallen spontaneously, following the rule of the (Institutes) of Vikhanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may always subsist only on flowers, roots and fruits, which have ripened in their own season and fallen down spontaneously,—keeping firm in the ways of life prescribed in the ‘Vaikhānasa’ Institutes.—(21).
@@ -51,9 +56,4 @@ Finally he shall content himself with what has become detached spontaneously. Th
 **The commentary and the mūla texts from 6.21–38 were illegible to Derrett. This is something that we may want to revisit by reading the original Malayalam manuscript. The readable commentary ends thus:
 
 पुनर् ब्राह्मः एतस्माल् लिङ्गाद् अग्निपरित्यागात् । । । योत्सन्नशाखास्थम् अनुत्सन्नशाखास्थं वा चतुर्थम् आश्रमान्तरं प्रसादयितयं श्रुत्यविरोदेन्ह, यत् कारणं न ह्य् अकस्मात् सर्वकर्मसूत्रकर्तनो ऽस्ति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-021	Or he may constantly subsist on flowers, roots, and fruit alone, which have been ripened by time and have fallen spontaneously, following the rule of the (Institutes) of Vikhanas.
 </details>

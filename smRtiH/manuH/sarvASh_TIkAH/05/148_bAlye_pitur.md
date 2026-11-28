@@ -2,6 +2,11 @@
 title = "148 बाल्ये पितुर्"
 +++
 
+<details><summary>Bühler</summary>
+
+148	In childhood a female must be subject to her father, in youth to her husband, when her lord is dead to her sons; a woman must never be independent.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In childhood she should remain under the control of her father, in youth under that of her husband, and on the husband’s death under that of her sons; the woman should never have recourse to independence.—(146).
@@ -66,11 +71,6 @@ side, the king is the supporter and master of the woman; he shall support her an
 <details><summary>गोविन्दराजः</summary>
 
 किं तर्हि **बाल्य** इति । **पुत्राणां भर्तरि प्रेते न भजेत् स्त्री स्वतन्त्रताम् **। बाल्ययौवनभर्तृप्रमीतेषु पितृभर्तृपुत्राणाम् आयत्ता भवेत् तदभावे ऽपि ज्ञातिराजायत्ता स्यात् । न तु कदाचित् स्वातन्त्र्यम् आश्रयेत् ॥ ५.१४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	In childhood a female must be subject to her father, in youth to her husband, when her lord is dead to her sons; a woman must never be independent.
 </details>
 
 <details><summary>भारुचिः</summary>

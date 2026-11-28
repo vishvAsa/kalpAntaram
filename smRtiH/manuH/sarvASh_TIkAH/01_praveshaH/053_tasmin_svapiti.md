@@ -2,6 +2,11 @@
 title = "053 तस्मिन् स्वपिति"
 +++
 
+<details><summary>Bühler</summary>
+
+053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he slumbers, having retired within himself, all active embodied beings desist from their actions, and their mind falls into depression.—(53)
@@ -35,11 +40,6 @@ The meaning of this verse is quite clear, its meaning having been already explai
 <details><summary>गोविन्दराजः</summary>
 
 पूर्वोक्तम् एव स्पष्टयितुम् आह – **तस्मिन् स्वपति तु स्वस्थे** इति । **तस्मिन् **निवृत्तिस्थे **स्वस्थे** उपसंहृतव्यापारमनस्के कर्माक्षिप्तशरीराः शरीरिणः क्षेत्रज्ञाः **स्वकर्मभ्यः** शरीरग्रहणादिभ्यो **निवर्तन्ते **। मनश् च सर्वेन्द्रियरहितं निर्व्यापारं भवति ॥ १.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.
 </details>
 
 <details><summary>भारुचिः</summary>

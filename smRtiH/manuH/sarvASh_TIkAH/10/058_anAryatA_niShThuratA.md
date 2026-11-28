@@ -3,6 +3,11 @@ title = "058 अनार्यता निष्ठुरता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	Behaviour unworthy of an Aryan, harshness, cruelty, and habitual neglect of the prescribed duties betray in this world a man of impure origin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Snobbishness, harshness, cruelty, and proneness to neglect duties, mark the man of impure origin in this world.—(58)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 10.57].
 <details><summary>भारुचिः</summary>
 
 [अनार्यम् अन्त्यजम् अनार्य]बाष्यम् इमं वेतु [**अनार्यता**] **निष्ठुरता क्रूरता निष्क्रियात्मतेति** एवमादीनां कलुषयोनिलिङ्गानां निदर्शनार्थान्य् एतानि नान्यनिवृत्त्यर्थानि । एवं च सत्य् एवमादीनि **पुरुषं व्यञ्जयन्तीह लोके कलुषयोनिजं** मुख्यकुलसंभूतम् अपि । कस्य पुनर् हेतोः । बीजानुविधानात् तत्कार्याणाम् । तथा दर्शयति ॥ १०.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	Behaviour unworthy of an Aryan, harshness, cruelty, and habitual neglect of the prescribed duties betray in this world a man of impure origin.
 </details>

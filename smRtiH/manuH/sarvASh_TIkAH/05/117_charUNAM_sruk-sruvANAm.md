@@ -2,6 +2,11 @@
 title = "117 चरूणां स्रुक्-स्रुवाणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+117	The Karu and (the spoons called) Sruk and Sruva must be cleaned with hot water, likewise (the wooden sword, called) Sphya, the winnowing-basket (Surpa), the cart (for bringing the grain), the pestle and the mortar.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During sacrificial performance there should be cleaning of the sacrificial vessels; the purification of spoons and cups is accomplished by washing;—(115)
@@ -102,11 +107,6 @@ which has been defiled, and the rest should be threshed and washed.’
 <details><summary>गोविन्दराजः</summary>
 
 **चरूणाम्** इति । चरुशूर्पादीनां यज्ञाङ्गभूतानां भाण्डविशेषाणां तदङ्गतयोष्णोदकेन शुद्धिः ॥ ५.११७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-117	The Karu and (the spoons called) Sruk and Sruva must be cleaned with hot water, likewise (the wooden sword, called) Sphya, the winnowing-basket (Surpa), the cart (for bringing the grain), the pestle and the mortar.
 </details>
 
 <details><summary>भारुचिः</summary>

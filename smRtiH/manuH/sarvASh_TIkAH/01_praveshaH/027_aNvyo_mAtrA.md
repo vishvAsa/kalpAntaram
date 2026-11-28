@@ -2,6 +2,11 @@
 title = "027 अण्व्यो मात्रा"
 +++
 
+<details><summary>Bühler</summary>
+
+027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The evanescent subtile constituents of the half-ten (Elemental Substances) that have been described,—along with those, this whole (world) comes forth, in due order.—(27)
@@ -38,11 +43,6 @@ The commentators are at some pains to explain the incongruity of the inter-posit
 <details><summary>गोविन्दराजः</summary>
 
 **अन्व्य** इति । पञ्चानां तन्मात्राणां याः सूक्ष्ममात्राः भागाः **विनाशिन्यः** विपरिणामित्वात् । **ताभिः** सहोक्तवक्ष्यमाणम् इदम् उत्पद्यते । क्रमेण सर्वत्र तासाम् अनुसृतत्वात् । तत्त्वैर् विनैव समनन्तरोक्तवक्ष्यमाणा सृष्टिर् इत्य् एतद् भ्रान्तिनिराकरणाय पुनस् तत्त्वोद्भवत्वं सृष्टिमध्ये स्मारयति ॥ १.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
 </details>
 
 <details><summary>भारुचिः</summary>

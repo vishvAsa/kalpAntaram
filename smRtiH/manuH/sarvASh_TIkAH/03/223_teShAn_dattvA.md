@@ -3,6 +3,11 @@ title = "223 तेषान् दत्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having poured into their hands water and sesamum along with kuśa blades, he should offer the top portion of the ball, saying “May this be svadhā to these.”—(223)
@@ -41,9 +46,4 @@ Manu.)
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । **तेषां** ब्राह्मणानां **हस्तेषु** सदर्भं **तिलोदकं दत्वा** पिण्डेभ्यः स्वल्पिकां मात्राम् इत्य् अनेन यन् निर्दिष्टं तत् **पिण्डाग्रं **पित्रे **स्वधास्तु** इत्य् एवमाइ **ब्रुवन् **क्रमेण दद्यात् ॥ ३.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'
 </details>

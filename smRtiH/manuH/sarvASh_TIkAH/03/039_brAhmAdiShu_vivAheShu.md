@@ -3,6 +3,11 @@ title = "039 ब्राह्मादिषु विवाहेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Only from the four marriages mentioned successively, beginning with the Brāhma, are born sons endowed with Brahmic glory and respected by cultured persons.—(39)
@@ -75,9 +80,4 @@ marrying of a girl by the right form is double in the case of her being given to
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मादिष्व्** इति । **रूपसत्त्वगुणोपेता** इति । **ब्राह्मादिषु विवाहेषु चतुर्षु** क्रमावस्थितेषु अध्ययनादिसम्पत्तेजोयुक्ताः साधुप्रियालावण्येन द्वादशाध्यायवक्ष्यमाणलक्षणेन सत्त्वेन दयादिभिः श्रीगुणैर् युक्ताः धनिनः ख्यातिमन्तः सम्पन्नस्रगनुलेपनादि-भोगानुष्ठातारः पुत्रा जायन्ते शतं वर्षाणां जीवन्ति ॥ ३.३९–४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).
 </details>

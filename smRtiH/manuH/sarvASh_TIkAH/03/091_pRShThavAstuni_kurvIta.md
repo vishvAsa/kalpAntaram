@@ -3,6 +3,11 @@ title = "091 पृष्ठवास्तुनि कुर्वीत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These offerings one should make in the upper dwelling, for the purpose of acquiring all kinds of food. The entire remnant of the offerings he should offer towards the South, to the pitṛs.—(91)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **पृष्ठे वास्तुनि कुर्वीतेति **। वेश्मन उपरि वेश्मनः पृष्ठे वासुप्रदेशे वा तत्र **सर्वान्नभूतये **नम इत्य् एवं बलिं कुर्यात् । बल्यर्थं घृतान्नशेषं सर्वं दक्षिणस्यां दिशि “स्वधा पितृभ्य इति प्राचीनावीती” इत्य् एवं गृह्यदर्शनात् **पितृभ्यो हरेत्** ॥ ३.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.
 </details>

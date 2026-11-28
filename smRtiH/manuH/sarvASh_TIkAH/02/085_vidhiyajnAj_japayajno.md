@@ -2,6 +2,11 @@
 title = "085 विधियज्ञाज् जपयज्ञो"
 +++
 
+<details><summary>Bühler</summary>
+
+085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offering that consists in the repeating of mantras excels the enjoined (ritualistic) offering ten times; the inaudible (repeating) excels this latter a hundred times; and the Mental (repeating) excels it a thousandfold.—(85)
@@ -70,11 +75,6 @@ The term ‘*sāhasra*’ literally means *that which has a thousand*; and since
 _शब्दार्थयोर् वेदान्तदृष्ट्योत्पादित (शब्दार्थो यो वेदान्तदृष्ट्योत्पादितः) वैदिककर्मनिन्दया प्रकृतार्थस्तुतिः ।_
 
 **विधियज्ञाद्** इति । बाह्यव्यापारसम्पाद्याद् अग्निष्टोमादेः **जपयज्ञः विशिष्टो दशभिर् गुणैः** दशगुणफलत्वात् । स एव **चोपांशुः **यं परो न शृणोति **स शतगुणः । **मनोव्यापारसम्पाद्यश् च **सहस्रगुण** इति अभ्यासातिशयापेक्षया द्रव्यत्यागाद् अपि चान्तःसंयमस्य दुःसहत्वात् वैदिककर्मफलाधिक्येन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.
 </details>
 
 <details><summary>भारुचिः</summary>

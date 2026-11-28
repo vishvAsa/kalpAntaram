@@ -2,6 +2,11 @@
 title = "002 वेदान् अधीत्य"
 +++
 
+<details><summary>Bühler</summary>
+
+002	(A student) who has studied in due order the three Vedas, or two, or even one only, without breaking the (rules of) studentship, shall enter the order of householders.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having learnt, in due course, three Vedas, or two Vedas, or one Veda, he should enter upon the state of the householder, having never deviated from the vows of studentship.—(2).
@@ -117,11 +122,6 @@ he shall marry a girl endowed with good qualities.’
 <details><summary>गोविन्दराजः</summary>
 
 **वेदान्** इति । शाखात्रयं द्वयं चैकां वा स्वशाखापूर्वक्रमेण मन्त्रब्राह्मणपौर्वापर्यस्थितिक्रमेण **चाधीत्य **अखण्डित**ब्रह्मचर्यो **ऽसञ्जातस्त्रीसम्प्रयोगः गार्हस्थ्यं प्रतिपद्यते ॥ ३.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	(A student) who has studied in due order the three Vedas, or two, or even one only, without breaking the (rules of) studentship, shall enter the order of householders.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "419 अहन्य् अहन्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+419	Let him daily look after the completion of his undertakings, his beasts of burden, and carriages, (the collection of) his revenues and the disbursements, his mines and his treasury.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Day after day he shall look after his business-centres, his conveyances, his income and expenditure regularly, and mines and treasury.—(419)
@@ -77,9 +82,4 @@ shall himself examine his income and expenditure.’
 <details><summary>भारुचिः</summary>
 
 लोकस्थित्यर्थस्य राज्यतन्त्रहेतोश् च पौरजानपदानां व्यवहारजातस्यानुरोधेनेति व्यवहारदर्शन[ं कृत्वा] ॥ ८.४१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-419	Let him daily look after the completion of his undertakings, his beasts of burden, and carriages, (the collection of) his revenues and the disbursements, his mines and his treasury.
 </details>

@@ -3,6 +3,11 @@ title = "094 कृत्वैतद् बलिकर्मैवम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having performed this rite of offerings, he should first feed his guest and then give alms in the proper form, to one who is mendicant and a ‘Brahmacārin’—(94)
@@ -84,9 +89,4 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 <details><summary>गोविन्दराजः</summary>
 
 **कृत्वेति** । **एवम् **उक्तस्वरूपेण **एतद् बलिकर्म **कृत्वा सर्वगृहभोक्तृभ्यः पूर्वं **अतिथिं **पूजयेत् । भिक्षणशीलाय ब्रह्मचारिणे समकालम् एव “स्वस्तिवाच्य भिक्षादानं अप्पूर्वम्” इति गौतमोक्तविधानेन भिक्षां दद्यात् ॥ ३.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.
 </details>

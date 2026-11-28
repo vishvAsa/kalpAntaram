@@ -3,6 +3,11 @@ title = "132 उद्वर्तनम् अपस्नानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not intentionally stand upon unguent-powder, or upon used water, or on urine or ordure, or on blood, or on mucus, spittings and vomitings.—(132)
@@ -52,9 +57,4 @@ or spittings or unguent-powder.’
 <details><summary>गोविन्दराजः</summary>
 
 **उद्वर्तनम्** इति । **उद्वर्तनं** स्नानोदकमूत्रपुरीषरुधिर**श्लेष्मवान्तानि **इच्छातो नाक्रामेत् **तिष्ठ्यूतं **च ताम्बूलाद्यं श्लेष्मरूपम् अपि ॥ ४.१३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.
 </details>

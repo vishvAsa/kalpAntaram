@@ -2,6 +2,11 @@
 title = "200 गुरोर् यत्र"
 +++
 
+<details><summary>Bühler</summary>
+
+200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where the censuring or defaming of his Teacher is going on, there he should either close his ears, or go away thence to another place.—(200)
@@ -55,11 +60,6 @@ their Teacher, by speech, mind and deed,—are as useless to them, as they are t
 <details><summary>गोविन्दराजः</summary>
 
 **गुरोर्** इति । यस्मिन् देशे गुरोः सदोषाभिधानम् असद्दोषकथनं वा केचन कुर्वन्ति **कर्णौ तत्रा**च्छादनीयौ तस्मात् प्रदेशाद् अन्यत्र **गन्तव्यम्** । न चात्मना परीवादादि कर्तव्यम् ॥ २.२०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.
 </details>
 
 <details><summary>भारुचिः</summary>

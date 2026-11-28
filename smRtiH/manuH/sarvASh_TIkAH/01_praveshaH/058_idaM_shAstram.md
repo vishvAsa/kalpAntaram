@@ -2,6 +2,11 @@
 title = "058 इदं शास्त्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having prounded this Law, he himself, first of all, taught it to me with due care; I then taught it to Marīci and other Sages.—(58)
@@ -46,11 +51,6 @@ Parāśara-mādhava (Ācāra—p. 106) quotes this verse in support of the view 
 <details><summary>गोविन्दराजः</summary>
 
 **इदम्** इति । स ब्रह्मा **इदं शास्त्रं** इमं ग्रन्थं **कृत्वा **शास्त्रस्य “इदं कर्तव्यम् इदं न” इत्य् एवं स्वरूपनित्यत्वान् **माम् एव **आत्मनादौ यत्नतो ऽध्यापितवान् । ततो **मरीच्यादीन् मुनीन्** **अहम् **अध्यापितवान् ॥ १.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.
 </details>
 
 <details><summary>भारुचिः</summary>

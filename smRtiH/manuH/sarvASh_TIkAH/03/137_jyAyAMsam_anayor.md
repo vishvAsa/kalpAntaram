@@ -2,6 +2,11 @@
 title = "137 ज्यायांसम् अनयोर्"
 +++
 
+<details><summary>Bühler</summary>
+
+137	Know that he whose father knows the Veda, is the more venerable one (of the two); yet the other one is worthy of honour, because respect is due to the Veda (which he has learned).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Of these two one should regard him as superior whose father is learned in the Veda; while the other deserves honour for the sake of the veneration due to the Veda.—(137)
@@ -39,11 +44,6 @@ And since it is this distinction that is sought to be brought out in this verse,
 <details><summary>गोविन्दराजः</summary>
 
 तयोः कः श्रेयान् इत्य् उपन्यस्याह **ज्यायांसम्** इति । अनयोः पूर्वनिर्दिष्टयोर् मध्यात् श्रोत्रियपुत्रम् आत्मनाश्रोत्रियम् अपि प्रशस्यतरं जानीयात् । पश्चात् अश्रोत्रियपुत्रः आत्मना च श्रोत्रियः स तदधीतवेदपूजार्थं पूजाम् अर्हति । वेदस् तद्द्वारेण पूज्यते । न त्व् असौ पूजार्ह इति पित्रादिविद्यापरीक्षार्थम् । एतच् चाश्रोत्रियदानार्थम्, “श्रोत्रियैव देयानि” इति नियमात् । एवं च “दूराद् एव परीक्षेत” इत्य् एतत् विद्याव्यतिरिक्तजात्यतिशयपरीक्षार्थत्वेनावतिष्ठते ॥ ३.१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Know that he whose father knows the Veda, is the more venerable one (of the two); yet the other one is worthy of honour, because respect is due to the Veda (which he has learned).
 </details>
 
 <details><summary>भारुचिः</summary>

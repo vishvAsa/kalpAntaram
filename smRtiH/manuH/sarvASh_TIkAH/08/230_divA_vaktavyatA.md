@@ -3,6 +3,11 @@ title = "230 दिवा वक्तव्यता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+230	During the day the responsibility for the safety (of the cattle rests) on the herdsman, during the night on the owner, (provided they are) in his house; (if it be) otherwise, the herdsman will be responsible (for them also during the night).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Responsibility for the safe keeping during the day rests with the keeper, and during the night, with the owner, ip in his own house; if otherwise, the keeper should be responsible.—(230)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 8.229].
 <details><summary>भारुचिः</summary>
 
 पर्तीतार्थः श्लोकः ॥ ८.२२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	During the day the responsibility for the safety (of the cattle rests) on the herdsman, during the night on the owner, (provided they are) in his house; (if it be) otherwise, the herdsman will be responsible (for them also during the night).
 </details>

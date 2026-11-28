@@ -3,6 +3,11 @@ title = "104 जीवितात्ययम् आपन्नो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+104	He who, when in danger of losing his life, accepts food from any person whatsoever, is no more tainted by sin than the sky by mud.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, threatened with loss of life, eats food from stray sources, he does not become tainted with sin, just as Ākāśa is not defiled by mud.—(104)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 10.101].
 <details><summary>गोविन्दराजः</summary>
 
 **जीवितात्ययम्** इति । यः प्राणात्ययं प्राप्तः प्रतिलोमाद् अपि अन्नम् अश्नाति सो ऽन्तरिक्षम् इव कर्दमेन पापेन न सम्बध्यते । अत्र परवृत्त्यर्थवादः ॥ १०.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	He who, when in danger of losing his life, accepts food from any person whatsoever, is no more tainted by sin than the sky by mud.
 </details>

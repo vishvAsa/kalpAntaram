@@ -3,6 +3,11 @@ title = "250 सकृज् जप्त्वास्यवामीयम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+251	Even he who has stolen gold, instantly becomes free from guilt, if he once mutters (the hymn beginning with the words) 'The middlemost brother of this beautiful, ancient Hotri-priest' and the Sivasamkalpa.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having stolen gold, one instantly becomes free from impurity, by reciting once the ‘Āsyavāmīya hymn’ and the ‘Śivasaṅkalpa hymn.’—(250)
@@ -55,9 +60,4 @@ guilt, if he once recites the hymn beginning with “*Asya vāmasya*,” and als
 <details><summary>भारुचिः</summary>
 
 "अस्य वामस्य पलितस्य होतुः" इति द्विपञ्चाशद् ऋग्लक्षितं सूक्तम् **आस्यवामीयम्** । **शिवसंकल्पम्** अपि सूक्तम् "यज् जाग्रतो दूरम् उदैति दैवम्" इति षडृगुपलक्षितम् । सकृद् इति च प्रत्यहम् एतज्जपकर्ममासं ज्ञेयम् अधिकराद् । उक्तं हि- "अपि भ्रूणहनं मासात्" इति ॥ ११.२४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-251	Even he who has stolen gold, instantly becomes free from guilt, if he once mutters (the hymn beginning with the words) 'The middlemost brother of this beautiful, ancient Hotri-priest' and the Sivasamkalpa.
 </details>

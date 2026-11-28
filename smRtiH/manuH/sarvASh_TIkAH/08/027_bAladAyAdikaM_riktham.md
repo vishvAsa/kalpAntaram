@@ -3,6 +3,11 @@ title = "027 बालदायादिकं रिक्थम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	The king shall protect the inherited (and other) property of a minor, until he has returned (from his teacher's house) or until he has passed his minority.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall take care of the property owned by a minor, till such time as he may return from the teacher’s house, or till he may have passed his minority.—(27)
@@ -76,9 +81,4 @@ shall protect his property.’
 <details><summary>भारुचिः</summary>
 
 रिक्थ] इति नित्यं धनम्, समासार्थः । एवं च सत्य् अमातृपितृको ऽयम् अनाथः सामर्थ्याद् विज्ञायते । यतस् तद्धनं तावद् राज्ञा रक्ष्यमाणं तिष्ठेत् यावद् अयं **समावृत्तः** । समावृत्तिस् त्व् अस्य संव्यवहारक्षमत्वोपलक्षणार्थः । एवं च सति समावृत्तम् अपि शिशुं सन्तं न प्रतिपादयेद् असमर्थम् अववित्तसं[व्यवहारे । यावद् वातीतशैशवः], असमावृत्तो ऽपि । सामर्थ्यापेक्षत्वात् प्रतिपादयेद् इत्य् उक्तम् । अनाथवित्तसंरक्षणोपदेशप्रकरणाद् इदम् अन्यम् उच्यते तद्रूपम् ॥ ८.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	The king shall protect the inherited (and other) property of a minor, until he has returned (from his teacher's house) or until he has passed his minority.
 </details>

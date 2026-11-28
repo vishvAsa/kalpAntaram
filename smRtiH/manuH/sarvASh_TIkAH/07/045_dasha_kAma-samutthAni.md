@@ -3,6 +3,11 @@ title = "045 दश काम-समुत्थानि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	Let him carefully shun the ten vices, springing from love of pleasure, and the eight, proceeding from wrath, which (all) end in misery.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall shun the ten ruinous vices springing from love of plea sure, as also the eight arising from anger.—(45)
@@ -88,9 +93,4 @@ shall acquire sense-control; by associating with elders, he shall acquire wisdom
 <details><summary>भारुचिः</summary>
 
 कामक्रोधसमुत्थयोर् दुःखयोर् उपन्यासस् त्यागार्थः, कामक्रोधपरित्यागेन । तत्त्यागश् चेन्द्रियजयेनेत्य् उक्तम् । बलाबलम् अधुना व्यसनवर्गस्योच्यते, आदरार्थम् । कथं नामायं गुरुतरं व्यसनवर्गम् आदरेण जह्यात् ॥ ७.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	Let him carefully shun the ten vices, springing from love of pleasure, and the eight, proceeding from wrath, which (all) end in misery.
 </details>

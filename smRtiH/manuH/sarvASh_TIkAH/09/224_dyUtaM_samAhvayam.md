@@ -3,6 +3,11 @@ title = "224 द्यूतं समाह्वयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+224	Let the king corporally punish all those (persons) who either gamble and bet or afford (an opportunity for it), likewise Sudras who assume the distinctive marks of twice-born (men).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who either does the gambling or betting himself, or helps others to do them,—all these the King shall strike; as also those Śūdras who assume the guise of twice-born men.—(224)
@@ -48,9 +53,4 @@ their hands cut off.’
 <details><summary>भारुचिः</summary>
 
 सभिका अपि कारयतो द्यूतं ताडयितव्याः न केवलं कर्तारः । प्रतिषेधपरत्वाच् च वधोपदेशस्यान्येनाप्य् उपायेन तेषां प्रतिषेधः कर्तव्यो राजतन्त्रविरोधिनाम् । येन न ह्य् अत्र धर्मातिक्रमः कश्चिद् अस्ति । एवं च सत्य् अत्र वधिस् ताडनार्थः एव विज्ञेयः । धर्मव्यवस्थाभेदिनस् तु शूद्रान् द्विजलिङ्गिनो घातयेद् एव । द्विजलिङ्गिनश् च शूद्रा यज्ञो[पवी]तपात्रधारिणो भोशब्दवादिनः परिव्राजकादिवेषधारिणश् च । व्याकरणाध्ययनम् अपि च द्विजलिङ्गम् इति शक्यं वक्तुम् ॥ ९.२२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-224	Let the king corporally punish all those (persons) who either gamble and bet or afford (an opportunity for it), likewise Sudras who assume the distinctive marks of twice-born (men).
 </details>

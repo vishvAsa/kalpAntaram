@@ -3,6 +3,11 @@ title = "038 तमसो लक्षणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	The craving after sensual pleasures is declared to be the mark of Darkness, (the pursuit of) wealth (the mark) of Activity, (the desire to gain) spiritual merit the mark of Goodness; each later) named quality is) better than the preceding one.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Pleasure is the distinguishing feature of ‘Tamas,’ ‘Wealth’ is described to be that of ‘Rajas,’ and ‘Spiritual Merit’ is the distinguishing feature of ‘Sattva,’—each succeeding one of these being superior to the preceding.—(38)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>भारुचिः</summary>
 
 गुणाना[म् एव] ।
-</details>
-
-<details><summary>Bühler</summary>
-
-038	The craving after sensual pleasures is declared to be the mark of Darkness, (the pursuit of) wealth (the mark) of Activity, (the desire to gain) spiritual merit the mark of Goodness; each later) named quality is) better than the preceding one.
 </details>

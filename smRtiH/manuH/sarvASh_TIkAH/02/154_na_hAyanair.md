@@ -2,6 +2,11 @@
 title = "154 न हायनैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither by years, nor by grey hair, nor by wealth, nor by relatives (is greatness attained); since the sages have made the law that ‘he who teaches is the greatest among us.’—(154)
@@ -52,11 +57,6 @@ See Comparative notes for [Verse 2.150].
 <details><summary>गोविन्दराजः</summary>
 
 अतश् च **न हायनैर् **इति । न वयो भूयः शिरः पाण्दुर्यधनबन्धुभिः ज्यायस्त्वम् । अपि तु यो ऽध्यापनसमर्थः स श्रेष्ठ इत्य् अस्माकं मतम् इत्य् एवम् **ऋषयो धर्मं** व्यवस्थापितवन्तः ॥ २.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
 </details>
 
 <details><summary>भारुचिः</summary>

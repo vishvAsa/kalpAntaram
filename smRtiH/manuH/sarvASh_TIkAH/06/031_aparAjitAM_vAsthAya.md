@@ -3,6 +3,11 @@ title = "031 अपराजितां वास्थाय"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	Or let him walk, fully determined and going straight on, in a north-easterly direction, subsisting on water and air, until his body sinks to rest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, having fixed upon the North-Easterly direction, he shall go forward, moving straight on, intent and living upon water and air,—till the falling off of his body.—(31).
@@ -64,11 +69,6 @@ Long Journey, or drown in water or enter the fire, or fall from a precipice.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-031	Or let him walk, fully determined and going straight on, in a north-easterly direction, subsisting on water and air, until his body sinks to rest.
-</details>
-
-<details><summary>Bühler</summary>
 
 031	Or let him walk, fully determined and going straight on, in a north-easterly direction, subsisting on water and air, until his body sinks to rest.
 </details>

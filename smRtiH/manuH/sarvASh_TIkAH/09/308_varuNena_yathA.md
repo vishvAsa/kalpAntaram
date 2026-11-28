@@ -3,6 +3,11 @@ title = "308 वरुणेन यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+308	As (a sinner) is seen bound with ropes by Varuna, even so let him punish the wicked; that is his office in which he resembles Varuna.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As one is always found bound up with ropes by Varuṇa, even so shall the king punish the wicked; this is the function of Varuṇa.—(308)
@@ -43,9 +48,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19).
 <details><summary>कुल्लूकः</summary>
 
 यो वरुणस्य रज्जुनिर्बन्धयितुमिष्टः स यथा तेनाविशङ्कितःएव लक्ष्यते। तथापापकारिणोऽविशङ्कितानेवयावन्न पारयन्ते तावच्छासयेत्॥३०८॥
-</details>
-
-<details><summary>Bühler</summary>
-
-308	As (a sinner) is seen bound with ropes by Varuna, even so let him punish the wicked; that is his office in which he resembles Varuna.
 </details>

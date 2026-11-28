@@ -2,6 +2,11 @@
 title = "211 अभ्यञ्जनं स्नापनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Annointing, assisting at bath, shampooing of limbs and dressing of the hair should not be done for the teacher’s wife.—(211)
@@ -56,11 +61,6 @@ applying of collyrium, dressing of hair, or touching the feet and such like acts
 <details><summary>गोविन्दराजः</summary>
 
 **अभ्यञ्जनम्** इति । अभ्यङ्गस्नापनोद्वर्तनकेशरचा गुरुभार्याया **न कार्याः** ॥ २.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
 </details>
 
 <details><summary>भारुचिः</summary>

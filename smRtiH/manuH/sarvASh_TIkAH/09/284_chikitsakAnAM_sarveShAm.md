@@ -3,6 +3,11 @@ title = "284 चिकित्सकानां सर्वेषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+284	All physicians who treat (their patients) wrongly (shall pay) a fine; in the case of animals, the first (or lowest); in the case of human beings, the middlemost (amercement).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All physicians dealing dishonestly are liable to punishment; in the case of patients other than human, the lowest, and in that of human patients, the middlemost amercement.—(284)
@@ -57,9 +62,4 @@ the case of a patient of high rank should pay the highest amercement;—the midd
 <details><summary>भारुचिः</summary>
 
 प्रथममध्यमौ साहसोत्तरपदाव् एतौ द्रष्टव्यौ । विना शास्त्रेण । [अथ]वा सति शास्त्राध्ययने मिथ्या ये चिकित्सायां वर्तन्ते मानुषामानुषेषु तेषाम् एष दमः ॥ ९.२८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-284	All physicians who treat (their patients) wrongly (shall pay) a fine; in the case of animals, the first (or lowest); in the case of human beings, the middlemost (amercement).
 </details>

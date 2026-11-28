@@ -2,6 +2,11 @@
 title = "077 यथा वायुम्"
 +++
 
+<details><summary>Bühler</summary>
+
+077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as all Creatures subsist by deriving support from air, so do the other states subsist by deriving support from the Housohelder.—(77)
@@ -41,11 +46,6 @@ The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* co
 अपि च –
 
 यथा प्राणवाय्ववलम्बनेन सर्वप्राणिनो जीवन्ति, एवं **गृहस्थाश्रमम् आश्रित्य **अवलम्ब्याश्रमान्तराणि ध्रियन्ते ॥ ३.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
 </details>
 
 <details><summary>भारुचिः</summary>

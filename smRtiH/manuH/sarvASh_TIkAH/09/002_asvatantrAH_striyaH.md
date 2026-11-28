@@ -3,6 +3,11 @@ title = "002 अस्वतन्त्राः स्त्रियः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	Day and night woman must be kept in dependence by the males (of) their (families), and, if they attach themselves to sensual enjoyments, they must be kept under one's control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the day and the night women should not be left to themselves by their men. If they become addicted to sensual objects, they should be kept under one’s control.—(2).
@@ -93,9 +98,4 @@ employment of the means of realising the three ends of spiritual merit, wealth a
 
 
 <u>सत्यम्</u> । स्त्रीधर्मा एव ते । इमे तु वक्ष्यमाणाः स्त्रीपुंसयोः । तथा च सति प्रतिज्ञेयं पुरुषस्य् स्त्रियाश् चैवेति । शास्त्रानुक्रमण्यां चैवम् एवोक्तम् । "साक्षिप्रश्नविधानं च धर्मः स्त्रीपुंसयोस् तथा" इति । पुनश् च व्यवहारानुक्रण्याम् अष्टमे ऽध्याये समस्तयोर् एव निर्देशः । "स्त्रीपुंधर्मो विभागश् च" इति । अथ वोत्तरार्थम् एतत् स्यात् । एवं च सति यद् उक्तम् आसां स्त्रीधर्मेषु पारतन्त्र्यं तत् कुतः स्याद् इत्य् अत इदं तत्संबन्धेनोच्यते ॥ ९.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	Day and night woman must be kept in dependence by the males (of) their (families), and, if they attach themselves to sensual enjoyments, they must be kept under one's control.
 </details>

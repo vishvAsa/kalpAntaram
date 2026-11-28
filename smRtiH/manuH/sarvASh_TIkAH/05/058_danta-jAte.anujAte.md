@@ -2,6 +2,11 @@
 title = "058 दन्त-जाते ऽनुजाते"
 +++
 
+<details><summary>Bühler</summary>
+
+058	When (a child) dies that has teethed, or that before teething has received (the sacrament of) the tonsure (Kudakarana) or (of the initiation), all relatives (become) impure, and on the birth (of a child) the same (rule) is prescribed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a child dies that has teethed, or one younger than it when its tonsure has been performed, all its relatives are ‘impure’. The same is declared to be the case with births also.—(58).
@@ -129,11 +134,6 @@ days; if the dead is a child less than two years old, the impurity attaches to t
 <details><summary>गोविन्दराजः</summary>
 
 **दन्तजाते ऽनुजाते चेति** । जातदन्ते ऽनुजाते च जातदन्ताद् बालतरे कृतचूडाकरणे चे । चकारात् कृतोपनयने च मृते सपिण्डसमानोदकाः सर्वे बान्धवाः अशुद्धास् तथा प्रसवे च सति तथैवाशुद्धा इत्य् उच्यते । कृतचूड इति च भूयिष्ठे तृतीय इति गृह्योक्तचूडाकालोपलक्षणेन कृतचूडत्वं विवक्षितम् । “रात्रिभिर् मासतुल्याभिः” इति गर्भात् प्रभृत्य् एव । भूयस्त्वेनाशौचवृद्धिदर्शनाद् इहापि च दन्तजाते ऽनुजाते चेति वयोद्वारेणैवोपक्रमाद् एव दशाहाशौचे ऽपि मुख्योपनयनकाललक्षणाविज्ञेयास् तु पञ्चवर्ष उपनीतस् तस्यापेक्षाया अभावात् तदानीम् एव परिपूर्णम् आशौचं भवति ॥ ५.५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-058	When (a child) dies that has teethed, or that before teething has received (the sacrament of) the tonsure (Kudakarana) or (of the initiation), all relatives (become) impure, and on the birth (of a child) the same (rule) is prescribed.
 </details>
 
 <details><summary>भारुचिः</summary>

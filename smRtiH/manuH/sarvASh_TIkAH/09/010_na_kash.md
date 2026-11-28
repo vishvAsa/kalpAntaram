@@ -3,6 +3,11 @@ title = "010 न कश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+010	No man can completely guard women by force; but they can be guarded by the employment of the (following) expedients:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 No man can guard women forcibly; they can however be guarded by the employment of these expedients.—(10)
@@ -46,9 +51,4 @@ by force, they should be employed in such work as will not leave them time for t
 <details><summary>भारुचिः</summary>
 
 पूर्वापरविरोधः शास्त्रे न न्याय्यो भिन्नप्रकरणे ऽपि, किं पुनर् एकप्रकरणे । यत एव[ं न कश्चिद्] योषितः शक्तः प्रसह्य परिरक्षितुम् इतीदं वक्ष्यमाणोपय(?)स्तुत्यर्थम् । एवं च पूर्वं स्त्रीसंरक्षणोपदेशो न विरुध्यते ॥ ९.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	No man can completely guard women by force; but they can be guarded by the employment of the (following) expedients:
 </details>

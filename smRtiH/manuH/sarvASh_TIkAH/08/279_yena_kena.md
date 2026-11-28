@@ -3,6 +3,11 @@ title = "279 येन केन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+279	With whatever limb a man of a low caste does hurt to (a man of the three) highest (castes), even that limb shall be cut off; that is the teaching of Manu.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With whatever limb the low-born man hurts a superior person, every such limb of his shall be cut off; this is the teaching of Manu.—(279)
@@ -92,9 +97,4 @@ Brāhmaṇa, that very limb of his shall be cut off; such shall be the atonement
 <details><summary>भारुचिः</summary>
 
 अयम् उक्तस्य विशेषप्रपञ्चस्य सामान्यनिर्देशः । श्रेष्ठं द्विजातिम्[आत्रम् इति] निदर्शनाच् च पूर्ववर्णस्य हिंसायाम् उत्तरेणाप्य् एतद् विज्ञेयम् । न केवलं शूद्रस्य पूर्वापराधे । अस्य सामान्यश्लोकस्य चत्वारो वक्ष्यमाणाः श्लोकाः प्रपञ्चाः ॥ ८.२७७–७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-279	With whatever limb a man of a low caste does hurt to (a man of the three) highest (castes), even that limb shall be cut off; that is the teaching of Manu.
 </details>

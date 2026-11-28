@@ -3,6 +3,11 @@ title = "320 क्षत्रस्याऽतिप्रवृद्धस�
 
 +++
 
+<details><summary>Bühler</summary>
+
+320	When the Kshatriyas become in any way overbearing towards the Brahmanas, the Brahmanas themselves shall duly restrain them; for the Kshatriyas sprang from the Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Kṣatriya shall become too over-bearing in every way towards Brāhmaṇas, the Brāhmaṇa himself shall be their restraining influence; as the Kṣatriya has his source in the Brāhmaṇa.—320
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 9.313].
 तेषां सर्वत्रगं तेजः स्वासु योनिषु शाम्यति॥ ३२१॥**
 
 जलब्राह्मणपाषाणेभ्योऽग्निक्षत्रियशस्त्राणिजातानि तेषां सम्बन्धि तेजः सर्वत्र दहनाभिभवच्छेदनार्थकं कार्यंकरोति। स्वकारणेषु जलब्राह्मणपाषाणाख्येषु दहनाभिभवच्छेदनात्मककार्यं न करोति॥ ३२१॥
-</details>
-
-<details><summary>Bühler</summary>
-
-320	When the Kshatriyas become in any way overbearing towards the Brahmanas, the Brahmanas themselves shall duly restrain them; for the Kshatriyas sprang from the Brahmanas.
 </details>

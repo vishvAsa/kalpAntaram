@@ -3,6 +3,11 @@ title = "059 एतद् वो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This Bhṛgu will fully describe to you this (Law); this sage has learnt the whole of this in its entirety, from me.—(59)
@@ -34,9 +39,4 @@ This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer
 <details><summary>गोविन्दराजः</summary>
 
 **एतद्** इति । **अयं भृगुः एतच् छास्त्रं** युष्माकम् **अशेषं श्रावयिष्यति** यस्माद् **एतत् सर्वं** मत्सकाशाद् **एषो ऽखिलं** कृत्वा अधिगतवान् ॥ १.५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.
 </details>

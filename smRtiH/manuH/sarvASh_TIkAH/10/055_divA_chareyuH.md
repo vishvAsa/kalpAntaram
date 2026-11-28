@@ -3,6 +3,11 @@ title = "055 दिवा चरेयुः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	By day they may go about for the purpose of their work, distinguished by marks at the king's command, and they shall carry out the corpses (of persons) who have no relatives; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During the day they may go about on business distinguished by royal signs; they shall carry out corpses of people without relations; such is the law.—(55)
@@ -34,9 +39,4 @@ During the day they may go about on business distinguished by royal signs; they 
 <details><summary>गोविन्दराजः</summary>
 
 **दिवेति** । दिवा ग्रामादौ राजादिष्टक्षूरादिचिह्नाङ्किताः सन्तः सप्रयोजनं पर्यटेयुः । अनाथं शवं ग्रामान् निर्हरेयुर् इति साधुमर्यादा ॥ १०.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	By day they may go about for the purpose of their work, distinguished by marks at the king's command, and they shall carry out the corpses (of persons) who have no relatives; that is a settled rule.
 </details>

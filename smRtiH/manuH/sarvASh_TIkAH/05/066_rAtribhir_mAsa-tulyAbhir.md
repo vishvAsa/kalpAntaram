@@ -2,6 +2,11 @@
 title = "066 रात्रिभिर् मास-तुल्याभिर्"
 +++
 
+<details><summary>Bühler</summary>
+
+066	(A woman) is purified on a miscarriage in as many (days and) nights as months (elapsed after conception), and a menstruating female becomes pure by bathing after the menstrual secretion has ceased (to flow).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of miscarriage, the woman becomes pure in so mamy days as there have been months; and the woman in her courses becomes fit by bathing after the ceasing of the menstrual flow.—(65)
@@ -102,11 +107,6 @@ is called “*Srāva*,” *Flowing out*; during the fifth and sixth months, it i
 > त्रिरात्रम् आ व्रतादेशाद् दशरात्रम् अतः परम् ॥
 
 इति याज्ञवल्क्येन स्मरणाद् दन्तजननाद् ऊर्ध्वं प्राक् चूडाकरणकालात् मृतानां नराणां सपिण्डेष्व् अहोरात्रेण शुद्धिः । चूडाकरणकालाद् ऊर्ध्वं प्राग् उपनयनकालात् मृतानां त्रिरात्रेण शुद्धिर् इष्यते ॥ ५.६६–६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	(A woman) is purified on a miscarriage in as many (days and) nights as months (elapsed after conception), and a menstruating female becomes pure by bathing after the menstrual secretion has ceased (to flow).
 </details>
 
 <details><summary>भारुचिः</summary>

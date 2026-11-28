@@ -2,6 +2,11 @@
 title = "029 चराणाम् अन्नम्"
 +++
 
+<details><summary>Bühler</summary>
+
+029	What is destitute of motion is the food of those endowed with locomotion; (animals) without fangs (are the food) of those with fangs, those without hands of those who possess hands, and the timid of the bold.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The immobile is the food of the mobile; those devoid of fangs are the food of those endowed with fangs; those without hands are the food of those with hands; and cowards are the food of the brave.—(29).
@@ -43,11 +48,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds—the ‘
 <details><summary>गोविन्दराजः</summary>
 
 **चराणाम्** इति । जङ्गमानाम् अजङ्गमाः स्थावराण्य् अन्नम् । दंष्ट्रावतां च व्याघ्रादीनाम् अदंष्ट्रा सर्पादयः । हस्तवतां मार्जारादीनां **अहस्ता** मत्स्यादयः **शूराणां** सिंहादीनां **भीरवो **हस्त्यादयः । अनिमित्तम् अन्नम् इति पूर्वश्लोकस्यैवायं प्रपञ्चः ॥ ५.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	What is destitute of motion is the food of those endowed with locomotion; (animals) without fangs (are the food) of those with fangs, those without hands of those who possess hands, and the timid of the bold.
 </details>
 
 <details><summary>भारुचिः</summary>

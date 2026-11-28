@@ -2,6 +2,11 @@
 title = "264 प्रक्षाल्य हस्ताव्"
 +++
 
+<details><summary>Bühler</summary>
+
+264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having washed the hands and sipped water, he should make offerings to his paternal relations; and having treated his paternal relations well, he should feed his other relations also.—(264)
@@ -77,11 +82,6 @@ along with his servants, sons and relations, and accompanied by guests, he shall
 <details><summary>गोविन्दराजः</summary>
 
 **प्रक्षाल्य हस्ताव् आचम्येति । ज्ञातिभ्यः सत्कृतं दत्वा ब्राह्मणान् अपि पूजयेत् **। तदनु **हस्तौ प्रक्षाल्याचम्य** ज्ञातीन् पितृपक्षात् प्रतियच्छतीति **ज्ञातिप्रायम् **अन्नं कुर्यात् । तेभ्यः पूजापूर्वकं **दत्वा **मातृपक्षादिभ्यो ऽपि सम्पूजां दद्यात् ॥ ३.२६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "101 एतान् दोषान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+101	'Marking well all the evils (which are produced) by perjury, declare thou openly everything as (thou hast) heard or seen (it).'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Having noticed all these evils proceeding prom perjury, speak out directly everything exactly what you have seen and heard.’—(101)
@@ -46,9 +51,4 @@ say exactly what they have seen or heard.’
 <details><summary>भारुचिः</summary>
 
 अमी पञ्च श्लोकाः सर्वसाक्षिसाधारणाः, अमृतवचनप्रतिषेधविद्वेषणार्था अर्थवादाः, न फलविधयः । अकृताभ्यागमकृतविप्रणाशदोषप्रसङ्गात् । एवं च प्रतिपुरुषं शास्त्राधिकारो हीयेत । आनर्थक्यं चास्य स्यात् । येन स्वकृतकर्मफलभोगः शास्त्रस्यार्थवत्त्वम् । अतः शास्त्रविरोधान् न्यायविरोधाच् च प्रतिषेधार्थवादा एवैते विज्ञेयाः ॥ ८.१००–१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-101	'Marking well all the evils (which are produced) by perjury, declare thou openly everything as (thou hast) heard or seen (it).'
 </details>

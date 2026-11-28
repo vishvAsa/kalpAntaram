@@ -2,6 +2,11 @@
 title = "233 इमं लोकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He acquires this region by devotion to his Mother, the middle region by devotion to his Father, and the region of Brahman by serving his Preceptor.—(233)
@@ -56,11 +61,6 @@ be Śiva.’
 <details><summary>गोविन्दराजः</summary>
 
 **इमम्** इति । मातृपित्राचार्यशुश्रूषाभिः पृथिव्यन्तरिक्ष**ब्रह्मलोकान्** प्राप्नोति ॥ २.२३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

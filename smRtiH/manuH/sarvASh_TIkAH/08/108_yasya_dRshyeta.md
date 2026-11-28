@@ -3,6 +3,11 @@ title = "108 यस्य दृश्येत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	The witness to whom, within seven days after he has given evidence, happens (a misfortune through) sickness, a fire, or the death of a relative, shall be made to pay the debt and a fine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That witness,—who may be found, within a week of having given evidence, to suffer from sickness, fire or the death of a relative,—should be made to pay the debt and also the penalty.—(108)
@@ -55,9 +60,4 @@ two weeks, some calamity befalls the man, he should be regarded as a sinner. If 
 <details><summary>भारुचिः</summary>
 
 अर्वाक् सप्ताहात् साक्षी कुटुम्बरोगादिदर्शनेन मिथ्यावचनस् साक्षाद् एव प्रतिपादितो दण्डयितव्यः । यावन्तं तदनृतेन दापितो वा दण्डितश् च । ऋणव्यवहारार्थं त्व् अन्यत्र शास्त्रसामर्थ्यापेक्षया । एवम् उभयं मिथ्यावचनेषु साक्षिषु प्रकल्प्यम् । असाक्षिकेषु तावद् व्यवहारेष्व् एवम् अन्मानसाक्षिनिमित्तो निर्णयः ॥ ८.१०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	The witness to whom, within seven days after he has given evidence, happens (a misfortune through) sickness, a fire, or the death of a relative, shall be made to pay the debt and a fine.
 </details>

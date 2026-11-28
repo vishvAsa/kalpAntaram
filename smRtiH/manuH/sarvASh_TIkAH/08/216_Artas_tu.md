@@ -3,6 +3,11 @@ title = "216 आर्तस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+216	But (if he is really) ill, (and) after recovery performs (his work) according to the original agreement, he shall receive his wages even after (the lapse of) a very long time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But if he is ill and on recovering, completes the work as originally stipulated, he shall receive his wages for it, even after a long time.—(216)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 8.215].
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थः श्लोकः ॥ ८.२१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-216	But (if he is really) ill, (and) after recovery performs (his work) according to the original agreement, he shall receive his wages even after (the lapse of) a very long time.
 </details>

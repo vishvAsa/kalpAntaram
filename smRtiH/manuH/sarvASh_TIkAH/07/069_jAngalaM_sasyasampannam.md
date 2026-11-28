@@ -3,6 +3,11 @@ title = "069 जाङ्गलं सस्यसम्पन्नम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	Let him settle in a country which is open and has a dry climate, where grain is abundant, which is chiefly (inhabited) by Aryans, not subject to epidemic diseases (or similar troubles), and pleasant, where the vassals are obedient and his own (people easily) find their livelihood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In connection with the business of the foreign king, he should explore, by means of secret hints and transactions, the expression, the hints and the transactions among his servants, as also the intentions of the king himself.—(67)
@@ -99,9 +104,4 @@ get inhabited either by importing men from other countries or by overflowings fr
 <details><summary>भारुचिः</summary>
 
 जाङ्ल्गलं नानाविधधान्यमूलफलपुष्पतृणेन्धनहेतुम् । **सस्यसंपन्नं** दुर्भिक्षरहितम् । **आर्यप्रायं** ब्राह्मणभूयिष्ठं धर्मादिपरिपालननिमित्तम् । **अनाविलं** श्वापदसरीसृपतस्करदंशमशकादिभिर् अनाकुलम् । **रम्यं** सर्वर्तुकुसुमसमृद्धपादपोद्यानादिभिः । **आनतसामन्तं** प्रह्वीभूतविनतसामन्तम् । **स्वाजीव्यं** प्रसन्नसलिलजलाशयम् अतिविशंकटगृहप्रासादमालिनम् । एभिश् च जाङ्गलादिभिर् अन्यैश् च देशगुणैः संपन्नं **देशम् आवसेत्** ॥ ७.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	Let him settle in a country which is open and has a dry climate, where grain is abundant, which is chiefly (inhabited) by Aryans, not subject to epidemic diseases (or similar troubles), and pleasant, where the vassals are obedient and his own (people easily) find their livelihood.
 </details>

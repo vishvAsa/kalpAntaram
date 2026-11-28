@@ -3,6 +3,11 @@ title = "207 भ्रातॄणां यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+207	But if one of the brothers, being able (to maintain himself) by his own occupation, does not desire (a share of the family) property, he may be made separate (by the others) receiving a trifle out of his share to live upon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among brothers, if any one, being quite competent through his own profession, does not desire the property, he shall be debarred from his share, after a little has been given to him by way of maintenance.—(207)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.204].
 <details><summary>भारुचिः</summary>
 
 अददताम् अपि तु नैव विरोधो ऽस्ति ॥ ९.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-207	But if one of the brothers, being able (to maintain himself) by his own occupation, does not desire (a share of the family) property, he may be made separate (by the others) receiving a trifle out of his share to live upon.
 </details>

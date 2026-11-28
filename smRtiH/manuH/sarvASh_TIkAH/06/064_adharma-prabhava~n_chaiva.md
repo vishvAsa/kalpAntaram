@@ -3,6 +3,11 @@ title = "064 अधर्म-प्रभवञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	On the infliction of pain on embodied (spirits), which is caused by demerit, and the gain of eternal bliss, which is caused by the attainment of their highest aim, (gained through) spiritual merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the infliction of pain upon living beings, caused by demerit; as also upon the imperishable union with happiness proceeding from the essence of merit.—(64)
@@ -50,9 +55,4 @@ bo met within this never-ceasing passage of the soul through mundane existence; 
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-064	On the infliction of pain on embodied (spirits), which is caused by demerit, and the gain of eternal bliss, which is caused by the attainment of their highest aim, (gained through) spiritual merit.
 </details>

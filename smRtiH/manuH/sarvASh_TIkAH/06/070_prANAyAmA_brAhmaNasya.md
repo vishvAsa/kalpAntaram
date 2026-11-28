@@ -3,6 +3,11 @@ title = "070 प्राणायामा ब्राह्मणस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Three suppressions of the breath even, performed according to the rule, and accompanied with the (recitation of the) Vyahritis and of the syllable Om, one must know to be the highest (form of) austerity for every Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even three ‘breath-suspensions,’ accompanied by the three ‘vyāhṛti’-syllables and the syllable ‘om’, when duly performed, should be regarded as the highest austerity for the Brāhmaṇa.—(70)
@@ -60,9 +65,4 @@ suppression of breath is the highest austerity; living on alms is better than fa
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Three suppressions of the breath even, performed according to the rule, and accompanied with the (recitation of the) Vyahritis and of the syllable Om, one must know to be the highest (form of) austerity for every Brahmana.
 </details>

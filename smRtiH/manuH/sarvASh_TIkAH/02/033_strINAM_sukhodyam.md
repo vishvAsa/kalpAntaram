@@ -2,6 +2,11 @@
 title = "033 स्त्रीणां सुखोद्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+033	The names of women should be easy to pronounce, not imply anything dreadful, possess a plain meaning, be pleasing and auspicious, end in long vowels, and contain a word of benediction.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That of women should be easily pronouncible, not harsh, of plain meaning, heart-captivating and auspicious; it should end in a long vowel and contain a benedictory term.—(33)
@@ -88,11 +93,6 @@ contain an even number of letters, and of females odd number of letters.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्त्रीणाम्** इति । सुसुखोच्चारणम् अक्रूरार्थवाचि विस्पष्टार्थं मनःप्रीतिकरं मङ्गलवाचि दीर्घाक्षरान्तम् आशीर्वाचकेनाभिधानेन शब्देन संसक्तं नाम् स्त्रीणां कार्यम् । यथा अमरदेवी इति ॥ २.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	The names of women should be easy to pronounce, not imply anything dreadful, possess a plain meaning, be pleasing and auspicious, end in long vowels, and contain a word of benediction.
 </details>
 
 <details><summary>भारुचिः</summary>

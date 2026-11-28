@@ -2,6 +2,11 @@
 title = "003 स तान्"
 +++
 
+<details><summary>Bühler</summary>
+
+003	Righteous Bhrigu, the son of Manu, (thus) answered the great sages: 'Hear, (in punishment) of what faults Death seeks to shorten the lives of Brahmanas!'
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 स तान् उवाच धर्मात्मा  
@@ -18,11 +23,6 @@ title = "003 स तान्"
 <details><summary>गोविन्दराजः</summary>
 
 **स तान् उवाचेति **। अनभ्यासेनेति । वेदानभ्यास-आचारलोप-आलस्य-अन्नदोषाख्यायुःक्षयकारणानि, एवं च वेदाभ्यासाचारानुष्ठानानालस्येषु उक्तशास्त्रप्रमेयभूतेषु कृतेष्व् अपि यदा वक्ष्यमाणान्नदोषो न परिह्रियते तदा तेन हेतुभूतेन अकालं मृत्युर् विप्रान् हन्तुम् इच्छति ॥ ५.३–४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	Righteous Bhrigu, the son of Manu, (thus) answered the great sages: 'Hear, (in punishment) of what faults Death seeks to shorten the lives of Brahmanas!'
 </details>
 
 <details><summary>भारुचिः</summary>

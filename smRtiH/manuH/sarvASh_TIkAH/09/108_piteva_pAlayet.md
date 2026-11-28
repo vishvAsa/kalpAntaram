@@ -3,6 +3,11 @@ title = "108 पितेव पालयेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	As a father (supports) his sons, so let the eldest support his younger brothers, and let them also in accordance with the law behave towards their eldest brother as sons (behave towards their father).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eldest brother shall support his younger brothers, just as the father supports his sons; and the younger brothers, in duty bound, shall behave towards the eldest brother, like sons.—(108)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 9.105].
 <details><summary>भारुचिः</summary>
 
 येनैवंगुणः,
-</details>
-
-<details><summary>Bühler</summary>
-
-108	As a father (supports) his sons, so let the eldest support his younger brothers, and let them also in accordance with the law behave towards their eldest brother as sons (behave towards their father).
 </details>

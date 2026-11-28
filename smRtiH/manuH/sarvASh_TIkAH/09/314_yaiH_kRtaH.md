@@ -3,6 +3,11 @@ title = "314 यैः कृतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+314	Who could escape destruction, when he provokes to anger those (men), by whom the fire was made to consume all things, by whom the (water of the) ocean was made undrinkable, and by whom the moon was made to wane and to increase again?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Who could escape ruin after having provoked those by whom fire was rendered all-devouring, by whom the ocean was made undrinkable and by whom the moon was made to wax and wane?—(314)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.313].
 <details><summary>भारुचिः</summary>
 
 किं च,
-</details>
-
-<details><summary>Bühler</summary>
-
-314	Who could escape destruction, when he provokes to anger those (men), by whom the fire was made to consume all things, by whom the (water of the) ocean was made undrinkable, and by whom the moon was made to wane and to increase again?
 </details>

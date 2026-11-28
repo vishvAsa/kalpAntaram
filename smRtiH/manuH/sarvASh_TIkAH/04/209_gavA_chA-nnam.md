@@ -2,6 +2,11 @@
 title = "209 गवा चाऽन्नम्"
 +++
 
+<details><summary>Bühler</summary>
+
+209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food that has been smelt by the cow, nor particularly that food which has been publicly offered, nor the food that belongs to a multitude, nor the food of the harlot, nor that which has been censured by the learned.—(209)
@@ -76,11 +81,6 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 <details><summary>गोविन्दराजः</summary>
 
 **गवेति **। **गवाघ्रातं **“को भुङ्क्ते” इति यदाघुष्य दीयते मठब्राह्मणादिसङ्घान्नं च तथा वेश्यान्नं शास्त्रविदा चैतत् कुत्सितम् इति यद् उक्तं तन् नाश्नीयात् **विशेषत** इति प्रायश्चित्तविशेषार्थम् ॥ ४.२०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
 </details>
 
 <details><summary>भारुचिः</summary>

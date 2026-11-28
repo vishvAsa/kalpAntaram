@@ -3,6 +3,11 @@ title = "243 क्षेत्रियस्याऽत्यये दण्
 
 +++
 
+<details><summary>Bühler</summary>
+
+243	If (the crops are destroyed by) the husbandman's (own) fault, the fine shall amount to ten times as much as (the king's) share; but the fine (shall be) only half that amount if (the fault lay) with the servants and the farmer had no knowledge of it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When there is transgression on the part of the farmer himself, his fine shall be ten times the royal share,—half of that in the case of servants, if it is unknown to the farmer.—(243)
@@ -55,9 +60,4 @@ cultivation does not exert himself and hence the land bears no crop, he shall, i
 <details><summary>भारुचिः</summary>
 
 यस्मात् सस्यात् क्षेत्रिको यद् अपहरेत् तस्य भागकल्पनया दशगुणो दण्डः प्रकल्प्यः । **अर्धदण्डा** भृत्याः स्युः । **अज्ञानात् क्षेत्रिकस्य तु** प्रयोगाद् एव भृत्यानाम् असाव् एव दण्डः स्यात् । सस्यसम्बन्धप्रसङ्गाच् चायं क्षेत्रिकस्य व्यतिक्रम उच्यते, अस्तेयाभिमतत्वाच् च ॥ ८.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-243	If (the crops are destroyed by) the husbandman's (own) fault, the fine shall amount to ten times as much as (the king's) share; but the fine (shall be) only half that amount if (the fault lay) with the servants and the farmer had no knowledge of it.
 </details>

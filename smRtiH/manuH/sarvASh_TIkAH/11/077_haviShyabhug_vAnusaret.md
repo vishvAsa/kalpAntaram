@@ -3,6 +3,11 @@ title = "077 हविष्यभुग् वानुसरेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	Or, subsisting on sacrificial food, he may walk against the stream along (the whole course of the river) Sarasvati; or, restricting his food (very much), he may mutter thrice the Samhita of a Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, subsisting on ‘sacrificial food,’ he may walk along each stream of the Sarasvatī; or with food restrained, he may thrice recite the text of the Veda—(77)
@@ -100,9 +105,4 @@ See Comparative notes for [Verse 11.72].
 > **जपेद् वा नियताहरस् त्रिर् वै वेदस्य संहिताम्  ॥ ११.७६ ॥**
 
 त्रयोदश ब्रह्महत्याप्रयश्चित्तानि सामर्थ्याद् यथाधिकारं चतुर्णाम् अपि वर्णानां विकल्पतो विज्ञेयानि । येन साक्षाद् अत्र विकल्पः श्रूयते वाशब्दास्रयः । असामर्थ्याद् अप्य् अयं समुच्चयासंभवे विकल्पः । स्वकाभिप्रायणस्य श्रुतिप्रतिषिद्धस्यापि प्रयस्चित्ताद् अन्यत्र सामर्थ्यम् । इदानीं द्वादसवार्षिअप्रायस्चित्तस्य गुणविध्यर्थम् आरभ्यते ॥ ११.७५–७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	Or, subsisting on sacrificial food, he may walk against the stream along (the whole course of the river) Sarasvati; or, restricting his food (very much), he may mutter thrice the Samhita of a Veda.
 </details>

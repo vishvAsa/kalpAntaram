@@ -3,6 +3,11 @@ title = "029 एकङ् गोमिथुनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘When the maiden is given away in due accordance with rule, after taking, in odedience to law, from the bridegroom, one or two pairs of cow and bull,—this is called the “Ārṣa” form.’—(29).
@@ -68,9 +73,4 @@ cow and bull, or of a pair of clothes; but in every case ornaments and dowry sho
 <details><summary>गोविन्दराजः</summary>
 
 **एकम्** इति । गोबलीवर्दम् एकं द्वे वा **वरात् धर्मतः** यागाद्यावशककर्तव्यधर्मनिमित्तं गृहीत्वा यत् कन्याया यथाशास्त्रं **प्रदानं** विधीयते **स आर्षो** विवाह **उच्यते** ॥ ३.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.
 </details>

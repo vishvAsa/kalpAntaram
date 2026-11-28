@@ -3,6 +3,11 @@ title = "015 महान्तम् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Also the all-pervading ‘mahat’ (the ‘great’ principle of intelligence); as also all those things that consist of the three constituent attributes, and in due course, also the five organs of sensation which apprehend objects.—(15)
@@ -79,9 +84,4 @@ Not satisfied with all this, Nandana remarks that the two verses are not meant t
 <details><summary>गोविन्दराजः</summary>
 
 **मनाह्तम्** इति । अहङ्कारात् पूर्वं महदाख्यं तत्त्वं आत्मन उत्पन्नत्वाद् उद्धृतवान् । यान्य् उक्तानि तानि च सत्त्वरजस्तमआख्यगुणत्रययुक्तानि । तथा शब्दस्पर्शरसरूपगन्धानां विज्ञानजनकानि **शनैः **वेदान्तोक्तक्रमेण श्रोत्रत्वक्चक्षुर्जिह्वानासिकाख्यानि बुद्धीन्दियाणि । **च**शब्दात् पायूपस्थहस्तपादवागाख्यानि च कर्मेन्द्रियाणि इन्द्रियत्वाद् **विषयाणां ग्रहीतॄणि **इत्य् उक्तेः विषयसृष्टिर् अप्य् अर्थाद् उक्तैव ॥ १.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.
 </details>

@@ -3,6 +3,11 @@ title = "182 साक्ष्य्-अभावे प्रणिधिभ�
 
 +++
 
+<details><summary>Bühler</summary>
+
+182	On failure of witnesses let the (judge) actually deposit gold with that (defendant) under some pretext or other through spies of suitable age and appearance (and afterwards demand it back).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When requested to restore the deposit, if the trustee do not restore it to the depositor,—then, on the departure of that depositor, in the event of there being no witnesses, the judge shall actually deposit gold (with the trustee) through spies of proper age and appearance, under some pretexts, and then ask him to restore it.—(181-182)
@@ -107,9 +112,4 @@ the depositor refuses to restore it and dishonestly denies the deposit, he shoul
 <details><summary>भारुचिः</summary>
 
 यदि तं द्वितीयं निक्षेपं यथा [न्यस्तं प्रतिपद्येत् तदा **न**] **किंचिद्** अस्ति **यत् परैर् अभियुज्यते** ॥ ८.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	On failure of witnesses let the (judge) actually deposit gold with that (defendant) under some pretext or other through spies of suitable age and appearance (and afterwards demand it back).
 </details>

@@ -2,6 +2,11 @@
 title = "121 अभिवादन-शीलस्य नित्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For one who is in the habit of saluting and constantly revering elders,—four things prosper: viz., longevity, merit, fame and strength.—(121)
@@ -47,11 +52,6 @@ should grasp his right foot with the right hand and the left foot with the left.
 <details><summary>गोविन्दराजः</summary>
 
 अयं त्व् अपरो ऽत्रैवोपकारदर्शनेन **अभिवादनशीलस्येति **। अभिवादनकरणस्वभावस्य सर्वदा सर्वदा वृद्धेषु परिचर्यारतस्य **आयुःप्रज्ञा**ख्याति**बलानि** चत्वारि वृद्धिम् उपयान्ति॥ २.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
 </details>
 
 <details><summary>भारुचिः</summary>

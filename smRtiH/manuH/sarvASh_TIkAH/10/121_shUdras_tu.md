@@ -3,6 +3,11 @@ title = "121 शूद्रस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+121	If a Sudra, (unable to subsist by serving Brahmanas,) seeks a livelihood, he may serve Kshatriyas, or he may also seek to maintain himself by attending on a wealthy Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Śūdra, seeking a livelihood, may serve the Kṣatriya; or the Śūdra may seek to subsist by serving a wealthy Vaiśya.—(121)
@@ -63,9 +68,4 @@ for the Śūdra; not gaining a living by that means, he shall become a trader, o
 > **धनिनं वाप्य् उपाराध्य वैश्यं शूद्रो जिजीविषेत्  ॥ १०.१२१ ॥**
 
 एवं च सति क्षत्रियवैश्याराधनं वृत्तिर् एव केवलया शूद्रस्य ॥ १०.१२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-121	If a Sudra, (unable to subsist by serving Brahmanas,) seeks a livelihood, he may serve Kshatriyas, or he may also seek to maintain himself by attending on a wealthy Vaisya.
 </details>

@@ -3,6 +3,11 @@ title = "198 नीचं शय्यासनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When near his Teacher, his bed or seat should always be low; and within sight op his Teacher, he should not sit at ease.—(198)
@@ -65,9 +70,4 @@ seat with the teacher, except on a stone-slab, or on a boat, or on a conveyance.
 <details><summary>गोविन्दराजः</summary>
 
 तथैव **नीचं शय्यासनम्** इति । गुरुशय्याद्यपेक्षया ह्रस्वशय्यासनं यावज्जीवं गुरुसन्निधौ स्यात् । तथा **गुरोश् चक्षुर्विषये न यथेष्टासनः** स्यात् ॥ २.१९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.
 </details>

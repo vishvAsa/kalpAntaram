@@ -3,6 +3,11 @@ title = "141 साभिहिता पैशाची"
 
 +++
 
+<details><summary>Bühler</summary>
+
+141	A gift (of food) by twice-born men, consumed with (friends and relatives), is said to be offered to the Pisakas; it remains in this (world) alone like a blind cow in one stable.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This convivial dinner has been called by twice-born people the “gift of devils.” It remains in this world alone, like the blind cow tied in a single room.—(141)
@@ -52,9 +57,4 @@ verbal variation.\]
 <details><summary>गोविन्दराजः</summary>
 
 **सम्भोजिनीति **। **सा दक्षिणा **तद्दानं सह भुज्यते ययेति **सम्भोजिनी** या गोष्ठी पिशाचधर्मत्वात् **पैशाची** मन्वादिभिर् उक्ता । सा च मित्रार्थत्वाद् **इह लोके एवास्ते अन्धा गौर् **यथैकस्मिन् गृहे । न परलोके प्रत्युपकाराय भवति ॥ ३.१४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-141	A gift (of food) by twice-born men, consumed with (friends and relatives), is said to be offered to the Pisakas; it remains in this (world) alone like a blind cow in one stable.
 </details>

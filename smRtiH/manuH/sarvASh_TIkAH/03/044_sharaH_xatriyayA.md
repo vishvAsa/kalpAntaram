@@ -2,6 +2,11 @@
 title = "044 शरः क्षत्रियया"
 +++
 
+<details><summary>Bühler</summary>
+
+044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When being married to a man of higher caste, the Kṣatriya girl should take hold of the arrow, the Vaiśya girl of the goad and the Śūdra girl of the hem of the garment.—(44)
@@ -52,11 +57,6 @@ hand including the thumb; the Kṣatriya girl should hold an arrow, the Vaiśya 
 <details><summary>गोविन्दराजः</summary>
 
 **शर** इति । **क्षरियया **पाणिग्रहणस्थाने ब्राह्मणपाणिगृहीतशरप्रान्तो ब्राह्मणोद्वाहे **ग्राह्यः । वैश्यया** च ब्राह्मण[क्षत्रिय]पाणिपरिगृहीतदात्रादितोदनमयःप्रान्तं ब्राह्मणक्षत्रियोद्वाहे **ग्राह्यम् । शूद्रया **पुनर् द्विजात्युद्वाहे तत्तत्प्रावृतवस्त्रदशा ग्राह्याः ॥ ३.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.
 </details>
 
 <details><summary>भारुचिः</summary>

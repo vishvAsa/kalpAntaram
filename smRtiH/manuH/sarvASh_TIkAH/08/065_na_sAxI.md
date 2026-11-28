@@ -3,6 +3,11 @@ title = "065 न साक्षी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	The king cannot be made a witness, nor mechanics and actors, nor a: Srotriya, nor a student of the Veda, nor (an ascetic) who has given up (all) connexion (with the world),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king should not be made a witness; nor craftsmen, nor actors, nor a Vedic scholar, nor one in holy orders, nor one who has renounced all attachments.—(65)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 8.64].
 <details><summary>भारुचिः</summary>
 
 **नृपतेः** साक्षित्वप्रतिषेधः सत्यविभावने ऽपि तस्य पक्षपरिग्रहाशङ्कया अवचनेन च परिक्षयो जानपदानाम् । अथ वा समानदेशस्य राज्ञः अवश्यत्वात् प्रतिषेधः । अथ वा व्यवहारद्रष्टू राज्ञः साक्षित्वम् अयुक्तम् । **कारुका** नित्यव्यापृताः **कुशीलवा** नित्यप्रोषिताः । सर्वजनपदसंबन्धेन वा, तेषाम् अनृताशङ्कया तत्प्रत्यवायाद् [असाक्षित्वम्] । श्रोत्रियस्य धर्मोपरोधाशङ्कया तदानयनपीडाशङ्कया च । एतेन **लिङ्गस्थो** व्याख्यातः । अथ तु सोपधः सुतरां तस्य प्रतिषेधो युक्तो । नृ । । । त्रियत्वान् अन् यायापराभिः (?)  ॥ ८.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	The king cannot be made a witness, nor mechanics and actors, nor a: Srotriya, nor a student of the Veda, nor (an ascetic) who has given up (all) connexion (with the world),
 </details>

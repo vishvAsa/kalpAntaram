@@ -3,6 +3,11 @@ title = "168 माता पिता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+168	That (boy) equal (by caste) whom his mother or his father affectionately give, (confirming the gift) with (a libation of) water, in times of distress (to a man) as his son, must be considered as an adopted son (Datrima).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When in times of distress, the mother or the father affectionately gives away, with water-libations, a worthy son,—that son is called ‘given’ (adopted).—(168)
@@ -129,9 +134,4 @@ called the *Dattaka*.’
 <details><summary>भारुचिः</summary>
 
 ये तु "माता पिता वा दद्याताम्" इति पठन्ति [तद् अयुक्त]म् उच्यते । समस्ताभ्यां दाननियमाद् अन्यतरापाये दत्तको न ग्राह्यः । "माता पिता वा" इत्य् अस्मिंस् तु विकल्पपक्षे समस्तयोर् दाननियमो नास्ति । **सदृशं** सवर्णम्, [जात्य्]आदितः ॥ ९.१६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-168	That (boy) equal (by caste) whom his mother or his father affectionately give, (confirming the gift) with (a libation of) water, in times of distress (to a man) as his son, must be considered as an adopted son (Datrima).
 </details>

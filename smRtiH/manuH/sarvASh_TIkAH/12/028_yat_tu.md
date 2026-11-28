@@ -3,6 +3,11 @@ title = "028 यत् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+028	What is mixed with pain and does not give satisfaction to the soul one may know (to be the quality of) Activity, which is difficult to conquer, and which ever draws embodied (souls towards sensual objects).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is mixed with pain and brings unhappiness to the Soul,—know that to be ‘Rajas,’ imperceptible and constantly attracting embodied beings.—(28)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 12.27].
 <details><summary>भारुचिः</summary>
 
 अत्रापि पूर्ववद् अर्थसमायोजना ॥ १२.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	What is mixed with pain and does not give satisfaction to the soul one may know (to be the quality of) Activity, which is difficult to conquer, and which ever draws embodied (souls towards sensual objects).
 </details>

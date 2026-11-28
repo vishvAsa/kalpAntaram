@@ -3,6 +3,11 @@ title = "008 पतिर् भार्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+008	The husband, after conception by his wife, becomes an embryo and is born again of her; for that is the wifehood of a wife (gaya), that he is born (gayate) again by her.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The husband, entering the womb of his wife, becomes the embryo and is then born; the wife-hood of the ‘wife’ consists in this that the husband is re-born of her.—(8).
@@ -64,9 +69,4 @@ son).’
 <details><summary>भारुचिः</summary>
 
 वेदस्मृतिशास्त्रन्यायविरोधश् चायम् अर्थवादो भार्यासंरक्षणार्थः । तथा च प्रकरणम् । दृष्टश् चायं लोकप्रवादस् तत्संरक्षणार्थः । अपरो ऽर्थवाद उच्यते ॥ ९.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	The husband, after conception by his wife, becomes an embryo and is born again of her; for that is the wifehood of a wife (gaya), that he is born (gayate) again by her.
 </details>

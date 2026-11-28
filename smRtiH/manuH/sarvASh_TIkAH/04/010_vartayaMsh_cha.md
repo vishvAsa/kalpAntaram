@@ -2,6 +2,11 @@
 title = "010 वर्तयंश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Living by gleanings and pickings, intent upon the performance of Agnihotra, one should constantly offer only those Iṣṭi-sacrificer that pertain to the moonless and full-moon days and to the solstices.—(10);
@@ -97,11 +102,6 @@ in the Śruti and in the Smṛti,—every one of these should be carried out in 
 <details><summary>गोविन्दराजः</summary>
 
 **वर्तयन्न्** इति । **शिलोञ्छाभ्यां **जीवन् कर्मान्तरासम्भवे सायम्प्रातर्होमनिष्ठः सन् दर्शपूर्णमासान् पार्वणाख्यान् यागान् केवलान् सर्वकालं कुर्यात् ॥ ४.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
 </details>
 
 <details><summary>भारुचिः</summary>

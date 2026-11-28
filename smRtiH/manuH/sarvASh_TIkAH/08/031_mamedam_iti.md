@@ -3,6 +3,11 @@ title = "031 ममेदम् इति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	He who says, 'This belongs to me,' must be examined according to the rule; if he accurately describes the shape, and the number (of the articles found) and so forth, (he is) the owner, (and) ought (to receive) that property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who says ‘this is mine’ should be questioned in proper form; and the owner ought to receive the property after having correctly described the colour, the number and other details regarding it.—(31)
@@ -68,9 +73,4 @@ It is quoted in *Madanapārijāta* (p. 226);—and in *Nṛsiṃhaprasāda* (Āh
 <details><summary>भारुचिः</summary>
 
 स्वामित्वकारणाख्याने सति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-031	He who says, 'This belongs to me,' must be examined according to the rule; if he accurately describes the shape, and the number (of the articles found) and so forth, (he is) the owner, (and) ought (to receive) that property.
 </details>

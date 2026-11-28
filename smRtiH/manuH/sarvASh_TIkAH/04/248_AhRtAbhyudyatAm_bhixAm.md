@@ -2,6 +2,11 @@
 title = "248 आहृताभ्युद्यताम् भिक्षाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alms brougt forward and offered, and not previously begged, Prajāpati has declared to be acceptable, even from a sinful person.—(248).
@@ -76,11 +81,6 @@ prostitute, the eunuch, the dancer—gifts of these should be refused, even when
 <details><summary>गोविन्दराजः</summary>
 
 **आहृताभ्युद्यताम्** इति । प्रतिग्रहीतृदेशमानीतां दतुः चोद्यमितां “इदं तुभ्यं दास्यामि” इत्य् एवं पूर्वम् अकथितां गोहिरण्यादिभिक्षां दुष्टकर्मकारिणो ऽपि अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं हिरण्यगर्भो ग्राह्यं मन्यते स्म ॥ ४.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
 </details>
 
 <details><summary>भारुचिः</summary>

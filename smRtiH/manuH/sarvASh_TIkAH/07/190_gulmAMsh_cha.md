@@ -3,6 +3,11 @@ title = "190 गुल्मांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+190	On all sides let him place troops of soldiers, on whom he can rely, with whom signals have been arranged, who are expert both in sustaining a charge and in charging, fearless and loyal.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On all sides he shall station reliable pickets, with whom signals have been arranged, who are experts in standing firm as also in charging, fearless and loyal.—(190)
@@ -87,9 +92,4 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 402);—and in
 <details><summary>भारुचिः</summary>
 
 विशेषतो गुलेष्व् एवंगुणाह् स्थाप्याः । ततो हि भयम् उत्पन्नं महते ऽनर्थाय भवति स्वबलेन ॥ ७.१९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-190	On all sides let him place troops of soldiers, on whom he can rely, with whom signals have been arranged, who are expert both in sustaining a charge and in charging, fearless and loyal.
 </details>

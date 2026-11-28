@@ -3,6 +3,11 @@ title = "138 पणानान् द्वे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+138	Two hundred and fifty panas are declared (to be) the first (or lowest) amercement, five (hundred) are considered as the mean (or middlemost), but one thousand as the highest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The first amercement has been declared to be two hundred and fifty paṇas; the middling is to be known as five hundred; and the highest as a thousand.—(138)
@@ -59,9 +64,4 @@ middlemost; 500 to 1,000 the highest.’
 <details><summary>भारुचिः</summary>
 
 सर्वसंज्ञार्थाः श्लोकाः । तत्र य एतेषु संछन्नेषु कूटीमठेष्व् [आदित्यकरदृष्टास् रे]णवस् ते त्रयस् त्रसरेणवः ॥ ८.१३२–१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	Two hundred and fifty panas are declared (to be) the first (or lowest) amercement, five (hundred) are considered as the mean (or middlemost), but one thousand as the highest.
 </details>

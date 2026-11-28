@@ -3,6 +3,11 @@ title = "026 तस्याहुः सम्प्रणेतारम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+026	They declare that king to be a just inflicter of punishment, who is truthful, who acts after due consideration, who is wise, and who knows (the respective value of) virtue, pleasure, and wealth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They declare that King to be the just governor who is truth ful of speech, who acts after due consideration, who is wise and who knows the essence of virtue, pleasure and wealth.—(26)
@@ -59,9 +64,4 @@ virility, of noble family, truthful in words, pure, non-procrastinating, with ke
 <details><summary>भारुचिः</summary>
 
 **तस्य** दण्डस्य प्रणेता जात्या क्षत्रियो ऽभिषेकाद् आधिपत्यप्रभावगुणयुक्तः । **सत्यवादि** नानवस्थितं दण्डं प्रीत्या प्रापयति, द्वेषेण वा वर्धयति । **समीक्ष्य कारी** दण्डावधारेण देशाध्यपेक्षया **प्राज्ञो** देशादीनाम् उत्सर्गापवाददर्शने । **धर्मकामार्थेषु** च पण्डितः तेषाम् अवस्थाविशेषज्ञः समचित्तः । तम् एवंविधं दण्डस्य प्रेणेतारम् आहुः ॥ ७.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	They declare that king to be a just inflicter of punishment, who is truthful, who acts after due consideration, who is wise, and who knows (the respective value of) virtue, pleasure, and wealth.
 </details>

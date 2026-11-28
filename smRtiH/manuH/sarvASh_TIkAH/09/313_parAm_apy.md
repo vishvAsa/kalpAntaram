@@ -3,6 +3,11 @@ title = "313 पराम् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+313	Let him not, though fallen into the deepest distress, provoke Brahmanas to anger; for they, when angered, could instantly destroy him together with his army and his vehicles.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even when fallen in the deepest distress, the king shall not provoke the Brāhmaṇas; for if provoked, they would ruin him, along with his army and conveyances.—(313)
@@ -67,9 +72,4 @@ never take a Brāhmaṇa’s property; he shall always protect it.... Even thoug
 <details><summary>भारुचिः</summary>
 
 अभिचाराभिशापाभ्याम् । तथा च तत्प्रतापं दर्शयति ॥ ९.३१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-313	Let him not, though fallen into the deepest distress, provoke Brahmanas to anger; for they, when angered, could instantly destroy him together with his army and his vehicles.
 </details>

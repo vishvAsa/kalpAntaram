@@ -2,6 +2,11 @@
 title = "246 क्षेत्रं हिरण्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Joyfully bringing to the teacher, a field, or gold, or a cow, or a horse, or at least an umbrella and a fair of shoes, grain, vegetables or clothes.—(246)
@@ -87,11 +92,6 @@ the pupil should with bis permission take the Bath, after having offered to him 
 <details><summary>गोविन्दराजः</summary>
 
 **क्षेत्रम्** इति । अतश् च प्रीत्युत्पादनपरत्वात् प्रदर्शनार्थं भूम्यादिग्रहणम् । अन्ततो यद्य् उत्पन्नं किञ्चित् स्यात् तदा छत्रोपानहम् ॥ २.२४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "013 जीवसञ्ज्ञो ऽन्तरात्मान्
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	Another internal Self that is generated with all embodied (Kshetragnas) is called Giva, through which (the Kshetragna) becomes sensible of all pleasure and pain in (successive) births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An inner ‘self,’ called ‘Jīva,’ ‘Soul,’ is different,—generated along with all embodied beings, through which one experiences pleasure and fain during the several births.—(13)
@@ -69,9 +74,4 @@ That this should be called the ‘*inner self*’ is also quite right, since it 
 <details><summary>भारुचिः</summary>
 
 **येनेति** तृतीयया कारणोपदेशात् मन इदं विज्ञेयम् अन्तःकरणत्वात् । जीवशब्देनेति । आत्मग्रहणं चामोक्षप्राप्तेर् आ प्रलयाच् च तदवियोगो यस्मात् । एवं च तस्य कारणनिर्देशो येन वेदयते क्षेत्रज्ञः सुखदुःखम् इति । बुद्धिर् इत्य् अपरे । श्रोत्रादिप्राणादिसमूहो लिङ्गाख्य इत्य् अन्ये । अन्तःकरणपक्षे च क्षेत्रज्ञस्योपलब्धौ कारणम् इदं निर्दिश्यत इत्य् अविप्रतिपत्तिः ॥ १२.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Another internal Self that is generated with all embodied (Kshetragnas) is called Giva, through which (the Kshetragna) becomes sensible of all pleasure and pain in (successive) births.
 </details>

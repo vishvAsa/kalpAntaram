@@ -3,6 +3,11 @@ title = "075 मनः सृष्टिम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Mind’ impelled by (Brahmā’s) desire to create, evolves creation;—from out of that (Mind) is produced Ākāśa; of this they know sound to be the quality.—(75)
@@ -47,9 +52,4 @@ about creation in a particular manner;—from out of the ‘Mind’ (*i.e*., the
 <details><summary>गोविन्दराजः</summary>
 
 **मन** इति । तन् **मनः** प्रजापतिसम्बन्धि तदैव स्रष्टुम् इच्छया प्रेर्यमाणं **सृष्टिं कुरुते** ॥ १.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.
 </details>

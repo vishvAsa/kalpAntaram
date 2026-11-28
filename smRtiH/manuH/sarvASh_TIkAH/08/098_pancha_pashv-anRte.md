@@ -3,6 +3,11 @@ title = "098 पञ्च पश्व्-अनृते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	'He kills five by false Testimony regarding (small) cattle, he kills ten by false testimony regarding kine, he kills a hundred by false evidence concerning horses, and a thousand by false evidence concerning men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘He destroys five by false evidence regarding animals; he destroys ten by false evidence regarding kine; he destroys a hundred by false evidence regarding horses, and a thousand by false evidence regarding men.’—(98)
@@ -75,9 +80,4 @@ witness kills ten; by that regarding cows, horses, men, or land,—in each succe
 <details><summary>भारुचिः</summary>
 
 पूर्वापरान् । यद् अयम् आह —
-</details>
-
-<details><summary>Bühler</summary>
-
-098	'He kills five by false Testimony regarding (small) cattle, he kills ten by false testimony regarding kine, he kills a hundred by false evidence concerning horses, and a thousand by false evidence concerning men.
 </details>

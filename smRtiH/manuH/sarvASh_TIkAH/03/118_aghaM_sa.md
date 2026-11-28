@@ -2,6 +2,11 @@
 title = "118 अघं स"
 +++
 
+<details><summary>Bühler</summary>
+
+118	He who prepares food for himself (alone), eats nothing but sin; for it is ordained that the food which remains after (the performance of) the sacrifices shall be the meal of virtuous men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who cooks for himself eats only sin; for the eating of good mem has been described as the eating of the remains of sacrifices.—(118).
@@ -91,11 +96,6 @@ without having repeated mantras, eats pus and blood; he who eats without having 
 <details><summary>गोविन्दराजः</summary>
 
 **अघम्** इति । **य** आत्मार्थम् एव **पचति** न देवादिभ्यो ददाति **स **पापहेतुतात् पापम् एव **केवलं भुङ्क्ते** नान्नलेशम् अपि यस्मात् यद् **एतत्** पाकयज्ञशिष्टाशनं साधूनाम् **अन्नम्** उपदिश्यते ॥ ३.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	He who prepares food for himself (alone), eats nothing but sin; for it is ordained that the food which remains after (the performance of) the sacrifices shall be the meal of virtuous men.
 </details>
 
 <details><summary>भारुचिः</summary>

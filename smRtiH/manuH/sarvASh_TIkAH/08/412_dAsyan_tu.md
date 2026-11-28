@@ -3,6 +3,11 @@ title = "412 दास्यन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+412	But a Brahmana who, because he is powerful, out of greed makes initiated (men of the) twice-born (castes) against their will do the work of slaves, shall be fined by the king six hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the Brāhmaṇa, through the sense of mastery, and out of greed, makes sanctified twice-born persons do fertile work, against their will,—he should be fined by the king six hundred.—(412)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 द्विजग्रहणाच् चात्र ब्राह्मणो ऽपि समानत्वा[द् । न] चैते इच्छन्तो ऽनिच्छन्तो वा दास्यं कारयितव्याः । एतावांस् तु विशेषः । अनिच्छतां करणे ऽयं दण्डः । इच्छतां तु करणे कल्पयितव्यः । एवम् अर्थं च राजधर्मेषूक्तम् इदम् इति ॥ ८.४१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-412	But a Brahmana who, because he is powerful, out of greed makes initiated (men of the) twice-born (castes) against their will do the work of slaves, shall be fined by the king six hundred (panas).
 </details>

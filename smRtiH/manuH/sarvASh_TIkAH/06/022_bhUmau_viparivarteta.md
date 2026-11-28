@@ -3,6 +3,11 @@ title = "022 भूमौ विपरिवर्तेत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	Let him either roll about on the ground, or stand during the day on tiptoe, (or) let him alternately stand and sit down; going at the Savanas (at sunrise, at midday, and at sunset) to water in the forest (in order to bathe).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall roll about on the ground, or stand on tip-toe during the day; he shall beguile his time by standing and sitting, going to water at the ‘Savanas’.—(22).
@@ -63,11 +68,6 @@ standing and sitting, and shall never lose his steadiness.’
 </details>
 
 <details><summary>भारुचिः</summary>
-
-022	Let him either roll about on the ground, or stand during the day on tiptoe, (or) let him alternately stand and sit down; going at the Savanas (at sunrise, at midday, and at sunset) to water in the forest (in order to bathe).
-</details>
-
-<details><summary>Bühler</summary>
 
 022	Let him either roll about on the ground, or stand during the day on tiptoe, (or) let him alternately stand and sit down; going at the Savanas (at sunrise, at midday, and at sunset) to water in the forest (in order to bathe).
 </details>

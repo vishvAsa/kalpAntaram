@@ -3,6 +3,11 @@ title = "051 दण्डस्य पातनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+051	Doing bodily injury, reviling, and the seizure of property, these three he must know to be the most pernicious in the set produced by wrath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the set born of Anger,—Assault, Cruelty of speech and Misappropriation of property,—are to be regarded as the three most pernicious.—(51).
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/ma
 <details><summary>भारुचिः</summary>
 
 अयम् अपि त्रिको गणः पैशुनादिभ्यः पापीयान् इति सुप्रतीतम् ॥ ७.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	Doing bodily injury, reviling, and the seizure of property, these three he must know to be the most pernicious in the set produced by wrath.
 </details>

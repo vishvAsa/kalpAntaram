@@ -3,6 +3,11 @@ title = "143 न त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+143	But if a beneficial pledge (i.e. one from which profit accrues, has been given), he shall receive no interest on the loan; nor can he, after keeping (such) a pledge for a very long time, give or sell it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But when there is profitable pledge, he shall receive no interest on the loan; and there shall be neither transference nor sale of the pledge, merely by the lapse of time.—(143)
@@ -147,9 +152,4 @@ given for use should not be allowed to be destroyed; nor in this case should any
 <details><summary>भारुचिः</summary>
 
 भुञ्जानस्य हि प्रयोक्तुर् आधिं क्षेत्रादिकं वृद्धिर् न स्यात् । अर्थाच् चानुपकारिण्याधौ सोपकारे ऽपि च समयाद् अभुज्यमाने स्याद् वृद्धिः । न चाधेर् अभोग्यस्य कालसंरोधाद् द्विगुणीभूते ऽर्थे काले ऽधिगच्छति निसर्गो ऽस्यान्यत्राधमनम् अननुज्ञातस्य गृहीत्रा । किं तु यावद् धनं न प्रयच्छेद् द्विगुणीभूतं तावद् आधिं भुञ्जीतैव सामर्थ्याद् विज्ञायते, प्रयुक्तार्थसाधनाय । विक्रयसाधर्म्याच् चान्यत्राधमनं निसर्गो विज्ञायते । एवं विक्रयो ऽपि विज्ञेयः । तथा च सत्य् अर्थप्रयोगकाल एव प्रतिषिद्धेन प्रयोक्त्रा — ॥ ८.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	But if a beneficial pledge (i.e. one from which profit accrues, has been given), he shall receive no interest on the loan; nor can he, after keeping (such) a pledge for a very long time, give or sell it.
 </details>

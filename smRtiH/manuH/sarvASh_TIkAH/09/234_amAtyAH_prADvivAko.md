@@ -3,6 +3,11 @@ title = "234 अमात्याः प्राड्विवाको"
 
 +++
 
+<details><summary>Bühler</summary>
+
+234	Whatever matter his ministers or the judge may settle improperly, that the king himself shall (re-) settle and fine (them) one thousand (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the councillors or the judge decide a case unfairly, that case the King himself shall revise and fine them one thousand.—(234)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 9.234]
 <details><summary>भारुचिः</summary>
 
 **अमात्यो** राज्ञा नियुक्तो ब्राह्मणः व्यवहाररक्षणे । तथा चोक्तम्- "तदा नियुञ्ज्याद् विद्वांसं ब्राह्मणं कार्यदर्शने" इति । **प्राङ्विवाकास्** तु पृथग् वेदशास्त्रज्ञातारः । तथा चोक्तम्- "यस्मिन् देसे निषीदन्ति विप्रा वेदविदस् त्रयः" इति । एते यत् कुर्युः कार्यम् अन्यथा रागादिभिः कारणैः, असंनिहिते राजनि, **तत् स्वयं नृपतिः कुर्यात्** । पुनस् **तान् सहस्रं दण्डयेत्** । पणानाम् इत्य् उक्तपरिभाषम् एतत् । समुदाये चैषां दण्डचोदना, यथा "गार्ग्याश् शतं दण्ड्यन्ताम्" इति ॥ ९.२३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	Whatever matter his ministers or the judge may settle improperly, that the king himself shall (re-) settle and fine (them) one thousand (panas).
 </details>

@@ -3,6 +3,11 @@ title = "148 एतद् विधानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+148	The rules (given above) must be understood (to apply) to a distribution among sons of women of the same (caste); hear (now the law) concerning those begotten by one man on many wives of different (castes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rule should be understood as applying to partition among sons born of wives of the same caste; listen to that applying to that among sons born to one man of several and diverse wives.—(148)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 9.145].
 <details><summary>भारुचिः</summary>
 
 वक्ष्यमाणप्रकरणौपन्यासिकः श्लोकः ॥ ९.१४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-148	The rules (given above) must be understood (to apply) to a distribution among sons of women of the same (caste); hear (now the law) concerning those begotten by one man on many wives of different (castes).
 </details>

@@ -3,6 +3,11 @@ title = "296 सप्ताङ्गस्येह राज्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+296	Yet in a kingdom containing seven constituent parts, which is upheld like the triple staff (of an ascetic), there is no (single part) more important (than the others), by reason of the importance of the qualities of each for the others.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Yet in the kingdom consisting of the ‘seven limbs’ interlaced like the ‘triple staff,’—since their qualities are mutually helpful,—no one of them is superior.—(296)
@@ -79,9 +84,4 @@ See Comparative notes for [Verse 9.294].
 <details><summary>भारुचिः</summary>
 
 यस्मात्,
-</details>
-
-<details><summary>Bühler</summary>
-
-296	Yet in a kingdom containing seven constituent parts, which is upheld like the triple staff (of an ascetic), there is no (single part) more important (than the others), by reason of the importance of the qualities of each for the others.
 </details>

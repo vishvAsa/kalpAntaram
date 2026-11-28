@@ -3,6 +3,11 @@ title = "080 यद् द्वयोर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+080	'What ye know to have been mutually transacted in this matter between the two men before us, declare all that in accordance with the truth; for ye are witnesses in this (cause).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘What you know of the mutual transaction between these two persons regarding this suit,—all that may you declare freely; since you are witnesses in this matter.’—(80)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 8.79].
 <details><summary>भारुचिः</summary>
 
 एवं सत्यवचनार्थो ऽयम् अधुनार्थवादः प्रक्रियते ॥ ८.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	'What ye know to have been mutually transacted in this matter between the two men before us, declare all that in accordance with the truth; for ye are witnesses in this (cause).
 </details>

@@ -2,6 +2,11 @@
 title = "043 गृहे गुराव्"
 +++
 
+<details><summary>Bühler</summary>
+
+043	A twice-born man of virtuous disposition, whether he dwells in (his own) house, with a teacher, or in the forest, must never, even in times of distress, cause an injury (to any creature) which is not sanctioned by the Veda.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 अवेदविहितहिंसाप्रतिषेधो ऽयम् । न च वेदविहिताभ्यनुज्ञायते । न च गुरौ वसतो ब्रह्मचारिणो ऽरण्ये च तपस्यतो ऽन्या काचिद् धिंसास्ति । अवकीर्णिनो ब्रह्मचारिणः स्याद् अपि । वानप्रस्थस्य तु नैवास्ति । ब्रह्मचारिणो ऽप्य् आत्मोपेक्षणं नैवेष्यते । अतो ऽयं विधिर् एव श्राद्धे । **गृह** इत्य् अनुवाद एव । 
@@ -59,11 +64,6 @@ See Comparative notes for [Verse 5.42].
 <details><summary>गोविन्दराजः</summary>
 
 एवं चान्यत्र स्वपरोपकारभावात् [-काराभावात्] **गृह** इति । गृहस्थवानप्रस्थब्रह्मचारि-भिक्ष्ववस्थः प्रशस्तात्मो द्विजः **आपद्य् अपि** अशास्त्रीयां **हिंसां **नाचरेत् ॥ ५.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	A twice-born man of virtuous disposition, whether he dwells in (his own) house, with a teacher, or in the forest, must never, even in times of distress, cause an injury (to any creature) which is not sanctioned by the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

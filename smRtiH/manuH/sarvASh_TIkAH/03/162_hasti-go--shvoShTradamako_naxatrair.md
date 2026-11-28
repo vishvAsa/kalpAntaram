@@ -2,6 +2,11 @@
 title = "162 हस्ति-गो-ऽश्वोष्ट्रदमको नक्षत्रैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The tamer of elephants, bulls, horses or camels, one who subsists on stars, bird-keeper and the teacher of warfare.—(162)
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **हस्तिगोऽश्वोष्ट्रदमक** इति । हस्तिगवाश्वोष्ट्राणां विनेता, ज्यितिःशास्त्रेण जीवनः पक्षिणां वार्तनपूर्वकं क्रीडार्थं पोषयति युद्धशिक्षयिता एते उभयत्र परिहर्तव्याः ॥ ३.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
 </details>
 
 <details><summary>भारुचिः</summary>

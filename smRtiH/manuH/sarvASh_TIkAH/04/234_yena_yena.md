@@ -2,6 +2,11 @@
 title = "234 येन येन"
 +++
 
+<details><summary>Bühler</summary>
+
+234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In whatever spirit a man bestows a gift, in that same spirit he himself receives it with due honour.—(234)
@@ -63,11 +68,6 @@ best to do his duty.’
 <details><summary>गोविन्दराजः</summary>
 
 **येनेति** । यादृशेन राजसेन सात्विकेन तामसेन वा शुद्धेन वा मध्यमेनाशुद्धेन वा चित्तधर्मेण च **यद् यद्** एव द्रव्यं ददाति **तत् तद्** द्रव्यं फलद्वारेण तु **तेनैव** दान्ग्गतभावेन भावानुरूपेणैव सुखं मध्यमदुःखवता चित्तेन (न) च जन्मान्तरे पूजितः सन् प्राप्नोति ॥ ४.२३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
 </details>
 
 <details><summary>भारुचिः</summary>

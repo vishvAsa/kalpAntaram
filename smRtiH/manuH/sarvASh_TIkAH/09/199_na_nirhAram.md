@@ -3,6 +3,11 @@ title = "199 न निर्हारम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+199	Women should never make a hoard from (the property of) their families which is common to many, nor from their own (husbands' particular) property without permission.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Women shall never make a hoard out of the family-property common to many, nor out of their own property, without the husband’s permission.—(199)
@@ -41,9 +46,4 @@ the wife inherits from him she may use as she likes; but during his life-time, s
 <details><summary>भारुचिः</summary>
 
 **निर्हार**प्रतिषेधाच् चैतत् विज्ञायते यदि काचिद् ईशत्वात् तद्धनं निर्हरेत्, ततस् तत्पुनरादाय भ्रातृभिर् विभक्तव्यम् एव ॥ ९.१९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-199	Women should never make a hoard from (the property of) their families which is common to many, nor from their own (husbands' particular) property without permission.
 </details>

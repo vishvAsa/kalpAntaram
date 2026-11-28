@@ -3,6 +3,11 @@ title = "154 यद्य् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+154	Whether (a Brahmana) have sons or have no sons (by wives of the twice-born castes), the (heir) must, according to the law, give to the son of a Sudra (wife) no more than a tenth (part of his estate).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whether a Brāhmaṇa has a son or no son, he shall not, according to law, allot more than the tenth part to the son of the Śūdra wife.—(154)
@@ -112,9 +117,4 @@ See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 सन्तः पुत्रा [द्विजात]यो यस्य सो ऽयं सत्पुत्रः । यद्य् अपुत्रो ऽपि वा भवेत् तद् अभावे केवलः शूद्रापुत्रः । एवम् अपि नाधिकं दशभागात् तस्मै देयम्, अन्यत् सपिण्डा हरेयुः । तदभावे तद्धनस्य [त एवाधिकारिणः स्युः] । एतस्माद् एव लिङ्गत् क्षत्रियस्याताम् । इतरथा हि शूद्रप्रतिषेधो ऽनर्थकः स्यात् ॥ ९.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	Whether (a Brahmana) have sons or have no sons (by wives of the twice-born castes), the (heir) must, according to the law, give to the son of a Sudra (wife) no more than a tenth (part of his estate).
 </details>

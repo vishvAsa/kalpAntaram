@@ -3,6 +3,11 @@ title = "013 सभां वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	Either the court must not be entered, or the truth must be spoken; a man who either says nothing or speaks falsely, becomes sinful.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should either not enter the Court at all, or he should speak out what is equitable; one who either spe aks nothing, or speaks falsely, becomes tainted with sin.—(13)
@@ -73,9 +78,4 @@ opinion, ignoring the true state of the case, resembles a blind man who, regardl
 > **अब्रुवन् विब्रुवन् वापि नरो भवति किल्बिषी  ॥ ८.१३ ॥**
 
 न केवलं विब्रुवन् किल्बिषी भवति, किं तर्हि अब्रुवन्न् अपि । अतो न "सभ्यैर् अयम् उपेक्षणीयो ऽन्यथा पश्यन् राजप्रकृतो ऽयं करोत्य् एवम्, तद् एवं न वयम्" इति नात्रौदासीन्याद् यूयम् उच्यध्वम् ॥ ८.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Either the court must not be entered, or the truth must be spoken; a man who either says nothing or speaks falsely, becomes sinful.
 </details>

@@ -3,6 +3,11 @@ title = "200 सम्भोगो दृश्यते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+200	Where possession is evident, but no title is perceived, there the title (shall be) a proof (of ownership), not possession; such is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where possession is evident, but no sort of title is perceptible, there title, and not possession, shall be the proof; such is the settled rule.—(200)
@@ -48,9 +53,4 @@ owner establish his claim to a lost property; if he fails to establish his claim
 <details><summary>भारुचिः</summary>
 
 एवं चागमाद् अशुद्धद्रव्यस्य दशवर्षभोगेनापि न स्वामित्वम् । यतश् चैतद् एवम् अतः — ॥ ८.१९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	Where possession is evident, but no title is perceived, there the title (shall be) a proof (of ownership), not possession; such is the settled rule.
 </details>

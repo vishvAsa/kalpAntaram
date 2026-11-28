@@ -3,6 +3,11 @@ title = "251 एवन् धर्म्याणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+251	A king who thus duly fulfils his duties in accordance with justice, may seek to gain countries which he has not yet gained, and shall duly protect them when he has gained them.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king thus duly doing his lawful work, may seek to acquire tracts of land not already acquired, and settle those already acquired.—(251)
@@ -31,9 +36,4 @@ This verse is quoted in *Vivādaratnākara* (p. 618).
 <details><summary>भारुचिः</summary>
 
 येन चोपायेन [प्रजापरिपालनं राज्ञो भवति स इदानीम् उच्यते । एवमर्थश् च पूर्व उपसंहारो विज्ञेयः ॥ ९.२५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-251	A king who thus duly fulfils his duties in accordance with justice, may seek to gain countries which he has not yet gained, and shall duly protect them when he has gained them.
 </details>

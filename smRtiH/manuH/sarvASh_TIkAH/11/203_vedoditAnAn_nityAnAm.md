@@ -3,6 +3,11 @@ title = "203 वेदोदितानान् नित्यानाम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+204	Fasting is the penance for omitting the daily rites prescribed by the Veda and for neglecting the special duties of a Snataka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the neglect of the compulsory duties laid down by the Veda, and for the omission of the observances of the Accomplished Student,—the expiation is fasting.—(203)
@@ -58,9 +63,4 @@ the revealed law, and for the breach of the rules laid down for the Accomplished
 <details><summary>भारुचिः</summary>
 
 **नित्यानां** प्रधानकर्मणाम् अग्निहोत्रादीनाम् अतिवर्तने **ऽभोजनम्** । श्रौतं च नानार्थत्वात् समुच्चीयते । गुणकर्मणां वा । **स्नातकव्रतलोपे** चानिर्दिष्टप्रायश्चित्तम् इदम् एव स्यात् ॥ ११.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	Fasting is the penance for omitting the daily rites prescribed by the Veda and for neglecting the special duties of a Snataka.
 </details>

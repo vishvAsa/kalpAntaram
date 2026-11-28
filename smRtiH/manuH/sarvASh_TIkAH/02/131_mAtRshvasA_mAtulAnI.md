@@ -2,6 +2,11 @@
 title = "131 मातृश्वसा मातुलानी"
 +++
 
+<details><summary>Bühler</summary>
+
+131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Mother’s sister, maternal uncle’s wife, mother-in-law, and father’s sister deserve to re honoured like the teacher’s wife; all these are equal to the wife of the Teacher.—(131)
@@ -49,11 +54,6 @@ done of the mother’s sister, also of the wives of one’s paternal uncle.’
 <details><summary>गोविन्दराजः</summary>
 
 **मातृस्वसेति **। **मातृष्वस्राद्याः गुरुपत्नीवत्** वक्ष्यमाणरूपेण पादोपसङ्ग्रहणादिना **सम्पूज्याः,** यतः ता **गुरुभार्या**तुल्याः ॥ २.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

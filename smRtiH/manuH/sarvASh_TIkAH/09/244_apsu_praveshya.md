@@ -3,6 +3,11 @@ title = "244 अप्सु प्रवेश्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+244	Having thrown such a fine into the water, let him offer it to Varuna, or let him bestow it on a learned and virtuous Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall deposit such property in the water and offer it to Varuṇa, or bestow it on a Brāhmaṇa endowed with learning and character.—(244)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.243].
 <details><summary>भारुचिः</summary>
 
 अत्र प्रतिपत्तिविधौ कारणं वक्ति, यस्मात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-244	Having thrown such a fine into the water, let him offer it to Varuna, or let him bestow it on a learned and virtuous Brahmana.
 </details>

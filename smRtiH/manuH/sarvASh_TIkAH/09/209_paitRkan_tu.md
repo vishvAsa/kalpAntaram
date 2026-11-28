@@ -3,6 +3,11 @@ title = "209 पैतृकन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+209	But if a father recovers lost ancestral property, he shall not divide it, unless by his own will, with his sons, (for it is) self-acquired (property).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the father recovers a lost ancestral property, he shall not, unless he so wishes, share it with his sons,—being, as it is his self-acquired property.—(209)
@@ -125,9 +130,4 @@ father through his own effort,—all that the father cannot he forced to share w
 <details><summary>भारुचिः</summary>
 
 पितामहधनस्येतरे ऽपीशत इत्य् अनया शङ्कया प्रतिषेधः । अनेन च दर्शनेन सत्यां विभागप्रतिपत्तौ वित्तं सर्वं विभजनीयम् । पित्रा पुत्रविभागस्यैतद् दर्शनम् । जीवपितृकाणाम् अस्ति विभाग इत्य् एतद् दर्शयति ॥ ९.२०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-209	But if a father recovers lost ancestral property, he shall not divide it, unless by his own will, with his sons, (for it is) self-acquired (property).
 </details>

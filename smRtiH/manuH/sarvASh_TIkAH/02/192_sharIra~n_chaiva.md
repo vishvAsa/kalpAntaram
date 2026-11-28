@@ -2,6 +2,11 @@
 title = "192 शरीरञ् चैव"
 +++
 
+<details><summary>Bühler</summary>
+
+192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having under control his body and his speech, as also his organs of sensation and his hind, he should stand with joined palms, looking at the face of his Teacher.—(192)
@@ -51,11 +56,6 @@ free, he should request the teacher with the words, *Teach*,
 <details><summary>गोविन्दराजः</summary>
 
 **शरीरम्** इति । देहवाक्चक्षुरादि**बुद्धीन्द्रियमनांसि नियम्य** बद्धाञ्जलिः सन् **गुरोर् मुखं वीक्ष्यमानस् तिष्ठेत्** ॥ २.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.
 </details>
 
 <details><summary>भारुचिः</summary>

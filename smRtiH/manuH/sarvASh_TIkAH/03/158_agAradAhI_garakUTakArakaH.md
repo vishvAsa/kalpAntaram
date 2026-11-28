@@ -2,6 +2,11 @@
 title = "158 अगारदाही गरकूटकारकः"
 +++
 
+<details><summary>Bühler</summary>
+
+158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The house-burner, the poisoner, one who eats the food of an adulteress’ son, the seller of Soma, the sea-voyager, the bard, the dealer in oils, and the perjuror.—(158)
@@ -72,11 +77,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **अगारदाहीति** । गृहस्य दाहको, मारणद्रव्यदाता कुण्डस्य वक्ष्यमाणस्य यो ऽन्नम् अश्नाति, सोमस्य लतारूपस्य विक्रेता, समुद्रं यो गच्छति, स्तुतीनां पाठकः, तिलादेः पेषकः, लेख्यसाक्ष्यादौ कूटस्य कर्ता इत्य् एत उभयत्र परिहरणीयाः ॥ ३.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
 </details>
 
 <details><summary>भारुचिः</summary>

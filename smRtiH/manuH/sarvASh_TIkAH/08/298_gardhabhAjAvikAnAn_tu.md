@@ -3,6 +3,11 @@ title = "298 गर्धभाजाविकानान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+298	For donkeys, sheep, and goats the fine shall be five mashas; but the punishment for killing a dog or a pig shall be one masha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of donkeys, goat and sheep the fine shall consist of five ‘māṣas’; and the fine shall be one ‘māṣa’ for the killing of a dog ok a pig.—(298)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 8.295].
 <details><summary>भारुचिः</summary>
 
 **माषिक**ग्रहणेन चात्र द्रव्यग्रहणं पुरुषशक्त्यपराधानुबन्धसामर्थ्याद् विज्ञेयम् । विशेषतः सपरिग्रहप्राणिहिंसाविषयश् चायं दण्ड उच्यमानो यानोपघाताद् अन्यत्रापि कार्यसामान्याद् विज्ञायते ॥ ८.२९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-298	For donkeys, sheep, and goats the fine shall be five mashas; but the punishment for killing a dog or a pig shall be one masha.
 </details>

@@ -2,6 +2,11 @@
 title = "162 सम्मानाद् ब्राह्मणो"
 +++
 
+<details><summary>Bühler</summary>
+
+162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa should ever shrink from reverence, as from poison; and he should always seek for disrespect, as for nectar.—(162)
@@ -47,11 +52,6 @@ when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell
 <details><summary>गोविन्दराजः</summary>
 
 **सम्मानाद्** इति । पूजातो **ब्राह्मणः **यावज्जीवं **विषाद् इव **खिद्येत । अमृतम् इव चावज्ञां **सर्वदा** काङ्क्षेत् ॥ २.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
 </details>
 
 <details><summary>भारुचिः</summary>

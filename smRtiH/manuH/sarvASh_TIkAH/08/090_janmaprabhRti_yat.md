@@ -3,6 +3,11 @@ title = "090 जन्मप्रभृति यत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+090	'(The reward) of all meritorious deeds which thou, good man, hast done since thy birth, shall become the share of the dogs, if in thy speech thou departest from the truth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Whatever merit, good man, you may have acquired since your birth, would go to the dogs, if you speak falsely.’—(90)
@@ -49,9 +54,4 @@ This verse is quoted in *Aparārka* (p. 674);—in *Parāśaramādhava* (Vyavah�
 <details><summary>गोविन्दराजः</summary>
 
 **जन्मप्रभृतीति** । हे कल्याण बाल जन्मप्रभृति यत् किञ्चित् पुण्यं कृतं तत् सर्वं तव सम्बन्धि शुनः फलदं ब्रूयात् यदि त्वम् असत्यं कथयसे ॥ ८.९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-090	'(The reward) of all meritorious deeds which thou, good man, hast done since thy birth, shall become the share of the dogs, if in thy speech thou departest from the truth.
 </details>

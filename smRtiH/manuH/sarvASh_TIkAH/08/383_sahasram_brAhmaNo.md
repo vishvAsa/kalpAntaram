@@ -3,6 +3,11 @@ title = "383 सहस्रम् ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+383	A Brahmana shall be compelled to pay a fine of one thousand (panas) if he has intercourse with guarded (females of) those two (castes); for (offending with) a (guarded) Sudra female a fine of one thousand (panas shall be inflicted) on a Kshatriya or a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa having intercourse with the said two, when protected, should be made to pay a fine of one thousand; the fine for the Kṣatriya and the Vaiśya approaching a Śūdra woman, should be one thousand.—(383)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.382].
 <details><summary>भारुचिः</summary>
 
 अवचनाद् अन्यस्य शूद्रायां गुप्तायाम् अयम् एव दण्डः स्याद् ब्राह्मणस्य ॥ ८.३८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-383	A Brahmana shall be compelled to pay a fine of one thousand (panas) if he has intercourse with guarded (females of) those two (castes); for (offending with) a (guarded) Sudra female a fine of one thousand (panas shall be inflicted) on a Kshatriya or a Vaisya.
 </details>

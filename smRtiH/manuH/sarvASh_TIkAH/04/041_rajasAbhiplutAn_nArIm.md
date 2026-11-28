@@ -3,6 +3,11 @@ title = "041 रजसाभिप्लुतान् नारीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of the man who approaches a woman covered with impurity,—intelligence, vitality, strength, sight and longevity wear off.—(41)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 4.40].
 <details><summary>गोविन्दराजः</summary>
 
 **रजसेति** । यस्माद् रजस्वलास्त्रियं पुंस **उपगच्छतः प्रज्ञा**वीर्यादीनि** **नश्यन्ति, तस्मात् तां नोपेयात् ॥ ४.४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.
 </details>

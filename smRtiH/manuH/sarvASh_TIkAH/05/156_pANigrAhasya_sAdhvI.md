@@ -3,6 +3,11 @@ title = "156 पाणिग्राहस्य साध्वी"
 
 +++
 
+<details><summary>Bühler</summary>
+
+156	A faithful wife, who desires to dwell (after death) with her husband, must never do anything that might displease him who took her hand, whether he be alive or dead.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The good wife, desirous of reaching her husband’s regions, should never do anything that m ay be disagreeable to her husband, alive or dead.—(154).
@@ -62,9 +67,4 @@ either accompany him or observe the vows; she should not go to other houses; she
 <details><summary>गोविन्दराजः</summary>
 
 **पाणिग्राहस्येति** । भर्त्रा सह धर्माचरणेन स्वर्गादिलोकत्वम् आप्तुकामा साध्वी स्त्री भर्तुर् जीवतो मृतस्य वा अप्रियं व्यभिचारादि न किञ्चिद् आचरेत्, वृत्त्यसम्भवे ऽपि च ॥ ५.१५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-156	A faithful wife, who desires to dwell (after death) with her husband, must never do anything that might displease him who took her hand, whether he be alive or dead.
 </details>

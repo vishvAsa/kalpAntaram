@@ -3,6 +3,11 @@ title = "180 क्षेत्रजादीन् सुतान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+180	These eleven, the son begotten on the wife and the rest as enumerated (above), the wise call substitutes for a son, (taken) in order (to prevent) a failure of the (funeral) ceremonies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These eleven, the ‘soil-born’ and the rest, as here described, the wise ones call ‘substitutes of a son,’—taken with a view to the failure of a religious duty.—(180)
@@ -66,9 +71,4 @@ the Appointed Daughter is there, the *Kṣetraja* and other sons, belonging as t
 <details><summary>भारुचिः</summary>
 
 एकादशानाम् अविशेषेण प्रतिनिधिवचनात् कानीनादयो ऽपि पूर्वैर् अविशिष्टाः प्रतीयन्ते । अतो यद् एषाम् अदायादबान्धवत्वम् उक्तं प्रजीवनविषये पाक्षिकदानार्थं तत् स्याद् इति व्याख्यातम्, किं अयं प्रधानेन विशिष्टकार्यप्रतिनिधिः यथा मीमांसका आहुर् इति । नेत्य् उच्यते, विषमसमीकरणस्यायुक्तत्वात् । तथा चोक्तम् "तादृशं गुणम् आप्नोति कुपुत्रैः संतरंस् तमः" इत्य् एवमादि । तथा चेदम् आहैषाम् निन्दावचनं समानबलत्वप्रतिषेधार्थम् ॥ ९.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	These eleven, the son begotten on the wife and the rest as enumerated (above), the wise call substitutes for a son, (taken) in order (to prevent) a failure of the (funeral) ceremonies.
 </details>

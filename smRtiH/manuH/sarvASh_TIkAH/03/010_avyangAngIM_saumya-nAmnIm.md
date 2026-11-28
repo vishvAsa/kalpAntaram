@@ -2,6 +2,11 @@
 title = "010 अव्यङ्गाङ्गीं सौम्य-नाम्नीम्"
 +++
 
+<details><summary>Bühler</summary>
+
+010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should marry a female with a faultless body, bearing an agreeable name, having her gait like that of the swan or the elephant, having fine hair on the body and the head, and fine teeth, and with tender limbs.—(10)
@@ -102,11 +107,6 @@ relations, good character, and auspicious marks, and who is free from disease.�
 <details><summary>गोविन्दराजः</summary>
 
 **अव्यङ्गाङ्गीम्** इति । अविकलाङ्गीम् अप्रसन्ननाम्नीं राजहंसगजरुचिरगमनाम् अनतिस्थूलरोमकेशदन्तां कोमलाङ्गीं कन्यां परिणयेत् । विधिनिषेधभयाभिधानं निर्दोषसगुणकन्योपयमने ऽभ्युदयार्थम् ॥ ३.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
 </details>
 
 <details><summary>भारुचिः</summary>

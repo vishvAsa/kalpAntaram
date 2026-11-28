@@ -3,6 +3,11 @@ title = "076 आर्द्र-पादस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall eat with wet feet; but he shall not sleep with his feet wet. By eating with wet feet, one would attain long life.—(176)
@@ -54,9 +59,4 @@ Do. (13.104.61).—\[Reproduces Manu.\]
 > न निन्देद् दत्तभक्ष्यांश् च स्याद् स्वादु न कुत्सयेत् ॥
 
 इति व्यासेन नित्यस्मरणात् ॥ ४.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.
 </details>

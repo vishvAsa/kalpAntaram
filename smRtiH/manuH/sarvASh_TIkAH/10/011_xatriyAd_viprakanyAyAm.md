@@ -3,6 +3,11 @@ title = "011 क्षत्रियाद् विप्रकन्याय
 
 +++
 
+<details><summary>Bühler</summary>
+
+011	From a Kshatriya by the daughter of a Brahmana is born (a son called) according to his caste (gati) a Suta; from a Vaisya by females of the royal and the Brahmana (castes) spring a Magadha and a Vaideha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One born from the Kṣatriya on the Brāhmaṇa maiden is ‘Sūta’ in caste; and the sons born on the Kṣatriya and the Brāhmaṇa maiden from the vaiśya are ‘Māgadha’ and ‘Vaideha’ respectively.—(10)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 प्रातिलोम्येन यथाक्रमं क्षत्रियाद् ब्राह्मण्यां सूतः । विस्यात् क्षत्रियायां मागधः। ब्राह्मण्यां वैदेहकः ॥ १०.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	From a Kshatriya by the daughter of a Brahmana is born (a son called) according to his caste (gati) a Suta; from a Vaisya by females of the royal and the Brahmana (castes) spring a Magadha and a Vaideha.
 </details>

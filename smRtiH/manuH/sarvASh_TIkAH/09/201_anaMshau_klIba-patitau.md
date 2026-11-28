@@ -3,6 +3,11 @@ title = "201 अनंशौ क्लीब-पतितौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+201	Eunuchs and outcasts, (persons) born blind or deaf, the insane, idiots and the dumb, as well as those deficient in any organ (of action or sensation), receive no share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Eunuchs and outcasts, those born blind or deaf, idiots and the dumb, as well as those deficient in any organ, are entitled to no shares.—(201)
@@ -80,9 +85,4 @@ the insane, the idiot, the blind, the outcast, the outcast’s child and the rel
 <details><summary>भारुचिः</summary>
 
 इत्य् अनेन पीठसर्पिपंग्वादयो ऽपि गृह्यन्ते सामर्थ्यात् ॥ ९.२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-201	Eunuchs and outcasts, (persons) born blind or deaf, the insane, idiots and the dumb, as well as those deficient in any organ (of action or sensation), receive no share.
 </details>

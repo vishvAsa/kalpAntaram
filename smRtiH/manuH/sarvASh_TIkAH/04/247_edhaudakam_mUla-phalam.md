@@ -2,6 +2,11 @@
 title = "247 एध+उदकम् मूल-फलम्"
 +++
 
+<details><summary>Bühler</summary>
+
+247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may accept from all persons fuel, water, roots, and fruits, and food that is offered, as also honey and the gift of fearlessness.’—(247)
@@ -82,11 +87,6 @@ tanks and wells, milk in the cow-pen,—these may he accepted even from one whos
 <details><summary>गोविन्दराजः</summary>
 
 **एकोदकम् **इति । काष्ठोदकफलमूलाक्षिकम् अन्नं च अयाचितोपनतम् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् **। तथा अभयं चात्मपरित्राणम् अत्यन्तप्रीतिकरं मत्वा दक्षिणातुल्यम् आत्मभयरक्षणसमर्थम् इति सर्वतश् चण्डालादेर् अप्य् अङ्गीकुर्यात् ॥ ४.२४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "180 एकः शयीत"
 +++
 
+<details><summary>Bühler</summary>
+
+180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should always sleep alone; nowhere should he allow his manhood to run out; by intentionally allowing his manhood to run out, hr breaks his vow.—(180)
@@ -49,11 +54,6 @@ couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-gra
 <details><summary>गोविन्दराजः</summary>
 
 **एक** इति । नान्येन सह **शयीत । सर्वत्र** गुरुगृहे पितृगृहादौ । न च स्त्रीप्रयोगात् प्रकारान्तरेणापि रेतः प्रक्षारयेत् **क्वचिद्** अयोनाव् अपि । यस्माद् बुद्धिपूर्वं **रेतः** **स्कन्दयन्** आत्मनो ब्रह्मचर्यं खण्डयति ॥ २.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
 </details>
 
 <details><summary>भारुचिः</summary>

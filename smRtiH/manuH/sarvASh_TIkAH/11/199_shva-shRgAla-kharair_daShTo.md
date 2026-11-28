@@ -3,6 +3,11 @@ title = "199 श्व-शृगाल-खरैर् दष्टो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+200	He who has been bitten by a dog, a jackal, or a donkey, by a tame carnivorous animal, by a man, a horse, a camel, or a (village-) pig, becomes pure by suppressing his breath (Pranayama).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When bitten by a dog, or a jackal, or an ass, or by a tame carnivorous animal, or by a man, or a camel, or a pig—he becomes pure by ‘breath-suppression.’—(199)
@@ -47,9 +52,4 @@ ape, an ass, a dog, a camel or crows, becomes pure by performing breath-suspensi
 <details><summary>गोविन्दराजः</summary>
 
 **श्वशृगालखरैर्** इति । श्वशृगालखरमनुष्याश्वोष्ट्रशूकरैर् ग्राम्यैश् चाममांसादैर् मार्जारादिभिर् दष्टः प्राणायामेन शूध्यति ॥ ११.१९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	He who has been bitten by a dog, a jackal, or a donkey, by a tame carnivorous animal, by a man, a horse, a camel, or a (village-) pig, becomes pure by suppressing his breath (Pranayama).
 </details>

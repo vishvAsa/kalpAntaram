@@ -3,6 +3,11 @@ title = "156 सम-वर्णासु वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+156	All the sons of twice-born men, born of wives of the same caste, shall equally divide the estate, after the others have given to the eldest an additional share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, all the sons of twice-born men, born of wives of the same caste, shall divide the property equally, after the others have given to the eldest his ‘preferential share.’—(156)
@@ -75,9 +80,4 @@ See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 **समवर्णासु वा जाता** ज्यायसे मानवर्धनं यत् किंचिद् **दत्वा भजेरन्न् इतरे समम्** । हीनजातिगुणवत्तरेष्व् अयं विधिः सामर्थ्याद् विज्ञेयः ॥ ९.१५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-156	All the sons of twice-born men, born of wives of the same caste, shall equally divide the estate, after the others have given to the eldest an additional share.
 </details>

@@ -3,6 +3,11 @@ title = "049 धर्मेण व्यवहारेण"
 
 +++
 
+<details><summary>Bühler</summary>
+
+049	By moral suasion, by suit of law, by artful management, or by the customary proceeding, a creditor may recover property lent; and fifthly, by force.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall make the advanced money repaid by means of (a) good faith, (b) tactful transaction, (c) trick, (d) moral pressure, and (c) force, the fifth.—(49)
@@ -113,9 +118,4 @@ creditor’s house, where he is compelled by beating and other forcible means, t
 <details><summary>भारुचिः</summary>
 
 **धर्मेण** साम्नानुद्वेजयन् शनैर् दापयेत्, शपथेन वा संप्रतिपत्तौ । तावद् एवम् अप्रतिपत्तौ व्यवहारेण वक्ष्यति; छलेन वानेकप्रकारेणापि विश्वास्य; आचरितेन वाभोजनगृहद्वारोपवेशनादिना लोकसमाचरितेन; बलेन वा स्वगृहबन्धनादिना मा भूद् अस्यार्थक्षयो राजसमावेशनेन । एवं च सत्य् अत्र नास्ति कश्चिद् धर्मातिक्रमो, यस्माद् अतः —
-</details>
-
-<details><summary>Bühler</summary>
-
-049	By moral suasion, by suit of law, by artful management, or by the customary proceeding, a creditor may recover property lent; and fifthly, by force.
 </details>

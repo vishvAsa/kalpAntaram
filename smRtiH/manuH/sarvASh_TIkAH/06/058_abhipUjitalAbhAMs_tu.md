@@ -3,6 +3,11 @@ title = "058 अभिपूजितलाभांस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+058	Let him disdain all (food) obtained in consequence of humble salutations, (for) even an ascetic who has attained final liberation, is bound (with the fetters of the Samsara) by accepting (food given) in consequence of humble salutations.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall disdain all honorific presents; by honorific presents the Renunciate, even though liberated, becomes fettered—(58).
@@ -43,9 +48,4 @@ are sought for by all men; nor shall he enjoy what is given to him through humbl
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-058	Let him disdain all (food) obtained in consequence of humble salutations, (for) even an ascetic who has attained final liberation, is bound (with the fetters of the Samsara) by accepting (food given) in consequence of humble salutations.
 </details>

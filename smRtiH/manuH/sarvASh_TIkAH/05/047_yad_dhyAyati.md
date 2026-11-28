@@ -2,6 +2,11 @@
 title = "047 यद् ध्यायति"
 +++
 
+<details><summary>Bühler</summary>
+
+047	He who does not injure any (creature), attains without an effort what he thinks of, what he undertakes, and what he fixes his mind on.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 यच् चिन्तयति शुल्कम् अर्हणादि । यत्र च **रतिम्** अभिलाषं **बध्नात्य्** अभिप्रेत्य वस्तुनि । **तद् अयत्नेन** स्वल्पेनैव कालेनावाप्नोति । **यत्** तु **कुरुते** कर्मणा तत् कर्मनिष्पत्तिसमन्तरम् एवाविघ्नेन प्राप्नोति ॥ ५.४७ ॥
@@ -45,11 +50,6 @@ the buyer, the seller, and the cooker—all these are *slayers*......the eater i
 <details><summary>गोविन्दराजः</summary>
 
 **यद् ध्यायतीति** । यश् चिन्तयति [**यच्** चिन्तयति] भगवदीश्वराराधनादि, **यद् **वा **कुरुते **हरिहरचरणनमस्कारादि, **यत्र **वा भवभक्तिभावनादौ **रतिं बध्नाति तत् **सर्वम् **अयत्नेन **प्राप्नोति य आतताय्यादीन् अपि प्राणिनो **न हिनस्ति** ॥ ५.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	He who does not injure any (creature), attains without an effort what he thinks of, what he undertakes, and what he fixes his mind on.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "043 नश्यतीषुर् यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+043	As the arrow, shot by (a hunter) who afterwards hits a wounded (deer) in the wound (made by another), is shot in vain, even so the seed, sown on what belongs to another, is quickly lost (to the sower).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘As the arrow shot by an after-shooter hitting a wounded animal in a hole (already made) is wasted, so does the seed become wasted when sown in what belongs to another.’—(43)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 परिग्रहे सत्य् अन्यस्य । पश्चाद् अस्वामित्वात् फलाभावं दर्शयति ॥ ९.४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-043	As the arrow, shot by (a hunter) who afterwards hits a wounded (deer) in the wound (made by another), is shot in vain, even so the seed, sown on what belongs to another, is quickly lost (to the sower).
 </details>

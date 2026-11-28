@@ -2,6 +2,11 @@
 title = "083 एकाक्षरम् परम्"
 +++
 
+<details><summary>Bühler</summary>
+
+083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The mono-syllable is the highest Brahman; Breath-suspensions are the highest austerity; nothing is higher than the Sāvitrī verse; truth is better than Silence.—(83)
@@ -95,11 +100,6 @@ to be the best purifier; there is nothing superior to the Gāyatri; Truth is sup
 <details><summary>गोविन्दराजः</summary>
 
 **एकाक्षरम् **इति । ओङ्काराख्यम् एतद् **एकाक्षरं परं ब्रह्म** शब्दपरब्रह्मणोर् वेदान्तदृष्टतोः, **प्राणायामः** कृच्छ्रादितपोभ्यः प्रकृष्टं **तपः** **सावित्र्याः **(प्र)सकाशाद् अन्यत् प्रकृष्टं जपनीयं नास्तीत्य् एवं प्रकृतोङ्कारप्राणायामसावित्रीविधीनां स्तुतिः । **मौनात् सत्यं विशिष्यते **। मौनं अनृतदोषपरिहारातिरेकेण सत्यवचनेनाभ्युदयोत्पादाद् इति स्तुतिप्रसङ्गेन सत्याभिधानस्तुतिः ॥ २.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "154 विड्वराह-खरोष्ट्राणाङ् �
 
 +++
 
+<details><summary>Bühler</summary>
+
+155	A twice-born man, who has swallowed the urine or ordure of a village pig, of a donkey, of a camel, of a jackal, of a monkey, or of a crow, shall perform a lunar penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a twice-born person swallows the ordure or urine of the village-pig, of an ass, of a camel, of a jackal, of a monkey, or of a crow—he shall perform the Cāndrāyaṇa.—(154)
@@ -46,9 +51,4 @@ or excreta of the dog, the cat, the ass, the camel, the monkey, the jackal or th
 <details><summary>भारुचिः</summary>
 
 अमत्या प्राशनम् एषाम् एतद् अधिकारात् । तथा चोत्तरश्लोके विक्ष्यति- "अज्ञातं चैव सूनास्थम्" इति । मतिपूर्वे तु प्राशन एषां गुरुतरं प्रायश्चित्तं प्रकल्प्यं परिषदा ॥ ११.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	A twice-born man, who has swallowed the urine or ordure of a village pig, of a donkey, of a camel, of a jackal, of a monkey, or of a crow, shall perform a lunar penance.
 </details>

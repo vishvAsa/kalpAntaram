@@ -2,6 +2,11 @@
 title = "248 एतेष्व् अविद्यमानेषु"
 +++
 
+<details><summary>Bühler</summary>
+
+248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When all these are non-existent, he should perfect his body, while he carries on the tending of the Fire, with only such diversions as standing and sitting.—(248)
@@ -95,11 +100,6 @@ upon the Fire.
 <details><summary>गोविन्दराजः</summary>
 
 **एतेष्व् अविद्यमानेष्व्** इति । गुरुपुत्रादिष्व् असत्सु कालनियमावलम्बनेन उत्थानोपवेशनाटनवान् भक्त्या अग्निकार्यम् अनितिष्ठन् आत्मसम्बन्धि शरीरं क्षपयेत् ॥ २.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
 </details>
 
 <details><summary>भारुचिः</summary>

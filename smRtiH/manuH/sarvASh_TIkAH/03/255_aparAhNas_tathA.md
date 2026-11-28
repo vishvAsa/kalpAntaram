@@ -2,6 +2,11 @@
 title = "255 अपराह्णस् तथा"
 +++
 
+<details><summary>Bühler</summary>
+
+255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The afternoon, Kuśa-Grass, setting up of the dwelling, sesamum grains, liberality, cleaning and superior Brāhmaṇas;—these are the essentials of Śrāddha-rites.—(255)
@@ -74,11 +79,6 @@ accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, t
 <details><summary>गोविन्दराजः</summary>
 
 **अपराह्णस् तथा दर्भा** इति । **अपराह्णः** विष्टरार्थं **दर्भाः वास्तुसम्पादनं **सुधागोमयादिना गृहसंशोधनम्, **तिलाश्** चान्तर्भूविकरणाद्यर्थाः, **सृष्टिः **अकार्पण्येनान्नविसर्गः । **मृष्टिः** अन्नसम्स्कारः, **अग्र्या ब्राह्मणाः** इत्य् एताः **श्राद्धे सम्पदः** इत्य् अङ्गान्तरेभ्यः एषां प्रशस्यत्वज्ञापनार्थम् एतत् ॥ ३.२५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
 </details>
 
 <details><summary>भारुचिः</summary>

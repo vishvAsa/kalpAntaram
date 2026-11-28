@@ -3,6 +3,11 @@ title = "270 एकजातिर् द्विजातींस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+270	A once-born man (a Sudra), who insults a twice-born man with gross invective, shall have his tongue cut out; for he is of low origin.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a once-born person insults a twice-born one with gross abuse, he should suffer the cutting off of his tongue; as he is of low origin.—(270)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 8.267].
 <details><summary>भारुचिः</summary>
 
 ब्राह्मणाक्रोशे वध उक्तः शूद्रस्य । यतो ऽयं क्षत्रियवैश्याक्रोशे तस्य दण्डविधिर् ज्ञेयः । यतः जिह्वाच्छेदश् चाप्राणोपरोधी सामार्थ्याद् अस्य विज्ञायते ॥ ८.२६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-270	A once-born man (a Sudra), who insults a twice-born man with gross invective, shall have his tongue cut out; for he is of low origin.
 </details>

@@ -2,6 +2,11 @@
 title = "010 दधि भक्ष्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+010	Among (things turned) sour, sour milk, and all (food) prepared of it may be eaten, likewise what is extracted from pure flowers, roots, and fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among Soured Substances, the curd is fit to be eaten, and all that is prepared out of it; as also all that is distilled from pure flowers, roots and fruits;—(10)
@@ -96,11 +101,6 @@ preparations of curd; drinks made of fruits and roots and flowers may be eaten, 
 <details><summary>गोविन्दराजः</summary>
 
 अत्र प्रतिप्रसवम् आह **दधि भक्ष्यं तु शुक्तेषु सर्वं च दधिसम्भवम्** इति । **शुक्तेषु** मध्याद् दधि तत्सम्भवं तु **सर्वम् **उदश्विदादि । यानि च शुद्धेः पुष्पादिभिर् उदकेन सह सन्धीयन्ते तानि भक्षणार्हाणि । आचारस्य च स्मृतिवाक्यव्याख्यानस्थानीयत्वात् य आचाराविरोधो स म्स्त्यर्थं कल्पयितुं न्याय्यः । अतः शिष्टाचारानतिक्रमेण पुष्पादिग्रहणं द्रव्यान्तरप्रदर्शनम् अपि विज्ञेयम् । अत्र चाभिइषुतशुक्त(शुक्ल)प्रतिप्रसवात् सर्वशुक्तानीत्य् अयं प्रतिषेधो ऽप्य् अभिषुतविषय एव । ततः स्वभावशुक्तानाम् आमलकादीनाम् अप्रतिषेधः इति _केचित्_ – _तद् असत्_, “दधि भक्ष्यं तु” इत्य् अनभिषुतस्यापि प्रतिप्रसवात् । न चामलकादीनाम् अभक्ष्यतापत्तिः, न ह्य् अम्लपर्यायशुक्तशब्दो ऽपि [तु] यथोक्तार्थम् एव ॥ ५.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	Among (things turned) sour, sour milk, and all (food) prepared of it may be eaten, likewise what is extracted from pure flowers, roots, and fruit.
 </details>
 
 <details><summary>भारुचिः</summary>

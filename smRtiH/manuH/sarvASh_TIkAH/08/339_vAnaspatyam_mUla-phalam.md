@@ -3,6 +3,11 @@ title = "339 वानस्पत्यम् मूल-फलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+339	(The taking of) roots and of fruit from trees, of wood for a (sacrificial) fire, and of grass for feeding cows, Manu has declared (to be) no theft.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Fuel for fire and trees, roots and fruits, and grass, for feeding cows,—the taking of these Manu has declared to be no theft.—(339)
@@ -90,9 +95,4 @@ like...... vegetables, green roots, grass or flowers... a fine of five times the
 <details><summary>भारुचिः</summary>
 
 अग्निग्रहणाच् च लिङ्गात् सर्वम् एतद् यज्ञार्थम् अप्रत्यवायकरम् । तथा च वक्ष्यति- "आहरेत् त्रीणि वा द्वे वा" इति । तस्करप्रतिग्रहादिकर्तुर् ब्राह्मणस्य विजानतश् चोरसमत्वप्रदर्शनार्थम् इदम् आह दण्डार्थम् ॥ ८.३३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-339	(The taking of) roots and of fruit from trees, of wood for a (sacrificial) fire, and of grass for feeding cows, Manu has declared (to be) no theft.
 </details>

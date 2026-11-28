@@ -3,6 +3,11 @@ title = "108 अन्तर्गत-शवे ग्रामे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	In a village where a corpse lies, in the presence of a (man who lives as unrighteously as a) Sudra, while (the sound of) weeping (is heard), and in a crowd of men the (recitation of the Veda must be) stopped.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a village where a corpse still lies, in the presence of low people, during weeping, and in a crowd of hen,—it is unfit for study.—(108).
@@ -69,9 +74,4 @@ instruments, or of weeping,—and when there is high wind;—during that time it
 <details><summary>गोविन्दराजः</summary>
 
 **अन्तर्गतशव** इति । विद्यमानशवे **वृषलस्य च** अधार्मिकस्य च **सन्निधौ** “न शूद्रजनसन्निधौ” इत् शूद्रस्योक्तत्वात् रोदने च, जनानां कार्यार्थम् एकत्र सन्निधाने सत्य् **अनध्यायः** ॥ ४.१०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	In a village where a corpse lies, in the presence of a (man who lives as unrighteously as a) Sudra, while (the sound of) weeping (is heard), and in a crowd of men the (recitation of the Veda must be) stopped.
 </details>

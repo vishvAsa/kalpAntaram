@@ -3,6 +3,11 @@ title = "141 किञ् चिद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+142	But for killing (small) animals which have bones, he should give some trifle to a Brahmana; if he injures boneless (animals), he becomes pure by a suppressing his breath (pranayama).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the killing of animals with bones, he should give some trifle to a Brāhmaṇa; and for the killing of boneless animals, one becomes purified by the ‘control of breath.’—(141)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 11.140].
 > **अनस्थ्नां चैव हिंसायां प्राणायामेन शुध्यति  ॥ ११.१४० ॥**
 
 कृमिकीटवयोहत्या मलिनीकरणेषूक्ताः । एवं च सति तदीयं प्रायश्चित्तं समानाश्रयत्वाद् अनेन विकल्पेन ॥ ११.१४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-142	But for killing (small) animals which have bones, he should give some trifle to a Brahmana; if he injures boneless (animals), he becomes pure by a suppressing his breath (pranayama).
 </details>

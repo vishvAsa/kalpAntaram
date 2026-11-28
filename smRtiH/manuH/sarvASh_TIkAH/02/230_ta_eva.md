@@ -2,6 +2,11 @@
 title = "230 त एव"
 +++
 
+<details><summary>Bühler</summary>
+
+230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These have been declared to be the three regions, these the three life-stages, these the three Vedas and these the three fires.—(230)
@@ -49,11 +54,6 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, P. 95).
 <details><summary>गोविन्दराजः</summary>
 
 यस्मात् **त **इति । पृथिव्यन्तरिक्षब्रह्मलोकावाप्तिहेतुत्वात् तच्छुश्रूषायाः **त एव त्रयो लोका **इत्य् उच्यन्ते । एवं च ब्रह्मचर्यव्यतिरिक्ताश्रमत्रयतुल्यफलत्वात् तत्सेवायाः **त एव त्रय आश्रमाः **। वेदत्रयजपतुल्यफलत्वात् तत्परिचर्यायाः **त एव त्रयो वेदाः **। अग्निसम्पाद्यकर्मतुल्यफलत्वात् तदाराधनायाः **त एव त्रयो ऽग्नयः** । इति मन्वादिभिर् उक्ता इति पूर्वविध्यर्थवादः ॥ २.२३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.
 </details>
 
 <details><summary>भारुचिः</summary>

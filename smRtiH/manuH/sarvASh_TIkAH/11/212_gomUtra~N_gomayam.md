@@ -3,6 +3,11 @@ title = "212 गोमूत्रङ् गोमयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+213	(Subsisting on) the urine of cows, cowdung, milk, sour milk, clarified butter, and a decoction of Kusa-grass, and fasting during one (day and) night, (that is) called a Samtapana Krikkhra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking cow’s urine, cow-dung, milk, curds, clarified butter, kuśa-water, and fasting for one day,—has been declared to be ‘Sāntapana Kṛcchra’— (212)
@@ -64,9 +69,4 @@ cowdung, and butter,—having eaten these, if one fasts on the following day, it
 <details><summary>भारुचिः</summary>
 
 कृच्छ्रसाध्यत्वात् कृच्छ्रप्रतिमो[चन]वचनात् वा कृच्छ्रम् ॥ ११.२१०–२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-213	(Subsisting on) the urine of cows, cowdung, milk, sour milk, clarified butter, and a decoction of Kusa-grass, and fasting during one (day and) night, (that is) called a Samtapana Krikkhra.
 </details>

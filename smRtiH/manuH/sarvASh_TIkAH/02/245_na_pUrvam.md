@@ -2,6 +2,11 @@
 title = "245 न पूर्वम्"
 +++
 
+<details><summary>Bühler</summary>
+
+245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At first the pupil, knowing his duties, should not give anything to his teacher; but when going to take the final bath, he should, on being ordered by the teacher, present something for him, to the best of his capacity;—(245)
@@ -86,11 +91,6 @@ syllable,—there is nothing on earth by giving which he would be free from the 
 <details><summary>गोविन्दराजः</summary>
 
 **न पूर्वम्** इति । स्नानपूर्वम् अगृहीतवेदः शिष्यो धनम् आहरन् यथा (यदा) न (धनं विना) अध्यापयामीत्य् एवं गुरुणादिष्टः न किञ्चिद् अपि गुरवे दद्यात्, भृतकाध्यापकत्वप्रसङ्गात् । अत एवाह **धर्मवित्** । अपणपूर्वत्वे ऽनिषेधः “धर्मार्थौ यत्र न स्याताम्” इत्य् उक्तत्वात् । तथा च आपस्तम्बः- “यदाचार्यं भोजयित्वा शेषम् अन्नम् अश्नाति हविर् उत्कृष्टम् एव तत् यद् अन्यानि द्रव्याणि यथालाभम् उपहरति दक्षिणा एव वा स एष ब्रह्मचारिणो यज्ञो नित्यप्रयतः” इति । स्नानं पुनः कर्तुम् इच्छन् समावर्तनकाले इमम् अर्थम् आहरेत्य् एवं गुरुणादिष्टः यथाशक्ति अवश्यं गुर्वर्थम् आहरेत् तदानीं भृतकाध्यापितत्वासम्भवात् ॥ २.२४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "019 कुरुक्षेत्रञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Next to Brahmāvarta is the ‘Brahmarṣideśa,’ comprising the regions op Kurukṣetra, Matsyas, Pañchālas and Śukasenakas. (19).
@@ -66,11 +71,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>गोविन्दराजः</summary>
 
 **कुरुक्षेत्रम्** इति । **मत्स्या**दिः विराटदेशाः **पाञ्चालाः **कान्यकुब्जा आहिच्छत्रः **शूरसेनकाः **माधुराः एष **ब्रह्मर्षिदेशा**ख्यो देशः **ब्रह्मावर्ताद् **ईषन्न्यूनः ॥ २.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
 </details>
 
 <details><summary>भारुचिः</summary>

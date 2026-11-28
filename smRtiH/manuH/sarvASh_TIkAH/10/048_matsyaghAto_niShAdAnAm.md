@@ -3,6 +3,11 @@ title = "048 मत्स्यघातो निषादानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Killing fish to Nishadas; carpenters' work to the Ayogava; to Medas, Andhras, Kunkus, and Madgus, the slaughter of wild animals;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For Niṣādas, the killing of fish; for Āyogavas, carpentry; and for medas, andhras, Cuñcus and Madgus, the killing of wild animals.—(48)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 10.46].
 <details><summary>भारुचिः</summary>
 
 निषादप्रभवा बाह्याः निषादशब्देन गृह्यन्ते सामर्थ्यात् । तथा च कृतव्याख्यानम् एतत् पुरस्ताद् इति ॥ १०.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Killing fish to Nishadas; carpenters' work to the Ayogava; to Medas, Andhras, Kunkus, and Madgus, the slaughter of wild animals;
 </details>

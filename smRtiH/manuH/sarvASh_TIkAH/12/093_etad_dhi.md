@@ -3,6 +3,11 @@ title = "093 एतद् +धि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	For that secures the attainment of the object of existence, especially in the case of a Brahmana, because by attaining that, not otherwise, a twice-born man has gained all his ends.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This represents the fulfilment of the object of one’s existence, specially for the Brāhmaṇa; it is only when he has attained this, and not otherwise, that the twice-born man has accomplished his purpose.—(93)
@@ -63,9 +68,4 @@ It is in view of this that we have the next verse.—(93)
 > **प्राप्यैतत् कृतकृत्यो हि द्विजो भवति नान्यथा  ॥ १२.९३ ॥**
 
 वेदाभ्यासादीनां षण्णां कर्मणां वैदिकानाम् अधिकृतानां स्तुत्युपसंहारश्लोको ऽयम् ॥ १२.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	For that secures the attainment of the object of existence, especially in the case of a Brahmana, because by attaining that, not otherwise, a twice-born man has gained all his ends.
 </details>

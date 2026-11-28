@@ -3,6 +3,11 @@ title = "055 अपि यत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Even an undertaking easy (in itself) is (sometimes) hard to be accomplished by a single man; how much (harder is it for a king), especially (if he has) no assistant, (to govern) a kingdom which yields great revenues.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even an undertaking that is easy is difficult to be accomplished by a single man, specially by one who has no assistant; how much more so is the work of the king, which involves great issues!—(55)
@@ -61,9 +66,4 @@ See Comparative notes for [Verse 7.54].
 <details><summary>भारुचिः</summary>
 
 एवं च सति मन्त्रिणाम् अविधानाद् अन्यत्रैत एव यथासंभवं राज्ञो मन्त्रिणः स्युः । तथा च कृत्वोक्तम् एवेति ॥ ७.५५
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Even an undertaking easy (in itself) is (sometimes) hard to be accomplished by a single man; how much (harder is it for a king), especially (if he has) no assistant, (to govern) a kingdom which yields great revenues.
 </details>

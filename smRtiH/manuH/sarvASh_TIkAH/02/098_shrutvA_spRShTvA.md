@@ -2,6 +2,11 @@
 title = "098 श्रुत्वा स्पृष्ट्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That man is to be known as having subjugated his sense-organs, who, on having heard, or touched, or seen, or tasted, or smelt, anything, neither rejoices nor grieves.—(98)
@@ -75,11 +80,6 @@ nor should he become ruffled on coming by unhappiness; he whose mind is firm, ne
 <details><summary>गोविन्दराजः</summary>
 
 **श्रुत्वेति** । यश् श्रोत्रत्वक्चक्षुर्नासिकेनेष्टान् शब्दस्पर्शरसरूपगन्धान् उपलभ्य न हर्षम् उपैति, कुत्सितांश् चोपलभ्य न ग्लानिम् एति, **स जितेन्द्रियो **बोद्धव्यः ॥ २.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.
 </details>
 
 <details><summary>भारुचिः</summary>

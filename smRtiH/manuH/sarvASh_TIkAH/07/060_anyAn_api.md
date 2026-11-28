@@ -3,6 +3,11 @@ title = "060 अन्यान् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	He must also appoint other officials, (men) of integrity, (who are) wise, firm, well able to collect money, and well tried.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall also appoint other ministers, who are pure, wise, firm, experts in collecting revenue and thoroughly tested.—(60)
@@ -61,9 +66,4 @@ appointed:—gold, granary, trade, forestry, armoury, weights and measures, meas
 <details><summary>भारुचिः</summary>
 
 मन्त्रिगुणयुक्तान् एतान् अपि कुर्यात् सर्वोपधाभिदृष्टतया च **सुपरीक्षितान्** । **अर्थसअमाहर्तॄन्** संनिधातॄन् [सप्ताष्टौ] वा संख्यानियमापवादो ऽयं राजसहायानाम् उच्यते ॥ ७.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	He must also appoint other officials, (men) of integrity, (who are) wise, firm, well able to collect money, and well tried.
 </details>

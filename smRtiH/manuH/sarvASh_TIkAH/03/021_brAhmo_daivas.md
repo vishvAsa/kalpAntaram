@@ -2,6 +2,11 @@
 title = "021 ब्राह्मो दैवस्"
 +++
 
+<details><summary>Bühler</summary>
+
+021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) The Brāhma, (2) the Daiva, (3) the Ārṣa, (1) the Prājāpatya, (5) the Āsura, (6) the Gāndharva, (7) the Rākṣasa and (8) the Paiśāca, which is the eighth and the lowest.—(21)
@@ -44,11 +49,6 @@ See Comparative notes for [Verse 3.20].
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्म** इति । स्तुतिनिन्दाप्रतिपादनो ऽयम् एषां ब्राह्मादिव्यपदेशः । न त्व् असाधारण्येन ब्रह्मादिदेवतासम्बन्ध एषां विद्यते ॥ ३.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).
 </details>
 
 <details><summary>भारुचिः</summary>

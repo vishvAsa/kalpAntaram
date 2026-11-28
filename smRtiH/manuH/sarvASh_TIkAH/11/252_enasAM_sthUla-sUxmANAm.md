@@ -3,6 +3,11 @@ title = "252 एनसां स्थूल-सूक्ष्माणाम�
 
 +++
 
+<details><summary>Bühler</summary>
+
+253	He who desires to expiate sins great or small, must mutter during a year the Rit-verse 'May we remove thy anger, O Varuna,' &c., or 'Whatever offence here, O Varuna,' &c.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who desires to expiate sins great and small, shall repeat, for one year, the verse beginning with ‘ava’, or that beginning with ‘yatkiñcedam.’—(252)
@@ -43,9 +48,4 @@ It is quoted in *Mitākṣarā* (3.306), which makes the same remarks as
 <details><summary>भारुचिः</summary>
 
 अर्वाङ् महापातकेभ्यः **एनांसि स्थूलसूक्ष्माणीत्य्** उच्यन्ते, उपपातकादीनि । तेषाम् **अपनोदनं चिकीर्षन् अवेत्य् ऋचं जपेद् अब्दम्**, "अव द्वके अव त्रिका दिवश् चरन्ति" इति । अपरे तु सावित्रीम् अत्र पठन्ति । **यत् किं चेदम् इतीति च** इति यावत्- "यत् किं चेदं वरुणदैव्ये जने" इत्य् एवमादि ॥ ११.२४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	He who desires to expiate sins great or small, must mutter during a year the Rit-verse 'May we remove thy anger, O Varuna,' &c., or 'Whatever offence here, O Varuna,' &c.
 </details>

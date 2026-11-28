@@ -3,6 +3,11 @@ title = "316 शासनाद् वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+316	Whether he be punished or pardoned, the thief is freed from the (guilt of) theft; but the king, if he punishes not, takes upon himself the guilt of the thief.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The thief becomes absolved from the theft, either through punishment or through acquittal. By not punishing the thief, the king imbibes the guilt of the thief.—(310)
@@ -183,9 +188,4 @@ thief becomes purified. The King shall touch him with a club, or dismiss him; in
 > **अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम्  ॥ ८.३१५ ॥**
 
 एवं च सत्य् एतद् अनयोः प्रायश्चित्तं शुद्धिहेतुत्वाद् विज्ञेयम् । तथा च राजाभिगमनं स्वयम् अनयोर् अर्थवद् भवतीति । वक्ष्यति हि ऽराजभिः कृतदण्डास् तु" इति । यस् तु राज्ञा बलाद् दण्ड्यते वध्यते वा न तस्य तेन दण्डेन निष्कृतिर् अस्ति । यतः तेन दण्डेन दण्डितेनापि सता प्रायश्चित्तं कर्तव्यम् एव । यश् च स्वयम् एव प्रायश्चित्तम् आरभते न तत्र राज्ञो हस्तप्रक्षेपो ऽस्ति । तथा च वक्ष्यति "प्रायश्चित्तं तु कुर्वानाः" इति । तुष्ट्युत्पत्तिश् च धनस्वामिनो ऽनेन दण्डितेनापि कार्यैव । अकुर्वंश् चैव राजा स्तेननिग्रहम् आत्मापघातं कुर्यात् ॥ ८.३१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-316	Whether he be punished or pardoned, the thief is freed from the (guilt of) theft; but the king, if he punishes not, takes upon himself the guilt of the thief.
 </details>

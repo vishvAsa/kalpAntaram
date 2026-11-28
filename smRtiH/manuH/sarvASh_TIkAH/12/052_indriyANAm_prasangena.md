@@ -3,6 +3,11 @@ title = "052 इन्द्रियाणाम् प्रसङ्गेन
 
 +++
 
+<details><summary>Bühler</summary>
+
+052	In consequence of attachment to (the objects of) the senses, and in consequence of the non-performance of their duties, fools, the lowest of men, reach the vilest births.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Foolish men of the lowest class go through the vilest migratory states, in consequence of being addicted to the senses and by not attending to duties.—(52)
@@ -57,9 +62,4 @@ what is condemned, and by not controlling the senses, man falls.’
 <details><summary>भारुचिः</summary>
 
 इन्द्रियप्रसङ्गः प्रतिषिद्धसेवनं धर्मस्यासेवनं शिष्टाकरणम् । प्रतिषिद्धसेवनाच् छिष्टाकरणाच् चाकृतप्रायश्चित्ताः सन्तः पापाः संयान्ति संसारान् । कुतः पुनर् हेतोः, येनाविद्वांसस् ते, प्रायश्चित्तस्याकरणात् प्रतिव्यतिक्रमम् । अत एव च **नराधमा** इत्य् उक्तम् । तत्र प्रतिषिद्धसेविनां तावद् अकृतप्रायश्चित्तानां कर्मविपाकप्रदर्शनार्थम् इदम् आरभ्यते प्रकरणं प्रायश्चित्तानुष्ठानशेषतया ॥ १२.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	In consequence of attachment to (the objects of) the senses, and in consequence of the non-performance of their duties, fools, the lowest of men, reach the vilest births.
 </details>

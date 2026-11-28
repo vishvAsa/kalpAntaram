@@ -2,6 +2,11 @@
 title = "021 हिमवद्-विन्ध्ययोर् मध्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The country lying between the Himālaya and the Vindhya, to the east of Vinaśana and to the west of Prayāga, is called the ‘Madhyadeśa,’ the ‘Middle Country.’ (21)
@@ -59,11 +64,6 @@ See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 <details><summary>गोविन्दराजः</summary>
 
 **हिमवद्विन्ध्ययोर्** इति । **हिमवद्विन्ध्या**ख्योत्तरदक्षिणदिगवस्थितपर्वतयोर् **मध्यं विनशनाच् च **सरस्वत्यन्तर्धानदेशात् **प्रत्यग्**दिग्वर्तिनः प्राक् पूर्वदिङ्मार्गे । **प्रयागाच् च **गङ्गायमुनासङ्गमात् **प्रत्यक्** पश्चिमदिङ्मार्गे स **मध्यदेशा**ख्यो देशः ॥ २.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
 </details>
 
 <details><summary>भारुचिः</summary>

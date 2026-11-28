@@ -2,6 +2,11 @@
 title = "143 दातॄन् प्रतिग्रहीतॄंश्"
 +++
 
+<details><summary>Bühler</summary>
+
+143	But a present made in accordance with the rules to a learned man, makes the giver and the recipient partakers of rewards both in this (life) and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The presenting of the gift, according to rule, to the learned makes the givers and receivers partakers of reward, here as well as after death.—(143)
@@ -50,11 +55,6 @@ them, long life, offspring, wealth, learning, heaven, final deliverance and plea
 <details><summary>गोविन्दराजः</summary>
 
 **विदुषे दक्षिणा भवति प्रेत्य चेह च ।** वेदार्थविदे च यथाशास्त्रं श्राद्धादि दत्तं पितृतृप्त्याख्याम्मुत्रिकफलेन कीर्त्यनुषङ्गैहिकफलेन च **दातॄन्** सफला **कुरुते** । **प्रतिग्रहीतॄंश् च** तत्प्रतिग्रहलब्धधनानुष्ठितयागादिफलेन अमुत्र सफलान् कुरुते । अधर्मार्जितद्रव्यानुष्ठितयागादिनैष्फल्यात् । इह लोके च धर्मार्जितधनकृतकृष्यादिफल-विषेयान् सफलान् कुरुते इति विद्वद्दानस्य दातृप्रतिग्रहीतृदृष्टादृष्टाफलकथनार्थम् एतत्॥ ३.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	But a present made in accordance with the rules to a learned man, makes the giver and the recipient partakers of rewards both in this (life) and after death.
 </details>
 
 <details><summary>भारुचिः</summary>

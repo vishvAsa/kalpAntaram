@@ -3,6 +3,11 @@ title = "085 यदि स्वाश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+085	If twice-born men wed women of their own and of other (lower castes), the seniority, honour, and habitation of those (wives) must be (settled) according to the order of the castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When twice-born men wed women of their own as well as other castes, their seniority, honour and habitation shall be according to the order of their castes.—(85)
@@ -72,9 +77,4 @@ should have his religious acts, such as the tending of the Sacrificial Fire, don
 <details><summary>भारुचिः</summary>
 
 "इमाः स्युः क्रमशो ऽपराः" इत्य् एतत्क्रमेणैव दारकर्मोक्तम् । इह तूत्सृज्येति क्रमेणाद्यूढानां वर्णक्रमेणैव ज्यैष्ठ्यादि स्यात् । प्रयोजनम् अस्य दायविभागः । पूजा चैतेनैव च सवर्णानाम् अनुक्रमेणैव ज्यैष्ठ्यं विज्ञेयम्, न तु जन्मना ॥ ९.८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-085	If twice-born men wed women of their own and of other (lower castes), the seniority, honour, and habitation of those (wives) must be (settled) according to the order of the castes (varna).
 </details>

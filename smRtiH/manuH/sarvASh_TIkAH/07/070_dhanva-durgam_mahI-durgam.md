@@ -3,6 +3,11 @@ title = "070 धन्व-दुर्गम् मही-दुर्गम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Let him build (there) a town, making for his safety a fortress, protected by a desert, or a fortress built of (stone and) earth, or one protected by water or trees, or one (formed by an encampment of armed) men or a hill-fort.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall live in a city, taking up his residence either in a ‘bow-fort’, or in an ‘earthen fort’, or in an ‘aquatic fort,’ or in an ‘arborial fort,’ or in a ‘human fort,’ or in a ‘hilly fort.’—(70)
@@ -95,9 +100,4 @@ establish a natural fort for purposes of war either in the form of an enclosed i
 <details><summary>भारुचिः</summary>
 
 प्राकारेण वेष्टितं विष्कम्भद्विगुणोत्सेधेनैष्टिकेन शैलेन वा द्वादशहस्त्[आद् ऊर्ध्वम् उ]च्छ्रितेन तालमूलेन कपिशीर्षचिताग्रेण । । । दृढवप्रेण परिष्कृतं **महीदुर्गम्** । अगाधेनानास्रावणीयेन चोदकेन परिवेष्टितम् **अब्दुर्गम्** । समन्ततो ऽर्धयोजनमात्रं घनमहावृक्षचितं **वार्क्षदुर्गम्** । चतुरङ्गबलाधिष्ठितं प्रवरायुधीयपुरुषप्रायं **नृदुर्गम्** । गिरिपृष्टं दुरारोहम् एकमार्गानुगतम् [अन्तर्]नदीप्रस्रवणोदमं **गिरिदुर्गम्** ॥ ७.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Let him build (there) a town, making for his safety a fortress, protected by a desert, or a fortress built of (stone and) earth, or one protected by water or trees, or one (formed by an encampment of armed) men or a hill-fort.
 </details>

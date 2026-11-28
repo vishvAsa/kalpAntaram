@@ -3,6 +3,11 @@ title = "027 तं राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	A king who properly inflicts (punishment), prospers with respect to (those) three (means of happiness); but he who is voluptuous, partial, and deceitful will be destroyed, even through the (unjust) punishment (which he inflicts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King who metes out punishment in the proper manner prospers in respect of his three aims; he who is blinded by affection, unfair, or mean is destroyed by that same punishment.—(27).
@@ -64,9 +69,4 @@ there is no other means save punishment for the subjugating of living beings. Su
 <details><summary>भारुचिः</summary>
 
 अदृष्टम् उत्सृज्य दृष्टेन चैनं प्रगुणीकरोति । येन **सम्यक्** प्रणीत एष त्रिवर्गेण प्रणेतारं वर्धयति । कामादिदिषैश् च **दण्डेनैव निहन्यते** ॥ ७.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	A king who properly inflicts (punishment), prospers with respect to (those) three (means of happiness); but he who is voluptuous, partial, and deceitful will be destroyed, even through the (unjust) punishment (which he inflicts).
 </details>

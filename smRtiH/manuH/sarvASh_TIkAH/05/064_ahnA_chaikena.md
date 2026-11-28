@@ -2,6 +2,11 @@
 title = "064 अह्ना चैकेन"
 +++
 
+<details><summary>Bühler</summary>
+
+064	Those who have touched a corpse are purified after one day and night (added to) three periods of three days; those who give libations of water, after three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those who touch this corpse become pure after one day and one day along with three three-day periods; those who offer water, after three days.—(63).
@@ -83,11 +88,6 @@ village till the stars become visible; and at night, till the appearance of the 
 > जलावगाहनात् तेषां सद्यः शौचं विधीयते ॥
 
 इति पराशरस्मरणाच् चैवं वेदं पारशिष्यान् मूल्यविषये च तिष्ठते । उदकदायिनः केवलोदकं समानोदकास् त्रिरात्रेण शुद्ध्यन्ति ॥ ५.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	Those who have touched a corpse are purified after one day and night (added to) three periods of three days; those who give libations of water, after three days.
 </details>
 
 <details><summary>भारुचिः</summary>

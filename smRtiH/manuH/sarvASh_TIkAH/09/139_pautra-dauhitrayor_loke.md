@@ -3,6 +3,11 @@ title = "139 पौत्र-दौहित्रयोर् लोके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+139	Between a son's son and the son of a daughter there exists in this world no difference; for even the son of a daughter saves him (who has no sons) in the next world, like the son's son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Between the Son’s son and the Daughter’s son there is no difference in the world; since the daughter’s son also, like the son’s son, saves the man in the next world.—(139)
@@ -49,9 +54,4 @@ son and the daughter’s son: for even a daughter’s son works the salvation of
 <details><summary>भारुचिः</summary>
 
 उक्तार्थोपसंहारार्थः श्लोकः ॥ ९.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	Between a son's son and the son of a daughter there exists in this world no difference; for even the son of a daughter saves him (who has no sons) in the next world, like the son's son.
 </details>

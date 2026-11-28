@@ -3,6 +3,11 @@ title = "086 द्यौर् भूमिर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+086	'The sky, the earth, the waters, (the male in) the heart, the moon, the sun, the fire, Yama and the wind, the night, the two twilights, and justice know the conduct of all corporeal beings.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Heaven, earth, water, heart, moon, sun, fire, death-god, wind, night, the two twilights, and morality know the conduct of all corporeal beings.’—(86)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/ma
 
 देवास् ते इत्य् उच्यन्ते —
 अन्तरपूरुषः स्वक्षेत्रज्ञो ऽन्तर्यामी परमात्मा । एवं च न रहस्य् अपि पापं वर्तयेद् न को ऽपि । यतश् चैतद् एवम् । अतस् तेषां नियम उच्यते
-</details>
-
-<details><summary>Bühler</summary>
-
-086	'The sky, the earth, the waters, (the male in) the heart, the moon, the sun, the fire, Yama and the wind, the night, the two twilights, and justice know the conduct of all corporeal beings.'
 </details>

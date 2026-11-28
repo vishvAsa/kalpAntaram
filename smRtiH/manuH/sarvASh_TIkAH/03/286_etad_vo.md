@@ -2,6 +2,11 @@
 title = "286 एतद् वो"
 +++
 
+<details><summary>Bühler</summary>
+
+286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been described to you the procedure of the “Five Sacrifices;” listen now to the means of livelihood for the best of twice-born persons.—(286)
@@ -66,11 +71,6 @@ End of Discourse III.
 इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां मनुटीकायां  
 मन्वनुसारिण्यां श्राद्धविधिर् नाम तृतीयो ऽध्यायः  
 अथ चतुर्थो ऽध्यायः
-</details>
-
-<details><summary>Bühler</summary>
-
-286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.
 </details>
 
 <details><summary>भारुचिः</summary>

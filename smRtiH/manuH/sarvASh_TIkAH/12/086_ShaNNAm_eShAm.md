@@ -3,6 +3,11 @@ title = "086 षण्णाम् एषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+086	Among those six (kinds of) actions (enumerated) above, the performance of) the acts taught in the Veda must ever be held to be most efficacious for ensuring happiness in this world and the next.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among the six aforesaid actions, the performance of ‘Vedic Acts’ should be regarded as the most efficacious for bringing about happiness in this world and as well as after death.—(80)
@@ -222,9 +227,4 @@ This has been answered by the remark that there would be no difference in the de
 <details><summary>भारुचिः</summary>
 
 पूर्वोपदिष्टानां वैदिकानां नित्यानां कर्मणां प्रशंसा । अत्र स्तुतौ कारणं वक्ति ॥ १२.८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-086	Among those six (kinds of) actions (enumerated) above, the performance of) the acts taught in the Veda must ever be held to be most efficacious for ensuring happiness in this world and the next.
 </details>

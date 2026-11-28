@@ -2,6 +2,11 @@
 title = "175 तौ तु"
 +++
 
+<details><summary>Bühler</summary>
+
+175	But those two creatures, who are born of wives of other men, cause to the giver the loss (of the rewards), both in this life and after death, for the food sacred to gods or manes which has been given (to them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These creatures, born of other men’s wives, cause, for the giver, the destruction, in this life as well as after death, of their offerings to gods and pitṛs that have been presented to them.—(175)
@@ -42,11 +47,6 @@ See Comparative notes for [Verse 3.175].
 <details><summary>गोविन्दराजः</summary>
 
 **ते तु जाताः परक्षेत्रे** इति । **ते** परभार्याजाताः कुण्डगोलकाखाः अदृष्टार्थानुपयोगात् प्राणिमात्रव्यपदेशार्हा **हवकव्यानीह दत्तानि **इहलोके आनुषङ्गिककीर्त्याख्यफलाभावात् अमुत्र देवपितृतृप्त्यभावात् दातॄणां निष्फलानि भवन्ति कुर्वन्ति वा ॥ ३.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-175	But those two creatures, who are born of wives of other men, cause to the giver the loss (of the rewards), both in this life and after death, for the food sacred to gods or manes which has been given (to them).
 </details>
 
 <details><summary>भारुचिः</summary>

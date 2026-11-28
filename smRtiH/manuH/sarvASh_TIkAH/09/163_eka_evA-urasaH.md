@@ -3,6 +3,11 @@ title = "163 एक एवाऽउरसः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+163	The legitimate son of the body alone (shall be) the owner of the paternal estate; but, in order to avoid harshness, let him allow a maintenance to the rest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘legitimate’ (body-born) son is alone the owner of the paternal estate; but in order toavoid unkindness, he shall provide subsistence for the rest.—(163)
@@ -56,9 +61,4 @@ is the owner of the entire property.’
 <details><summary>भारुचिः</summary>
 
 एवं क्षेत्रजादीनाम् औरसे सति पश्चाद् उत्पन्ने वानंशत्वे प्राप्ते विधिर् अयं विकल्पार्थम् उच्यते । इतरेभ्यः क्षेत्रजादिभ्यः **प्रजीवन**मात्रं देयम् इति ॥ ९.१६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-163	The legitimate son of the body alone (shall be) the owner of the paternal estate; but, in order to avoid harshness, let him allow a maintenance to the rest.
 </details>

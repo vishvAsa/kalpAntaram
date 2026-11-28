@@ -2,6 +2,11 @@
 title = "093 न राज्ञाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+093	The taint of impurity does not fall on kings, and those engaged in the performance of a vow, or of a Sattra; for the (first are) seated on the throne of Indra, and the (last two are) ever pure like Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This taint of uncleanliness does not attach to Kings, or to those keeping a vow, or to the performers of sacrificial sessions; because they occupy the position of sovereigns and are ever of the nature of Brahman.—(92).
@@ -106,11 +111,6 @@ in connection with a sacrificial performance, if a cause for impurity arises, it
 <details><summary>गोविन्दराजः</summary>
 
 **न राज्ञाम्** इति । यतो राजान ऐन्द्रं स्थानम् आधिपत्यपदम् आश्रिता ब्रह्मचारिणः चान्द्रायणादिव्रतप्रवृत्ताः सत्त्रिणश् च गवामयनादिस्था ब्रह्मत्वप्राप्त्यभिमुखा अतस् तेषां स्वकर्मण्य् आशौचाख्यो दोषो न भवति । तथा च विष्णुः- “न राज्ञां राजकर्मणि न व्रतिनां व्रते न सत्रिणां सत्त्रे च” इति एवं च ॥ ५.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	The taint of impurity does not fall on kings, and those engaged in the performance of a vow, or of a Sattra; for the (first are) seated on the throne of Indra, and the (last two are) ever pure like Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

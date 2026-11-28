@@ -3,6 +3,11 @@ title = "010 भृत्यानाम् उपरोधेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+010	If (a man) does anything for the sake of his happiness in another world, to the detriment of those whom he is bound to maintain, that produces evil results for him, both while he lives and when he is dead.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man does anything for his own benefit after death, to the detriment of the persons he has got to maintain,—it becomes conducive to unhappy results while he lives as also when he dies.—(9). Aged parents, well-behaved wife and infant sons have been declared by Manu to be persons that should be maintained, even by doing a hundred evil acts.—(10)
@@ -102,9 +107,4 @@ supported by rich persons:—father, mother, teacher, wife, children, a poor man
 > अप्य् अकार्यशतं कृत्वा भर्तव्या मनुर् अब्रवीत् ॥
 
 अतस् तेषाम् उपरोधेन यद् अन्यत् करोत्य् और्ध्वदेहिकम् इष्टं पूर्तं वा युक्तम् अस्यासुखोदर्कत्वं प्रत्यवायोत्पत्त्या च तत्रेह चेति । अपरे तु पूर्वश्लोकपादम् एवं पठन्ति "मध्वास्वदो विषापात" इति, अर्थस् तु यथोक्त एव ॥ ११.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	If (a man) does anything for the sake of his happiness in another world, to the detriment of those whom he is bound to maintain, that produces evil results for him, both while he lives and when he is dead.
 </details>

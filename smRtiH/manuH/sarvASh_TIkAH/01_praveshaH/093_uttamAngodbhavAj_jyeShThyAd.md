@@ -2,6 +2,11 @@
 title = "093 उत्तमाङ्गोद्भवाज् ज्येष्ठ्याद्"
 +++
 
+<details><summary>Bühler</summary>
+
+093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In matters regauding ‘Dharma’, the Brāhmaṇa is the Lord of this whole world;—because he sprang out of the best part of (Prajāpati’s) body, because he is the eldest ok all, and because he upholds the Veda.—(98)
@@ -27,11 +32,6 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 <details><summary>गोविन्दराजः</summary>
 
 ततः किम् अत आह – **उत्तमाङ्गोद्भवाद्** इति । मूर्धोद्भवत्वात् पूर्वोत्पन्नत्वात् प्रवचनादियुक्तत्वात् सातिशयवेदधारणात् **सर्वस्य **जगतो धर्मानुशासने **ब्राह्मणः प्रभुः **॥ १.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
 </details>
 
 <details><summary>भारुचिः</summary>

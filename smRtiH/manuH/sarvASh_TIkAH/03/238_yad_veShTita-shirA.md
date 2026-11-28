@@ -2,6 +2,11 @@
 title = "238 यद् वेष्टित-शिरा"
 +++
 
+<details><summary>Bühler</summary>
+
+238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What the guest eats with his head wound up, what he eats with his face towards the south, what he eats with shoes on, all this verily the demons eat.—(238)
@@ -71,11 +76,6 @@ vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । उष्णीषादिना **वेष्टितशिराः **यद् अन्नं ब्राह्मणो **बुङ्क्ते **तथा **दक्षिणामुखः सोपानत्क**पादश् **च** **तद्** अन्नं **रक्षांसि **अश्नन्ति, न पितरः । तस्माद् एतत् परिहरणीयम् ॥ ३.२३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "187 न द्रव्याणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Withuot knowing the lawful method of receiving gifts, the wise man shall not accept any gifts; even though he may be pining with hunger.—(187)
@@ -44,11 +49,6 @@ method of receiving them, he falls along with the giver.’
 <details><summary>गोविन्दराजः</summary>
 
 **न द्रव्याणाम्** इति । प्रतिग्रहमन्त्रद्रव्यदेवतादिकं धर्माद् अनपेतं प्रतिग्रहविधानम् अबुद्ध्वा । **क्षुधा**वसादं गच्छन्न् अपि न **प्राज्ञः प्रतिग्रहं कुर्यात् **किं पुनर् अनापदि ॥ ४.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
 </details>
 
 <details><summary>भारुचिः</summary>

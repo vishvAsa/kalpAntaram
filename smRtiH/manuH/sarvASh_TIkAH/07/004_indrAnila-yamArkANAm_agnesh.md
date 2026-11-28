@@ -3,6 +3,11 @@ title = "004 इन्द्रानिल-यमार्काणाम् �
 
 +++
 
+<details><summary>Bühler</summary>
+
+004	Taking (for that purpose) eternal particles of Indra, of the Wind, of Yama, of the Sun, of Fire, of Varuna, of the Moon, and of the Lord of wealth (Kubera).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At a time when the people were without a King, and were utterly perturbed through fear, the Lord created the King for the protection of all this;—(3) taking out the essential constituents of Indra, Vāyu, Yama, Sūrya, Varuṇa, Chandra and Kubera—(4)
@@ -112,9 +117,4 @@ Indra, Vāyu, Yama, Surya (Sūrya), Agni, Varuṇa, Chandra, and Kuvera; he is t
 <details><summary>भारुचिः</summary>
 
 "बालो ऽपि नावमन्तव्यः" (म्ध् ७.८) इत्य् अस्य विधेर् वक्ष्यमाणस्येमे दश श्लोकाः शेषतया विज्ञेयाः । एवम् इन्रादीनां स्वविषये येन चेष्टाः करोति तेन तेषां मात्राभ्यो निर्मित इत्य् उच्यते ॥ ७.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Taking (for that purpose) eternal particles of Indra, of the Wind, of Yama, of the Sun, of Fire, of Varuna, of the Moon, and of the Lord of wealth (Kubera).
 </details>

@@ -3,6 +3,11 @@ title = "096 भूतानाम् प्राणिनः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among beings, aminated ones are regarded as foremost; among aminated ones, those that subsist by reason: among rational beings men are foremost; and among men, Brāhmaṇas. (96).
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>गोविन्दराजः</summary>
 
 अधुना विद्वत्तादिगुणयोगेन ब्राह्मणं स्तोतुम् आह – **भूतानाम्** इति । **भूतानां **स्थावरजङ्गमानां मध्यात् प्राणिनां सर्वेषां गुणवत्त्वे ऽपि ये तूद्रिक्तचैतन्या वृश्चिकादयः । ते स्थावरेभ्यः तदुत्तरसुखानुभवात् **श्रेष्ठाः **। तेभ्यो ऽपि श्वादयो **बुद्धिजीविनः **निरन्नसान्नदेशगमागमकारणात् । तेभ्यो ऽपि मनुष्याः विशिष्ठविज्ञानात् । तेभ्यो ऽपि **ब्राह्मणाः **अपवर्गाधिकारयोग्यत्वात् ॥ १.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;
 </details>

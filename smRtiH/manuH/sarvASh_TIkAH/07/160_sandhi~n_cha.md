@@ -3,6 +3,11 @@ title = "160 सन्धिञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+160	Let him constantly think of the six measures of royal policy (guna, viz.) alliance, war, marching, halting, dividing the army, and seeking protection.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Alliance, War, March, Halt, Bifurcation and seeking shelter—these six measures of policy he shall constantly ponder over.—(160)
@@ -69,9 +74,4 @@ some only two—Peace (including Duplicity and Shelter) and War (including March
 <details><summary>भारुचिः</summary>
 
 अत्र हिरण्यादिनिबन्धन उभयानुग्र्हार्थः **संधिः** । तद्विपरीत **विग्रहः** । एकत्राभ्युच्चयो **यानम्** । उपेक्षणम् **आसनम्** । संधिविग्रहो[पादानं **द्वैधीभावः** । परा]र्पणं **संश्रयः** । एतान् **षड्गुणांश् चिन्तयेत् सदा** । एतेषां षण्णां यस्मिन् गुणे व्यवस्थितो मन्येताहं शक्ष्यामि दुर्गं कारयितुं हस्तिनो बन्धयितुं खनिं खानयितुं वणिक्[पथं प्रयोजयितुं शून्यनिवेशनं] कारयितुं कृषिं प्रयोजयितुं दारुवनं छेदयितुम् अदेवमातृकाणि च क्षेत्राणि बन्धयितुम् इत्य् एवमादीनि, परस्य च व्याहन्तुं वृद्धिविघातार्थम्, तद्गुणम् उपेयात् ॥ ७.१६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	Let him constantly think of the six measures of royal policy (guna, viz.) alliance, war, marching, halting, dividing the army, and seeking protection.
 </details>

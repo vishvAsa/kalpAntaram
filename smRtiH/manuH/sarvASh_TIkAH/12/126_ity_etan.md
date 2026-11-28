@@ -3,6 +3,11 @@ title = "126 इत्य् एतन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+126	A twice-born man who recites these Institutes, revealed by Manu, will be always virtuous in conduct, and will reach whatever condition he desires.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man who reads these Ordinances of Manu, shall be ever equipped with virtue and shall attain whatever state he may desire.—(126)
@@ -56,9 +61,4 @@ And if he is so, ‘*he shall attain whatever state he way desire*.’—126
 शास्त्रेण हि प्रबोध्यमानो ऽवश्यम् आचारवा[न् भवत्य् अविनेयो ऽपि कालान्त]रेण, किं पुनर् विनेयः, येन हेतौ सत्य् अवश्यंभावि तत्फलं लोके दृष्टम् । तदनुष्ठानाच् चेष्टकामसं[प्राप्तिः] ॥ १२.१२६ ॥
 
 **[इति भारुचिकृतं मनुशास्त्रविवरणं समाप्तम् ]**
-</details>
-
-<details><summary>Bühler</summary>
-
-126	A twice-born man who recites these Institutes, revealed by Manu, will be always virtuous in conduct, and will reach whatever condition he desires.
 </details>

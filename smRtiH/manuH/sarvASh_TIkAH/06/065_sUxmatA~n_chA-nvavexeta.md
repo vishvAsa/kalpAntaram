@@ -3,6 +3,11 @@ title = "065 सूक्ष्मताञ् चाऽन्ववेक्ष
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	By deep meditation let him recognise the subtile nature of the supreme Soul, and its presence in all organisms, both the highest and the lowest.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By meditation he shall recognise the subtile character of the Higher Self, as also the possibility of its presence in all organisms, high and low.—(65)
@@ -50,9 +55,4 @@ perceive the subtle soul residing within himself.’
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-065	By deep meditation let him recognise the subtile nature of the supreme Soul, and its presence in all organisms, both the highest and the lowest.
 </details>

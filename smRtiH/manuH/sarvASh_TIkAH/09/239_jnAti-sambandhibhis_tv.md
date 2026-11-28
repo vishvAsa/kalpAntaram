@@ -3,6 +3,11 @@ title = "239 ज्ञाति-सम्बन्धिभिस् त्व�
 
 +++
 
+<details><summary>Bühler</summary>
+
+239	Such (persons) who have been branded with (indelible) marks must be cast off by their paternal and maternal relations, and receive neither compassion nor a salutation; that is the teaching of Manu.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being branded, these shall be abandoned by Kinsmen and relations, deprived of all sympathy and greetings;—such is the teaching of manu.—(239)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.235].
 <details><summary>भारुचिः</summary>
 
 नैते राज्ञा धृतदणा इति कृत्वा ज्ञातिसंबन्धिभिः परिग्राह्याः । एवं च सति व्याध्यादियोगे ऽप्य् एषु दया न कर्तव्या । ज्यैष्ठ्यादिगुणयोगे च नैते नमस्कार्याः, प्रत्युत्थानादिभिः । एष एव चात्र वचनसामर्थ्याद् धर्मो विज्ञेयः । न तु स्वातन्त्र्येण दया विनयो वा पूर्वोपदिष्ट इति ॥ ९.२३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-239	Such (persons) who have been branded with (indelible) marks must be cast off by their paternal and maternal relations, and receive neither compassion nor a salutation; that is the teaching of Manu.
 </details>

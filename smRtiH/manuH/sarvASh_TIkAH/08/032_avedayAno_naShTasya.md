@@ -3,6 +3,11 @@ title = "032 अवेदयानो नष्टस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	But if he does not really know the time and the place (where it was) lost, its colour, shape, and size, he is worthy of a fine equal (in value) to the (object claimed).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he does not provide a correct account of the place and time, and also the colour, form and size of the lost article, he deserves a fine equal to that article.—(32)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.31].
 <details><summary>भारुचिः</summary>
 
 तत्र शुक्लादिर् वर्णः, आकारो रूपम्, संख्यापलाग्रपरिमाणं प्रमाणम् । नियमेन चात्र तच्छुद्ध्यर्थो दण्डः ॥ ८.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	But if he does not really know the time and the place (where it was) lost, its colour, shape, and size, he is worthy of a fine equal (in value) to the (object claimed).
 </details>

@@ -2,6 +2,11 @@
 title = "131 सहस्रं हि"
 +++
 
+<details><summary>Bühler</summary>
+
+131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where one thousand persons ignorant of the Veda eat, all those a single man learned in the Veda, on being satisfied, absorbs, in point of merit.—(131)
@@ -63,11 +68,6 @@ pure character, learned in the Veda, knowing Brahman, youthful, endowed with lea
 <details><summary>गोविन्दराजः</summary>
 
 **सहस्रम्** इति । **यत्र **दैवपित्र्यादौ अनृग्विदां ब्राह्मणानां दशलक्षाणि **भुञ्जते **तत्रैको वेदवित् भुक्त्वा **प्रीतस्** तुष्टः धर्मतो धर्मोत्पादनेन **तान् सर्वान् अर्हति** स्वीकर्तुं योग्यो भवति, तद्भोजनजन्यधर्मान् उत्पादयतीत्य् अर्थः । इति विद्वद्ब्राह्मणभोजनस्तुतिः ॥ ३.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
 </details>
 
 <details><summary>भारुचिः</summary>

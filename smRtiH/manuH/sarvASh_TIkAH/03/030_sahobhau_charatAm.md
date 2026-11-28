@@ -3,6 +3,11 @@ title = "030 सहोभौ चरताम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the Father, having decked them, gives away the daughter with the words, “may you both together perform your duty,” making them also repeat them,—this is called the “Prājāpatya” form.—(30).
@@ -63,9 +68,4 @@ given away on the clearly expressed understanding that the couple is to co-opera
 <details><summary>गोविन्दराजः</summary>
 
 **सहेति ।** **सह **युवां **धर्मं **कुरुत इति प्रदानकाले **वाचो**क्त्वा यद् अर्चापूर्वं **कन्यादानं स प्राजापत्यो विधिः स्मृतः **॥ ३.३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.
 </details>

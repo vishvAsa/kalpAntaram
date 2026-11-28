@@ -3,6 +3,11 @@ title = "210 तेषाम् उदकम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+210	Having presented to them water, sesamum grains, and blades of Kusa grass, the Brahmana (sacrificer) shall offer (oblations) in the sacred fire, after having received permission (to do so) from (all) the Brahmana (guests) conjointly.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having presented to them water, and also sesamum along with kuśa-blade, the Brāhmaṇa, permitted by the Brāhmaṇas collectively, should make an offering into fire.—(210)
@@ -67,9 +72,4 @@ offered the seat in the form of kuśa-blades twisted twice,—he shall offer wat
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । **तेषां **ब्राह्मणानाम् **उदकं **दर्भतिलमिश्रं दत्वा “अग्नौ करवाणि करिष्ये चेत्य् अनुज्ञातो यदा कुर्वित्य् एवं ब्रूयुः” इति गृह्योक्त्रूपेण **सह ब्राह्मणैर् अनुज्ञातः अग्नौ** वक्ष्यमाणं होमं **कुर्यात् **। ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वा ॥ ३.२१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-210	Having presented to them water, sesamum grains, and blades of Kusa grass, the Brahmana (sacrificer) shall offer (oblations) in the sacred fire, after having received permission (to do so) from (all) the Brahmana (guests) conjointly.
 </details>

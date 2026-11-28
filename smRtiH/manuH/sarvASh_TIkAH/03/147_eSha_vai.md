@@ -2,6 +2,11 @@
 title = "147 एष वै"
 +++
 
+<details><summary>Bühler</summary>
+
+147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This is the first course to be adopted in the presenting of the offerings made to Gods and Pitṛs. This (following) is to be regarded as the secondary course always adopted by the good.’—(147)
@@ -48,11 +53,6 @@ not available;—in *Madanapārijāta* (p. 558), along with the next verse;—in
 <details><summary>गोविन्दराजः</summary>
 
 **एष** इति । हव्यकव्यप्रदानेन **एष** मुखो विधिः यद् असम्बन्धिभ्यः श्रोत्रियादिभ्यो दीयत इति । **अयं **वक्ष्यमाणः पुनर् मुखाभावे विधिर् बोद्धव्यः, मुख्याभावे च सर्वदा साधुभिर् **अनुष्ठितः** ॥ ३.१४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
 </details>
 
 <details><summary>भारुचिः</summary>

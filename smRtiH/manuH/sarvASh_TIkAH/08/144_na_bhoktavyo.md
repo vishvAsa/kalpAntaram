@@ -3,6 +3,11 @@ title = "144 न भोक्तव्यो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+144	A pledge (to be kept only) must not be used by force, (the creditor), so using it, shall give up his (whole) interest, or, (if it has been spoilt by use) he shall satisfy the (owner) by (paying its) original price; else he commits a theft of the pledge.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The pledge shall not be used by force; using it thus, he shall renounce the interest; he shall satisfy the other party with its pr ice; otherwise he would be a stealer of the pledge.—(144)
@@ -84,9 +89,4 @@ See Comparative notes for [Verse 8.143].
 <details><summary>भारुचिः</summary>
 
 विज्ञातारश् च । राज्ञा दण्डः स्यात् । इदं शास्त्रं भोगक्षय एवाधौ समर्थं भवति नान्यत्र । अन्यस् त्व् आह- द्विगुणीभूते ऽर्थे स्वामिनानुज्ञातम् आधिं भुञ्जानो मूलहिरण्येनैव भुञ्जीत । मूलहिरण्यम् एव वा परिगणय्याप्रतिपद्यमानमूल्येन परितोषयेत् । एवं च द्विगुणीभूते हिरण्ये ऽयम् आधिभोगप्रतिषेधः, पूर्वस्मिंश् चार्थ आदाव् एव ॥ ८.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	A pledge (to be kept only) must not be used by force, (the creditor), so using it, shall give up his (whole) interest, or, (if it has been spoilt by use) he shall satisfy the (owner) by (paying its) original price; else he commits a theft of the pledge.
 </details>

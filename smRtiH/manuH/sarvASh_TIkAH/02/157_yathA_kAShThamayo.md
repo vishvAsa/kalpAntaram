@@ -2,6 +2,11 @@
 title = "157 यथा काष्ठमयो"
 +++
 
+<details><summary>Bühler</summary>
+
+157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the elephant made of wood, as the deer made of leather, so the non-learning Brāhmaṇa,—these three merely bear their names.—(157)
@@ -53,11 +58,6 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । दारुमयो **यथा हस्ती **न युद्धादिसमर्थः **यथा चर्ममयो मृगः** आखेटकादाव् अकिञ्चित्करः, एवम् **अनधीयानो **ब्राह्मणः** **ब्राह्मणसम्पाद्यासु प्रतिग्रहादिक्रियासु । एवं च त्रयो ऽप्य् एते नाममात्रं धारयति । न तु हस्त्यादिसम्पाद्याः क्रियाः कुर्वन्ति ॥ २.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
 </details>
 
 <details><summary>भारुचिः</summary>

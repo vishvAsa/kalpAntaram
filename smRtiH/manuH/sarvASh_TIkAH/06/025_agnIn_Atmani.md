@@ -3,6 +3,11 @@ title = "025 अग्नीन् आत्मनि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+025	Having reposited the three sacred fires in himself, according to the prescribed rule, let him live without a fire, without a house, wholly silent, subsisting on roots and fruit,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Haying reposited, according to rule, the Śrauta Fires within himself, he shall be a silent hermit, without fires and without a house, living upon roots and fruits.—(25).
@@ -65,11 +70,6 @@ under a tree, eating measuredly, he shall beg alms only from the houses of hermi
 </details>
 
 <details><summary>भारुचिः</summary>
-
-025	Having reposited the three sacred fires in himself, according to the prescribed rule, let him live without a fire, without a house, wholly silent, subsisting on roots and fruit,
-</details>
-
-<details><summary>Bühler</summary>
 
 025	Having reposited the three sacred fires in himself, according to the prescribed rule, let him live without a fire, without a house, wholly silent, subsisting on roots and fruit,
 </details>

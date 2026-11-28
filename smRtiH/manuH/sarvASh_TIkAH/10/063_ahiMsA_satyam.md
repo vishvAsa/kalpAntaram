@@ -3,6 +3,11 @@ title = "063 अहिंसा सत्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	Abstention from injuring (creatures), veracity, abstention from unlawfully appropriating (the goods of others), purity, and control of the organs, Manu has declared to be the summary of the law for the four castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Abstention from injuring, truthfulness, abstention from unlawful appropriation, purity and control of the sense-organs,—this Manu has declared to be the sum and substance of duty for the four castes.—(63)
@@ -92,9 +97,4 @@ Liberality, Self-control, Avoiding the killing of animals, Obedience to elders, 
 <details><summary>भारुचिः</summary>
 
 एवं च प्रकरणसामर्थाच् चातुर्वर्णान्तरप्रभावानाम् अप्य् अहिंसादिपुरुषधर्मो विज्ञेयः । एवं चायं शनकैः सिद्धिहेतुर् एषाम् । पूर्वस् तु सामर्थ्यात् सद्य एव इति विज्ञायते, पूर्वस्माद् ब्राह्मणादिवर्णलक्षणशस्त्रात् "सर्ववर्णेषु तुल्यासु" इत्य् एवमादेः । अन्यथा ब्राह्मणत्वादीन्य् अप्राप्तानि । इष्यन्ते च तान्य् उत्कर्षापकार्षाभ्याम् अपि । यत इदम् आरभ्य[ते] ॥ १०.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	Abstention from injuring (creatures), veracity, abstention from unlawfully appropriating (the goods of others), purity, and control of the organs, Manu has declared to be the summary of the law for the four castes.
 </details>

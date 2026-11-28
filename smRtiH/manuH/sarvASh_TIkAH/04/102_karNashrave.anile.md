@@ -2,6 +2,11 @@
 title = "102 कर्णश्रवे ऽनिले"
 +++
 
+<details><summary>Bühler</summary>
+
+102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (a) At night, when air is audible by the ear, and (b) in the day when there is dust-whorl,—these two occasions during the rains are declared by those versed in the rules of teaching to be unfit for study.—(102)
@@ -48,11 +53,6 @@ are fiery, during the twilights, during fogs, and when there is danger.’
 <details><summary>गोविन्दराजः</summary>
 
 **कर्णश्रव** इति । कर्णाभ्याम् एव श्रवणोपपत्तेः अतिशयविवक्षया **कर्णश्रव** इत्य् उक्तम् । तेन रात्राव् अतिशब्दवति वायौ, दिवा च रजःसमाहरणसमर्थे वाति, एतौ वएषाकाले तावत्कालिकाव् **अनध्यायौ** अध्ययनविधिज्ञाः कथयन्ति** **॥ ४.१०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-102	Those who know the (rules of) recitation declare that in the rainy season the Veda-study must be stopped on these two (occasions), when the wind is audible at night, and when it whirls up the dust in the day-time.
 </details>
 
 <details><summary>भारुचिः</summary>

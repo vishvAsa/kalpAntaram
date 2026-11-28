@@ -2,6 +2,11 @@
 title = "236 न विस्मयेत"
 +++
 
+<details><summary>Bühler</summary>
+
+236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not be proud of his austerities; having offered a sacrifice, he shall not utter a lie; even when tormented, he shall not revile the brāhmaṇas; having bestowed a gift, he shall not advertise it.—(236)
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 4.234].
 <details><summary>गोविन्दराजः</summary>
 
 **न विस्मयेतेति** । महतापि कृच्छ्रचान्द्रायणादितपसा कृतेन “मया कियत् तपः कृतम्” इत्य् एवम् आश्चर्यं न भजेत । यागं च कृत्वा असत्यं न वदेत् । सत्य् अपि पुरुषार्थत्वेनानृतनिषेधे यागाङ्गत्वार्थः पुनर् उपदेशः । तथा पीडितो ऽपि ब्राह्मणान् न निन्देत् । दानं कृत्वा “इदं मयआ दत्तम्” इति न कथयेत् ॥ ४.२३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
 </details>
 
 <details><summary>भारुचिः</summary>

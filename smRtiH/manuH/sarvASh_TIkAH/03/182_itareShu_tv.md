@@ -2,6 +2,11 @@
 title = "182 इतरेषु त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wise ones declare that food given to the other unfit persons unworthy of company, described above, becomes fat, blood, flesh, marrow and bone.—(182)
@@ -54,11 +59,6 @@ avoided: those *fit for the line* alone should be invited; if one feeds the sinf
 <details><summary>गोविन्दराजः</summary>
 
 **इतरेष्व्** इति । इतरेभ्यः अनुक्तफलेभ्यो ऽपाङ्क्त्रेभ्यः यद् दत्तम् अन्नं तत् मेदशोणितमांसमज्जास्थि भवतीति विद्वांसः । अथ “सोमविक्रयिणे विष्ठा” इतिवद् व्याख्येयम् ॥ ३.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
 </details>
 
 <details><summary>भारुचिः</summary>

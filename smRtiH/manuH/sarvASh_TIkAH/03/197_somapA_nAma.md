@@ -2,6 +2,11 @@
 title = "197 सोमपा नाम"
 +++
 
+<details><summary>Bühler</summary>
+
+197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those by name Somapās are the Pitṛs of Brāhmaṇas; the Havirbhujs are the Pitṛs of Kṣatriyas; those by name Ājyapas, of Vaiśyas; and of Śūdras, Sukālins.—(197)
@@ -47,11 +52,6 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55); — and in
 <details><summary>गोविन्दराजः</summary>
 
 **सोमपा नामेति** । ब्राह्मणक्षत्रियवैश्यशूद्राणां यथाक्रमं सोमपहविर्भुजाज्यप-सुकालिनामानः पितरः ॥ ३.१९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.
 </details>
 
 <details><summary>भारुचिः</summary>

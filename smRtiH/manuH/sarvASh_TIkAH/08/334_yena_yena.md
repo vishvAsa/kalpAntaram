@@ -3,6 +3,11 @@ title = "334 येन येन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+334	With whatever limb a thief in any way commits (an offence) against men, even of that (the king) shall deprive him in order to prevent (a repetition of the crime).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By whatever limb the thief operates against men, that shall the king take off, by way of retribution.—(334)
@@ -56,9 +61,4 @@ very limb shall be taken away from him such is the law ordained by Manu.’
 <details><summary>भारुचिः</summary>
 
 यस्याङ्गस्य हस्तस्य वा पादस्य वा बलम् आश्रित्य स्तेनः स्तेये प्रवर्तते तत् तद् एवास्य छेत्तव्यम् । तद् यथा । ग्रन्थिच्छेदको हस्तबलं हस्ताच्छेदकः पादबलम् । यश् च दण्डितो ऽपि पौनह् पुन्येन वर्तते अपरिगणय्य पूर्वदण्डं तस्यायम् अङ्गच्छेद् उच्यते । तद् उक्तम् "वधदण्डम् अतः परम्" इति । एवं च क्वचिच् छेदनविधानम् अर्थवद् भवति । यथा सति छेदने हस्तच्छेदनम् अस्य ॥ ८.३३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-334	With whatever limb a thief in any way commits (an offence) against men, even of that (the king) shall deprive him in order to prevent (a repetition of the crime).
 </details>

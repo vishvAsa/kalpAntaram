@@ -3,6 +3,11 @@ title = "073 उच्चावचेषु भूतेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	Let him recognise by the practice of meditation the progress of the individual soul through beings of various kinds, (a progress) hard to understand for unregenerate men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the practice of meditation he shall recognise the presence of this Inner Soul in all beings, high and low,—which is difficult to understand by unregenerate people.—(73)
@@ -66,9 +71,4 @@ through mundane existence.’
 <details><summary>भारुचिः</summary>
 
 **उच्चावचेषु** गतिषूत्कृष्टापकृष्टेषु वा भूतानाम् उत्पत्तिस्थानेषु गतिसंभवम् **अस्यान्तरात्मनः** कर्माधिकारपुरुषस्य **ज्ञानयोगेन**, **ज्ञानं** शस्त्रं ज्ञायते ऽनेनेति कृत्वा, तदध्ययनविज्ञानसंबन्धेनाभ्यासयोगेन वा । तस्य **दुर्ज्ञानाम् अकृतात्मभिर्** अनधीताश्रुतशास्त्रैः । एवं हि प्रसंख्यानवान् नित्यम् अध्यात्मरतिर् उत्कृष्यते ॥ ६.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	Let him recognise by the practice of meditation the progress of the individual soul through beings of various kinds, (a progress) hard to understand for unregenerate men.
 </details>

@@ -3,6 +3,11 @@ title = "150 यः स्वामिनाननुज्ञातम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+150	The fool who uses a pledge without the permission of the owner, shall remit half of his interest, as a compensation for (such) use.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The fool, who, without the owner’s permission, uses a deposit, shall have to remit half the amount of the interest, as compensation for such use.—(150)
@@ -118,9 +123,4 @@ authority of the owner, shall lose one half of his interest, as a compensation f
 <details><summary>भारुचिः</summary>
 
 स्वामी च गृहे व्यवहरति । तत्प्रयुक्तश् च भृत्यः । तथा च वक्ष्यति "कुटुम्बार्थ ऽध्यधीनः" [इति] । तेनाननुज्ञातश् च स्वामिना य आधिं भुङ्क्ते ऽविचक्षणः तेनार्धवृद्धिर् अर्था उपक्ष्यन्त इत्य् एवं न जानाति । एतस्मात् कारणाद् अनेन तस्यार्धवृद्धिर् मोक्तव्या भोगनिष्कृत्यर्थम् । एवं च ग्रहणाधमनयोः प्रमाणम् अध्यधीनः पृथक्तन्तुत्वत् (?) तु नोपभोगानुज्ञाने दाने । एतच् च यो वेद स विचक्षणः । तथा चायम् एव युक्तः पाठः- न विचक्षणः स्वाम्युपसर्जनत्वाद् अध्यधीनस्येति । अन्यस् त्व् आह पूर्वो द्विगुणीभूते विधिर् उक्तः, "न भोक्तव्यो बलाद् आधिर् भुञ्जानो वृद्धिम् उत्सृजेत्" इत्य् एषः । अयं पुनर् आदाव् एवोच्यते ॥ ८.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	The fool who uses a pledge without the permission of the owner, shall remit half of his interest, as a compensation for (such) use.
 </details>

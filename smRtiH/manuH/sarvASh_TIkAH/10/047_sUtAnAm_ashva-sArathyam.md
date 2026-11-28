@@ -3,6 +3,11 @@ title = "047 सूतानाम् अश्व-सारथ्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	To Sutas (belongs) the management of horses and of chariots; to Ambashthas, the art of healing; to Vaidehakas, the service of women; to Magadhas, trade;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For Sūtas, the management of horses and chariots; for Ambaṣṭhas, the art of healing; for Vaidehakas, the service of women; and for Māgadhas, trade.—(47)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 10.46].
 > **मागधानां वण्क्पथः  ॥ १०.४७ ॥**
 
 हंसपथवारिपथाख्याः । एवम् ॥ १०.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	To Sutas (belongs) the management of horses and of chariots; to Ambashthas, the art of healing; to Vaidehakas, the service of women; to Magadhas, trade;
 </details>

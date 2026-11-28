@@ -3,6 +3,11 @@ title = "225 उभयोर् हस्तयोर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wicked-minded demons forcibly destroy that food which is abandoned by both hands.—(225)
@@ -53,9 +58,4 @@ shall bring up the food, with both hands, then serve it, with a calm mind, keepi
 <details><summary>गोविन्दराजः</summary>
 
 **उभयोर्** इति । उभाभ्यां हस्ताभ्याम् अगृहीतं **यद् अन्नं** ब्राह्मणान्तिकम् आनीयते दीयते वा तत् **असुराः **देवद्विषः **दुष्ट**बुद्धयः** **आच्छिन्दति । तस्मान् नैकेन (स्मरन्) हस्तेनानीय परिवेष्टव्यम् ॥ ३.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.
 </details>

@@ -3,6 +3,11 @@ title = "344 ऐन्द्रं स्थानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+344	A king who desires to gain the throne of Indra and imperishable eternal fame, shall not, even for a moment, neglect (to punish) the man who commits violence.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king who is desirous of indra’s eternal place, as also of imperishable fame, shall not ignore the desperado even for a moment.—(344)
@@ -74,9 +79,4 @@ felonies, there is no fixed time; these should he adjudicated at once.’
 <details><summary>भारुचिः</summary>
 
 साहसोपन्यासार्थः श्लोकः ॥ ८.३४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-344	A king who desires to gain the throne of Indra and imperishable eternal fame, shall not, even for a moment, neglect (to punish) the man who commits violence.
 </details>

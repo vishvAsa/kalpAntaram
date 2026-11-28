@@ -3,6 +3,11 @@ title = "032 आसाम् महर्षिचर्याणाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	A Brahmana, having got rid of his body by one of those modes practised by the great sages, is exalted in the world of Brahman, free from sorrow and fear.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having discarded his body by one of these methods adopted by the Great Sages, the Brāhmaṇa, with sorrow and fear departed, becomes exalted in the region of Brahman.—(32).
@@ -140,11 +145,6 @@ See Comparative notes for [Verse 6.31].
 </details>
 
 <details><summary>भारुचिः</summary>
-
-032	A Brahmana, having got rid of his body by one of those modes practised by the great sages, is exalted in the world of Brahman, free from sorrow and fear.
-</details>
-
-<details><summary>Bühler</summary>
 
 032	A Brahmana, having got rid of his body by one of those modes practised by the great sages, is exalted in the world of Brahman, free from sorrow and fear.
 </details>

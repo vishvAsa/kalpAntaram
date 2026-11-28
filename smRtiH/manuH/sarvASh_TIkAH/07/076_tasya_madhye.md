@@ -3,6 +3,11 @@ title = "076 तस्य मध्ये"
 
 +++
 
+<details><summary>Bühler</summary>
+
+076	Let him cause to be built for himself, in the centre of it, a spacious palace, (well) protected, habitable in every season, resplendent (with whitewash), supplied with water and trees.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the centre of the fort, he shall get built for himsrlf a spacious palace, well guarded, equipped with all seasons, resplendent, and supplied with water and trees.—(76)
@@ -71,9 +76,4 @@ inclemencies of weather, well supplied with provisions and money and an abundant
 <details><summary>भारुचिः</summary>
 
 आत्मतन्त्रानुरूपम् असंबाधं यथर्तुस्थानं सुरुङ्गादियुक्तं च **गृहं कारयेत्** ॥ ७.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	Let him cause to be built for himself, in the centre of it, a spacious palace, (well) protected, habitable in every season, resplendent (with whitewash), supplied with water and trees.
 </details>

@@ -2,6 +2,11 @@
 title = "220 तञ् चेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the sun should rise or set while he is still sleeping, either intentionally or unintentionally, he should fast during the day, reciting. (the Sāvitrī).—(220)
@@ -115,11 +120,6 @@ forestalled by sunset, who has bad nails, who has black teeth...... are sinners.
 <details><summary>गोविन्दराजः</summary>
 
 **तम्** इति । **तं** ब्रह्मचारिणम् इच्छातः सुप्तं यदि **सूर्यः **उदयेनाभिव्याप्तं कुर्यात्, तस्य वा शास्त्रार्थापरिज्ञानात् शयानस्य यद्य् अस्तं यायात् तदा “जपन् सावित्रीम्” इति गौतमस्मरणात् सावित्रीं जपन् दिनं नाश्नीयात् । अस्यापि प्रायश्चित्तस्य प्रकरणोत्कर्षो लाघ्वार्थम् । तत्र हि क्रियमाणे ब्रह्मचारिग्रहणं कर्तव्यं स्यात् ॥ २.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).
 </details>
 
 <details><summary>भारुचिः</summary>

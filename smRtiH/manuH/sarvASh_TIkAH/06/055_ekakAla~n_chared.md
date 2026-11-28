@@ -3,6 +3,11 @@ title = "055 एककालञ् चरेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Let him go to beg once (a day), let him not be eager to obtain a large quantity (of alms); for an ascetic who eagerly seeks alms, attaches himself also to sensual enjoyments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall go for alms only once, and shall not seek for a large quantity; because the renunciate who becomes addicted to collecting alms becomes attached to sensual objects also.—(55)
@@ -58,9 +63,4 @@ food-begging to any single house.’
 <details><summary>भारुचिः</summary>
 
 सायं भोजनस्य प्रतिषेधः, गार्हस्थ्ये द्विभोजनस्य प्राप्तस्य ॥ ६.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Let him go to beg once (a day), let him not be eager to obtain a large quantity (of alms); for an ascetic who eagerly seeks alms, attaches himself also to sensual enjoyments.
 </details>

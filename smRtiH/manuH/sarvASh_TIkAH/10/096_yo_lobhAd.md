@@ -3,6 +3,11 @@ title = "096 यो लोभाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	A man of low caste who through covetousness lives by the occupations of a higher one, the king shall deprive of his property and banish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man of low caste, through greed, subsists by the occupations of his superiors, him the King shall deprive of his property and quickly banish.—(96)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 10.95].
 <details><summary>भारुचिः</summary>
 
 तस्य सर्वस्वम् अपहृत्य प्रवासं नियमेन कुर्याद् धार्मिको **राजा** । यद्य् अपि चैतत्प्रकरणसामर्थ्यात् क्षत्रियविषयं शास्त्रम्, तथापि समानत्वात् कारणस्य वैश्यशूद्रयोर् अपि विज्ञेयम् ॥ १०.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	A man of low caste who through covetousness lives by the occupations of a higher one, the king shall deprive of his property and banish.
 </details>

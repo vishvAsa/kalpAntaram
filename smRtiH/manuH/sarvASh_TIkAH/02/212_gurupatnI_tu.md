@@ -2,6 +2,11 @@
 title = "212 गुरुपत्नी तु"
 +++
 
+<details><summary>Bühler</summary>
+
+212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The teacher’s wife, when young, shall not be saluted at her feet by a pupil who is full twenty years old, and who is conscious of what is good and what is bad.—(212)
@@ -47,11 +52,6 @@ the teacher’s wife.’
 <details><summary>गोविन्दराजः</summary>
 
 **गुरुपतीति** । तरुणी गुरुभार्या यूना कामं सुखदुःखे **जानता** पादोपसङ्ग्रहपूर्वकं **नाभिवाद्या **॥ २.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
 </details>
 
 <details><summary>भारुचिः</summary>

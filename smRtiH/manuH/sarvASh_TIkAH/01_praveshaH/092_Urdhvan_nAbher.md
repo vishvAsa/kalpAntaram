@@ -2,6 +2,11 @@
 title = "092 ऊर्ध्वन् नाभेर्"
 +++
 
+<details><summary>Bühler</summary>
+
+092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Man is described as purer above his naval; hence the Self-existent One has declared the mouth to be his purest part. (92)
@@ -25,11 +30,6 @@ See 5.132.
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं ब्राह्मणादिकर्मविवेकार्थत्वमुखेन शास्त्रस्य स्तुतिम् अध्ययनश्रवणानुष्ठानफलां कर्तुं ब्राह्मणस्तुतिम् आह – **ऊर्ध्वम्** इति । पुंसः सर्वतो ऽपि [मेध्यत्वस्य] सिद्धत्वे सति **नाभेर् ऊर्ध्वं मेध्यतरत्वं **ततो ऽपि मुखस्य **मेध्यतमत्वं** स्वयम्भुवोक्तम् ॥ १.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.
 </details>
 
 <details><summary>भारुचिः</summary>

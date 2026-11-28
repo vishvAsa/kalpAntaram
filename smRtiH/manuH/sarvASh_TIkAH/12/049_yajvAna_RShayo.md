@@ -3,6 +3,11 @@ title = "049 यज्वान ऋषयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+049	Sacrificers, the sages, the gods, the Vedas, the heavenly lights, the years, the manes, and the Sadhyas (constitute) the second order of existences, caused by Goodness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sacrificers, sages, gods, vedas, luminaries, years, Pitṛs and Sādhyas represent the second state partaking of ‘Sattva.’—(49)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **यज्वान** इति । यागशीला र्षयो देवा वेदाभिमानिनश् च देवताविग्रहवत्यो यथेतिहासेषु ब्रह्मसभायां वर्ण्यन्ते ते ज्योतींषि ध्रुवादीनि संवत्सरा इतिहासदृष्ट्या विग्रहवन्तः । सोमपादयः पितरः साध्याश् च देवविशेषा इत्य् एषा सत्त्वनिमित्ता मध्यमा गतिः ॥ १२.४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	Sacrificers, the sages, the gods, the Vedas, the heavenly lights, the years, the manes, and the Sadhyas (constitute) the second order of existences, caused by Goodness.
 </details>

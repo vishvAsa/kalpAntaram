@@ -3,6 +3,11 @@ title = "211 त्र्यहम् प्रातस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+212	A twice-born man who performs (the Krikkhra penance), revealed by Pragapati, shall eat during three days in the morning (only), during (the next) three days in the evening (only), during the (following) three days (food given) unasked, and shall fast during another period of three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born, who is performing the Prājāpatya, shall eat in the morning for three days, then in the evening for three days, then for three days food got unasked, and for the next three days he shall not eat.—(211)
@@ -104,9 +109,4 @@ threefold, it is called Prājāpatya. \[ *Pāda-Kṛcchra* being that in which t
 > षट्त्रिंशतिर् अयाच्याः स्युः परं निरशनं स्मृतम् ॥
 
 इति पाराशरोक्त्या विज्ञेयम् ॥ ११.२१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	A twice-born man who performs (the Krikkhra penance), revealed by Pragapati, shall eat during three days in the morning (only), during (the next) three days in the evening (only), during the (following) three days (food given) unasked, and shall fast during another period of three days.
 </details>

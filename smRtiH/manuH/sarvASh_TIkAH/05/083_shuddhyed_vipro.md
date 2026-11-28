@@ -2,6 +2,11 @@
 title = "083 शुद्ध्येद् विप्रो"
 +++
 
+<details><summary>Bühler</summary>
+
+083	A Brahmana shall be pure after ten days, a Kshatriya after twelve, a Vaisya after fifteen, and a Sudra is purified after a month.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa becomes pure in the days, the Kṣatriya in twelve days, the Vaiśya in fifteen days and the Śūdra in a month.—(82).
@@ -110,11 +115,6 @@ Brāhmaṇa lasts three days, that of the Śūdra lasts twelve days; and that of
 <details><summary>गोविन्दराजः</summary>
 
 **शुद्ध्येद्** इति । अनुपूर्वशश् चतुर्णां वर्णानां प्रेतशुद्धिं वक्ष्यामीत्य् उक्तमतापूर्वो दशाहविधिः । ब्राह्मणविषय एवैवं चासौ दशाहेन ब्राह्मणः शुद्ध्येद् इतीतरविधित्सया विहितम् अनूद्यते । जननमरणनिमित्त आशौचे । क्षत्रियो द्वादशेन वैश्यः पञ्चदशाहेन शूद्रो मासेन शुध्यति ॥ ५.८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-083	A Brahmana shall be pure after ten days, a Kshatriya after twelve, a Vaisya after fifteen, and a Sudra is purified after a month.
 </details>
 
 <details><summary>भारुचिः</summary>

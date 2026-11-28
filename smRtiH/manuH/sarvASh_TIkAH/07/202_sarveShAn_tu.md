@@ -3,6 +3,11 @@ title = "202 सर्वेषान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+202	But having fully ascertained the wishes of all the (conquered), let him place there a relative of the (vanquished ruler on the throne), and let him impose his conditions.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having briefly ascertained the wishes of all the people, he shall set up there a member of the same family and then conclude the treaty.—(202)
@@ -46,9 +51,4 @@ have been wicked, the conqueror should not destroy the Kingdom.’
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वेषाम्** इति । तेषां परकीयानां सर्वेषां सङ्क्षेपतो ऽभिलषितं ज्ञात्वा तस्मिन् जितराष्ट्रे जितराजान्वयिनम् अभिषेचयेत् । राज्ये इदं त्वया कार्यम् इदं नेत्य् एवं तस्य तदमात्यादीनां परिभाषणं च कुर्यात् ॥ ७.२०२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	But having fully ascertained the wishes of all the (conquered), let him place there a relative of the (vanquished ruler on the throne), and let him impose his conditions.
 </details>

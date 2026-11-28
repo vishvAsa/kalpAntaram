@@ -3,6 +3,11 @@ title = "003 प्रत्यहन् देशदृष्टैश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+003	Daily (deciding) one after another (all cases) which fall under the eighteen titles (of the law) according to principles drawn from local usages. and from the Institutes of the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [He shall look into the suits]—day after day, one by one,—falling as they do under eighteen heads,—according to principles deduced from local usage and from the scriptures.—(3)
@@ -320,9 +325,4 @@ king or by the learned Brāhmaṇa appointed as Judge.’
 <details><summary>भारुचिः</summary>
 
 **अष्टादशसु मार्गेषु** व्यवहारस्थानेष्व् ऋणादानादिषु वक्ष्यमाणेषु **पृथक् पृथङ् निबद्धानि**, देशाचारव्यवस्थया कर्षकवणिक्पशुपालादिषु धर्मेण, शास्त्रव्यवस्थया च शास्त्रोक्तैर् **हेतुभिः** साक्षिशपथादिभिः **प्रत्यहम्** अग्लायमानो राजा **पश्येत् कार्याणि कार्यिणाम्** । यद्य् अपि लौकिकान्य् अपि शास्त्रोक्तानि लिङ्गानि "बाह्यैर् विभावयेल् लिङ्गैः," "तथानुमाने[न] नयेद् धर्मस्य नृपतिः पदम्" इत्य् एवमादीनि, तथापीदं लौकिकप्रमाणानुवादि । शास्त्रलक्षणम् तु प्रमाणं शाक्षिशपथादि । यद्य् अपि च लौकिकप्रमाणानुवाद इह शास्त्रे ऽस्ति कुतश्चित् कारणात्, तथापि शास्त्रं लोकम् एव प्रमाणीकरोति केषुचित् कार्येषु । तथा च वक्ष्यति "समुद्रयानकुशला देशहालार्थदर्शिणः" इत्य् एवमादि । अतः पृथग्**देश**ग्रहणं न्याय्यम् ॥ ८.३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-003	Daily (deciding) one after another (all cases) which fall under the eighteen titles (of the law) according to principles drawn from local usages. and from the Institutes of the sacred law.
 </details>

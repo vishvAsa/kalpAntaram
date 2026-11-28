@@ -3,6 +3,11 @@ title = "165 औरस-क्षेत्रजौ पुत्रौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+165	The legitimate son and the son of the wife (thus) share the father's estate; but the other tell become members of the family, and inherit according to their order (each later named on failure of those named earlier).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘body-born’ and the ‘soil-born’ are entitled to inherit the father’s property; while the other ten inherit the ‘family-title’ and a share in the property, according to their order—(165)
@@ -65,9 +70,4 @@ he partakers of inheritance; the body-born son, the son of the appointed daughte
 <details><summary>भारुचिः</summary>
 
 एवं च पूर्वस्मिन् पूर्वस्मिन् सति उत्तरोत्तरः रजीवनमात्रेणांशेन युज्यते । एतस्माच् च यस्मात् पूर्वस्य पूर्वस्य ज्यायस्त्वं गोत्रभाक्त्वं च ज्ञातिकार्यं च कानीनादिभिर् अपि कार्यम् । एषाम् इदानीं लक्षणम् उच्यते ॥ ९.१६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-165	The legitimate son and the son of the wife (thus) share the father's estate; but the other tell become members of the family, and inherit according to their order (each later named on failure of those named earlier).
 </details>

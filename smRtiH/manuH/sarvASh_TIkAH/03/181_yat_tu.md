@@ -3,6 +3,11 @@ title = "181 यत् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+181	What has been given to a Brahmana who lives by trade that is not (useful) in this world and the next, and (a present) to a Brahmana born of a remarried woman (resembles) an oblation thrown into ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is given to the trader is neither here nor there. Similarly, what is given to the Brāhmaṇa born of a remarried woman is like a libation poured on ashes.—(181)
@@ -40,9 +45,4 @@ This verse is quoted in *Aparārka* (p. 454).
 <details><summary>गोविन्दराजः</summary>
 
 **यद् **इति । वाणिजकाय **यद् दत्तं तत् नेह **कीर्तये, नापि परलोकफलाय भवति । पुनर्भूपुत्राय च दत्तं निष्फलं **भस्मनीव हुतं** हव्यं तत्प्रेष्यम् [तद्वज् ज्ञेयम्] ॥ ३.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	What has been given to a Brahmana who lives by trade that is not (useful) in this world and the next, and (a present) to a Brahmana born of a remarried woman (resembles) an oblation thrown into ashes.
 </details>

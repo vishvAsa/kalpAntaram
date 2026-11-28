@@ -3,6 +3,11 @@ title = "196 आसीनस्य स्थितः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should do (these) standing, when the teacher is seated; advancing towards him, when he is standing; going forward to him, when he advances; and running after him, when he runs;—(196)
@@ -55,9 +60,4 @@ should be seated^; if he is seated, he should stand; if he is standing, he shoul
 <details><summary>गोविन्दराजः</summary>
 
 कथं तर्हि । **आसीनस्येति** । **पराङ्मुखस्येति** । उपविष्टस्याज्ञां ददतः उत्थितः प्रतिश्रवणसम्भाषे कुर्यात् । उत्थितस्य च तदभिमुखं गत्वा, वेगेन गच्छतः तस्य पश्चाद् वेगेन गच्छन् । परावृत्तस्य अवस्थितस्य च **अभिमुखो **भूत्वा **दूरावस्थितस्य** समीपम् आगत्य, शयानस्य प्रह्वो भूत्वा निकटे च देशे **तिष्ठतः **॥ २.१९६–९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;
 </details>

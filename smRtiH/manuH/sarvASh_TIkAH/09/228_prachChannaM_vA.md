@@ -3,6 +3,11 @@ title = "228 प्रच्छन्नं वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+228	On every man who addicts himself to that (vice) either secretly or openly, the king may inflict punishment according to his discretion.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man has recourse, either openly or secretly, to this (vice), the form of punishment inflicted upon him shall be in accordance with the King’s discretion.—(228)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 9.227].
 <details><summary>भारुचिः</summary>
 
 एवं च सति येन येन दण्डप्रकारेण द्यूतनिवृत्तः स्यात् तं तं दण्डप्रकारं कल्पयेद् आत्मेच्छया ॥ ९.२२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-228	On every man who addicts himself to that (vice) either secretly or openly, the king may inflict punishment according to his discretion.
 </details>

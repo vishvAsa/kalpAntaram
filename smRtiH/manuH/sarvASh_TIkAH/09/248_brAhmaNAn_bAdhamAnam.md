@@ -3,6 +3,11 @@ title = "248 ब्राह्मणान् बाधमानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+248	But the king shall inflict on a base-born (Sudra), who intentionally gives pain to Brahmanas, various (kinds of) corporal punishment which cause terror.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a low-born person intentionally harasses a Brāhmaṇa, the King shall strike him with various terror-striking forms of corporal punishment.—(248)
@@ -45,9 +50,4 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 396) as prescribing
 <details><summary>भारुचिः</summary>
 
 अत्र चित्रैर् वधोपायैर् वध एव नियमेन प्रायश्चित्तम् अकुर्वतो ऽस्य शुद्धय उपदिश्यते । यथापराधं ताडनबन्धनादिभिः शूद्रस्य । त्रयाणां चैके, यस्मात् ॥ ९.२४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-248	But the king shall inflict on a base-born (Sudra), who intentionally gives pain to Brahmanas, various (kinds of) corporal punishment which cause terror.
 </details>

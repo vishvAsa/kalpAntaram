@@ -2,6 +2,11 @@
 title = "187 पूर्वेद्युर् अपरेद्युर्"
 +++
 
+<details><summary>Bühler</summary>
+
+187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the śrāddha-performance has approaohed, one should invite, either on the preceding day or the next day, in the proper manner, at least three brāhmaṇas, such as have been described.—(187)
@@ -89,11 +94,6 @@ approach the Brāhmaṇas after they have taken their evening meal and invite th
 <details><summary>गोविन्दराजः</summary>
 
 **पूर्वेद्युर्** इति । श्राद्धे कर्मणि प्राप्ते स्त्रीप्रयोगाशङ्कायां श्राद्धदिवसात् पूर्वस्मिन्न् अहनि परस्मिन्न् एव असति सम्भवे यद्य् अत्यन्तन्यूनान् ततस् त्रीन् न तु त्रीन् एव, एकैकविधेर् अप्य् उक्तत्वात् । प्रश्रयपूर्वं वा यथोक्तान् विप्रान् **निमन्त्रयेत्** ॥ ३.१८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
 </details>
 
 <details><summary>भारुचिः</summary>

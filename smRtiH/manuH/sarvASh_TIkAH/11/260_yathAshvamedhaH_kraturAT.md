@@ -3,6 +3,11 @@ title = "260 यथाश्वमेधः क्रतुराट्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+261	As the horse-sacrifice, the king of sacrifices, removes all sin, even so the Aghamarshana hymn effaces all guilt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as the Aśvamedha, the king of sacrifices, is destructive of all sins, even so is the ‘Aghamarṣaṇa Hymn’ also destructive of all sins.—(260)
@@ -41,9 +46,4 @@ removes all sin, so does the *Aghamarṣaṇa* also remove all sin.’
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । यथाश्वमेधो यज्ञश्रेष्ठः सर्वपापविनाशकृद् एवम् अघमर्षणम् अपि सूक्तं सकलं कल्मषनाशनम् इति पूर्वार्थवादः ॥ ११.२५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-261	As the horse-sacrifice, the king of sacrifices, removes all sin, even so the Aghamarshana hymn effaces all guilt.
 </details>

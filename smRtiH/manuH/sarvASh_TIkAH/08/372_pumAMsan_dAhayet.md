@@ -3,6 +3,11 @@ title = "372 पुमांसन् दाहयेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+372	Let him cause the male offender to be burnt on a red-hot iron bed; they shall put logs under it, (until) the sinner is burned (to death).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The offending male he should make to lie down upon a redhot iron bed; they shall put wooden-logs over him, so that the sinner may be burnt.—(372)
@@ -50,9 +55,4 @@ caste, the King shall cause him to be tied up in *Vīraṇa* grass and thrown in
 <details><summary>भारुचिः</summary>
 
 अनयैव संगृहीतस्यायं विधिः । अन्यस्य तु यथोक्त एव दण्डः स्यात् ॥ ८.३७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-372	Let him cause the male offender to be burnt on a red-hot iron bed; they shall put logs under it, (until) the sinner is burned (to death).
 </details>

@@ -3,6 +3,11 @@ title = "132 पत्र-शाक-तृणानाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+132	Of leaves, pot-herbs, grass, (objects) made of cane, skins, of earthen vessels, and all (articles) made of stone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall take the sixth part in the case of trees, meat, honey and clarified butter, of perfumes, medicinal herbs and poisons, of flowers, roots and fruits;—(131) of leaves, vegetables and grasses, of skins and cane, of earthenware vessels, and of all things made of stone.—(132)
@@ -49,9 +54,4 @@ medicinal herbs, liquids and condiments, flowers, roots, fruits, leaves, vegetab
 <details><summary>भारुचिः</summary>
 
 यथोक्तानां द्रुमादीनां लाभात् षड्भागादानम् ॥ ७.१३१–३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	Of leaves, pot-herbs, grass, (objects) made of cane, skins, of earthen vessels, and all (articles) made of stone.
 </details>

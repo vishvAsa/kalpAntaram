@@ -2,6 +2,11 @@
 title = "022 एतान् एके"
 +++
 
+<details><summary>Bühler</summary>
+
+022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some persons, conversant with the ordinances relating to sacrifices, who do not cherish ant desires, regularly offer these great sacrifices into the sense-organs.—(22)
@@ -77,11 +82,6 @@ Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 <details><summary>गोविन्दराजः</summary>
 
 **एतान्** इति । बाह्याभ्यन्तरयज्ञोपदेशकशास्त्रज्ञाः केचिन् मनुष्याः ज्ञानबलान् नित्यानुष्ठानार्थम् उपरतधनचेष्टा एतान् महायज्ञान् **इन्द्रियेष्व् एव **सर्वकालं सम्पादयन्ति । इन्द्रियाणि अग्न्यातिथ्यादिरूपतया तत्संयमं वाग्बाहुल्यादिरूपत्वेन भावयन्ति । एतान् सम्पादयन्ति ॥ ४.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
 </details>
 
 <details><summary>भारुचिः</summary>

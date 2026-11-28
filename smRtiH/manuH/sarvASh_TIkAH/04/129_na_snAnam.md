@@ -2,6 +2,11 @@
 title = "129 न स्नानम्"
 +++
 
+<details><summary>Bühler</summary>
+
+129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not bathe after a meal, nor when he is ill, nor at midnight, nor along with his garments; and never in an unknown water-reservoir.—(129)
@@ -111,11 +116,6 @@ taking food, nor at midnight.’
 > तस्यां स्नानं न कुर्वीत काम्यनैमित्तिकाद् ऋते ॥
 
 इति देवलस्मरणात् तत्र न स्नायात् । बहुवासस्कश् च सततं न स्नायात् । नैमित्तिके त्व् अनिषेधः । गाधागाधग्राहाद्याकीर्णतया वा अज्ञाते जलाधारे न स्नायात् ॥ ४.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.
 </details>
 
 <details><summary>भारुचिः</summary>

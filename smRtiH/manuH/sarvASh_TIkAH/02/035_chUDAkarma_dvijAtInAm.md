@@ -2,6 +2,11 @@
 title = "035 चूडाकर्म द्विजातीनाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In view or the injunctions or the Veda, the Tonsure-ceremony of all twice-born children should be performed, according to law, in the first year or the third.—(35)
@@ -123,11 +128,6 @@ fifth year.’
 <details><summary>गोविन्दराजः</summary>
 
 **चूडाकर्मेति** । **द्विजातीनां प्रथमे **वर्षे **तृतीये वा **चूडाकरणम् । **धर्मतो** धर्मेणादृष्टार्थं कार्यम्, “ॐ यत्र बाणाः सम्पतन्ति कुमारा विशिखा इव” इति श्रुतिलिङ्गात् । अनेनैतद् दर्शयति – यद् एवं प्रायाः वेदलिङ्गमूलाः स्मृतय इति ॥ २.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
 </details>
 
 <details><summary>भारुचिः</summary>

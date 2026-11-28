@@ -3,6 +3,11 @@ title = "077 त्रयो धर्मा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	(Passing) from the Brahmana to the Kshatriya, three acts (incumbent on the former) are forbidden, (viz.) teaching, sacrificing for others, and, thirdly, the acceptance of gifts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the Brāhmaṇa coming to the Kṣatriya, three of these functions cease;—viz., Teaching, Sacrificing for others, and third, the Receiving of gifts.—(77)
@@ -74,9 +79,4 @@ sacrificing, making gilts, living by arms, and protecting of living beings; of t
 <details><summary>भारुचिः</summary>
 
 अत्र च धर्मशब्दो वृत्तिकर्मविषय एव द्रष्टव्यः, तन्निर्देशसामर्थ्यात् । एवं च सति इज्याध्ययनदानानि तस्यादृष्टार्थानि [न] प्रतिषिध्यन्ते । तथा च तानि वक्ष्यति । अत्र चाधिकाराद् वेदाध्यापनं प्रतिषिध्यते क्षत्रियस्य सहाङ्गैः न तु धनुर्वेदादीनाम् ॥ १०.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	(Passing) from the Brahmana to the Kshatriya, three acts (incumbent on the former) are forbidden, (viz.) teaching, sacrificing for others, and, thirdly, the acceptance of gifts.
 </details>

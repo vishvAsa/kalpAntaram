@@ -3,6 +3,11 @@ title = "134 घृतकुम्भं वराहे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+135	For a boar a pot of clarified butter, for a partridge a drona of sesamum-grains, for a parrot a calf two years old, for a crane (a calf) three years old.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For a boar, a jar of clarified butter; for a partridge, a ‘droṇa’ of sesamum; for a parrot, a two-year-old calf; and for killing a horse, a three-year-old calf.—(134)
@@ -50,9 +55,4 @@ five *nīla* bulls: for killing a parrot, a calf two years old; for killing an a
 <details><summary>गोविन्दराजः</summary>
 
 **घृतकुम्भम्** इति । शूकरे हते घृतपूर्णं घटं दद्यात् तित्तिराख्ये पक्षिणि हते तिलानां पलशतद्वयं दद्याच् छुके हते द्विवर्षं वत्सम् । क्रौञ्चाख्यं पक्षिणं हत्वा त्रिवर्षं वत्सं दद्यात् ॥ ११.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-135	For a boar a pot of clarified butter, for a partridge a drona of sesamum-grains, for a parrot a calf two years old, for a crane (a calf) three years old.
 </details>

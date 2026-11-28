@@ -2,6 +2,11 @@
 title = "143 उच्छिष्टेन तु"
 +++
 
+<details><summary>Bühler</summary>
+
+143	He who, while carrying anything in any manner, is touched by an impure (person or thing), shall become pure, if he performs an ablution, without putting down that object.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, with some substance in hand, happens to be touched by an unclean object, becomes pure by washing, without laying down that substance.—(141).
@@ -86,11 +91,6 @@ impure substance, then he shall place that thing on the ground, sip water and th
 <details><summary>गोविन्दराजः</summary>
 
 **उच्छिष्टेनेति** । गृहीतद्रव्यः सन् यद्य् उच्छिष्टेन स्पृष्टो भवति तदा द्रव्यम् अवस्थापैतत् कृताचमनः शुद्धित्वं प्राप्नोति ॥ ५.१४३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-143	He who, while carrying anything in any manner, is touched by an impure (person or thing), shall become pure, if he performs an ablution, without putting down that object.
 </details>
 
 <details><summary>भारुचिः</summary>

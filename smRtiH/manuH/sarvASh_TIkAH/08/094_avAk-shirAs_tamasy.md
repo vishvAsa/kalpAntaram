@@ -3,6 +3,11 @@ title = "094 अवाक्-शिरास् तमस्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+094	'Headlong, in utter darkness shall the sinful man tumble into hell, who being interrogated in a judicial inquiry answers one question falsely.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Headlong, in blind darkness shall the sinner fall into hell, who, on being interrogated in the course of a judicial investigation, answers the question falsely.—(94)
@@ -38,9 +43,4 @@ This verse is quoted in *Kṛtyakalpataru* (35a);—in *Aparārka* (p. 674);—a
 <details><summary>गोविन्दराजः</summary>
 
 **अवाग् **इति । यो धर्मनिश्चयनिमित्तं पृष्टः सन् असत्यं प्रश्नं ब्रूयात् स पापी अधोमुखो ऽतिसान्द्रे तमसि नरके पतेत् ॥ ८.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	'Headlong, in utter darkness shall the sinful man tumble into hell, who being interrogated in a judicial inquiry answers one question falsely.
 </details>

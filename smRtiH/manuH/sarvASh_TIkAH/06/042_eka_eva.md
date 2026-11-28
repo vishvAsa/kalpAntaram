@@ -3,6 +3,11 @@ title = "042 एक एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+042	Let him always wander alone, without any companion, in order to attain (final liberation), fully understanding that the solitary (man, who) neither forsakes nor is forsaken, gains his end.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always wander about alone, without a companion, in order to attain success; when one realises that success accrues to the solitary man, he neither forsakes nor becomes forsaken.—(42)
@@ -49,9 +54,4 @@ This verse is quoted in *Aparārka* (p. 953), which explains ‘*siddhim na jah�
 <details><summary>भारुचिः</summary>
 
 सिद्धे शास्त्राग्नित्यागे लौकिकाग्नित्यागार्थम् इदम् उच्यते ॥ ६.४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-042	Let him always wander alone, without any companion, in order to attain (final liberation), fully understanding that the solitary (man, who) neither forsakes nor is forsaken, gains his end.
 </details>

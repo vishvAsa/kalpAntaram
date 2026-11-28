@@ -2,6 +2,11 @@
 title = "009 तद् अण्डम्"
 +++
 
+<details><summary>Bühler</summary>
+
+009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That became the golden egg, resplendent like the Sun; in that (egg) he (Hiraṇyagarbha) himself was born as Brahmā, the ‘Grand-father’ of the whole world.—(9)
@@ -77,11 +82,6 @@ said in the Bhāṣya on verse 5, to the effect that ‘the process of creation 
 <details><summary>गोविन्दराजः</summary>
 
 **तद्** इति । **तद् **वीर्यं काञ्चनम् **अण्डं** सम्पन्नम् अत एव आदित्यसमदीप्ति । **तस्मिंश्** च जातवान् आत्मेच्छया हिरण्यगर्भः । **सर्वलोको**त्पादयिता **पितामह** इति वा सञ्ज्ञा तस्य ॥ १.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.
 </details>
 
 <details><summary>भारुचिः</summary>

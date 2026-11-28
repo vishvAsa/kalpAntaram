@@ -3,6 +3,11 @@ title = "038 दैवोढाजः सुतश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The son born of the wife married by the Daiva form (absolves from sin) seven ancestors and seven des cendants; the son born of the wife married by the Ārṣa form three of each; and the son born of the wife married by the Prājāpatya form six of each.—(38)
@@ -68,9 +73,4 @@ purifies seven generations below and seven above, and also oneself; the Ārṣa-
 <details><summary>गोविन्दराजः</summary>
 
 **दैवोढाज **इति । दैवविवाहोत्पन्नः पुत्रः **सप्त परान् **पित्रादीन् **सप्त अवरान्** पुत्रादीन् पापान् मोचयति । आर्षविवाहोत्पन्नश् च **त्रीन् **पुत्रादीन् **त्रींश् **च पुत्रादीन् । तथा प्राजापत्यविवाहोढाजोत्पन्नश् च **षट् **पुत्रादीन् **षट्** पित्रादींश् च ॥ ३.३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).
 </details>

@@ -3,6 +3,11 @@ title = "114 आत्मनो यदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+115	Let him not say (a word), if a cow eats (anything) in his own or another's house or field or on the threshing-floor, or if a calf drinks (milk).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the cow is eating anything in his own or another’s house, field or threshing-yard,—or when her calf is drinking (her milk),—he shall not say anything.—(114)
@@ -38,9 +43,4 @@ See Explanatory notes for [Verse 11.108].
 **
 
 See Comparative notes for [Verse 11.108].
-</details>
-
-<details><summary>Bühler</summary>
-
-115	Let him not say (a word), if a cow eats (anything) in his own or another's house or field or on the threshing-floor, or if a calf drinks (milk).
 </details>

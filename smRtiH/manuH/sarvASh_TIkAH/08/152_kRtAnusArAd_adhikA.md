@@ -3,6 +3,11 @@ title = "152 कृतानुसाराद् अधिका"
 
 +++
 
+<details><summary>Bühler</summary>
+
+152	Stipulated interest beyond the legal rate, being against (the law), cannot be recovered; they call that a usurious way (of lending); (the lender) is (in no case) entitled to (more than) five in the hundred.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Interest, stipulated in contravention of the law, being excessive, is not payable. They declare this to be the usurer’s way. It is only five per cent. to which the man is entitled.—(152)
@@ -71,9 +76,4 @@ has been stipulated by the debtor himself, over and above the ordinary rate of i
 <details><summary>भारुचिः</summary>
 
 यो हि कार्यवर्त्तां विज्ञाय गृहीतुः पञ्चकाच् छताद् अधिकं वृद्धिं कारयेत् प्रयोक्ता न तस्य साकार्यसिद्धिं गच्छेत् । शास्त्रव्यतिरेकाद् धेतोः । यतः **पञ्चकम्** एव **शतं** दातुम् **अर्हति** । अथ वा **कृता** तु वृद्धिर् अविशेष्या ग्रहणकाले विशेष्या वा अल्पान् न किंचनास्य गृहीतुः पूर्वम्, पश्चाद् धनव्यवहारेणैव प्राप्तैश्वर्यस्य, अन्यथा वा, पुरुषकारात् संपल्लक्षणाद् अधिका, यथा मन्दीकृता तत्प्रयोक्तृलोभाद् उत्तरकालं गृहीतुः संपदपेक्षया, न सिध्यति, शास्त्रव्यतिरेकाद् धेतोः । तत्र हि सर्वमहती वृद्धिः पञ्चकं शतम् । तद् अपि शूद्रविषयम् । कामम् अशूद्रस्यापि तावती स्याद् वृद्धिः, नातो व्यतिरिक्ता । तथा च निन्द्यते, कुसीदपथम् आहुस् तम् इति ॥ ८.१५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	Stipulated interest beyond the legal rate, being against (the law), cannot be recovered; they call that a usurious way (of lending); (the lender) is (in no case) entitled to (more than) five in the hundred.
 </details>

@@ -3,6 +3,11 @@ title = "039 निधीनान् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	The king obtains one half of ancient hoards and metals (found) in the ground, by reason of (his giving) protection, (and) because he is the lord of the soil.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of ancient hoards, as also of minerals under the ground, the king is entitled to his share, by reason of his protecting them,—he being the lord of the soil.—(39)
@@ -69,9 +74,4 @@ shall take the sixth part of it; if he has not reported it to the King and is fo
 <details><summary>भारुचिः</summary>
 
 **अर्धभाग्** अंशभाक्, अर्धशब्दो ह्य् अंशे ऽपि दृश्यते । "अर्धिकः कुलमित्रश् च" इति । एवं च सत्य् अंशप्र्कॢप्तिर् द्रष्टृगुणापेक्षया राजाभिप्रायेण वा कल्पयितव्या । तथा च समप्रविभागार्थो ऽप्य् अर्धशब्दः ॥ ८.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	The king obtains one half of ancient hoards and metals (found) in the ground, by reason of (his giving) protection, (and) because he is the lord of the soil.
 </details>

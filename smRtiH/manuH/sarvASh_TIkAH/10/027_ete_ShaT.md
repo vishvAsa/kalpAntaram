@@ -3,6 +3,11 @@ title = "027 एते षट्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	These six (Pratilomas) beget similar races (varna) on women of their own (caste), they (also) produce (the like) with females of their mother's caste (gati), and with females (of) higher ones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These six beget similar castes on women belonging to the same caste as themselves; so also those belonging to the mother’s caste procreate (on women of the same caste), as also on women of higher castes.—(27)
@@ -88,9 +93,4 @@ See Comparative notes for [Verse 10.6].
 > तान् अनन्तरनाम्नस् तु मातृदोषान् प्रचक्षते ॥ इति ।
 
 आयोगवादयस् तु प्रतिलोमजाता **मातृजातौ प्रसूयमाना प्रवरासु च योनिषु** धर्महीनतरान् जनयन्ति । एवम् आनुलोम्या अप्य् अम्बष्ठादयो वेदितव्याः ॥ १०.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	These six (Pratilomas) beget similar races (varna) on women of their own (caste), they (also) produce (the like) with females of their mother's caste (gati), and with females (of) higher ones.
 </details>

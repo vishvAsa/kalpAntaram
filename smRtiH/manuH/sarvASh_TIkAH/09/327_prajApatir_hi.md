@@ -3,6 +3,11 @@ title = "327 प्रजापतिर् हि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+327	For when the Lord of creatures (Pragapati) created cattle, he made them over to the Vaisya; to the Brahmana, and to the king he entrusted all created beings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Prajāpati, having created cattle, made them over to the Vaiśya; while to the Brāhmaṇā and the Kṣatriya he made over all creatures.—(327)
@@ -57,9 +62,4 @@ See Comparative notes for [Verse 9.326].
 <details><summary>कुल्लूकः</summary>
 
 यस्माद् ब्रह्मा पशून्सृष्ट्वारक्षणार्थं वैश्याय दत्तवानता वैश्येन रक्षणीयाः पशव इति पूर्वानुवादः। प्रजाश्च सर्वाः सृष्ट्वाब्राह्मणाय राज्ञे च रक्षणार्थंदत्तवानिति प्रसङ्गादेतदुक्तम्॥ ३२७॥
-</details>
-
-<details><summary>Bühler</summary>
-
-327	For when the Lord of creatures (Pragapati) created cattle, he made them over to the Vaisya; to the Brahmana, and to the king he entrusted all created beings.
 </details>

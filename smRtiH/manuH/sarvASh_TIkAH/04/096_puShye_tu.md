@@ -2,6 +2,11 @@
 title = "096 पुष्ये तु"
 +++
 
+<details><summary>Bühler</summary>
+
+096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall perform, outside, the “Utsarjana” (Suspension) of the Vedas on the day of the Puṣya asterism, or on the forenoon of the first day of the bright fortnight of the month of Māgha.—(96)
@@ -56,11 +61,6 @@ Rohiṇī, or on the middlemost Aṣtakā day, he shall perform the suspension (
 <details><summary>गोविन्दराजः</summary>
 
 येन श्रावण्याम् उपाकर्म कृतं स द्विजो ऽर्धपञ्चमेषु मासेषु पौषमासे तु पुष्यनक्षत्रे ग्रामाद् बहिर् निष्क्रम्य **छन्दसाम्** उत्सर्गाख्यं गृह्योक्तं कर्म कुर्यात् । येन पौष्ठपद्यां कृतं स माघशुक्लपक्षस्य **प्रथमे ऽहनि** **प्राप्ते पूर्वाह्णे** वा कुर्यात् ॥ ४.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	When the Pushya-day (of the month Pausha), or the first day of the bright half of Magha has come, a Brahmana shall perform in the forenoon the Utsargana of the Vedas.
 </details>
 
 <details><summary>भारुचिः</summary>

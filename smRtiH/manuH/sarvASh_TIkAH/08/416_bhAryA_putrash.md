@@ -3,6 +3,11 @@ title = "416 भार्या पुत्रश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+416	A wife, a son, and a slave, these three are declared to have no property; the wealth which they earn is (acquired) for him to whom they belong.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wive, the son and the slave,—these three are declared to have no property; whatever they acquire is the property of him to whom they belong.—(416)
@@ -80,9 +85,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 भार्यापुत्रग्रहणम् अत्र दासदृष्टान्तर्थं तत्समानत्वाद् एतत्प्रकरणे ऽस्वार्थम् । एवं च सति त्रयाणाम् अप्य् एषां निर्धनत्वं न परमार्थतः । किं तर्हि ततनुज्ञातद्र[व्य]व्यवहारार्थं विज्ञेयम् । कस्य पुनर् हेतोः । येन यद् उपार्ज्यते न तत् तस्माद् व्यावर्तयितुं शक्यते । अद्रव्यत्वे चैषां पुत्रादीनां कर्मभिर् असंबन्धः स्यात् । न चैतद् इष्टम्, शास्त्रशिष्टत्वात् तेषां कर्मणः । एवं च सति गौणम् एषां निर्धनत्वं विज्ञेयम् । उत्तरार्थं च ॥ ८.४१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-416	A wife, a son, and a slave, these three are declared to have no property; the wealth which they earn is (acquired) for him to whom they belong.
 </details>

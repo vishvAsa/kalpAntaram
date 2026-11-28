@@ -3,6 +3,11 @@ title = "378 सहस्रम् ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+378	A Brahmana who carnally knows a guarded Brahmani against her will, shall be fined one thousand (panas); but he shall be made to pay five hundred, if he had connexion with a willing one.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who has intercourse with a protected Brāhmaṇa woman by force should be fined one thousand; he who has connection with a willing one, should be fined five hundred.—(378)
@@ -65,9 +70,4 @@ See Comparative notes for [Verse 8.374].
 <details><summary>भारुचिः</summary>
 
 **बलाद्** इत्य् अविवक्षितम् । यो हि गुप्तां व्रजति बलाद् एवासौ गतो भवति । एवं सकामाम् अकामाम् इत्य् अन्यत्र गुप्तागुप्तव्यपदेशो विवक्षितः । ऋज्व् अन्यत् ॥ ८.३७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-378	A Brahmana who carnally knows a guarded Brahmani against her will, shall be fined one thousand (panas); but he shall be made to pay five hundred, if he had connexion with a willing one.
 </details>

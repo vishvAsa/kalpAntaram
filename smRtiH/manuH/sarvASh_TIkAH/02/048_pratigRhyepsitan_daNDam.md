@@ -2,6 +2,11 @@
 title = "048 प्रतिगृह्येप्सितन् दण्डम्"
 +++
 
+<details><summary>Bühler</summary>
+
+048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Taking up the staff of his liking, having worshipped the sun and walked round the fire to his right, he should beg for alms according to the prescribed rule.—(48)
@@ -69,11 +74,6 @@ evening.’
 <details><summary>गोविन्दराजः</summary>
 
 **प्रतिगृह्येति** । आप्तुम् इष्टं संस्कृतं **दण्डं** गृहीत्वा आदित्यं चाभिध्याय अग्निं प्रदक्षिणीकृत्य **भक्षं** यथाशस्त्रं **चरेत् **॥ २.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
 </details>
 
 <details><summary>भारुचिः</summary>

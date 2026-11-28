@@ -3,6 +3,11 @@ title = "063 न कुर्वीत"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	Let him not exert himself without a purpose; let him not drink water out of his joined palms; let him not eat food (placed) in his lap; let him not show (idle) curiosity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not put forth any exertion without a purpose. He shall not drink water with joined hands. He shall not eat articles of food in his lap. He shall never be too curious.—(63)
@@ -41,9 +46,4 @@ not do such acts as cutting, breaking, scratching, crushing, clapping, without r
 <details><summary>गोविन्दराजः</summary>
 
 **न कुर्वीतेति** । दृष्टादृष्टानुपकारफलं व्यापारं न कुर्यात् । उदकं **चाञ्जलिना न पिबेत्** । ऊर्वोश् चोपरि विन्यस्य मोदकानि **न भक्षयेत् **। निष्प्रयोजनं च किम् एतत् स्याद् इति कुतूहलपरो न कदाचित् स्यात् ॥ ४.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	Let him not exert himself without a purpose; let him not drink water out of his joined palms; let him not eat food (placed) in his lap; let him not show (idle) curiosity.
 </details>

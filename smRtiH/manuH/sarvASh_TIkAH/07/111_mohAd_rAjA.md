@@ -3,6 +3,11 @@ title = "111 मोहाद् राजा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	That king who through folly rashly oppresses his kingdom, (will), together with his relatives, ere long be deprived of his life and of his kingdom.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King, who, through folly, thoughtlessly oppresses his kingdom, becomes, ‘along with his relations’, deprived, without delay, of his kingdom and life.—(111)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 7.110].
 <details><summary>गोविन्दराजः</summary>
 
 **मोहाद्** इति । यो राजा हिताहिताविवेकेन प्रजाः पीडयति स क्षिप्रं प्रकृतिलोपादिनाधर्मभूयस्त्वेन राज्याज् जीविताच् च बन्धुसहितो नश्यत्य् अचिरात् ॥ ७.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	That king who through folly rashly oppresses his kingdom, (will), together with his relatives, ere long be deprived of his life and of his kingdom.
 </details>

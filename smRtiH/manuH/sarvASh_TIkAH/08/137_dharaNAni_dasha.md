@@ -3,6 +3,11 @@ title = "137 धरणानि दश"
 
 +++
 
+<details><summary>Bühler</summary>
+
+137	Know (that) ten dharanas of silver make one satamana; four suvarnas must be considered (equal) in weight to a nishka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Ten ‘dharaṇas’ are to be known as the ‘silver śatamāna’ (centimetre); and the ‘niṣka’ should be understood as four ‘gold-pieces’ in weight.—(137)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 8.131].
 <details><summary>कुल्लूकः</summary>
 
 दश रुप्यधरणानि रौप्यशतमानो ज्ञातव्यः । चतुर्भिः सुवर्णेर्निष्कः प्रमाणेन बोद्धव्यः ॥१३७॥
-</details>
-
-<details><summary>Bühler</summary>
-
-137	Know (that) ten dharanas of silver make one satamana; four suvarnas must be considered (equal) in weight to a nishka.
 </details>

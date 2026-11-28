@@ -2,6 +2,11 @@
 title = "114 सुवासिनीः कुमारीश्"
 +++
 
+<details><summary>Bühler</summary>
+
+114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Newly married girls, maidens, sick persons and pregnant women,—these he should, without hesitation, feed immediately after the guests.—(114)
@@ -78,11 +83,6 @@ relations, paternal and maternal, and also persons seeking for food, he shall fe
 <details><summary>गोविन्दराजः</summary>
 
 **सुवासिनीर्** इति । जीवच्छ्वशुरपितृकाः स्त्रियः **कुमार्य्**आतुर**गर्भिणीश् च **अतिथ्यनुगतान् एवाविलम्बमानो **भोजयेत् **अग्रत एव (इति) पाठे अतिथिभ्यः पूर्वम् एव ॥ ३.११४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
 </details>
 
 <details><summary>भारुचिः</summary>

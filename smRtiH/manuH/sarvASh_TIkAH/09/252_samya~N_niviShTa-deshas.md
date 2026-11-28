@@ -3,6 +3,11 @@ title = "252 सम्यङ् निविष्ट-देशस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+252	Having duly settled his country, and having built forts in accordance with the Institutes, he shall use his utmost exertions to remove (those men who are nocuous like) thorns.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having duly settled his kingdom, and having built forts according to the institutes, he shall apply his best efforts to the ‘removal of thorns.’—(252)
@@ -45,9 +50,4 @@ The term ‘thorn’ is applied to robbers and others who are a source of suffer
 <details><summary>भारुचिः</summary>
 
 अस्य प्रशंसार्थवादः फलविधिरूपः ॥ ९.२५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-252	Having duly settled his country, and having built forts in accordance with the Institutes, he shall use his utmost exertions to remove (those men who are nocuous like) thorns.
 </details>

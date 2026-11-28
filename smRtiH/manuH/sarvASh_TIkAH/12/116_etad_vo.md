@@ -3,6 +3,11 @@ title = "116 एतद् वो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+116	All that which is most efficacious for securing supreme bliss has been thus declared to you; a Brahmana who does not fall off from that obtains the most excellent state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that is conducive to the Highest Good has been thus expounded to you; the Brāhmaṇa who has not deviated from this, attains the highest state.—(116)
@@ -54,9 +59,4 @@ This verse is quoted in *Aparārka* (p. 1027).
 तेषाम् इदानीं धर्मोपदेशनिवृत्त्यर्थं दोषम् आह ॥ १२.११४ ॥
 
 उपसंहारश्लोको निःश्रेयसार्थानां कर्मणां वेदाभ्यासादीनाम् । तथा च तदुपघातार्थम् उक्तम् । "नैःश्रेयसं कर्मविधिं विप्रस्येदं निबोधत" (म्ध् १२.८२) इति <u>केचित्</u> । वयं तु पुनः कृत्स्नधर्मोपसंहारार्थम् एवेमम् आचक्ष्महे । येन नात ऊर्ध्वं केवलधर्म् (?) वक्ष्यन्ते । तथा चानन्तरश्लोकः ॥ १२.११५–११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	All that which is most efficacious for securing supreme bliss has been thus declared to you; a Brahmana who does not fall off from that obtains the most excellent state.
 </details>

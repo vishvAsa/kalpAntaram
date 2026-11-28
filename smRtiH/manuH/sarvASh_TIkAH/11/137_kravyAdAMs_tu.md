@@ -3,6 +3,11 @@ title = "137 क्रव्यादांस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+138	But for killing carnivorous wild beasts, he shall give a milch-cow, for (killing) wild beasts that are not carnivorous, a heifer, for killing a camel, one krishnala.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For killing carnivorous animals, one should give a milch-cow; and a heifer for killing those not carnivorous; and a ‘kṛṣṇala’ of gold for killing a camel.—(137)
@@ -51,9 +56,4 @@ milch cow; if a non-carnivorous wild animal, he must give a heifer.’
 <details><summary>गोविन्दराजः</summary>
 
 **क्रव्यादान्** इति । आममांसभक्ष्यान् मृगान् व्याघ्रादीन् हत्वा प्रत्यग्रप्रसूतां प्रचुरक्षीरां गां दद्यात् । अमांसभक्षान् मृगान् सारङ्गादीन् हत्वोत्तीर्णवत्सभावां गां दद्यात् । उष्ट्रं हत्वा सुवर्णरक्तिकां दद्यात् ॥ ११.१३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	But for killing carnivorous wild beasts, he shall give a milch-cow, for (killing) wild beasts that are not carnivorous, a heifer, for killing a camel, one krishnala.
 </details>

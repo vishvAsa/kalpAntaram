@@ -2,6 +2,11 @@
 title = "166 औरभ्रिकोपूर्वा-पतिस् तथा"
 +++
 
+<details><summary>Bühler</summary>
+
+166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The sheep-dealer, the buffalo-keeper, the husband of a woman who had another previous husband, the carrier of the dead—all these should be avoided with care.—(166)
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **औरभ्रिकः** मेषमहिषजीवी पुनर्भुवो भर्ता मूल्येन प्रेतानां निर्हारकः न धर्मार्थम्, “एतद् वै परमं तपो यं प्रेतम् अरण्यं हरन्ति” इति श्रुत्या नोदितत्वात् । एते यत्नत उभयत्र वर्जनीयाः ॥ ३.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
 </details>
 
 <details><summary>भारुचिः</summary>

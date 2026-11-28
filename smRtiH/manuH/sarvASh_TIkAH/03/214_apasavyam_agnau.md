@@ -3,6 +3,11 @@ title = "214 अपसव्यम् अग्नौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having done the entire serial performance in Fire, in the “Apasavya” form, he should offer water on the ground with the hand in the “Apasavya” position.—(214)
@@ -61,9 +66,4 @@ towards the south-east, he shall draw a line with the mantra *Apahata*, etc.; he
 <details><summary>गोविन्दराजः</summary>
 
 **अपसव्यम् **इति । **अग्नौ** यः पर्युक्षणपरिस्तरणाहुतिदानादीनि कर्तव्यताक्रमः तं सर्वम् अपसव्यपितृकर्मवत् दक्षिणासंस्थं कृत्वा तद् एतद् उदक्संस्थं **अपसव्येन **दक्षिणेन **हस्तेन** पितृतीर्थेन पिण्डाधारभूतायां **भुवि उदकं** प्रक्षिपेत् ॥ ३.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).
 </details>

@@ -3,6 +3,11 @@ title = "160 दर्शनप्रातिभाव्ये तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+160	This just mentioned rule shall apply to the case of a surety for appearance (only); if a surety for payment should die, the (judge) may compel even his heirs to discharge the debt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The law laid down in the preceding verse shall apply to the case of ‘Surety for appearance’; in the case of the death of the ‘Surety for payment’ however, the king shall make the heirs also to pay up.—(160)
@@ -86,9 +91,4 @@ See Comparative notes for [Verse 8.159].
 <details><summary>भारुचिः</summary>
 
 एवं च सति दानप्रतिभुवः पुत्रस्यास्ति संबन्धः ॥ ८.१५९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-160	This just mentioned rule shall apply to the case of a surety for appearance (only); if a surety for payment should die, the (judge) may compel even his heirs to discharge the debt.
 </details>

@@ -3,6 +3,11 @@ title = "222 क्रीत्वा विक्रीय"
 
 +++
 
+<details><summary>Bühler</summary>
+
+222	If anybody in this (world), after buying or selling anything, repent (of his bargain), he may return or take (back) that chattel within ten days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, after having bought or sold anything, one should repent of it, he may return or take back that thing within ten days.—(222)
@@ -155,9 +160,4 @@ grains, wines, liquids, clothes, baser metals and gold, shall he examined at the
 <details><summary>भारुचिः</summary>
 
 अन्तर्दशाहम् आदानप्रत्यर्पणे साम्नेत्य् अयम् अपाठः । येनोर्ध्वम् अपि दशाहात् कः शक्तस् साम्ना दानादाने प्रतिषेद्धुम् । लब्धिमेष्व् अपि द्रव्येषु सामाशक्यं प्रतिषेद्धुम्, किं पुनः कृत्रिमेषु, यत्र कश्चिद् धर्मगतिर् नास्ति । धर्म्येषु तु प्रतिग्रहेषु तदनन्तरनिर्वृत्तत्वाद् धर्मस्य साम्नाप्य् अश्क्यं कृतम् अकृतं कर्तुम् । तत्र प्रत्यर्पणे पुनर्दानं वा कृतं भवेत् परित्यागो वा । यतश् चैतद् एवम् । अत एवं पठितव्य उत्तरश्लोकार्धः- "सो ऽयं दशाहात् तद्द्रव्यं दद्याच् चैवाददीत च" इति । अत्रैवार्थ उत्तरश्लोकार्धपाठो ऽन्यो भवति- "दानादाने दशाहं तु स्याताम् अपि निपातिनि" इति । अथ वा सामग्रहणं दशाहे दण्डनिवृत्त्यर्थम् । अन्तर्दशाहानुशये कथंचिद् विवदतां राजाधिगमे दण्डनिवृत्तिर् यथा स्याद् राजतस् तयोः । तथा च दशाहस्योत्तरत्र तद्विवादे दण्डः श्रूयते ॥ ८.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-222	If anybody in this (world), after buying or selling anything, repent (of his bargain), he may return or take (back) that chattel within ten days.
 </details>

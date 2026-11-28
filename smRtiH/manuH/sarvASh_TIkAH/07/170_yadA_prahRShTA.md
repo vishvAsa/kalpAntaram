@@ -3,6 +3,11 @@ title = "170 यदा प्रहृष्टा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+170	But when he thinks all his subjects to be exceedingly contented, and (that he) himself (is) most exalted (in power), then let him make war.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But when he thinks all his people to be highly contented, and himself to be exceedingly prosperous,—then he shall make war.—(170)
@@ -49,9 +54,4 @@ Do. (15.19).—‘Of internal and external defects, the internal is the graver. 
 <details><summary>भारुचिः</summary>
 
 वि[ग्रहार्थं दण्डादिसंपदाभ्युच्चि]तः स संतुष्टोपगृहीतप्रकृतिः संधिविग्रहं कुर्यात् ॥ ७.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	But when he thinks all his subjects to be exceedingly contented, and (that he) himself (is) most exalted (in power), then let him make war.
 </details>

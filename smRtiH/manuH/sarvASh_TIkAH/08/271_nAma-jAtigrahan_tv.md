@@ -3,6 +3,11 @@ title = "271 नाम-जातिग्रहन् त्व्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+271	If he mentions the names and castes (gati) of the (twice-born) with contumely, an iron nail, ten fingers long, shall be thrust red-hot into his mouth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he mentions the name and caste of these men with scorn, a burning iron nail ten inches long shall be thrust into his mouth.—(271)
@@ -71,9 +76,4 @@ superior caste in terms indicating contempt, an iron-rod, ten inches long, shall
 <details><summary>भारुचिः</summary>
 
 अवचनीयैर् अभिद्रोहेणाक्रोशतः शूद्रस्यानेन प्रकारेण वध उपदिश्यते ॥ ८.२७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-271	If he mentions the names and castes (gati) of the (twice-born) with contumely, an iron nail, ten fingers long, shall be thrust red-hot into his mouth.
 </details>

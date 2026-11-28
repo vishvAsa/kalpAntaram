@@ -3,6 +3,11 @@ title = "354 परस्य पत्न्या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+354	A man formerly accused of (such) offences, who secretly converses with another man's wife, shall pay the first (or lowest) amercement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A man who engages in secret conversation with the wife of another person,—if he is one who has been previously accused of similar offences,—should receive the penalty of the ‘first amercement.’—(354)
@@ -79,9 +84,4 @@ clothes,—and conversing with her in secret,—is considered an adulterous act 
 <details><summary>भारुचिः</summary>
 
 आक्षारितः आशङ्क्यमानदोषः । संव्यवहारार्थम् अपि न संभाषेत ॥ ८.३५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-354	A man formerly accused of (such) offences, who secretly converses with another man's wife, shall pay the first (or lowest) amercement.
 </details>

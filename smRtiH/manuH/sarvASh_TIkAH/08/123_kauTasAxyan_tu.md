@@ -3,6 +3,11 @@ title = "123 कौटसाक्ष्यन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	But a just king shall fine and banish (men of) the three (lower) castes (varna) who have given false evidence, but a Brahmana he shall (only) banish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall however fine and then banish the three castes giving false evidence; but the Brāhmaṇa he shall deprive of his clothes (and dwelling).—(123)
@@ -84,9 +89,4 @@ See Comparative notes for [Verse 8.118].
 <details><summary>भारुचिः</summary>
 
 [एकदानृतवादिनां दण्डाः पूर्वोक्ताः], अभ्यसतां तु कौटसाक्ष्यं त्रयाणां वर्णानां दण्डश् चायं यथाशास्त्रम् । प्रवासनं च मारणं शास्त्रान्तरे परिभाषितत्वाद्, इह च तदभ्यासान् निर्वासनम् एव [प्रतिपद्यते **ब्राह्मण]म् एव विवासयेत्** इति । गृहभङ्गेन चायोजयेद् इत्य् अर्थः । पूर्वस्मिंश् चार्थे प्रवासनशब्दस्य निर्वासनं ब्राह्मणस्यैव ॥ ९.१२४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	But a just king shall fine and banish (men of) the three (lower) castes (varna) who have given false evidence, but a Brahmana he shall (only) banish.
 </details>

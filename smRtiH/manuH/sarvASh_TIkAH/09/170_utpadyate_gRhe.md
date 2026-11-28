@@ -3,6 +3,11 @@ title = "170 उत्पद्यते गृहे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+170	If (a child) be born in a man's house and his father be not known, he is a son born secretly in the house (Gudhotpanna), and shall belong to him of whose wife he was born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a son is born in a man’s house, and it is not known whose he is,—this son ‘secretly born’ in the house shall belong to him of whose wife he is born.—(170)
@@ -59,9 +64,4 @@ son, who is born in the house of kinsmen secretly.’
 <details><summary>भारुचिः</summary>
 
 अविज्ञातबीजिनो मातृजातीयो गूढोत्पन्नो विज्ञेयः । तथा च व्यासदर्शनम् ॥ ९.१७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-170	If (a child) be born in a man's house and his father be not known, he is a son born secretly in the house (Gudhotpanna), and shall belong to him of whose wife he was born.
 </details>

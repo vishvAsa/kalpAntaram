@@ -3,6 +3,11 @@ title = "221 द्यूतं समाह्वयम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+221	Gambling and betting let the king exclude from his realm; those two vices cause the destruction of the kingdoms of princes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The King shall exclude from his realm Gambling and Betting; these two evils bring about the destruction of the kingdoms of princes.—(221)
@@ -56,9 +61,4 @@ shall arrange the gambling and pay the dues; and the interest he shall receive f
 <details><summary>भारुचिः</summary>
 
 येन,
-</details>
-
-<details><summary>Bühler</summary>
-
-221	Gambling and betting let the king exclude from his realm; those two vices cause the destruction of the kingdoms of princes.
 </details>

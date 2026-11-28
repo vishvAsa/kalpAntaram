@@ -3,6 +3,11 @@ title = "192 प्रायश्चित्तञ् चिकीर्षन
 
 +++
 
+<details><summary>Bühler</summary>
+
+193	Let him prescribe the same (expiation) when twice-born men, who follow forbidden occupations or have neglected (to learn) the Veda, desire to perform a penance.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When twice-born men, who follow improper occupations, or who are abandoned by the Veda, are desirous of performing expiations—for these also this same expiation is to be prescribed.—(192)
@@ -53,9 +58,4 @@ atonement for having committed an unlawful act, or for having neglected the stud
 <details><summary>भारुचिः</summary>
 
 अनधीतवेदा **विकर्मस्थाश्** च ये ऽधीतवेदा अपि तेषां अपीदं प्रायश्चित्तम् । यद् अस्य प्रतिषिद्धं तत् तस्य् विकर्म । यथा शूद्रसेवनम् आर्याणाम् ॥ ११.१९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	Let him prescribe the same (expiation) when twice-born men, who follow forbidden occupations or have neglected (to learn) the Veda, desire to perform a penance.
 </details>

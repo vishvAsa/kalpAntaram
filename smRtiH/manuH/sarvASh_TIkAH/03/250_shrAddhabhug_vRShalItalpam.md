@@ -2,6 +2,11 @@
 title = "250 श्राद्धभुग् वृषलीतल्पम्"
 +++
 
+<details><summary>Bühler</summary>
+
+250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having eaten at a Śrāddha, if one enters the bed of a woman on that day, his ancestors lie in her ordure for the whole of that month.—(250)
@@ -57,11 +62,6 @@ Veda, or enters the bed of a woman (the rest as in Manu).’
 <details><summary>गोविन्दराजः</summary>
 
 **श्राद्धभुग्** इति । आमन्त्रितस् तु यः श्राद्धे (इति) भोजनात् प्राक् ब्रह्मचर्यम् उक्तम् । अनेन तु तदुत्तरकालं तद् अहोरात्रम् उच्यते । **वृषली** च व्याख्याता । श्राद्धं भुक्त्वा यः तद् अहोरात्रं स्त्रीसंयोगं भजते तस्य तद्विष्ठायां **मासं पितरः **अवतिष्ठन्ते इत्य् अतश् च इयान् अस्या धर्मयोगो भवति ॥ ३.२५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
 </details>
 
 <details><summary>भारुचिः</summary>

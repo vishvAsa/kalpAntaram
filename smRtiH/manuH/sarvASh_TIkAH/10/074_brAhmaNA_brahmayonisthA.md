@@ -3,6 +3,11 @@ title = "074 ब्राह्मणा ब्रह्मयोनिस्थ
 
 +++
 
+<details><summary>Bühler</summary>
+
+074	Brahmanas who are intent on the means (of gaining union with) Brahman and firm in (discharging) their duties, shall live by duly performing the following six acts, (which are enumerated) in their (proper) order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Brāhmaṇas of pure Brāhmaṇa-birth, intent upon their duties, should duly perform the six acts in due order.—(74)
@@ -82,9 +87,4 @@ teach, to sacrifice for himself, to sacrifice for others, to give gifts and to r
 <details><summary>भारुचिः</summary>
 
 **ब्राह्मयोनिस्था** इत्य् एतत् स्वयम् एव विवृणोति- ये स्वकर्मस्व् अवस्थिताह् न वर्णान्तरकर्मसु, **ते सम्यग् उपजीवेयुः षट् कर्माणि** । तथा च वक्ष्यति "वैश्यवृत्तिम् अनातिष्ठन्" इत्य् एवमादि । **यथाक्रमम्** इति शास्त्रविहितेन क्रमेणानुपरिपाट्या आचारोपक्रमः । तेन तथा चैतिहासिकान् प्रवरान् श्रुतिक्रमाद् अधीत इत्य् एवमादिकर्ममात्रानुष्ठाने चोपजीवनशब्दो विज्ञेयः, आजीवनकर्मसंबन्धेन वा । तानि पुनः॥ १०.७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-074	Brahmanas who are intent on the means (of gaining union with) Brahman and firm in (discharging) their duties, shall live by duly performing the following six acts, (which are enumerated) in their (proper) order.
 </details>

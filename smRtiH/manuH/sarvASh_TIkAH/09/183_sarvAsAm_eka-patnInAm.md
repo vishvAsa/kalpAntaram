@@ -3,6 +3,11 @@ title = "183 सर्वासाम् एक-पत्नीनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+183	If among all the wives of one husband one have a son, Manu declares them all (to be) mothers of male children through that son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among all the wives of one man, if one have a son, Manu has declared all of them to be ‘with son,’ through that son.—(183)
@@ -46,9 +51,4 @@ one of them has male issue, that son shall offer the Ball of meal to them all.�
 <details><summary>भारुचिः</summary>
 
 इयं न नियोक्तव्येत्य् एतस्माद् गम्यते । न चैतयैकाकिन्या दत्तकादिपुत्रग्रहणं कार्यम् ॥ ९.१८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-183	If among all the wives of one husband one have a son, Manu declares them all (to be) mothers of male children through that son.
 </details>

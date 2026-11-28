@@ -3,6 +3,11 @@ title = "067 स महीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	That chief of royal sages who formerly possessed the whole world, caused a confusion of the castes (varna), his intellect being destroyed by lust.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In ancient times that chief of royal sages, possessing the whole world, brought about the confusion of castes, having his mind beset with lust.—(67)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 9.60].
 <details><summary>गोविन्दराजः</summary>
 
 **स** इति । स वेनः पूर्वं समग्रां पृथिवीं पालयन् तत एव राजर्षिश्रेष्ठो न तु धार्मिकः, ततो ब्राह्मणानुज्ञयैतद् भ्रातृभार्यागमनलक्षणं वर्णसङ्करं वर्तितवान् ॥ ९.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	That chief of royal sages who formerly possessed the whole world, caused a confusion of the castes (varna), his intellect being destroyed by lust.
 </details>

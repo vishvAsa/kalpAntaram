@@ -3,6 +3,11 @@ title = "218 राजान्नन् तेज"
 
 +++
 
+<details><summary>Bühler</summary>
+
+218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king’s food takes off one’s vigour and the Śūdra’s food his Brahmic glory; the goldsmith’s food his longevity, and the l eather-cutter’s food hi s fame.—(218)
@@ -59,9 +64,4 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 <details><summary>गोविन्दराजः</summary>
 
 **राजान्नम्** इति । **राजान्नं तेजो **नाशयति अत एव च राजान्नप्रतिषेधो बोद्धव्यः । “नाद्याच् छूद्रस्य पक्वान्नम्” (४.२२३) अधिकुलमित्रं वेति शूद्रान्नप्रतिषेधं वक्ष्यति, अतस् तदन्नं अध्ययनादिनिमित्तं तेजो ऽपहन्ति **सुवर्णकार**चर्मछेद्यन्ने आयुःख्याती हरत इति व्यतिक्रमफलकथनम् ॥ ४.२१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;
 </details>

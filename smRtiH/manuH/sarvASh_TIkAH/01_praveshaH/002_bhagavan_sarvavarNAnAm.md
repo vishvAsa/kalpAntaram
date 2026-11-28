@@ -2,6 +2,11 @@
 title = "002 भगवन् सर्ववर्णानाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+002	'Deign, divine one, to declare to us precisely and in due order the sacred laws of each of the (four chief) castes (varna) and of the intermediate ones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 May Thou, O blessed One, explain to us, in due form and in proper order, the duties of all castes and intermediate castes!—(2).
@@ -103,11 +108,6 @@ Medhātithi does not attach much importance to the account of creation here prov
 <details><summary>गोविन्दराजः</summary>
 
 **भगवन्** इति । स हि सर्वैश्वर्योपेतः **सर्वेषां वर्णानां** ब्राह्मणादीनां शूद्रपर्यन्तानां नः अस्माकम् एव द्विजातीनाम्, तथा ब्राह्मणक्षत्रियादिसङ्करजातानाम् अनुलोमप्रतिलोमानां यावत् कृत्स्नं कृत्वा **आनुपूर्व्यात्** निषेकादिक्रमेण **धर्मान्** अस्माकं **वक्तुं** योग्यो भवति ॥ १.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	'Deign, divine one, to declare to us precisely and in due order the sacred laws of each of the (four chief) castes (varna) and of the intermediate ones.
 </details>
 
 <details><summary>भारुचिः</summary>

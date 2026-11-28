@@ -2,6 +2,11 @@
 title = "150 ये स्तेन-पतित-क्लीबा"
 +++
 
+<details><summary>Bühler</summary>
+
+150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Manu has declared those Brāhmaṇas undeserving of (receiving) the offerings to gods and Pitṛs who are thieves, outcasts and eunuchs, as also those that have the behaviour of atheists.—(150)
@@ -94,11 +99,6 @@ dam-piercer, keeper of musical time, professional actor, teacher of false religi
 <details><summary>गोविन्दराजः</summary>
 
 **ये स्तेनाः पतिताः क्लीबा **इति । स्तेनादीन् विप्रान् हव्यकव्ययोर् उभयोर् अप्य् अयोग्यान् **मनुर्** आह । चोरान् ब्राह्मणसुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । **पतितम्** एकादशे वक्षयति सुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । पतितम् एकादशे वक्ष्यति क्लीबो नपुंसकम् । नास्ति परलोककर्मेत्य् एवं वर्तनं येषां ते **नास्तिकवृत्तयः** ॥ ३.१५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
 </details>
 
 <details><summary>भारुचिः</summary>

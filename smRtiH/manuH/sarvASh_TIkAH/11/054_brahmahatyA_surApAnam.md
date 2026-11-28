@@ -3,6 +3,11 @@ title = "054 ब्रह्महत्या सुरापानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Killing a Brahmana, drinking (the spirituous liquor called) Sura, stealing (the gold of a Brahmana), adultery with a Guru's wife, and associating with such (offenders), they declare (to be) mortal sins (mahapataka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Brāhmaṇa -slaying, wine-drinking, theft, intercourse with the Preceptor’s wife,—are called the ‘heinous offences,’ as also association with these.—(54)
@@ -75,9 +80,4 @@ gold), violators of Guru’s bed; these are the *Mahāpātakins*, as also one wh
 <details><summary>भारुचिः</summary>
 
 महपातकनिर्देशः संव्यवहारार्थः । महत्त्वशब्दश् च गुरुत्वसंविज्ञानर्थः सर्वपापेभ्य एतानि गुरूणि । एवं च सति व्यतिक्रममात्रं पातकम् । पातयतीति पातकम् इत्य् अस्मात् । एतानि पुनर् **महान्ति पातकानि** महान्ति सन्त्य् एतस्मात् परिहारे लग्नवान् भविष्यतीति पतितसंप्रयोगे च वक्ष्यति "संवत्सरेण पतति" इति । सुरापानं च [ब्राह्मणस्य] । यस्य यत् प्रतिषेद्धं तस्य तत् पातकम् । अन्यत् तु ब्रह्महत्यादि वर्ववर्णानां विज्ञेयम्, तत्प्रतिषेधात् । **स्तेयं** ब्राह्मणसुवर्णापहरणाख्यं पातकम्, नान्यत् । तथा च स्मृत्यन्तरम्, "ब्राह्मणसुवर्णापहरणे महापातकम्" इत्य् आपस्तम्बः ॥ ११.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Killing a Brahmana, drinking (the spirituous liquor called) Sura, stealing (the gold of a Brahmana), adultery with a Guru's wife, and associating with such (offenders), they declare (to be) mortal sins (mahapataka).
 </details>

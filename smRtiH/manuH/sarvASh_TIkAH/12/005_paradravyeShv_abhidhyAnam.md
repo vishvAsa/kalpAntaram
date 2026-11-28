@@ -3,6 +3,11 @@ title = "005 परद्रव्येष्व् अभिध्यानम
 
 +++
 
+<details><summary>Bühler</summary>
+
+005	Coveting the property of others, thinking in one's heart of what is undesirable, and adherence to false (doctrines), are the three kinds of (sinful) mental action.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Coveting the wealth or others, scheming in one’s mind about what is undesirable, adhering to a wrong notion,—these are the three forms of ‘mental action.’—(5)
@@ -83,9 +88,4 @@ This verse is quoted in *Madanapārijāta* (p. 692);—in *Aparārka* (p. 997);�
 <details><summary>भारुचिः</summary>
 
 परद्रव्यापहारबुद्धिः । अन्यस् त्व् आह- ममाप्य् एतत् स्याद् इत्य् एतत् **परद्रव्याभिध्यानम् ।** तच् चैतत् परिपेलवन् । **मनसानिष्टं** नाम प्राणिनां जिघांसा । वितथाभिनिवेशो धर्माध्यस्तित्वादिषु । तथा च व्यासः-
-</details>
-
-<details><summary>Bühler</summary>
-
-005	Coveting the property of others, thinking in one's heart of what is undesirable, and adherence to false (doctrines), are the three kinds of (sinful) mental action.
 </details>

@@ -3,6 +3,11 @@ title = "205 सर्वङ् कर्मेदम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+205	All undertakings (in) this (world) depend both on the ordering of fate and on human exertion; but among these two (the ways of) fate are unfathomable; in the case of man's work action is possible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All this undertaking is dependent upon the ordering of Destiny and of Human Exertion; of these two, Destiny is incomprehensible, and action is possible only in regard to Human Exertion.—(205)
@@ -216,9 +221,4 @@ during his previous lives, and Human Effort is what he does during the present l
 <details><summary>भारुचिः</summary>
 
 यत् तावन् मानुषं फलं तत्पुरुषकर्मायत्तम् एव कृष्यादयः । अपि च प्राप्यते दैवात् पुत्रजन्मादिफलम् । तद् अपि दृष्टद्वारम् एव । अतो दृष्टम् एवोपायम् आश्रित्य सर्वकार्ये प्रयतितव्यम् । न दैवपरमो भूत्वासीत निरीह इति ॥ ७.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	All undertakings (in) this (world) depend both on the ordering of fate and on human exertion; but among these two (the ways of) fate are unfathomable; in the case of man's work action is possible.
 </details>

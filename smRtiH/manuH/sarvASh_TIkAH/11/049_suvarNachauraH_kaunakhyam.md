@@ -3,6 +3,11 @@ title = "049 सुवर्णचौरः कौनख्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+049	He who steals the gold (of a Brahmana) has diseased nails; a drinker of (the spirituous liquor called) Sura, black teeth; the slayer of a Brahmana, consumption; the violator of a Guru's bed, a diseased skin;
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -11,9 +16,4 @@ title = "049 सुवर्णचौरः कौनख्यम्"
 <details><summary>गोविन्दराजः</summary>
 
 तथा च **सुवर्णचौर** इति । **पिशुन** इति । **धान्यचौरो** **ऽङ्गहीनत्वम् आतिरैक्यं तु मिश्रकः **। **अन्नन्नहरेति । एवम् **इति । ब्राह्मणः सुवर्णस्तेयः कुत्सितनखत्वं प्राप्नोति । निषिद्धसुरापानसुरापः श्यावदन्तत्वम् । ब्रह्महा क्षयव्याधियुक्तत्वम् । गुरुभार्यागो विकाशेन्द्रियत्वम् । परदोषाभिधायी दुर्गन्धिनासिकत्वम् । असद्दोषारोपकारो दुर्गन्धमुखत्वम् । धान्यचौरो ऽङ्गहीनत्वम् । धान्यादेर् अपरद्रव्यमिश्रयितातिरिक्ताङ्गत्वम् अन्नचौरो ऽजरान्नत्वम् । अननुज्ञातो ऽध्यायी वाग्विकलत्वम् । वस्त्रचौरः श्वित्रत्वम् । अश्वचौरः पादविअक्ल्यं प्राप्नोतीत्य् एवं बुद्धिवाक्चक्षुःश्रोत्रविकलाकृतरूपाश् च साधुविगर्हिताः । प्राग्जन्मार्जितमापगृहोपभुक्तदुष्कृतकर्मशेषेणोत्प्द्यन्ते ॥ ११.४८–५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-049	He who steals the gold (of a Brahmana) has diseased nails; a drinker of (the spirituous liquor called) Sura, black teeth; the slayer of a Brahmana, consumption; the violator of a Guru's bed, a diseased skin;
 </details>

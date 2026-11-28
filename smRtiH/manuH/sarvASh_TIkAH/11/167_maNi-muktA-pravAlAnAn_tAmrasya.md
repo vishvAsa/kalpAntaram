@@ -3,6 +3,11 @@ title = "167 मणि-मुक्ता-प्रवालानान् त�
 
 +++
 
+<details><summary>Bühler</summary>
+
+168	To subsist during twelve days on (uncooked) grains (is the penance for stealing) gems, pearls, coral, copper, silver, iron, brass, or stone.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of the stealing of gems, pearls, corals, copper, silver, iron, bronze and stone, one should subsist, for twelve days, on pieces of grain.—(167)
@@ -44,9 +49,4 @@ silver, iron or white copper,—one must eat grain separated from the husk for t
 <details><summary>भारुचिः</summary>
 
 अत्रापि सारासारापेक्षया सकृद् धरणे आवृत्तौ च ॥ ११.१६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-168	To subsist during twelve days on (uncooked) grains (is the penance for stealing) gems, pearls, coral, copper, silver, iron, brass, or stone.
 </details>

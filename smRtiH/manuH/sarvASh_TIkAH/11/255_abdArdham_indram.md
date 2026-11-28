@@ -3,6 +3,11 @@ title = "255 अब्दार्धम् इन्द्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+256	A grievous offender shall mutter the seven verses (beginning with) 'Indra,' for half a year; but he who has committed any blamable act in water, shall subsist during a month on food obtained by begging.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An offender shall recite, for half the year, the seven verses beginning with ‘Indram’; but he who has committed a reprehensible act in water shall subsist, for one month, on alms.—(255)
@@ -46,9 +51,4 @@ The second half of this verse is quoted in *Mitākṣarā* (3.307) as referring 
 <details><summary>भारुचिः</summary>
 
 **अब्दार्धं** षण्मासात् "इन्द्रम् इद्गाथिन्दो बृहद्" इत्य् एतत् **सप्तकं जपेद्** अविसेषात् सर्वस्मिन्न् एनसि । **अप्रशस्तं तु कृत्वाप्सु** मैथुनं मासं न्भैक्षाहारस् तिष्ठेत् ॥ ११.२५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	A grievous offender shall mutter the seven verses (beginning with) 'Indra,' for half a year; but he who has committed any blamable act in water, shall subsist during a month on food obtained by begging.
 </details>

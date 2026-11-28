@@ -3,6 +3,11 @@ title = "031 न ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+031	A Brahmana who knows the law need not bring any (offence) to the notice of the king; by his own power alone be can punish those men who injure him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa conversant with the Law shall not complain to the King; by his own power alone he shall punish the men that injure him.—(31)
@@ -82,9 +87,4 @@ have befallen him by the strength of his arms; the Vaiśya and the Śūdra by th
 > **स्ववीर्येणैव ताञ् छिष्यान् मानवान् अपकारिणः  ॥ ११.३० ॥**
 
 येन,
-</details>
-
-<details><summary>Bühler</summary>
-
-031	A Brahmana who knows the law need not bring any (offence) to the notice of the king; by his own power alone be can punish those men who injure him.
 </details>

@@ -2,6 +2,11 @@
 title = "154 यक्ष्मी च"
 +++
 
+<details><summary>Bühler</summary>
+
+154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The invalid, the cattle-tender, one who has superseded h is elder brother, he who neglects the Great Sacrifices, one who is inimical to Brāhmaṇas, he who has been superseded by his younger brother, and one who is member of a company.—(154)
@@ -91,11 +96,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **यक्ष्मीति** । क्षयी वृत्त्यर्थत्वेन पशुपालः प्रसिद्धः, परिवेत्तृपरिवित्ती च वक्ष्यमाणौ । **निराकृतिः** वेदादीनां निराकर्ता अनुपजीव्यः, ब्राह्मणानां द्वेष्टा गण्मध्यगतो ब्राह्मणादिभिः इत्य् एते हव्यकव्ययोः वर्ज्याः स्युः ॥ ३.१५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,
 </details>
 
 <details><summary>भारुचिः</summary>

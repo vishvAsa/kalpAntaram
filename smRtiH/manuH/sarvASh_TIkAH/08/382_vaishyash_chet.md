@@ -3,6 +3,11 @@ title = "382 वैश्यश् चेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+382	If a Vaisya approaches a guarded female of the Kshatriya caste, or a Kshatriya a (guarded) Vaisya woman, they both deserve the same punishment as in the case of an unguarded Brahmana female.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Vaiśya approaches a protected Kṣatriya woman, or the Kṣatriya a Vaiśya woman,—both these deserve the same punishment as that in the case of an unprotected Brāhmaṇa woman.—(382)
@@ -90,9 +95,4 @@ and [374-378].\]
 <details><summary>भारुचिः</summary>
 
 "वैश्यं पञ्चसतं कुर्यात्" इत्य् एवमाद्य् अगुप्तायां ब्राह्मण्याम् उक्तम् ॥ ८.३८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-382	If a Vaisya approaches a guarded female of the Kshatriya caste, or a Kshatriya a (guarded) Vaisya woman, they both deserve the same punishment as in the case of an unguarded Brahmana female.
 </details>

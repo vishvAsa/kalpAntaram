@@ -3,6 +3,11 @@ title = "130 पञ्चाशद्भाग आदेयो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+130	A fiftieth part of (the increments on) cattle and gold may be taken by the king, and the eighth, sixth, or twelfth part of the crops.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of cattle and gold the fiftieth part shall be taken by the King; and in the case of grains, the eighth, sixth or twelfth part.—(130)
@@ -68,9 +73,4 @@ rates after deducting the expenses incurred:—Half of gold, one-third of silver
 <details><summary>भारुचिः</summary>
 
 मूल्याधिकयोः पशुहिरण्ययोः **पञ्चाशद्भागो** ग्राह्यः । धान्यानां भागविशेषः सुकरापक्षया कल्प्यः ॥ ७.१३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-130	A fiftieth part of (the increments on) cattle and gold may be taken by the king, and the eighth, sixth, or twelfth part of the crops.
 </details>

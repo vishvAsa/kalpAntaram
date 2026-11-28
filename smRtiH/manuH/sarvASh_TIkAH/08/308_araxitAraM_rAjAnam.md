@@ -3,6 +3,11 @@ title = "308 अरक्षितारं राजानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+308	They declare that a king who affords no protection, (yet) receives the sixth part of the produce, takes upon himself all the foulness of his whole people.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who affords no protection and devours the people, grabbing his tribute of the sixth part of the produce,—him they declare to be the imbiber of the filth of the whole people.—(308)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 8.308].
 <details><summary>गोविन्दराजः</summary>
 
 **अरक्षितारम्** इति । यो राजा न रक्षति अन्यच् च दान्यादिषड्भागं बलिरूपं गृह्णाति तं सकललोकसम्बन्धिसर्वपापस्वीकारिणं मन्वाद्या आहुः ॥ ८.३०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-308	They declare that a king who affords no protection, (yet) receives the sixth part of the produce, takes upon himself all the foulness of his whole people.
 </details>

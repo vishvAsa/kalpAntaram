@@ -2,6 +2,11 @@
 title = "028 यज्ञे तु"
 +++
 
+<details><summary>Bühler</summary>
+
+028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 While a sacrifice is being performed, if one gives away his daughter, after having decked her, to the priest who is officiating at it,—this they call the “Daiva” form.—(28).
@@ -76,11 +81,6 @@ the altar, to the bridegroom after having presented to him a pair (of cow and bu
 <details><summary>गोविन्दराजः</summary>
 
 **यज्ञ** इति । ज्योतिष्टोमादियागे प्रारब्धे अर्थवहर्त्विज प्रचरति यद् **अलङ्कृत्य** कन्यादानं क्रियते तं **दैवं** विवाहं मन्वादय आचक्षते ॥ ३.२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
 </details>
 
 <details><summary>भारुचिः</summary>

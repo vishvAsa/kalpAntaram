@@ -3,6 +3,11 @@ title = "218 एष धर्मो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+218	Thus the law for the non-payment of wages has been completely stated; I will next explain the law concerning men who break an agreement.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the entire law bearing upon the action of ‘Non-payment of Wages’ been explained. After this I am going to expound the law relating to Contract-breakers.—(218)
@@ -47,9 +52,4 @@ The first half of the verse sums up the foregoing section and the latter introdu
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ८.२१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-218	Thus the law for the non-payment of wages has been completely stated; I will next explain the law concerning men who break an agreement.
 </details>

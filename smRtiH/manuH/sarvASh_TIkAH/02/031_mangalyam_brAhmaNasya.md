@@ -2,6 +2,11 @@
 title = "031 मङ्गल्यम् ब्राह्मणस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The name of the Brāhmaṇa should be auspicious, that of the Kṣatriya connected with power, that of the Vaiśya associated with wealth; while that of the Śūdra contemptible.—(31)
@@ -160,11 +165,6 @@ letter or two letters or three letters or four letters, or of letters without li
 _इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_
 
 तच् च **माङ्गल्यं ब्राह्मणस्येति** । मङ्गलबलधननिन्दाप्रतिपादकानि एषां यथाक्रमं भद्रशक्तिधनदीनकादीनि नामानि स्युः ॥ २.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
 </details>
 
 <details><summary>भारुचिः</summary>

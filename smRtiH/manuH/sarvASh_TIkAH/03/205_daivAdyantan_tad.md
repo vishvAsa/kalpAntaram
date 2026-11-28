@@ -2,6 +2,11 @@
 title = "205 दैवाद्यन्तन् तद्"
 +++
 
+<details><summary>Bühler</summary>
+
+205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should first engage the Brāhmaṇa in honour of the gods, as a protection to these (offerings to) Pitṛs; for the Rākṣasas take away the śrāddha that is devoid of protection.—(204)
@@ -89,11 +94,6 @@ preceded by the offering to the Viśvedevas.’
 <details><summary>गोविन्दराजः</summary>
 
 **दैवाद्यन्तम्** इति । **पित्राद्यन्तं त्व् ईहमानः क्षिप्रं नश्यति सान्वय **इति । ततः श्राद्धं दैवादि दैवान्तं चानुतिष्ठेत । न च पित्र्योपक्रमापवर्गं **पित्राद्यन्तं **तद् अनुतिष्ठन् ससन्तानम् आशु विनश्यतीति ॥ ३.२०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.
 </details>
 
 <details><summary>भारुचिः</summary>

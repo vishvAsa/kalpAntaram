@@ -3,6 +3,11 @@ title = "037 विद्वांस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+037	When a learned Brahmana has found treasure, deposited in former (times), he may take even the whole (of it); for he is master of everything.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A learned Brāhmaṇa, having found treasure buried by his forefathers, shall take it wholly; as he is the master of everything.—(37)
@@ -94,9 +99,4 @@ take it all to himself.’
 <details><summary>भारुचिः</summary>
 
 एवं च सति ऽममायम्" इत्य् अस्मिन् पूर्वविधाव् अब्राह्मणविषयं भागस्य विकल्पेन ग्रहणम् । अविद्वद्ब्राह्मणविषयं वा ॥ ८.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	When a learned Brahmana has found treasure, deposited in former (times), he may take even the whole (of it); for he is master of everything.
 </details>

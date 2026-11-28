@@ -3,6 +3,11 @@ title = "214 दत्तस्यैषोदिता धर्म्या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+214	Thus the lawful subtraction of a gift has been fully explained; I will next propound (the law for) the non-payment of wages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been fully explained the lawful non-misappropriation of gifts; after this I am going to describe the ‘non-misappropriation of Wages.’—(214)
@@ -50,9 +55,4 @@ Such a question should not be raised. Since the right and lawful course in the c
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ८.२१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-214	Thus the lawful subtraction of a gift has been fully explained; I will next propound (the law for) the non-payment of wages.
 </details>

@@ -3,6 +3,11 @@ title = "151 अध्यापयाम् आस"
 
 +++
 
+<details><summary>Bühler</summary>
+
+151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The child Kavi, the son of Aṅgiras, taught his fathers; and having received and trained them by knowledge, he called them “little sons.”—(151)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 2.150].
 <details><summary>कुल्लूकः</summary>
 
 अङ्गिरसः पुत्रो बालःकविर्विद्वान् पितृृन्गौणान पितृव्यतत्पुत्रादीनधिकवयसोऽध्यापितवान् । ताञ्ज्ञानेन परिगृह्य शिष्यान्कृत्वा पुत्रका इति आजुहाव । 'इति ह' इत्यव्ययं दुरावृत्तसूचनार्थम् ॥१५१॥
-</details>
-
-<details><summary>Bühler</summary>
-
-151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'
 </details>

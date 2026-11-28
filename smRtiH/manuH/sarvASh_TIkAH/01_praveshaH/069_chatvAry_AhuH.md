@@ -3,6 +3,11 @@ title = "069 चत्वार्य् आहुः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+069	They declare that the Krita age (consists of) four thousand years (of the gods); the twilight preceding it consists of as many hundreds, and the twilight following it of the same number.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They say that four thousnd ‘years’ are what is the ‘Kṛta-cycle’; as many hundred ‘years’ form the ‘Juncture’ (Morning); and of equal measure is the ‘Juncture-end’ (Evening).—(69)
@@ -64,9 +69,4 @@ read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding Twi
 <details><summary>गोविन्दराजः</summary>
 
 **चत्वारीति **। दैविकानाम् अनन्तरप्रस्तुतत्वात्, पुराणे च दिव्येनैव प्रमाणेन युगसङ्ख्या प्रकीर्तितेति दर्शनात्, दैविकानि **चत्वारि **वर्षसहस्राणि **कृतयुगं नाम कालम् आहुर् **मन्वादय्ः । तस्य च तावन्त्य् एव **वर्षशतानि सन्ध्या **अतीतागामियुग्धर्मानुवर्तनं सन्ध्यांशे ऽतीतयुगधर्माणां ईषदनुवृत्तिः आगामियुगधर्मबाहुल्यं चत्वार्य् एव शतानि च ॥ १.६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-069	They declare that the Krita age (consists of) four thousand years (of the gods); the twilight preceding it consists of as many hundreds, and the twilight following it of the same number.
 </details>

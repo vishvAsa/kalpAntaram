@@ -3,6 +3,11 @@ title = "123 एकं वृषभम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	(Then the son) born of the first wife shall take as his additional share one (most excellent) bull; the next best bulls (shall belong) to those (who are) inferior on account of their mothers.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘In case the younger son is born of the elder wife, and the elder one of the younger wife,—how would the partition be made?’—If such a doubt arises,—the son born of the elder wife shall take one bull as his ‘preferential share;’ the other bulls, which are not so good, shall belong to those who are junior to him, on account of the position of their mothers.—(122-123)
@@ -69,9 +74,4 @@ other than that of the father, seniority is determined by their moral character;
 <details><summary>भारुचिः</summary>
 
 पूर्वस्यां जातः **पूर्वजः** कनीयान् उच्यते न पूर्वजातः । एवं च सत्य् एतद् अत्र समञ्जसं ज्येष्ठग्रहणं भवति । ततो ऽपि **अज्येष्ठ**[**वृषा** एकशः] **तदूनानाम्** । तस्माद् ऊनास् तदूनाः न व्यस्तः, किं तर्हि स्वमातृतः । तथा च सति मातृतो ज्यैष्ठ्यम् अत्र पुत्राणाम्, न जन्मतः॥ ९.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	(Then the son) born of the first wife shall take as his additional share one (most excellent) bull; the next best bulls (shall belong) to those (who are) inferior on account of their mothers.
 </details>

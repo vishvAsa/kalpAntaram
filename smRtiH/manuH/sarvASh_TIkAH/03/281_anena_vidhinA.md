@@ -2,6 +2,11 @@
 title = "281 अनेन विधिना"
 +++
 
+<details><summary>Bühler</summary>
+
+281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In accordance with this rule, one should offer Śrāddha thrice in the year—during winter, summer and the rain; and that which forms part of the “five sacrifices” should be done every day.—(281)
@@ -38,11 +43,6 @@ This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kā
 <details><summary>गोविन्दराजः</summary>
 
 **अनेनेति** । **अनेन **उक्तविधानेन संवत्सरस्य मध्ये त्रीन् वारान् हेमन्तग्रीष्मवर्षासु श्राद्धं कुर्वीत । पञ्चयज्ञमहायज्ञमध्यभवं पुनः प्रत्यहं कुर्वीत ॥ ३.२८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
 </details>
 
 <details><summary>भारुचिः</summary>

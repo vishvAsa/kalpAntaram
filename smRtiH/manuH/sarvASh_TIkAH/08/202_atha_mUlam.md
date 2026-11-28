@@ -3,6 +3,11 @@ title = "202 अथ मूलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+202	If the original (seller) be not producible, (the buyer) being exculpated by a public sale, must be dismissed by the king without punishment, but (the former owner) who lost the chattel shall receive it (back from the buyer).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the source cannot be traced, the person (buyer), whose conduct has been cleared by the fact of the sale being public, is let off without punishment, but the man who lost the property shall receive it back.—(202)
@@ -77,9 +82,4 @@ price openly.’
 <details><summary>भारुचिः</summary>
 
 अभियोगकाले च तस्य यदि मूल्यम् आहर्तुं शक्यं [न] स्यात् विक्रेतुर् अभावात्, अतस् तस्य प्रकाशक्रयेण शुद्धस्यादण्डत्वं युक्तम् । अपि च देशान्तराद् आगतैः पापकारिभिः निःशङ्कं राजसंनिधाव् अप्रविकाशं विक्रियते द्रव्यम्, तत्र च यदि मूल्यस्यानाहार्यत्वात् प्रकाशक्रयशुद्धे विक्रये क्रेतुर् दोषः स्यात्, एवं च सति राज्ञः सर्वदिक्को व्यवहारः साधूनाम् अपि विच्छिद्येत । न चैतद् इष्टम् । अतः क्रेतुर्न् अत्र नास्ति दोषः । नाष्टिकस् तु कारणतः स्वम् अर्थं प्रज्ञापयन् कथम् इव न लभते स्वधनम्- अतस् तस्य धनलाभो युक्तः । इतरस्य चादोषत्वाद् अदण्ड्यत्वं युक्तम् । अस्वामिविक्रयव्यवहारसाधर्म्यात् तत्प्रकरणम् एवायम् उच्यते ॥ ८.२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-202	If the original (seller) be not producible, (the buyer) being exculpated by a public sale, must be dismissed by the king without punishment, but (the former owner) who lost the chattel shall receive it (back from the buyer).
 </details>

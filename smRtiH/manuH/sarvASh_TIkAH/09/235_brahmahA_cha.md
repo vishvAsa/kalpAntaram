@@ -3,6 +3,11 @@ title = "235 ब्रह्महा च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+235	The slayer of a Brahmana, (A twice-born man) who drinks (the spirituous liquor called) Sura, he who steals (the gold of a Brahmana), and he who violates a Guru's bed, must each and all be considered as men who committed mortal sins (mahapataka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The slayer of a Brāhmaṇa, the drinker of wine, the thief and the violator of the preceptor’s bed,—all these individually should be known as men who have committed heinous crimes.—(235)
@@ -79,9 +84,4 @@ capital offences,—violating the Guru’s bed, drinking wine, stealing gold, an
 > एतान् विद्यात् पृथक् सर्वान् महापातकिनो नरान् ॥
 
 अत्र पातकसंबन्धात् सुवर्णस्तेयकृत् तस्करो गृह्यते । ब्रह्महत्यायां सर्वेषां व्यतिक्रमः । सुरायां मधुरामद्यपाने च विशेषं वर्णाश्रयं वक्ष्यामः । चौर्ये च सर्ववर्णाधिकारः । स गुरुतल्पे ॥ ९.२३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-235	The slayer of a Brahmana, (A twice-born man) who drinks (the spirituous liquor called) Sura, he who steals (the gold of a Brahmana), and he who violates a Guru's bed, must each and all be considered as men who committed mortal sins (mahapataka).
 </details>

@@ -3,6 +3,11 @@ title = "152 सर्वं वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+152	Or let him who knows the law make ten shares of the whole estate, and justly distribute them according to the following rule:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man knowing the law shall divide the entire estate into ten parts, and then make an equitable division according to the following rule.—(152)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 9.149].
 <details><summary>भारुचिः</summary>
 
 धर्म्यवचनाद् अत्र सर्वेषु यथोक्तकारिष्व् अयं विभागः । सो ऽयम् उच्यते ॥ ९.१५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-152	Or let him who knows the law make ten shares of the whole estate, and justly distribute them according to the following rule:
 </details>

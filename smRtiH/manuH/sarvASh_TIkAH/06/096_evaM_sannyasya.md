@@ -3,6 +3,11 @@ title = "096 एवं सन्न्यस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	He who has thus given up (the performance of) all rites, who is solely intent on his own (particular) object, (and) free from desires, destroys his guilt by his renunciation and obtains the highest state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus renounced all rites, intent upon his own duty, free from longings, he destroys sin by his renunciation and attains the highest state.—(96).
@@ -33,9 +38,4 @@ Having thus renounced all rites, intent upon his own duty, free from longings, h
 <details><summary>भारुचिः</summary>
 
 फलार्थवादो ऽयम्, फलविधिर् वा ॥ ६.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	He who has thus given up (the performance of) all rites, who is solely intent on his own (particular) object, (and) free from desires, destroys his guilt by his renunciation and obtains the highest state.
 </details>

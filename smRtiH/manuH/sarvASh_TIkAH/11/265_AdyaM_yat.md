@@ -3,6 +3,11 @@ title = "265 आद्यं यत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+266	The initial triliteral Brahman on which the threefold (sacred science) is based, is another triple Veda which must be kept secret; he who knows that, (is called) learned in the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That primeval tri-syllablic brahman, in which bests the Vedic Triad, is the other and esoteric ‘Threefold Veda’; he who knows this is ‘learned in the Vedas.’—(265)
@@ -68,9 +73,4 @@ End of Discourse XI.
 यत् त्र्यक्षरं ब्रह्म वर्णत्रयसमुदाय ॐकारः । यस् तं वेद स वेदवित् । तथा च ब्राह्मणम्, "[तद्] यथा शङ्कुना सर्वाणि पर्णानि" इत्य् एवमादि । तस्य चोपासना पुरस्ताद् उक्तेति । तथा च ब्राह्मनम्- "ओम् इत्य् एतद् अक्षरम् उद्गीथम् पासीत" इति ॥ ११.२६२ ॥
 
 **इति भारुचेः कृतौ मनुशास्त्रविवरण एकादशो ऽध्यायः ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-266	The initial triliteral Brahman on which the threefold (sacred science) is based, is another triple Veda which must be kept secret; he who knows that, (is called) learned in the Veda.
 </details>

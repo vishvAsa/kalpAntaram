@@ -3,6 +3,11 @@ title = "066 अनार्यायां समुत्पन्नो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	If (a doubt) should arise, with whom the preeminence (is, whether) with him whom an Aryan by chance begot on a non-Aryan female, or (with the son) of a Brahmana woman by a non-Aryan,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (question).—If a child is somehow born to a Brāhmaṇa from a non-Aryan woman, and another is born to a non-Aryan from a Brāhmaṇa woman,—with which of these would the ‘superiority’ lie?—(66)
@@ -60,9 +65,4 @@ seq*.\]]
 <details><summary>भारुचिः</summary>
 
 अनार्यतो वा ब्राह्मण्यां स्रेयस्ताम् अनार्यायां शूद्रायां समुत्पन्नो ब्राह्मणात् तु **यदृच्छया** अप्य् अनूढायां किं पुनर् ऊढायाम् । यथा न गर्ह्यत्वं प्रशस्तश् च केवलशूद्रवैश्यक्षत्रियजातेभ्यो भवति, एवं ब्राह्मण्यां अप्य् अनार्याच् छूद्राज् जातस्यागर्ह्यत्वं पारशववत् प्राप्नोति, क्षेत्रप्राधान्यात्, स्रेयस्त्वं चास्य क्षत्रियावैश्यजाताभ्यां प्राप्नोति क्षेत्रसामर्थ्यात् । तथा च क्षेत्रजाताः सुता उपदिष्टाः शास्त्रत इति बीजप्राधान्याक्षेपाभिप्रायो ऽयं श्लोको वेदितव्यः । न संशयप्रश्नाख्यः । यथा न केचिद् आहुः । क्वचिद् बीजं क्वचिद् योनिर् इति बीजयोन्योः प्राधान्यानवस्थानात् संमोह इव जायत इति । एवं च सति बीजप्राधान्यप्रकरणम् अनुगृहीतं भवति । अस्योत्तरम् ॥ १०.६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-066	If (a doubt) should arise, with whom the preeminence (is, whether) with him whom an Aryan by chance begot on a non-Aryan female, or (with the son) of a Brahmana woman by a non-Aryan,
 </details>

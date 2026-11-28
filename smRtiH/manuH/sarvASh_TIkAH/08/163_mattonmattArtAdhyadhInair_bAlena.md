@@ -3,6 +3,11 @@ title = "163 मत्तोन्मत्तार्ताध्यधीन�
 
 +++
 
+<details><summary>Bühler</summary>
+
+163	A contract made by a person intoxicated, or insane, or grievously disordered (by disease and so forth), or wholly dependent, by an infant or very aged man, or by an unauthorised (party) is invalid.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A transaction is not valid when effected by one who is drunk, or insane, or distressed, or wholly dependent, or minor, or senile, or unauthorised—(163)
@@ -364,9 +369,4 @@ infant, one who has absconded through fear of the King, a bashful person, or one
 <details><summary>भारुचिः</summary>
 
 धर्मव्यवहारा एव मत्तादिभिः कृता न सिध्यन्ति । न केवलं प्रकरणाद् ऋणव्यवहारः । अमत्तादिभिर् अपि प्रयुज्यमानाः सर्वव्यवहारेषु ॥ ८.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-163	A contract made by a person intoxicated, or insane, or grievously disordered (by disease and so forth), or wholly dependent, by an infant or very aged man, or by an unauthorised (party) is invalid.
 </details>

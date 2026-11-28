@@ -3,6 +3,11 @@ title = "362 नैष चारणदारेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+362	This rule does not apply to the wives of actors and singers, nor (of) those who live on (the intrigues of) their own (wives); for such men send their wives (to others) or, concealing themselves, allow them to hold criminal intercourse.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This rule does not apply to the case of the wives of dancers and singers, or of those who make a living of themselves; for these men secretly bring their women into contact (with other men), and tempt them on.—(362)
@@ -93,9 +98,4 @@ twenty-four *Paṇas*.’
 <details><summary>भारुचिः</summary>
 
 संभाषणानुज्ञानं चैवैतत्, नोपगमनस्य । यतो ऽत्र राजदण्डाभावमात्रम्, न त्व् अत्यन्तम् अदृष्टदोषाभावः । यतः ईषद्दोषस् तूपगन्तुः स्याद् इति । यतः नायं पूर्वप्रतिषेधविषयः । यस्माद् अपरैषा वेशजातिः । एवं च कारणाद् ऋते ऽप्य् आभिः सह संभाषमाणे न संग्रहणं प्राप्नुयात् ॥ ८.३६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-362	This rule does not apply to the wives of actors and singers, nor (of) those who live on (the intrigues of) their own (wives); for such men send their wives (to others) or, concealing themselves, allow them to hold criminal intercourse.
 </details>

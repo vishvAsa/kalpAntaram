@@ -2,6 +2,11 @@
 title = "213 अक्रोधनान् सु-प्रसादान्"
 +++
 
+<details><summary>Bühler</summary>
+
+213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ancients describe these good Brāhmaṇas as the “Gods of Śrāddha,” free from anger, easily satisfied, intent upon sustaining the universe.—(213).
@@ -70,11 +75,6 @@ persons as are free from anger, not fickle, tolerant, self-controlled, with sens
 <details><summary>गोविन्दराजः</summary>
 
 **अक्रोधनान् ** इति । **अक्रोधनान्** क्रोधशून्यान् स्वाराधनादीन् “अग्नौ प्रास्ताहुतिर्” इति न्यायेन लोकवृद्ध्युपादानात् श्राद्धसम्प्रदानभूतान् एतान् ब्राह्मणान् मन्वादयो वदन्ति । तस्मात् देवतुल्यत्वात् तद्धस्ते पूर्वविध्यर्थवादः ॥ ३.२१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
 </details>
 
 <details><summary>भारुचिः</summary>

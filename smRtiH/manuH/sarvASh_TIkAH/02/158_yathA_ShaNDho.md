@@ -2,6 +2,11 @@
 title = "158 यथा षण्ढो"
 +++
 
+<details><summary>Bühler</summary>
+
+158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As the eunuch is useless among women, as the cow is useless among cows, as a gift to the ignorant person is useless, even so is the Bbrāhmaṇa useless who is devoid of the Veda.—(158)
@@ -50,11 +55,6 @@ without wings, so is the Brāhmaṇa devoid of *Mantras*.’
 <details><summary>गोविन्दराजः</summary>
 
 **यथा षण्ढ** इति । यथा नपुंसकं **स्त्रीषु **गच्छन्न् अपि (गच्छद् अपि) अपत्यशून्यं यथा च स्त्रीगौः स्त्रीगवि गमनाभावाद् अपत्यफलशून्या यथा **चाज्ञे निष्फलं दानं तथा **वेदरहितो ब्राह्मणः अफलः परमात्मनो दृष्टादृष्टानुपकारित्वात् ॥ २.१५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "011 यज्ञश् चेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+011	If a sacrifice, (offered) by (any twice-born) sacrificer, (and) especially by a Brahmana, must remain incomplete through (the want of) one requisite, while a righteous king rules,
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -24,9 +29,4 @@ title = "011 यज्ञश् चेत्"
 एतद् उपदिष्यते परादानम् ।  
 कुतः पुनस् तद् इति,  
 यतस् तद् आह ॥ ११.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	If a sacrifice, (offered) by (any twice-born) sacrificer, (and) especially by a Brahmana, must remain incomplete through (the want of) one requisite, while a righteous king rules,
 </details>

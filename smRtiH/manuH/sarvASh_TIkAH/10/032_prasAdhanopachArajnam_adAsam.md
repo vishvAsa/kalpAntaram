@@ -3,6 +3,11 @@ title = "032 प्रसाधनोपचारज्ञम् अदासम
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	A Dasyu begets on an Ayogava (woman) a Sairandhra, who is skilled in adorning and attending (his master), who, (though) not a slave, lives like a slave, (or) subsists by snaring (animals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Dasyu’ begets on the ‘Āyogava,’ the ‘Sairandhra,’ skilled in toilet and attendance, who, though not a slave, makes his living like a slave, and also lives by catching animals.—(32)
@@ -86,9 +91,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 **प्रसाधनोपचारज्ञम्** इति, वृत्त्युपदेशः । अदासस् सन् दास्यजीवनः । प्रसाधनोपचरज्ञतया । परमतजीवी यस्मात् । सैरन्ध्रम् इति वर्णनामेदम् । अन्यस् त्व् आह, ग्रन्थिकारः सैरन्द्रः द्रौपदीदर्शनात् । **वागुरावृत्तित्वम्** आरण्यपसुहिंसनाख्यं युक्तम् आर्याणां देवपित्रर्थम् औषधार्थं च । प्राणयात्रामात्रार्थं वा पुत्रदारात्ययम् प्राप्तस्य ॥ १०.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	A Dasyu begets on an Ayogava (woman) a Sairandhra, who is skilled in adorning and attending (his master), who, (though) not a slave, lives like a slave, (or) subsists by snaring (animals).
 </details>

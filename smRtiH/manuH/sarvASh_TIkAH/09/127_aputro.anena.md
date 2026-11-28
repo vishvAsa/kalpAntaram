@@ -3,6 +3,11 @@ title = "127 अपुत्रो ऽनेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	He who has no son may make his daughter in the following manner an appointed daughter (putrika, saying to her husband), 'The (male) child, born of her, shall perform my funeral rites.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who has no son may make his daughter an ‘appointed daughter’ in the following manner: [He shall mark the declaration]—‘The child that may bk born of her shall be the performer of my funeral rites’.—(127)
@@ -110,9 +115,4 @@ property.
 <details><summary>भारुचिः</summary>
 
 यथैवौरसाभावे क्षेत्रजाद्यभिधानं दायविभागप्रकरणे ऽंशप्राप्त्यर्थं तथैव पुत्रिकापुत्रविधानं विज्ञेयम् । अपुत्रस्यैवैतत् स्यात् पुत्रिकापुत्रविधानम् । अनया संविदा "यद् अपत्यं भवेद् अस्यां तन् मम स्यात् स्वधाकरम्" पिण्डोदकप्रदम् इत्य् अर्थः । अस्यार्थवादः परकृतिरूप उदाह्रियते ॥ ९.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	He who has no son may make his daughter in the following manner an appointed daughter (putrika, saying to her husband), 'The (male) child, born of her, shall perform my funeral rites.'
 </details>

@@ -3,6 +3,11 @@ title = "212 क्षेम्यां सस्यप्रदाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+212	Let the king, without hesitation, quit for his own sake even a country (which is) salubrious, fertile, and causing an increase of cattle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though the land (occupied by him) be safe, fertile and conducive to the increase of cattle, yet he shall quit it,—not minding his own selfish interests.—(212)
@@ -48,9 +53,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 412).
 <details><summary>भारुचिः</summary>
 
 यदा तु विजिगीषुर् यद् ईदृशपराभियोगाद् आपद्यात् उदासीनसंश्रयेणारेस् तदा **क्षेम्यां सस्यप्रदाम्** अपि **नित्यं पशुवृद्धिकरीम् अपि परित्यजेन् नृपो भूमिम्** इत्तंभूताम् अपि सतीम्, येन राजधर्मेष्व् एवं स्मर्यते ॥ ७.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	Let the king, without hesitation, quit for his own sake even a country (which is) salubrious, fertile, and causing an increase of cattle.
 </details>

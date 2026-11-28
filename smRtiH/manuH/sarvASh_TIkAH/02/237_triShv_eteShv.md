@@ -2,6 +2,11 @@
 title = "237 त्रिष्व् एतेष्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All that ought to be done by man is finished on these three; this is the highest direct duty; every other is a subordinate duty.—(237)
@@ -38,11 +43,6 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95).
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिष्व्** इति । यस्मान् मात्रादिष्व् आराधितेषु यावत् किञ्चिद् यागादिकर्तव्यं तत् सर्वं **पुरुषस्य **परिपूर्णं भवति । यस्माद् **एष साक्षात् **प्रकृष्टो **धमः **अग्निहोत्रादिः गौण इति मन्वादिभिर् **उच्यते** इति प्रकृतविध्यर्थवादः ॥ २.२३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
 </details>
 
 <details><summary>भारुचिः</summary>

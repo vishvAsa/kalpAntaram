@@ -3,6 +3,11 @@ title = "092 शूनाञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should gently place on the ground food for dogs, outcasts, Cāṇḍālas, persons afflicted with filthy diseases, birds and insects.—(92)
@@ -68,9 +73,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **शुनां चेति** । तद् अनु अन्यद् अन्नम् उद्धृत्य **श्वपतितश्वपाककुष्ठ्यादिकाककृमीणां शनकै **रजोवगूण्ठनपरिहारेण **भुवि** निक्षिपेत् ॥ ३.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.
 </details>

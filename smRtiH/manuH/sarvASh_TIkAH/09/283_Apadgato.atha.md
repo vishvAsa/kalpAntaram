@@ -3,6 +3,11 @@ title = "283 आपद्गतो ऽथ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+283	But a person in urgent necessity, an aged man, a pregnant woman, or a child, shall be reprimanded and clean the (place); that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But a person in urgent necessity, an aged person, a pregnant woman, or a child should be reprimanded and the filth should be cleaned;—such is the law.—(283)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 9.282](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 **आप्**[**अद्गत** इति सहोप]देशाद् अत्यन्त**वृद्धो**, **गर्भिणी**, **बालो** वेदितव्यः ॥ ९.२८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-283	But a person in urgent necessity, an aged man, a pregnant woman, or a child, shall be reprimanded and clean the (place); that is a settled rule.
 </details>

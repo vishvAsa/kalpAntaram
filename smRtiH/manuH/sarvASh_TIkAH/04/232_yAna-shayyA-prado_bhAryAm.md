@@ -3,6 +3,11 @@ title = "232 यान-शय्या-प्रदो भार्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The giver or carriage and couch obtains a wife, the giver of fearlessness sovereignty, the giver of grains eternal happiness, and the giver of the Veda equality with Brahman.—(232)
@@ -49,9 +54,4 @@ sovereignty over his inner apartments.’
 <details><summary>गोविन्दराजः</summary>
 
 **यानशय्याप्रद** इति । खट्वादिप्रदो **भार्याम् **आर्तत्राणकृत् प्रभुत्वम्, धान्यप्रदः सार्वकालिकं सुखं वेदप्रदः परं ब्रह्मसमानगतित्वं प्राप्नोति । सर्वत्र चात्र देयद्रव्यसाराल्पत्वभूयस्त्वाद्यपेक्षया दृष्टवत्यल्प(दृष्टफलाल्प)स्याल्पबहुत्वकालादितातम्यं विज्ञेयम् ॥ ४.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;
 </details>

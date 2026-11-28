@@ -3,6 +3,11 @@ title = "052 सप्तकस्याऽस्य वर्गस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+052	A self-controlled (king) should know that in this set of seven, which prevails everywhere, each earlier-named vice is more abominable (than those named later).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The self-disciplined man should know that in this set of seven which spreads everywhere, each preceding vice is more serious than the succeeding one.—(52)
@@ -102,9 +107,4 @@ See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/ma
 > वाचा दुरुक्तं बीभत्सं न रोहति परिक्षतम् ॥
 
 भाग्यायत्तत्वाद् अर्थस्य च तेजस्विनो ऽर्थदूषणं न गणयन्ति । एवम् एवास्यापि क्रोधजस्य त्रिकस्य पूर्वं पूर्वं गरीय इति व्याख्यातम् ॥ ७.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	A self-controlled (king) should know that in this set of seven, which prevails everywhere, each earlier-named vice is more abominable (than those named later).
 </details>

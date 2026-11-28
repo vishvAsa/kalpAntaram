@@ -3,6 +3,11 @@ title = "034 विशिष्टङ् कुत्र"
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	In some cases the seed is more distinguished, and in some the womb of the female; but when both are equal, the offspring is most highly esteemed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In some cases the seed is prominent; but in others it is the female womb; when both are equal, the offspring is highly commended.—(34)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 9.31].
 > **उभयं तु समं यत्र सा प्रसूतिर् विशिष्यते  ॥ ९.३४ ॥**
 
 इत्य् अयं स्थितः पक्ष आचार्यस्य विज्ञेयः ॥ ९.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	In some cases the seed is more distinguished, and in some the womb of the female; but when both are equal, the offspring is most highly esteemed.
 </details>

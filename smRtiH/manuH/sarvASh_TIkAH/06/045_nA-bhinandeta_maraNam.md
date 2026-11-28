@@ -3,6 +3,11 @@ title = "045 नाऽभिनन्देत मरणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	Let him not desire to die, let him not desire to live; let him wait for (his appointed) time, as a servant (waits) for the payment of his wages.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not rejoice at death; nor shall he rejoice at life; he shall await his time, just as the servant awaits the fulfilment of his contract—(45).
@@ -73,9 +78,4 @@ This verse is quoted in *Aparārka* (p. 953), which explains ‘*nirveśam*’ a
 विज्ञानाविगमसङ्गप्रीत्या,
 
 > **कालम् एव प्रतीक्षेत निर्वेशं भृतको यथा ॥ ६.४५ ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-045	Let him not desire to die, let him not desire to live; let him wait for (his appointed) time, as a servant (waits) for the payment of his wages.
 </details>

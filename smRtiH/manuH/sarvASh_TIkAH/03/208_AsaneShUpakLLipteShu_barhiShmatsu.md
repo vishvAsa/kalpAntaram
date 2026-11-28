@@ -2,6 +2,11 @@
 title = "208 आसनेषूपकॢप्तेषु बर्हिष्मत्सु"
 +++
 
+<details><summary>Bühler</summary>
+
+208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Seats with kuśa grass having been separately placed, he should seat the said Brāhmaṇas who have performed their ablutions.—(208)
@@ -60,11 +65,6 @@ character, and excellent conduct, who may have arrived at the same time and have
 <details><summary>गोविन्दराजः</summary>
 
 **आसनेष्व्** इति । **आसनेषु **संसर्भेषु **पृथक् पृथक्** विन्यस्तेषु **सम्यक् **कृतस्नानाचमनान् **तान् **पूर्वं निमन्त्रितान् **उपवेशयेत् **॥ ३.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.
 </details>
 
 <details><summary>भारुचिः</summary>

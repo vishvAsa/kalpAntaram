@@ -3,6 +3,11 @@ title = "326 वैश्यस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+326	After a Vaisya has received the sacraments and has taken a wife, he shall be always attentive to the business whereby he may subsist and to (that of) tending cattle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After having his sacraments performed, the Vaiśya shall take a wife and apply himself entirely to agriculture and the tending of catlle.—(326)
@@ -62,9 +67,4 @@ constitute the three-fold duty of the Vaiśya; trade, cattle-tending and agricul
 <details><summary>भारुचिः</summary>
 
 आनन्तर्यार्थो विशेषार्थश् चायम् उपदेशः । अस्यार्थवादः ॥ ९.३२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-326	After a Vaisya has received the sacraments and has taken a wife, he shall be always attentive to the business whereby he may subsist and to (that of) tending cattle.
 </details>

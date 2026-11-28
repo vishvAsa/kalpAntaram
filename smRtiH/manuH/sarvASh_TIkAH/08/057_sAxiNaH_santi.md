@@ -3,6 +3,11 @@ title = "057 साक्षिणः सन्ति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+057	Him also who says 'I have witnesses,' and, being ordered to produce them, produces them not, the judge must on these (same) grounds declare to be non-suited.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having asserted that he has witnesses, and on being asked to name them, if he does not name them,—him also, on these grounds, the judge shall declare to have failed in his suit.—(57)
@@ -83,9 +88,4 @@ See Comparative notes for [Verse 8.53].
 <details><summary>भारुचिः</summary>
 
 सर्वथा साक्षिभ्यो ऽन्यैः प्रेतिज्ञातार्थप्रतिपादकैः **कारणैर्** अविभाव्यमाने वस्तुनि । साक्षिणः शरण् । । । [कार]णैर् यथोक्तैर् असत्प्रत्ययवचनैर् **हीनम् इत्य्** एव **निर्दिशेत्** । अर्थिनम् इतरं वा, उभयतः संभवात् पराजयहेतूनाम् । **धर्मस्थः करणैर् एतैर् हीनं तम् इति** पराजयकारणं विज्ञेयम् । इतिकरणं चैवंशब्दार्थे । तथा च व्याख्यातम् । इदानीम् अर्थिप्रत्यर्थिनोर् वचनकालनियमार्थम् इदम् आरभ्यते ॥ ८.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Him also who says 'I have witnesses,' and, being ordered to produce them, produces them not, the judge must on these (same) grounds declare to be non-suited.
 </details>

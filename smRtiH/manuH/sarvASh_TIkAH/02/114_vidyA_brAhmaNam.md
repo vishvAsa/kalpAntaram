@@ -2,6 +2,11 @@
 title = "114 विद्या ब्राह्मणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learning having approached the Brāhmaṇa said to him—“I am thy wealth, guard me; impart me not unto a scorner; thus may I become extremely powerful.”—(114)
@@ -73,11 +78,6 @@ the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is 
 <details><summary>गोविन्दराजः</summary>
 
 **विद्या ब्राह्मणम् एत्याहेति** । **यम् एव त्व् **इति । **विद्या **किल विग्रहवती किञ्चिद् **ब्राह्मणम्** आगत्य निधिर् इव तवाहम्, अतो **रक्ष मां** इत्य् आह । रक्षा च असूयकम् अपात्रं मां माध्यापय । **तथा **सत्य् अहम् अतिशयेन तव दृष्टादृष्टकार्यकरणसमर्था भवामि । **यं **पुनः मृद्वार्यादिशौचयुक्तं **नियतं** संयतेन्द्रियं **ब्रह्मचारिणं **अस्त्रीसम्प्रयोगं जानीयात् प्राधान्याद् अस्य पृथग् उपदेशः । तं **विप्रं **विद्यानिधिपालनसमर्थम् अविस्मरणशीलं **अपर्मादिनम्** अनभ्यासशून्यम् अध्यापयेति ॥ २.११४–१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
 </details>
 
 <details><summary>भारुचिः</summary>

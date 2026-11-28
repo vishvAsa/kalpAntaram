@@ -3,6 +3,11 @@ title = "036 अधीत्य विधिवद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+036	Having studied the Vedas in accordance with the rule, having begat sons according to the sacred law, and having offered sacrifices according to his ability, he may direct his mind to (the attainment of) final liberation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After having studied the Vedas according to rule, having begotten sons in the rightful manner, and having offered sacrifices to the rest of his ability,—he shall turn his mind towards Liberation.—(36).
@@ -94,11 +99,6 @@ activity, to live on begging, to dwell under trees, to refuse all gifts, to avoi
 </details>
 
 <details><summary>भारुचिः</summary>
-
-036	Having studied the Vedas in accordance with the rule, having begat sons according to the sacred law, and having offered sacrifices according to his ability, he may direct his mind to (the attainment of) final liberation.
-</details>
-
-<details><summary>Bühler</summary>
 
 036	Having studied the Vedas in accordance with the rule, having begat sons according to the sacred law, and having offered sacrifices according to his ability, he may direct his mind to (the attainment of) final liberation.
 </details>

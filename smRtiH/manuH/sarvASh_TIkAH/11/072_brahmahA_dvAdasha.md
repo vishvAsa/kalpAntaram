@@ -3,6 +3,11 @@ title = "072 ब्रह्महा द्वादश"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	For his purification the slayer of a Brahmana shall make a hut in the forest and dwell (in it) during twelve years, subsisting on alms and making the skull of a dead man his flag.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa-slayer shall, for his purification, build a hut in the forest, live there for twelve years, subsisting on alms; making for himself a flag consisting of the head of the dead man.—(72)
@@ -132,9 +137,4 @@ and below 12.112 in connection with 11.85 and 86.)
 <details><summary>भारुचिः</summary>
 
 अस्योपरिष्टाद् अत्रैव [प्र]करणे गुणविधिं वक्ष्यति- "कृतवापनो निवसेद् ग्रामान्ते गोव्रजे ऽपि वा" इत्य् एवमादि । **कृत्वा शवशिरोध्वजम्** इत्य् अत्र मुख्यं गृह्यते, गुणवृत्तेः कारणाभावात् । अवकीर्णप्रायश्चित्तगर्दभाजिनवत् शवशिरो मुख्यम् एव स्यात् । सुरापानप्रायस्चित्तवद् विचित्रा शास्त्रगतिः । न च वचनस्यातिभारो ऽस्ति । न चात्र न्यायगतिस् साध्वी शास्त्रलक्षणत्वाद् धर्माधर्मयोः ॥ ११.७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	For his purification the slayer of a Brahmana shall make a hut in the forest and dwell (in it) during twelve years, subsisting on alms and making the skull of a dead man his flag.
 </details>

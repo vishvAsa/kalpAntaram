@@ -3,6 +3,11 @@ title = "078 कृत-वापनो निवसेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	Having shaved off (all his hair), he may dwell at the extremity of the village, or in a cow-pen, or in a hermitage, or at the root of a tree, taking pleasure in doing good to cows and Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having shaved off, he may dwell at the extremity of the village, or in a cow-pen, or in a hermitage under a tree,—giving himself up to doing good to cows and Brāhmaṇas.—(78)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 11.72].
 <details><summary>भारुचिः</summary>
 
 "ब्रह्महा द्वादशाब्दानि कुटिं कृत्वा वने वसेत्" इत्य् एव[मादिना] यद् उक्तं तस्य वैकल्पिकाः केचिद् अत्रोपदिश्यन्ते धर्माः केचिद् अपूर्वा एव । **गोब्राह्मणहिते रत** अस्य चानन्तरोक्तस्य गुणविधिर् अर्थवादः ॥ ११.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	Having shaved off (all his hair), he may dwell at the extremity of the village, or in a cow-pen, or in a hermitage, or at the root of a tree, taking pleasure in doing good to cows and Brahmanas.
 </details>

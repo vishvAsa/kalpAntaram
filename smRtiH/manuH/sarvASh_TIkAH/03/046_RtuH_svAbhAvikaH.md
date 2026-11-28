@@ -2,6 +2,11 @@
 title = "046 ऋतुः स्वाभाविकः"
 +++
 
+<details><summary>Bühler</summary>
+
+046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Sixteen days, including the four days that are censured by good men, have been declared to be the normal “season” for women.—(46)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 **ऋतुर्** इति । **चतुर्भिर्** दिवसैः उत्तमजननिन्दितैः सह षोडशाहोरात्राणि स्त्रीणां रोग्याद्यजनितऋतुक्रमः ॥ ३.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "068 ब्राह्मस्य तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learn in brief, in due order, the measure of the Brahmic ‘day and night,’ as also that of the ‘Time-cycles’ (Yugas) one by one.—(68)
@@ -36,9 +41,4 @@ The present verse serves as the summary of what is going to be described, intend
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मस्येति **। प्राजापत्यस्याहोरात्रस्य **यत् प्रमाणं** युगानां च प्रत्येकं तत् क्रमेण सङ्क्षेपतः श्रृणुत ॥ १.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.
 </details>

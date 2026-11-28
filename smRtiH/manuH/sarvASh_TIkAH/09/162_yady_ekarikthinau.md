@@ -3,6 +3,11 @@ title = "162 यद्य् एकरिक्थिनौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+162	If the two heirs of one man be a legitimate son of his body and a son begotten on his wife, each (of the two sons), to the exclusion of the other, shall take the estate of his (natural) father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the ‘Soil-born’ and the ‘body-born’ sons are both entitled to inherit the same property, each shall receive that property which belongs to his own father, and not the other.—(162)
@@ -87,9 +92,4 @@ adjust their shares according to their fathers; let each take the wealth due to 
 <details><summary>भारुचिः</summary>
 
 [और]से सति क्षेत्रजो भव्तीति सामर्थात् वक्तव्यम्, क्षेत्रजे वा सत्य् औरस इति । एवं च सत्य् अनियुक्तासुत एवायं विज्ञेयो गुणतः । तथा हि [यदा पुत्रिण्यां क्षेत्रजो जायेत यदा वोत्पादिते क्षेत्रज औरसो जायेत तदा त]द्धनस्य तयोर् अयं विभागः । यद् यस्य पित्र्यम् इति । एतेन दर्शनेनानियुक्तासुतादय इतरत्रानंशार्हत्वाद् बीजिनो ऽंशं लभन्ते । अन्यस् त्व् आह यदि जातापत्यो ऽथर्वणपक्षक्रियया पुनः सर्वं कृत्वा पुत्रान् उत्पादयेत्, तयोश् च बीजिक्षेत्रिणोर् धनं स्त्रीगतं स्यात्, तयोर् एष विभागः ॥ ९.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	If the two heirs of one man be a legitimate son of his body and a son begotten on his wife, each (of the two sons), to the exclusion of the other, shall take the estate of his (natural) father.
 </details>

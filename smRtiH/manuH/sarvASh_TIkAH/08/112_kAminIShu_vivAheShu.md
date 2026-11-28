@@ -3,6 +3,11 @@ title = "112 कामिनीषु विवाहेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+112	No crime, causing loss of caste, is committed by swearing (falsely) to women, the objects of one's desire, at marriages, for the sake of fodder for a cow, or of fuel, and in (order to show) favour to a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is no serious offence in swearing to women, or in connection with marriages, fodder for cows, or fuel, or for the sake of a Brāhmaṇa.—(112)
@@ -133,9 +138,4 @@ during dalliance, in jest, or while one is in severe pain, is not reprehensible.
 <details><summary>भारुचिः</summary>
 
 कामिन्या कामतन्त्राभियोगे यः प्रतिज्ञातार्थसम्पादनार्थमिथ्याशपथः क्रियते तत्रे नास्ति पातकधर्म इत्य् अर्थः । एवं विवाहे कृताकृतसंदेहे अभियोगे वास्य कर्माङ्गभूतानां च गवां भक्तस्य हरणाभियोगेन गोमात्रस्य व्यवस्थासामर्थ्यात् । एवं च शास्त्रवद् अग्नीन्धनापहरणाभियोगे मिथ्याशपथे नास्त्य् अधर्मः, येन शास्त्रलक्षणाव् एव धर्माधर्मौ । अन्येन तु कारणेन गोभक्तेन्धनयोर् विभावितस्य सतो दण्डो यथाशास्त्रं भवेत् । ब्राह्मणस्य च तत्र शरीरलक्षणाभ्युपपत्ताव् एवम् एव स्यात् । न सर्वस्याइवाभ्यवपत्तिः, न्यायकारिणः कर्तव्या । ब्राह्मणा[द् अन्यस्य न न्याय]कारिणो ऽप्य् आरम्भसामर्थ्याद् विज्ञायते । स्थिताम् सत्यशपथक्रियाम् इदानींनिर्दिश्यन्ते वर्णविशेषसंनियोगेन शपथाः स्वरूपतः ॥ ८.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-112	No crime, causing loss of caste, is committed by swearing (falsely) to women, the objects of one's desire, at marriages, for the sake of fodder for a cow, or of fuel, and in (order to show) favour to a Brahmana.
 </details>

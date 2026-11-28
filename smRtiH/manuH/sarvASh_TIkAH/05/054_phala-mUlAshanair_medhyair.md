@@ -2,6 +2,11 @@
 title = "054 फल-मूलाशनैर् मेध्यैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+054	By subsisting on pure fruit and roots, and by eating food fit for ascetics (in the forest), one does not gain (so great) a reward as by entirely avoiding (the use of) flesh.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By subsisting upon sacred fruits and roots, and by eating the food of hermits, one does not obtain that reward which he does by abstaining from meat—(54).
@@ -42,11 +47,6 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds that 
 <details><summary>गोविन्दराजः</summary>
 
 **फलमूलाशनैर्** इति । पवित्राणां **फलमूलानां** च भक्षणैः तथा ऋषिसम्बन्धिनाम् अन्नानां नीवारादीनाम् आरण्यानां भोजने तथाविधं फलं नाप्नोति ॥ ५.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	By subsisting on pure fruit and roots, and by eating food fit for ascetics (in the forest), one does not gain (so great) a reward as by entirely avoiding (the use of) flesh.
 </details>
 
 <details><summary>भारुचिः</summary>

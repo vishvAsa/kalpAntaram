@@ -2,6 +2,11 @@
 title = "129 परपत्नी तु"
 +++
 
+<details><summary>Bühler</summary>
+
+129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A female who is the wife of another person, and is not related to one by birth, should be addressed as “Lady,” and also “blessed,” or “sister.”—(129)
@@ -68,11 +73,6 @@ should be addressed as *sister*, or *daughter*, or *mother*.’
 <details><summary>गोविन्दराजः</summary>
 
 परस्य पत्नी या भवति सा चात्मनो यदि मातृपितृभ्यो योनिसम्बद्धा न भवेत्, तदा तां कार्यार्थं **भवति** इत्य् अनेन शब्देन ब्रूयात् **सुभगे भगिनि** इत्येवमाद्यन्तेन “भवति सुभगे” “भवति मातः” इत्येवं ब्रूयात् । आनुरूप्येण भगिनीति चेति इतिशब्दस्य प्रकारार्थत्वात् ॥ २.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'
 </details>
 
 <details><summary>भारुचिः</summary>

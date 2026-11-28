@@ -3,6 +3,11 @@ title = "015 नेहेताऽर्थान् प्रसङ्गेन
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	Whether he be rich or even in distress, let him not seek wealth through pursuits to which men cleave, nor by forbidden occupations, nor (let him accept presents) from any (giver whosoever he may be).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not seek wealth by clinging pursuits, or by contrary acts; nor when wealth is already there; nor from here and there, even in times of distress.—(15)
@@ -51,9 +56,4 @@ greatest importance to Dharma.’
 <details><summary>गोविन्दराजः</summary>
 
 **न कल्पमानेष्व् अर्थेष्व्** इति । गीतादिना अर्थान् नार्जयेत् । नाप्य् अयाज्ययाजनादिना । न चावश्यकर्तव्यसमर्थेषु धनेषु सत्सु । नाप्य् आत्मकुटुम्बधर्मावसादे ऽपि उपायान्तरसम्भवे सति जातिकर्मदुष्टान् उपायान्तराभावे च आपद्य् असत्प्रतिग्रहं वक्ष्यति ॥ ४.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	Whether he be rich or even in distress, let him not seek wealth through pursuits to which men cleave, nor by forbidden occupations, nor (let him accept presents) from any (giver whosoever he may be).
 </details>

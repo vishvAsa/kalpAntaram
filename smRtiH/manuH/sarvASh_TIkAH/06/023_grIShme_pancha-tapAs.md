@@ -3,6 +3,11 @@ title = "023 ग्रीष्मे पञ्च-तपास्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+023	In summer let him expose himself to the heat of five fires, during the rainy season live under the open sky, and in winter be dressed in wet clothes, (thus) gradually increasing (the rigour of) his austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 During summer he shall keep five fires; during the rains, he shall have the sky for his shelter; and during the winter he shall keep wet clothes: gradually increasing his austerities.—(23 ).
@@ -58,11 +63,6 @@ his frame by the practice of restrictions, observances, *mantras* and fastings, 
 </details>
 
 <details><summary>भारुचिः</summary>
-
-023	In summer let him expose himself to the heat of five fires, during the rainy season live under the open sky, and in winter be dressed in wet clothes, (thus) gradually increasing (the rigour of) his austerities.
-</details>
-
-<details><summary>Bühler</summary>
 
 023	In summer let him expose himself to the heat of five fires, during the rainy season live under the open sky, and in winter be dressed in wet clothes, (thus) gradually increasing (the rigour of) his austerities.
 </details>

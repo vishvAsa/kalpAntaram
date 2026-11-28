@@ -3,6 +3,11 @@ title = "219 यो ग्राम-देश-सङ्घानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+219	If a man belonging to a corporation inhabiting a village or a district, after swearing to an agreement, breaks it through avarice, (the king) shall banish him from his realm,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, after having entered into a compact under oath with a village, a country or a confederation, should break it, through greed,—him the king shall banish from his kingdom.—(219)
@@ -97,9 +102,4 @@ prescribed for associations, the members thereof shall do all acts according to 
 <details><summary>भारुचिः</summary>
 
 धर्मार्थयुक्तेषु प्रयोजनेषु राजकार्याविरोधिषु गोप्रचारोदकरक्षणदेवतायतनप्रतिसंस्करणादिषु ग्रामादीनां या संविद् उत्पद्यते, तत्र व्यभिचारिणं तस्माद् देशाद् राजा निर्वासयेत् ॥ ८.२१८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-219	If a man belonging to a corporation inhabiting a village or a district, after swearing to an agreement, breaks it through avarice, (the king) shall banish him from his realm,
 </details>

@@ -3,6 +3,11 @@ title = "297 तेषु तेषु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+297	For each part is particularly qualified for (the accomplishment of) certain objects, (and thus) each is declared to be the most important for that particular purpose which is effected by its means.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Each ‘limb’ is particularly qualified for the fulfilment of a distinct purpose; and hence each is declared to be the most important in reference to that purpose which is fulfilled by its means.—(297)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 9.294].
 स्वविषयनियमाद् इन्द्रियवत् । एवं च सति,
 
 भवति हि तत् कार्यं राज्ञो, यत्र लघीयान् अपि प्रकृति पदार्थो गरीयान् भवति । तस्मात् सर्व एवैते सर्वदा समीक्षितव्याः तत्पुरुषाश् च । एवमर्थश् चायं पुनर् इहोपदेशो राजप्रकृतीनाम्, यस्मात् प्रायेण हि राज्यकण्टका अमात्यादिप्रकृतिसंश्रया एव भवन्ति । राजवल्लभामात्यमहिषीकुमाराद्याश्रितास् ते हि राजोष्मणा निःशङ्का सन्तः सुतरां जनपदं मुष्णन्ति ॥ ९.२९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-297	For each part is particularly qualified for (the accomplishment of) certain objects, (and thus) each is declared to be the most important for that particular purpose which is effected by its means.
 </details>

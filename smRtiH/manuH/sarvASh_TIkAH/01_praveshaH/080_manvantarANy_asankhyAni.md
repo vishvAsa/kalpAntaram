@@ -2,6 +2,11 @@
 title = "080 मन्वन्तराण्य् असङ्ख्यानि"
 +++
 
+<details><summary>Bühler</summary>
+
+080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Innumerable Manvantaras, as also Creation and Dissolution—all this the supreme lord calls into being again and again, as if in amusement—(80).
@@ -49,11 +54,6 @@ It is in view of this fact that the author has added the qualifying term ‘*as 
 <details><summary>गोविन्दराजः</summary>
 
 यद्य् अपि पुराणे चतुर्दश मन्वन्तराणि सङ्ख्यायन्ते तथापि आवृत्त्या असङ्ख्यानि यदा भवन्ति तदा सृष्टिसंहारौ भवतः । **एतच् **च सृष्टिसंहाराख्यं वस्तु परमे अनावृत्तिलक्षणे स्थाने स्थितत्वात् **परमेष्ठी **प्रजापतिः **क्रीडन्न् इवैतत् पुनः पुनः कुरुते** । न केवलं तदिच्छैवात्र कारणं यावत् प्राणिकर्माण्य् अपीत्य् अतः **एव**शब्दः ॥ १.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
 </details>
 
 <details><summary>भारुचिः</summary>

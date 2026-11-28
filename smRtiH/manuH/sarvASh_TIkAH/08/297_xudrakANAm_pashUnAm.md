@@ -3,6 +3,11 @@ title = "297 क्षुद्रकाणाम् पशूनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+297	For injuring small cattle the fine (shall be) two hundred (panas); the fine for beautiful wild quadrupeds and birds shall amount to fifty (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of hurting petty animals, the fine is two h undred; and fifty in the case of the auspicious quadrupeds and birds.—(297)
@@ -83,9 +88,4 @@ See Comparative notes for [Verse 8.295].
 <details><summary>भारुचिः</summary>
 
 अजाविकस्य पृथग्ग्रहणात् क्षुद्रपशुग्रहणम् अत्रान्यार्थम् । एवं चात्राल्पप्रयोजनानां गवादीनां दृष्टात् कारणात् ग्रहणम् । विकल्पार्थं वा स्यात् पुनर् अजाविकादीनाम् उत्तरश्लोके ग्रहणम् । **शुभाश्** च **मृगपक्षिणो** देवतायतनभूषणा रुरुमयूरप्रभृतयः अन्यपरिग्रहा वा ॥ ८.२९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-297	For injuring small cattle the fine (shall be) two hundred (panas); the fine for beautiful wild quadrupeds and birds shall amount to fifty (panas).
 </details>

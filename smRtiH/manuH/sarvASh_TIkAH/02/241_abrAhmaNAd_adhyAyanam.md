@@ -2,6 +2,11 @@
 title = "241 अब्राह्मणाद् अध्यायनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+241	It is prescribed that in times of distress (a student) may learn (the Veda) from one who is not a Brahmana; and that he shall walk behind and serve (such a) teacher, as long as the instruction lasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In abnormal times of difficulty learning from a non-Brāhmaṇa has been enjoined, as also the serving of such a teacher, in the shape of following him, during the course of study.—(241)
@@ -114,11 +119,6 @@ Dharma, Purity, Literary Sayings, and the various Arts,—these may be acquired 
 > यो लोभाद् अधमो जात्या जीवेद् उत्कृष्टकर्मभिः । 
 
 इति प्रत्यवायस्य वक्ष्यमाणत्वात् ॥ २.२४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-241	It is prescribed that in times of distress (a student) may learn (the Veda) from one who is not a Brahmana; and that he shall walk behind and serve (such a) teacher, as long as the instruction lasts.
 </details>
 
 <details><summary>भारुचिः</summary>

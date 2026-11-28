@@ -2,6 +2,11 @@
 title = "168 ब्राह्मणो त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+168	As a fire of dry grass is (unable to consume the offerings and is quickly) extinguished, even so (is it with) an unlearned Brahmana; sacrificial food must not be given to him, since it (would be) offered in ashes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The unlearned Brāhmaṇa becomes quenched in the same manner as the fire of dry grass. The sacrificial offering should not be presented to him; as no libation is poured upon ashes.—(168)
@@ -68,11 +73,6 @@ extinguished fire reaches neither the Gods nor the Pitṛs, so also what is give
 > अथ चेन् मन्त्रसंयुक्तः शारीरैः पङ्क्तिदूषणैः ।
 
 > अदूष्यं तं यमः प्राह पङ्क्तिपावन एव सः ॥ इति ॥ ३.१६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-168	As a fire of dry grass is (unable to consume the offerings and is quickly) extinguished, even so (is it with) an unlearned Brahmana; sacrificial food must not be given to him, since it (would be) offered in ashes.
 </details>
 
 <details><summary>भारुचिः</summary>

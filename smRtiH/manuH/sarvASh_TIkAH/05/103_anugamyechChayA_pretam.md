@@ -2,6 +2,11 @@
 title = "103 अनुगम्येच्छया प्रेतम्"
 +++
 
+<details><summary>Bühler</summary>
+
+103	Having voluntarily followed a corpse, whether (that of) a paternal kinsman or (of) a stranger, he becomes pure by bathing, dressed in his clothes, by touching fire and eating clarified butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having voluntarily followed a dead person, whether he be a relation or not, he becomes pure by bathing with his clothes on, touching fire and eating clarified butter.—(102).
@@ -59,11 +64,6 @@ corpse being followed, purification comes after one day; in that of a Vaiśya on
 <details><summary>गोविन्दराजः</summary>
 
 **अनुगम्येति** । बन्धुम् अन्यं प्रेतं वा बुद्धिपूर्वकम् अनुगम्य स्नानं कृत्वा ततो ऽग्निं स्पृष्ट्वा तदनु च घृतप्राशनं कृत्वा विशुध्यति ॥ ५.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-103	Having voluntarily followed a corpse, whether (that of) a paternal kinsman or (of) a stranger, he becomes pure by bathing, dressed in his clothes, by touching fire and eating clarified butter.
 </details>
 
 <details><summary>भारुचिः</summary>

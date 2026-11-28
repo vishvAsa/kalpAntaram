@@ -3,6 +3,11 @@ title = "100 सेनापत्यञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+100	Command of armies, royal authority, the office of a judge, and sovereignty over the whole world he (only) deserves who knows the Veda-science.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is only one who knows the Vedic lore that deserves the command over armies, Kingly authority, the office of the adjudicator of punishments and sovereignty over all men.—(100)
@@ -54,9 +59,4 @@ This is an exaggerated praise.
 <details><summary>भारुचिः</summary>
 
 यथा कथंचिद् वेदं प्रकरणात् स्तौति । अत्र कारणं वक्ति ॥ १२.१०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	Command of armies, royal authority, the office of a judge, and sovereignty over the whole world he (only) deserves who knows the Veda-science.
 </details>

@@ -3,6 +3,11 @@ title = "184 श्रेयसः श्रेयसो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+184	On failure of each better (son), each next inferior (one) is worthy of the inheritance; but if there be many (of) equal (rank), they shall all share the estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the failure of each superior kind of son, each next inferior one is entitled to inheritance; if there be several of the same class, all shall share the property.—(184)
@@ -51,9 +56,4 @@ bought are all as had as the Śūdra-born.’
 <details><summary>भारुचिः</summary>
 
 सर्वस्मिन् रिक्थविभाए बीजभूतो ऽयं श्लोकः । एवं च सत्य् अस्यानुरोधेन रिक्थविभागे ऽनागतो ऽतिक्रान्तश् च वर्णनीयः ॥ ९.१८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-184	On failure of each better (son), each next inferior (one) is worthy of the inheritance; but if there be many (of) equal (rank), they shall all share the estate.
 </details>

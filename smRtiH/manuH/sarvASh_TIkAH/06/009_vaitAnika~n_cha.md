@@ -3,6 +3,11 @@ title = "009 वैतानिकञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+009	Let him offer, according to the law, the Agnihotra with three sacred fires, never omitting the new-moon and full-moon sacrifices at the proper time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall offer, according to rule, the sacrificial oblations, taking case not to omit the ‘Darśa’ and the ‘Paurnamāsa’ sacrifice.—(9)
@@ -133,9 +138,4 @@ the morning, give food to ascetics, guests and students and eat the remainder. T
 <details><summary>भारुचिः</summary>
 
 होमसाधनप्रदर्शनार्थम् **अग्निहोत्र**ग्रहणम् ॥ ६.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	Let him offer, according to the law, the Agnihotra with three sacred fires, never omitting the new-moon and full-moon sacrifices at the proper time.
 </details>

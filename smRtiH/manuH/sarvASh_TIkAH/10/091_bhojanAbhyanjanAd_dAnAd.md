@@ -3,6 +3,11 @@ title = "091 भोजनाभ्यञ्जनाद् दानाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	If he applies sesamum to any other purpose but food, anointing, and charitable gifts, he will be born (again) as a worm and, together with his ancestors, be plunged into the ordure of dogs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one does with sesamum anything else, except eating, anointing and giving,—he becomes a worm and plunges into the ordure of dogs, along with his ancestors.—(91)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>गोविन्दराजः</summary>
 
 **भोजनाभ्यञ्जनाद्** इति । भोजनाभ्यञ्जनदानव्यतिरिक्तम् अन्वयाद् अन्नविक्रयादि यदि तिलानां कुरुते तदा पितृभिः सह कृमित्वं प्राप्तः श्वपुरीषे निमज्जतीति पूर्वव्यक्तिक्रमफलकथनम् ॥ १०.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	If he applies sesamum to any other purpose but food, anointing, and charitable gifts, he will be born (again) as a worm and, together with his ancestors, be plunged into the ordure of dogs.
 </details>

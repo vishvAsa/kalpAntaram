@@ -2,6 +2,11 @@
 title = "244 उत्तमैर् उत्तमैर्"
 +++
 
+<details><summary>Bühler</summary>
+
+244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Being desirous of raising his family to eminence, he shall always form connections with superior kinds of people; he shalt, avoid all inferior ones.—(244) 
@@ -67,11 +72,6 @@ It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Sa�
 <details><summary>गोविन्दराजः</summary>
 
 **उत्तमर् उत्तमैर् सार्धम्** इति । कुलम् उत्कृष्टतां नेतुम् इच्छन् श्रुताभिजनाद्युत्कृष्टैः सह अनवरतं कन्यादानादिसम्बन्धान् आचरेत् । अपकृष्टान् तत्सम्बन्धेषु परिहरेत् । उत्तमविधानाद् एवाधर्मव्यावृत्तिसिद्धये पृथग्वचनम् उत्तमाभावे समाभ्यनुज्ञानार्थम् ॥ ४.२४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "116 विद्या शिल्पम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+116	Learning, mechanical arts, work for wages, service, rearing cattle, traffic, agriculture, contentment (with little), alms, and receiving interest on money, are the ten modes of subsistence (permitted to all men in times of distress).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Learning, handicrafts, working on hire, service, cattle-tending, trade, agriculture, contentment, begging and money-lending,—these are the ten means of livelihood.—(116)
@@ -67,9 +72,4 @@ undertaken.’
 <details><summary>भारुचिः</summary>
 
 धर्माधिकाराद् यस्य यत् प्रतिषिद्धं तत् तस्यैतस्याम् अवस्थायाम् अभ्यनुज्ञायते । यथा "ब्राह्मणस्यार्थेनाध्यापनम्" इत्य् एवमादिः पुत्रदा[रा]त्ययप्राप्तस्य स्थितौ । तथा च कृत्वोक्तं **दश जीवनहेतवः** इति । अपरे तु धृतिनिर्दिदृक्षया विद्यादीनां निर्देशं मन्यन्ते । यस्मान् न धृतिम् अन्तरेण विद्यादयो जीवनहेतवो भवन्ति । धृत्यनुगतास् त्व् एते जीवनाय पर्याप्ताः । अतः सर्वत्र धृतिः कर्तव्येति धृत्यर्थो ऽयम् उपदेशः ॥ १०.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	Learning, mechanical arts, work for wages, service, rearing cattle, traffic, agriculture, contentment (with little), alms, and receiving interest on money, are the ten modes of subsistence (permitted to all men in times of distress).
 </details>

@@ -3,6 +3,11 @@ title = "126 तुरीयो ब्रह्महत्यायाः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	One fourth (of the penance) for the murder of a Brahmana is prescribed (as expiation) for (intentionally) killing a Kshatriya, one-eighth for killing a Vaisya; know that it is one-sixteenth for killing a virtuous Sudra.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One fourth of the expiation for the killing of a Brāhmaṇa has been prescribed for the killing of a Kṣatriya, one eighth for that of a Vaiśya, and one sixteenth for that of a Śūdra,—each of these being one who is devoted to his duty.—(126)
@@ -89,9 +94,4 @@ thousand cows for the expiation of his sin; he shall give a hundred for killing 
 <details><summary>भारुचिः</summary>
 
 क्षत्रियादीनाम् अपरः प्रायश्चित्तविधिर् वैकल्पिक उपपातकप्रायश्चित्ताच् चान्द्रायणात् । येन स्त्रीशूद्रविट्क्षत्रवध उपपातकमध्य उपदिष्टः । सदसद्विभागापेक्षया च क्षत्रियादीनाम् इदं वैकल्पिकम् अन्यत् प्रायश्चित्तं पूर्वोक्तात् । तथा चोक्तम्, **वैश्य ऽष्टमो ऽंशो वृत्तस्थ** इति । इदं परम् अधुना क्षत्रियादिवध एव क्षत्रियादिप्रायश्चित्तम् उपदिश्यते, पूर्वश्लोकोपदिष्टप्रायश्चित्ताद् वैकल्पिकम् ॥ ११.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	One fourth (of the penance) for the murder of a Brahmana is prescribed (as expiation) for (intentionally) killing a Kshatriya, one-eighth for killing a Vaisya; know that it is one-sixteenth for killing a virtuous Sudra.
 </details>

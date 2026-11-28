@@ -3,6 +3,11 @@ title = "205 ताडयित्वा तृणेनाऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+206	He who has struck (a Brahmana) even with a blade of grass, tied him by the neck with a cloth, or conquered him in an altercation, shall appease him by a prostration.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having struck him even with a blade of grass, or having tied him in the neck with a cloth, or having defeated him in an altercation,—one shall bow to him and appease him.—(205)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 11.204].
 <details><summary>भारुचिः</summary>
 
 विवादश् च लौकिको वा कलहो विज्ञेयः, नेतरः, तस्य वादसंज्ञत्वात् ॥ ११.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-206	He who has struck (a Brahmana) even with a blade of grass, tied him by the neck with a cloth, or conquered him in an altercation, shall appease him by a prostration.
 </details>

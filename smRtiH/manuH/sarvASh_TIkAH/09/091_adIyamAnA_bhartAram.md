@@ -3,6 +3,11 @@ title = "091 अदीयमाना भर्तारम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+091	If, being not given in marriage, she herself seeks a husband, she incurs no guilt, nor (does) he whom she weds.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a maiden, when not given away, herself procures a husband, she incurs no sort of sin; nor does the man whom she weds.—(91)
@@ -45,9 +50,4 @@ See Comparative notes for [Verse 9.90].
 <details><summary>भारुचिः</summary>
 
 यं वरं स्वयं कन्याधिगच्छति तस्यादोषार्थं कन्याया अदोषवचनम् ॥ ९.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-091	If, being not given in marriage, she herself seeks a husband, she incurs no guilt, nor (does) he whom she weds.
 </details>

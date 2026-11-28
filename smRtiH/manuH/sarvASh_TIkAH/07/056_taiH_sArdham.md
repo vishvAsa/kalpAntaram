@@ -3,6 +3,11 @@ title = "056 तैः सार्धम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	Let him daily consider with them the ordinary (business, referring to) peace and war, (the four subjects called) sthana, the revenue, the (manner of) protecting (himself and his kingdom), and the sanctification of his gains (by pious gifts).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With these he shall always discuss all ordinary business relating to peace and war, as also the ‘state’, the sources of revenue, the means of protection, and the consolidation of what has been acquired.—(56)
@@ -142,9 +147,4 @@ following:—To hold counsels, to secure the results of counsels, to direct othe
 
 
 अथ वा **स्थानं** स्वदेशाद् अप्रच्यवनम् । एवं समुदयाश् चिन्त्याः । ते च कृषिर् व्रजो गुल्मस्थानं वणिक्पथः शुल्कदण्ड इत्य् एवमादयः । **गुप्तिं** स्वराष्ट्रगतां वक्ष्यति । **लब्धप्रशमनानि** देवताश्रमविद्व्यावतां धार्मिकाणां च शूराणां च दानमानत्यागायोगः । उचितानां चाभ्यनुज्ञानम् । सर्वबन्धनमोक्षः । अनुग्रहो दीनानाथव्याधितानाम् । उत्सवानां चापूर्वाणां प्रव[र्तनं, प्रवृत्तानाम् अनुवृत्तिः । यच् च कोश]दण्डोपघातकम् अधार्मिकं वा चारित्रं तद् अपनीय धर्मव्यवहारं स्थापयेत् । आह च- "चारित्रम् [अकृतं धर्म्यं कृतं चान्यैः प्रवर्तयेत्, प्रवर्तयेन् न चाधर्म्यं कृतं चान्यैर् निवर्तयेत्" इति । एवं] स्थानादीनि चिन्त्यानि ॥ ७.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Let him daily consider with them the ordinary (business, referring to) peace and war, (the four subjects called) sthana, the revenue, the (manner of) protecting (himself and his kingdom), and the sanctification of his gains (by pious gifts).
 </details>

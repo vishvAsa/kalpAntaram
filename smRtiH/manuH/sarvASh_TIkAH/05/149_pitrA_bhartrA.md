@@ -2,6 +2,11 @@
 title = "149 पित्रा भर्त्रा"
 +++
 
+<details><summary>Bühler</summary>
+
+149	She must not seek to separate herself from her father, husband, or sons; by leaving them she would make both (her own and her husband's) families contemptible.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 She should not seek separation from her father, husband or sons: by separating, the woman would render both families disreputable.—(147).
@@ -38,11 +43,6 @@ live separate from her father, mother, son, brother, father-in-law, mother-in-la
 <details><summary>गोविन्दराजः</summary>
 
 **पित्रेति** । पितृभर्तृपुत्रैः सर्वदा सर्वैर् यथासम्भवम् आत्मना विरहिता न स्याद् यस्माद् एतद्वियोगेनासती भर्तृपितृकुले निन्दिते करोति ॥ ५.१४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-149	She must not seek to separate herself from her father, husband, or sons; by leaving them she would make both (her own and her husband's) families contemptible.
 </details>
 
 <details><summary>भारुचिः</summary>

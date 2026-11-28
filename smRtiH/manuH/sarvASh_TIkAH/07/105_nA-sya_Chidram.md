@@ -3,6 +3,11 @@ title = "105 नाऽस्य छिद्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+105	His enemy must not know his weaknesses, but he must know the weaknesses of his enemy; as the tortoise (hides its limbs), even so let him secure the members (of his government against treachery), let him protect his own weak points.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 His enemy should hot know his weak points, but he must know the weak points of the enemy; he should hide the departments (of government) as the tortoise does its limbs; and he should guard his own weak points.—(105)
@@ -52,9 +57,4 @@ Do. (12.140.24).—(Same as Manu, ‘*nāsya*’ being read as ‘*nātma*.’)
 <details><summary>भारुचिः</summary>
 
 अभियोगातिशयेन स्वछिद्रगूहनं परछिद्रदर्शनं च शक्यते कर्तुम् । तच् च स्वविषये गूढपुरुषाणां कापटिकादीनां संचारेण विजानीयात् परविषये चेति ॥ ७.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	His enemy must not know his weaknesses, but he must know the weaknesses of his enemy; as the tortoise (hides its limbs), even so let him secure the members (of his government against treachery), let him protect his own weak points.
 </details>

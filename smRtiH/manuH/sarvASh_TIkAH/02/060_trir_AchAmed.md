@@ -2,6 +2,11 @@
 title = "060 त्रिर् आचामेद्"
 +++
 
+<details><summary>Bühler</summary>
+
+060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 First of all he should sip water thrice; then he should wipe his mouth twice, and touch with water the cavities, the soul and also the head.—(60)
@@ -85,11 +90,6 @@ should touch the holes with water in its natural condition.’
 <details><summary>गोविन्दराजः</summary>
 
 आचमनस्यालौकिकत्वात् स्वरूपम् आह **त्रिर्** इति । प्रथमं त्रीन् वारान् अपः तीर्थेनाचामेत् । ततः आस्यं द्वौ वारौ अपि शोधयेत् । तद् अनु च **खानि** इन्द्रियच्छिद्राणि **अद्भिः स्पृशेत् **। ततः आत्मस्थानं हृदयम्, अथो **शिर** इति ॥ २.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
 </details>
 
 <details><summary>भारुचिः</summary>

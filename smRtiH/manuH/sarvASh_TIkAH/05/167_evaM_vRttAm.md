@@ -2,6 +2,11 @@
 title = "167 एवं वृत्ताम्"
 +++
 
+<details><summary>Bühler</summary>
+
+167	A twice-born man, versed in the sacred law, shall burn a wife of equal caste who conducts herself thus and dies before him, with (the sacred fires used for) the Agnihotra, and with the sacrificial implements.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born man, knowing the law, should cremate the wife of his own caste,—who behaves herself in the said manner, and dies before him,—with the sacred fire and along with the sacrificial implements.—(165).
@@ -45,11 +50,6 @@ without a wife.’
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । धर्मज्ञो द्विजातिर् उक्ताचारां समानजातीयां पूर्वमृतस्त्रियं श्रौतस्मार्ताग्निभिः **यज्ञपात्रैश् च** स्रुक्स्रुवादिभिर् **दाहयेत्** ॥ ५.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	A twice-born man, versed in the sacred law, shall burn a wife of equal caste who conducts herself thus and dies before him, with (the sacred fires used for) the Agnihotra, and with the sacrificial implements.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "051 छायायाम् अन्धकारे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **मूत्रोच्चारसमुत्सर्गं** त्यागम् ॥ ४.५१ ॥
@@ -37,9 +42,4 @@ See Comparative notes for [Verse 3.50].
 <details><summary>गोविन्दराजः</summary>
 
 **छायायाम्** इति । **रात्राव् अहनि वा छायायां रात्राव् अन्धकारे अहनि वा **नीहाराद्यन्धकारे एतेषु, दिङ्मोहे सति तथा च वाय्वादिकृतप्राणविनाशसंशयेषु यथेष्टमुखो मूत्रपुरीषे कुर्यात् ॥ ४.५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.
 </details>

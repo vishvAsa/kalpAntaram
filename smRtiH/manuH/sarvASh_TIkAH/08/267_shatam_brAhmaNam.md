@@ -3,6 +3,11 @@ title = "267 शतम् ब्राह्मणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+267	A Kshatriya, having defamed a Brahmana, shall be fined one hundred (panas); a Vaisya one hundred and fifty or two hundred; a Sudra shall suffer corporal punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On abusing a Brāhmaṇa the Kṣatriya should be fined one hundred; and the Vaiśya one hundred and fifty; or two hundred; the Śūdra however deserves immolation.—(267)
@@ -129,9 +134,4 @@ caste, the fine is eight *Purāṇas* (Purāṇa being equal to 32 silver
 <details><summary>भारुचिः</summary>
 
 अवचनीयाद् आक्रोशाद् ऋते अन्यस्मिन्न् आक्रोशे एते यथार्हं दण्डवि[धयः ब्राःमणाक्रोशने यो] वैश्यस्य दण्ड उक्तः ततो ऽर्धं क्षत्रियम् आक्रुश्य वैश्यस्य न्यायाद् आप्नोति दण्डम् । शूद्रस्य त्व् एकजातिदण्डः "एकजातिर् द्विजातिम्" इति द्विजातिमात्र्[आक्रोशने तद्विधानात् ॥ ८.२६६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-267	A Kshatriya, having defamed a Brahmana, shall be fined one hundred (panas); a Vaisya one hundred and fifty or two hundred; a Sudra shall suffer corporal punishment.
 </details>

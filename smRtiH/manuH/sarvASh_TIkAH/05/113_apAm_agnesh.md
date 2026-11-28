@@ -2,6 +2,11 @@
 title = "113 अपाम् अग्नेश्"
 +++
 
+<details><summary>Bühler</summary>
+
+113	From the union of water and fire arose the glittering gold and silver; those two, therefore, are best purified by (the elements) from which they sprang.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Gold and silver sprang out of the union of water and fire; for these reasons the purification of these two is best done by means of their source.—(112.)
@@ -49,11 +54,6 @@ See Comparative notes for [Verse 5.111].
 <details><summary>गोविन्दराजः</summary>
 
 **अपाम्** इति । “अग्निर् वै वारुणानीरकामयत” इत्यादि वेदे श्रूयते । तत्राग्नेः सुवर्णम् इन्द्रियं वरुणादीनां रजतम् इत्य् एवं श्रूयते । एवं चाग्न्यापःसंयोगाद् यतः सुवर्णं रूप्यं चोद्भूतम् अतः तयोः स्वकारणेनैवोदकाख्येन तथैककारणकेन भस्मनैव शोधनं प्रशस्यतरम् एवं च मृदः काञ्चनरजतयोर् भस्मातिशयवत् ॥ ५.११३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-113	From the union of water and fire arose the glittering gold and silver; those two, therefore, are best purified by (the elements) from which they sprang.
 </details>
 
 <details><summary>भारुचिः</summary>

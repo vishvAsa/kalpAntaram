@@ -2,6 +2,11 @@
 title = "016 इन्द्रियार्थेषु सर्वेषु"
 +++
 
+<details><summary>Bühler</summary>
+
+016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not, through desires, become addicted to any sensual objects; excessive addiction to these, he shall avoid by mental reflection.—(10)
@@ -56,11 +61,6 @@ conducive to the accomplishment of Dharma, for all men.’
 <details><summary>गोविन्दराजः</summary>
 
 **इन्द्रियार्थेष्व्** इति । चक्षुरादिग्राह्येषु रूपादिषु **सर्वेषू**पभोगहेतोः सङ्गं न कुर्यात् । अप्रतिषिद्धानाम् अपि चैतेषां स्वदारगमनादीनां अतिशयप्रसङ्गम् अस्थिरत्वादिदोषसम्भावनया **मनसा **सम्यङ् **निवर्तयेत् **॥ ४.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
 </details>
 
 <details><summary>भारुचिः</summary>

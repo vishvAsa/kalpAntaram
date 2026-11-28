@@ -3,6 +3,11 @@ title = "067 वृको मृगेभम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+067	For stealing a deer or an elephant a wolf, for stealing a horse a tiger, for stealing fruit and roots a monkey, for stealing a woman a bear, for stealing water a black-white cuckoo, for stealing vehicles a camel, for stealing cattle a he-goat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing a deer or an elephant, a wolf; for stealing a horse, a tiger; for stealing fruits and roots, a monkey; for stealing a woman, a bear; for stealing water, a ‘Stokaka’-bird; for stealing conveyances, a camel; and for stealing cattle, a goat.—(67)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>भारुचिः</summary>
 
 **स्तोकको वारि** पेयं **जलं प्लव** इत्य् अत्र सेकर्थम् ॥ १२.५३–६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	For stealing a deer or an elephant a wolf, for stealing a horse a tiger, for stealing fruit and roots a monkey, for stealing a woman a bear, for stealing water a black-white cuckoo, for stealing vehicles a camel, for stealing cattle a he-goat.
 </details>

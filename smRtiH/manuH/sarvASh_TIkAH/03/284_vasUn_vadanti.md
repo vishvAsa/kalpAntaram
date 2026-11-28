@@ -2,6 +2,11 @@
 title = "284 वसून् वदन्ति"
 +++
 
+<details><summary>Bühler</summary>
+
+284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 They call the Fathers “Vasus;” the grandfathers they call “Rudras,” and the great-grandfathers they call “ādityas” such is the ancient text.—(284)
@@ -61,11 +66,6 @@ grand-father and the year the great-grandfather of the people.’
 <details><summary>गोविन्दराजः</summary>
 
 **वसून्** इति । य एते पितृपितामहप्रपितामहाः तान् वसुरुद्रादित्याख्यान् देवान् इति मन्वादयो वदन्ति । यस्मात् “पित्रादयो वस्वादय” इत्य् एषा अनादिभूता **श्रुतिः** । पितृद्वेषान् नास्तिक्याद्यः पितृकर्मणि न प्रवर्तेत तं प्रति प्रवर्तनार्थं देवतात्वाध्यारोपेण पितॄणां स्तुतिवचनम् ॥ ३.२८४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

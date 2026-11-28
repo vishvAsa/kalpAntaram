@@ -3,6 +3,11 @@ title = "342 असन्दितानां सन्दाता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+342	He who ties up unbound or sets free tied up (cattle of other men), he who takes a slave, a horse, or a carriage will have incurred the guilt of a thief.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who enchains the unchained, or sets free the enchained, as also one who takes away a slave, a horse or a chariot, incurs the guilt of the thief.—(342)
@@ -98,9 +103,4 @@ above.]
 <details><summary>भारुचिः</summary>
 
 अश्वरथग्रहणं च वाहनसामान्याद् उष्ट्रादिप्रदर्शनार्थम् इदं द्रष्टव्यम् ॥ ८.३४१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-342	He who ties up unbound or sets free tied up (cattle of other men), he who takes a slave, a horse, or a carriage will have incurred the guilt of a thief.
 </details>

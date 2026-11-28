@@ -3,6 +3,11 @@ title = "011 वासन्त-शारदैर् मेध्यैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+011	With pure grains, fit for ascetics, which grow in spring and in autumn, and which he himself has collected, let him severally prepare the sacrificial cakes (purodasa) and the boiled messes (karu), as the law directs.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With the pure grains fit for hermits, which grow in spring and in autumn, and which he has himself gathered, he shall severally prepare cakes and boiled messes, according to law—(11).
@@ -58,9 +63,4 @@ his life... Rice must be used for those sacrifices for which cakes mixed with me
 <details><summary>भारुचिः</summary>
 
 वैखानसोक्ता एवैते चरुपुरोडाशाः स्मार्ता वेदितव्याः ॥ ६.११॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	With pure grains, fit for ascetics, which grow in spring and in autumn, and which he himself has collected, let him severally prepare the sacrificial cakes (purodasa) and the boiled messes (karu), as the law directs.
 </details>

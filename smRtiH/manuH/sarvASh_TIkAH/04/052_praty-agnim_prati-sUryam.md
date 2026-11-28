@@ -3,6 +3,11 @@ title = "052 प्रत्य्-अग्निम् प्रति-सू�
 
 +++
 
+<details><summary>Bühler</summary>
+
+052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the shade, or in darkness, the Brāhmaṇa may—during the day or the night—do it, with his face towards any direction he pleases; as also where there is danger to life, and when there is fear.’—(52)
@@ -57,9 +62,4 @@ This is quoted in *Smṛtitattva* (p. 329);—in *Vidhānapārijāta* (II, p. 15
 <details><summary>गोविन्दराजः</summary>
 
 **प्रत्यग्निम्** इति । अग्न्यादित्यसोमाम्भोब्राह्मणगोवाय्वभिमुखम् मूत्रपुरीषे कुर्वतः **प्रज्ञा नश्यति**, अत एव तन् न कर्तव्यम् इति वायुअग्निविप्रम् इत्य् अस्य फलकथनं सीमाभिमुखं च, अत एव निषेधसिद्धिः पूर्वत्रापठितत्वात् ॥ ४.५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.
 </details>

@@ -3,6 +3,11 @@ title = "365 कन्याम् भजन्तीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+365	From a maiden who makes advances to a (man of) high (caste), he shall not take any fine; but her, who courts a (man of) low (caste), let him force to live confined in her house.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a maiden approaches a superior person, she shall not be made to pay anything; if however she courts an inferior person, she shall be kept confined in the house.—(365)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 8.364].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः ॥ ८.३६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-365	From a maiden who makes advances to a (man of) high (caste), he shall not take any fine; but her, who courts a (man of) low (caste), let him force to live confined in her house.
 </details>

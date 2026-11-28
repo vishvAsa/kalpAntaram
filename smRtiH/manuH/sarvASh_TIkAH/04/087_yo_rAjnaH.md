@@ -3,6 +3,11 @@ title = "087 यो राज्ञः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	He who accepts presents from an avaricious king who acts contrary to the Institutes (of the sacred law), will go in succession to the following twenty-one hells:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who accepts gifts from a king who is avaricious and behaves contrary to the scriptures, goes, in succession, to these twenty-one hells:—(87)
@@ -56,9 +61,4 @@ been brought up on gifts from the king becomes a Brahmarākṣasa in the water-l
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । क्षत्रियस्यापि च कृपणस्य शास्त्रातिक्रमवर्तिनः राज्ञो यः प्रतिग्रहं करोति **स** **इमान्** वक्ष्यमाणान् **नरकान्** यातनास्थानानि क्रमेण प्राप्नोति ॥ ४.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	He who accepts presents from an avaricious king who acts contrary to the Institutes (of the sacred law), will go in succession to the following twenty-one hells:
 </details>

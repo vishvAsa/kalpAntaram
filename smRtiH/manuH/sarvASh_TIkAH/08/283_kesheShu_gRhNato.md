@@ -3,6 +3,11 @@ title = "283 केशेषु गृह्णतो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+283	If he lays hold of the hair (of a superior), let the (king) unhesitatingly cut off his hands, likewise (if he takes him) by the feet, the beard, the neck, or the scrotum.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he catches hold of the hair, the king shall unhesitatingly have his hands out off; also if he lays hold of the feet, the beard, the neck, or the scrotum.—(283)
@@ -70,9 +75,4 @@ or hands,—there shall be a fine of 10 *Paṇas*; for causing pain, dragging, b
 <details><summary>भारुचिः</summary>
 
 एवं च सति न मारणम् एव हिंसा, किं तर्हि अनेकोपायसाध्यं च परदुःख्[ओत्पादनम्, द्वि]जातीनाम् एवान्योन्यव्यतिक्रमे धनदण्ड उच्यते, पूर्वदण्डस्य वैकल्पिकः, एतेषाम् अप्रत्ययापराधापेक्षया ॥ ८.२८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-283	If he lays hold of the hair (of a superior), let the (king) unhesitatingly cut off his hands, likewise (if he takes him) by the feet, the beard, the neck, or the scrotum.
 </details>

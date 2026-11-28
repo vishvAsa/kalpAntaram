@@ -2,6 +2,11 @@
 title = "081 चतुष्पात् सकलो"
 +++
 
+<details><summary>Bühler</summary>
+
+081	In the Krita age Dharma is four-footed and entire, and (so is) Truth; nor does any gain accrue to men by unrighteousness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the Kṛta Cycle Virtue exists in its perfect form, with all its four feet; and so does Truth;—No benefit accrues to men by vice—(81).
@@ -115,11 +120,6 @@ diverse character of the various cycles.—The verse is quoted in the Vīramitro
 <details><summary>गोविन्दराजः</summary>
 
 **चतुष्पाद् **इति । यो ऽयं **चतुष्पाद्**आश्रयो धमः **सकल **एव । तथा **सत्यं च कृतयुगे **आसीत् । सत्यस्य प्राधान्यात् पृथक् ग्रहणम् । एवं च शस्त्रातिक्रमेण विद्यायाः धनस्य वा **आगमः कश्चिन् मनुष्यान् प्रति **न वर्तते ॥ १.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	In the Krita age Dharma is four-footed and entire, and (so is) Truth; nor does any gain accrue to men by unrighteousness.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "226 एते राष्ट्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+226	If such (persons who are) secret thieves, dwell in the realm of a king, they constantly harass his good subjects by their forbidden practices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 These disguised thieves, living in the King’s realm, constantly harass the well-behaved people by their evil deeds.—(226)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 9.225].
 <details><summary>भारुचिः</summary>
 
 यस्माद् एते राजधान्याम् अवस्थिताः महतो ऽनर्थाय राज्ञः । अतश् चैषां राष्ट्राद् अपि निर्वासनम् उच्यते ॥ ९.२२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-226	If such (persons who are) secret thieves, dwell in the realm of a king, they constantly harass his good subjects by their forbidden practices.
 </details>

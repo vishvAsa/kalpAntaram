@@ -3,6 +3,11 @@ title = "002 स तान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+002	To the great sages (who addressed him thus) righteous Bhrigu, sprung from Manu, answered, 'Hear the decision concerning this whole connexion with actions.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The righteous Bhṛgu, sprung for Manu, said to the Great Sages—‘Listen to the truth regarding the relation of Actions.’—(2)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 12.1].
 <details><summary>भारुचिः</summary>
 
 प्रतिज्ञाश्लोकः । **कर्म**शब्दश् च साधारणो ऽपि सन्न् अयम् अधर्मार्थप्रधानः प्रकरणाद् विज्ञेयः । तथा चोक्तं पुरस्ताद् इति ॥ १२.२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-002	To the great sages (who addressed him thus) righteous Bhrigu, sprung from Manu, answered, 'Hear the decision concerning this whole connexion with actions.'
 </details>

@@ -2,6 +2,11 @@
 title = "085 दिवाकीर्तिम् उदक्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+085	When he has touched a Kandala, a menstruating woman, an outcast, a woman in childbed, a corpse, or one who has touched a (corpse), he becomes pure by bathing.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After having touched the Cāndāla, the menstruating woman, the outcast, the woman in child-bed, the dead body, or toucher thereof—one becomes pure by bathing.—(84).
@@ -149,11 +154,6 @@ been touched by a *Caṇḍāla*, a woman lately confined, or a corpse,—he sha
 > उदक्याशुचिभिः स्नायात् संस्पृष्टस् तैर् उपस्पृशेत् । [य्ध् ३.३०] 
 
 इत्य् एवं याज्ञवल्क्यवचनम् अस्ति । इत्थं स्मृत्यर्थे ऽपि समाचारो ऽन्वेष्यः ॥ ५.८५
-</details>
-
-<details><summary>Bühler</summary>
-
-085	When he has touched a Kandala, a menstruating woman, an outcast, a woman in childbed, a corpse, or one who has touched a (corpse), he becomes pure by bathing.
 </details>
 
 <details><summary>भारुचिः</summary>

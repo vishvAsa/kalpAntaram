@@ -2,6 +2,11 @@
 title = "256 दर्भाः पवित्रम्"
 +++
 
+<details><summary>Bühler</summary>
+
+256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial food, purity and also the afore-mentioned these should be regarded as the essentials of a sacrifice.—(256)
@@ -53,11 +58,6 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 <details><summary>गोविन्दराजः</summary>
 
 **दर्भा** इति । विष्टराद्यर्थं **धर्भाः पवित्रं **दर्भं प्राधान्यात् पृथग् उपदिष्टम् । **पूर्वाह्ण**कालः **हविष्याणि** मुन्यन्नादीनि सर्वाणि । **यच् च **वास्तुसम्पादनादि पावनं **पूर्वम् उक्तम्** एतावद् एवार्थकर्मणः सिद्धयः ॥ ३.२५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "124 जातिभ्रंशकरङ् कर्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+125	For committing with intent any of the deeds which cause loss of caste (Gatibhramsakara), (the offender) shall perform a Samtapana Krikkhra; (for doing it) unintentionally, (the Krikkhra) revealed by Pragapati.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On having intention ally done any one of those acts which cause loss of caste, one should perform a Sāntapana-Kṛcchra; and the Prājāpatya, when it is done unintentionally.—(124)
@@ -61,9 +66,4 @@ caste shall perform the *Sāntapana* penance; he who has done so unawares shall 
 <details><summary>भारुचिः</summary>
 
 सान्तपनं कृच्छ्रं प्राजापत्यं च वक्ष्यति ॥ ११.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	For committing with intent any of the deeds which cause loss of caste (Gatibhramsakara), (the offender) shall perform a Samtapana Krikkhra; (for doing it) unintentionally, (the Krikkhra) revealed by Pragapati.
 </details>

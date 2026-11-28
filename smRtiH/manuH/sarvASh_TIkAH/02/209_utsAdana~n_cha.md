@@ -2,6 +2,11 @@
 title = "209 उत्सादनञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+209	(A student) must not shampoo the limbs of his teacher's son, nor assist him in bathing, nor eat the fragments of his food, nor wash his feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not shampoo the limbs of his teacher’s son, nor assist him in bathing, nor eat of the food left by him; nor should he wash his feet.—(209)
@@ -48,11 +53,6 @@ See Comparative notes for [Verse 2.208].
 <details><summary>गोविन्दराजः</summary>
 
 **उत्सादनम्** इति । उद्वर्तन**स्नापनोच्छिष्टभोजनपाद**धावनानि **गुरुपुत्रस्य **न कार्याणि । अस्माद् एव प्रतिषेधात् गुरोर् एतत् अनुक्तम् अपि कर्तव्यम् इत्य् अवसीयते ॥ २.२०९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-209	(A student) must not shampoo the limbs of his teacher's son, nor assist him in bathing, nor eat the fragments of his food, nor wash his feet.
 </details>
 
 <details><summary>भारुचिः</summary>

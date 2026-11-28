@@ -3,6 +3,11 @@ title = "093 पित्रे न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	But he who takes (to wife) a marriageable damsel, shall not pay any nuptial fee to her father; for the (latter) will lose his dominion over her in consequence of his preventing (the legitimate result of the appearance of) her enemies.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man takes away a maiden who has reached puberty, he shall pay no nuptial fee to the father,—who would fall off from his ownership by reason of thwarting her menses.—(93)
@@ -60,9 +65,4 @@ living at her father’s house, before she has been betrothed to a man, has to b
 <details><summary>भारुचिः</summary>
 
 स्मृत्यन्तरेष्व् अयं श्लोको न त्व् अत्र समाम्नायते ॥ ९.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	But he who takes (to wife) a marriageable damsel, shall not pay any nuptial fee to her father; for the (latter) will lose his dominion over her in consequence of his preventing (the legitimate result of the appearance of) her enemies.
 </details>

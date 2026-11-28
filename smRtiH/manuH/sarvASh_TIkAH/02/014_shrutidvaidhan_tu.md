@@ -2,6 +2,11 @@
 title = "014 श्रुतिद्वैधन् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Where there is conflict between two Vedic texts, both are held to be Dharma; both have been rightly pronounced by the wise to be Dharma.—(14)
@@ -69,11 +74,6 @@ Also see the Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 <details><summary>गोविन्दराजः</summary>
 
 **श्रुतिद्वैधम्** इति । **यत्र **पुनः श्रुत्योर् एव द्विविध्यं परस्परं विद्धाभिधानं तत्र तत्प्रतिपाद्यौ द्वाव् अपि विकल्पानुष्ठेयत्वेन मन्वादिभिः पूर्वतरैर् अपि विद्वद्भिः द्वाव् **अपि** **तौ धर्मौ** सम्यक् समीचीनाव् इत्य् उक्तम् । नात्र कस्यचिद् अपि हानं युज्यते तुल्यप्रमाणशिष्टत्वात् । एवं च समानन्यायत्वात् स्मृत्योर् अपि विरोधे एतद् एव विज्ञेयम् इति प्रकृतोपयोगः ॥ २.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.
 </details>
 
 <details><summary>भारुचिः</summary>

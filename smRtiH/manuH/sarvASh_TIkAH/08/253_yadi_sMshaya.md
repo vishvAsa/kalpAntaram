@@ -3,6 +3,11 @@ title = "253 यदि स्ंशय"
 
 +++
 
+<details><summary>Bühler</summary>
+
+253	If there be a doubt even on inspection of the marks, the settlement of a dispute regarding boundaries shall depend on witnesses.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, even on the inspection of the marks, there should be a doubt, the settlement of the dispute regarding boundaries shall be entirely dependent upon witnesses.—(253)
@@ -75,9 +80,4 @@ may he placed on the deposition of neighbours. If the statements of the neighbou
 <details><summary>भारुचिः</summary>
 
 [न कुतश्चिल् लिङ्ग्]ओत्पत्ताव् उभयथा लिङ्गानुस्मृतौ च साक्षिप्रत्ययः ॥ ८.२५२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	If there be a doubt even on inspection of the marks, the settlement of a dispute regarding boundaries shall depend on witnesses.
 </details>

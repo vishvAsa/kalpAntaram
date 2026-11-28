@@ -3,6 +3,11 @@ title = "045 झल्ला मल्ला"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	Ghallas, Mallas, Natas, men who subsist by despicable occupations and those addicted to gambling and drinking (form) the lowest (order of) conditions caused by Activity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Stick-fencers, wrestlers, actors, men subsisting by the use of weapons, those addicted to gambling and drinking,—represent the lowest state among those partaking of the quality of ‘Rajas.’—(45)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **झल्ला मल्ला नटाश् चैव पुरुषाः कुवृत्तय** इति । झल्ला मल्लाश् च राजन्याद् व्रात्याद् इति झल्लमल्लनटा उक्ताः शास्त्रबाह्या अतो ऽविनेयाश् च पुरुषा द्यौतमद्यशौण्डाश् चेत्य् अन्ते रजोनिमित्ता निकृष्टा गतिः ॥ १२.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	Ghallas, Mallas, Natas, men who subsist by despicable occupations and those addicted to gambling and drinking (form) the lowest (order of) conditions caused by Activity.
 </details>

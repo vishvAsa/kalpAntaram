@@ -3,6 +3,11 @@ title = "275 मातरम् पितरम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+275	He who defames his mother, his father, his wife, his brother, his son, or his teacher, and he who gives not the way to his preceptor, shall be compelled to pay one hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who alienates the mother, the father, the wife, the brother, the child or the preceptor, should be made to pay a hundred; as also one who does not give the way to his preceptor.—(276)
@@ -82,9 +87,4 @@ officers or elders or Brāhmaṇas, he shall be chided or beaten or besmeared wi
 <details><summary>भारुचिः</summary>
 
 अत्र श्लोके जायातनयग्रहणम् अर्थवादर्थम् । कथं कृत्वा । भार्यापुत्रयोर् एव तावद् आक्षारणे ऽयम् अस्य दण्डो भवितुम् अर्हति, प्राग् एव मात्रादीनाम् । यस्मान् मात्रादिभ्[इर् न्यू]नत्वं भार्यापुत्रयोः । एतस्मात् सामर्थ्याद् इदम् एवं व्याकरणीयम् । भ्राता च यदि कनीयान् तत एषैवात्र (?) व्याख्या । अत तु ज्येष्ठस्य ग्रहणम्, ततो गुरुत्वाद् अस्य विध्यर्थतैव न्याय्या । एवं च सति गुरुग्रहणं विद्यागुरुप्रभृतीनाम् अवरोधार्थम् । गुरुग्रहणाद् एव च मात्रादिग्रहणे सिद्धे पृथग् उपदेशस् तेषाम् आदरार्थो विज्ञेयः । इदं चान्यद् अर्थान्तरविषयं वाक्यान्तरं समानदण्डत्वाद् अस्मिन्न् एवावधाव् उच्यते । **पन्थानं चाददद् गुरोः** सर्वप्रकारस्यानाक्षारयन्न् अप्य् अयम् एव दण्ड एकः कार्यः स्यात् । एतस्माद् एव च गुरुग्रहणात् पूर्वत्र भार्यापुत्रग्रहणम् अर्थवादार्थं सुतरां विज्ञायते । येन समानदण्ड एव व्यभिचारान्तरौ श्रूयेते । आक्षारणं च प्रतरद्वाक्पारुष्यविशेष आक्रोशादिः । अन्यस् त्व् आह- अनृतेन भेदनम् आक्षारणम् । अनृताभिशंसनं त्व् अपरः । तत् त्व् एतद् उभयं प्रकरणविरोधाद् विचारणीयं युक्तायुक्तत्वेन ॥ ८.२७४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-275	He who defames his mother, his father, his wife, his brother, his son, or his teacher, and he who gives not the way to his preceptor, shall be compelled to pay one hundred (panas).
 </details>

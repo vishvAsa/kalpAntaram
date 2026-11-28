@@ -3,6 +3,11 @@ title = "014 वर्जयेन् मधु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+014	Let him avoid honey, flesh, and mushrooms growing on the ground (or elsewhere, the vegetables called) Bhustrina, and Sigruka, and the Sleshmantaka fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall avoid honey, meat, cabbages, mushrooms, the fragrant grass, the pot-herb and the ‘Śleṣmātaka (Śleśmātaka?)’ fruits.—(14).
@@ -58,9 +63,4 @@ This verse is quoted in *Aparārka* (p. 942);—and in *Parāśaramādhava* (Āc
 > <u>तत् पुनर्</u> विचार्यम् ।कवकानां पुनर्विधानेन तत्सहोपदिष्टानां लशुनादीनां विकत्थश् शक्यो वक्तुम्, समाचार । । । पुनर्ग्रहणवत् ।  
 
 **भौम**शब्दो गोजिह्विकाविषयो पृथगुक्तत्वात् । **कवक**शब्दस् तु प्रसिद्दार्थ एव । अपरे तु कवकविशेषणं **भौम**शब्दम् इच्छन्ति । तेषाम् अभोज्यत्वं प्राप्नोति । पूर्वस्मिन्न् अभक्ष्यप्रकरणे चाविशेषेण प्रतिषेधः सर्वच्छत्राकाण्म्। अथ तु तत्पदार्थविशिष्टप्रतिषेधात् एकजातिविषय एव । **शिग्रुक**शब्दश् च भूस्तृणसाहचर्यान् न सौभञ्जनकविषयः, किं तर्हि तत्स्वरूपतृणजातिविषयः ।
-</details>
-
-<details><summary>Bühler</summary>
-
-014	Let him avoid honey, flesh, and mushrooms growing on the ground (or elsewhere, the vegetables called) Bhustrina, and Sigruka, and the Sleshmantaka fruit.
 </details>

@@ -3,6 +3,11 @@ title = "169 सदृशन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+169	But he is considered a son made (Kritrima) whom (a man) makes his son, (he being) equal (by caste), acquainted with (the distinctions between) right and wrong, (and) endowed with filial virtues.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When one appoints a son who is worthy, capable of discerning right and wrong, and endowed with filial virtues,—that son is to be known as “appointed.’—(169)
@@ -70,9 +75,4 @@ the appointer independently of others.’
 <details><summary>भारुचिः</summary>
 
 कृत्रिमो ऽपि सवर्ण एव पितृमातृविहीनश् च ॥ ९.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	But he is considered a son made (Kritrima) whom (a man) makes his son, (he being) equal (by caste), acquainted with (the distinctions between) right and wrong, (and) endowed with filial virtues.
 </details>

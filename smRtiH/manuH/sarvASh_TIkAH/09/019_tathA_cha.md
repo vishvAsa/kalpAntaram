@@ -3,6 +3,11 @@ title = "019 तथा च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	And to this effect many sacred texts are sung also in the Vedas, in order to (make) fully known the true disposition (of women); hear (now those texts which refer to) the expiation of their (sins).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 So also there are many texts sung in the vedas with a view to indicate the true character of women. from among these listen to those texts that are meant to be expiatory.—(19)
@@ -109,9 +114,4 @@ The same Vedic text is referred to and prescribed for reciting—in Śāṅkhāy
 <details><summary>भारुचिः</summary>
 
 **स्वालक्षण्यम्** आसां व्यभिचारः । यतस् तासां व्यभिचाराकृतिम् इमां **शृणुत** ॥ ९.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	And to this effect many sacred texts are sung also in the Vedas, in order to (make) fully known the true disposition (of women); hear (now those texts which refer to) the expiation of their (sins).
 </details>

@@ -3,6 +3,11 @@ title = "189 अहार्यम् ब्राह्मणद्रव्य
 
 +++
 
+<details><summary>Bühler</summary>
+
+189	The property of a Brahmana must never be taken by the king, that is a settled rule; but (the property of men) of other castes the king may take on failure of all (heirs).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The property of the Brāhmaṇa shoved never be taken by the King,—such is the law; but in the case of other castes, the king shall take the property, in the absence of all heirs.—(189)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 9.186].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः ॥ ९.१८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-189	The property of a Brahmana must never be taken by the king, that is a settled rule; but (the property of men) of other castes the king may take on failure of all (heirs).
 </details>

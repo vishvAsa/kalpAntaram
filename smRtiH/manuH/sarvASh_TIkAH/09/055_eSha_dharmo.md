@@ -3,6 +3,11 @@ title = "055 एष धर्मो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+055	Know that such is the law concerning the offspring of cows, mares, slave-girls, female camels, she-goats, and ewes, as well as of females of birds and buffalo-cows.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This same law should be understood as applying to the offspring of cows, mares, slave-girls, she-camels, she-goats and ewes; as also of birds and buffaloes.—(55)
@@ -68,9 +73,4 @@ See Comparative notes for [Verse 9.48].
 <details><summary>भारुचिः</summary>
 
 गर्दभस्याननुक्रान्तस्यापि पशुसामान्याद् अयम् एव धर्मः स्यात् ॥ ९.५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-055	Know that such is the law concerning the offspring of cows, mares, slave-girls, female camels, she-goats, and ewes, as well as of females of birds and buffalo-cows.
 </details>

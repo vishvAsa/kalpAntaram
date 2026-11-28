@@ -3,6 +3,11 @@ title = "147 या नियुक्तान्यतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+147	If a woman (duly) appointed bears a son to her brother-in-law or to another (Sapinda), that (son, if he is) begotten through desire, they declare (to be) incapable of inheriting and to be produced in vain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a woman, without being ‘authorised,’ bears a son either to her broth er-in-law or to some other person, that son they declare to be ‘lust-born,’ ‘incapable of inheritance’ and‘born in vain.’—(147)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 9.145].
 <details><summary>भारुचिः</summary>
 
 विधिजातापत्यस्तुतिर् इयम्, अविधिजातापत्यनिन्दया, पितृधनांशप्राप्त्यर्थम् । अन्यस् त्व् आह- यद् उक्तं "देवराद् वा सपिण्डाद् वा" नियुक्तासुतो रिक्थभाग् इति [तस्या]यं प्रतिषेधः । उक्तनिषिद्धत्वाच् च विकल्पेन रिक्थभाक्त्वं विज्ञेयम् । गुणोपेक्षया चान्यतरम् अध्यवसितव्यम् ॥ ९.१४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-147	If a woman (duly) appointed bears a son to her brother-in-law or to another (Sapinda), that (son, if he is) begotten through desire, they declare (to be) incapable of inheriting and to be produced in vain.
 </details>

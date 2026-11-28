@@ -3,6 +3,11 @@ title = "183 स यदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+183	If the (defendant) restores it in the manner and shape in which it was bailed, there is nothing (of that description) in his hands, for which others accuse him.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he admits the deposit exactly in the form and shape in which it was entrusted,—then there is nothing in the charge brought against him by others.—(183)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 8.181-182].
 <details><summary>भारुचिः</summary>
 
 अथ प्राड्विवाकविज्ञातं पश्चान् नियो[जितं न दद्यात्] तत उभयं निगृह्य पूर्वं द्वितीयं च दाप्यः ॥ ८.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-183	If the (defendant) restores it in the manner and shape in which it was bailed, there is nothing (of that description) in his hands, for which others accuse him.
 </details>

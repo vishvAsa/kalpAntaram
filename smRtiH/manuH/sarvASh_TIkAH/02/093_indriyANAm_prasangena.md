@@ -2,6 +2,11 @@
 title = "093 इन्द्रियाणाम् प्रसङ्गेन"
 +++
 
+<details><summary>Bühler</summary>
+
+093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By attachment to the organs one incurs evil, without doubt; while by subjugating those same he attains success.—(93)
@@ -71,11 +76,6 @@ his teeth; but longing for life and longing for wealth never fade, even while th
 <details><summary>गोविन्दराजः</summary>
 
 अधुना इन्द्रियसंयमप्रयोजनम् आह **इन्द्र्याणाम्** इति । **इन्द्रियाणां **विषयासक्त्या दृष्टादृष्टदोषं निश्चितं पुरुषः प्राप्नोति । **तान्य् एव संयम्य** पुनः दृष्टादृष्टार्थ**सिद्धिं **निश्चयेन प्राप्नोति ॥ २.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
 </details>
 
 <details><summary>भारुचिः</summary>

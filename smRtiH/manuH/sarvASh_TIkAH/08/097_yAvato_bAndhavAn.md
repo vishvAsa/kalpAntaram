@@ -3,6 +3,11 @@ title = "097 यावतो बान्धवान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+097	'Learn now, O friend, from an enumeration in due order, how many relatives he destroys who gives false evidence in several particular cases.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘Listen now, gentle friend, in due order, how many relatives, by number, one destroys by giving false evidence, in what cases.’—(97)
@@ -73,9 +78,4 @@ This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā* (Vyavahār
 <details><summary>भारुचिः</summary>
 
 कूटसाक्षिणाम् एतत् तामि (?) कालपरिमाणार्थम् अधुना प्रकरणं आरभ्यते सर्वजातिसाक्ष्यार्थं सामर्थ्यात्, न केवलं प्रकरणाच् छूद्राणाम् एव । अतश् च चित्तप्रणिधानार्थं सर्वेषाम् एवायं श्लोक आरब्धः । कथं नाम । चित्तप्रणिधानाः साक्षिणः श्रुत्वैतन्मित्यावचनप्रत्यवायम् अतिमहन्तं निवर्तेरन् मिथ्यावचनाद् इति ॥ ८.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	'Learn now, O friend, from an enumeration in due order, how many relatives he destroys who gives false evidence in several particular cases.
 </details>

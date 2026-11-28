@@ -3,6 +3,11 @@ title = "066 दूषितो ऽपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+066	To whatever order he may be attached, let him, though blemished (by a want of the external marks), fulfil his duty, equal-minded towards all creatures; (for) the external mark (of the order) is not the cause of (the acquisition of) merit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though he be adorned, the man should fulfil his duty, to whichever order he may belong. He should be equal to all beings; mere external marks are not conducive to merit.—(66)
@@ -58,9 +63,4 @@ a means of acquiring spiritual merit.’
 <details><summary>भारुचिः</summary>
 
 प्रसंख्यानद्यानात्मानुष्ठानस्तुतिर् इयं समत्वदर्शनस्य, न तु लिङ्गप्रतिषेधो, विहितत्वात् ।
-</details>
-
-<details><summary>Bühler</summary>
-
-066	To whatever order he may be attached, let him, though blemished (by a want of the external marks), fulfil his duty, equal-minded towards all creatures; (for) the external mark (of the order) is not the cause of (the acquisition of) merit.
 </details>

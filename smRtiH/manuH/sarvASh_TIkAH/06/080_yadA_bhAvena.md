@@ -3,6 +3,11 @@ title = "080 यदा भावेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+080	When by the disposition (of his heart) he becomes indifferent to all objects, he obtains eternal happiness both in this world and after death.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, by disposition, he becomes free from longing for all things, then he obtains lasting happiness in this world, as also after death.—(80)
@@ -44,9 +49,4 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 48).
 <details><summary>भारुचिः</summary>
 
 **इह** शमसुखं **प्रेत्य च** ब्रह्मलोकप्राप्तिसुखम् । शाश्वतम् इतीयं स्तुतिः भूतार्थानुवादो वा ॥ ६.८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-080	When by the disposition (of his heart) he becomes indifferent to all objects, he obtains eternal happiness both in this world and after death.
 </details>

@@ -2,6 +2,11 @@
 title = "097 ब्राह्मणेषु च"
 +++
 
+<details><summary>Bühler</summary>
+
+097	Of Brahmanas, those learned (in the Veda); of the learned, those who recognise (the necessity and the manner of performing the prescribed duties); of those who possess this knowledge, those who perform them; of the performers, those who know the Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among Brāhmaṇas, the learned are the best, among the learned, those with firm convictions, among the men with firm convictions, those that act up to them; and among the actors, those that know Brahman.—(97).
@@ -33,11 +38,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मणेष्व्** इति । तेभ्यो ऽपि **विद्वांसः** महाफलकर्माधिकारात् तेभ्यो ऽपि **कृतबुद्धयः** शास्त्रार्थानुष्ठानेषूत्पन्नसङ्कल्पाः । तेभ्यो ऽय् अनुष्ठातारः इष्टानिष्टप्राप्तिपरिहारयुक्तत्वात् । तेभ्यो ऽपि ज्ञातात्मानः अपवर्गफलत्वात् ॥ १.९७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-097	Of Brahmanas, those learned (in the Veda); of the learned, those who recognise (the necessity and the manner of performing the prescribed duties); of those who possess this knowledge, those who perform them; of the performers, those who know the Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

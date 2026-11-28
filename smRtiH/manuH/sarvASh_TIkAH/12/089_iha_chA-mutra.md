@@ -3,6 +3,11 @@ title = "089 इह चाऽमुत्र"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	Acts which secure (the fulfilment of) wishes in this world or in the next are called pravritta (such as cause a continuation of mundane existence); but acts performed without any desire (for a reward), preceded by (the acquisition) of (true) knowledge, are declared to be nivritta (such as cause the cessation of mundane existence).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is done with knowledge and brings about the fulfilment of desires either in this world, or in the next, is described as ‘active’; while that which is done with knowledge and without desires, is declared to be ‘passive.’—(89)
@@ -76,9 +81,4 @@ This verse is quoted in *Aparārka* (p. 1033);—and in *Mitākṣarā* (3.58).
 > **निष्कामं ज्ञानपूर्वं तु निवृत्तम् उपदिश्यते  ॥ १२.८९ ॥**
 
 अत्र च निवृत्ते कर्मणि ज्ञानोपदेशात् प्रवृत्ते कर्मण्य् अज्ञानसंकल्पो निमित्तत्वेनार्थाद् गम्यते । इदानीं कारणभिन्नयोः फलभेदं शास्ति सुतरां द्वैविध्यप्रदर्शकम् ॥ १२.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	Acts which secure (the fulfilment of) wishes in this world or in the next are called pravritta (such as cause a continuation of mundane existence); but acts performed without any desire (for a reward), preceded by (the acquisition) of (true) knowledge, are declared to be nivritta (such as cause the cessation of mundane existence).
 </details>

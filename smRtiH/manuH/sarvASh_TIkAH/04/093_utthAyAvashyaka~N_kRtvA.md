@@ -2,6 +2,11 @@
 title = "093 उत्थायावश्यकङ् कृत्वा"
 +++
 
+<details><summary>Bühler</summary>
+
+093	When he has risen, has relieved the necessities of nature and carefully purified himself, let him stand during the morning twilight, muttering for a long time (the Gayatri), and at the proper time (he must similarly perform) the evening (devotion).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having risen, and saving accomplished the necessities of nature, he shall perform the purifications, and, with collected mind, he shall stand, repeating for a long time (the Sāvitrī), during the morning-twilight, as also during the evening-twilight, at its proper time.’—(93).
@@ -58,11 +63,6 @@ etc.’
 <details><summary>गोविन्दराजः</summary>
 
 **उत्थायेति** । ततः उषःकाले शयनाद् उत्थाय सति सम्भवे मेहनादि कृत्वा **कृत**वक्ष्यमाण**शौचः** संयतमनाः उक्ते काले पूर्वापरे सन्ध्ये अर्कदर्शनाद् ऊर्ध्वम् अपि जपं कुर्वन् उदितहोमो वर्तेत । अनुदितहोम्य् अपि होमं कृत्वा चासीत । आयुरादिदीर्घसन्ध्याफलविधानार्थम् इदं पुनः सन्ध्याभिधानम् ॥ ४.९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	When he has risen, has relieved the necessities of nature and carefully purified himself, let him stand during the morning twilight, muttering for a long time (the Gayatri), and at the proper time (he must similarly perform) the evening (devotion).
 </details>
 
 <details><summary>भारुचिः</summary>

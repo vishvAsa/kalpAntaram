@@ -3,6 +3,11 @@ title = "063 देहाद् उत्क्रमणम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	On the departure of the individual soul from this body and its new birth in (another) womb, and on its wanderings through ten thousand millions of existences,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There is for his Inner Soul departure from the body, then again birth in the womb, and transmigrations among millions of life-forms.—(63)
@@ -64,9 +69,4 @@ soul through the bodies of animals and plants.’
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।
-</details>
-
-<details><summary>Bühler</summary>
-
-063	On the departure of the individual soul from this body and its new birth in (another) womb, and on its wanderings through ten thousand millions of existences,
 </details>

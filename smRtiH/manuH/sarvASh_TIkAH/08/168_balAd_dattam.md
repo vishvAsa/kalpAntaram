@@ -3,6 +3,11 @@ title = "168 बलाद् दत्तम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+168	What is given by force, what is enjoyed by force, also what has been caused to be written by force, and all other transactions done by force, Manu has declared void.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is given by force, what is ennjoyed by force, what has been caused to be written by force,—all thansactions effected by force Manu has declared to be void.—(168)
@@ -103,9 +108,4 @@ force, makes no evidence.’
 <details><summary>भारुचिः</summary>
 
 **बलात्** तावद् **दत्तं** वृद्धिकामेन धनं क्षेत्राध्याधिभोगकामेन च तन् निवर्त्यं राज्ञा । **बलाच्** च **भुक्तम्** आधिद्रव्यं प्रतिषिद्धेन सता तद् आधिभोगान्वेषणेन निवर्त्यम् । अथ वा नाधिद्र्व्यम् अपि गृहादि बलाद् भुक्तं दशवर्षभोगेनैतद् अपहर्तिष्यामीत्य् अनया भुद्ध्या । **बलाद् यच् चापि लेखितं** पत्रे सर्वांश् चैवं प्रकारान् अन्यान् अप्य् अर्थान् साक्षित्वप्रतिभूकुलग्रहणकालावधिद्वैगुण्यकरणान निर्वर्त्यम् **मनुर्** आह ॥ ८.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-168	What is given by force, what is enjoyed by force, also what has been caused to be written by force, and all other transactions done by force, Manu has declared void.
 </details>

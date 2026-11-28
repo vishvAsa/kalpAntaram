@@ -3,6 +3,11 @@ title = "386 यस्य स्तेनः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+386	That king in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults, attains the world of Sakra (Indra).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That king in whose town there is no thief, no adulterer, no defamer, no criminal, no assaulter,—attains the regions of Indra.—(386)
@@ -65,9 +70,4 @@ sacred law, have been committed, the King, after having reflected upon the matte
 <details><summary>गोविन्दराजः</summary>
 
 **यस्येति** । यस्य राज्ञो राष्ट्रे चौरपारदारिकवाक्पारुष्यकृद्दण्डपारुष्याग्निदाहादिसाहसकारिणः न सन्ति स राजा स्वर्गं व्रजेत् ॥ ८.३८६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-386	That king in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults, attains the world of Sakra (Indra).
 </details>

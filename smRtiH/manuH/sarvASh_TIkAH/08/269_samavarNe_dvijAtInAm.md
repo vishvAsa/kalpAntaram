@@ -3,6 +3,11 @@ title = "269 समवर्णे द्विजातीनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+269	For offences of twice-born men against those of equal caste (varna, the fine shall be) also twelve (panas); for speeches which ought not to be uttered, that (and every fine shall be) double.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among twice-born men, when there is offence against an equal, the fine is twelve only in the case of unutterable abuses, it shall be double.—(269)
@@ -72,9 +77,4 @@ See Comparative notes for [Verse 8.267].
 <details><summary>भारुचिः</summary>
 
 [ब्राह्मणस्य] ब्राह्मण (?) । एवम् इतरयोर् अपि । शूद्रे ऽपि कार्यसामान्याद् एतद् एव स्यात् । एवं च द्विजातिग्रहणस्याविवक्षितत्वाद् एकजातिप्रदर्शनार्थम् अप्य् एतद् अत्र स्यात् । **अवचनीयेषु** तु वादेषु "शतं ब्राह्मणम् आक्रुष्य" इति एवमादिषु यद् यद् उक्तं तत् तद् द्विगुणं तत्र स्यात् ॥ ८.२६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-269	For offences of twice-born men against those of equal caste (varna, the fine shall be) also twelve (panas); for speeches which ought not to be uttered, that (and every fine shall be) double.
 </details>

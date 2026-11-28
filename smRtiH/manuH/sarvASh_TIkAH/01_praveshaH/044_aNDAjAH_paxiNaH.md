@@ -3,6 +3,11 @@ title = "044 अण्डाजाः पक्षिणः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	From eggs are born birds, snakes, crocodiles, fishes, tortoises, as well as similar terrestrial and aquatic (animals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Birds, Serpents, Crocodiles, Fishes, Tortoises, and other animals of similar kinds, terrestrial as well as aquatic,—are oviparous.—(44)
@@ -31,9 +36,4 @@ Birds, snakes, crocodiles and tortoises form another group and born from eggs, j
 <details><summary>गोविन्दराजः</summary>
 
 **अण्डजा** इति । अण्डे आदौ सम्भवन्ति । ततो जायन्ते **नक्रः **शिशुमाराख्यः प्राणी । **कच्छपः **कूर्मः । **स्थलजानि **कृकलासादीनि । **औदकानि च** शङ्खादीनि ॥ १.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	From eggs are born birds, snakes, crocodiles, fishes, tortoises, as well as similar terrestrial and aquatic (animals).
 </details>

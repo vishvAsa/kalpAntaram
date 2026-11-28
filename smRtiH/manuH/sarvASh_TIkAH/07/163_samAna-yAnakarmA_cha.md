@@ -3,6 +3,11 @@ title = "163 समान-यानकर्मा च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+163	An alliance which yields present and future advantages, one must know to be of two descriptions, (viz.) that when one marches together (with an ally) and the contrary (when the allies act separately).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But the King shall know that Alliance and War are of two kinds; so also both Marching and Halting; and Seeking shelter also has been declared to be of two kinds.—(162)
@@ -65,9 +70,4 @@ concluded under this consideration is called *Pratīkāra-sandhi*. When two part
 <details><summary>भारुचिः</summary>
 
 संभूय यानं यस्य स **समानयानकर्मा** संधिः । त्वम् इतो याहि अहम् इति यास्यामीत्य् असमानयानकर्मा **विपरीतः** संधिः । तथा कोशादिलाभेनैकस्य तदात्वयुक्तः इतरस्यायतियुक्तः । एवं चायं **द्विलक्षणः** संपद्यते **संधिः** ॥ ७.१६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-163	An alliance which yields present and future advantages, one must know to be of two descriptions, (viz.) that when one marches together (with an ally) and the contrary (when the allies act separately).
 </details>

@@ -3,6 +3,11 @@ title = "062 विधवायान् नियोगार्थे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	But when the purpose of the appointment to (cohabit with) the widow bas been attained in accordance with the law, those two shall behave towards each other like a father and a daughter-in-law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But when the purpose of the ‘authorisation’ in regard to the widow has been duly accomplished, the two should behave towards each other like an elder and like a daughter-in-law.—(62)
@@ -41,9 +46,4 @@ See Comparative notes for [Verse 9.60].
 <details><summary>भारुचिः</summary>
 
 एतस्माच् च ज्येष्ठनियोगो विज्ञायते । तथा च परिभाषोक्ता- "ज्येष्ठो यवीयसो भार्याम्" इति । उभयोश् च देवरशब्देन ग्रहणं युक्तम् "देवराद् वा सपिण्डाद् वा" इत्य् अत्र । अस्य प्रतिषेधविधेर् अर्थवादः ॥ ९.६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	But when the purpose of the appointment to (cohabit with) the widow bas been attained in accordance with the law, those two shall behave towards each other like a father and a daughter-in-law.
 </details>

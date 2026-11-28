@@ -3,6 +3,11 @@ title = "169 यदावगच्छेद् आयत्याम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+169	When (the king) knows (that) at some future time his superiority (is) certain, and (that) at the time present (he will suffer) little injury, then let him have recourse to peaceful measures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he knows that his superiority is certain in the future, and at the time there is but little harm done—then he should resort to peace.—(169)
@@ -48,9 +53,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), which adds the fo
 <details><summary>भारुचिः</summary>
 
 आयत्यपेक्षय्**आल्पिकां पीडां **कृत्वा**त्मनः संधिं समाश्रयेत्** ॥ ७.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	When (the king) knows (that) at some future time his superiority (is) certain, and (that) at the time present (he will suffer) little injury, then let him have recourse to peaceful measures.
 </details>

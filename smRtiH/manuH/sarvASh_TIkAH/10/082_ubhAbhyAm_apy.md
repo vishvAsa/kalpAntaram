@@ -3,6 +3,11 @@ title = "082 उभाभ्याम् अप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+082	If it be asked, 'How shall it be, if he cannot maintain himself by either (of these occupations?' the answer is), he may adopt a Vaisya's mode of life, employing himself in agriculture and rearing cattle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If he is unable to subsist by these two occupations, and the question arises as to how it should be,—he may live the living of the Vaiśya, having recourse to agriculture and cattle-tending.—(82)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 10.81].
 <details><summary>भारुचिः</summary>
 
 **कृष्ट्गोरक्ष**ग्रहणं च सर्ववैश्यवृत्तिप्रदर्शनार्थम् । स्वयं करणपक्षे चेयं ब्राह्मणस्य वैस्यवृत्तिर् उच्यते । अस्वयं कृता तु पूर्वम् उक्ता "ऋतामृताभ्यां जीवेत" इत्य् एवमादौ । एवं च वैश्यवृत्तेः प्रकरणभेद उपपद्यते । बहुलम् आसाम् इदम् अधुनोच्यते ॥ १०.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	If it be asked, 'How shall it be, if he cannot maintain himself by either (of these occupations?' the answer is), he may adopt a Vaisya's mode of life, employing himself in agriculture and rearing cattle.
 </details>

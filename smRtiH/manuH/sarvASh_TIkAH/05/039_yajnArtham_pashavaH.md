@@ -2,6 +2,11 @@
 title = "039 यज्ञार्थम् पशवः"
 +++
 
+<details><summary>Bühler</summary>
+
+039	Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices (have been instituted) for the good of this whole (world); hence the slaughtering (of beasts) for sacrifices is not slaughtering (in the ordinary sense of the word).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Animals have been created by the Self-born God himself for the purpose of sacrifice: sacrifice is conducive to the well-being of all this would; hence killing at a sacrifice is no ‘killing’ at all—(39).
@@ -49,11 +54,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 <details><summary>गोविन्दराजः</summary>
 
 **यज्ञार्थम्** इति । यज्ञसम्पत्त्यर्थं प्रजापतिना आत्मनैवादरेण **पशवः सृष्टाः **। यज्ञश् च “अग्नौ प्रास्ता” इति न्यायेनास्य जगतः भूत्यभिवृद्ध्यर्थम्, **तस्माद् यज्ञे **यो **वधः **सो ऽधर्माख्यवधकार्याभावाद् **अवध **एव ॥ ५.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices (have been instituted) for the good of this whole (world); hence the slaughtering (of beasts) for sacrifices is not slaughtering (in the ordinary sense of the word).
 </details>
 
 <details><summary>भारुचिः</summary>

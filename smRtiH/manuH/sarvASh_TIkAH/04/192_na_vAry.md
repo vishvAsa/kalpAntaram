@@ -2,6 +2,11 @@
 title = "192 न वार्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man knowing the Law, shall not offer even water to the Brāhmaṇa who behaves like a cat; nor to the wicked Brāhmaṇa who behaves like a heron, nor to one ignorant of the Veda.—(192)
@@ -105,11 +110,6 @@ is neither here nor there.’
 <details><summary>गोविन्दराजः</summary>
 
 **न नारीति** । उदकं किल सर्वदेयं तद् अपि बैडालव्रतिकादिभ्यो धर्मज्ञो न दद्यात् इति अतिशयोक्त्या द्रव्यान्तरदानं निषिध्यते, न तु दारिदानम्, पाखण्ड्यादि लोकविद्धो ऽपि बैडालव्रतिके दाननिषेधः तल्लक्षणविवक्षयेह पुनर् उच्यते । अविद्वद्दाननिषेधः पुनः विद्वत्सम्भवे सति अविद्वद्दानप्रतिषेधार्थः । एवं च “श्रोत्रियायैव देयानि” इत्य् एतत् विद्वच्छ्रोत्रियासम्भवे सति द्रष्टव्यम् ॥ ४.१९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "133 म्रियमाणो ऽप्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+133	Though dying (with want), a king must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though dying, the King shall not levy a tax on the Śrotriya; and no Śrotriya living in his kingdom shall suffer from hunger.—(133)
@@ -55,9 +60,4 @@ taken from Brāhmaṇas.’
 <details><summary>भारुचिः</summary>
 
 अस्य निन्दार्थवादः ॥ ७.१३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-133	Though dying (with want), a king must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.
 </details>

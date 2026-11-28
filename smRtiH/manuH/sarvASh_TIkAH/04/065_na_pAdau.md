@@ -3,6 +3,11 @@ title = "065 न पादौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+065	Let him never wash his feet in a vessel of white brass; let him not eat out of a broken (earthen) dish, nor out of one that (to judge) from its appearance (is) defiled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall never wash his feet in a vessel of white brass. He shall not eat out of a broken dish; nor out of one that is felt to be defiled.—(65)
@@ -44,9 +49,4 @@ shall he rub one foot with another.’
 <details><summary>गोविन्दराजः</summary>
 
 **न पादाव्** इति । कांस्यपात्रे न कदाचिद् अपि पादौ प्रक्षालयेत् । “ताम्ररजतसुवर्णानां भिन्नम् अभिन्नं च” इति पैठीनसिस्मरणात् ततो ऽन्यत्र भिन्नभाजने नाभि**भुञ्जीत** नापि हृल्लेखोत्पादके ॥ ४.६५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-065	Let him never wash his feet in a vessel of white brass; let him not eat out of a broken (earthen) dish, nor out of one that (to judge) from its appearance (is) defiled.
 </details>

@@ -3,6 +3,11 @@ title = "199 अस्वामिना कृतो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+199	A gift or sale, made by anybody else but the owner, must be considered as null and void, according to the rule in judicial proceedings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a gift or sale is made by one who is not the owner, it should be held to be as not-made,—such being the rule of judicial proceedings.—(199)
@@ -54,9 +59,4 @@ See Comparative notes for [Verse 8.198].
 <details><summary>भारुचिः</summary>
 
 क्रयविक्रयाव् अस्वामिकृतौ निपात्याव् एव । तथा च स्वाम्य् एव धनभाक् स्यात् । न तु क्रेता विक्रेता वा धने स्वामी परितोषणीयः । इदानीम् अस्वामिसकाशात् क्रीतस्य दश[वर्ष]भोगाभिगमेन मा भूत् स्वत्वम् इति, यत इदम् आह — ॥ ८.१९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-199	A gift or sale, made by anybody else but the owner, must be considered as null and void, according to the rule in judicial proceedings.
 </details>

@@ -3,6 +3,11 @@ title = "010 ऋक्षेष्ट्य्-आग्रयणञ् चै�
 
 +++
 
+<details><summary>Bühler</summary>
+
+010	Let him also offer the Nakshatreshti, the Agrayana, and the Katurmasya (sacrifices), as well as the Turayana and likewise the Dakshayana, in due order.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall perform the Darśeṣṭi and the Āgrayaṇa; as also the Cāturmāsya sacrifices, and the Turāyaṇa and Dākṣāyaṇa in due order.—(10).
@@ -46,9 +51,4 @@ pertaining to the two solstices;—and in *Parāśaramādhava* (Ācāra, p. 528)
 <details><summary>भारुचिः</summary>
 
 वैतानिकम् इति श्लोके स्मार्तानाम् एव प्रवृत्तिर् दर्शपौर्णमासादिशब्दे स्तुत्यर्थम् उच्यते । श्रौतानां तु नित्यानां चरुपुरोडाशादीनां व्रीह्यादिनियतत्वाद् असामर्थ्यस्मृतिर् व्रीह्यादिनिर्वर्तने ॥ ६.१० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-010	Let him also offer the Nakshatreshti, the Agrayana, and the Katurmasya (sacrifices), as well as the Turayana and likewise the Dakshayana, in due order.
 </details>

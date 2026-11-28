@@ -3,6 +3,11 @@ title = "012 तं यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+012	The (man), who in his exceeding folly hates him, will doubtlessly perish; for the king quickly makes up his mind to destroy such (a man).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who, through folly, is hostile towards him, doubtlessly perishes; because the King makes up his mind for his quick destruction.—(12).
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 यथोक्तम् उपदेशम् अपरिगणय्य पौनह्पुन्यन । यतस् तं न द्विष्याद् अन्यार्थापराधम्, येन-
 
 अनयस् तु द्विष्यमाणः कदाचिद् धर्मापेक्षयाशक्त्या वा सहेत, राज्ञः पुनः सहमानस्य स्वतन्त्रविरोदो यतो ऽशक्तश् चासौ निग्रहणं कर्तुम् इति । अतः सदानुवर्तितव्यो निरुपधैस् सद्भिः ॥ ७.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	The (man), who in his exceeding folly hates him, will doubtlessly perish; for the king quickly makes up his mind to destroy such (a man).
 </details>

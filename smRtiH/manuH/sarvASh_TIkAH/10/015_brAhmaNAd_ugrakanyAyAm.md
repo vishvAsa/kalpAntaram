@@ -3,6 +3,11 @@ title = "015 ब्राह्मणाद् उग्रकन्याया
 
 +++
 
+<details><summary>Bühler</summary>
+
+015	A Brahmana begets on the daughter of an Ugra an Avrita, on the daughter of an Ambashtha an Abhira, but on a female of the Ayogava (caste) a Dhigvana.
+</details>
+
 <details><summary>कुल्लूकः</summary>
 
 क्षत्रियेण शूद्रायामुत्पन्नोग्रा, उग्रा चासौ कन्या चेत्युग्रकन्या तस्यां ब्राह्मणादावृतनामाजायते । ब्राह्मणेन वैश्यायामुत्पन्नाऽम्बष्ठा तस्यां ब्राह्मणादाभोराख्या जायते । शूद्रेण वैश्यायामुत्पन्ना आयोगवी तस्यां ब्राह्मणाद्विग्वणो जायते ॥ १५ ॥
@@ -26,9 +31,4 @@ title = "015 ब्राह्मणाद् उग्रकन्याया
 > **आयोगव्यां तु धिग्वणः  ॥ १०.१५ ॥**
 
 ब्राह्मणजात एव न मातृजातिर् भवति । यथा च ब्राह्मणादिभ्यः क्षत्रियाद्यास्व् अनुलोमजाता मातृनामानो भवन्ति मातृदोषविगर्हणया, एवं शूद्रादिभ्यो वैश्याद्यासु जाताः प्रतिलोमाः पितृदोषविगर्हणयापि च न तज्जातीया भवन्ति, किं तर्ह्य् उभयजातिविवर्जिता जात्यन्तरम् । यतस् तान् दर्शयति ॥ १०.१५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-015	A Brahmana begets on the daughter of an Ugra an Avrita, on the daughter of an Ambashtha an Abhira, but on a female of the Ayogava (caste) a Dhigvana.
 </details>

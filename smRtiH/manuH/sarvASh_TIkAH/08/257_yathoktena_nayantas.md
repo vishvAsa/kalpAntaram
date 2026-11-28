@@ -3,6 +3,11 @@ title = "257 यथोक्तेन नयन्तस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+257	If they determine (the boundary) in the manner stated, they are guiltless (being) veracious witnesses; but if they determine it unjustly, they shall be compelled to pay a fine of two hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If they decide in the right manner, they, being truthful witnesses, become purified; but if they decide contrariwise, they should be made to pay a fine of two hundred.—(257)
@@ -55,9 +60,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 स्तुतिः प्ररोचनार्था । दण्डश् च यथोक्तः । विपरीतनयनं त्व् अन्येन व्यवहारान्तरेण ज्ञातव्यम् ॥ ८.२५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-257	If they determine (the boundary) in the manner stated, they are guiltless (being) veracious witnesses; but if they determine it unjustly, they shall be compelled to pay a fine of two hundred (panas).
 </details>

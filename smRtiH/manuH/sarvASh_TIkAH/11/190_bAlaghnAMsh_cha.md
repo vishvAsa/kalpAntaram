@@ -3,6 +3,11 @@ title = "190 बालघ्नांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+191	Let him not dwell together with the murderers of children, with those who have returned evil for good, and with the slayers of suppliants for protection or of women, though they may have been purified according to the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One shall not associate with murderers of children, ungrateful men, murderers of a refugee, and murderers of women,—even though they may have been duly purified.—(190)
@@ -65,9 +70,4 @@ protection, or a child or a woman, or those who are ungrateful,—with these one
 <details><summary>भारुचिः</summary>
 
 संपर्कापवादार्थो ऽस्यारंभः । अथ वा प्रत्यवायातिशयज्ञापनार्थः ॥ ११.१८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-191	Let him not dwell together with the murderers of children, with those who have returned evil for good, and with the slayers of suppliants for protection or of women, though they may have been purified according to the sacred law.
 </details>

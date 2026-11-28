@@ -2,6 +2,11 @@
 title = "175 सत्य-धर्मार्यवृत्तेषु शौचे"
 +++
 
+<details><summary>Bühler</summary>
+
+175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always delight in truthfulness, Law and right conduct, as also in ceanliness (cleanliness?); he shall govern his pupils in accordance with law,—with his speech arms, and belly duly controlled.—(175)
@@ -62,11 +67,6 @@ generative organ, the stomach, the hands, the feet, speech and eyes. He shall be
 <details><summary>गोविन्दराजः</summary>
 
 यत एवम् अतः **सत्यधर्मार्यवृत्तेष्व्** इति । **सत्यधर्म**साध्वाचारशौचेषु, सर्वदा रतिं भावयेत् । शासनीयांश् च भार्यादीन् “पृष्ठतस् तु शरीरस्य” इत्यादिशास्त्रमर्यादया **वाग्बाहूदर**सयमयुक्तो नियमयेद् इत्य् उक्तम् । पुनर्वचन अशिष्टानाम् अभिनिवेशदार्ढ्यार्थम् ॥ ४.१७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "182 मार्गशीर्षे शुभे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+182	Let the king undertake his march in the fine month Margasirsha, or towards the months of Phalguna and Kaitra, according to the (condition of his) army.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall start on his expedition in the auspicious month of Mārgaśīrṣa, or towards the months of Phalguna and Caitra, according to the condition of his forces.—(182)
@@ -65,9 +70,4 @@ is when the sky is overspread with masses of rain-clouds; seasons other than thi
 <details><summary>भारुचिः</summary>
 
 अत्र हि गच्छन् परस्य शारदं वासन्तं च सस्यम् उपहन्ति गच्छतश् च मार्गाः प्रचुरयवसोदका भवन्ति । तस्मात् शारदसस्यप्रायं जनपदं दीर्घकालं च **यात्रां मार्गशीर्षे यायात्** । फाल्गुनचैत्रमासयोर् वासन्तसस्यप्रायं दीर्घकालं च यात्राम् । तथा चतुरङ्गबलो मार्गशीर्षे यायात् । अश्वबलप्रायस् तु फाल्गुनचैत्रयोः ॥ ७.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	Let the king undertake his march in the fine month Margasirsha, or towards the months of Phalguna and Kaitra, according to the (condition of his) army.
 </details>

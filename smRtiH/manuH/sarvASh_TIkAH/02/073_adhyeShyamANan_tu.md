@@ -3,6 +3,11 @@ title = "073 अध्येष्यमाणन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the pupil is going to study, the Teacher, ever free from indolence, should say—‘ho, read!’ and he should cease when he says ‘let there be a stop!’—(73).
@@ -78,9 +83,4 @@ bed; he should never teach on the bed whereupon he sleeps.’
 <details><summary>गोविन्दराजः</summary>
 
 **अध्येष्यमाणम्** इति । प्रत्यासन्नाध्ययनं शिष्यम् अनलसो **गुरुः **सर्वकालम् **अधीष्व भो इति ब्रूयत् । विरामो ऽस्त्व् इति** चोक्त्वा अनन्तरम् अध्यापनान् निवर्तेत ॥ २.७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!
 </details>

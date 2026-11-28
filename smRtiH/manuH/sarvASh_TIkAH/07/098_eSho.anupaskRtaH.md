@@ -3,6 +3,11 @@ title = "098 एषो ऽनुपस्कृतः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	Thus has been declared the blameless, primeval law for warriors; from this law a Kshatriya must not depart, when he strikes his foes in battle.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been declared the blameless eternal law of warriors; the Kṣatriya, striking his enemies in battle, shall not deviate from this law.—(98)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 7.96].
 <details><summary>भारुचिः</summary>
 
 अनुपस्कृतः अकृतः स्वभावसिद्धगुण इत्य् अर्थः । विगुणम् उपस्क्रियते गुणाधानार्थम् । उपसंहारार्थश्लोकः ॥ ७.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	Thus has been declared the blameless, primeval law for warriors; from this law a Kshatriya must not depart, when he strikes his foes in battle.
 </details>

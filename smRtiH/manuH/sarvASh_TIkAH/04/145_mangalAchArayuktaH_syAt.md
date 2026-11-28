@@ -2,6 +2,11 @@
 title = "145 मङ्गलाचारयुक्तः स्यात्"
 +++
 
+<details><summary>Bühler</summary>
+
+145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall be intent upon auspicious customs, with his mind under control and the senses subjugated; and he shall, untired, daily recite prayers and offer oblations into the fire.—(145)
@@ -72,11 +77,6 @@ Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been fo
 <details><summary>गोविन्दराजः</summary>
 
 **मङ्गलाचारयुक्त** इति । अभिप्रेतसिद्धिरूपमङ्गलहेतुत्वात् गोरोचनाचन्दनादौ मङ्गले प्रत्युत्थानादौ आचारे यत्नवान् शुद्धात्मा वशीकृतजिह्वादीन्द्रियः स्यात्, अनलसश् च सन् जपहोमौ **नित्यं** कुर्यात् । अत्र आचारादीनाम् उक्तानाम् अपि विनिपातविनिवृत्त्यर्थं विवक्षया पुनर् अभिधानम् ॥ ४.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
 </details>
 
 <details><summary>भारुचिः</summary>

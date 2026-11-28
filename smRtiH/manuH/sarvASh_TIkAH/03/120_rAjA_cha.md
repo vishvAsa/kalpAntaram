@@ -2,6 +2,11 @@
 title = "120 राजा च"
 +++
 
+<details><summary>Bühler</summary>
+
+120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king and the Learned Man should be honoured with the Honey-mixture, at the approach of a sacrificial performance,—not if there is no sacrifice (going to be performed).—(120)
@@ -94,11 +99,6 @@ See Comparative notes for [Verse 3.119].
 <details><summary>गोविन्दराजः</summary>
 
 राजस्नातयकोः सङ्कोचायेदम् आह **राजेति** । राजस्नातकौ **यज्ञकर्मण्य् एव **सम्प्राप्तौ **मधुपर्केण **पूजनीयौ । **न त्व् अयज्ञे** संवत्सराद् ऊर्ध्वम् अपीति शास्त्रमर्यादा । संवत्सरात् पुनः अर्वाक् यज्ञे ऽपि न पूज्यौ पूर्ववाक्योपरि संवत्सराद् इत्य् उपादाने । अत्र च न तु यज्ञ इत्य् उपादानात् राजस्नातकपूजासङ्कोचार्थत्वम् अस्य प्रतीयते ॥ ३.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "120 धान्ये ऽष्टमम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	(Viz.) from Vaisyas one-eighth as the tax on grain, one-twentieth (on the profits on gold and cattle), which amount at least to one Karshapana; Sudras, artisans, and mechanics (shall) benefit (the king) by (doing) work (for him).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From the people the tax on grains shall be one-eighth, and one-twentieth (on gold), with the minimum of one ‘Kārṣāpaṇa’; Śūdras, craftsmen and artisans discharge their dues by work.—(120)
@@ -61,9 +66,4 @@ duties and taxes—“No duty is paid on a sum less than a *Kārṣāpaṇa*; th
 <details><summary>भारुचिः</summary>
 
 [राज्ञा धान्यस्याष्टमो] भागो गृहीतव्यो जानपदात् स्ववस्थापेक्षया। हिरण्यव्यवहारिणां च लाभाच् छुल्कं विंशो भागः । सो ऽयम् अनुवादो विज्ञेयः पूर्वोक्तस्य । **कर्मोपकरणाः शूद्राः** [भवेयुस्] तथा च **कारवः शिल्पिनश्** च । कारुशिल्पव्यपदेशश् च गोबलीवर्दन्यायेन ॥ १०.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	(Viz.) from Vaisyas one-eighth as the tax on grain, one-twentieth (on the profits on gold and cattle), which amount at least to one Karshapana; Sudras, artisans, and mechanics (shall) benefit (the king) by (doing) work (for him).
 </details>

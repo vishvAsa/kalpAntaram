@@ -3,6 +3,11 @@ title = "376 ब्राह्मणीं यद्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+376	If a Vaisya or a Kshatriya has connexion with an unguarded Brahmana, let him fine the Vaisya five hundred (panas) and the Kshatriya one thousand.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the Vaiśya and the Kṣatriya have intercourse with an unprotected Brāhmaṇa woman, the Vaiśya should be committed with five hundred and the Kṣatriya with one thousand.—(376)
@@ -82,9 +87,4 @@ See Comparative notes for [Verse 8.374].
 <details><summary>भारुचिः</summary>
 
 क्षत्रियस्य दण्डाधिक्यप्रयोजनम् उक्तम् "विदुषो ऽतिक्रमे दण्डभूयस्त्वम्" इति । अत्रापराधाभ्यासानुबन्धाद् वैतद् अस्य स्यात् ॥ ८.३७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-376	If a Vaisya or a Kshatriya has connexion with an unguarded Brahmana, let him fine the Vaisya five hundred (panas) and the Kshatriya one thousand.
 </details>

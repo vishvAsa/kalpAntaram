@@ -2,6 +2,11 @@
 title = "032 द्विधा कृत्वात्मनो"
 +++
 
+<details><summary>Bühler</summary>
+
+032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having divided his body into two halves, with the one half, the Lord became Male, and with the other half, Female; from her he produced Virāj.—(32)
@@ -37,11 +42,6 @@ The ‘Virāṭ’ whose birth is here described is, according to some, the same
 <details><summary>गोविन्दराजः</summary>
 
 **द्विधेति** । स ब्रह्मा शरीरं द्विभागं **कृत्वा **एकेन्**आर्धेन **पुमान् सम्पन्नः । अपरेण स्त्री **स** तस्याश् च सकाशात् विराजाख्यं पुरुषं सृष्टवान् ॥ १.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
 </details>
 
 <details><summary>भारुचिः</summary>

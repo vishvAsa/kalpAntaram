@@ -2,6 +2,11 @@
 title = "204 गो-ऽश्वोष्ट्र-यान-प्रासाद- प्रस्तरेषु"
 +++
 
+<details><summary>Bühler</summary>
+
+204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may sit with the teacher on carts drawn by oxen, horses and camels, on terraces and on grass-mats; as also on reedmats, rocks, benches and boats.—(204)
@@ -68,11 +73,6 @@ Teacher;—except on a stone-slab, a boat, or a conveyance.’
 > शय्यासने ऽध्याचरिते श्रेयसा च समाचरेत् ।
 
 इति प्रतिषेधस्यायं प्रतिप्रसवः ॥ २.२०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
 </details>
 
 <details><summary>भारुचिः</summary>

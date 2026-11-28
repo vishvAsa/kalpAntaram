@@ -2,6 +2,11 @@
 title = "009 नर्क्ष-वृक्ष-नदी-नाम्नीन् नाऽन्त्य-पर्वत-नामिकाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor one bearing the name of an asterism, or a tree, or a river; nob one having her hame after a low caste or a mountain; nor one named after a bird, a serpent or a slave; nor one with a hame inspiring terror.—(9)
@@ -71,11 +76,6 @@ See Comparative notes for [Verse 3.8].
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । नक्षत्रवृक्षनदीम्लेच्छपर्वतपक्षिसर्पदासभ्यानकनामिकां कन्यां नोद्वहेत्॥ ३.९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
 </details>
 
 <details><summary>भारुचिः</summary>

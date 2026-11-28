@@ -2,6 +2,11 @@
 title = "036 गर्भाष्टमे ऽब्दे"
 +++
 
+<details><summary>Bühler</summary>
+
+036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the eighth year from conception one should perform the initiation of the Brāhmaṇa; of the king in the eleventh year from conception; and of the Vaiśya in the twelfth.—(36)
@@ -110,11 +115,6 @@ or in his eighth year from conception; the Kṣattnya in the eleventh and the Va
 <details><summary>गोविन्दराजः</summary>
 
 **गर्भाष्टम** इति । गर्भग्रहणसंवत्सरद् **अष्टमे **संवत्सरे **ब्राह्मणस्य,** उपनयनम् एव्**ओपनायनं** मौञ्जीबन्धनं कर्तव्यम् । एवं गर्भैकादशे क्षत्रियस्य गर्भद्वादशे वैश्यस्य ॥ २.३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.
 </details>
 
 <details><summary>भारुचिः</summary>

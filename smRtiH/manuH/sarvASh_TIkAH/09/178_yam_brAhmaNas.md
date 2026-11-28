@@ -3,6 +3,11 @@ title = "178 यम् ब्राह्मणस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+178	The son whom a Brahmana begets through lust on a Sudra female is, (though) alive (pArayan), a corpse (sava), and hence called a Parasava (a living corpse).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa, through lust, begets a son on a Śūdra woman, he is as a corpse, even though living, and hence called the ‘living corpse.’—(178)
@@ -52,9 +57,4 @@ is the *Niṣāda* or the *Pāraśava*.’
 <details><summary>भारुचिः</summary>
 
 यः शौद्र इति प्राग् अभिहितः । **यं ब्राह्मण** इति क्षत्रियवैश्ययोर् अपि प्रदर्शनार्थम् । तथा च पारशवग्रहणवान् स **पारयन्न् एव** जीवन्न् एव **शवः** । पुरुषार्थप्रयोजनविशिष्टकर्मणानभिसंबन्धित्वात् तस्य **पारशवः स्मृतः** ॥ ९.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	The son whom a Brahmana begets through lust on a Sudra female is, (though) alive (pArayan), a corpse (sava), and hence called a Parasava (a living corpse).
 </details>

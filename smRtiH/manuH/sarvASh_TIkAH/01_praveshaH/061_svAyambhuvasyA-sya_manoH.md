@@ -2,6 +2,11 @@
 title = "061 स्वायम्भुवस्याऽस्य मनोः"
 +++
 
+<details><summary>Bühler</summary>
+
+061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 There are Six other Manus, high-souled and mighty, who belong to the same race as this Svāyambhuva Manu, and have called into being, each his own offsprings.—(61)
@@ -35,11 +40,6 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 <details><summary>गोविन्दराजः</summary>
 
 **स्वायम्भुवस्येति** । अस्योक्तप्रकारेण स्वयम्भूनप्तुर् **मनोः षड् अन्ये मनवः** काले काले सृष्ट्यादौ अधिकृता वंश्याः तत्कुलोद्भूताः तदेककार्याः **स्वाह् स्वाः **प्रजा उत्पादितवन्तः ॥ १.६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "420 एवं सर्वान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+420	A king who thus brings to a conclusion. all the legal business enumerated above, and removes all sin, reaches the highest state (of bliss).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king who completes all this business, removes all sin and attains the highest state.—(420)
@@ -59,9 +64,4 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 396).
 राज्ञो यथोक्तव्यवहारदर्शनस्य शास्त्रसामर्थ्यात् फलविधिर् अयम् । तदनुष्ठा[न सामा]न्याच् चायं व्यवहारोपसंहारः पूर्वेषां व्यवहारनित्तानाम् अपरिसमाप्तेष्व् अपि व्यवहारास्पदेषु स्त्रीपुंधर्मप्रभृतिषु चतुर्ष्व् अपीति ॥ ८.४१८ ॥
 
 **इति भारुचेः कृताव् अष्टमो ऽध्यायः ।**
-</details>
-
-<details><summary>Bühler</summary>
-
-420	A king who thus brings to a conclusion. all the legal business enumerated above, and removes all sin, reaches the highest state (of bliss).
 </details>

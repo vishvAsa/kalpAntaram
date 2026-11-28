@@ -2,6 +2,11 @@
 title = "025 एषा धर्मस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the source of Dharma been briefly explained to you, as also the origin of all this (world). Learn now the duties of the several castes.—(25).
@@ -110,11 +115,6 @@ Modern writers and lecturers on what they call ‘*Varṇā-śramadharma*’ sho
 <details><summary>गोविन्दराजः</summary>
 
 **एषा धर्मस्य योनिः **कारणम् । यो विद्वद्भिःसेवितः तस्य आफलदानावस्थायिनः, कारणम् इति सङ्क्षेपतो युष्माकम् उक्ता । इह **धर्म**शब्दः अपूर्वाख्यात्मसंस्कारे वर्तते । “विद्वद्भिः सेवितः” इत्य् अत्र तु तत्कारणेषु कदाचित् इत्य् उभयत्रापि चायं दृष्टप्रोयोगः । **सम्भवश्** चोत्त्पत्तिर् जगतः उक्ता ।साम्प्रतं वर्णैः ब्राह्मणादिभिर् ये अनुष्ठेया धर्माः **वर्णधर्माः** आश्रमधर्माः वर्णाश्रमधर्माः नैमित्तिकाख्याः पञ्चप्रकाराः तान् शृणुत । वर्णधर्मा यथा ब्राह्मणस्य मद्यपाननिषेधः, आश्रमधर्मो यथा ब्रह्मचारिणो भैक्षचरणं ब्राह्मणो (ब्राह्मणस्य) बैल्वदण्डधारणम् । वर्णाश्रमधर्मो यथा पालाशदण्डो ब्राह्मणस्येति । गुणधर्मो यथा अभिषेकादिगुणयुक्तस्य राज्ञः प्रजापालनम् । नैमित्तिका यथा प्रायश्चित्तम् इति ॥ २.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).
 </details>
 
 <details><summary>भारुचिः</summary>

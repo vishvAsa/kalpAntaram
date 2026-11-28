@@ -3,6 +3,11 @@ title = "309 अनपेक्षित-मर्यादन् नास्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+309	Know that a king who heeds not the rules (of the law), who is an atheist, and rapacious, who does not protect (his subjects, but) devours them, will sink low (after death).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who heeds not the bounds of morality, who is a disbeliever, who is extortionate, who does not afford protection, and is grabbing,—such a king one should regard as doomed to perdition.—(309)
@@ -78,9 +83,4 @@ See Comparative notes for [Verse 8.308].
 <details><summary>भारुचिः</summary>
 
 स्तेनप्रकरणे च रक्षार्थं स्तेननिग्रहानुष्ठानं संस्तुत्य, तन्निग्रहस्वरूपम् अधुनेदम् आह ॥ ८.३०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-309	Know that a king who heeds not the rules (of the law), who is an atheist, and rapacious, who does not protect (his subjects, but) devours them, will sink low (after death).
 </details>

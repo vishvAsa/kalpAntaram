@@ -3,6 +3,11 @@ title = "060 नाऽधर्मिके वसेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	Let him not dwell in a village where the sacred law is not obeyed, nor (stay) long where diseases are endemic; let him not go alone on a journey, nor reside long on a mountain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not dwell long in an unrighteous village, nor in one abounding in sickness. Alone, he shall not undertake a journey; nor shall he reside for long on a mountain.—(60)
@@ -44,9 +49,4 @@ village where there is abundance of fuel and water, of fodder, sacrificial fuel,
 <details><summary>गोविन्दराजः</summary>
 
 **नाधार्मिक** इति । अधर्मबहुलजनग्रामादौ अत्यर्थं व्याधिबहुले **न वसेत्** । **एकश् चाध्वानं** न यायात् । **पर्वते **च दीर्घकालं न तिष्ठेत् ॥ ४.६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-060	Let him not dwell in a village where the sacred law is not obeyed, nor (stay) long where diseases are endemic; let him not go alone on a journey, nor reside long on a mountain.
 </details>

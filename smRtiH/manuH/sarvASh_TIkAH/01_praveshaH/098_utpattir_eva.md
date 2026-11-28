@@ -3,6 +3,11 @@ title = "098 उत्पत्तिर् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The very genesis of the Brāhmaṇa is the eternal incarnation of Virtue; for he is born for the sake of Virtue; and this (birth) leads to the state of Brahman. (98).
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>गोविन्दराजः</summary>
 
 किं च **उत्पत्तिर्** इति । जन्ममात्रम् एव ब्राह्मणस्य अविनश्वरं धर्मस्य शरीरम्, यस्माद् असौ धर्मार्थम् उत्पन्नः उपनीतः सन् आत्मज्ञानेन ब्रह्मत्वाय सम्पद्यते ॥ १.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.
 </details>

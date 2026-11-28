@@ -3,6 +3,11 @@ title = "082 एष सर्वः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+082	All the results, proceeding from actions, have been thus pointed out; learn (next) those acts which secure supreme bliss to a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has been indicated to you the entire manner in which results proceed from actions; now learn that act which brings about the Highest Good of the Brāhmaṇa.—(82)
@@ -49,9 +54,4 @@ The results proceeding from such acts as have been forbidden have been duly desc
 > **नैःश्रेयसकरं कर्म विप्रस्येदं निबोधत  ॥ १२.८२ ॥**
 
 प्रायश्चित्तप्रकरणसामर्थ्याद् वक्ष्यमाणो वेदाभ्यासादिको विधिः निःश्रेयसार्थो ऽपि सन्न् आत्मशुद्धये संपद्यत इति विज्ञेयम् । एवं हि प्रकरणम् अनुगृहीतं भवति । अथ वास्मिञ् छास्त्रे पूर्व आभ्युदयिको विधिर् उक्तः, अधुना तु **नैःश्रेयसकरं कर्म विप्रस्येदं निबोधत** ब्रह्मलोकप्राप्त्यर्थं मोक्षार्थं वा । एवं च सति यथा वेदस्यान्ति उपनिषदो रहस्यब्राह्मणोक्ता निःश्रेयसार्थम्, एवं अस्मिन्न् अपि धर्मशास्त्रान्ते निःश्रेयसार्था इमा उपनिषदो ऽभिविधीयन्ते ॥ १२.८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-082	All the results, proceeding from actions, have been thus pointed out; learn (next) those acts which secure supreme bliss to a Brahmana.
 </details>

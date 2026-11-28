@@ -3,6 +3,11 @@ title = "128 त्र्यब्दञ् चरेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+129	Or he may perform the penance prescribed for the murderer of a Brahmana during three years, controlling himself, wearing his hair in braids, staying far away from the village, and dwelling at the root of a tree.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, he may perform, for three years, the penance of the ‘Brāhmaṇa-killer,’ keeping himself under control and wearing matted locks, living far off from the village, having his abode at the root of a tree.—(128)
@@ -69,9 +74,4 @@ See Comparative notes for [Verse 11.126].
 <details><summary>भारुचिः</summary>
 
 **जटिल**वचनं नियमार्थत्वाद् अन्येषां खट्वाङ्गीत्येवमादीनां निवृत्त्यर्थम् ॥ ११.१२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	Or he may perform the penance prescribed for the murderer of a Brahmana during three years, controlling himself, wearing his hair in braids, staying far away from the village, and dwelling at the root of a tree.
 </details>

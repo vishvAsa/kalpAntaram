@@ -2,6 +2,11 @@
 title = "062 स्वारोचिषश् चोत्तमश्"
 +++
 
+<details><summary>Bühler</summary>
+
+062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 [These six Manus are]—Svārociṣa, Uttama, Tāmasa, Raivata, Cākṣuṣa, and the glorious Vivasvat-suta (the Son of Vivasvat).—(62)
@@ -27,11 +32,6 @@ The aforesaid Manus are now mentioned by name.
 <details><summary>गोविन्दराजः</summary>
 
 ते च – **स्वारोचिष** इति ॥ १.६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.
 </details>
 
 <details><summary>भारुचिः</summary>

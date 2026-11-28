@@ -3,6 +3,11 @@ title = "373 संवत्सराभिशस्तस्य दुष्ट
 
 +++
 
+<details><summary>Bühler</summary>
+
+373	On a man (once) convicted, who is (again) accused within a year, a double fine (must be inflicted); even thus (must the fine be doubled) for (repeated) intercourse with a Vratya and a Kandali.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the convicted man is accused again within a year, he shall be punished with a double fine. the same also in the case of intercourse with a ‘vrātyā’ or a ‘chāṇḍālī.’—(373)
@@ -130,9 +135,4 @@ woman, a man of the three higher castes shall he branded with the sign of a head
 <details><summary>भारुचिः</summary>
 
 यो यस्याम् अभिगृहीतः स चेत् संवत्सरे ऽतीते पुनस् तस्याम् एवाभिगृह्येत् तस्य यथोपदेशाद् द्विगुणो दण्डः कर्तव्यः । यस् तु संवत्सराद् अर्वाक् पुनर् अपि गृह्यते तस्य प्रथममासे द्वादशगुणो दण्डः एवं मासानुमासं भागह्रासेन तावद् दण्डप्रकॢप्तिः । यावत् संवत्सरे ऽतीते द्विगुणो दण्ड इति । एवं संवत्सराद् ऊर्ध्वं भागद्वादशभागह्रासेन मासानुमास एव दण्डः प्रकल्प्यः । यावद् एक एव भागो ऽवशिष्ट इति । एवं प्रत्यागमने यो दण्डः प्रकल्प्यते तस्याप्य् एषैव प्रकॢप्तिर् अनूद्यते । चण्डालीगमने च दण्डं वक्ष्यति "सहस्रं त्व् अन्त्यजस्त्रियम्" इति ॥ ३.३७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-373	On a man (once) convicted, who is (again) accused within a year, a double fine (must be inflicted); even thus (must the fine be doubled) for (repeated) intercourse with a Vratya and a Kandali.
 </details>

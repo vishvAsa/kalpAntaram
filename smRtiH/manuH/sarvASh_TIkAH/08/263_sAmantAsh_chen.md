@@ -3,6 +3,11 @@ title = "263 सामन्ताश् चेन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+263	Should the neighbours give false evidence, when men dispute about a boundary-mark, the king shall make each of them pay the middlemost amercement as a fine.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of men disputing about boundary-marks, if the neighbours depose falsely, all of them should be severally punished by the king with the ‘middle amercement.’—(268)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>भारुचिः</summary>
 
 सीम्साक्षिणाम् अयं विशेषदण्डः ॥ ८.२६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-263	Should the neighbours give false evidence, when men dispute about a boundary-mark, the king shall make each of them pay the middlemost amercement as a fine.
 </details>

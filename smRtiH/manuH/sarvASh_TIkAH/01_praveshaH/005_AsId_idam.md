@@ -2,6 +2,11 @@
 title = "005 आसीद् इदम्"
 +++
 
+<details><summary>Bühler</summary>
+
+005	This (universe) existed in the shape of Darkness, unperceived, destitute of distinctive marks, unattainable by reasoning, unknowable, wholly immersed, as it were, in deep sleep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 This (World) was in existence in the form, as it were, of dense Darkness,—unperceived, undifferentiated, incogitable, (hence) incognizable; as it was wholly merged in deep sleep.—(5).
@@ -181,11 +186,6 @@ As a Vedāntin, Sāyaṇa identifies *tamas* with *māyā* \|
 <details><summary>गोविन्दराजः</summary>
 
 **आसीद्** इति । जगदुत्पत्तिस्थितिप्रलयानां धर्माधर्मनिमित्तत्वात् तत्प्रतिपादनार्थत्वेनेदं शास्त्रं महाप्रयोजनतया यत्नतो ऽधिगन्तव्यम् इत्य् एतदर्थं जगदुत्पदकं प्रकरणम् आरभते । तत्र प्राग्भाविनीं तावदवस्थाम् अनेन श्लोकेनाह । **इदं** जगत् सृष्टेः प्राक् **तम** इवाभूत् । यतः कार्यात्मना सर्वस्य तदानीं विनष्टत्वात् प्रत्यक्षेण न ज्ञातम् । **अलक्षणम्** अविद्यमानलिङ्गतयाननुमेयं प्रत्यक्षपूर्वकत्वाद् अनुमानादीनां तदसम्भवे तेषाम् अप्य् अभावात् । **अप्रतर्क्यम्** अनौपम्यतयापि “गौर् इव गवयः” इति च तर्कयितुम् अशक्यम् । **अविज्ञेयम्** अर्थापत्त्यापि जीवतो देवदत्तस्य गृहादर्शनेन बहिर्भाववत् । एवं तर्हि अभाव एव प्राप्त इत्य् अत आह – **प्रसुप्तम् इवेति **। आगमाद् एवंरूपतास्य ज्ञायत इति । यथा सुषुप्तावस्थायाम् उपरतेन्द्रियमनोव्यापारः आत्मा भवति एवं सकलकार्यप्रत्यस्तमये तदानीं समन्तात् जगद् आसीद् इति । स्वप्नदर्शनरहिता हि निद्रावस्था सुषुप्तिः ॥ १.५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-005	This (universe) existed in the shape of Darkness, unperceived, destitute of distinctive marks, unattainable by reasoning, unknowable, wholly immersed, as it were, in deep sleep.
 </details>
 
 <details><summary>भारुचिः</summary>

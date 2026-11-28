@@ -3,6 +3,11 @@ title = "107 यः स्वाध्यायम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, clean and self-controlled, recites the Veda, in due form, for one year,—for him this constantly fours out milk, curd, clarified butter and honey.—(107)
@@ -79,9 +84,4 @@ satisfies the gods with offerings of milk;—when he reads the Yajuṣ verses, w
 <details><summary>गोविन्दराजः</summary>
 
 **य** इति । एवं ब्रह्मयज्ञाख्यं **स्वाध्यायम्** अरण्ये गमनाद्युक्तविधानेन संयतमनाः **शुचिः **सन् **यः **संवत्सरम् **अधीते **तस्यैष **पयोदधिघृतमधूनि नित्यं** ददातीति । एवं च नित्यत्वे ऽपि फलकामनया फलम् अप्य् अतो भवति दर्शपौर्णमास्वत् ॥ २.१०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.
 </details>

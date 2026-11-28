@@ -2,6 +2,11 @@
 title = "004 ऋतामृताभ्याञ् जीवेत्"
 +++
 
+<details><summary>Bühler</summary>
+
+004	He may subsist by Rita (truth), and Amrita (ambrosia), or by Mrita (death) and by Pramrita (what causes many deaths); or even by (the mode) called Satyanrita (a mixture of truth and falsehood), but never by Svavritti (a dog's mode of life).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall live in “Truth” and “Nectar,” or by “Death” and “Super-death;” or, even by “Truth and Falsehood;” but never by the “living of the dog.”—(4)
@@ -57,11 +62,6 @@ the only two means of livelihood.’
 <details><summary>गोविन्दराजः</summary>
 
 कैस् तैः कर्मभिर् इत्य् अत आह **ऋतामृताभ्याम्** इति । ऋतादिभिर् अनापदि जीवेत्, न त्व् अनापदि कदाचिद् अपि सेवयेत् ॥ ४.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	He may subsist by Rita (truth), and Amrita (ambrosia), or by Mrita (death) and by Pramrita (what causes many deaths); or even by (the mode) called Satyanrita (a mixture of truth and falsehood), but never by Svavritti (a dog's mode of life).
 </details>
 
 <details><summary>भारुचिः</summary>

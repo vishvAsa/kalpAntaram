@@ -3,6 +3,11 @@ title = "087 सर्वञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	All dyed cloth, as well as cloth made of hemp, or flax, or wool, even though they be not dyed, fruit, roots, and (medical) herbs
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Every kind of woven article dyed (red) as well as that made of hemp, silk or wool, even when not dyed red; and also fruits and roots and medicinal herbs.—(87)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>भारुचिः</summary>
 
 शाणादीनाम् अरक्तार्थ आरम्भः । तथौषधयो ऽविक्रेयाः ॥ १०.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	All dyed cloth, as well as cloth made of hemp, or flax, or wool, even though they be not dyed, fruit, roots, and (medical) herbs
 </details>

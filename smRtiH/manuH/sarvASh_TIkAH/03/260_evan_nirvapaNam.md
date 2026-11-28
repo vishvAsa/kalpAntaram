@@ -2,6 +2,11 @@
 title = "260 एवन् निर्वपणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having made the offering thus, he should, after this, either make the cow or the Brāhmaṇa or the goat or the fire to eat the balls, or throw them into water.—(260)
@@ -60,11 +65,6 @@ down for the offering of the balls, one should follow the practice of his own re
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । **एवं** “त्रींस् तु तस्माद् धविःशेषात्” (३.२१५) इत्यादिप्रक्रियया पिण्डा**निर्वपणं कृत्वा तान्** पिण्डान् **अनन्तरं** प्रक्रान्तवरयाचनानन्तरं गोविप्राजानाम् अन्यतमम् आशयेत् । अग्नाव् उदके **वा क्षिपेत् ** ॥ ३.२६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
 </details>
 
 <details><summary>भारुचिः</summary>

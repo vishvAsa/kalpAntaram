@@ -3,6 +3,11 @@ title = "379 मौण्ड्यम् प्राणान्तिकम्
 
 +++
 
+<details><summary>Bühler</summary>
+
+379	Tonsure (of the head) is ordained for a Brahmana (instead of) capital punishment; but (men of) other castes shall suffer capital punishment.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Tonsure has been prescribed as the death-penalty for the Brāhmaṇa; for other castes the penalty would be actual death.—(379)
@@ -91,9 +96,4 @@ following punishments have been ordained: shaving of the head, banishment from t
 <details><summary>भारुचिः</summary>
 
 सर्वत्र प्राणान्तिकेषु ब्राह्मणस्य मौण्ड्यं कर्तव्यम् । मुण्डयित्वा च **समग्रधनो ऽक्षतो** राष्ट्राद् बहिः कर्तव्यः । एवं सर्वाङ्गच्छेदनेषु ब्राह्मणस्य मुण्डनविवासने एव कार्ये । स्मृत्यन्तरे चाविशेषेण स्मर्यते- "न शारीरो ब्राःमणदण्डः" इति ॥ ८.३७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-379	Tonsure (of the head) is ordained for a Brahmana (instead of) capital punishment; but (men of) other castes shall suffer capital punishment.
 </details>

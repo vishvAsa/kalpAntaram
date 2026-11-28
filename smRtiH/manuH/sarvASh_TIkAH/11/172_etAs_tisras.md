@@ -3,6 +3,11 @@ title = "172 एतास् तिस्रस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+173	A wise man should not take as his wife any of these three; they must not be wedded because they are (Sapinda-) relatives, he who marries (one of them), sinks low.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A wise man should never take these three as his wife; being blood-relations, they are not fit to be married; because by marrying them one sinks low.—(172)
@@ -69,9 +74,4 @@ belonging to the same *Gotra* as himself he shall support her, treating her as h
 <details><summary>भारुचिः</summary>
 
 मातृषवसृमातुलदुहित्रोस् त्व् "असपिण्डास् च याः मातुः" इत्य् अनेन सिद्धे प्रतिषेधे पैतृषवस्रेय्याः प्रतिषेधार्थं पुनर् इह ग्रहणम् । अनुवादार्थो वायं श्लोको वर्णनीयः, "असपिण्डा च या मातुः" इत्य् अनेनैव सिद्धात्वाद् इति ॥ ११.१७०–१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	A wise man should not take as his wife any of these three; they must not be wedded because they are (Sapinda-) relatives, he who marries (one of them), sinks low.
 </details>

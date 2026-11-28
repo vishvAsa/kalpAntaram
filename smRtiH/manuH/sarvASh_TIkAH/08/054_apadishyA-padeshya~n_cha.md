@@ -3,6 +3,11 @@ title = "054 अपदिश्याऽपदेश्यञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Or who having stated what he means to prove afterwards varies (his case), or who being questioned on a fact duly stated by himself does not abide by it;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who, having put forward a statement, subsequently retracts; and who on being questioned regarding a fact (previously) duly alleged, does not support it;—(54)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 8.53].
 <details><summary>भारुचिः</summary>
 
 अपदिश्यापदेशं च, अपदेश्यं वा, पुनर् यस् त्व् अपधावति, अन्यथा ब्रवीति, "अनेन मम हिरण्यं गृहीतम्" इत्य् अपदिश्य पक्षान्तरे पुत्रं भृत्यं वा निर्दिशति, "कस्मिंश्चित् काले देशे वा व्यवहारस् त्वया कृतः" इति यदैवमादि पृच्छ्यते राज्ञा प्राङ्विवाकेन वा तत् सम्यक् पृष्टंनाभिनन्दति, मा भूद् इति विचारणया परमार्थदर्शनम् ॥ ८.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Or who having stated what he means to prove afterwards varies (his case), or who being questioned on a fact duly stated by himself does not abide by it;
 </details>

@@ -3,6 +3,11 @@ title = "285 सङ्क्रम-ध्वज-यष्टीनाम् प�
 
 +++
 
+<details><summary>Bühler</summary>
+
+285	He who destroys a bridge, the flag (of a temple or royal palace), a pole, or images, shall repair the whole (damage) and pay five hundred (panas).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who destroys a crossing, a flag, a pole or images, shall repair the whole of it and shall pay five hundred.—(285)
@@ -66,9 +71,4 @@ sold, and he who breaks the image of a deity, shall pay the highest amercement.�
 <details><summary>भारुचिः</summary>
 
 नदीगर्तादिषु यैः संक्रामन्ति ते संक्रमाः । ध्वजो राज्ञां देवतायतनेषु वा, यष्टिर् नागायतने, बलियष्टिर् वा ग्रामेषु । अयं च विचारितो ऽर्थः । पूर्वश्लोके व्कल्पार्थं वधदण्डस्य केनचिद् अत्रानुबन्धादिना कारणेन प्रतिमाभेदकस्येहोपदेशः ॥ ९.२८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-285	He who destroys a bridge, the flag (of a temple or royal palace), a pole, or images, shall repair the whole (damage) and pay five hundred (panas).
 </details>

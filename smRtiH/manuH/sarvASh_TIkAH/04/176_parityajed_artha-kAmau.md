@@ -2,6 +2,11 @@
 title = "176 परित्यजेद् अर्थ-कामौ"
 +++
 
+<details><summary>Bühler</summary>
+
+176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, avoid such wealth and pleasures as are opposed to righteousness, as also righteousness if it be conducive to unhappiness, or disapproved by the people.—(176)
@@ -78,11 +83,6 @@ trying to attain the other three purposes, and he shall follow the path of liber
 <details><summary>गोविन्दराजः</summary>
 
 **परित्यजेद्** इति । सत्य् अपि च त्रिवर्गस्य पुरुषार्थत्वाभिधाने **पर्तित्यजेद्** इति । **धर्मम् अप्य् असुखोदर्कं लोकसङ्क्रुष्टम् एव च **। धर्मविरुद्धाव् अर्थकामौ असुखोत्तरकालं चाशक्तस्य तीव्रतपश्चरणादिरूपं धर्मं लोकाभिशापजनकं च मधुपर्कगोवधादिरूपं नाचरेत् ॥ ४.१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
 </details>
 
 <details><summary>भारुचिः</summary>

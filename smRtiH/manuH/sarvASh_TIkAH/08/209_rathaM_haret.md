@@ -3,6 +3,11 @@ title = "209 रथं हरेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+209	The Adhvaryu priest shall take the chariot, and the Brahman at the kindling of the fires (Agnyadhana) a horse, the Hotri priest shall also take a horse, and the Udgatri the cart, (used) when (the Soma) is purchased.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At Fire-laying, the Adhvaryu shall take the chariot, and the Brahman the horse; or the Hotṛ shall take the house: and the Udgātṛ shall take the cart at the Soma-purchase.—(209)
@@ -55,9 +60,4 @@ in the preceding verse, the answer being that wherever the texts prescribe a cer
 <details><summary>भारुचिः</summary>
 
 क्रतौ नानाशाखास्व् अवस्थितानाम् अङ्गदक्षिणानां बह्वीनां प्रदर्शनार्थः श्लोकः । एवं तावद् आधाने प्रधानर्त्विग्दक्षिणा अनः सोमिकेष्व् अपि ॥ ८.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-209	The Adhvaryu priest shall take the chariot, and the Brahman at the kindling of the fires (Agnyadhana) a horse, the Hotri priest shall also take a horse, and the Udgatri the cart, (used) when (the Soma) is purchased.
 </details>

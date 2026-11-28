@@ -3,6 +3,11 @@ title = "064 नाऽर्थसम्बन्धिनो नाप्ता
 
 +++
 
+<details><summary>Bühler</summary>
+
+064	Those must not be made (witnesses) who have an interest in the suit, nor familiar (friends), companions, and enemies (of the parties), nor (men) formerly convicted (of perjury), nor (persons) suffering under (severe) illness, nor (those) tainted (by mortal sin).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Neither interested persons, nor relations, nor helpers, nor enemies, nor persons of proved corruption, nor those afflicted with disease, nor the corrupted should be made witnesses.—(64)
@@ -113,9 +118,4 @@ wife’s brother, maternal uncle, brother, friend and son-in-law are inadmissibl
 > **न व्याध्यार्ता न दूषिताः  ॥ ८.६४ ॥**
 
 ते हि स्मृतिप्रमाणाद् उभयत्र न स्युः । निमित्तेन च प्रतिषेधाद् अनार्तो व्याधितो ऽपि स्यात् । पातकोपपातकाभिशंसा दूषितो ऽपि न स्यात् ॥ ८.६४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-064	Those must not be made (witnesses) who have an interest in the suit, nor familiar (friends), companions, and enemies (of the parties), nor (men) formerly convicted (of perjury), nor (persons) suffering under (severe) illness, nor (those) tainted (by mortal sin).
 </details>

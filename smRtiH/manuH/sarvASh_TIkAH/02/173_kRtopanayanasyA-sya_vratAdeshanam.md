@@ -2,6 +2,11 @@
 title = "173 कृतोपनयनस्याऽस्य व्रतादेशनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the boy whose initiatory rite has been performed, instruction regarding; observances is considered desirable; as also the getting up of the Veda, in due course, according to the prescribed rule.—(173)
@@ -86,11 +91,6 @@ of all instruct him regarding cleanliness, course of conduct, fire-tending, the 
 <details><summary>गोविन्दराजः</summary>
 
 **कृतोपनयनसेति **। उपनीतस्य सतो ऽस्य आदौ स्वशास्त्राचोदितसावित्रादिव्रतोपदेश **इष्यते** । तत उक्तरूपवेदाध्ययनं स्वशाखागतमन्त्रब्राह्मणाध्ययनं क्रमेणोक्तं प्राणायामादिपूर्वकम् ॥ २.१७३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
 </details>
 
 <details><summary>भारुचिः</summary>

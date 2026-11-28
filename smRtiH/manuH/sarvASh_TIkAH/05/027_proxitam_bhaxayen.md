@@ -2,6 +2,11 @@
 title = "027 प्रोक्षितम् भक्षयेन्"
 +++
 
+<details><summary>Bühler</summary>
+
+027	One may eat meat when it has been sprinkled with water, while Mantras were recited, when Brahmanas desire (one's doing it), when one is engaged (in the performance of a rite) according to the law, and when one's life is in danger.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He may eat meat that has been consecrated; also at the wish of Brāhmaṇas; and when invited according to law; and when his life is in danger.—(27)
@@ -303,11 +308,6 @@ See Comparative notes for [Verse 5.26].
 <details><summary>गोविन्दराजः</summary>
 
 **प्रोक्षितम्** इति । प्रोक्षणाख्यश्रौतसंस्कारयुक्तः गोऽव्यजसञ्चित्प्रियमांसं तद् भक्षयेत् इति श्रुतिः । कर्माङ्गभूतभक्षणनियमानुवादो ऽयं ब्राह्मणकामनादिनिमित्तभक्षणनियमसाम्यापादनार्थः । _यत् तु_ प्रोक्षितपरिसङ्ख्यार्थत्वम् आहुः । _तद् असत्_, “अनुपाकृतमांसानि” इत्य् अस्य अप्रोक्षितप्रतिषेधार्थत्वात् । **ब्राह्मणानां चेति** ब्राह्मणप्रार्थनया व्यक्तप्रतिषिद्धमांसाशिनो ऽपि च ब्रह्मचर्यादिनियमतो ऽश्नीयात् । तथा श्राद्धे मधुपर्के वा तदामिषेण कर्तव्यम्, “नामांसो मधुपर्कः स्यात्” इति स्मृतिगृह्यशास्त्रप्रयुक्तेन अब्राह्मणेनापि नियुक्तो नियमतो भक्षयेत् । तथा च नियुक्तस् तु इति अतिक्रमदोषं वक्ष्यति । प्राणात्यये ऽपि चक्षुर्निमित्ते व्याधिनिमित्ते च त्यक्तमांसाशिनो ऽपि च ब्रह्मचर्यादिनियमतो भुञ्जीत ॥ ५.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	One may eat meat when it has been sprinkled with water, while Mantras were recited, when Brahmanas desire (one's doing it), when one is engaged (in the performance of a rite) according to the law, and when one's life is in danger.
 </details>
 
 <details><summary>भारुचिः</summary>

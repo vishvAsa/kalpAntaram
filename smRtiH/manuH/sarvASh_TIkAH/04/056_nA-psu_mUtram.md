@@ -3,6 +3,11 @@ title = "056 नाऽप्सु मूत्रम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+056	Let him not throw urine or faeces into the water, nor saliva, nor (clothes) defiled by impure substances, nor any other (impurity), nor blood, nor poisonous things.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not throw into water urine, or faeces, or spittings, or anything else contaminated by unclean things, or blood or poisons.—(56).
@@ -39,9 +44,4 @@ blood, or faeces, or urine, or semen.’
 <details><summary>गोविन्दराजः</summary>
 
 **नाप्स्व्** इति । मूत्रपुरीषश्लेष्मामेध्यलिप्तरुधिरविषाणि उदके न क्षिपेत् ॥ ४.५६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-056	Let him not throw urine or faeces into the water, nor saliva, nor (clothes) defiled by impure substances, nor any other (impurity), nor blood, nor poisonous things.
 </details>

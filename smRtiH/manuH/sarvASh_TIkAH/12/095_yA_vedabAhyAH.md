@@ -3,6 +3,11 @@ title = "095 या वेदबाह्याः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+095	All those traditions (smriti) and those despicable systems of philosophy, which are not based on the Veda, produce no reward after death; for they are declared to be founded on Darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those ‘revealed texts’ that are outside the Veda, as also all the false theories, are useless, even when carried to perfection; as they have been declared to be founded on ‘darkness.’—(95)
@@ -108,9 +113,4 @@ Under this explanation, the syntactical connection of the participle ‘*pretya*
 <details><summary>भारुचिः</summary>
 
 **या वेदबाह्याः स्मृतय** आगमा इत्य् अर्थः । पुरुषदृष्टिप्रभवाः । तदीयेषु शास्त्रेषु **याश् च काश् च** [**कुदृष्टयः**] **सर्वास् ता निष्फलाः प्रेत्या**धिकारविरोधेन तत्कर्मविधानात् । अधिकारमूलो धर्मो यतः, तदभावात् **तमोनिष्ठा हि ताः स्मृताः** । यतश् च ॥ १२.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	All those traditions (smriti) and those despicable systems of philosophy, which are not based on the Veda, produce no reward after death; for they are declared to be founded on Darkness.
 </details>

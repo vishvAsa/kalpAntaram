@@ -3,6 +3,11 @@ title = "257 प्रकाशवञ्चकास् तेषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+257	Among them, the open rogues (are those) who subsist by (cheating in the sale of) various marketable commodities, but the concealed rogues are burglars, robbers in forests, and so forth.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of these, the ‘open’ cheats are those who make a living by dealing in various commodities, and the ‘concealed’ cheats are burglars, robbers in forests and so forth.—(257)
@@ -62,9 +67,4 @@ See Comparative notes for [Verse 9.256].
 <details><summary>भारुचिः</summary>
 
 तत्र ये क्रये विक्रये मानतुलादिविशेषेण मुष्णन्ति द्रव्याणाम् आगमस्थाननिर्गमान् अनवेक्ष्य ते **प्रकाशा वञ्चकाः** । प्रच्छन्नास् तु रात्रिसत्त्रास्, तस्करा इत्य् अर्थः । न च केवलम् अत एव किं तर्हीमे चान्ये यान् इत ऊर्ध्वं वक्ष्यामः ॥ ९.२५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-257	Among them, the open rogues (are those) who subsist by (cheating in the sale of) various marketable commodities, but the concealed rogues are burglars, robbers in forests, and so forth.
 </details>

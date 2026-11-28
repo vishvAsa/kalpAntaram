@@ -3,6 +3,11 @@ title = "233 यस्मिन् कर्मण्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+234	If his mind be uneasy with respect to any act, let him repeat the austerities (prescribed as a penance) for it until they fully satisfy (his conscience).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If in regard to any act that has been committed, his mind be uneasy, he shall perform the penance prescribed for it until it brings peace to his mind.—(233)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्ताभ्यासार्थो निमित्ततो ऽस्यारम्भः । तस्यायम् उभयत्र रहस्ये प्रकाशे च विज्ञेयः । तथा चोक्तं भावप्रसादस्य कु[श]लकर्महेतुत्वम् ॥ ११.२३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-234	If his mind be uneasy with respect to any act, let him repeat the austerities (prescribed as a penance) for it until they fully satisfy (his conscience).
 </details>

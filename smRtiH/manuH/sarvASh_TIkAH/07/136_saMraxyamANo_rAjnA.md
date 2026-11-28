@@ -3,6 +3,11 @@ title = "136 संरक्ष्यमाणो राज्ञा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+136	Whatever meritorious acts (such a Brahmana) performs under the full protection of the king, thereby the king's length of life, wealth, and kingdom increase.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Protected by the King he performs meritorious acts day after dat; and by that the King’s life, wealth and kingdom become augmented.—(136)
@@ -47,9 +52,4 @@ are Brāhmaṇas who recite the Veda at the first and the last parts of the nigh
 <details><summary>भारुचिः</summary>
 
 श्रोत्रियस्याधिकक्षेमप्रयोजनार्थास् त्रयः श्लोकाः ॥ ७.१३४–३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-136	Whatever meritorious acts (such a Brahmana) performs under the full protection of the king, thereby the king's length of life, wealth, and kingdom increase.
 </details>

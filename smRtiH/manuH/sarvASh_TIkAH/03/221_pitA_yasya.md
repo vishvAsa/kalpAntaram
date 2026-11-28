@@ -2,6 +2,11 @@
 title = "221 पिता यस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He whose father is dead, but grandfather is living, should mention the great-grandfather after having pronounced the name of the father.—(221)
@@ -41,11 +46,6 @@ grand-father is alive, three balls shall be offered beginning with the great-gra
 <details><summary>गोविन्दराजः</summary>
 
 **पिता यस्य तु वृत्तः** इति । पितृजीवनपक्षापेक्षो **वा**शब्दः । **यस्य ** पुनः **पिता **मृतः **स्यात् पितामहश् च जीवच् च स पितुर्** ब्राःमणभोजनपिण्डदानादौ नामोच्चार्यं **प्रपितामहं कीर्तयेत् **ताभ्यां द्वाभ्यां श्राद्धं कुर्यात् प्रपितामहस्य च पितुः । यथाह विष्णुः- “यस्य पिता प्रेतः स्यात् स पित्रे पिण्डं निधाय पितामहात् पराभ्यां द्वाभ्यां दद्यात्” इति ॥ ३.२२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.
 </details>
 
 <details><summary>भारुचिः</summary>

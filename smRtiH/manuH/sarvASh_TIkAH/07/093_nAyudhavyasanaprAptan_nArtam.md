@@ -3,6 +3,11 @@ title = "093 नायुधव्यसनप्राप्तन् नार
 
 +++
 
+<details><summary>Bühler</summary>
+
+093	Nor one whose weapons are broken, nor one afflicted (with sorrow), nor one who has been grievously wounded, nor one who is in fear, nor one who has turned to flight; (but in all these cases let him) remember the duty (of honourable warriors).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor one who has fallen in difficulties regarding weapons; nor one in distress, nor one severely wounded, nor one who is frightened, nor one who has turned back;—the king remembering the duties of honourable men.—(93)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 7.91].
 <details><summary>भारुचिः</summary>
 
 संग्रामनियमविधिर् अयम्, तेषां हतिप्रत्यवायार्थम् ॥ ७.९०–९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-093	Nor one whose weapons are broken, nor one afflicted (with sorrow), nor one who has been grievously wounded, nor one who is in fear, nor one who has turned to flight; (but in all these cases let him) remember the duty (of honourable warriors).
 </details>

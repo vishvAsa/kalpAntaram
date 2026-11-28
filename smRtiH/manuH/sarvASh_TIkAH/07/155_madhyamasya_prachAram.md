@@ -3,6 +3,11 @@ title = "155 मध्यमस्य प्रचारम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+155	On the conduct of the middlemost (prince), on the doings of him who seeks conquest, on the behaviour of the neutral (king), and (on that) of the foe (let him) sedulously (meditate).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 —on the conduct of the ‘intermediary’ oh the doings of the king bent upon conquest, on the action of the neutral king, as also that of his enemy, with special care.—(155)
@@ -116,9 +121,4 @@ Do. (I7.60-61).—‘The king conversant with the virtues of conciliation, shoul
 <details><summary>भारुचिः</summary>
 
 एतस्मिन् राजमण्डल इमाश् चतस्रो जाजप्रकृतयो मुख्या भवन्ति, **विजिगीषुर् अरिर् मध्य उदासीन** इति । तत्रैतेषाम् एव यो राजप्रकृतिसंपन्नो ऽहम् एवेमां पृथिवीं जेष्य इत्य् अभ्युक्षितः स **विजिगीषुर्** उत्साहशक्तियोगात् । **शत्रुस्** त्रिविधः, सहजः [प्राकृतः कृत्रिमो भूम्यनन्तर इति । मध्यमः, अनयोर् अरिविजिगीष्वोर् असंहतयोर् निग्रहसमर्थः । उदासीनो ऽरिविजिगीषुमध्यमानाम् असंहतानाम् ॥ ७.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	On the conduct of the middlemost (prince), on the doings of him who seeks conquest, on the behaviour of the neutral (king), and (on that) of the foe (let him) sedulously (meditate).
 </details>

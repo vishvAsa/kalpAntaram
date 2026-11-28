@@ -2,6 +2,11 @@
 title = "178 अभ्यङ्गम् अञ्जनम्"
 +++
 
+<details><summary>Bühler</summary>
+
+178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 From anointing, applying collyrium to the eyes, shoes, holding the umbrella, attachment, anger, avarice, dancing, singing and playing on musical instruments.—(178)
@@ -67,11 +72,6 @@ See Comparative notes for [Verse 2.177].
 <details><summary>गोविन्दराजः</summary>
 
 **अभ्यङ्गम्** इति । **अभ्यङ्गम् अञ्जन**घृताद्यभ्यञ्जन्**ओपानच्छत्रधारणकामक्रोध**-परद्रव्यादि**गीतवादनानि** वर्जयेत् । **कामः **भोजनाद्यभिलाषातिशयः । मन्मथस्य स्त्रीग्रहणेन निषिद्धत्वात् ॥ २.१७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
 </details>
 
 <details><summary>भारुचिः</summary>

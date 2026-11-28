@@ -3,6 +3,11 @@ title = "177 सा चेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+178	If, being solicited by a man (of) equal (caste), she (afterwards) is again unfaithful, then a Krikkhra and a lunar penance are prescribed as the means of purifying her.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If she happens to be corrupted again, on being solicited by a man of equal caste,—then the Kṛcchra and the Cāndrāyaṇa would be the means prescribed for her purification.—(177)
@@ -87,9 +92,4 @@ See Comparative notes for [Verse 11.176].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः । एतावांस् तु विशेषः । यत् पुंसः स्त्रीसंपर्के तद् एव तस्या अपि स्त्रियाः पुरुषसंपर्के । तद् यथा यच् छूद्रस्य ब्राह्मणीगमने, तद् एव ब्राह्मण्या अपि शूद्रसंपर्के । एवं सर्वसंपर्के व्याख्येयम् ॥ ११.१७५–१७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-178	If, being solicited by a man (of) equal (caste), she (afterwards) is again unfaithful, then a Krikkhra and a lunar penance are prescribed as the means of purifying her.
 </details>

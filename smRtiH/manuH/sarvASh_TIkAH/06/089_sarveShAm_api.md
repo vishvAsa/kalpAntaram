@@ -3,6 +3,11 @@ title = "089 सर्वेषाम् अपि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+089	And in accordance with the precepts of the Veda and of the Smriti, the housekeeper is declared to be superior to all of them; for he supports the other three.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among all these however, in accordance with the injunction or the direct Vedic text, the Householder is declared to be the best; because he supports the other three.—(89)
@@ -169,9 +174,4 @@ Renunciate—derive their subsistence from the order of Householders; therefore 
 <details><summary>भारुचिः</summary>
 
 **वेदश्रुत्या** गार्हस्थ्(य्)अस्याधानात् प्रभृत्य् आश्मशानकरणात् सर्वम् अभिधीयते, न स्मृत्या । अतः "प्रत्यक्षविधानाद् गार्हस्थ्यस्य" (ग्ध् ३.३६) तदनुष्ठानपुरुषो ऽपि **श्रेष्ठ** उच्यते यतश् च **स त्रीन् एतान् बिभर्त्य्** अन्नादिभिः । अतश् च गृहस्थाश्रमस्य **वेदश्रुतिविधानतः** श्रैष्ठ्यवचनात् तद्विरोधेनाश्रमान्तरप्रतिपत्तिर् अर्थाद् गम्यते । एवं च सत्य् आश्रमाणां न समो विकल्पः, किं तर्ःइ विषमः ॥ ६.८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-089	And in accordance with the precepts of the Veda and of the Smriti, the housekeeper is declared to be superior to all of them; for he supports the other three.
 </details>

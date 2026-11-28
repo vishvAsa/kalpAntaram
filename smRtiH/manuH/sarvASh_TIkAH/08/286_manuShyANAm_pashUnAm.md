@@ -3,6 +3,11 @@ title = "286 मनुष्याणाम् पशूनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+286	If a blow is struck against men or animals in order to (give them) pain, (the judge) shall inflict a fine in proportion to the amount of pain (caused).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a hurt has been inflicted on men or animals, with the motive of causing pain, the king shall inflict punishment in proportion to the greatness of the pain caused.—(286)
@@ -84,9 +89,4 @@ piercing the eye, and for making a man unable to move, or speak or eat, the midd
 <details><summary>भारुचिः</summary>
 
 एवं च सत्य् अयं पूर्वस्य हिंसादण्दस्य विशेषार्थो विज्ञेयः । कथम् । "त्वग्भेदक" इति हि यो दण्डविधिर् उक्तः, तस्यापराधानुरूपेणोनाधिकता प्राङ्विवाकेन कल्पनीयेत्य् एवमर्थः श्लोकः ॥ ८.२८५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-286	If a blow is struck against men or animals in order to (give them) pain, (the judge) shall inflict a fine in proportion to the amount of pain (caused).
 </details>

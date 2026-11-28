@@ -3,6 +3,11 @@ title = "025 अग्निहोत्रञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall always offer the Agnihotra, either at the beginning, or, at the end, of day and night, as also the “Darśa” and the “Paurṇamāsa” at the end of each half-month.—(25).
@@ -101,9 +106,4 @@ evening;—oblations should be poured to the gods;—one shall offer sacrifices 
 <details><summary>गोविन्दराजः</summary>
 
 **अग्निहोत्रं चेति** । उदितहोमपक्षे दिनादौ दिनान्ते होमं कुर्यात् । तथा अनुदितहोमपक्षे रात्र्यादौ रात्र्यन्ते च होमं कुर्यात् । तथा कृष्णपक्षान्ते दर्शाख्येन कर्मणा, शुक्लपक्षान्ते पौर्णमासाख्येन यजेत ॥ ४.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,
 </details>

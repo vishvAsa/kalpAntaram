@@ -2,6 +2,11 @@
 title = "054 यासान् नाददते"
 +++
 
+<details><summary>Bühler</summary>
+
+054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of girls whose relations do not appropriate the bride’s gift, it is not “selling;” It is only a means of honouring the maidens and is entirely harmless.—(54)
@@ -47,11 +52,6 @@ ancient lore quote the words of Prācetasa to the effect that in cases where the
 <details><summary>गोविन्दराजः</summary>
 
 **यासाम्** इति । **यासां** कन्यानां पुनः पित्रादयः आत्मार्थं दानं दत्तं वरान् न गृह्णन्ति अपि तु प्रसन्नैः भर्त्रादिभिर् अर्पणपूर्वकं कन्यार्थं दत्तं गृह्यते, नासौ विक्रयः । किं तर्हि । पूजनं तत्, कन्यानां **केवलं** विक्रयस्पर्शशून्यम् अनुकम्पारूपं अनुकम्पारूपं तत् ॥ ३.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
 </details>
 
 <details><summary>भारुचिः</summary>

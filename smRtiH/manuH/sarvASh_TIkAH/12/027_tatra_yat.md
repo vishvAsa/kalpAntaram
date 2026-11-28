@@ -3,6 +3,11 @@ title = "027 तत्र यत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+027	When (man) experiences in his soul a (feeling) full of bliss, a deep calm, as it were, and a pure light, then let him know (that it is) among those three (the quality called) Goodness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whenever one perceives in himself something full of bliss, calm and pure,—he should know it to be ‘Sattva.’—(27)
@@ -50,9 +55,4 @@ This verse is quoted in *Aparārka* (p. 999), which has the following notes:—�
 <details><summary>भारुचिः</summary>
 
 कर्मप्रवृत्त्येयं समासतः सत्त्ववृत्तिर् आत्मसंवेद्योच्यते ॥ १२.२७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-027	When (man) experiences in his soul a (feeling) full of bliss, a deep calm, as it were, and a pure light, then let him know (that it is) among those three (the quality called) Goodness.
 </details>

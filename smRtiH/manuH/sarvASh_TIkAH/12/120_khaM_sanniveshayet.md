@@ -3,6 +3,11 @@ title = "120 खं सन्निवेशयेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+120	Let him meditate on the ether as identical with the cavities (of the body), on the wind as identical with the organs of motions and of touch, on the most excellent light as the same with his digestive organs and his sight, on water as the same with the (corporeal) fluids, on the earth as the same with the solid parts (of his body);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should withdraw the Ākāśa into the ten cavities, the Wind into the organs of touch and movement, the best Light into the organs of digestion and vision, the Water into the fluids, and the Earth into the solid limbs.—(120)
@@ -50,9 +55,4 @@ Such is the withdrawal of the Great Elemental Substances. Next follows the metho
 <details><summary>भारुचिः</summary>
 
 **खं संनिवेशयेत् खेषु**, खं बाह्यम् अधिदैवाधिभूताख्यं संनिवेशयेद्, उपासनया खेष्व् आध्यात्मिकेषु देवतैक्यप्रदर्शनेन । एवं **चेष्टनस्पर्शन** आध्यात्मिके बाह्यानिलं संनिवेशयेद् इति विज्ञेयम् । एवं **पक्तिदृष्ट्योः** शारिरयोः **परं तेजः**, कस्य परम्, वायोर् निर्देशतः, **संनिवेशयेद्** इति सर्वत्रानुवर्तते । **स्नेहे** आध्यात्मिके **ऽपः**, संनिवेश्यमानानाम् अपां कर्मत्वाद् अयं द्वितीयानिर्देशो ऽप इति । **गां च मूर्तिषु**, एवं सर्वत्र ॥ १२.१२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-120	Let him meditate on the ether as identical with the cavities (of the body), on the wind as identical with the organs of motions and of touch, on the most excellent light as the same with his digestive organs and his sight, on water as the same with the (corporeal) fluids, on the earth as the same with the solid parts (of his body);
 </details>

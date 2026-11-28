@@ -2,6 +2,11 @@
 title = "031 यज्ञाय जग्धिर्"
 +++
 
+<details><summary>Bühler</summary>
+
+031	'The consumption of meat (is befitting) for sacrifices,' that is declared to be a rule made by the gods; but to persist (in using it) on other (occasions) is said to be a proceeding worthy of Rakshasas.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 यज्ञार्थं **मांसस्य** पिण्डप्राशित्रादि**जग्धिर्** अशनम् । **एष दैवो विधिः,** देवैर् एतद् विहितम् । **अन्यथा** तु मांसाशिनः[^९३] सरीरपुष्ट्यर्थकमांसाशने **प्रवृत्तिः स राक्षसो विधिः** । पिशाचानां मांसभक्षणे स्थितिर् इति निन्दा ॥ ५.३१ ॥
@@ -30,11 +35,6 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds the follo
 <details><summary>गोविन्दराजः</summary>
 
 **यज्ञायेति **। यज्ञसम्पत्त्यर्थं तदङ्गभूतं यन् मांसभक्षणम् एतद् देवोचितम् अनुष्ठानम् । अत एव यत्नतः कार्यम् । एतद्व्यतिरिक्तप्रकारेण पुनर् मांसभक्षणप्रवृत्तिः रक्षःसमुचितम् आचरणं मन्वादिभिर् उच्यते । तस्माद् एतन् न कार्यम् इति प्रोक्षितभक्षणनियमाद् अनुवादार्थः ॥ ५.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	'The consumption of meat (is befitting) for sacrifices,' that is declared to be a rule made by the gods; but to persist (in using it) on other (occasions) is said to be a proceeding worthy of Rakshasas.
 </details>
 
 <details><summary>भारुचिः</summary>

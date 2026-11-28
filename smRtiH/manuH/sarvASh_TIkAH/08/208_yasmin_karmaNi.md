@@ -3,6 +3,11 @@ title = "208 यस्मिन् कर्मणि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+208	But if (specific) fees are ordained for the several parts of a rite, shall he (who performs the part) receive them, or shall they all share them?
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In connection with a rite, when specific fees are prescribed for its several parts,—will one man take all these, or shall they all share them?
@@ -77,9 +82,4 @@ It is quoted in *Kṛtyakalapataru* (90a), which explains ‘*pratyaṃśadakṣ
 <details><summary>भारुचिः</summary>
 
 प्रत्यङ्गदक्षिणाः सर्वदा संशय्यन्ते । किम् अमीषाम् ऋत्विजां प्रतिग्रहनियमश् चातुर्विद्यविनियुक्तपादिकब्राह्मणवत्, उत पदार्थस्वरूपस्वाभाव्यात् तदर्थेनेति न्यायविकल्पो ऽनूद्यते । तादर्थ्यपक्षं चाश्रित्यैतद् अधुनोच्यते ॥ ८.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-208	But if (specific) fees are ordained for the several parts of a rite, shall he (who performs the part) receive them, or shall they all share them?
 </details>

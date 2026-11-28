@@ -3,6 +3,11 @@ title = "413 शूद्रन् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+413	But a Sudra, whether bought or unbought, he may compel to do servile work; for he was created by the Self-existent (Svayambhu) to be the slave of a Brahmana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But a Śūdra, whether bought or unbought, he shall make to do servile work; since it is for doing servile work for the Brāhmaṇa that he has been created by the self-born one.—(413)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 8.410].
 <details><summary>भारुचिः</summary>
 
 भक्तदासक्रीतयोर् अयं कर्तव्यतायां विशेषो नास्ति । ब्राह्मणग्रहणं च द्विजातिप्रदर्शनार्थम् ॥ ८.४११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-413	But a Sudra, whether bought or unbought, he may compel to do servile work; for he was created by the Self-existent (Svayambhu) to be the slave of a Brahmana.
 </details>

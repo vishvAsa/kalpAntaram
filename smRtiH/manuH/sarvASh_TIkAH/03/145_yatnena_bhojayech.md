@@ -2,6 +2,11 @@
 title = "145 यत्नेन भोजयेच्"
 +++
 
+<details><summary>Bühler</summary>
+
+145	Let him (take) pains (to) feed at a Sraddha an adherent of the Rig-veda who has studied one entire (recension of that) Veda, or a follower of the Yagur-veda who has finished one Sakha, or a singer of Samans who (likewise) has completed (the study of an entire recension).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With great care one should feed at a Śrāddha the adherent of the Ṛgveda who is thoroughly versed in his Veda, or the adherent of the Yajurveda who has finished the entire recensional text, or the adherent of the Sāmaveda who has reached the end of it.—(145).
@@ -84,11 +89,6 @@ following.\]—‘At the Śrāddha one shall feed the Sāmavedin; at the Vaiśva
 <details><summary>गोविन्दराजः</summary>
 
 अधुना तु सति सम्भवे फलविशेषार्थं समस्तशाखाध्यायिनि दानम् आह **यत्नेनेति **। समस्तशाखाध्ययिनं **बह्वृचं** तथाविधम् एवा**ध्वर्युं छन्दोगं** चैवंविधम् एव **यत्नेन श्राद्धे भोजयेत् **। वृत्तवशान् नानाप्रकारैः शब्दैः सकलशाखाध्यायिन एवैते युक्ताः । ये तु छन्दोमात्राध्यायिप्रतिषेधार्थं श्रोत्रियायैव देयानीत्य् एतद्विशेषणार्थत्वम् अस्याहुः । तेषां अनेनैव सिद्धे श्रोत्रियायैव देयानीत्य् एतद् अनर्थकं स्यात् ॥ ३.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	Let him (take) pains (to) feed at a Sraddha an adherent of the Rig-veda who has studied one entire (recension of that) Veda, or a follower of the Yagur-veda who has finished one Sakha, or a singer of Samans who (likewise) has completed (the study of an entire recension).
 </details>
 
 <details><summary>भारुचिः</summary>

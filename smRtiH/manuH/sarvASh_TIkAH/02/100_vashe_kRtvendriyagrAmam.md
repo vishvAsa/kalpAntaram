@@ -2,6 +2,11 @@
 title = "100 वशे कृत्वेन्द्रियग्रामम्"
 +++
 
+<details><summary>Bühler</summary>
+
+100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having brought the host of organs under control, and having also subdued the mind, one should accomplish all his purposes, taking care not to injure his body.—(100)
@@ -80,11 +85,6 @@ Buddhi under control, having his heart fixed upon Liberation, with all his desir
 <details><summary>गोविन्दराजः</summary>
 
 एवम् असञ्जितेन्द्रियस्य मनस्कस्य न वेदादिसिद्धिः तस्मात् **वश** इति । शक्त्या शरीरम् अपीडयन् इन्द्रियसमूहं विजित्य **मनश् च **नियम्य **सर्वान् **वेदाधिगमादीन्** अर्थान्** सम्पादयेत् ॥ २.११० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.
 </details>
 
 <details><summary>भारुचिः</summary>

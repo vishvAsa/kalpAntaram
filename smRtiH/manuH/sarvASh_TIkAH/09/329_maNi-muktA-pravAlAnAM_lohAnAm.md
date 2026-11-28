@@ -3,6 +3,11 @@ title = "329 मणि-मुक्ता-प्रवालानां लो�
 
 +++
 
+<details><summary>Bühler</summary>
+
+329	(A Vaisya) must know the respective value of gems, of pearls, of coral, of metals, of (cloth) made of thread, of perfumes, and of condiments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall find out the relative value of gems, pearls, corals, metals, woven cloths, perfumes and condiments.—(329)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 9.326].
 <details><summary>कुल्लूकः</summary>
 
 मणिमुक्ताविद्रुमलोहवस्त्राणां, गन्धानां कर्पूरादीनां, रसाना लवणादीनामुत्तममध्यनानांदेशकालापेक्षया मुल्योत्कर्षापकर्ष वैश्यो जानीयात्॥ ३२९॥
-</details>
-
-<details><summary>Bühler</summary>
-
-329	(A Vaisya) must know the respective value of gems, of pearls, of coral, of metals, of (cloth) made of thread, of perfumes, and of condiments.
 </details>

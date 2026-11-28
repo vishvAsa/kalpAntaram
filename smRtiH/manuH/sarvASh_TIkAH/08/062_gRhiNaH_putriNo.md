@@ -3,6 +3,11 @@ title = "062 गृहिणः पुत्रिणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+062	Householders, men with male issue, and indigenous (inhabitants of the country, be they) Kshatriyas, Vaisyas, or Sudras, are competent, when called by a suitor, to give evidence, not any persons whatever (their condition may be) except in cases of urgency.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Householders, men with sons, respectable natives, and men of the kṣatriya, vaiśya and śūdra castes are competent to act as witnesses, when cited by suitors;—and not any and every person, except in emergencies.—(62)
@@ -83,9 +88,4 @@ See Comparative notes for [Verse 8.61].
 <details><summary>भारुचिः</summary>
 
 श्रोत्रियस्य साक्षित्वे प्रतिषेधाद् ब्राह्मणस्याश्रोत्रियस्यास्ति साक्षित्वम् इति गम्यते । अन्त्यजस्य प्रतिषेधाद् धीनोत्कृष्टानाम् अपि शूद्राणां ग्रहणं प्रतीयते ॥ ८.६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-062	Householders, men with male issue, and indigenous (inhabitants of the country, be they) Kshatriyas, Vaisyas, or Sudras, are competent, when called by a suitor, to give evidence, not any persons whatever (their condition may be) except in cases of urgency.
 </details>

@@ -2,6 +2,11 @@
 title = "104 अपां समीपे"
 +++
 
+<details><summary>Bühler</summary>
+
+104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Convinced of the necessary character of the injunction, and retiring to the forest on a spot near water, one may even recite the Sāvitrī only, with a clean body and a collected mind.—(104)
@@ -83,11 +88,6 @@ Study beginning with the Praṇava; thus does he fulfil the Brahmic Sacrifice;�
 <details><summary>गोविन्दराजः</summary>
 
 ब्रह्मयज्ञविध्यर्थं ब्रह्मचारिणाम् अनुदिनम् आह **अपाम्** इति । ग्रामाद् बहिर् विविक्तं प्रदेशं गत्वा **नियतः **शुचिः **समाहितः** संयतमनाः नित्यो ऽयं ब्रह्मयज्ञविधिर् इत्य् एवम् **आस्थितः** उत्पन्नास्थः **अपां समीपे** मन्त्रान्तरपाठात् **सावित्रीम् अपि **जपेत् ॥ २.१०४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.
 </details>
 
 <details><summary>भारुचिः</summary>

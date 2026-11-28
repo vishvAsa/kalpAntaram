@@ -3,6 +3,11 @@ title = "046 ये द्विजानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+046	Those who have been mentioned as the base-born (offspring, apasada) of Aryans, or as produced in consequence of a violation (of the law, apadhvamsaga), shall subsist by occupations reprehended by the twice-born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The base-born sons of the ‘twice-born,’ as also those who have been declared to be ‘born of transgression,’ shall subsist by lowly services of ‘twice-born’ persons.—(46)
@@ -51,9 +56,4 @@ of training horses, driving chariots, masonry and the teaching of the science of
 <details><summary>भारुचिः</summary>
 
 द्विजातिस्त्रीषु शूद्राभिः प्रतिलोमजाता आयोगवादयश् चण्डालवर्जं ये चापध्वंसजाः शूद्रायां द्विजातिभिर् अनुलोमा अपि सन्तः । तथा चोक्तम्- "शूद्रायां तु सधर्माणः सर्वे ऽपध्वंसजाः स्मृताः" । **ते निन्दितैर् वर्तयेयुर्** आत्मानम् । वृत्तिनियमार्थो ऽयम् उपदेशस् तेषाम् । तथा च दर्शयति ॥ १०.४६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-046	Those who have been mentioned as the base-born (offspring, apasada) of Aryans, or as produced in consequence of a violation (of the law, apadhvamsaga), shall subsist by occupations reprehended by the twice-born.
 </details>

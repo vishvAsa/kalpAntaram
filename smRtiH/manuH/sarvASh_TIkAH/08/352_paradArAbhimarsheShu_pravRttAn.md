@@ -3,6 +3,11 @@ title = "352 परदाराभिमर्शेषु प्रवृत्
 
 +++
 
+<details><summary>Bühler</summary>
+
+352	Men who commit adultery with the wives of others, the king shall cause to be marked by punishments which cause terror, and afterwards banish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Those men who are addicted to intercourse with the wives of other men, the king shall banish after having branded them with terror-inspiring punishments.—(352)
@@ -81,9 +86,4 @@ strictly to their own wives and to their own functions;—by whatever limb one c
 <details><summary>भारुचिः</summary>
 
 ये तु बहुशो ऽपि वार्यमाणा नावतिष्ठेरन् तत्र तेषाम् अयं प्रवासनविधि सचिह्नः । तथा चोक्तम् अपराधसमुच्चये- "वाग्दण्डं प्रथमं कुर्यात्" इत्य् एवमादि ॥ ८.३५१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-352	Men who commit adultery with the wives of others, the king shall cause to be marked by punishments which cause terror, and afterwards banish.
 </details>

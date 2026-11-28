@@ -3,6 +3,11 @@ title = "019 क्षत्तुर् जातस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+019	Moreover, the son of by Kshattri by an Ugra female is called a Svapaka; but one begotten by a Vaidehaka on an Ambashtha female is named a Vena.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One born from the ‘Kṣattṛ’ on the ‘Ugrā’ woman is called ‘Śvapāka;’ and one begotten by the ‘Vaideha’ on the ‘Ambaṣṭha’ woman is called ‘Veṇa.’—(19)
@@ -44,9 +49,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 उत्कर्षापकर्षौ चैतेषां शास्त्रतः कल्पयितव्यौ । वर्णसंकरप्रकरणे चाप्रतिलोमा अपि संकीर्णयोनयो व्रात्याज् जाता वक्तव्या इति । यत इदम् उच्यते ॥ १०.१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-019	Moreover, the son of by Kshattri by an Ugra female is called a Svapaka; but one begotten by a Vaidehaka on an Ambashtha female is named a Vena.
 </details>

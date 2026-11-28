@@ -3,6 +3,11 @@ title = "107 एतैर् व्रतैर्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	By means of these penances men who have committed mortal sins (Mahapataka) may remove their guilt, but those who committed minor offences, causing loss of caste, (Upapataka, can do it) by the various following penances.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By means of these penances, the committers of heinous crimes may wipe off their sins. The committers of minor offences may do the same by their following the several forms of penances.—(107)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 11.103].
 <details><summary>गोविन्दराजः</summary>
 
 **एतैर्** इति । एभिर् उक्तैर् व्रतैः ब्रह्महत्यादिमहापातककारिणः पापानि निर्हरेयुः । गोवधाद्युपपातककारिणः पुनर् वक्ष्यमाणप्रकारेणैभिर् अभिधास्यमानैर् अनेकरूपैर् निर्हरेयुः ॥ ११.१०६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	By means of these penances men who have committed mortal sins (Mahapataka) may remove their guilt, but those who committed minor offences, causing loss of caste, (Upapataka, can do it) by the various following penances.
 </details>

@@ -3,6 +3,11 @@ title = "045 मुख-बाहूरु-पज्-जानां या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+045	All those tribes in this world, which are excluded from (the community of) those born from the mouth, the arms, the thighs, and the feet (of Brahman), are called Dasyus, whether they speak the language of the Mlekkhas (barbarians) or that of the Aryans.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All those races of the world which are outside the pale of the people ‘born of the mouth, the arms, the thighs and the feet,’—speaking the ‘barbaric’ or the ‘refined’ language—are called ‘Dasyu.’—(45)
@@ -50,9 +55,4 @@ The meaning is that neither habitation nor barbaric speech is a ground for regar
 <details><summary>भारुचिः</summary>
 
 न केवलं क्षत्रियाणाम्, किं तर्हि सर्ववर्णानाम् एव क्रियालोपाद् बाह्यत्वं ब्राह्मणादर्शनेन चेति । यतश् चैतद् एवम् अतस् त्रयो ऽप्य् अपभ्रंशहेतवो यत्नतः परिहरणीयाः । ते च बर्वरा मण्डिका इत्य् एवमादयः । "सूते दस्युर् आयोगवे" इत्य् अत्राप्य् अयम् एव वेदितव्यः ॥ १०.४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-045	All those tribes in this world, which are excluded from (the community of) those born from the mouth, the arms, the thighs, and the feet (of Brahman), are called Dasyus, whether they speak the language of the Mlekkhas (barbarians) or that of the Aryans.
 </details>

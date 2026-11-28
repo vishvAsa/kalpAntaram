@@ -3,6 +3,11 @@ title = "390 आश्रमेषु द्विजातीनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+390	If twice-born men dispute among each other concerning the duty of the orders, a king who desires his own welfare should not (hastily) decide (what is) the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For twice-born men disputing among themselves regarding any point relating to the orders, the king, desirous of his own welfare, shall not determine the law.—(390)
@@ -54,9 +59,4 @@ This verse is quoted in *Vyavahāramayūkha* (p. 4);—in *Vīramitrodaya* (Vyav
 <details><summary>भारुचिः</summary>
 
 तपस्विव्ध्यर्थः श्लोकः ॥ ८.३८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-390	If twice-born men dispute among each other concerning the duty of the orders, a king who desires his own welfare should not (hastily) decide (what is) the law.
 </details>

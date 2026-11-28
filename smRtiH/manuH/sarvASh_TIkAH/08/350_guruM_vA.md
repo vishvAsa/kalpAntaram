@@ -3,6 +3,11 @@ title = "350 गुरुं वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+350	One may slay without hesitation an assassin who approaches (with murderous intent), whether (he be one's) teacher, a child or an aged man, or a Brahmana deeply versed in the Vedas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Without hesitation one should strike an approaching desperado,—be he a preceptor, a child, or an aged man, or a highly learned Brāhmaṇa.—(350)
@@ -151,9 +156,4 @@ struck, or kills one who is advancing to kill, one does not commit any offence.�
 <details><summary>भारुचिः</summary>
 
 "आचार्यं च प्रवक्तारं पितरं मातरं गुरुम्" इत्य् एवमादिभिः शास्त्रैर् अत्यन्तापकारिणो ऽप्य् एते गुर्वादयो न वध्याः इत्य् उक्तं यतः इदं पूर्वविध्यर्थव्[आदार्थम् । गु]र्वादयो ऽप्य् आततायिनो ऽनेन निमित्तेन वध्याः स्युर् अत्यन्तावध्याः सन्तः, किं पुनस् तेभ्यो ऽन्य इत्य् अतिशयार्थवादो यथा लोके ॥ ८.३४९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-350	One may slay without hesitation an assassin who approaches (with murderous intent), whether (he be one's) teacher, a child or an aged man, or a Brahmana deeply versed in the Vedas.
 </details>

@@ -3,6 +3,11 @@ title = "212 अग्न्य्-अभावे तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the absence of Fire, he shall make the offering into the Brāhmaṇa’s hand; for it has been declared by the Brāhmaṇa seers of Vedic texts that what the Fire is, that same is the Brāhmaṇa.—(212).
@@ -169,9 +174,4 @@ Iṣṭi, and the unitary Śrāddha; at the first four of these, the man with th
 <details><summary>गोविन्दराजः</summary>
 
 **अग्न्यभाव** इति । अनग्निकस्य अनुपनीतोपनीतासमावृत्ताकृतदारमृतभार्यादेर् मृताहादिश्राद्धे विधानाद् औपासनाग्न्यभावे ब्राह्मणहस्त एतदाहुतित्रयं दद्यात्, यस्मात् य एवाग्निः स एव ब्राह्मण इति वेदविद्भिः ब्राह्मणैर् उच्यते ॥ ३.२१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'
 </details>

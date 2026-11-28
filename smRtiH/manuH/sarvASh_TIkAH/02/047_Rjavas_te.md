@@ -2,6 +2,11 @@
 title = "047 ऋजवस् ते"
 +++
 
+<details><summary>Bühler</summary>
+
+047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All these should be straight, unimpaired, handsome-looking, not frightening to men, with dark and unspoilt by fire—(47)
@@ -58,11 +63,6 @@ the sacrificial post.’
 <details><summary>गोविन्दराजः</summary>
 
 **ऋजव** इति । **ते** दण्डाः मृष्टनिच्छ्रिद्राः भीषणीयाकाररहिताः **सत्वचः **अग्निदोषशून्याः स्युः । न च तैः किञ्चिद् भूतजातम् उद्वेजनीयम् ॥ २.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
 </details>
 
 <details><summary>भारुचिः</summary>

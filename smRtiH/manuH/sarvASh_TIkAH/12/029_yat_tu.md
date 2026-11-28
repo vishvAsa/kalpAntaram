@@ -3,6 +3,11 @@ title = "029 यत् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	What is coupled with delusion, what has the character of an undiscernible mass, what cannot be fathomed by reasoning, what cannot be fully known, one must consider (as the quality of) Darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is mixed with stupefaction, undiscernible, of the nature of sensual objects, incapable of being reasoned about and uncognisable,—one should recognise as ‘Tamas.’—(29)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 12.27].
 <details><summary>भारुचिः</summary>
 
 तमोवृत्तिर् अपि पूर्ववद् विज्ञेया ॥ १२.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	What is coupled with delusion, what has the character of an undiscernible mass, what cannot be fathomed by reasoning, what cannot be fully known, one must consider (as the quality of) Darkness.
 </details>

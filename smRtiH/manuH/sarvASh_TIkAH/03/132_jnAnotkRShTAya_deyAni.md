@@ -2,6 +2,11 @@
 title = "132 ज्ञानोत्कृष्टाय देयानि"
 +++
 
+<details><summary>Bühler</summary>
+
+132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Offerings for gods and Pitṛs should be given to one who is distinguished by knowledge; for hands smeared with blood are not cleansed by blood.—(132)
@@ -66,11 +71,6 @@ or gold or clothing or land or sesamum, he becomes burnt like fuel; if a man has
 <details><summary>गोविन्दराजः</summary>
 
 **ज्ञानोत्कृष्टायेति** । विद्योत्कृष्टेभ्यो हव्यकव्यानि देयानि नान्येभ्यो यस्मात् यथा रुधिरोपलिप्तौ हस्तौ रुधिरेणैवापगतलेपौ कर्तुं न पार्यते, अपि तूदकेनैव शक्यते, एवं चाज्ञदानमुखेन नात्मा उत्तारयितुं शक्यते अपि तु विद्वद्दानद्वारेणैवेत्य् अविद्वन्निन्दया विद्वद्दानस्तुतिः ॥ ३.१३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
 </details>
 
 <details><summary>भारुचिः</summary>

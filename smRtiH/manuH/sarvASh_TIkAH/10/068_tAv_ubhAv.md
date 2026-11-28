@@ -3,6 +3,11 @@ title = "068 ताव् उभाव्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+068	The law prescribes that neither of the two shall receive the sacraments, the first (being excluded) on account of the lowness of his origin, the second (because the union of his parents was) against the order of the castes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The settled law is that both these are unfit for the sacraments:—the former on account of the defect in his birth and the latter by reason of his being horn ‘in the inverse order.’—(68)
@@ -55,9 +60,4 @@ seq*.\]]
 > **वैगुण्याज् जन्मनः पूर्व उत्तरः प्रतिलोमतः  ॥ १०.६८ ॥**
 
 पारशवादिः सत्य् अपि बीजप्राधान्ये क्वचित्, उत्तरः चण्डालादिः प्रतिलोमतः पितृदोषात् सत्य् अपि योनिप्राधान्ये क्वचित् । लोकदृष्ट्या तु स्वजातिजान् अन्तरजान् पुनः स्तौति ॥ १० ६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-068	The law prescribes that neither of the two shall receive the sacraments, the first (being excluded) on account of the lowness of his origin, the second (because the union of his parents was) against the order of the castes.
 </details>

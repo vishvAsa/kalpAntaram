@@ -2,6 +2,11 @@
 title = "225 आचार्यश् च"
 +++
 
+<details><summary>Bühler</summary>
+
+225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The preceptor, the father, the mother and the elder brother should not be treated with disrespect, especially by a Brāhmaṇa,—even though he be distressed—(225)
@@ -53,11 +58,6 @@ Mother and the Ācārya;—one should ever attend upon these;—one should do wh
 <details><summary>गोविन्दराजः</summary>
 
 **आचार्यश् च पिता चैवेति **। **आचार्यपितृमातृज्येष्ठभ्रातरः **पीडितेनापि क्षत्रियादिना **नावमाननीयाः **विशेषतो ब्राह्मणेन नान्येषां तन्मूलत्वाद् धर्मानुष्ठानस्यातिप्रसङ्गः स्याद् यस्माद् इति ॥ २.२२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
 </details>
 
 <details><summary>भारुचिः</summary>

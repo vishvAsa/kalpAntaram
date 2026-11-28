@@ -2,6 +2,11 @@
 title = "048 युग्मासु पुत्रा"
 +++
 
+<details><summary>Bühler</summary>
+
+048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On the even days male children are conceived, and female ones on the uneven days; therefore one who desires a son should have recourse to ones wife on the even days of her “season.”—(48)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 **युग्मास्व्** इति । **युग्मासु** षष्ट्यष्टम्याद्यासु गच्छतः **पुत्रा जायन्ते** । **अयुग्मासु **सप्तमीनवम्याद्यासु स्त्रियः । अतः **पुत्रार्थी युग्मासु** ऋतुकाले भार्यां व्रजेत्, यास्व् अल्पीभावाद् आर्तवस्य । तथा चायुर्वेदः “युग्मास्व् अल्पी भवत्य् आर्तवम् अयुग्मासु तस्मात् पुत्रस्य दुहितुर् जन्मोत्पद्यते” ॥ ३.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
 </details>
 
 <details><summary>भारुचिः</summary>

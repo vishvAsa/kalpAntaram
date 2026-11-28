@@ -3,6 +3,11 @@ title = "034 अतस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+034	But the fame of a king who acts in a contrary manner and who does not subdue himself, diminishes in extent among men like a drop of clarified butter in water.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But for the King who deviates from it having no control over himself, his fame diminishes in the world, like the drop of clarified butter on water.—(31)
@@ -37,9 +42,4 @@ is mad through passions......attachment to sensuous objects......who is not unif
 <details><summary>भारुचिः</summary>
 
 **अतो विपरीतस्य** राष्ट्रम् अपि संकुचति निर्गुणत्वात्, कुतो ऽन्यद् भविष्यति । सैषा दण्डप्रणयनस्तुतिः समाप्ता ॥ ७.३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-034	But the fame of a king who acts in a contrary manner and who does not subdue himself, diminishes in extent among men like a drop of clarified butter in water.
 </details>

@@ -2,6 +2,11 @@
 title = "129 नित्यं शुद्धः"
 +++
 
+<details><summary>Bühler</summary>
+
+129	The hand of an artisan is always pure, so is (every vendible commodity) exposed for sale in the market, and food obtained by begging which a student holds (in his hand) is always fit for use; that is a settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The artisan’s hand is always pure; so also is merchandise spread out for sale; the food begged and held by the student is ever sacred; such is the established rule—(127).
@@ -74,11 +79,6 @@ exposed for sale, alms and woman’s mouth.’ *Śaṅkha* (Aparārka, p. 263).�
 <details><summary>गोविन्दराजः</summary>
 
 **नित्यम् **इति । कारोः सूपचारादेर् देवब्राह्मणाद्यर्थे ऽपि पाके द्रव्यप्रयोजनापक्ष-शुद्धिविशेषाकरणे ऽपि सुशुद्ध्यैव हस्तः शुद्धः, तथा अशौचे ऽपि “कारूणां कारुकर्मणि” इति विष्णुस्मरणात् । स्वव्यापारमात्रे हस्तः शुद्धः हस्तप्रधानप्रायत्वाच् च तत्कर्मणां हस्तग्रहणम् । तथा यद् विक्रेतव्यम् आपणभूमौ वितत्य स्थापितं तद् अनेकक्रेतृसामान्यकरपरिघटितम् अपि “नापणीयम् अन्नम् अश्नीयात्” इति शङ्खस्मरणात् । सिद्धान्नवर्जं शुचि ब्रह्मचर्यादिगतं भैक्ष्यम् अनाचान्तस्त्रीप्रदानशुचि रथाक्रमणादिनापि नित्यं शुद्धम् इति शास्त्रमर्यादा ॥ ५.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	The hand of an artisan is always pure, so is (every vendible commodity) exposed for sale in the market, and food obtained by begging which a student holds (in his hand) is always fit for use; that is a settled rule.
 </details>
 
 <details><summary>भारुचिः</summary>

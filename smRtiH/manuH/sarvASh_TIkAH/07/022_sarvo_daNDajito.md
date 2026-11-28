@@ -3,6 +3,11 @@ title = "022 सर्वो दण्डजितो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+022	The whole world is kept in order by punishment, for a guiltless man is hard to find; through fear of punishment the whole world yields the enjoyments (which it owes).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is by punishment that all people are kept under control; for an absolutely guileless man is hard to find; it is through fear of punishment that the world subserves the experiences (of men).—(22).
@@ -44,9 +49,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 286), which adds the ex
 <details><summary>भारुचिः</summary>
 
 प्रायण **सर्वो दण्डजित** एव **लोकः**, येन **दुर्लभः** स्वभावशुद्धः, शासनानुवर्ती । तद् एतद् दण्डपातनं यद्य् अपि दुःखोत्पादनं तथापि प्रकल्प्यते शास्त्रेण, येनान्य उपायो धर्मस्थितेर् नास्तीति ॥ ७.२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-022	The whole world is kept in order by punishment, for a guiltless man is hard to find; through fear of punishment the whole world yields the enjoyments (which it owes).
 </details>

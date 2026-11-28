@@ -2,6 +2,11 @@
 title = "017 सरस्वती-दृशद्वत्योर् देवनद्योर्"
 +++
 
+<details><summary>Bühler</summary>
+
+017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The region lying between the divine rivers Sarasvati and Dṛṣasvatī which has been created by the gods,—they call ‘Brahmāvarta’—(17)
@@ -39,11 +44,6 @@ This verse is quoted in *Hemādri* (Vrata, p. 27),—in the *Vīramitrodaya* (Pa
 <details><summary>गोविन्दराजः</summary>
 
 अधुना सदाचारनिरूपणार्थं धर्मानुष्ठानयोग्यस्थानकथनार्थं च देशान् आह – **सरस्वतीदृषद्वत्योर्** इति । **सरस्वतीदृषद्वत्य्**आख्यनदीमध्यं **ब्रह्माव्र्ता**ख्यं **देशम्** आहुः । देवनदीदेवनिर्मितशब्दौ देशस्तुत्यर्थौ ॥ २.१७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.
 </details>
 
 <details><summary>भारुचिः</summary>

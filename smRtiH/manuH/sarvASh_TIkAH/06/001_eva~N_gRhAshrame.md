@@ -2,6 +2,11 @@
 title = "001 एवङ् गृहाश्रमे"
 +++
 
+<details><summary>Bühler</summary>
+
+001	A twice-born Snataka, who has thus lived according to the law in the order of householders, may, taking a firm resolution and keeping his organs in subjection, dwell in the forest, duly (observing the rules given below).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The twice-born accomplished student, having, in the afore- said manner, lived, according to law, the life of the householder, should dwell in the forest, in the proper manner, self-controlled and with his organs under subjection—(1).
@@ -102,11 +107,6 @@ hair, to perform Agnihotra, to sleep on the bare ground, to wear black deer-skin
 <details><summary>गोविन्दराजः</summary>
 
 **एवम्** इति । कृतसमावर्तनो द्विज उक्तप्रक्रियो यथाशास्त्रं गृहाश्रमम् अनुष्ठाय ततो नियतः कृतनिश्चयो विशेषेण यतेन्द्रियः सन् यथा वक्ष्यमाणप्रकारेण यथार्हति तथा वानप्रस्थाश्रमम् अनुतिष्ठेत् ॥ ६.१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-001	A twice-born Snataka, who has thus lived according to the law in the order of householders, may, taking a firm resolution and keeping his organs in subjection, dwell in the forest, duly (observing the rules given below).
 </details>
 
 <details><summary>भारुचिः</summary>

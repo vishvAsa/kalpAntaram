@@ -2,6 +2,11 @@
 title = "239 विषाद् अप्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nectar mat be taken even from poison, good advice even prom a child; good conduct (may be learnt) even from a foe; and gold (mat be taken) even from an impure source.—(239)
@@ -69,11 +74,6 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the pr
 <details><summary>गोविन्दराजः</summary>
 
 **विषाद्** इति । **विषाद् अपि** तत्साधनकरसायनादिकरणेन **अमृतं ग्राह्यम्** । ग्रामादिप्रस्थितेन प्रशस्तवाक्यं **बालो**दीरितम् अपि अभीष्टार्थसंसिद्धेः सूचकत्वेन ग्राह्यम् । **अमेध्य**पतितम् अपि अकृतसंस्कारम् अपि **काञ्चनं ग्राह्यम् **॥ २.२३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
 </details>
 
 <details><summary>भारुचिः</summary>

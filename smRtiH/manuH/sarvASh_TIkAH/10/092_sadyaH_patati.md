@@ -3,6 +3,11 @@ title = "092 सद्यः पतति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	By (selling) flesh, salt, and lac a Brahmana at once becomes an outcast; by selling milk he becomes (equal to) a Sudra in three days.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By selling meat, lac and salt, the Brāhmaṇa becomes an outcast at once; and by selling milk the Brāhmaṇa becomes a Śūdra in three days.—(92)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 10.85].
 <details><summary>गोविन्दराजः</summary>
 
 **सद्य** इति । मांसलाक्षालवणविक्रयो ब्राह्मणः तत्क्षणाद् एव पतितो भवतीति दोषगौरवख्यापनार्थम् । एतत् पञ्चानाम् एव महापातकानां पातित्यनियमाद् एतद्विक्रये वा पण्यानां च विक्रय इति उपपातकप्रायश्चित्तस्य लघुतादर्शनात् । एतेन त्र्यहक्षीरविक्रयात् शूद्रतां प्राप्नोति इत्य् एतद् अपि व्याख्यातम् । तथा वैश्यभावगमनं च वक्ष्यमाणम् ॥ १०.९१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	By (selling) flesh, salt, and lac a Brahmana at once becomes an outcast; by selling milk he becomes (equal to) a Sudra in three days.
 </details>

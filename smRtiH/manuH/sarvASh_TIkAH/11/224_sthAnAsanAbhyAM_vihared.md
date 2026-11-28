@@ -3,6 +3,11 @@ title = "224 स्थानासनाभ्यां विहरेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+225	Let him pass the time standing (during the day) and sitting (during the night), or if he is unable (to do that) let him lie on the (bare) ground; let him be chaste and observe the vows (of a student) and worship his Gurus, the gods, and Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall pass his time standing and sitting; or if he is unable to do so, he may lie down on the ground ; he shall remain chaste, firm in vows, worshipping his elders, gods and Brāhmaṇas.—(224)
@@ -64,9 +69,4 @@ him continue in a sitting position.’
 <details><summary>गोविन्दराजः</summary>
 
 **स्थानासनाभ्याम्** इति । “तिष्ठेद् अहनि रात्रौ आसीनः” इति गौतमस्मरणाद् द्विआस्थितो रात्राव् आसीनो वर्तेतासामर्थ्याद् वा स्थण्डिलशायी स्यात् । स्त्रीसम्प्रयोगरहितो व्रती च मौञ्जीदण्डकमण्डलुर् अग्निकार्यं चेति शङ्खदर्शनान् मेखलादियुक्तो गुरुदेवब्राह्मणानां पूजकः स्यात् ॥ ११.२२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-225	Let him pass the time standing (during the day) and sitting (during the night), or if he is unable (to do that) let him lie on the (bare) ground; let him be chaste and observe the vows (of a student) and worship his Gurus, the gods, and Brahmanas.
 </details>

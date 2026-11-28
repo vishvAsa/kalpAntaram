@@ -2,6 +2,11 @@
 title = "116 मार्जनं यज्ञपात्राणाम्"
 +++
 
+<details><summary>Bühler</summary>
+
+116	At sacrifices the purification of (the Soma cups called) Kamasas and Grahas, and of (other) sacrificial vessels (takes place) by rubbing (them) with the hand, and (afterwards) rinsing (them with water).
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -15,11 +20,6 @@ title = "116 मार्जनं यज्ञपात्राणाम्"
 <details><summary>गोविन्दराजः</summary>
 
 **मार्जनम्** इति । **यज्ञपात्राणां **जुह्वाज्यधानीप्रभृतीनां यज्ञक्रियायां कर्माङ्गतया हस्तेन परिमार्जनम् । चमसग्रहाणां च यज्ञपात्रविशेषाणां कर्माङ्गतयैव प्रक्षालनेन शुद्धिः ॥ ५.११६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-116	At sacrifices the purification of (the Soma cups called) Kamasas and Grahas, and of (other) sacrificial vessels (takes place) by rubbing (them) with the hand, and (afterwards) rinsing (them with water).
 </details>
 
 <details><summary>भारुचिः</summary>

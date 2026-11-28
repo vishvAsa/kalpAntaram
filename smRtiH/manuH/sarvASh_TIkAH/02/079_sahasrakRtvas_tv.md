@@ -2,6 +2,11 @@
 title = "079 सहस्रकृत्वस् त्व्"
 +++
 
+<details><summary>Bühler</summary>
+
+079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Repeating this Triad a thousand times in open air, the twice-born person becomes freed, in a month, from even great sin, as the snake from its slough.—(79)
@@ -121,11 +126,6 @@ See Comparative notes for [Verse 2.78].
 <details><summary>गोविन्दराजः</summary>
 
 **सहस्रकृत्व्** इति । **एतत् **त्रयं सहस्रवारान् अहर् मासं यावत् **बहिर् **ग्रामाद् **द्विजो ऽभ्यस्य **महत् ब्रह्महत्याद्य् अपि पापम् अपनुदति । जीर्णचर्मेव सर्प इति रहस्यप्रायश्चित्तगतमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
 </details>
 
 <details><summary>भारुचिः</summary>

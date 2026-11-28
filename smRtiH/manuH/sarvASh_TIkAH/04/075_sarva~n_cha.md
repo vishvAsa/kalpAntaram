@@ -3,6 +3,11 @@ title = "075 सर्वञ् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Any food containing sesamum, he shall not eat after sunset; he shall never sleep naked; nor go anywhere with mouth unwashed after meals.—(75)
@@ -53,9 +58,4 @@ shall not bathe naked; he shall not sleep naked; he shall not look at a naked wo
 <details><summary>गोविन्दराजः</summary>
 
 **सर्वम्** इति । यत् किञ्चित् तिलसंयुक्तं कृसरादि तद् **अस्तम् इते **ऽर्के **नाद्यात् **। कौपीनाच्छादनरहितश् चास्मिन् लोके न सुप्यात् । **उच्छिष्टश् **च **क्वचिद् **यायात् ॥ ४.७५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).
 </details>

@@ -2,6 +2,11 @@
 title = "030 नामधेयन् दशम्याम्"
 +++
 
+<details><summary>Bühler</summary>
+
+030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One should have his ‘naming’ (Nāmadheya) done on the tenth or the twelfth (day), on an auspicious lunar date and at an auspicious moment. and under a propitious lunar asterism.—(30)
@@ -132,11 +137,6 @@ As regards the ‘*puṇya tithi, muhūrta* and *nakṣatra*’ the reader is re
 <details><summary>गोविन्दराजः</summary>
 
 **नामधेयम्** इति । जातकर्मेति प्रतुतत्वात् जन्मप्रभृति दशमे ऽहनि द्वादशे वा प्रशस्ते वान्यस्मिन् नवम्यादिरिक्ताहोवर्जिते **मुहूर्ते **ऽभिजिदादौ लग्ने पुण्य**नक्षत्रे** च ज्योतिःशास्त्रगुणयुक्ते **अस्य **शिशोर् नाम **कारयेत्** असामर्थ्ये सति । शक्तौ तु आत्मनैव कुर्यात्, “पिता नाम करोति” इति गृह्यश्रवणात् । पूर्वकालासम्भवे उत्तरोत्तरकालाश्रयणं कर्तव्यम् इति, क्रमप्रयोजनाभावात्, एवम् उत्तरत्रापि कालविकल्पेषु विज्ञेयम् ॥ २.३० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.
 </details>
 
 <details><summary>भारुचिः</summary>

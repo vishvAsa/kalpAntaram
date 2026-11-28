@@ -2,6 +2,11 @@
 title = "037 कुर्याद् घृतपशुम्"
 +++
 
+<details><summary>Bühler</summary>
+
+037	If he has a strong desire (for meat) he may make an animal of clarified butter or one of flour, (and eat that); but let him never seek to destroy an animal without a (lawful) reason.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If there is occasion, he shall make an animal of clarified butter, or an animal of flour; but he shall never seek to kill an animal needlessly.—(37)
@@ -114,11 +119,6 @@ one should offer an animal made either of butter or of flour;
 <details><summary>गोविन्दराजः</summary>
 
 ॥ ५.३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-037	If he has a strong desire (for meat) he may make an animal of clarified butter or one of flour, (and eat that); but let him never seek to destroy an animal without a (lawful) reason.
 </details>
 
 <details><summary>भारुचिः</summary>

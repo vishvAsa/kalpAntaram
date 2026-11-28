@@ -3,6 +3,11 @@ title = "099 सुवर्णस्तेयकृद् विप्रो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+100	A Brahmana who has stolen the gold (of a Brahmana) shall go to the king and, confessing his deed, say, 'Lord, punish me!'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A Brāhmaṇa who has committed the theft of gold shall go to the King, and confessing his crime, shall say ‘sire, punish me.’—(99)
@@ -58,9 +63,4 @@ over a club to the King, proclaiming his deed; whether killed, or let off, by th
 <details><summary>गोविन्दराजः</summary>
 
 **सुवर्णस्तेयकृद्** इति । “ब्राह्मणसुवर्णहारी तु” इति याज्ञवल्क्यस्मरणाद् ब्राह्मणसुवर्णहारी राजानं गत्वा सुवर्णापहारं कर्म प्रकाशीकुर्वन् निग्रहं कुर्व् इति ब्रूयात् ॥ ११.९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-100	A Brahmana who has stolen the gold (of a Brahmana) shall go to the king and, confessing his deed, say, 'Lord, punish me!'
 </details>

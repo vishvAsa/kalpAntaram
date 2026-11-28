@@ -2,6 +2,11 @@
 title = "125 द्वौ दैवे"
 +++
 
+<details><summary>Bühler</summary>
+
+125	One must feed two (Brahmanas) at the offering to the gods, and three at the offering to the manes, or one only on either occasion; even a very wealthy man shall not be anxious (to entertain) a large company.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though wealthy, one should feed two at the rite performed in honour of the gods, and three at that in honour of the Pitṛs; or one only at each of the two rites he should not indulge in large company.—(125)
@@ -154,11 +159,6 @@ thoroughly versed in the Veda.’
 > देवतायतने कृत्वा ततः श्राद्धं प्रवर्तयेत् ॥
 
 इत्य् एकब्राह्मणभोजनात् । यत् पुनः “न त्व् एकैकम्” इत्यादिगृह्यवचनं तत् द्रव्यब्राह्मणादिसम्यक्सम्पद्विषयम् न त्व् अन्यप्रतिषेधार्थम्; तथा च एतदनन्तरम् एव गृह्यकृत् “कामम् अनाद्य” इत्य् आह, अदनीयाद्यभावात् कामम् एकम् अपि सर्वेषां भोजयेत् इति । एवं च “निमन्त्रयेत् त्र्यवरान्” इत्य् एतद् अपि द्रव्यब्राह्मणादिसम्यक्सम्पत्तिविषयं न त्व् एकैकविध्यत्यन्ताभावज्ञापकम् । विस्तर इति वृत्तवशात् “प्रथमे वा चशब्दे” इति स्मरणात् ॥ ३.१२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-125	One must feed two (Brahmanas) at the offering to the gods, and three at the offering to the manes, or one only on either occasion; even a very wealthy man shall not be anxious (to entertain) a large company.
 </details>
 
 <details><summary>भारुचिः</summary>

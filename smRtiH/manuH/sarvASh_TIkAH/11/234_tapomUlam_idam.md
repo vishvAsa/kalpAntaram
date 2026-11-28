@@ -3,6 +3,11 @@ title = "234 तपोमूलम् इदम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+235	All the bliss of gods and men is declared by the sages to whom the Veda was revealed, to have austerity for its root, austerity for its middle, and austerity for its end.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 All happiness among gods and men has been declared by the wise ones to whom the Veda was revealed to have austerity for its source, austerity for its middle and austerity for its end.—(234)
@@ -46,9 +51,4 @@ to do,—all that may be accomplished by devotion.’
 <details><summary>भारुचिः</summary>
 
 देवस्य तावत् सुखस्याणिमादेः, मानुषस्य च शब्दाद्युपभोगस्य, गन्धर्वविध्याधरादिसुखस्य च **तप** एवेत्य् अवस्था कारणम् ॥ ११.२३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-235	All the bliss of gods and men is declared by the sages to whom the Veda was revealed, to have austerity for its root, austerity for its middle, and austerity for its end.
 </details>

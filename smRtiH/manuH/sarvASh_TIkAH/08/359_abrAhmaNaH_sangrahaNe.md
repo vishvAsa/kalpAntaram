@@ -3,6 +3,11 @@ title = "359 अब्राह्मणः सङ्ग्रहणे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+359	A man who is not a Brahmana ought to suffer death for adultery (samgrahana); for the wives of all the four castes even must always be carefully guarded.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a case of adultery, a non-Brāhmaṇa deserves the penalty ending in death; as the wives of all the four castes are always the most deserving of protection.—(359)
@@ -190,9 +195,4 @@ unwilling woman; if he has illicit intercourse with a willing woman, he shall be
 <details><summary>भारुचिः</summary>
 
 संयतया अनिच्छन्त्या ब्राह्मण्या सह संग्रहणे **अब्राह्मणः** शूद्रः **प्राणान्तं दण्डम् अर्हति** । क्षत्रियवैश्याभ्यां तु वर्णवत् तदूना दण्डपरिकल्पना । एवं क्षत्रियवैश्ययोः ब्राह्मणीसंग्रहणे ऽनयाइवापेक्षया दण्डः कल्पयितव्यः, वैश्यस्य च क्षत्रियया । इच्छन्तीषु च ब्राह्मणक्षत्रियावैश्यासु असंयतासु च पूर्ववद् दण्डः कल्पनीयः । संभाषणप्रतिषेधप्रतिप्रसवार्थ्[अम् इदम् उच्यते], किंचिद् विशेषेण ॥ ८.३५८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-359	A man who is not a Brahmana ought to suffer death for adultery (samgrahana); for the wives of all the four castes even must always be carefully guarded.
 </details>

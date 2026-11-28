@@ -3,6 +3,11 @@ title = "021 ध्यायत्य् अनिष्टम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+021	If a woman thinks in her heart of anything that would pain her husband, the (above-mentioned text) is declared (to be a means for) completely removing such infidelity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 What is said here is the proper expiation for whatever ill she thinks in her mind of her husband.—(21)
@@ -43,9 +48,4 @@ This verse is quoted in *Vivādaratnākara* (p. 413);—and in
 <details><summary>भारुचिः</summary>
 
 एवं च मनोव्यभिचारे एतद् विज्ञेयम् । "यादृग्गुणेन भर्त्रा स्त्री संयुज्येत यथाविध्", तादृग्व्यभिचारस्य निह्नवः प्रमार्जनं प्रायश्चित्तम् अस्य मन्त्र[द्वारेण] । न केवलं मनोव्यभिचारप्रदर्शकम् एतत्, किं तर्हि कर्मव्यभिचारप्रायश्चित्तम् एव विज्ञेयम् ॥ ९.२१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-021	If a woman thinks in her heart of anything that would pain her husband, the (above-mentioned text) is declared (to be a means for) completely removing such infidelity.
 </details>

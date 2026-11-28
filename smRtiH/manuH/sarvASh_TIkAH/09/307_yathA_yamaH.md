@@ -3,6 +3,11 @@ title = "307 यथा यमः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+307	As Yama at the appointed time subjects to his rule both friends and foes, even so all subjects must be controlled by the king; that is the office in which he resembles Yama.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 As Vāyu moves about, entering all beings,—even so shall the king penetrate everywhere through his spies;—this is the function of Vāyu.—(306).
@@ -50,9 +55,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 19).
 <details><summary>कुल्लूकः</summary>
 
 यद्यपि यमस्यशत्रुमित्रेन स्तस्तथापि तन्निन्दकार्चकयोः शत्रुमित्रयोर्यथा यमः शत्रुमित्रमरणकाले तुल्यवन्नियमयत्येवं राज्ञाऽपराधकाले रागद्वेषपरिहारेण प्रजाःप्रसारणीयाः। यस्मादेतदस्य याम्यं व्रतम्॥ ३०७॥
-</details>
-
-<details><summary>Bühler</summary>
-
-307	As Yama at the appointed time subjects to his rule both friends and foes, even so all subjects must be controlled by the king; that is the office in which he resembles Yama.
 </details>

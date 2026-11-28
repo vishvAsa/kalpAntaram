@@ -3,6 +3,11 @@ title = "268 पञ्चाशद् ब्राह्मणो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+268	A Brahmana shall be fined fifty (panas) for defaming a Kshatriya; in (the case of) a Vaisya the fine shall be twenty-five (panas); in (the case of) a Sudra twelve.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For abusing a Kṣatriya, the Brāhmaṇa should be fined fifty; and in the case of a Vaiśya, the fine shall be twenty-five; and in that of a Shudra, twelve.—(268)
@@ -56,9 +61,4 @@ See Comparative notes for [Verse 8.267].
 <details><summary>भारुचिः</summary>
 
 गदव्याख्यातः श्लोकः । अत्रापि न्यायप्रकॢप्त्या क्षत्रियो वैश्यम् आक्रु[श्य ब्राह्मणदण्डाद् द्विगुणं] दण्ड्यः स्यात्, वैश्यस् तु शूद्रम् आक्रुश्य ब्राह्मणदण्डात् त्रिगुणं दद्यात् ॥ ८.२६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-268	A Brahmana shall be fined fifty (panas) for defaming a Kshatriya; in (the case of) a Vaisya the fine shall be twenty-five (panas); in (the case of) a Sudra twelve.
 </details>

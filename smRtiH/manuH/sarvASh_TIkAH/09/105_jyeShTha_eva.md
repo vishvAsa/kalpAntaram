@@ -3,6 +3,11 @@ title = "105 ज्येष्ठ एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+105	(Or) the eldest alone may take the whole paternal estate, the others shall live under him just as (they lived) under their father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The eldest brother alone may take the entire paternal property; the rest shall live under him, just as under their father.—(105)
@@ -65,9 +70,4 @@ eldest son shall carry on the business of the estate, hut never without the fath
 <details><summary>भारुचिः</summary>
 
 एष कारणतः पाक्षिको ऽविभागो विज्ञेयः । [यदि तत् कार]णं न स्यात् तदा ज्येष्ठमध्यमकनिष्ठानां विभागम् अनेकप्रकारं वक्ष्यति । ज्येष्ठग्रहणपक्षे चायम् अर्थवादो भवति ॥ ९.१०५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	(Or) the eldest alone may take the whole paternal estate, the others shall live under him just as (they lived) under their father.
 </details>

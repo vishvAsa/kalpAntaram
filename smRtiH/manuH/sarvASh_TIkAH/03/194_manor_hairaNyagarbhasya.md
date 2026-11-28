@@ -3,6 +3,11 @@ title = "194 मनोर् हैरण्यगर्भस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Of Manu, the son of Hiraṇyagarbha, Marīci and the rest were sons; and the sons of all these sages have been declared to constitute the “Body of Pitṛs.”—(194)
@@ -152,9 +157,4 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 43).
 <details><summary>गोविन्दराजः</summary>
 
 **मनोर्** इति । हिरण्यगर्भापत्यस्य **मनोः स्मृताः ये मरीच्यादयः **पुत्राः यथोक्तम् “मरीचिम् अत्र्य् आङ्गिरसम्” इत्यादि । **तेषां **मरीच्यादीनां **सर्वेषाम् ऋषीणाम् **एते ये सोमपादयः पितृमुख्याः मन्वादिभिः **स्मृताः **॥ ३.१९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.
 </details>

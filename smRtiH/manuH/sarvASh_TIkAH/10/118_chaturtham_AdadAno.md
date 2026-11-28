@@ -3,6 +3,11 @@ title = "118 चतुर्थम् आददानो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+118	A Kshatriya (king) who, in times of distress, takes even the fourth part (of the crops), is free from guilt, if he protects his subjects to the best of his ability.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Kṣatriya, who, in times of distress, takes the fourth fart, becomes freed from sin, if he protects the people to the best of his ability.—(118)
@@ -44,9 +49,4 @@ seq*.\]]
 <details><summary>भारुचिः</summary>
 
 चतुर्थम् अप्य् आददानो भागम् अन्यय्यम् आपदि रक्षाधिकृतो राजा **क्षत्रियः प्रजा रक्षन् किल्बिषात् प्रतिमुच्यते**, अन्याय्यभागग्रहणादेः । एवं च सति क्षत्रियचतुर्थभागादानम् अर्थवादः प्रजासंरक्षणस्य । येन ॥ १०.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-118	A Kshatriya (king) who, in times of distress, takes even the fourth part (of the crops), is free from guilt, if he protects his subjects to the best of his ability.
 </details>

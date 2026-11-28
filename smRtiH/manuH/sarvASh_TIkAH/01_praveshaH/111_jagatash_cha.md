@@ -3,6 +3,11 @@ title = "111 जगतश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The coming into existence of the world,—the rule relating to the sacramental Rites,—the method of keeping observances,—as also the excellent rules bearing upon the Final Ablution.—(111).
@@ -31,9 +36,4 @@ The ‘Virtues’ expounded in the Treatise are here specified in detail. With a
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं शास्त्रस्य महावृत्तान्तोपेतत्वप्रदर्शनार्थम् अनुक्रमणीम् आह – **जगत** इति ॥ १.१११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),
 </details>

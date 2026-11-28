@@ -3,6 +3,11 @@ title = "336 एषो ऽनापदि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+336	The excellent law for the conduct of the (four) castes (varna), (when they are) not in distress, has been thus promulgated; now hear in order their (several duties) in times of distress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Thus has the excellent law for the conduct of the castes in normal times been expounded; now listen in due order to what forms their duty in abnormal times.—(330)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 9.333].
 **वृत्तिः धर्मश्** चेति सिद्ध्यर्थं द्वैविध्यम् ॥ ९.३३६ ॥
 
 **इति भारुचिकृते मनुशास्त्रविवरणे नवमो ऽध्यायः ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-336	The excellent law for the conduct of the (four) castes (varna), (when they are) not in distress, has been thus promulgated; now hear in order their (several duties) in times of distress.
 </details>

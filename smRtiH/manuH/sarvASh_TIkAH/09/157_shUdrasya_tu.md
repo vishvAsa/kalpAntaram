@@ -3,6 +3,11 @@ title = "157 शूद्रस्य तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+157	For a Sudra is ordained a wife of his own caste only (and) no other; those born of her shall have equal shares, even if there be a hundred sons.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra is ordained a wife of his own caste only, and no other; and all the sons born of her shall be entitled to equal shares, even if there be a hundred sons.—(157)
@@ -49,9 +54,4 @@ See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 शूद्रायां शुद्धायाम् इदम् उच्यते । अन्यासूत्कृष्टापकृष्टासु धर्माधर्मापेक्षेया (?) विभागः कल्पयितव्यः ॥ ९.१५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-157	For a Sudra is ordained a wife of his own caste only (and) no other; those born of her shall have equal shares, even if there be a hundred sons.
 </details>

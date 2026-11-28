@@ -2,6 +2,11 @@
 title = "067 वैवाहिके ऽग्नौ"
 +++
 
+<details><summary>Bühler</summary>
+
+067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the marriage-fire the householder should perform the ‘gṛhya’ rites; as also the rite of the ‘five sacrifices’ and the daily cooking.—(67)
@@ -132,11 +137,6 @@ Agnihotra, to live by the prescribed professions and to avoid sexual intercourse
 <details><summary>गोविन्दराजः</summary>
 
 **वैवाहिक** इति । अष्टकादि गृह्योक्तं **कर्म** यथाशास्त्रं वक्ष्यमाण**पञ्चयज्ञा**नुष्ठानं चाग्निसम्पाद्यं प्रात्यहिकं पाकं विवाहभवे **ऽग्नौ** गृहस्थः **कुर्वीत** ॥ ३.६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
 </details>
 
 <details><summary>भारुचिः</summary>

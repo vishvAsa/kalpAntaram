@@ -3,6 +3,11 @@ title = "004 काले ऽदाता"
 
 +++
 
+<details><summary>Bühler</summary>
+
+004	Reprehensible is the father who gives not (his daughter in marriage) at the proper time; reprehensible is the husband who approaches not (his wife in due season), and reprehensible is the son who does not protect his mother after her husband has died.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Censurable is the father who gives her not away at the right time; censurable the husband who approaches her not; and censurable the son who, on the death of her husband, does not take care of her—(4).
@@ -82,9 +87,4 @@ give her away in time,—or if the husband does not approach her during her peri
 <details><summary>भारुचिः</summary>
 
 सर्वदा तत्संरक्षणम् अकुर्वन्तः कन्यादानादि च यथासंभवं वाच्या वचनीयाः स्युः । यत एतद्दोषपरिहारार्थम् एभिः ॥ ९.४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-004	Reprehensible is the father who gives not (his daughter in marriage) at the proper time; reprehensible is the husband who approaches not (his wife in due season), and reprehensible is the son who does not protect his mother after her husband has died.
 </details>

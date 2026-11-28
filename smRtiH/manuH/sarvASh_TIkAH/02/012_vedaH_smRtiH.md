@@ -2,6 +2,11 @@
 title = "012 वेदः स्मृतिः"
 +++
 
+<details><summary>Bühler</summary>
+
+012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Veda, the Smṛti, the Practice of cultured Men, and what is agreeable to oneself—these directly constitute the fourfold means of knowing Dharma.—(12)
@@ -68,11 +73,6 @@ See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 <details><summary>गोविन्दराजः</summary>
 
 इदानीं स्मृतिशीलाचारात्मतुष्ट्यात्मकप्रकारभेदस्यातन्त्रतां दर्शयितुं शीलापातेन चतुर्धा धर्मलक्षणम् आह – **वेदः स्मृतीति** । श्रुत्यादीनां प्रकारमात्रभेदो न तु वस्तुतः, सर्वेषां शिष्टानुस्मरणरूपत्वाच् च । तथा च “श्रुतिस् तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः” स्वयम् एवावोचत् । **सदाचारः **साध्वाचारः । स्वात्मनश् च प्रियं आत्मतुष्टिः ॥ २.१२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "099 अलब्धञ् चैव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+099	Let him strive to gain what he has not yet gained; what he has gained let him carefully preserve; let him augment what he preserves, and what he has augmented let him bestow on worthy men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall strive to obtain what has not been obtained; what he has gained he shall preserve with care; he shall augment what has been preserved and what has been augmented he shall bestow upon suitable recipients—(99)
@@ -64,9 +69,4 @@ facilitating the augmentation of what has been acquired and the proper consignme
 <details><summary>भारुचिः</summary>
 
 [**लिप्सेता**]लिप्समानः संतुष्टः सन् राजा सपत्नैर् महद्भिर् दायादैर् वर्धमानैर् उच्छिद्येताल्पतन्त्रत्वाद्, अर्जितं चारक्षन् केवलेनार्जितक्लेशेन फलरहितेन संक्षिप्यते, **रक्षितं** च सम्यग् अवर्धयन् क्षीयते । तदुपयुञ्जानो ऽन्यस्याभावात् तदार्जितं रक्षितं वर्धितं च यन् महता यत्नत्रयेण तदप्रयच्छन् पात्रेभ्यः परलोकाद् धीयते । निष्का[मतयास्यैव यत्न]त्रयसाध्यं क्लेशत्रयम् आपद्यते ॥ ७.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	Let him strive to gain what he has not yet gained; what he has gained let him carefully preserve; let him augment what he preserves, and what he has augmented let him bestow on worthy men.
 </details>

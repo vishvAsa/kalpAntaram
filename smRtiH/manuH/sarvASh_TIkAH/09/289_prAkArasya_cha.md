@@ -3,6 +3,11 @@ title = "289 प्राकारस्य च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+289	Him who destroys the wall (of a town), or fills up the ditch (round a town), or breaks a (town)- gate, he shall instantly banish.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Him in who breaks the wall, or fills up the ditch, or breaks the gate—he shall instantly banish.—(289)
@@ -43,9 +48,4 @@ demolishes a wall should be made to pay the first amercement.’
 <details><summary>भारुचिः</summary>
 
 पुरस्य राजकुलस्य दुर्गस्य वा । प्रवासनम् अत्रोभयथा राजकार्यविरोधापेक्षया विज्ञेयम् । एवं च सत्य् अत्र राज्ञः स्वतन्त्रसंरक्षणत्वाद् उपदेशस्य न नियोगेन व्यतिक्रमकारिणां वध उपदिश्यते ॥ ९.२८९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-289	Him who destroys the wall (of a town), or fills up the ditch (round a town), or breaks a (town)- gate, he shall instantly banish.
 </details>

@@ -3,6 +3,11 @@ title = "288 बन्धनानि च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+288	Let him place all prisons near a high-road, where the suffering and disfigured offenders can be seen.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The king shall establish prisons all along the public road,—where the suffering and disfigured offenders might be seen.—(288)
@@ -30,9 +35,4 @@ This verse is quoted in *Vivādaratnākara* (p. 630), which explains ‘*bandhan
 <details><summary>भारुचिः</summary>
 
 पृथग्जनस्य पापनिवृत्त्युपायोपदेशः ॥ ९.२८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-288	Let him place all prisons near a high-road, where the suffering and disfigured offenders can be seen.
 </details>

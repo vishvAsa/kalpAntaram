@@ -3,6 +3,11 @@ title = "029 पतिं या"
 
 +++
 
+<details><summary>Bühler</summary>
+
+029	She who, controlling her thoughts, speech, and acts, violates not her duty towards her lord, dwells with him (after death) in heaven, and in this world is called by the virtuous a faithful (wife, sadhvi)
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 (अग्रे व्याख्यानम्।)
@@ -16,9 +21,4 @@ title = "029 पतिं या"
 <details><summary>गोविन्दराजः</summary>
 
 **पतिम्** इति । या मनोवाग्देहसंयता सती मनोवाग्देहैः पतिं न व्यभिचरति सा भर्त्रार्जितान् स्वर्गलोकान् प्राप्नोति सा साध्वीति चोच्यते ॥ ९.२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-029	She who, controlling her thoughts, speech, and acts, violates not her duty towards her lord, dwells with him (after death) in heaven, and in this world is called by the virtuous a faithful (wife, sadhvi)
 </details>

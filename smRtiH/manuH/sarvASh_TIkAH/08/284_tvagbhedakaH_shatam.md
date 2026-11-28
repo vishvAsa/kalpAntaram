@@ -3,6 +3,11 @@ title = "284 त्वग्भेदकः शतम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+284	He who breaks the skin (of an equal) or fetches blood (from him) shall be fined one hundred (panas), he who cuts a muscle six nishkas, he who breaks a bone shall be banished.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who bruises the skin should be fined one hundred; as also one who fetches blood; he who cuts the flesh, six ‘niṣkas’ and the bone-breaker should be banished.—(284)
@@ -101,9 +106,4 @@ or ears or any limb of a person of the higher castes, he shall be fined 200 *Pur
 <details><summary>भारुचिः</summary>
 
 यस् त्वचो विकारं दर्शयत्य् अलोहितं स विज्ञेयस् त्वग्भेदकः । ऋज्व् अन्यत् । अस्य तु विशेषः । मनुष्यानां पशूनां चेति ॥ ८.२८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-284	He who breaks the skin (of an equal) or fetches blood (from him) shall be fined one hundred (panas), he who cuts a muscle six nishkas, he who breaks a bone shall be banished.
 </details>

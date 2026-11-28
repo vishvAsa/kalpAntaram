@@ -3,6 +3,11 @@ title = "181 यो येन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+182	He who associates with any one of those outcasts, must perform, in order to atone for (such) intercourse, the penance prescribed for that (sinner).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When a man associates with any one of outcasts, he should, for his own purification, perform the same penance that has been prescribed for that outcast.—(181)
@@ -120,9 +125,4 @@ months, through sacrificing, teaching and the like, or though occupying the same
 <details><summary>भारुचिः</summary>
 
 इदम् अपि च प्रायश्चित्तं महापातकिभिर् एव संबन्धे स्यात्, गोघातादिसंबन्धे तु सामान्यविहितं कल्प्यम् ॥ ११.१८० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-182	He who associates with any one of those outcasts, must perform, in order to atone for (such) intercourse, the penance prescribed for that (sinner).
 </details>

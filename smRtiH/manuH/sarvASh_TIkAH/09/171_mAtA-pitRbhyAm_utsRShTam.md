@@ -3,6 +3,11 @@ title = "171 माता-पितृभ्याम् उत्सृष्�
 
 +++
 
+<details><summary>Bühler</summary>
+
+171	He whom (a man) receives as his son, (after he has been) deserted by his parents or by either of them, is called a son cast off (Apaviddha).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man takes up a son deserted by his parents, or by either of them, he is called the ‘cast off son.’—(171)
@@ -72,9 +77,4 @@ him.’
 <details><summary>भारुचिः</summary>
 
 अन्यतरे प्रमीते ऽन्यतरोत्सर्ग उच्यते । इतरथा हि मातापित्रोर् जीवतोर् अन्यतरोत्सर्गे ऽपविद्धतास्य न युक्ता । अयम् अपि च सवर्ण एव ॥ ९.१७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-171	He whom (a man) receives as his son, (after he has been) deserted by his parents or by either of them, is called a son cast off (Apaviddha).
 </details>

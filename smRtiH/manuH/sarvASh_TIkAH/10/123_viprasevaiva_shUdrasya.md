@@ -3,6 +3,11 @@ title = "123 विप्रसेवैव शूद्रस्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	The service of Brahmanas alone is declared (to be) an excellent occupation for a Sudra; for whatever else besides this he may perform will bear him no fruit.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The service of the Brāhmaṇa is described as the distinctive duty of the Śūdra; everything else that he does is fruitless for him.—(123)
@@ -62,9 +67,4 @@ himself, should support him, even if he becomes unable to work.’
 > **तद् भवत्य् अस्य निष्फलम्  ॥ १०.१२३ ॥**
 
 अथ वा **यद् अतो ऽन्यत्** प्रकुरुते पाकयज्ञादि **तद् भवत्य् अस्य निष्फलम्** इति । एवं च सतीयं विहितकर्मनिन्दा विप्रसेवास्तुत्यर्थम् उपदेशसामर्थ्याद् विज्ञायते ॥ १०.१२३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	The service of Brahmanas alone is declared (to be) an excellent occupation for a Sudra; for whatever else besides this he may perform will bear him no fruit.
 </details>

@@ -2,6 +2,11 @@
 title = "026 सस्यान्ते नवसस्येष्ट्या"
 +++
 
+<details><summary>Bühler</summary>
+
+026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the end of the grains, the Brāhmaṇa shall perform the “New-Harvest sacrifice;” at the end of the seasons, the “Adhvara-sacrifices;” at the end of the solstices the “Animal-sacrifice;” and at the end of the year the “Soma-sacrifices.”—(26)
@@ -79,11 +84,6 @@ Paśu,—and the Āgrayaṇeṣṭi and the Cāturmāsya also shall be performed
 <details><summary>गोविन्दराजः</summary>
 
 **सस्यान्त** इति । प्राक्सञ्चितधान्यादिक्षये यदा वर्षस्य तृप्तः स्यात् “अथाग्रयणेन यजेत शरदि नवान्नम्” इति सूत्रकारवचनात् । विद्यमानधान्यो ऽपि चाग्रयणेन यजेत । ऋतुः संवत्सरम् इत्य् अस्मिन् दर्शनेन चतुर्षु चतुर्षु मासेष्व् ऋत्वन्ते ऽध्वरैः चातुर्मास्याख्यैः कर्मभिर् यजेत । पशुबन्धाख्येन कर्मणा उत्तरायणदक्षिणायनादौ यजेत । वर्षान्ते च ज्योतिष्टोमादिना सोमयागेनेति ॥ ४.२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.
 </details>
 
 <details><summary>भारुचिः</summary>

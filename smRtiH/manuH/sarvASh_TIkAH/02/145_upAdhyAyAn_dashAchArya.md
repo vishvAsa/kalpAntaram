@@ -2,6 +2,11 @@
 title = "145 उपाध्यायान् दशाचार्य"
 +++
 
+<details><summary>Bühler</summary>
+
+145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In veneration, the Preceptor excels ten Sub-teachers; the Father a hundred preceptors, and the Mother a thousand Fathers.—(145)
@@ -89,11 +94,6 @@ suffering from shooting pains, then she gives him birth, being rendered unconsci
 <details><summary>गोविन्दराजः</summary>
 
 **उपाध्यायान्** इति । दशभ्य उपाध्यायेभ्य आचार्यो **गौरवेण** हेतुभूतेनाधिकी भवति । उपाध्यायपूजातः दशगुणा आचार्यस्य पूजा कार्येत्य् अर्थः । एवम् **आचार्याणां शतं पिता गौरवेण्**आधिको भवति यः सकलसंस्कारादिकर्ता । जनकमात्रपितृसहस्रात् सकलसंस्कारादिकारयित्री **माता गौरवेणा**धिकी भवति ॥ २.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
 </details>
 
 <details><summary>भारुचिः</summary>

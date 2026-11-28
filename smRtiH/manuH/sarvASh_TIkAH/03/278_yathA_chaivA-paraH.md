@@ -3,6 +3,11 @@ title = "278 यथा चैवाऽपरः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+278	As the second half of the month is preferable to the first half, even so the afternoon is better for (the performance of) a funeral sacrifice than the forenoon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as, for purposes of śrāddha, the latter half of the month is preferable to the former half, so also, the afternoon is preferable to the forenoon.—(278)
@@ -71,9 +76,4 @@ afternoon for Pitṛs.’
 <details><summary>गोविन्दराजः</summary>
 
 **यथेति** । “चैत्रसिताद्या मासा” इति ज्योतिःशास्त्रदर्शनेन **अपरपक्षः **शुक्लपक्षात् श्राद्धे विशिषीतफलो भवति । एवं श्राद्धसम्बन्धिपूर्वाह्णभागाद् अपराह्णभागो विशिष्टफलो भवति । **विशिष्यत** इति वचनात् कदाचित् पूर्वाह्णे ऽपि श्राद्धं कर्तव्यम् इति प्रतीयत् । दृष्टान्तस्य च दृष्टान्तदानान्य् अथानुपपत्त्यैव सिद्धिर् बोद्धव्या । न ह्य् असिद्धस्य दृष्टान्ततोपपद्यते ॥ ३.२७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-278	As the second half of the month is preferable to the first half, even so the afternoon is better for (the performance of) a funeral sacrifice than the forenoon.
 </details>

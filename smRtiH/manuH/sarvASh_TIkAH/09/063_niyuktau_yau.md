@@ -3,6 +3,11 @@ title = "063 नियुक्तौ यौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	If those two (being thus) appointed deviate from the rule and act from carnal desire, they will both become outcasts, (as men) who defile the bed of a daughter-in-law or of a Guru.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the two persons thus ‘authorised’ renounce the law and act from carnal desire, both would become outcasts,—being like one who has intercourse with his daughter-in-law and one who defiles the bed of his elder.—(63)
@@ -47,9 +52,4 @@ See Comparative notes for [Verse 9.60].
 <details><summary>भारुचिः</summary>
 
 विधवानियोगविधीनां सर्वेषां व्यतिक्रमनिन्दार्थवादो ऽयम् अविशेषाद् विज्ञेयः, न केवलम् अनन्तरश्लोकस्य नियोगार्थनिर्वृत्त्युत्तरकालप्रतिषेधस्य । एष तावद् एव कारणाद् विधवानियोगः । अस्य प्रतिषेधः ॥ ९.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	If those two (being thus) appointed deviate from the rule and act from carnal desire, they will both become outcasts, (as men) who defile the bed of a daughter-in-law or of a Guru.
 </details>

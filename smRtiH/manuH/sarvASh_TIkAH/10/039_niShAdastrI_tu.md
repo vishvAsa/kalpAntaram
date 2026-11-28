@@ -3,6 +3,11 @@ title = "039 निषादस्त्री तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+039	A Nishada woman bears to a Kandala a son (called) Antyavasayin, employed in burial-grounds, and despised even by those excluded (from the Aryan community).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ‘Niṣāda’ woman bears to the ‘Caṇḍāla’ the son called ‘Antyāvasāyin,’ working in the cremation-ground, despised even by out-casts.—(39)
@@ -51,9 +56,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 श्मशानगोचरस् तद्वृत्तिस् तत्स्थाननिवासश् च । एवं च सत्य् अयं चण्डालाद् अपि पापतरो विज्ञेयः । तद् एतद् आनन्त्यात् संकरस्य प्रदर्शनमात्रं विज्ञेयम् ॥ १०.३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-039	A Nishada woman bears to a Kandala a son (called) Antyavasayin, employed in burial-grounds, and despised even by those excluded (from the Aryan community).
 </details>

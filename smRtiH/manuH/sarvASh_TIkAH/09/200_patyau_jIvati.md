@@ -3,6 +3,11 @@ title = "200 पत्यौ जीवति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+200	The ornaments which may have been worn by women during their husbands' lifetime, his heirs shall not divide; those who divide them become outcasts.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The ornament worn by the woman during her husband’s life-time, her heirs shall not divide; if they divide it, they become outcasts.—(200)
@@ -54,9 +59,4 @@ presents made to the mother, the daughter shall take.’
 <details><summary>भारुचिः</summary>
 
 दायादानाम् अयं प्रतिषेधः । आत्मीयानां त्व् औरसपुत्राणाम् अनुज्ञातो विभागः ॥ ९.२०० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-200	The ornaments which may have been worn by women during their husbands' lifetime, his heirs shall not divide; those who divide them become outcasts.
 </details>

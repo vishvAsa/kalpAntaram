@@ -2,6 +2,11 @@
 title = "193 त्रिष्व् अप्य्"
 +++
 
+<details><summary>Bühler</summary>
+
+193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For property, even though acquired by lawful means,—if given to these three persons,—brings calamity, in the next world, to the giver, as also to the receiver.—(193)
@@ -34,11 +39,6 @@ This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as
 <details><summary>गोविन्दराजः</summary>
 
 **त्रिष्व्** इति । न्याय्पार्जितं **धनं **बैडालव्रतिकादिषु **त्रिष्व् अपि दत्तं **दातृप्रतिग्रहीत्रोः परलोके नरकपातहेतुत्वात् **अनर्थाय **सम्पद्यते ॥ ४.१९३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
 </details>
 
 <details><summary>भारुचिः</summary>

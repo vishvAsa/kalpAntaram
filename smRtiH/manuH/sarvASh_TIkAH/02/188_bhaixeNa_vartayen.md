@@ -2,6 +2,11 @@
 title = "188 भैक्षेण वर्तयेन्"
 +++
 
+<details><summary>Bühler</summary>
+
+188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The avowed student should subsist on alms; he should not (habitually) eat the food given by one person. for the student, subsisting on alms has been declared to be equal to fasting.—(188)
@@ -97,11 +102,6 @@ times of distress, habitually eat food given by a single person; at a Śrāddha 
 > भैक्षस्यागमशुद्धस्य प्रोक्षितस्य हुतस्य च ।
 
 > यस् तस्य ग्रसते ग्रासान् तत् तस्य क्रतुभिः समाः ॥ २.११८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
 </details>
 
 <details><summary>भारुचिः</summary>

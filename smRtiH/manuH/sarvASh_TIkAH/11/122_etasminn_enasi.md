@@ -3,6 +3,11 @@ title = "122 एतस्मिन्न् एनसि"
 
 +++
 
+<details><summary>Bühler</summary>
+
+123	When this sin has been committed, he shall go begging to seven houses, dressed in the hide of the (sacrificed) ass, proclaiming his deed.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On this sin having been incurred, the man, clothed in the skin of the ass, shall go begging alms at seven houses; proclaiming his own deed.—(122)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 11.118].
 <details><summary>गोविन्दराजः</summary>
 
 **एतस्मिन्न्** इति । **सप्तागारं चरेद् भैक्ष्यं स्वकर्म परिकीर्तयन्** । अवकीर्णाख्ये पाप उत्पन्ने पूर्वोक्तगर्दभयागादि कृत्वा तद्गर्दभसम्बन्धि चर्म प्रावृत्याकीर्ण्य् अस्मीत्य् एवं स्वकर्म ख्यापयन् सप्तगृहं भैक्ष्यं चरेत् ॥ ११.१२२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-123	When this sin has been committed, he shall go begging to seven houses, dressed in the hide of the (sacrificed) ass, proclaiming his deed.
 </details>

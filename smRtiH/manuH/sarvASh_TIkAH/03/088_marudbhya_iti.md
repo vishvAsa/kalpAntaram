@@ -3,6 +3,11 @@ title = "088 मरुद्भ्य इति"
 
 +++
 
+<details><summary>Bühler</summary>
+
+088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Saying “this to the Maruts,” he should make an offering at the door; also one in water, saying, “this to the Apas;” and he should hake an offering on the pestle and mortar, saying, “this to the Vanaspatis.”—(88)
@@ -43,9 +48,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **मरुद्भ्य इति द्वारि हरेद्** इति । **मरुद्भ्य** इत्य् एवं द्वारप्रदेशे **अद्भ्य** इत्य् एतद् अपां मध्ये **वनस्पतिभ्य इत्य् एवं मुसलोलूखले **द्वन्द्वैकवद्भावात् विकल्पेनान्यत्र बलिं दद्यात् ॥ ३.८८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'
 </details>

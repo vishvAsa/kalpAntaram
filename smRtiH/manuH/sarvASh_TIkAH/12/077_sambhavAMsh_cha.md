@@ -3,6 +3,11 @@ title = "077 सम्भवांश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+077	And births in the wombs (of) despicable (beings) which cause constant misery, and afflictions from cold and heat and terrors of various kinds,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Constant births in low forms of life, abounding in misery, afflictions from heat and cold, and terrors of various kinds.—(77)
@@ -26,9 +31,4 @@ Constant births in low forms of life, abounding in misery, afflictions from heat
 <details><summary>गोविन्दराजः</summary>
 
 **सम्भवान् **इति । तिर्यगादिषु जातिषु नित्यं दुःखबहुलासु जन्मानि प्राप्नुवन्ति । तेषु शीतातपोपपीडनानि नानाप्रकाराणि भयानि प्राप्नुवन्ति ॥ १२.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	And births in the wombs (of) despicable (beings) which cause constant misery, and afflictions from cold and heat and terrors of various kinds,
 </details>

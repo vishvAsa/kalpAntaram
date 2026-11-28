@@ -3,6 +3,11 @@ title = "053 न तैः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	A man who fulfils a religious duty, shall not seek intercourse with them; their transactions (shall be) among themselves, and their marriages with their equals.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who follows the law shall not seek intercourse with them; their transactions shall be among themselves and their marriages with their equals.—(53)
@@ -28,9 +33,4 @@ One who follows the law shall not seek intercourse with them; their transactions
 <details><summary>गोविन्दराजः</summary>
 
 **न तैर्** इति । धार्मिकः पुरुषः चण्डालश्वपचैः सहलोकयात्रादिव्यवहारान् न कुर्यात् । तेषां च दानग्रहणादिव्यवहारो विवाहश् च समानजातीयैः सह परस्परं स्यात् ॥ १०.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	A man who fulfils a religious duty, shall not seek intercourse with them; their transactions (shall be) among themselves, and their marriages with their equals.
 </details>

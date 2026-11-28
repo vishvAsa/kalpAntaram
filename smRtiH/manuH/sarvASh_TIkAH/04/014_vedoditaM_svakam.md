@@ -2,6 +2,11 @@
 title = "014 वेदोदितं स्वकम्"
 +++
 
+<details><summary>Bühler</summary>
+
+014	Let him, untired, perform daily the rites prescribed for him in the Veda; for he who performs those according to his ability, attains to the highest state.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall, without sloth, always perform his own duty as prescribed in the Veda. Performing that, to the best of his ability, he attains the highest state.—(14)
@@ -54,11 +59,6 @@ The verse is quoted also in *Parāśaramādhava* (Ācāra, p. 52),—and in
 <details><summary>गोविन्दराजः</summary>
 
 **वेदोदितम्** इति । श्रौतं **वेदोदितं **स्मार्तम् अपि च वेदमूलत्वाद् वेदोक्तम्, **स्वकं** यद् यस्य **चोदितं कर्म नित्यं न** काम्यं तद् अनलसः सन् **कुर्यात् **यस्माद् **यथाशक्ति कुर्वन् **नित्यकरणात् पापक्षयानुत्पत्तिभ्यां काम्याकरणाच् च फलहेतुधर्माभावे सति शुभाशुभकार्याभावान् मोक्षं **प्राप्नोति** ॥ ४.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	Let him, untired, perform daily the rites prescribed for him in the Veda; for he who performs those according to his ability, attains to the highest state.
 </details>
 
 <details><summary>भारुचिः</summary>

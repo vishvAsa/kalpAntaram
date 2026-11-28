@@ -3,6 +3,11 @@ title = "184 तेषान् न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+184	But if he restores not that gold, as be ought, to those (spies), then he shall be compelled by force to restore both (deposits); that is a settled rule of law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, however, he should not restore that gold to them in the proper manner, he should be forced to restore both; such is the decree of the law.—(184)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.181-182].
 <details><summary>भारुचिः</summary>
 
 पूर्वेणास्य संबन्धः । तथा चोक्तं "यो निक्षेपं याच्यमानः" इत्य् एवमादि ॥ ८.१८३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-184	But if he restores not that gold, as be ought, to those (spies), then he shall be compelled by force to restore both (deposits); that is a settled rule of law.
 </details>

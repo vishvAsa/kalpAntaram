@@ -3,6 +3,11 @@ title = "047 अधमर्णार्थसिद्ध्यर्थम् 
 
 +++
 
+<details><summary>Bühler</summary>
+
+047	When a creditor sues (before the king) for the recovery of money from a debtor, let him make the debtor pay the sum which the creditor proves (to be due).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 On being prayed by the creditor for the recovery of money from the debtor, he shall make the debtor pay to the creditor the money proved to be due.—(47)
@@ -71,9 +76,4 @@ loan, does not repay it in due course, should be compelled to repay it, and shou
 <details><summary>भारुचिः</summary>
 
 अधमः ऋणे **अधर्मर्णः** । को ऽसौ । गृहीता । कस्य हेतोः । येनासौ तद् ऋणं सोपचयं प्रतिदेयं परिगृह्णाति, अशक्यसंशोध्यं बहुक्लेशं च । दाता तूत्तमर्णः । येनासौ सोपचयं प्रत्यादेयं ददाति । अतश् चोत्तम ऋणे दीयमाने भवति । एवं च सति कालेन द्विगुणीभूते अद्विगुणीभूते वा यदाधमर्णो याच्यमानस् तद्धर्नं न ददाति तदा तस्य सिद्ध्यर्थम् उत्तमर्णेन चोदितो राजा धनिकस्यार्थं दापयेद् अधमर्णाद् अधमर्णं वा । सामान्यो ऽयं व्यवहारनिर्देशः ॥ ८.४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-047	When a creditor sues (before the king) for the recovery of money from a debtor, let him make the debtor pay the sum which the creditor proves (to be due).
 </details>

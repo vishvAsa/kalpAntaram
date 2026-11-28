@@ -3,6 +3,11 @@ title = "131 मध्यन्दिने ऽर्धरात्रे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not have recourse to a cross-road at midday, or at midnight, or after having partaken of meat-food at a śrāddha, or at the two twilights.—(131)
@@ -45,9 +50,4 @@ road-crossings at midday, or at midnight, or late at night, or during the two tw
 <details><summary>गोविन्दराजः</summary>
 
 **मधन्दिन** इति । मध्याह्नार्धरात्रसन्ध्यासु समांसं च **श्राद्धं भुक्त्वा **चतुष्पथे चिरं न तिष्ठेत् ॥ ४.१३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.
 </details>

@@ -2,6 +2,11 @@
 title = "033 तपस् तप्त्वासृजद्"
 +++
 
+<details><summary>Bühler</summary>
+
+033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 O best of Brāhmaṇas, know me, the creator, of this whole (would), to be that whom the said Being Virāj himself, after having performed austerities, produced.—(33)
@@ -35,11 +40,6 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 <details><summary>गोविन्दराजः</summary>
 
 **तप **इति । **स **अनन्तरोक्तो **विराट् तपः **कृत्वा **यं स्वयं **सृष्ट्वान् **तं मां **जानीत । एतस्य सर्वस्योत्पादयितारम् । हे द्विजश्रेष्ठतमाः ॥ १.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
 </details>
 
 <details><summary>भारुचिः</summary>

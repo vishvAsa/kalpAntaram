@@ -3,6 +3,11 @@ title = "044 पृथोर् अपीमाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	(Sages) who know the past call this earth (prithivi) even the wife of Prithu; they declare a field to belong to him who cleared away the timber, and a deer to him who (first) wounded it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 People learned in ancient lore have regarded this Pṛthvī (earth) to be the wife of Pṛthu; they declare the field to belong to him who has cleared off the stalks, and the deer to him who struck the dart.—(44)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.31].
 <details><summary>भारुचिः</summary>
 
 अतश् च पूर्वपरिगृहीतुः क्षेत्रिणः क्षेत्रम् । यस्य तत् क्षेत्रं तस्य च क्षेत्रफलं विज्ञेयम्, न बीजिनः । तथा चागमः ॥ ९.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	(Sages) who know the past call this earth (prithivi) even the wife of Prithu; they declare a field to belong to him who cleared away the timber, and a deer to him who (first) wounded it.
 </details>

@@ -3,6 +3,11 @@ title = "145 उत्थाय पश्चिमे"
 
 +++
 
+<details><summary>Bühler</summary>
+
+145	Having risen in the last watch of the night, having performed (the rite of) personal purification, having, with a collected mind, offered oblations in the fire, and having worshipped Brahmanas, he shall enter the hall of audience which must possess the marks (considered) auspicious (for a dwelling).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having risen during the last watch of the night and performed his ablutions, with collected mind, having poured libations into the Fire, and honoured the Brāhmaṇas, he shall enter the auspicious Hall of Audience.—(145)
@@ -56,9 +61,4 @@ and domestic priests and the teacher, he shall see the astrologers and physician
 <details><summary>गोविन्दराजः</summary>
 
 **उत्थायेति** । मुहूर्तमात्रावशिष्टायां रात्राव् **उत्थाय** कृतावश्यकशौचः संयतमनाः कृताग्निहोत्रो **ब्राह्मणान्** पूजयित्वा वास्तुलक्षणोपेतां **सभाम्** अमात्यादिधर्शनवेश्म **प्रविशेत्** ॥ ७.१४५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-145	Having risen in the last watch of the night, having performed (the rite of) personal purification, having, with a collected mind, offered oblations in the fire, and having worshipped Brahmanas, he shall enter the hall of audience which must possess the marks (considered) auspicious (for a dwelling).
 </details>

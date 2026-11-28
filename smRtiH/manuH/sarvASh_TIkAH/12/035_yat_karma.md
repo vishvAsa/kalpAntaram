@@ -3,6 +3,11 @@ title = "035 यत् कर्म"
 
 +++
 
+<details><summary>Bühler</summary>
+
+035	When a (man), having done, doing, or being about to do any act, feels ashamed, the learned may know that all (such acts bear) the mark of the quality of Darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When, having done, or doing, or going to do a certain act, a man happen to feel ashamed,—every such act should be understood by the learned to be characterised by the quality of ‘Tamas.’—(35)
@@ -34,9 +39,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **यत् कर्म कृत्वा कुर्वंश् च करिष्यंश् चैव लज्जत** इति । यत् कर्मातीतवर्तमानानागतकालानाम् अन्यतमम् अस्मिन् काले द्वयोर् वा कालयोः सर्वेषु कालेषु कर्तुर् लज्जां जनयति तत् सर्वं शास्त्रविदा तमःकार्यत्वात् तमोऽभिधानगुणलक्षणं बोद्धव्यम् ॥ १२.३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-035	When a (man), having done, doing, or being about to do any act, feels ashamed, the learned may know that all (such acts bear) the mark of the quality of Darkness.
 </details>

@@ -3,6 +3,11 @@ title = "078 नदीकूलं यथा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	He who leaves this body, (be it by necessity) as a tree (that is torn from) the river-bank, or (freely) like a bird (that) quits a tree, is freed from the misery (of this world, dreadful like) a shark.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He, who leaves this body, either as the tree leaves the bank, or as the bird leaves the tree, becomes freed from the shark of misery.—(78.)
@@ -45,9 +50,4 @@ This second alternative (of leaving the body voluntarily has been put forward in
 <details><summary>भारुचिः</summary>
 
 यस् तावद् घटमानकस् तस्य कर्मक्षयात् अपराधिनो देहत्यागः, यथा वृक्षस्याबुद्धिपूर्वः पातः । यः पुनर् अभ्याससामर्थ्यात् प्राणमनोनिग्रहस् तस्य निस्तीर्णोपधस्य पश्यप्रकृतेर् धर्मविशेषोपष्कृतात्मनो महायोगयुक्तदीकस्य बुद्धिपूर्वो देहत्यागः शकुनिवद् जिज्ञेयः सांख्ययोगयोर् आशयो देहपातद्वयोपदेशो दृष्टान्तद्वयेन प्रदर्श्यते ॥ ६.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	He who leaves this body, (be it by necessity) as a tree (that is torn from) the river-bank, or (freely) like a bird (that) quits a tree, is freed from the misery (of this world, dreadful like) a shark.
 </details>

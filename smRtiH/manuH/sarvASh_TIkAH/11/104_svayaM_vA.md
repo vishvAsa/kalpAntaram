@@ -3,6 +3,11 @@ title = "104 स्वयं वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+105	Or, having himself cut off his organ and his testicles and having taken them in his joined hands, he may walk straight towards the region of Nirriti (the south-west), until he falls down (dead);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, having cut off his penis and testicles, he shall take them in his joined hands and walk straight on towards the ‘region of evil spirits,’ until he falls down.—(104)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 11.103].
 <details><summary>गोविन्दराजः</summary>
 
 **स्वयम्** इति । आत्मनैव वा लिङ्गवृषणम् उत्खायाञ्जलौ गृहीत्वा स्पष्टगतिः सन्न् आ शरीरपाताद् दक्षिणपश्चिमां दिशं गच्छेत् ॥ ११.१०३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-105	Or, having himself cut off his organ and his testicles and having taken them in his joined hands, he may walk straight towards the region of Nirriti (the south-west), until he falls down (dead);
 </details>

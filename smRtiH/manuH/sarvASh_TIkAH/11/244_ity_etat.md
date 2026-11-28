@@ -3,6 +3,11 @@ title = "244 इत्य् एतत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+245	The gods, discerning that the holy origin of this whole (world) is from austerity, have thus proclaimed the incomparable power of austerity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The gods, discerning that the holy origin of all this lies in austerity, thus proclaim the magnificence of Austerity.—(244)
@@ -38,9 +43,4 @@ See Comparative notes for [Verse 11.234].
 <details><summary>भारुचिः</summary>
 
 "तपोमूलम् इदं सर्वम्" इत्य् एतस्मात् श्लोकात् प्रभृति यावद् अयं श्लोक इयत्य् अत्र या स्तुतिः सा प्रकाशप्रायश्चित्ततपसः । अथ वा "अनाविष्कृतपापस् तु" इत्य् अतः प्रभृति रहस्यप्रायश्चित्तप्रकरणसामर्थ्यात् तत्तपःस्तुतिः, अविरोधाद् उभयोर् वा । अथ वा तपःस्थितानाम् अप्रत्ययाकुशलकर्मनाशाय तपःस्तुतिर् इति ॥ ११.२४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-245	The gods, discerning that the holy origin of this whole (world) is from austerity, have thus proclaimed the incomparable power of austerity.
 </details>

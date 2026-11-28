@@ -3,6 +3,11 @@ title = "334 विप्राणां वेदविदुषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+334	But to serve Brahmanas (who are) learned in the Vedas, householders, and famous (for virtue) is the highest duty of a Sudra, which leads to beatitude.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Śūdra the highest duty conducive to his best welfare is to attend upon such Brāhmaṇa house-holders as are learned in the Vedas and famous.—(334)
@@ -40,9 +45,4 @@ See Comparative notes for [Verse 9.333].
 <details><summary>भारुचिः</summary>
 
 शूद्रो विशेषतः इत्थंभूतगुणवतां ब्राह्मणानां [शुश्रूषया निःश्रेयसं लभते] ॥ ९.३३४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-334	But to serve Brahmanas (who are) learned in the Vedas, householders, and famous (for virtue) is the highest duty of a Sudra, which leads to beatitude.
 </details>

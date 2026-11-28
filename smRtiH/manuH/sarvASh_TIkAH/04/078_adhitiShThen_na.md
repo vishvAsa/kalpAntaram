@@ -3,6 +3,11 @@ title = "078 अधितिष्ठेन् न"
 
 +++
 
+<details><summary>Bühler</summary>
+
+078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 One who is desirous of living a long life, shall not step on hair, nor on ashes, bones and potsherds; or on cotton-seed or chaff.—(78)
@@ -61,9 +66,4 @@ grass or a heap of pebbles.’
 <details><summary>गोविन्दराजः</summary>
 
 **अधितिष्ठेद्** इति । **दीर्घम् आयुर् **जीवितुम् इच्छुः केश**भस्मास्थिकपालिकाः कार्पास**बीजतुषान् नाधिरोहेत् ॥ ४.७८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.
 </details>

@@ -3,6 +3,11 @@ title = "044 चारणाश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+044	Karanas, Suparnas and hypocrites, Rakshasas and Pisakas (belong to) the highest (rank of) conditions among those produced by Darkness.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Inanimate beings, worms, insects, fishes, snakes, tortoise, cattle and wild animals,—represent the lowest state due to the quality of ‘Tamas.’—(42)
@@ -64,9 +69,4 @@ See Comparative notes for [Verse 12.32].
 <details><summary>गोविन्दराजः</summary>
 
 **चारणा** इति । चारणा नटादयः सुपर्णो गरुत्माख्यः पक्षिविशेषो व्याजधर्मकारिणश् च पुरुषा रक्षःप्रिशाचा इत्य् एषा तामसेषु मुनुष्येषूत्कृष्टा गतिः ॥ १२.४४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-044	Karanas, Suparnas and hypocrites, Rakshasas and Pisakas (belong to) the highest (rank of) conditions among those produced by Darkness.
 </details>

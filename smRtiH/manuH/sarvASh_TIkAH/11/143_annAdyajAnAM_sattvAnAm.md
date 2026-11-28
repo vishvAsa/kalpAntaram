@@ -3,6 +3,11 @@ title = "143 अन्नाद्यजानां सत्त्वाना
 
 +++
 
+<details><summary>Bühler</summary>
+
+144	(For destroying) any kind of creature, bred in food, in condiments, in fruit, or in flowers, the expiation is to eat clarified butter.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the destroying of any kind of creatures bred in food, in sauces, in fruits or in flowers, the expiation consists in eating with clarified butter.—(143)
@@ -56,9 +61,4 @@ sweets and such things, or in liquids, or elsewhere, or in flowers or fruits,—
 <details><summary>भारुचिः</summary>
 
 पूर्वओ ऽस्थिमदनस्थिमद्विधिर् अन्नादिजातेभ्यो ऽन्यत्र विज्ञेयः, अस्यारम्भसामर्थ्यात् ॥ ११.१४२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-144	(For destroying) any kind of creature, bred in food, in condiments, in fruit, or in flowers, the expiation is to eat clarified butter.
 </details>

@@ -3,6 +3,11 @@ title = "070 बीजम् एके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Some sages declare the seed to be more important, and others the field; again others (assert that) the seed and the field (are equally important); but the legal decision on this point is as follows:
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Some wise men extol the seed, while others the soil; while yet others extol both the seed and the soil. The decision on this point is as follows.—(70)
@@ -66,9 +71,4 @@ seq*.\]]
 > **बीजक्षेत्रे तथैवान्ये तत्रेयं तु व्यवस्थितिः  ॥ १०.७० ॥**
 
 यद् अप्य् एकान्तत आहुः तद् अप्य् असाधु । यस्मात् क्षेत्रे वैगुण्ये ऽपि सति क्षत्रियावैश्ययोर् ब्राःमणक्षत्रियाभ्यां च गर्ह्यास् त्रयो ऽधिकृताश् च यथासंभवं कर्मभिर् दृश्यन्ते । तत्रैवम् एकान्तत्रये ऽपि दोषदर्शनाद् इयम् एव स्थितिः यथोक्ता विज्ञेयेति । अथ वा "सुबीजम् एव सुक्षेत्रे" इतीयम् उत्कर्षापेक्षा व्यवस्थोच्यते । पूर्वा तु यथाविषयम् उपदेशसामर्थ्याद् विज्ञेया । उभयप्राधान्यम् एव च परिगृह्येमाव् अन्वयव्यतिरेकाव् उच्येते ॥ १०.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Some sages declare the seed to be more important, and others the field; again others (assert that) the seed and the field (are equally important); but the legal decision on this point is as follows:
 </details>

@@ -3,6 +3,11 @@ title = "220 यथा कथम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+221	He who, concentrating his mind, eats during a month in any way thrice eighty mouthfuls of sacrificial food, dwells (after death) in the world of the moon.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a man, with concentrated mind, somehow eats thrice eighty morsels of ‘sacrificial food,’ during a month, he attains the regions of the Moon.—(220)
@@ -59,9 +64,4 @@ morsels during one month, this would be another kind of *Cāndrāyaṇa*. One wh
 <details><summary>गोविन्दराजः</summary>
 
 **यथा कथञ्चिद्** इति । निवारादि हविष्यान्नसम्बन्धिनां हविष्याणां ग्रासानां च द्वे शते चत्वारिंशदधिके कदाचिद् एकं कदाचिद् पञ्च कदाचित् षोडश कदाचिद् उपवास इत्य् एवमादि अनियमने यथा कथञ्चित् मासेन संयमवान् अश्नंश् चन्द्रलोकं प्राप्नोति । अतश् चाभ्युदयार्थम् अप्य् एतत् कार्यम् ॥ ११.२१९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-221	He who, concentrating his mind, eats during a month in any way thrice eighty mouthfuls of sacrificial food, dwells (after death) in the world of the moon.
 </details>

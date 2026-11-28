@@ -2,6 +2,11 @@
 title = "011 यत् तत्"
 +++
 
+<details><summary>Bühler</summary>
+
+011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 That which is the cause—unmanifest, eternal and partaking of the nature of the existent and the non-existent,—the being produced by that (cause) is described among people as ‘brahmā.’—(11)
@@ -108,11 +113,6 @@ different interpretation of verses 3-1l.
 <details><summary>गोविन्दराजः</summary>
 
 **यत् तद्** आत्माख्यम् उक्तं वक्ष्यमाणनीत्या सर्वस्य **कारणं **वेदान्तोक्तयुक्त्यागमगम्यत्वात् सत्स्व् अभावं प्रत्यक्षाद्यगोचरत्वाद् असत्स्वभावम् इव तेनोत्पादितः **स पुरुषस् **तत्र तत्र **ब्रह्म**शब्देन सं**कीर्त्यते **॥ १.११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.
 </details>
 
 <details><summary>भारुचिः</summary>

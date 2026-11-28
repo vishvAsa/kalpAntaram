@@ -3,6 +3,11 @@ title = "053 अदेश्यं यश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	(The plaintiff) who calls a witness not present at the transaction, who retracts his statements, or does not perceive that his statements (are) confused or contradictory;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He who mentions the wrong place,—or who, having mentioned it, retracts,—or who does not understand that his previous and subsequent statements are contradictory;—(53)
@@ -65,9 +70,4 @@ renounces it and says something else, then, having taken up a different position
 <details><summary>भारुचिः</summary>
 
 **अदेशं** गृहीतुर् **यश् च दिशति अदेश्यं** वर्थवस्तु; **निर्दिश्यापह्नुते च यः** देशं देश्यं वा; यश् **चाधरोत्तरान् अर्थान्**, देशाद् अन्यान्य् अपि कालद्रव्यरूपसंख्यादीन् विगीतान् पूर्वोत्तरविरुद्धान् नावबुद्ध्यते, "हीनं तम् इति निर्दिशेत्" इति वक्ष्यत्य् अर्थिनम् इतरं वा ॥ ८.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	(The plaintiff) who calls a witness not present at the transaction, who retracts his statements, or does not perceive that his statements (are) confused or contradictory;
 </details>

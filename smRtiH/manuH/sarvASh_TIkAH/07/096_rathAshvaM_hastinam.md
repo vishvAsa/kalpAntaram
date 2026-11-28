@@ -3,6 +3,11 @@ title = "096 रथाश्वं हस्तिनम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+096	Chariots and horses, elephants, parasols, money, grain, cattle, women, all sorts of (marketable) goods and valueless metals belong to him who takes them (singly) conquering (the possessor).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Chariots and horses, elephants, umbrellas, wealth, grains, animals, women, all goods and baser metals belong to him who wins them.—(96)
@@ -55,9 +60,4 @@ battle. But chariots and riding animals belong to the king, also a preferential 
 <details><summary>भारुचिः</summary>
 
 स्वामित्वाद् राजग्रहणनिवृत्त्यर्थो नियमः ॥ ७.९६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-096	Chariots and horses, elephants, parasols, money, grain, cattle, women, all sorts of (marketable) goods and valueless metals belong to him who takes them (singly) conquering (the possessor).
 </details>

@@ -3,6 +3,11 @@ title = "071 दह्यन्ते ध्मायमानानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+071	For as the impurities of metallic ores, melted in the blast (of a furnace), are consumed, even so the taints of the organs are destroyed through the suppression of the breath.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Just as the impurities of metallic ores are consumed when they are blasted, even so are the taints of the senses consumed through the suspension of breath.—(71)
@@ -48,9 +53,4 @@ through air is produced fire; then through heat water is formed; hence one becom
 <details><summary>भारुचिः</summary>
 
 एवं च सति ।
-</details>
-
-<details><summary>Bühler</summary>
-
-071	For as the impurities of metallic ores, melted in the blast (of a furnace), are consumed, even so the taints of the organs are destroyed through the suppression of the breath.
 </details>

@@ -3,6 +3,11 @@ title = "087 एवं सम्यग्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	After having thus duly offered the sacrificial food, let him throw Bali offerings in all directions of the compass, proceeding (from the east) to the south, to Indra, Yama, Varuna, and Soma, as well as to the servants (of these deities).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having thus duly offered the oblation into fire, he should place Bali-offerings in all directions, proceeding towards his right to Indra, Antaka, Ap-pati and Indu, along with their followers.—(87)
@@ -63,9 +68,4 @@ See Comparative notes for [Verse 3.84].
 <details><summary>गोविन्दराजः</summary>
 
 **एवम् **इति । **एवम् **उक्तप्रक्रियया सम्यक् प्रतिदैवतं **हविर् हुत्वा** प्राच्याद्यासु सर्वासु दिक्षु प्राच्याम् इन्द्राय नमः इन्द्रपुरुषेभ्यो दक्षिणस्या यमाय यमपुरुषेभ्यः पश्चिमायां वर्य्णाय वरुणपुरुषेभ्यः उत्तरस्यां सोमाय सोमपुरुषेभ्य इत्य् एव प्रदक्षिणावर्तं इन्द्रादिभ्यः सागुचरेभ्यो बलिं दद्यात्, गृह्य एवं दर्शनात् इन्द्रान्तकादिशब्दाभिधानं छन्दोभङ्गभयात् ॥ ३.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	After having thus duly offered the sacrificial food, let him throw Bali offerings in all directions of the compass, proceeding (from the east) to the south, to Indra, Yama, Varuna, and Soma, as well as to the servants (of these deities).
 </details>

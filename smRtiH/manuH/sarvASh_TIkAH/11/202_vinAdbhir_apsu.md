@@ -3,6 +3,11 @@ title = "202 विनाद्भिर् अप्सु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+203	He who has relieved the necessities of nature, being greatly pressed, either without (using) water or in water, becomes pure by bathing outside (the village) in his clothes and by touching a cow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, on being pressed, one passes bodily refuse, either without water, or in water, he becomes pure by bathing in his clothes, outside and touching a cow.—(202)
@@ -55,9 +60,4 @@ where there is no water, if he happen to become unclean, he should plunge into w
 <details><summary>भारुचिः</summary>
 
 जलग्रहणं च सविधिस्नानार्थम् ॥ ११.२००–२०१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-203	He who has relieved the necessities of nature, being greatly pressed, either without (using) water or in water, becomes pure by bathing outside (the village) in his clothes and by touching a cow.
 </details>

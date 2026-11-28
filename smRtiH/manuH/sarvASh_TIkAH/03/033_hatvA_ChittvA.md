@@ -3,6 +3,11 @@ title = "033 हत्वा छित्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The forcible abduction of the maiden from her home, while she is crying out and weeping, after having beaten and wounded and pierced,—is called the “Rākṣasa” form.—(33).
@@ -81,9 +86,4 @@ force, it is Rākṣasa, the seventh form of marriage, based upon bravery.’
 <details><summary>गोविन्दराजः</summary>
 
 **हत्वेति** । **हत्वा **कन्यापर्क्षीयान् प्रमाथ्य **छित्त्वा **अप्रमाथ्य अङ्गच्छेदादीन् कृत्वा **भित्त्वा **प्राकारादीन् “हा मातः हा पितः अनाथा अपह्रिये” इत्य् एवम् आह्वयन्तीम् अश्रुजलाविलनयनां यः कन्यां **गृहाद् आहरति **तद् अपि भूयः **कन्याहरणं राक्षसो **विवाहः ॥ ३.३३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.
 </details>

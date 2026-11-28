@@ -3,6 +3,11 @@ title = "048 नाऽकृत्वा प्राणिनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+048	Meat can never be obtained without injury to living creatures, and injury to sentient beings is detrimental to (the attainment of) heavenly bliss; let him therefore shun (the use of) meat.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 सर्वस्य हिंसाप्रतिषेधश्लोकसंघातस्य मांसभक्षणसेषतां दर्शयति । यावत् प्राणिनो न हतास् तावन् **मांसं नोत्पद्यते** । हिंसा चातिशयेन दुःखावहा । **तस्मान् मांसं विवर्जयेत्** ।
@@ -53,9 +58,4 @@ Verse 48 only is quoted in *Prāyaścittaviveka* (p. 279).
 <details><summary>गोविन्दराजः</summary>
 
 एवं मांसभक्षणप्रसङ्गेन गुणदोषानभिधायाधुना प्रकृतम् अनुसर्तुम् आह **नाकृत्वेति **। प्राणिहिंसाम् अन्तरेण **न** **क्वचिन् मांसम् उत्पद्यते** । **प्राणिवधश्** च स्वर्गनिमित्तं न भवति, प्रत्युत नरकादिहेतुः **तस्माद् **अविधिना मांसभक्षणं वर्जयेत् ॥ ५.४८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-048	Meat can never be obtained without injury to living creatures, and injury to sentient beings is detrimental to (the attainment of) heavenly bliss; let him therefore shun (the use of) meat.
 </details>

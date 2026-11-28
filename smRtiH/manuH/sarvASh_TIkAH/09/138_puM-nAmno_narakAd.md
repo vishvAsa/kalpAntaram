@@ -3,6 +3,11 @@ title = "138 पुं-नाम्नो नरकाद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+138	Because a son delivers (trayate) his father from the hell called Put, he was therefore called put-tra (a deliverer from Put) by the Self-existent (Svayambhu) himself.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Because the Son delivers his father from the hell called ‘Put,’ therefore has he been called ‘Putra,’ ‘Deliverer from Put,’ by the Self-existent One Himself.—(138)
@@ -58,9 +63,4 @@ desire sons, hoping that one of them may repair to Gayā and bring about their s
 <details><summary>भारुचिः</summary>
 
 गम्यमानस्य नामधेयगतस्यार्थरूपस्यात्र प्रमाणभावो नामधेयनिर्वचनेन प्रदर्शितः । यतश् चैतद् एवम् अतः कार्यसामान्यात् ॥ ९.१३८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-138	Because a son delivers (trayate) his father from the hell called Put, he was therefore called put-tra (a deliverer from Put) by the Self-existent (Svayambhu) himself.
 </details>

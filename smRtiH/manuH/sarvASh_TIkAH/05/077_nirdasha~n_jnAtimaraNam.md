@@ -2,6 +2,11 @@
 title = "077 निर्दशञ् ज्ञातिमरणम्"
 +++
 
+<details><summary>Bühler</summary>
+
+077	A man who hears of a (Sapinda) relative's death, or of the birth of a son after the ten days (of impurity have passed), becomes pure by bathing, dressed in his garments.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Hearing of the death of a kinsman, or of the birth of a son, after the ten days have elapsed, the man becomes pure by plunging into water with his clothes—(76).
@@ -53,11 +58,6 @@ is to he no impurity, due to birth.’
 <details><summary>गोविन्दराजः</summary>
 
 **निर्दशं ज्ञातिमरणम्** इति । निर्गतदशाहादिकं सपिण्डमरणं श्रुत्वा पुत्रस्य च जन्म मनुष्यः श्रुत्वा सचैलं स्नात्वा शुद्धो भवत्य् एवं चान्तरोक्तेन । त्रिरात्रेणास्य सहस्ये विकल्पः ॥ ५.७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-077	A man who hears of a (Sapinda) relative's death, or of the birth of a son after the ten days (of impurity have passed), becomes pure by bathing, dressed in his garments.
 </details>
 
 <details><summary>भारुचिः</summary>

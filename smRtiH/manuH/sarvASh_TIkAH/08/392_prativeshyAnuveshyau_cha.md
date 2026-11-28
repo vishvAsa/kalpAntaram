@@ -3,6 +3,11 @@ title = "392 प्रतिवेश्यानुवेश्यौ च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+392	A Brahmana who does not invite his next neighbour and his neighbour next but one, (though) both (he) worthy (of the honour), to a festival at which twenty Brahmanas are entertained, is liable to a fine of one masha.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If, at a festival where twenty twice-born men are invited, a Brāhmaṇa does not entertain his frontal and back neighbours, who are quite worthy,—he deserves to be fined one ‘māṣa.’—(392)
@@ -85,9 +90,4 @@ of accepting gifts, fails to attend an invitation, he should be made to pay a fi
 <details><summary>भारुचिः</summary>
 
 पार्श्ववेश्मानाव् अप्य् अर्थगृहीतौ विज्ञेयौ । अन्यस् तु पाठान्तरे ऽर्थम् आहानुवेश्यस् तदनुगामी । **प्रतिवेश्यस्** तत्सम्मुखः ॥ ८.३९० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-392	A Brahmana who does not invite his next neighbour and his neighbour next but one, (though) both (he) worthy (of the honour), to a festival at which twenty Brahmanas are entertained, is liable to a fine of one masha.
 </details>

@@ -3,6 +3,11 @@ title = "007 अनन्तरासु जातानाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+007	Such is the eternal law concerning (children) born of wives one degree lower (than their husbands); know (that) the following rule (is applicable) to those born of women two or three degrees lower.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Such is the eternal law relating to those born of wives of the next lower castes; know this (following) to be the right rule pertaining to those born of wives two or three degrees lower.—(7)
@@ -48,9 +53,4 @@ See Comparative notes for [Verse 10.6].
 <details><summary>भारुचिः</summary>
 
 अनुलोमाधिकाराद् अयम् अप्य् एकान्तरद्व्यन्तरासु पूर्ववद् धर्म्यो **विधिर्** वचनसामर्थ्याद् विज्ञेयः । सो ऽयम् एकान्तरासूच्यते ॥ १०.७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-007	Such is the eternal law concerning (children) born of wives one degree lower (than their husbands); know (that) the following rule (is applicable) to those born of women two or three degrees lower.
 </details>

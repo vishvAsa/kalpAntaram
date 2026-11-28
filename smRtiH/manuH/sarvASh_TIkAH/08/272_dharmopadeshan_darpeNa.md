@@ -3,6 +3,11 @@ title = "272 धर्मोपदेशन् दर्पेण"
 
 +++
 
+<details><summary>Bühler</summary>
+
+272	If he arrogantly teaches Brahmanas their duty, the king shall cause hot oil to be poured into his mouth and into his ears.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If through arrogance, he teaches brāhmaṇas their duty, the king shall pour heated oil into his mouth and ears.—(272)
@@ -72,9 +77,4 @@ uttering the words of the Veda, or insulting a Brāhmaṇa, shall he punished by
 <details><summary>भारुचिः</summary>
 
 धर्मोपदेशसामर्थ्यं चैतच्छूद्रस्यार्थाद् विज्ञेयम् । एवं च सति नेदं लिङ्गं शूद्रस्य शास्त्रप्राप्तेर् भवति ॥ ८.२७१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-272	If he arrogantly teaches Brahmanas their duty, the king shall cause hot oil to be poured into his mouth and into his ears.
 </details>

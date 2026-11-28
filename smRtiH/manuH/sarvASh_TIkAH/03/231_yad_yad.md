@@ -3,6 +3,11 @@ title = "231 यद् यद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whatever may be agreeable to the Brāhmaṇas, that he shall give ungrudgingly. He shall relate stories told in the Veda; as this is liked by the Pitṛs.—(231)
@@ -70,9 +75,4 @@ each such dishes as he may relish; they should be fed till they are fully satisf
 <details><summary>गोविन्दराजः</summary>
 
 **यद्** इति । **ब्रह्मोद्याश् चेति** । **यद् यद् **अन्नं व्यञ्जनादि भवति **तत् तद्** अदुष्टः सन् **दद्यात् **। तथा परमात्मनिरूपणं पुण्यकथास्तोत्रं कुर्यात् यद् **एतत्** **पितॄणाम् **अभिप्रेतम् ॥ ३.२३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.
 </details>

@@ -3,6 +3,11 @@ title = "196 सत्यम् उक्त्वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+197	If he answers to the Brahmanas, 'Forsooth, (I will not offend again), 'he shall scatter (some) grass for the cows; if the cows hallow that place (by eating the grass) the (Brahmana) shall re-admit him (into their community).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Having said ‘Forsooth’ to the Brāhmaṇas, he shall scatter grass to the cows; whereupon they shall accord admission to him at a place hallowed by the cows.—(196)
@@ -52,9 +57,4 @@ See Comparative notes for [Verse 11.195].
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थं श्लोकद्वयम् ॥ ११.१९४–१९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-197	If he answers to the Brahmanas, 'Forsooth, (I will not offend again), 'he shall scatter (some) grass for the cows; if the cows hallow that place (by eating the grass) the (Brahmana) shall re-admit him (into their community).
 </details>

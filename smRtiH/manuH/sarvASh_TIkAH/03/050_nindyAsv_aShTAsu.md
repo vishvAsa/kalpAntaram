@@ -2,6 +2,11 @@
 title = "050 निन्द्यास्व् अष्टासु"
 +++
 
+<details><summary>Bühler</summary>
+
+050	He who avoids women on the six forbidden nights and on eight others, is (equal in chastity to) a student, in whichever order he may live.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 ‘By avoiding women on the forbidden days and also on the eight other days, one remains a “religious student” (observing the vow of continence), in whatever stage of life he may happen to be.”—(50)
@@ -58,11 +63,6 @@ See Comparative notes for [Verse 3.45].
 <details><summary>गोविन्दराजः</summary>
 
 निन्द्यासु षट्सु **अन्यासु** चाष्टासु रात्रिषु यासु कासुचिन् न क्रमेणैव स्त्रियं परिहरन् रात्रिद्वये ऽवशिष्टे गच्छन् गार्हपथ्याद् आश्रमान्तरे ऽपि वसन् **ब्रह्मचार्य् एव भवति ।** न ब्रह्मचर्यखण्डनदोषो ऽस्य भवतीत्य् उत्पन्नविनष्टपुत्रस्य आश्रमान्तरस्थस्यापि इच्छया पुत्रार्थं रात्रिद्वयगमनं यत्र तत्राश्रमे वसन्न् अपि पुत्रार्थी संविशेद् इति प्रस्तुतत्वात् पुत्रस्य च महोपकारकत्वेन श्रवणाद् यत् आश्रमान्तरे ऽत्यन्तब्रह्मचर्योपदेशाद् अयुक्तम् एतद् इत्य् आहुः । तद् असत्, अस्यापि शास्त्रगोचरत्वात् ॥ ३.५० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-050	He who avoids women on the six forbidden nights and on eight others, is (equal in chastity to) a student, in whichever order he may live.
 </details>
 
 <details><summary>भारुचिः</summary>

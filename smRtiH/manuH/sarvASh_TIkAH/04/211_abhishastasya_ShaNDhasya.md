@@ -2,6 +2,11 @@
 title = "211 अभिशस्तस्य षण्ढस्य"
 +++
 
+<details><summary>Bühler</summary>
+
+211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Nor the food of an accused person, or of the hermaphrodite, or the unchaste woman, or the hypocrite; nor the food turned sour, or that kept overnight, or what forms the leavings of the Śūdra.—(211)
@@ -86,11 +91,6 @@ vegetables, meat and preparations of barley-flour.’
 <details><summary>गोविन्दराजः</summary>
 
 **अभिशस्तस्येति **। महापातकित्वेन उत्पन्नाभिशापस्य, अनिश्चितपापस्यापि नपुंसकस्य **पुंश्चल्या** व्यभिचारिण्याः अगणिकाया अपि, **दाम्भिकस्य **व्याजधर्मचारिणः** **अन्नं न भुञ्जीत । तथा **शुक्तं **यत् प्रातः स्वरसं कालान्तरेण उदकादिसंसर्गकालान्तराभ्यां चाम्लीभवति, **पर्युषितं** च रात्र्यन्तरितं **शूद्रस्य चोच्छिष्टं** नाश्नीयात् । शुक्तपर्युषितयोः अभक्षणं पञ्चमे वक्ष्यति । इह तु स्नातकव्रतत्वार्थम् अभिधानम् ॥ ४.२११ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
 </details>
 
 <details><summary>भारुचिः</summary>

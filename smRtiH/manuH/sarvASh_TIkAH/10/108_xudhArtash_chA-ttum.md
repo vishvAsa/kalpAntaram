@@ -3,6 +3,11 @@ title = "108 क्षुधार्तश् चाऽत्तुम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+108	Visvamitra, who well knew what is right or wrong, approached, when he was tormented by hunger, (to eat) the haunch of a dog, receiving it the hands of a Kandala.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Viśvāmitra, expert in the knowledge of right and wrong, when tormented by hunger, proceeded to eat the haunch of a dog, receiving it from the hands of a Caṇḍāla.—(108)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 10.101].
 <details><summary>भारुचिः</summary>
 
 जीवितात्यये सर्वान्नाभ्यनुज्ञानार्थाः पञ्चश्लोकाः परकृत्यर्थवादाः विज्ञेयाः ॥ १०.१०४–०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-108	Visvamitra, who well knew what is right or wrong, approached, when he was tormented by hunger, (to eat) the haunch of a dog, receiving it the hands of a Kandala.
 </details>

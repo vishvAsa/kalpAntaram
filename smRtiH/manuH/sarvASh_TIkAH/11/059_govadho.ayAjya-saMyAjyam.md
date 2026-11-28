@@ -3,6 +3,11 @@ title = "059 गोवधो ऽयाज्य-संयाज्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+060	Slaying kine, sacrificing for those who are unworthy to sacrifice, adultery, selling oneself, casting off one's teacher, mother, father, or son, giving up the (daily) study of the Veda, and neglecting the (sacred domestic) fire,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Killing a cow, sacrificing for one unworthy to sacrifice, adultery, selling oneself, abandoning one’s father, mother, teacher, or son, or of Vedic study or Fire;—(59)
@@ -105,9 +110,4 @@ This verse is quoted in *Prāyaścittavivekā* (p. 192), which has the following
 **
 
 See Comparative notes for [Verse 11.58].
-</details>
-
-<details><summary>Bühler</summary>
-
-060	Slaying kine, sacrificing for those who are unworthy to sacrifice, adultery, selling oneself, casting off one's teacher, mother, father, or son, giving up the (daily) study of the Veda, and neglecting the (sacred domestic) fire,
 </details>

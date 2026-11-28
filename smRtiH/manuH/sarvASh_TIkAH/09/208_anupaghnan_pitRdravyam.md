@@ -3,6 +3,11 @@ title = "208 अनुपघ्नन् पितृद्रव्यम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+208	What one (brother) may acquire by his labour without using the patrimony, that acquisition, (made solely) by his own effort, he shall not share unless by his own will (with his brothers).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If one of them acquires something by his own effort, without interfering with the patrimony,—that property, being acquired by his own labour, he need not give to others, unless he himself wishes it.—(208)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.204].
 <details><summary>भारुचिः</summary>
 
 अर्थात् कामस्य दानम् अनुजानाति ॥ ९.२०८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-208	What one (brother) may acquire by his labour without using the patrimony, that acquisition, (made solely) by his own effort, he shall not share unless by his own will (with his brothers).
 </details>

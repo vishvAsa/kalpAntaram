@@ -2,6 +2,11 @@
 title = "253 ततो भुक्तवताम्"
 +++
 
+<details><summary>Bühler</summary>
+
+253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall then inform them of the food that may be left after they have eaten; being permitted by the Brāhmaṇas he shall do as they tell him.—(253)
@@ -49,11 +54,6 @@ ask them ‘*what is to he done with the remnants?*’—On being permitted by t
 <details><summary>गोविन्दराजः</summary>
 
 **तत** इति । सहकृतभोजनानां विप्राणां स्वधाकाराद् अनन्तरं शेषम् अन्नम् इत्य् एवं गृह्योक्तविधिना **अन्नशेषं निवेदयेत् **। तैश् च **द्विजैः** इदम् अनेनान्नेन क्रियताम् इति दत्तानुज्ञः **यथा **तैर् उक्तं **तथा **विनियुञ्जीत ॥ ३.२५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
 </details>
 
 <details><summary>भारुचिः</summary>

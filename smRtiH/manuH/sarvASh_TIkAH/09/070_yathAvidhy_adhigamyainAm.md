@@ -3,6 +3,11 @@ title = "070 यथाविध्य् अधिगम्यैनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Having, according to the rule, espoused her (who must be) clad in white garments and be intent on purity, he shall approach her once in each proper season until issue (be had).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When he has, according to rule, espoused her, clad in white garments and pure in her observances, they shall approach each other once in each season, until issue.—(70)
@@ -59,9 +64,4 @@ See Comparative notes for [Verse 9.69].
 <details><summary>भारुचिः</summary>
 
 **यथाविध्यधिगम्यैनां** विधिवद् ऊढाम् । **शुक्लवस्त्राम्** इति नियमः । **शुचिव्रतां** मनोवागादिसंयताम् । **मिथो भजेताप्रसवात् सकृत् सकृद् ऋताव् ऋतौ** । कायसामान्याद् विधवानियोगे ऽप्य् एवम् एव स्यात् । पूर्वं च घृता[क्तत्वादि यद् उक्तं] तद् इह सर्वं स्यात्, समानत्वान् नियोगस्य ॥ ९.७० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Having, according to the rule, espoused her (who must be) clad in white garments and be intent on purity, he shall approach her once in each proper season until issue (be had).
 </details>

@@ -3,6 +3,11 @@ title = "201 उष्ट्रयानं समारुह्य"
 
 +++
 
+<details><summary>Bühler</summary>
+
+202	A Brahmana who voluntarily rode in a carriage drawn by camels or by asses, and he who bathed naked, become pure by suppressing his breath (Pranayama).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a Brāhmaṇa intentionally hides a conveyance drawn by a camel, or one drawn by asses,—or if he bathes naked,—he becomes pure by ‘breath-suppression.’—(201)
@@ -51,9 +56,4 @@ and one who has bathed, or slept, or eaten, quite naked, must suspend his breath
 <details><summary>भारुचिः</summary>
 
 दण्डापूपिकया चोष्ट्रखरयोर् अव्यवधान एतद् एव स्यात्, ईषद् अधिकं वा ।
-</details>
-
-<details><summary>Bühler</summary>
-
-202	A Brahmana who voluntarily rode in a carriage drawn by camels or by asses, and he who bathed naked, become pure by suppressing his breath (Pranayama).
 </details>

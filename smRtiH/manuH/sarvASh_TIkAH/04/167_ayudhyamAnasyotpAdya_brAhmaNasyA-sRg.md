@@ -3,6 +3,11 @@ title = "167 अयुध्यमानस्योत्पाद्य ब्
 
 +++
 
+<details><summary>Bühler</summary>
+
+167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man, who, through folly, causes blood to flow from the body or a Brāhmaṇa who is not fighting, undergoes, after death, very great suffrring.—(167)
@@ -54,9 +59,4 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 <details><summary>गोविन्दराजः</summary>
 
 **अयुध्यमानस्येति** । युद्धं विना ब्राह्मणशरीरतो मौर्ख्यात् रुधिरं नर उत्पाद्य परलोके महद् दुःखं प्राप्नोति ॥ ४.१६७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.
 </details>

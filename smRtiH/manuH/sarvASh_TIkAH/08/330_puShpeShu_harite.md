@@ -3,6 +3,11 @@ title = "330 पुष्पेषु हरिते"
 
 +++
 
+<details><summary>Bühler</summary>
+
+330	For flowers, green corn, shrubs, creepers, trees, and other unhusked (grain) the fine (shall be) five krishnalas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For flowers, green corns, shrubs, creepers, trees and other unhusked (grains), the fine shall consist of five ‘kṛṣṇalas.’—(330)
@@ -85,9 +90,4 @@ See Comparative notes for [Verse 8.326-329].
 <details><summary>भारुचिः</summary>
 
 [हरित इत्य्] अपक्वं च धान्यानां राश्यपेक्षम् ॥ ८.३२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-330	For flowers, green corn, shrubs, creepers, trees, and other unhusked (grain) the fine (shall be) five krishnalas.
 </details>

@@ -2,6 +2,11 @@
 title = "126 यो न"
 +++
 
+<details><summary>Bühler</summary>
+
+126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa who knows not the return-greeting of the greeting of salutation does not deserve to be saluted by the learned; he is exactly as the śūdra is.—(126)
@@ -70,11 +75,6 @@ senior, also one of the same age, about his *welfare*; the Kṣatriya about his 
 <details><summary>गोविन्दराजः</summary>
 
 अत्रार्थवादः – **यो न वेत्त्य् अभिवादस्येति **। यथाशास्त्रम् अभिवादनस्य कृतस्य **यः प्रत्यभिवादनं** कर्तुं न जानाति **विप्रो **ऽपि किम् उतान्यः **स विदुषा **शूद्रवन् **नाद्भिवाद्यः** । तस्मात् प्रत्यभिवाद्ये ऽयं यथाशास्त्रं विज्ञाय सम्यक् कर्तव्य इति स्थितिः प्रत्यभिवादस्तुतिः । विध्यर्थत्वे प्रकरणोपरोधः । “नामधेयस्य ये केचिद्” इत्य् एतद्बाधश् च ॥ २.१२६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.
 </details>
 
 <details><summary>भारुचिः</summary>

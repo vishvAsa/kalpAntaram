@@ -3,6 +3,11 @@ title = "247 निष्पद्यन्ते च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+247	And the crops of the husbandmen spring up, each as it was sown, and the children die not, and no misshaped (offspring) is born.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In a country where the King avoids the income of wealth from sinners, men are, in time, born to be long-lived—(246) the crops of husbandmen grow, according as they are sown; children do not die, and no mis-shaped child is born.—(247)
@@ -70,9 +75,4 @@ See Comparative notes for [Verse 9.243].
 <details><summary>भारुचिः</summary>
 
 दण्डविनियोगस्तुतिश्लोकौ ॥ ९.२४६–४७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-247	And the crops of the husbandmen spring up, each as it was sown, and the children die not, and no misshaped (offspring) is born.
 </details>

@@ -2,6 +2,11 @@
 title = "014 न ब्राह्मण-क्षत्रिययोर्"
 +++
 
+<details><summary>Bühler</summary>
+
+014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Under no circumstance whatsoever has a Śūdra wife been ordained for the Brāhmaṇa and the Kṣatriya,—even though these be placed in peril.—(14)
@@ -127,11 +132,6 @@ See Comparative notes for [Verse 3.13].
 <details><summary>गोविन्दराजः</summary>
 
 **नेति** । **ब्राह्मणक्षत्रिययोः **गार्हस्थ्यप्रतिपत्तये सवर्णाम् अलभमानयोः **कस्मिंश्चिद् **अपीतिहासाख्याने **शूद्रा भार्या **नोपवर्ण्यते । एवं च शूद्रानिषेधात् ब्राह्मणक्षत्रिययोः सवर्णालाभे अस्ति क्षत्रियवैश्योद्वाह इति गम्यते । तत्रापि च धनपद्यादौ क्षत्रप्रवृत्तिदर्श्नात् प्रथमं ब्राह्मणस्य क्षत्रियोद्वाहः । तदलाभे वैश्योद्वाहः ॥ ३.१४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
 </details>
 
 <details><summary>भारुचिः</summary>

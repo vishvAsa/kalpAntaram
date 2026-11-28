@@ -3,6 +3,11 @@ title = "063 मांसङ् गृध्रो"
 
 +++
 
+<details><summary>Bühler</summary>
+
+063	For stealing meat a vulture, for stealing fat a cormorant, for stealing oil a winged animal (of the kind called) Tailapaka, for stealing salt a cricket, for stealing sour milk a bird (of the kind called) Balaka.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For stealing meat, a vulture; for stealing fat, a cormorant; for stealing oil, a ‘Tailapāyika’ bird; for stealing salt, a Cīrīvāka; and for stealing curds, a ‘Balākā’-bird.—(63)
@@ -39,9 +44,4 @@ See Comparative notes for [Verse 12.60].
 <details><summary>गोविन्दराजः</summary>
 
 **मांसम्** इति । मांसं हृत्वा गृध्राख्यः पक्षी भवति । मेदो हृत्वा मङ्गाख्यः पक्षी भवति । तैलं हृत्वा तैलपकाख्यः पक्ष्य् उत्पद्यते । लवणं हृत्वा चीरीवाकाख्यः उच्चैःस्वरः कीटो भवति । दधि हृत्वा बलाकाख्यः पक्षी जायते ॥ १२.६३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-063	For stealing meat a vulture, for stealing fat a cormorant, for stealing oil a winged animal (of the kind called) Tailapaka, for stealing salt a cricket, for stealing sour milk a bird (of the kind called) Balaka.
 </details>

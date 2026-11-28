@@ -3,6 +3,11 @@ title = "220 पूयञ् चिकित्सकस्याऽन्नम
 
 +++
 
+<details><summary>Bühler</summary>
+
+220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The food of the physician is pus; the food of the unchaste woman is semen; the food of the usurer is ordure, and that of the dealer in weapons is dirt.—(220.)
@@ -46,9 +51,4 @@ See Comparative notes for [Verse 4.219].
 <details><summary>गोविन्दराजः</summary>
 
 **पूयम्** इति । चिकित्सकान्नादनेन तथाविधायां जाताव् उत्पद्यते यत्र पूयभुक् भवति । एवं पुंश्चल्यन्नं शुक्रं वार्धुषिकान्नं पुरीषं **शस्त्रविक्रयिणः **शुक्रविष्ठादिव्यतिरिक्तं मूत्रादिमलम् ॥ ४.२२० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.
 </details>

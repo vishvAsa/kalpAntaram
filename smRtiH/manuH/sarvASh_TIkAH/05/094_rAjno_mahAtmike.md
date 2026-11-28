@@ -2,6 +2,11 @@
 title = "094 राज्ञो महात्मिके"
 +++
 
+<details><summary>Bühler</summary>
+
+094	For a king, on the throne of magnanimity, immediate purification is prescribed, and the reason for that is that he is seated (there) for the protection of (his) subjects.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Immediate purification has been ordained for the king on the majestic throne; and the reason for this lies in his occupying that position for the protection of the people.—(93).
@@ -53,11 +58,6 @@ there is immediate purification,—not so for one who has lost his kingdom; as t
 <details><summary>गोविन्दराजः</summary>
 
 **राज्ञ** इति । महानात्मस्वरूपं यस्य स्थानस्य तस्मिन् राजाख्ये पदे वर्तमानस्य राज्ञः सद्यह्शौचम् उपदिश्यते । अत्र च सद्यःशौचे शान्तिहोमदुर्भिक्षान्नदानादि-प्रजापरिपालनार्थं राज्ञो यद् अवस्थानं तत् कारणम् ॥ ५.९४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-094	For a king, on the throne of magnanimity, immediate purification is prescribed, and the reason for that is that he is seated (there) for the protection of (his) subjects.
 </details>
 
 <details><summary>भारुचिः</summary>

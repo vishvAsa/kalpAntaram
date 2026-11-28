@@ -3,6 +3,11 @@ title = "153 चतुरो ऽंशान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+153	The Brahmana (son) shall take four shares, son of the Kshatriya (wife) three, the son of the Vaisya shall have two parts, the son of the Sudra may take one share.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa shall take four shares, and the son of the Kṣatriya mother three shares; the son of the Vaiśya mother shall take two shares, and the son of the Śūdra mother shall take one share.—(153)
@@ -99,9 +104,4 @@ See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/m
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थांशकल्पना । अत्रापि पूर्ववत् समविषमसंख्येषु विभागो विज्ञेयः ॥ ९.१५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-153	The Brahmana (son) shall take four shares, son of the Kshatriya (wife) three, the son of the Vaisya shall have two parts, the son of the Sudra may take one share.
 </details>

@@ -3,6 +3,11 @@ title = "095 जीवेद् एतेन"
 
 +++
 
+<details><summary>Bühler</summary>
+
+095	A Kshatriya who has fallen into distress, may subsist by all these (means); but he must never arrogantly adopt the mode of life (prescribed for his) betters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Kṣatriya, fallen in adverse circumstances, shall subsist by means of all this; but he shall never think of arrogating to himself the higher occupations.—(95)
@@ -63,9 +68,4 @@ caste.’
 > **न त्व् एव ज्यायसीं वृत्तिम् अभिमन्येत कर्हिचित्  ॥ १०.९५ ॥**
 
 ज्यायस्या वृत्तेः प्रतिषेधाद् अत्रानुवादः । **न त्व् एव ज्यायसीं वृत्तिम्** इति यद् उक्तं तस्य प्रतिषेधस्य निन्दार्थवादः ॥ १०.९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-095	A Kshatriya who has fallen into distress, may subsist by all these (means); but he must never arrogantly adopt the mode of life (prescribed for his) betters.
 </details>

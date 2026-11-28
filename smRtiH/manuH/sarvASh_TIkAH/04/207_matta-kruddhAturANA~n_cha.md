@@ -2,6 +2,11 @@
 title = "207 मत्त-क्रुद्धातुराणाञ् च"
 +++
 
+<details><summary>Bühler</summary>
+
+207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shalll never eat food offered by intoxicated or angry or sick persons; nor that which is contaminated by hair or insects, or that which has been intentionally touched with the foot.—(207)
@@ -64,11 +69,6 @@ diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who i
 <details><summary>गोविन्दराजः</summary>
 
 **मत्तक्रुद्धातुराणाम्** इति । क्लीबक्रुद्धव्याधितान्नं केशादिसकलद्वादशकृमिसंसर्गदुष्टं पादेन चेच्छातः **स्पृषाअं न भुञ्जीत** ॥ ४.२०७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
 </details>
 
 <details><summary>भारुचिः</summary>

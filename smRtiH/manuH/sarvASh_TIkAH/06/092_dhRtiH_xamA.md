@@ -3,6 +3,11 @@ title = "092 धृतिः क्षमा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+092	Contentment, forgiveness, self-control, abstention from unrighteously appropriating anything, (obedience to the rules of) purification, coercion of the organs, wisdom, knowledge (of the supreme Soul), truthfulness, and abstention from anger, (form) the tenfold law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 (1) Steadiness (2) Forgiveness, (3) Self-control, (4) Abstention from unrighteous appropriation, (5) Purity, (6) Control of the Sense-organs, (7) Discrimination, (8) Knowledge, (9) Truthfulness, and (10) Absence of anger,—these are the ten-fold forms of duty.—(92)
@@ -94,9 +99,4 @@ own duties, to show compassion for the distressed, to address sweet words to all
 <details><summary>भारुचिः</summary>
 
 **धृतिर्** नाम यथाशास्त्रम् अवस्थानम् आत्मगुनाद् यतो भवति सा **धृतिः** । **क्षमा** चित्तसंक्षोभहेतुष्व् अप्रतिक्रियापराधमर्षनेन । **दमस्** तु द्वन्द्वाभिमुख्यम्, शास्त्रविहिताभ्यासं **दमं** मन्यन्ते च । परद्रव्येष्व् आत्मसंयमो **ऽस्तेयम्** । आहारादिशुद्धिः **शौचम्** । **इन्द्रियसंयमो** नाम इन्द्रियविषयेष्व् अविरुद्धेष्व् अप्रसङ्गं यथाविषयम् । विज्ञानं शस्त्रात् संशयादिप्रतिपक्षरहितं **धीः** । **विद्या** वेदाभ्यासः । **सत्यम्** प्रसिद्धम् । **अक्रोधः** सत्स्व् अपि संक्षोभहेतुषु चित्तस्याविकारः । पूर्वत्रोत्पन्नस्य क्रोधस्य कार्यानारंभः **क्षमेत्य्** उक्तः, इह त्व् अनुत्पत्तिर् एव क्रोधस्येति विशेषः । सर्वं चैतच् छास्त्रविहितम् अपि सत् सुखावभोधनार्थं पुनः संक्षिप्योक्तम् ॥ ६.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Contentment, forgiveness, self-control, abstention from unrighteously appropriating anything, (obedience to the rules of) purification, coercion of the organs, wisdom, knowledge (of the supreme Soul), truthfulness, and abstention from anger, (form) the tenfold law.
 </details>

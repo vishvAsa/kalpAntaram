@@ -3,6 +3,11 @@ title = "110 महर्षिभिश् च"
 
 +++
 
+<details><summary>Bühler</summary>
+
+110	Both by the great sages and the gods oaths have been taken for the purpose of (deciding doubtful) matters; and Vasishtha even swore an oath before king (Sudas), the son of Pigavana.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 By the great sages, as well as by the Gods, oaths have been taken for the purposes of a case; Vasiṣṭha even swore an oath before the King Paijavana.—(110)
@@ -75,9 +80,4 @@ they were used by the *devas*, gods, in the discrimination of difficult cases.�
 <details><summary>भारुचिः</summary>
 
 अप्य् अन्ये महर्षयः । तथा च व्यासो "यस् ते हरति पुष्करम्" इति शपथाख्यानकं प्रोवाच । एवं च सत्यधर्मपरिहारापेक्षया —
-</details>
-
-<details><summary>Bühler</summary>
-
-110	Both by the great sages and the gods oaths have been taken for the purpose of (deciding doubtful) matters; and Vasishtha even swore an oath before king (Sudas), the son of Pigavana.
 </details>

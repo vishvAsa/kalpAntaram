@@ -3,6 +3,11 @@ title = "177 माता-पितृ-विहीनो यस्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+177	He who, having lost his parents or being abandoned (by them) without (just) cause, gives himself to a (man), is called a son self-given (Svayamdatta).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a boy, being deprived of his parents, or being abandoned by them without cause, offers himself to a man,—he is called the ‘self-offered son.’—(177)
@@ -50,9 +55,4 @@ offers himself, or is offered by his kinsmen, as a son to a stranger.’
 <details><summary>भारुचिः</summary>
 
 सवर्ण एव स्यात्, न तथेतरः ॥ ९.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	He who, having lost his parents or being abandoned (by them) without (just) cause, gives himself to a (man), is called a son self-given (Svayamdatta).
 </details>

@@ -3,6 +3,11 @@ title = "040 बहवो ऽविनयान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+040	Through a want of modesty many kings have perished, together with their belongings; through modesty even hermits in the forest have gained kingdoms.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Many Kings, along with their belongings, have perished through want of discipline; while, on account of discipline, many, even though living in forests, have obtained Kingdoms.—(40).
@@ -40,9 +45,4 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119).
 <details><summary>भारुचिः</summary>
 
 उभयतोपदेशो हि विनयाधानादरार्थः ॥ ७.४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-040	Through a want of modesty many kings have perished, together with their belongings; through modesty even hermits in the forest have gained kingdoms.
 </details>

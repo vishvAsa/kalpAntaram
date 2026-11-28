@@ -3,6 +3,11 @@ title = "109 ज्येष्ठः कुलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+109	The eldest (son) makes the family prosperous or, on the contrary, brings it to ruin; the eldest (is considered) among men most worthy of honour, the eldest is not treated with disrespect by the virtuous.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 It is the eldest brother who advances the family, or ruins it; the eldest brother is worthy of the highest honour; the eldest brother is never ill-treated by good men.—(109)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 9.105].
 अतश् चासौ,
 
 > **ज्येष्ठः सद्भिर् अगर्हितः  ॥ ९.१०९ ॥**
-</details>
-
-<details><summary>Bühler</summary>
-
-109	The eldest (son) makes the family prosperous or, on the contrary, brings it to ruin; the eldest (is considered) among men most worthy of honour, the eldest is not treated with disrespect by the virtuous.
 </details>

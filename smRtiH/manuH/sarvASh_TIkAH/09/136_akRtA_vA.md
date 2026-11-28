@@ -3,6 +3,11 @@ title = "136 अकृता वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+136	Through that son whom (a daughter), either not appointed or appointed, may bear to (a husband) of equal (caste), his maternal grandfather (has) a son's son; he shall present the funeral cake and take the estate.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Either appointed on not appointed, if a daughter bears a son to a husband of equal status, through that son does the maternal grandfather become endowed with a ‘son’s son’; he shall offer the funeral cake and inherit his property.—(136)
@@ -112,9 +117,4 @@ Appointed Daughter both lead one to supreme Bliss; and both are considered equal
 <details><summary>भारुचिः</summary>
 
 धनग्रहणस्य पिण्ड]दाननिमित्तत्वात् नियमतो धनहरणं पिण्डदानं च । अकृतायां तु पुत्रिकायां दौहित्रस्येच्छासंनियोगशिष्यं पिण्डदानं धनहरणं च स्यात् । यद्य् अभ्युप[गम्यते विक]ल्पो नियमो वा भवत् । ततः पुत्रिकाविधिनार्थः स्यात् । तस्मात् कृतायां नियमः, अन्यत्र तु विकल्प इत्य् उक्तम् । यद् आह । ९.१३६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-136	Through that son whom (a daughter), either not appointed or appointed, may bear to (a husband) of equal (caste), his maternal grandfather (has) a son's son; he shall present the funeral cake and take the estate.
 </details>

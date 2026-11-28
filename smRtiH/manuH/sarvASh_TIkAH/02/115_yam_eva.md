@@ -2,6 +2,11 @@
 title = "115 यम् एव"
 +++
 
+<details><summary>Bühler</summary>
+
+115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 “Expound me unto the Brāhmaṇa who guards his treasures and is never careless,—and whom thou knowest to be pure, self-controlled and a duly qualified student.”—(115)
@@ -54,11 +59,6 @@ See Comparative notes for [Verse 2.114].
 <details><summary>कुल्लूकः</summary>
 
 यमेव पुनः शिष्यं शुचिं नियतेन्द्रियं ब्रह्मचारिणं जानासि तस्मै विद्यारूपनिधिरक्षकाय प्रमादरहिताय मां वद ॥११५॥
-</details>
-
-<details><summary>Bühler</summary>
-
-115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "177 वर्जयेन् मधु"
 +++
 
+<details><summary>Bühler</summary>
+
+177	Let him abstain from honey, meat, perfumes, garlands, substances (used for) flavouring (food), women, all substances turned acid, and from doing injury to living creatures.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should abstain from honey, meat, scent, garland, flavours, women, all fermented acids and also the killing of living creatures.—(177)
@@ -143,11 +148,6 @@ shall not cleanse his teeth; the leavings of his teacher also he shall use as a 
 <details><summary>गोविन्दराजः</summary>
 
 **वर्जयेद्** इति । माक्षिकमांसमाल्यस्त्रीप्राणिहिंसनानि **वर्जयेत् **तथा **गन्ध**वद् द्रव्यं कर्पूरादि उद्रिक्तरसं च गुडादि । मधुनो रसशब्दग्रहणे ऽपि प्रायश्चित्तविशेषार्थं पृथग् उपदेशः । **शुक्तानि यानि **प्राप्तस्वरसानि कालपरिवासेनोदकादिद्रव्यान्तरकालपरिवासाभ्यां चाम्लीभवन्ति । **सर्व**ग्रहणं पादपूरणम् । न त्व् अस्यार्थान्तरग्रहणे सामर्थ्यम् अस्ति । यत् तु गौतमीये “शुक्ता वाच” इति तत् वाक्शब्दसन्निधानात् शुक्तशब्दस्यार्थान्तरवृत्तित्वम् । इह चैवमभिप्रेते बुद्धिपूर्वकारी शुक्लाश् चैव गिरः सर्वा इत्य् एवम् अवेक्षते । यद्य् अपि “सर्वशुक्तानि चैवेह” इत्य् अनेन ब्रह्मचारिणो ऽपि प्रतिषेधसिद्धिः तथापीहाभिधानं स्वाध्यायाङ्गत्वार्थम् । एतेन प्रतिषेधेन भक्षणे पुरुषार्थो ऽतिक्रममात्रं स्यात् न विधिवैगुण्यं का वा गतिर् अनृतहिंसादिप्रतिषेधानाम् । पुनर् अभिधानस्यात्र चोपभोगार्थं मांसादिप्रतिषेधो न औषधार्थः । तथा च वसिष्ठेन सा “चान्याधीयीत कामाद् गुरोर् उच्छिष्टं भेषजार्थं प्राश्नीयात्” इति मांसाद्यभ्यनुज्ञानम् ॥ २.१७७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-177	Let him abstain from honey, meat, perfumes, garlands, substances (used for) flavouring (food), women, all substances turned acid, and from doing injury to living creatures.
 </details>
 
 <details><summary>भारुचिः</summary>

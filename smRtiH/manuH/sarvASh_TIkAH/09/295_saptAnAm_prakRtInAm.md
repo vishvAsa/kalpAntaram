@@ -3,6 +3,11 @@ title = "295 सप्तानाम् प्रकृतीनाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+295	But let him know (that) among these seven constituent parts of a kingdom (which have been enumerated) in due order, each earlier (named) is more important and (its destruction) the greater calamity.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these seven constituents of the kingdom stated in due order, injury to each preceding one is to be regarded as more serious.—(295)
@@ -67,9 +72,4 @@ See Comparative notes for [Verse 9.294].
 <details><summary>भारुचिः</summary>
 
 अस्योपदेशप्रयोजनं **स्वाम्य्**आदीनां **पूर्वस्मिन् पूर्वस्मिन् व्यसनं गुरुतरं** राज्यतन्त्रविनाशकरणं परिज्ञाय परिहरेन् **नृप** इति ॥ ९.२९४–९५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-295	But let him know (that) among these seven constituent parts of a kingdom (which have been enumerated) in due order, each earlier (named) is more important and (its destruction) the greater calamity.
 </details>

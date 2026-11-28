@@ -3,6 +3,11 @@ title = "138 जीन-कार्मुक-बस्तावीन् पृ�
 
 +++
 
+<details><summary>Bühler</summary>
+
+139	For killing adulterous women of the four castes, he must give, in order to purify himself, respectively a leathern bag, a bow, a goat, or a sheep.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For killing inconstant women of the four castes, one should give, for his purification, a leathern bag, a bow, a goat and a sheep respectively.—(138)
@@ -82,9 +87,4 @@ Kṣatriyā, or Vaiśya, or Śūdra woman, one shall give, for purifying himself
 > **चतुर्णाम् अपि वर्णानां नारीर् हत्वानवस्थ्ताः  ॥ ११.१३७ ॥**
 
 जीलं चर्मपुटं दद्यात् । ब्राह्मणाय तदुपभोगदेशे । ब्राह्मणीम् अनवस्थितां हत्वा । क्षत्रियां **कार्मुकं** ब्राह्मणायैव । तद्भृत्यापहरणं रक्षार्थं ब्राह्मणतन्त्रस्य । वैश्यां **बस्तम्**, शूद्राम् **अविम्** । **पृथग्**ग्रहणाच् चात्रान्यत्र समुदायेषु प्रायश्चित्तं न पृथग्भावाद् इति विज्ञेयम् । गत्वेति केचित् । न युक्तम्, तद् धिंसाप्रकरणान् **नारीर् हत्वानवस्थिता** इति पाठात् । तथा चोपसंहारं प्रकरणान्ते करिष्यति, "एतैर् व्रतैर् अपोह्यं स्याद् एनो हिंसासमुद्भवम्" इति ॥ ११.१३६–१३७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	For killing adulterous women of the four castes, he must give, in order to purify himself, respectively a leathern bag, a bow, a goat, or a sheep.
 </details>

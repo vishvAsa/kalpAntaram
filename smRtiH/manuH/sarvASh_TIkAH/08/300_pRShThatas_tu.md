@@ -3,6 +3,11 @@ title = "300 पृष्ठतस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+300	But on the back part of the body (only), never on a noble part; he who strikes them otherwise will incur the same guilt as a thief.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 But only on the back part of the body, and never on the upper part; he who strikes otherwise than this incurs the guilt of a thief.—(300)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 8.299].
 <details><summary>भारुचिः</summary>
 
 इत्य् अयं नियमस्य व्यतिक्रमे ताडयितुं विज्ञेयः । न चावश्यताडनम् एतेषाम् अपराधिनां पुत्रादीनाम्, नियमार्थत्वाद् उपदेशस्य । **प्राप्तः स्याच् चोरकिल्बिषम्** इत्य् अयं नियमव्यतिक्रमे निन्दार्थवादो निवृत्त्यर्थः । एवं च सत्य् **अतो ऽन्यथा** ताडने नियमातिक्रममात्रम्, न तु चोरवद् दण्ड्यः । धिग्दण्डवाग्दण्डमात्रं वा, तत्र तत्सामान्यात् ॥ ८.२९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-300	But on the back part of the body (only), never on a noble part; he who strikes them otherwise will incur the same guilt as a thief.
 </details>

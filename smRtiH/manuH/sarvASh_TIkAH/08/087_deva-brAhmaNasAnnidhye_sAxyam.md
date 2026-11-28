@@ -3,6 +3,11 @@ title = "087 देव-ब्राह्मणसान्निध्ये �
 
 +++
 
+<details><summary>Bühler</summary>
+
+087	The (judge), being purified, shall ask in the forenoon the twice-born (witnesses) who (also have been) purified, (and stand) facing the north or the east, to give true evidence in the presence of (images of) the gods and of Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the presence of gods and Brāhmaṇas, during forenoon, the judge, pure himself, shall ask the twice-born persons, who have been purified and are facing either the north or the east, to give evidence.—(87)
@@ -56,9 +61,4 @@ evidence according to truth. After putting off his shoes and his turban, he shou
 <details><summary>भारुचिः</summary>
 
 यथा च ते प्रष्टव्यास् तथेदं ब्राहणादि(?)जात्याश्रयनियमकारि शास्त्रम् उच्यते ॥ ८.८७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-087	The (judge), being purified, shall ask in the forenoon the twice-born (witnesses) who (also have been) purified, (and stand) facing the north or the east, to give true evidence in the presence of (images of) the gods and of Brahmanas.
 </details>

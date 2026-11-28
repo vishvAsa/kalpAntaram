@@ -3,6 +3,11 @@ title = "272 कालशाकम् महाशल्काः"
 
 +++
 
+<details><summary>Bühler</summary>
+
+272	The (vegetable called) Kalasaka, (the fish called) Mahasalka, the flesh of a rhinoceros and that of a red goat, and all kinds of food eaten by hermits in the forest serve for an endless time.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The “Kālaśāka,” the porcupine, the meat of the rhinoceros and the red goat, and honey serve for endless time; as also all kinds ok her mit’s food.—(272)
@@ -71,9 +76,4 @@ honey, hermit’s food, meat of the red goat, Mahāśāka, and the meat of the o
 <details><summary>गोविन्दराजः</summary>
 
 **कालशाकं महाशल्कम्** इति । **कालशाकाख्यं** शाकं **महाशल्काख्यो** मत्स्यभेदः शकलीचितचिम इत्याद्यायुर्वेदप्रसिद्धः । **खड्गो** गण्डकः **लोहो** रक्तछागः । तयोर् आमिषं मांसं मधुमाक्षिकं **मुन्यन्नानि **आरण्यानि सर्वाण्य् एतानि अनन्ततृप्त्युत्पादनाय सम्पद्यन्ते ॥ ३.२७२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-272	The (vegetable called) Kalasaka, (the fish called) Mahasalka, the flesh of a rhinoceros and that of a red goat, and all kinds of food eaten by hermits in the forest serve for an endless time.
 </details>

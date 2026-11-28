@@ -3,6 +3,11 @@ title = "181 तदा तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+181	But if the king undertakes an expedition against a hostile kingdom, then let him gradually advance, in the following manner, against his foe's capital.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When the king undertakes an expedition against the enemy’s kingdom, he shall advance slowly towards the enemy’s capital, in the following manner.—(181)
@@ -46,9 +51,4 @@ p. 72b).
 <details><summary>भारुचिः</summary>
 
 यात्रोपन्यासश् चित्तप्रणिधानार्थः ॥ ७.१८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-181	But if the king undertakes an expedition against a hostile kingdom, then let him gradually advance, in the following manner, against his foe's capital.
 </details>

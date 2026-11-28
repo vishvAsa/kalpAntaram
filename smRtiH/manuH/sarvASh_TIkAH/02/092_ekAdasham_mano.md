@@ -2,6 +2,11 @@
 title = "092 एकादशम् मनो"
 +++
 
+<details><summary>Bühler</summary>
+
+092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Mind is to be regarded as the eleventh, which, by its own quality, is of two-fold nature; and on this being subdued, both the aforesaid five-mentioned groups become subdued.—(92)
@@ -47,11 +52,6 @@ See Comparative notes for [Verse 2.89].
 <details><summary>गोविन्दराजः</summary>
 
 **एकादशम्** इति । **मनः स्वगुणेन** सङ्कल्पाख्येन शुभाशुभस्वभावेन्**ओभरूपम्** अत्र्**ऐकादशं विज्ञेयम् । यस्मिन्** वशीकृते स्ति **एतौ **पञ्चपरिमाणौ वर्गौ वशीकृतौ **हवतः **मनोव्यापारमूलत्वाद् इन्द्रियप्रवृत्तेः ॥ २.९२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-092	Know that the internal organ (manas) is the eleventh, which by its quality belongs to both (sets); when that has been subdued, both those sets of five have been conquered.
 </details>
 
 <details><summary>भारुचिः</summary>

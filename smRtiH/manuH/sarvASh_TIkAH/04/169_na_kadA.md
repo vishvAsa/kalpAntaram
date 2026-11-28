@@ -2,6 +2,11 @@
 title = "169 न कदा"
 +++
 
+<details><summary>Bühler</summary>
+
+169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For these reasons, the learned man shall never even threaten a twice-born person; he shall not strike him even with a straw; and he shall not spill blood from his body.—(169).
@@ -42,11 +47,6 @@ nor spill his blood.’
 <details><summary>गोविन्दराजः</summary>
 
 **न कदाचिद्** इति । यत् एवं ब्राह्मणावगोरणादिना भवति तस्मात् शास्त्रविन् न कदाचिद् अपि ब्राह्मणस्य दण्डादि उद्यच्छेत् । नापि तं **तृणेनापि** हन्यात् । न च शरीराद् रुधिरम् उत्पादयेत् ॥ ४.१६९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
 </details>
 
 <details><summary>भारुचिः</summary>

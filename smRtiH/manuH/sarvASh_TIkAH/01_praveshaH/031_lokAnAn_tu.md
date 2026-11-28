@@ -2,6 +2,11 @@
 title = "031 लोकानान् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 With a view to the development of the (three) regions, He brought into existence the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra, from out of His mouth, arms, thighs and feet (respectively).—(31)
@@ -67,11 +72,6 @@ It is refreshing to find Medhātithi regarding this account of the castes issuin
 <details><summary>गोविन्दराजः</summary>
 
 **लोकानाम्** इति । अग्नौ प्रास्तेति वक्ष्यमाणन्यायेन पृथिव्यादिलोकबाहुल्यार्थं सुखादिभ्यो यथाक्रमं ब्राह्मणाद्यान् दैव्या शक्त्या निर्मितवान् । तथा च ब्राह्मणो ऽस्य मुखम् आसीद् इत्यादि लिङ्गम् ॥ १.३१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
 </details>
 
 <details><summary>भारुचिः</summary>

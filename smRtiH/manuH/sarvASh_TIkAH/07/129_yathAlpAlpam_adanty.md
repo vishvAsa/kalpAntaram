@@ -3,6 +3,11 @@ title = "129 यथाल्पाल्पम् अदन्त्य्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+129	As the leech, the calf, and the bee take their food little by little, even so must the king draw from his realm moderate annual taxes.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 After due investigation the King shall always levy taxes in his kingdom in such a way that he himself and the man who carries on the business shall both receive their reward.—(129)
@@ -53,9 +58,4 @@ See Comparative notes for [Verse 7.128].
 <details><summary>भारुचिः</summary>
 
 करादानविधिस्तुत्यर्थो दृष्टान्तश्लोकः ॥ ७.१२९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-129	As the leech, the calf, and the bee take their food little by little, even so must the king draw from his realm moderate annual taxes.
 </details>

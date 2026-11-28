@@ -3,6 +3,11 @@ title = "081 अजीवंस् तु"
 
 +++
 
+<details><summary>Bühler</summary>
+
+081	But a Brahmana, unable to subsist by his peculiar occupations just mentioned, may live according to the law applicable to Kshatriyas; for the latter is next to him in rank.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the Brāhmaṇa is unable to subsist by his own occupation as described above, he may make a living by the function of the Kṣatriya; since this latter is next to him.—(81)
@@ -74,9 +79,4 @@ his subsistence in the mode prescribed for the caste next to him in rank; or he 
 <details><summary>भारुचिः</summary>
 
 धर्मात्मकुटुम्बा[व]सादे अयम् **अजीवन्** भवति, यतः एतस्याम् अवस्थायाम् उत्सृज्य स्वकर्म क्षत्रियवृत्तिर् ग्रामनगरदेशाद् - रकषणम् (?) अस्य स्यात् । अपरे त्व् एकपुरुषोत्थानेन राजत्वम् आहुः । एवं च प्रत्यनन्तरहेतुवचनाद् अस्येषत्प्रत्यवायता गम्यते । क्रमभेदे च प्रत्यवायगौरवम् ॥ १०.८१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-081	But a Brahmana, unable to subsist by his peculiar occupations just mentioned, may live according to the law applicable to Kshatriyas; for the latter is next to him in rank.
 </details>

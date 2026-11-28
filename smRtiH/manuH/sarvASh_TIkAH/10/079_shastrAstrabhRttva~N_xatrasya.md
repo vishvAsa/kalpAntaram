@@ -3,6 +3,11 @@ title = "079 शस्त्रास्त्रभृत्त्वङ् क
 
 +++
 
+<details><summary>Bühler</summary>
+
+079	To carry arms for striking and for throwing (is prescribed) for Kshatriyas as a means of subsistence; to trade, (to rear) cattle, and agriculture for Vaisyas; but their duties are liberality, the study of the Veda, and the performance of sacrifices.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For the Kṣatriya carrying of arms and weapons, and for the Vaiśya, trade, cattle-tending and agriculture, are the means of livelihood; while giving, studying and sacrificing constitute their duty.—(79)
@@ -50,9 +55,4 @@ See Comparative notes for [Verse 10.77].
 <details><summary>गोविन्दराजः</summary>
 
 **शस्त्रास्त्रभृत्त्वम्** इति **। **वृत्त्यर्थत्वेन** **रक्षणार्थं खड्गाद्यायुधप्रहरणमन्त्रधारणं क्षत्रियस्य । वाणिज्यपशुपालनकर्षणानि वैश्यस्य जीवनार्थान्य् अदृष्टार्थाः पुनर् अनयोर् दानाध्ययनयागा भवन्ति ॥ १०.७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-079	To carry arms for striking and for throwing (is prescribed) for Kshatriyas as a means of subsistence; to trade, (to rear) cattle, and agriculture for Vaisyas; but their duties are liberality, the study of the Veda, and the performance of sacrifices.
 </details>

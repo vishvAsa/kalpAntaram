@@ -3,6 +3,11 @@ title = "032 स्वराष्ट्रे न्यायवृत्तः
 
 +++
 
+<details><summary>Bühler</summary>
+
+032	Let him act with justice in his own domain, with rigour chastise his enemies, behave without duplicity towards his friends, and be lenient towards Brahmanas.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In his own kingdom he shall be of just behaviour, and on his enemies he shall inflict rigorous chastisement; with loved friends he shall be straightforward and towards Brāhmaṇas tolerant.—(32)
@@ -88,9 +93,4 @@ Do. (1.59.62).—‘The king who protects his people and is charitable......is c
 <details><summary>भारुचिः</summary>
 
 परराष्ट्रे तीक्ष्णदण्डतोच्यते, शौर्यप्रज्ञापनार्थम् । समानाभ्युदयप्रत्यवायः **सुहृद्**, यस्य कार्यानपेक्षं सुहृत्त्वं स **स्निग्धः** । तस्मिन् न कुटिलवृत्तिर्, अन्यस्मिंस् तु कार्यापेक्षया कुटिलवृत्तिर् अपि स्यात् । **ब्राह्मणेषु क्षमान्वितः** नियच्छन्न् अपि दण्डेन ब्राह्मणान् अकार्यकारिणः क्षमापूर्वं नियच्छेन् न तु क्रोधेन सहसैव च ॥ ७.३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-032	Let him act with justice in his own domain, with rigour chastise his enemies, behave without duplicity towards his friends, and be lenient towards Brahmanas.
 </details>

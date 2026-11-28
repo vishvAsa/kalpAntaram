@@ -2,6 +2,11 @@
 title = "057 अनारोग्यम् अनायुष्यम्"
 +++
 
+<details><summary>Bühler</summary>
+
+057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Over-eating destroys health, cuts off life and bars heaven; it is unrighteous and detested by people; for these reasons one should avoid it.—(57)
@@ -55,11 +60,6 @@ See Comparative notes for [Verse 2.56].
 <details><summary>गोविन्दराजः</summary>
 
 **अनारोग्यम्** इति । यस्माद् रोगहेतुत्वात् **अनारोग्य**कृद् इति च प्राणहरं विष्ठादिकाद्युत्पादाद् अप्य् नायुष्यं च, **अस्वर्ग्यं** च [अ]दृष्टार्थजनकत्वेनापि शास्त्रनोदनासामर्थ्यात् अतिक्रमेण कर्मान्तरार्जितस्वर्गोपभोगप्रतिबन्धत्वात् । **अपुण्यं** च तद्धेतुत्वात्, **लोकविद्विष्टं** च बहुभोजिनम् अवलोक्य गर्हणं तत् परिवर्जयेद् इति सम्भूतदोषकथनेन प्रकृति[त]निन्दार्थवादो विद्वेषणर्थः ॥ २.५७ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -2,6 +2,11 @@
 title = "161 नाऽरुन्तुदः स्याद्"
 +++
 
+<details><summary>Bühler</summary>
+
+161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Even though pained, one should not (use such words as) cut to the quick; he should not do, or think of, injury to others; he should not utter words by which others are pained, and which (therefore) will obstruct his passage to (higher) regions.—(161)
@@ -86,11 +91,6 @@ disrespect towards any one.’
 <details><summary>गोविन्दराजः</summary>
 
 अतश् च **नारुन्तुद** इति । मर्मस्पृक् अत्य्**आर्तो **ऽ**पि न स्यात्** न परहिंसार्थव्यापारबुद्धिः स्यात् । **यया **च **वाचा **लोकः एनं द्वेष्टि तां स्वर्गादिलोकप्रतिबन्धिकां नोच्चारयेत् ॥ २.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -3,6 +3,11 @@ title = "236 तासाञ् चेद्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+236	But if they, kept in (proper) order, graze together in the forest, and a wolf, suddenly jumping on one of them, kills it, the herdsman shall bear in that case no responsibility.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 When however, they are grazing together in the forest, duly protected,—if a wolf pounces upon one and kills it,—the keeper is not to blame.—(236)
@@ -44,9 +49,4 @@ This verse is quoted in *Vivādaratnākara* (p. 175), which explains ‘*mitha�
 <details><summary>भारुचिः</summary>
 
 अशक्यत्वाद् अटव्यां बहुवृक्षक्षुपगर्तायां तत्संरक्षणस्य मिथश् चरन्तीनां न पालापराधः । एतेन गोमहिष्यादि व्याख्यातम् । उक्तो गोसंरक्षणविधिः । पशुपीडापशुसंहारार्थम् इदम् उच्य[ते] ॥ ८.२३५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-236	But if they, kept in (proper) order, graze together in the forest, and a wolf, suddenly jumping on one of them, kills it, the herdsman shall bear in that case no responsibility.
 </details>

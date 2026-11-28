@@ -2,6 +2,11 @@
 title = "282 न पैतृयज्ञियो"
 +++
 
+<details><summary>Bühler</summary>
+
+282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The oblation into fire made in connection with the rite in honour of the Pitṛs has not been prescribed as to be offered into the common fire; and for the Brāhmaṇa who has set up the fire, there is no Śrāddha apart from the Moonless day.—(282)
@@ -115,11 +120,6 @@ Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall tak
 <details><summary>गोविन्दराजः</summary>
 
 **न पैत्र्ययज्ञिको होम** इति । अग्नेः सोमयमाभ्याम् इत्य् एवं पितृयज्ञाङ्गभूतो **होमः लौकिके **श्रौतस्मार्तव्यतिरिक्ते ऽग्नौ शास्त्रेण न चोद्यते । **आहिताग्नेश् **च द्विजाग्नेः अमावास्यकर्मणा विना कृष्णपक्षदशम्यादौ **श्राद्धं न **विधीयते । मृताहश्राद्धादेस् तु अनिषेधः, तस्य नैयमिकत्वेन चोदितत्वात् ॥ ३.२८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
 </details>
 
 <details><summary>भारुचिः</summary>

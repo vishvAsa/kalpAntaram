@@ -3,6 +3,11 @@ title = "069 निन्दितेभ्यो धनादानम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+070	Accepting presents from blamed men, trading, serving Sudras, and speaking a falsehood, make (the offender) unworthy to receive gifts (Apatra).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Accepting gifts from despicable persons, trading, serving Śūdras and the telling of a lie should be regarded as rendering one unworthy of receiving gifts.—(69)
@@ -43,9 +48,4 @@ subsisting by money-lending, telling lies, and serving a Śūdra—are crimes re
 <details><summary>गोविन्दराजः</summary>
 
 **निन्दितेभ्य** इति । अप्रतिग्राह्येभ्यः प्रतिग्रहो वाणिज्यं शूद्रस्य परिचर्या अव्रताभिधानम् इत्य् एतत् प्रत्येकम् अपात्रीकरणं विज्ञेयम् ॥ ११.६८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-070	Accepting presents from blamed men, trading, serving Sudras, and speaking a falsehood, make (the offender) unworthy to receive gifts (Apatra).
 </details>

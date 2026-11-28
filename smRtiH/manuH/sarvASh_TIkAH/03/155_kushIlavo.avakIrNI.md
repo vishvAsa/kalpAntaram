@@ -2,6 +2,11 @@
 title = "155 कुशीलवो ऽवकीर्णी"
 +++
 
+<details><summary>Bühler</summary>
+
+155	An actor or singer, one who has broken the vow of studentship, one whose (only or first) wife is a Sudra female, the son of a remarried woman, a one-eyed man, and he in whose house a paramour of his wife (resides);
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 An actor, one who has broken the vows of continence, the husband of a Śūdra woman, the son of a re-married woman, one who has only one eye, and he in whose house lives the paramour.—(155)
@@ -66,11 +71,6 @@ See Comparative notes for [Verse 3.150].
 <details><summary>गोविन्दराजः</summary>
 
 **कुशीलव** इति । नटगायकादिः । कृतस्त्रीसंसर्गयोगो ब्रह्मचारी शूद्राया भर्ता । पुनर्भ्वाः पुत्रो वक्ष्यमाणः, **काणः**, यस्य च जायाजारो **गृहे** इत्य् एते हव्यकव्ययोः परिहरणीयाः ॥ ३.१५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-155	An actor or singer, one who has broken the vow of studentship, one whose (only or first) wife is a Sudra female, the son of a remarried woman, a one-eyed man, and he in whose house a paramour of his wife (resides);
 </details>
 
 <details><summary>भारुचिः</summary>

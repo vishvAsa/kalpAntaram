@@ -3,6 +3,11 @@ title = "013 स्थलजाउदकशाकानि पुष्प-म�
 
 +++
 
+<details><summary>Bühler</summary>
+
+013	Let him eat vegetables that grow on dry land or in water, flowers, roots, and fruits, the productions of pure trees, and oils extracted from forest-fruits.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He should eat the vegetables that grow on land and in water; also flowers, roots and fruits, the productions of pure trees; as well as oils produced from fruits.—(13).
@@ -58,9 +63,4 @@ rites prescribed by Śruti and Smṛti, he shall perform with oils extracted fro
 <details><summary>भारुचिः</summary>
 
 आरण्यान्य् एवैतानि श्यामाकादीनि गृह्यन्ते ॥ ६.१३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-013	Let him eat vegetables that grow on dry land or in water, flowers, roots, and fruits, the productions of pure trees, and oils extracted from forest-fruits.
 </details>

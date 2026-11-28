@@ -3,6 +3,11 @@ title = "024 अर्थानर्थाव् उभौ"
 
 +++
 
+<details><summary>Bühler</summary>
+
+024	Knowing what is expedient or inexpedient, what is pure justice or injustice, let him examine the causes of suitors according to the order of the castes (varna).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Understanding both ‘desirable’ and ‘undesirable’ to be only ‘Justice’ and ‘Injustice,’ he shall look into all the suits of the suitors, according to the order of the castes.—(24)
@@ -67,9 +72,4 @@ treated as the plaintiff whose hurt or complaint is more serious,—and not nece
 <details><summary>भारुचिः</summary>
 
 राष्ट्रसंप्रसादकोपाव् **अर्थानर्थौ** राज्यतन्त्रानुकूलप्रतिकूलौ, परत्र च **धर्माधर्मौ** दृष्टानपेक्षौ संपश्येत्, कार्यदर्शनम् आचरेत् । यद् वा अर्थानर्थौ वैरानुबन्धेतरनिमित्तौ **बुद्ध्वेति** । संनिपाते च व्यवहाराणां वर्णक्रमेणाश्रयेत् । **पश्येत् कार्याणि कार्यिणाम्** इत्य् उक्तम्- तत् पुनर् व्यवहारदर्शनम् अनुमानतो विशेषेण, यतस् तदर्थम् अभिधीयते —
-</details>
-
-<details><summary>Bühler</summary>
-
-024	Knowing what is expedient or inexpedient, what is pure justice or injustice, let him examine the causes of suitors according to the order of the castes (varna).
 </details>

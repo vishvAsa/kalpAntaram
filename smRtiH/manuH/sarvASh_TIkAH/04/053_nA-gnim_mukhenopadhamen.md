@@ -3,6 +3,11 @@ title = "053 नाऽग्निम् मुखेनोपधमेन्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 He shall not blow fire with the mouth; nor shall he look at a naked woman. He shall not throw an unclean thing into fire; nor shall he warm his feet at it.—(53)
@@ -77,9 +82,4 @@ with water.’
 <details><summary>गोविन्दराजः</summary>
 
 **नाग्निम्** इति । मुखवायुनाग्निं न धमेत् । **न नग्नां **परयोषितम् **ईक्षेत **गौतमस्मरणात् । मूत्रादि **अग्नौ न निक्षिपेत् पादौ न **तत्र **प्रतापयेत् **॥ ४.५३ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.
 </details>

@@ -3,6 +3,11 @@ title = "054 अन्नम् एषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+054	Their food shall be given to them by others (than an Aryan giver) in a broken dish; at night they shall not walk about in villages and in towns.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Their food should be given to them, through others, and in a broken dish; they shall not wander about in villages or cities during the night.—(54)
@@ -33,9 +38,4 @@ The prohibition of wandering about at night in villages, and cities is with a vi
 <details><summary>गोविन्दराजः</summary>
 
 **अन्नम्** इति । अन्नं चैषां परायत्तं न तु स्वतः साधितम् । तच् च भिन्नपात्रे एषां दातव्यम् । ते च रात्रौ ग्रामनगरयोर् न पर्यटेयुः ॥ १०.५४ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-054	Their food shall be given to them by others (than an Aryan giver) in a broken dish; at night they shall not walk about in villages and in towns.
 </details>

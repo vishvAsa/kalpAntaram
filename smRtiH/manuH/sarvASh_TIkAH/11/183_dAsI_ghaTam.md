@@ -3,6 +3,11 @@ title = "183 दासी घटम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+184	A female slave shall upset with her foot a pot filled with water, as if it were for a dead person; (his Sapindas) as well as the Samanodakas shall be impure for a day and a night;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 A female slave shall overturn a jar full of water with her foot, as in the case of the dead; and they, along with the relations, shall observe the ‘uncleanliness’ for the day and night.—(183)
@@ -60,9 +65,4 @@ See Comparative notes for [Verse 11.182].
 <details><summary>गोविन्दराजः</summary>
 
 **दासीति** । सपिण्डसमानोदकप्रयुक्ता दास्¥ उदकपूर्णं घटम् अमुम् अनुदकं करोमीति नामग्राहम् इति गौतमस्मरणाद् एवम् उक्त्वा प्रेतस्येव दक्षिणमुखं पादेन प्रक्षिपेत् तदनु च ते सपिण्डाः समानोदकैः सह शौचम् आश्रयेयुः ॥ ११.१८२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-184	A female slave shall upset with her foot a pot filled with water, as if it were for a dead person; (his Sapindas) as well as the Samanodakas shall be impure for a day and a night;
 </details>

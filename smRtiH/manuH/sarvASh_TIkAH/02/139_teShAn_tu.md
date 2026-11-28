@@ -2,6 +2,11 @@
 title = "139 तेषान् तु"
 +++
 
+<details><summary>Bühler</summary>
+
+139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Among these, when they come together, the man who has just passed his studentship and the King deserve to be honoured; and between the person just passed his studentship and the King, the person just passed his studentship receives the respects op the King.—(139)
@@ -46,11 +51,6 @@ See Comparative notes for [Verse 2.138].
 <details><summary>गोविन्दराजः</summary>
 
 **तेषाम्** इति । **तेषां तु** पुनः चक्रादीनाम् एकवर्त्मनि वर्तिनां चक्रादिभिः प्रकृतेन पथो दानेन **राजस्नातकौ मान्यौ** । राजस्नातकयोः एकवर्त्मनि वर्तिनोः **स्नातको मानं** भजते ॥ १.१३९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
 </details>
 
 <details><summary>भारुचिः</summary>

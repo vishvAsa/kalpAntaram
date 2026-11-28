@@ -2,6 +2,11 @@
 title = "099 ब्राह्मणो जायमानो"
 +++
 
+<details><summary>Bühler</summary>
+
+099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The Brāhmaṇa, on coming into existence, becomes supreme on earth; he is the supreme lord of all beings, serving the purpose of guarding the treasure of Virtue. (99).
@@ -37,11 +42,6 @@ See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 <details><summary>गोविन्दराजः</summary>
 
 **ब्राह्मण् **इति । यस्माद् **ब्राह्मण **उत्पद्यमानः धर्मसञ्चयरक्षणार्थं **सर्वभूतानाम् ईश्वरः **प्रभुः सन् **पृथिव्याम् अध्**इकः एकः श्रेष्ठः शुक्लैः गुणैः **जायते **तस्माद् असौ मूर्तिः धर्मस्य शास्वती पूर्वोक्तहेतुर् अयम् । **कोशो** धनसञ्चयः (न) इहोपचारात् कोशश्ब्दः । तद्गोप्तृत्वं च ब्राह्मणोपदेशकत्वात् सर्वधर्माणाम् ॥ १.९९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
 </details>
 
 <details><summary>भारुचिः</summary>

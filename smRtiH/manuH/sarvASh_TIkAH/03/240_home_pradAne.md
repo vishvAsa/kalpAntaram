@@ -2,6 +2,11 @@
 title = "240 होमे प्रदाने"
 +++
 
+<details><summary>Bühler</summary>
+
+240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 At the offering into Fire, at gifts, at feeding, or at any rite in honour of the Gods or of the Pitṛs,—whatever is seen by these goes wrong.—(240)
@@ -60,11 +65,6 @@ See Comparative notes for [Verse 3.239].
 <details><summary>गोविन्दराजः</summary>
 
 यस्माद् **होम** इति । अग्निहोत्रादि**होमे दाने **धर्मार्थं ब्राह्मणभोजने हव्यकव्ययोश् च यत् कर्म चण्डालादिभिर् अवेक्ष्यते यत् यद् अर्थं क्रियते तत् न साधयति ॥ ३.२४० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
 </details>
 
 <details><summary>भारुचिः</summary>

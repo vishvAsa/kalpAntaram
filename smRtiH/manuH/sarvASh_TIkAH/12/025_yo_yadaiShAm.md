@@ -3,6 +3,11 @@ title = "025 यो यदैषाम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+025	When one of these qualities wholly predominates in a body, then it makes the embodied (soul) eminently distinguished for that quality.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Whichsoever of these qualities wholly predominates in a body, it makes the owner of that body abound in that quality.—(25)
@@ -37,9 +42,4 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta p. 487);—and in
 <details><summary>भारुचिः</summary>
 
 पूर्वकर्मास्रयवशात् कस्यचित् कदाचिद् अत्रातिरेको भवति ॥ १२.२५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-025	When one of these qualities wholly predominates in a body, then it makes the embodied (soul) eminently distinguished for that quality.
 </details>

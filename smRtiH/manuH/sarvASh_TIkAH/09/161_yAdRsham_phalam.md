@@ -3,6 +3,11 @@ title = "161 यादृशम् फलम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+161	Whatever result a man obtains who (tries to) cross a (sheet of) water in an unsafe boat, even that result obtains he who (tries to) pass the gloom (of the next world) with (the help of) bad (substitutes for a real) son.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The man who tries to cross the gloom with the help of bad sons obtains results similar to those obtained by one who tries to cross the water with the help of unsound boats.—(161)
@@ -61,9 +66,4 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī*, (p. 701).
 <details><summary>भारुचिः</summary>
 
 अनेन लिङ्गेन सर्वे क्षेत्रजादयो ऽपुत्रस्य पुत्रकार्याणि कुर्युः, सर्वे च दायं गृह्णीयुः । कानीनादीनाम् अदायादत्वम् उक्तं पाक्षिकं तद् इति व्याख्यातम् ॥ ९.१६२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-161	Whatever result a man obtains who (tries to) cross a (sheet of) water in an unsafe boat, even that result obtains he who (tries to) pass the gloom (of the next world) with (the help of) bad (substitutes for a real) son.
 </details>

@@ -2,6 +2,11 @@
 title = "008 अनिर्दशाया गोः"
 +++
 
+<details><summary>Bühler</summary>
+
+008	The milk of a cow (or other female animal) within ten days after her calving, that of camels, of one-hoofed animals, of sheep, of a cow in heat, or of one that has no calf with her,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The milk of the cow that has not passed its ten days, as also that of the camel and of one-hoofed animals and of sheep; the milk of the irregular cow, as also the milk of the cow without her calf.—(8)
@@ -110,11 +115,6 @@ milk of the cow in heat;—nor of the cow whose calf is absent or dead, of the c
 > सप्तरात्रव्रतं कुर्यात् प्रयत्नेन समाहितः ॥ इति ।
 
 सन्धिन्याश् च तद्धितनिर्देशस्य कृतत्वाच् च क्षीरग्रहणं कर्तुम् उपयुज्यते सन्ध्नीक्षीरम् इति च समासान्तर्वर्तित्वात् क्षीरशब्दस्य गोः पय इति पयोग्रहणम् उपयुज्यते ॥ ५.८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-008	The milk of a cow (or other female animal) within ten days after her calving, that of camels, of one-hoofed animals, of sheep, of a cow in heat, or of one that has no calf with her,
 </details>
 
 <details><summary>भारुचिः</summary>

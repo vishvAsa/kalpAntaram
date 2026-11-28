@@ -2,6 +2,11 @@
 title = "076 अतिक्रान्ते दशाहे"
 +++
 
+<details><summary>Bühler</summary>
+
+076	If the ten days have passed, he shall be impure during three (days and) nights; but if a year has elapsed (since the occurrence of the death), he becomes pure merely by bathing.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the period of ten days has elapsed, he shall remain impure for three days; but when a year has elapsed, he becomes pure by merely touching water.—(75).
@@ -44,11 +49,6 @@ the full period of impurity.
 <details><summary>गोविन्दराजः</summary>
 
 **अतिक्रान्त** इति । आशौचातिक्रमे सपिण्डजननं मरणं वा ज्ञात्वा **त्रिरात्रम्** आशौचवान् भवति । संवत्सरे पुनर् अतीते ज्ञात्वा **स्नात्वैव शुध्यति** ॥ ५.७६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-076	If the ten days have passed, he shall be impure during three (days and) nights; but if a year has elapsed (since the occurrence of the death), he becomes pure merely by bathing.
 </details>
 
 <details><summary>भारुचिः</summary>

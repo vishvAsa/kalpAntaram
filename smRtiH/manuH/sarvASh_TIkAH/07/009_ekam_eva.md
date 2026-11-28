@@ -3,6 +3,11 @@ title = "009 एकम् एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+009	Fire burns one man only, if he carelessly approaches it, the fire of a king's (anger) consumes the (whole) family, together with its cattle and its hoard of property.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Fire burns only one man who may happen to approach it carelessly; the fire of the King, on the other hand, consumes the entire family, along with its cattle and hoard of wealth.—(9)
@@ -58,9 +63,4 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 <details><summary>भारुचिः</summary>
 
 यस्माद् अकार्यकारिणां तत्सहायानां तदपराधसंबन्धानां च **कुलं दहति** । अतो ऽप्य् असौ नावमन्तव्यः ॥ ७.९॥
-</details>
-
-<details><summary>Bühler</summary>
-
-009	Fire burns one man only, if he carelessly approaches it, the fire of a king's (anger) consumes the (whole) family, together with its cattle and its hoard of property.
 </details>

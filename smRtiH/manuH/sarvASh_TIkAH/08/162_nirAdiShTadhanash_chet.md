@@ -3,6 +3,11 @@ title = "162 निरादिष्टधनश् चेत्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+162	If the surety had received money (from him for whom he stood bail) and had money enough (to pay), then (the heir of him) who received it, shall pay (the debt) out of his property; that is the settled rule.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If the surety were one to whom money had been made over and who had enough money,—then he to whom it had been made over shall pay it out ok his own property; such is the settled rule.—(162)
@@ -68,9 +73,4 @@ See Comparative notes for [Verse 8.159].
 <details><summary>भारुचिः</summary>
 
 **निरादिष्टधनो**] प्रतिभूः समर्पितधनः, न वाङ्मात्रेण । **अलंधनश्** च **स्यात्** पर्याप्तधनः । यावता संबध्यते लग्नकत्वेन । अथ वा निरादिष्टधनो वा[ङ्मात्रेन प]श्चाद् अलंधनस् समर्पितधनः पर्याप्तधनश् च भवति, तत्रैतस्माद् धेतोः **स्वधनाद् एव तद्** दातुम् अर्हति । अधमर्णलग्नकपुत्र उत्तमर्णायेति । अयं च दानग्रहणविधिः [सिद्धि]कारणेन ॥ ८.१६१ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-162	If the surety had received money (from him for whom he stood bail) and had money enough (to pay), then (the heir of him) who received it, shall pay (the debt) out of his property; that is the settled rule.
 </details>

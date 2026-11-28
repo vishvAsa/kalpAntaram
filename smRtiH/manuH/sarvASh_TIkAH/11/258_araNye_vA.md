@@ -3,6 +3,11 @@ title = "258 अरण्ये वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+259	Or if, pure (in mind and in body), he thrice repeats the Samhita of the Veda in a forest, sanctified by three Paraka (penances), he is freed from all crimes causing loss of caste (pataka).
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Or, if, purified by the performance of three ‘Parāka’ penances, and self-controlled, he repeats thrice the entire text of the Veda, in a forest, he becomes absolved from all sins.—(258)
@@ -42,9 +47,4 @@ slaying of the learned Brāhmaṇa, or to the *unintentional repeated* slaying o
 <details><summary>भारुचिः</summary>
 
 अविशेषवचनाद् यां कांचिद् वेदसंहिताम् इति ॥ ११.२५५ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-259	Or if, pure (in mind and in body), he thrice repeats the Samhita of the Veda in a forest, sanctified by three Paraka (penances), he is freed from all crimes causing loss of caste (pataka).
 </details>

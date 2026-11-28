@@ -3,6 +3,11 @@ title = "179 दास्यां वा"
 
 +++
 
+<details><summary>Bühler</summary>
+
+179	A son who is (begotten) by a Sudra on a female slave, or on the female slave of his slave, may, if permitted (by his father), take a share (of the inheritance); thus the law is settled.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 If a son is born to a Śūdra from a female slave, or from the female slave of a slave, he shall, when permitted, receive a share; such is the settled law.—(179)
@@ -63,9 +68,4 @@ may inherit his property, by the desire of his father; on the death of the fathe
 <details><summary>भारुचिः</summary>
 
 शूद्रं प्रति पितुर् अनुज्ञावचनाद् ब्राह्मणादीनां स्नेहाद् रागाद् वा दायं प्रत्य् अनुज्ञानं नास्ति ॥ ९.१७९ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-179	A son who is (begotten) by a Sudra on a female slave, or on the female slave of his slave, may, if permitted (by his father), take a share (of the inheritance); thus the law is settled.
 </details>

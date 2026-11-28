@@ -3,6 +3,11 @@ title = "127 अधर्मदण्डनं लोके"
 
 +++
 
+<details><summary>Bühler</summary>
+
+127	Unjust punishment destroys reputation among men, and fame (after death), and causes even in the next world the loss of heaven; let him, therefore, beware of (inflicting) it.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Unjust punishment is destructive of reputation among men and subversive of fame; in the other world also it leads to loss of heaven; he shall therefore avoid it.—(127)
@@ -76,9 +81,4 @@ and by punishing those who are already submissive, kings and ministers incur sin
 <details><summary>भारुचिः</summary>
 
 देशाद्यपेक्षया दण्डं विदध्याद् यत्नतः । एवं च सति तस्यायं प्रयोगक्रमविधिः शिष्यते ॥ ८.१२८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-127	Unjust punishment destroys reputation among men, and fame (after death), and causes even in the next world the loss of heaven; let him, therefore, beware of (inflicting) it.
 </details>

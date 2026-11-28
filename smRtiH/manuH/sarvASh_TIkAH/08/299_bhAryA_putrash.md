@@ -3,6 +3,11 @@ title = "299 भार्या पुत्रश्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+299	A wife, a son, a slave, a pupil, and a (younger) brother of the full blood, who have committed faults, may be beaten with a rope or a split bamboo,
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 The wife, the son, the slave, the servant and the uterine brother shall be beaten with a rope or a split bamboo, when they have committed a fault.—(299)
@@ -89,9 +94,4 @@ chastised, without hurting him, either with a thin rope or with split bamboo; th
 <details><summary>भारुचिः</summary>
 
 दण्डप्रतिषेधर्थो ऽयम् आरम्भः, ताडनासादननियमार्थश् च ॥ ८.२९८ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-299	A wife, a son, a slave, a pupil, and a (younger) brother of the full blood, who have committed faults, may be beaten with a rope or a split bamboo,
 </details>

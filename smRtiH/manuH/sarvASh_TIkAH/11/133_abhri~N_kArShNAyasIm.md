@@ -3,6 +3,11 @@ title = "133 अभ्रिङ् कार्ष्णायसीम्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+134	For killing a snake, a Brahmana shall give a spade of black iron, for a eunuch a load of straw and a masha of lead;
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 For killing a snake, the Brāhmaṇa should give an iron spade; and in the case of a eunuch, a load of straw and a ‘māsa’ of lead.—(133)
@@ -62,9 +67,4 @@ bar; for killing a eunuch, lead and tin; for killing a boar, a jar of clarified 
 <details><summary>भारुचिः</summary>
 
 पलालेनास्य माषकस्य च समुच्चय आनन्तर्यसामर्थ्याद् विज्ञेयः । नाभ्र्या । पलालं चार्थात् गवे गोपतये वा ब्राह्मणाय ॥ ११.१३२ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-134	For killing a snake, a Brahmana shall give a spade of black iron, for a eunuch a load of straw and a masha of lead;
 </details>

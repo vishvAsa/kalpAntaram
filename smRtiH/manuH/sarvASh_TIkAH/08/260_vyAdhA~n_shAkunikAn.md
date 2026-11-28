@@ -3,6 +3,11 @@ title = "260 व्याधाञ् शाकुनिकान्"
 
 +++
 
+<details><summary>Bühler</summary>
+
+260	(Viz.) hunters, fowlers, herdsmen, fishermen, root-diggers, snake-catchers, gleaners, and other foresters.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 Hunters, Fowlers, Cowherds, Fishermen, Root-diggers, Snake-catchers, Gleaners and other Foresters.—(260)
@@ -77,9 +82,4 @@ See Comparative notes for [Verse 8.253].
 <details><summary>गोविन्दराजः</summary>
 
 **व्याधान्** इति । लुब्धकान् पक्षिवधजीविनो गोपालान् तडागादिखनन्वृत्तीन् वृक्षादिमूलोत्पादकान् सर्पग्राहिणो शिलोञ्छजीविनो ऽन्यांश्च फलपुष्पेन्धनाद्यर्थं वनव्यवहारिणः पृच्छेद् एतैर् इहकार्यार्थं ग्राममध्यं ते सकृद् वनं व्रजन्ति ॥ ८.२६० ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-260	(Viz.) hunters, fowlers, herdsmen, fishermen, root-diggers, snake-catchers, gleaners, and other foresters.
 </details>

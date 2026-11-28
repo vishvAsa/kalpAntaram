@@ -3,6 +3,11 @@ title = "016 पञ्चभ्य एव"
 
 +++
 
+<details><summary>Bühler</summary>
+
+016	Another strong body, formed of particles (of the) five (elements and) destined to suffer the torments (in hell), is produced after death (in the case) of wicked men.
+</details>
+
 <details><summary>गङ्गानथ-मूलानुवादः</summary>
 
 In the case of misbehaved persons, there is produced out of five constituents, another strong body, for the suffering of torments, after death.—(16)
@@ -49,9 +54,4 @@ The meaning is that a material body is produced, without the process involved in
 <details><summary>भारुचिः</summary>
 
 पञ्चभ्यो भूतमात्राभ्यः स्थूलं यातनाक्षमं नरकादिष्व् अन्यच् छरीरम् उपपद्यते । कुतो ऽन्यत् । सूक्ष्माल् लिङ्गात् ॥ १२.१६ ॥
-</details>
-
-<details><summary>Bühler</summary>
-
-016	Another strong body, formed of particles (of the) five (elements and) destined to suffer the torments (in hell), is produced after death (in the case) of wicked men.
 </details>
