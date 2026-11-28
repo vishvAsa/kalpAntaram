@@ -1,6 +1,13 @@
 +++
 title = "062 उपस्थितस्य मोक्तव्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pledge must be released when [the debtor] presents himself; otherwise [the creditor] becomes a thief.  
+If the creditor is absent, [the debtor] may recover the pledge after depositing the money with his family.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपस्थितस्य मोक्तव्य  

@@ -1,6 +1,13 @@
 +++
 title = "162 पथि ग्रामविवीतान्ते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On a road, on the edge of a village pasture, or in an unfenced field, no fault is found  
+if unintentional; but for intentional grazing, one deserves punishment like a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पथि ग्राम-विवीतान्ते  

@@ -1,6 +1,13 @@
 +++
 title = "248 सङ्ग्रामे वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having been slain in battle as a target, he would attain purification;  
+[or] having been reduced to a near-dead state, afflicted with wounds, he is purified even while living.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सङ्ग्रामे वा हतो लक्ष्य-  

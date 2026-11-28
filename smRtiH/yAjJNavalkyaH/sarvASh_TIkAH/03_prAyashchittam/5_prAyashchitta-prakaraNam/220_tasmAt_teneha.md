@@ -1,6 +1,13 @@
 +++
 title = "220 तस्मात् तेनेह"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, penance must be performed here by him for purification;  
+thus both his inner self and the world are pleased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्मात् तेनेह कर्तव्यं  

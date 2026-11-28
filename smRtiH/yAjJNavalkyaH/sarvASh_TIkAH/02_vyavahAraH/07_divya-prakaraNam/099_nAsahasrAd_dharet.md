@@ -1,6 +1,13 @@
 +++
 title = "099 नासहस्राद् धरेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should not carry the plowshare, nor take poison, nor the balance for less than a thousand [paṇas];  
+but in matters concerning the king or in false charges, the pure should always undergo them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नासहस्राद् धरेत् फालं  

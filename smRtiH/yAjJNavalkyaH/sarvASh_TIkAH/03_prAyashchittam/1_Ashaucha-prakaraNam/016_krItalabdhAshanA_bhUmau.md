@@ -1,6 +1,13 @@
 +++
 title = "016 क्रीतलब्धाशना भूमौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eating food bought or obtained by begging, they should sleep on the bare earth separately.  
+According to the procedure of the funeral cake offering, food should be given to the deceased for three days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीत-लब्धाशना भूमौ  

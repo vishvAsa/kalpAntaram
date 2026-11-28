@@ -1,6 +1,13 @@
 +++
 title = "257 ब्राह्मणस्वर्णहारी तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A stealer of Brahmin gold, however, should offer an iron pestle to the king,  
+declaring his deed; killed or released by him, he becomes purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मण-स्वर्ण-हारी तु  

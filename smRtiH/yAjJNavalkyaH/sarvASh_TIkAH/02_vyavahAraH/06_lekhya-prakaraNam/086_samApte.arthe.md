@@ -1,6 +1,13 @@
 +++
 title = "086 समाप्ते ऽर्थे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the matter is completed, the debtor should write his name with his own hand:  
+'Approved by me, son of so-and-so, whatever is written above.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 समाप्ते ऽर्थे ऋणी नाम  

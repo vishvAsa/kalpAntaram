@@ -1,6 +1,13 @@
 +++
 title = "024 प्राणान् आयम्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having controlled his breath and sprinkled himself with the triplet dedicated to the waters,  
+he should sit facing west, chanting the Sāvitrī until the rising of the stars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणान् आयम्य सम्प्रोक्ष्य  

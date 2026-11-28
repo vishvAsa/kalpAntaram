@@ -1,6 +1,13 @@
 +++
 title = "298 स्ववर्णैर् वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or they should be drawn on cloth with their respective colours, or with perfumes in circular diagrams;  
+clothing and flowers are to be given corresponding to their colours,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-वर्णैर् वा पटे लेख्या  

@@ -1,6 +1,13 @@
 +++
 title = "111 एवम् उक्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having spoken thus, he should swallow the śārṅga poison born of the snowy mountain;  
+if it digests without violent fits, one should declare his clearance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवम् उक्त्वा विषं शार्ङ्गं  

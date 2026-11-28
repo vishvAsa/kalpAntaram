@@ -1,6 +1,13 @@
 +++
 title = "023 सर्वेष्व् अर्थविवादेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In all disputes over property, a later act carries greater weight;  
+but in the case of a pledge, a gift, or a purchase, the earlier act is stronger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वेष्व् अर्थविवादेषु  

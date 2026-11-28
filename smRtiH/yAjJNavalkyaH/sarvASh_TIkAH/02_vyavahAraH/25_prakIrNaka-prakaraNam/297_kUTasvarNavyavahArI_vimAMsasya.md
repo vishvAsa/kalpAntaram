@@ -1,6 +1,13 @@
 +++
 title = "297 कूटस्वर्णव्यवहारी विमांसस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dealer in counterfeit gold and a seller of forbidden meat  
+must be deprived of three limbs and made to pay the highest heinous offence fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कूट-स्वर्ण-व्यवहारी  

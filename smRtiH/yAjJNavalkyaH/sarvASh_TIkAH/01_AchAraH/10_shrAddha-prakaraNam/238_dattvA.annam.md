@@ -1,6 +1,13 @@
 +++
 title = "238 दत्त्वा ऽन्नम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having served the food and consecrated the vessels with the verse 'pṛthivī te pātram',  
+he should insert the Brahmin's thumb into the food with the formula 'idaṃ viṣṇuḥ'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा ऽन्नं पृथिवी-पात्रम्  

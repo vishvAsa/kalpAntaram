@@ -1,6 +1,13 @@
 +++
 title = "071 आहुत्य +आप्यायते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By the offering the sun is nourished; from the sun comes rain, and then plants;  
+that food, through transformation into chyle, attains the state of semen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आहुत्य +आप्यायते सूर्यः  

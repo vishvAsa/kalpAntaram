@@ -1,6 +1,13 @@
 +++
 title = "231 सखिभार्याकुमारीषु स्वयोनिष्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Sexual intercourse] with a friend's wife, a maiden, one's own female relatives, lowest-caste women,  
+women of the same gotra, and wives of a son is traditionally regarded as equal to violating the guru's bed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सखि-भार्या-कुमारीषु  

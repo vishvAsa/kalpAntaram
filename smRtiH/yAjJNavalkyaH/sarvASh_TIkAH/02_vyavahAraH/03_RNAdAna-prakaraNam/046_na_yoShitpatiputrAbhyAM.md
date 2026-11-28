@@ -1,6 +1,13 @@
 +++
 title = "046 न योषित्पतिपुत्राभ्यां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debt contracted by a woman should not be paid by her husband or son, nor one contracted by a son by the father,  
+except when contracted for the family's sake; nor should a husband pay one contracted by his wife.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न योषित्-पति-पुत्राभ्यां  

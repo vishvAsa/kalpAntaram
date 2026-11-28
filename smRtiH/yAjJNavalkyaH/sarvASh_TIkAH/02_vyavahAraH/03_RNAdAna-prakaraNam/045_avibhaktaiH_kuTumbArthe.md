@@ -1,6 +1,13 @@
 +++
 title = "045 अविभक्तैः कुटुम्बार्थे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever debt was contracted for the sake of the family by undivided members,  
+the heirs must pay upon the death or foreign absence of the head of the family.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविभक्तैः कुटुम्बार्थे  

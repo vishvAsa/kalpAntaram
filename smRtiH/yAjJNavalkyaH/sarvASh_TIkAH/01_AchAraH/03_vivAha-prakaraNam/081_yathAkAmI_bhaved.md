@@ -2,6 +2,12 @@
 title = "081 यथाकामी भवेद्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or he may approach her according to her desire, remembering the boon granted to women,  
+yet devoted only to his own wife, since it is taught that women must be protected.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कामी भवेद् वा ऽपि  

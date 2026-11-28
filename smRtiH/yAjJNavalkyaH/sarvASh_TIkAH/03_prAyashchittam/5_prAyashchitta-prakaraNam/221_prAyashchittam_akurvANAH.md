@@ -1,6 +1,13 @@
 +++
 title = "221 प्रायश्चित्तम् अकुर्वाणाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men who do not perform penance, who are devoted to sins,  
+and without remorse, go to painful, terrible hells:
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तम् अकुर्वाणाः  

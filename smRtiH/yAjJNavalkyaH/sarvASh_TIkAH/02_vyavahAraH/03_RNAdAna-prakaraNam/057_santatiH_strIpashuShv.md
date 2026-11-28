@@ -1,6 +1,13 @@
 +++
 title = "057 सन्ततिः स्त्रीपशुष्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of female animals, [the increase is] offspring; grain is threefold;  
+cloth is stated to be fourfold, and liquids eightfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ततिः स्त्री-पशुष्व् एव  

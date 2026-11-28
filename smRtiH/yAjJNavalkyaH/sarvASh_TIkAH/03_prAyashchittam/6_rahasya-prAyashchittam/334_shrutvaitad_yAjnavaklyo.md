@@ -1,6 +1,13 @@
 +++
 title = "334 श्रुत्वैतद् याज्ञवक्ल्यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having heard this spoken by the sages, Yājñavalkya too, pleased in spirit,  
+having bowed to the Self-existent [Brahmā], said: 'Let it be so!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुत्वैतद् याज्ञवक्ल्यो ऽपि  

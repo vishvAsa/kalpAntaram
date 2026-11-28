@@ -1,6 +1,13 @@
 +++
 title = "245 भेषजस्नेहलवण गन्धधान्यगुडादिषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever adulterates commodities such as medicine, oil, salt,  
+perfumes, grain, raw sugar, and the like with inferior substances is to be made to pay sixteen paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भेषज-स्नेह-लवण-  

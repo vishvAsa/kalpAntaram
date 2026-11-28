@@ -1,6 +1,13 @@
 +++
 title = "027 आगमो ऽभ्यधिको"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Title is superior to possession, except when handed down through ancestral succession;  
+yet even with title, there is no strength where possession is not even slight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमो ऽभ्यधिको भोगाद्  

@@ -1,6 +1,13 @@
 +++
 title = "290 विनायकस्य जननीम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should then revere Ambikā, the mother of Vināyaka,  
+having offered a full palmful of dūrvā grass, mustard, and flowers as an arghya offering:
+</details>
+
 <details><summary>मूलम्</summary>
 
 विनायकस्य जननीम्  

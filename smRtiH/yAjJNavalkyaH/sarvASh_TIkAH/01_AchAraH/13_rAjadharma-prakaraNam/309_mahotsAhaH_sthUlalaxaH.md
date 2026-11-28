@@ -2,6 +2,12 @@
 title = "309 महोत्साहः स्थूललक्षः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having great energy, munificent, grateful, serving the aged,  
+modest, endowed with goodness, of noble family, truthful, pure,
+</details>
+
 <details><summary>मूलम्</summary>
 
 महोत्साहः स्थूल-लक्षः  

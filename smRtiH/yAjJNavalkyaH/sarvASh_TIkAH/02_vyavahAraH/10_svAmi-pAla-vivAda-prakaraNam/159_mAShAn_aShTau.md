@@ -1,6 +1,13 @@
 +++
 title = "159 माषान् अष्टौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A female buffalo that causes destruction of crops  
+is to be fined eight māṣas; a cow, half of that; a goat or a sheep, half of that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माषान् अष्टौ तु महिषी  

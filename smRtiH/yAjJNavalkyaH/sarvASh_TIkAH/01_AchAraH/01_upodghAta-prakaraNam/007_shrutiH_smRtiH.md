@@ -2,6 +2,12 @@
 title = "007 श्रुतिः स्मृतिः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Revealed scripture, traditional law, the conduct of the virtuous, what is agreeable to oneself,  
+and desire born of proper resolve—this is traditionally held to be the root of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुतिः स्मृतिः सद्-आचारः  

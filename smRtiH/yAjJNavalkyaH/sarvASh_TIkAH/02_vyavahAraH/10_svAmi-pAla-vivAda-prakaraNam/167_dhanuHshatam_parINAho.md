@@ -1,6 +1,13 @@
 +++
 title = "167 धनुःशतम् परीणाहो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The space between a village and the fields around it should be an expanse of one hundred bow-lengths;  
+it should be two hundred for a market town, and four hundred for a city.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धनुः-शतं परीणाहो  

@@ -1,6 +1,13 @@
 +++
 title = "108 सत्कृत्य भिक्षवे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having shown respect, alms should be given to a mendicant and to one under a vow;  
+and he should feed friends, connections, and relatives who arrive at mealtime.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्-कृत्य भिक्षवे भिक्षा  

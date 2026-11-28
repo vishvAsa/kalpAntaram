@@ -1,6 +1,13 @@
 +++
 title = "070 सर्गादौ स"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as in the beginning of creation it produces ether, air, fire, water, and earth,  
+each having one quality more than the last, so taking birth it assumes them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्गादौ स यथाकाशं  

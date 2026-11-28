@@ -1,6 +1,13 @@
 +++
 title = "101 वेदाथर्वपुराणानि सेतिहासानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+According to his ability, to accomplish the sacrifice of recitation,  
+he should recite the Vedas, the Atharvaveda, the Purāṇas along with the Itihāsas, and the sacred science of the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदाथर्व-पुराणानि  

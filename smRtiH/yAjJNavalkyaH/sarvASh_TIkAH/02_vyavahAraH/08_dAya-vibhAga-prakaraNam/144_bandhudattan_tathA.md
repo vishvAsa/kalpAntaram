@@ -1,6 +1,13 @@
 +++
 title = "144 बन्धुदत्तन् तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is given by kinsmen, as well as the bride-price and the subsequent gift:  
+if she dies childless, her relatives shall obtain that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बन्धु-दत्तं तथा शुल्कम्  

@@ -1,6 +1,13 @@
 +++
 title = "144 त्र्यहम् प्रेतेष्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Recitation is suspended for three days on the death of students, sacrificial priests, gurus, or relatives,  
+and likewise at the opening and concluding rites, and upon the death of a Vedic scholar of one's own Vedic branch.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्र्यहं प्रेतेष्व् अनध्यायः  

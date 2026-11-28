@@ -1,6 +1,13 @@
 +++
 title = "065 वासनस्थम् अनाख्याय"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When property placed in a container is handed over into the custody of another without being described,  
+that is an aupanidhika deposit; it must be returned just as it was.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वासनस्थम् अनाख्याय  

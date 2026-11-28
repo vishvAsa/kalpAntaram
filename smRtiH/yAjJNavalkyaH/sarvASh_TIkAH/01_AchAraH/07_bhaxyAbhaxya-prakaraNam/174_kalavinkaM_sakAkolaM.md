@@ -1,6 +1,13 @@
 +++
 title = "174 कलविङ्कं सकाकोलं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sparrow, raven, osprey, green pigeon,  
+web-footed birds, wagtails, and unknown beasts and birds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कलविङ्कं स-काकोलं  

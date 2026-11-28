@@ -2,6 +2,12 @@
 title = "029 दण्डाजिनोपवीतानि मेखलाञ्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should carry a staff, a deer hide, and a sacred cord, and wear a girdle.  
+He should beg alms for his sustenance among blameless Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दण्डाजिनोपवीतानि  

@@ -2,6 +2,12 @@
 title = "291 रूपन् देहि"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Give [me] beauty, give renown, give me fortune, O Lady!  
+Give sons, give wealth, and give me all desires!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 रूपं देहि यशो देहि  

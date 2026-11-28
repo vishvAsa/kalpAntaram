@@ -1,6 +1,13 @@
 +++
 title = "202 विद्यातपोभ्यां हीनेन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A gift should not be accepted by one devoid of learning and austerity;  
+by accepting it, he drags the giver downwards and himself as well.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विद्या-तपोभ्यां हीनेन  

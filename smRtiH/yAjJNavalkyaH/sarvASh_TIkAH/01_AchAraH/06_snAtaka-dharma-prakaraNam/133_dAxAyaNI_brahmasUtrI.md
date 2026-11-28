@@ -1,6 +1,13 @@
 +++
 title = "133 दाक्षायणी ब्रह्मसूत्री"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wearing gold earrings, wearing the sacred thread, carrying a bamboo staff and a water pot,  
+he should circumambulate a deity, a mound of earth, a cow, a Brahmin, and sacred trees.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाक्षायणी ब्रह्म-सूत्री  

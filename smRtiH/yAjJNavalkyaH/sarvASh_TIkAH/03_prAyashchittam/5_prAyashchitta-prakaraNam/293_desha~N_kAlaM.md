@@ -1,6 +1,13 @@
 +++
 title = "293 देशङ् कालं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Considering carefully the place, time, age, capacity, and sin,  
+an expiation should be determined wherever an atonement has not been stated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं वयः शक्तिं  

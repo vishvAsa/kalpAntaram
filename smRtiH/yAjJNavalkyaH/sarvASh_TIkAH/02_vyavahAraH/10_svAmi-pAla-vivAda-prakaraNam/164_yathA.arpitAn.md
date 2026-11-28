@@ -1,6 +1,13 @@
 +++
 title = "164 यथा ऽर्पितान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as the animals were delivered, so the herdsman must return them in the evening;  
+and one who has received wages must be made to make good those that have died or been lost through negligence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ऽर्पितान् पशून् गोपः  

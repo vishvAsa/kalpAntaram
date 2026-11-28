@@ -1,6 +1,13 @@
 +++
 title = "150 पांसुप्रवर्षे दिग्दाहे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+During a dust storm, an unnatural glow on the horizon, at twilight, in fog, or in times of fear,  
+while running, when there is a foul odour, and when a distinguished guest has arrived at the house;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पांसु-प्रवर्षे दिग्-दाहे  

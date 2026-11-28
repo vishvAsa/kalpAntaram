@@ -2,6 +2,12 @@
 title = "097 सचैलं स्नातम्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having summoned him who has bathed with his clothes on and fasted until sunrise,  
+he should cause all ordeals to be performed in the presence of the king and Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-चैलं स्नातम् आहूय  

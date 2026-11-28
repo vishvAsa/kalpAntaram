@@ -1,6 +1,13 @@
 +++
 title = "134 परद्रव्याण्य् अभिध्यायंस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Coveting the property of others, dwelling on harmful thoughts,  
+and persisting in falsehood, one is born in lower wombs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-द्रव्याण्य् अभिध्यायंस्  

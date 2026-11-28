@@ -1,6 +1,13 @@
 +++
 title = "137 ष्ठीवनासृक्शकृन्मूत्र रेतांस्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not cast spittle, blood, feces, urine, or semen into water;  
+he should not warm his feet in fire, nor should he step over it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ष्ठीवनासृक्-शकृन्-मूत्र-  

@@ -1,6 +1,13 @@
 +++
 title = "313 स्नानम् मौनोपवासेज्या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing, silence, fasting, worship, recitation of the Veda, restraint of the sexual organs,  
+service to the guru, purification, absence of anger, and vigilance are the observances.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नानं मौनोपवासेज्या-  

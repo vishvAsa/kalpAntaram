@@ -1,6 +1,13 @@
 +++
 title = "183 अनादिर् आदिमांश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beginningless yet possessing a beginning, that very one is the supreme person;  
+having a form perceptible through bodily marks and senses, he is declared subject to modification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आदिमांश् चैव  

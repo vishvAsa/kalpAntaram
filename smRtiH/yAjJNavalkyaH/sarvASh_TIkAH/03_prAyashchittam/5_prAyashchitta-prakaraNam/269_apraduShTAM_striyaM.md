@@ -1,6 +1,13 @@
 +++
 title = "269 अप्रदुष्टां स्त्रियं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed an uncorrupted woman, one should observe the vow for killing a Shudra;  
+[and for killing] a thousand animals possessing bones, or a cart-load of boneless creatures.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रदुष्टां स्त्रियं हत्वा  

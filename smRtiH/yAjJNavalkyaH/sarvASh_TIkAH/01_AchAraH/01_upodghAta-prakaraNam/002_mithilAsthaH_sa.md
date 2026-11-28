@@ -1,6 +1,13 @@
 +++
 title = "002 मिथिलास्थः स"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwelling in Mithilā, that lord of yogins meditated for a moment and said to the sages:  
+“Learn the duties in that land where the black antelope [roams].”
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथिला-स्थः स योगीन्द्रः  

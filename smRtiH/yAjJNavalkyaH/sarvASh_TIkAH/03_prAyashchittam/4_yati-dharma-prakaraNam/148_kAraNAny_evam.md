@@ -1,6 +1,13 @@
 +++
 title = "148 कारणान्य् एवम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so the self, taking up the causes and coming together with the organs  
+in various wombs in this world, creates itself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कारणान्य् एवम् आदाय  

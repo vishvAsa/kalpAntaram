@@ -1,6 +1,13 @@
 +++
 title = "304 गुडौदनम् पायसञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Jaggery-rice, rice-milk pudding, sacrificial food, milk rice from sixty-day grain,  
+curd-rice, clarified butter, meal, meat, and variegated food—
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुडौदनं पायसं च  

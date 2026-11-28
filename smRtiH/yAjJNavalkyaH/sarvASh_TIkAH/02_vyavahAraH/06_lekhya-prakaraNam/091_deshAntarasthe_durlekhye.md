@@ -1,6 +1,13 @@
 +++
 title = "091 देशान्तरस्थे दुर्लेख्ये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a document is in another country, illegibly written, lost, effaced, stolen,  
+split, burned, or torn, another document should be made.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशान्तरस्थे दुर्लेख्ये  

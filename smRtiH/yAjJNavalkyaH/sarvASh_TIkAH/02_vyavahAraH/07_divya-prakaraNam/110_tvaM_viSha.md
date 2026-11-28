@@ -1,6 +1,13 @@
 +++
 title = "110 त्वं विष"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O poison, are the son of Brahmā, established in truth and duty;  
+protect me from this false accusation; by truth become nectar to me!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वं विष ब्रह्मणः पुत्रः  

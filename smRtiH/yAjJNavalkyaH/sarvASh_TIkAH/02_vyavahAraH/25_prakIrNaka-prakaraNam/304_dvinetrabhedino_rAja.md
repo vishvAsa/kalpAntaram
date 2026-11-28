@@ -1,6 +1,13 @@
 +++
 title = "304 द्विनेत्रभेदिनो राज"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For one who blinds both eyes, for one who executes a command hostile to the king,  
+and for a Shudra living by claiming Brahminhood, the fine is eight hundred.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वि-नेत्र-भेदिनो राज-  

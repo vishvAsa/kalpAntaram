@@ -1,6 +1,13 @@
 +++
 title = "368 ज्ञात्वा ऽपराधन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ascertained the offence, the place, the time, the strength,  
+the age, the action, and the wealth, he should inflict punishment on those deserving of punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञात्वा ऽपराधं देशं च  

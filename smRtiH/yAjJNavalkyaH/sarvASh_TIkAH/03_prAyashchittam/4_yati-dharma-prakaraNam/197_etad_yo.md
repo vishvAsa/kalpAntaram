@@ -1,6 +1,13 @@
 +++
 title = "197 एतद् यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, having a self, does not understand this pair of paths  
+becomes a venomous serpent, a moth, an insect, or a worm.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतद् यो न विजानाति  

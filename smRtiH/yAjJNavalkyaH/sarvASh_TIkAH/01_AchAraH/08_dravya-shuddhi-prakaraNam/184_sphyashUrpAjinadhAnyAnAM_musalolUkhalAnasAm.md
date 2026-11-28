@@ -1,6 +1,13 @@
 +++
 title = "184 स्फ्यशूर्पाजिनधान्यानां मुसलोलूखलानसाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sacrificial wooden sword, winnowing baskets, animal skins, grain,  
+pestles, mortars, and carts are purified by sprinkling, as are large heaps of grain and cloth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्फ्य-शूर्पाजिन-धान्यानां  

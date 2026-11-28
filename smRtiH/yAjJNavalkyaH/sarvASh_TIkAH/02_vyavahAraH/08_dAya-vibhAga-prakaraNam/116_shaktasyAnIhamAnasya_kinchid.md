@@ -1,6 +1,13 @@
 +++
 title = "116 शक्तस्यानीहमानस्य किञ्चिद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For an able [son] who desires nothing, separation is made after giving him a small portion.  
+A partition of inheritance made by a father into lesser and greater shares is declared lawful according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शक्तस्यानीहमानस्य  

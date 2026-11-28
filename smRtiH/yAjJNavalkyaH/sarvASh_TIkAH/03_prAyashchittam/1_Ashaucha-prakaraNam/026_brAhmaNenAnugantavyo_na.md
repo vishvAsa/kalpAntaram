@@ -1,6 +1,13 @@
 +++
 title = "026 ब्राह्मणेनानुगन्तव्यो न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin should never follow the corpse of a Shudra, nor that of a twice-born.  
+If he follows [one], he becomes pure after bathing in water, touching fire, and eating ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेनानुगन्तव्यो  

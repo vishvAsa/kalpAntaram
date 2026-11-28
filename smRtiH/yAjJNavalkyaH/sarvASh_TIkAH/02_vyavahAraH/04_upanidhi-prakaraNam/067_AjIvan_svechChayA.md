@@ -1,6 +1,13 @@
 +++
 title = "067 आजीवन् स्वेच्छया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he lives off it by his own will, he must be fined and made to pay it back with interest.  
+This rule applies to borrowed articles, re-entrusted goods, trusts, open deposits, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आजीवन् स्वेच्छया दण्ड्यो  

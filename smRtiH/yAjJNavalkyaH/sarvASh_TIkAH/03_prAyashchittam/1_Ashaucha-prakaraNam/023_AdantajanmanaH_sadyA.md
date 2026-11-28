@@ -1,6 +1,13 @@
 +++
 title = "023 आदन्तजन्मनः सद्या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Until the eruption of teeth [purification is] immediate; until tonsure it is taught to be one night;  
+three nights until the investiture of vows; beyond that, ten nights.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-दन्त-जन्मनः सद्या  

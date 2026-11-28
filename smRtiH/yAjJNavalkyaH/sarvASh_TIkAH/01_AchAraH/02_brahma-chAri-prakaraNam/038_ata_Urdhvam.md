@@ -1,6 +1,13 @@
 +++
 title = "038 अत ऊर्ध्वम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beyond this, excluded from all duties, they fall;  
+fallen from the Sāvitrī, they become outcastes, except through the Vrātyastoma sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत ऊर्ध्वं पतन्त्य् एते  

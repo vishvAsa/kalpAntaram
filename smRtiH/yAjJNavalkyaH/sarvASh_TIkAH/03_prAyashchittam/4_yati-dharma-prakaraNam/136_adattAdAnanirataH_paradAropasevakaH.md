@@ -1,6 +1,13 @@
 +++
 title = "136 अदत्तादाननिरतः परदारोपसेवकः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Devoted to taking what is not given, consorting with another's wife,  
+and injuring without scriptural sanction, one is born among immobile things.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदत्तादान-निरतः  

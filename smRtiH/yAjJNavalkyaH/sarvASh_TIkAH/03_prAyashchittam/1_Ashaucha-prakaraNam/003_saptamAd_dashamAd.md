@@ -1,6 +1,13 @@
 +++
 title = "003 सप्तमाद् दशमाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the seventh or tenth [degree of kinship], relatives enter the water,  
+facing the direction of the ancestors, with the verse: 'May our sin burn away.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्तमाद् दशमाद् वा ऽपि  

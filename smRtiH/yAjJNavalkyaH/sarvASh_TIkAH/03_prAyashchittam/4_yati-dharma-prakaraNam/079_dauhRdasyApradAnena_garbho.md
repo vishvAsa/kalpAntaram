@@ -1,6 +1,13 @@
 +++
 title = "079 दौहृदस्याप्रदानेन गर्भो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through not granting the pregnancy longings, the foetus may incur a defect,  
+deformity, or even death; therefore, one must do what is pleasing to the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दौहृदस्याप्रदानेन  

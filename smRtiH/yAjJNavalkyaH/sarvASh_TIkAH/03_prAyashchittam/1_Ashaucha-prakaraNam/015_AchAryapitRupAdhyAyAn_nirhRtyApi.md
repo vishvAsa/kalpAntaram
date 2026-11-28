@@ -1,6 +1,13 @@
 +++
 title = "015 आचार्यपितृउपाध्यायान् निर्हृत्यापि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A student under vow who carries out [the corpse of] his preceptors, father, or sub-teachers remains a student under vow;  
+he must not eat food prepared during impurity, nor live together with them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्य-पितृ-उपाध्यायान्  

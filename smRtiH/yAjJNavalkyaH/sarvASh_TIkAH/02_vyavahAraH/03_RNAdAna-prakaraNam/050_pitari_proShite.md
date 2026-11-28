@@ -1,6 +1,13 @@
 +++
 title = "050 पितरि प्रोषिते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the father has gone abroad, is dead, or is overwhelmed by misfortune,  
+the debt must be paid by the sons and grandsons; if denied, [it must be] proved by witnesses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितरि प्रोषिते प्रेते  

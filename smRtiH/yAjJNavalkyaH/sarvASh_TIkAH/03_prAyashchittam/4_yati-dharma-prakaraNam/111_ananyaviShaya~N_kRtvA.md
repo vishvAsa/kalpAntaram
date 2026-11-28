@@ -1,6 +1,13 @@
 +++
 title = "111 अनन्यविषयङ् कृत्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having made the mind, intellect, memory, and senses free from other objects,  
+the Self which resides in the heart like a lamp, the Lord, is to be meditated upon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्य-विषयं कृत्वा  

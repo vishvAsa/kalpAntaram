@@ -1,6 +1,13 @@
 +++
 title = "271 विनायकः कर्मविघ्न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vināyaka was appointed by Rudra and Brahmā  
+to bring about obstacles to actions, and to hold leadership over the gaṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विनायकः कर्म-विघ्न-  

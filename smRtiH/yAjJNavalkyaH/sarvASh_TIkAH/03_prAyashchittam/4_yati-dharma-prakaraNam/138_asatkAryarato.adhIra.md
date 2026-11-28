@@ -1,6 +1,13 @@
 +++
 title = "138 असत्कार्यरतो ऽधीर"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Devoted to bad deeds, unsteady, undertaking bold enterprises, and sensual—  
+such a rājasa person, having died, attains birth among human beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असत्-कार्य-रतो ऽधीर  

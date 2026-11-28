@@ -1,6 +1,13 @@
 +++
 title = "072 उभयानुमतः साक्षी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even a single person, knowing duty, may be a witness if agreed to by both parties.  
+Anyone may be a witness in adultery, theft, verbal and physical assault, and heinous offences.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उभयानुमतः साक्षी  

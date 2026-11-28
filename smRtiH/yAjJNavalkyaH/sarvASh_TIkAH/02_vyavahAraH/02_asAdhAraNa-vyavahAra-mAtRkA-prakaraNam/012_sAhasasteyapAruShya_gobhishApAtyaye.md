@@ -1,6 +1,13 @@
 +++
 title = "012 साहसस्तेयपारुष्य गोभिशापात्यये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In cases of heinous offence, theft, assault, insult, emergency concerning a cow, and regarding a woman,  
+the trial must be held immediately; in other cases, a delay is prescribed according to desire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साहसस्तेयपारुष्य-  

@@ -1,6 +1,13 @@
 +++
 title = "176 पलाण्डुं विड्वराहञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having eaten onions, village pigs, mushrooms, village cocks,  
+garlic, or small wild turnips, he must perform a lunar penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पलाण्डुं विड्-वराहं च  

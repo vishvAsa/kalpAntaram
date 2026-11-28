@@ -1,6 +1,13 @@
 +++
 title = "241 अन्नम् आदाय"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking some food and asking: 'Are you satisfied?', and having received their assent for the remainder,  
+he should scatter that food on the ground and offer water once to each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नम् आदाय तृप्ताः स्थ  

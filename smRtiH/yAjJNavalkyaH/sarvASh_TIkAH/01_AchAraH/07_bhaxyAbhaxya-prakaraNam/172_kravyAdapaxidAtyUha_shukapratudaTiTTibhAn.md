@@ -1,6 +1,13 @@
 +++
 title = "172 क्रव्यादपक्षिदात्यूह शुकप्रतुदटिट्टिभान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carnivorous birds, the water-cock, parrot, woodpecker, lapwing,  
+crane, one-hoofed animals, geese, and all village-dwelling birds;
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रव्याद-पक्षि-दात्यूह-  

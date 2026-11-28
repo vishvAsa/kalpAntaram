@@ -1,6 +1,13 @@
 +++
 title = "181 यथ +आत्मानं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus has it been declared to you by me how the self creates itself,  
+even though it is the Lord, through the ripening of the three kinds of action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथ +आत्मानं सृजत्य् आत्मा  

@@ -1,6 +1,13 @@
 +++
 title = "166 अनन्ता रश्मयस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endless are the rays of him who dwells like a lamp in the heart:  
+white, black, variegated, tawny, dark blue, and red.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्ता रश्मयस् तस्य  

@@ -1,6 +1,13 @@
 +++
 title = "116 विद्याकर्मवयोबन्धु वित्तैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men are to be honoured in succession by knowledge, action, age, relatives, and wealth.  
+Even a Shudra, if endowed with these in abundance, deserves honour in old age.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विद्या-कर्म-वयो-बन्धु-  

@@ -1,6 +1,13 @@
 +++
 title = "288 पुष्पञ् चित्रं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Variegated and fragrant flowers, and liquor of three kinds as well,  
+radish, pūrikā cakes, and likewise garlands of oṇḍeraka cakes,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुष्पं चित्रं सु-गन्धं च  

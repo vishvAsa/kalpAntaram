@@ -1,6 +1,13 @@
 +++
 title = "258 अनिवेद्य नृपे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without reporting [it] to the king, he becomes purified by observing the vow of a liquor-drinker,  
+or he should give gold equal [in weight] to himself, or pleasing Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनिवेद्य नृपे शुध्येत्  

@@ -1,6 +1,13 @@
 +++
 title = "074 अधिविन्ना तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A superseded wife, however, must be maintained; otherwise there would be a great sin;  
+where there is harmony between husband and wife, there the threefold aim of life flourishes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधिविन्ना तु भर्तव्या  

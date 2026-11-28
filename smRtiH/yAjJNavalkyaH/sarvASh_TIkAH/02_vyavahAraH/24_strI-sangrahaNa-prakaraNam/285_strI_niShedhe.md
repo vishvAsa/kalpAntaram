@@ -1,6 +1,13 @@
 +++
 title = "285 स्त्री निषेधे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a woman, when warned, shall pay a fine of one hundred [paṇas], but a man two hundred;  
+if forbidden by both sides, the fine is the same as for adultery.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री निषेधे शतं दद्याद्  

@@ -1,6 +1,13 @@
 +++
 title = "149 विभागनिह्नवे ज्ञाति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When partition of inheritance is denied, the demonstration of partition is to be known  
+by means of agnates, cognates, witnesses, written documents, and separate houses and fields.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभाग-निह्नवे ज्ञाति-  

@@ -1,6 +1,13 @@
 +++
 title = "063 पिता पितामहो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father, grandfather, brother, a member of the same family, and the mother—  
+in the absence of the preceding one, the next in order, if sound of mind, is the giver of a maiden.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिता पितामहो भ्राता  

@@ -2,6 +2,12 @@
 title = "110 प्रतिसंवत्सरन् त्व्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Every year, a graduate, a preceptor, and a king are worthy of the guest-offering;  
+as well as a dear friend and a son-in-law; and sacrificial priests at every sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिसंवत्सरं त्व् अर्घ्याः  

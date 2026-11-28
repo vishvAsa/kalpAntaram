@@ -2,6 +2,12 @@
 title = "100 उपेयाद् ईश्वरञ्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should approach a ruler for the attainment of acquisition and preservation.  
+Having bathed, he should offer libations to the deities and ancestors, and likewise worship them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपेयाद् ईश्वरं चैव  

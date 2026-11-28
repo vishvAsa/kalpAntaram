@@ -1,6 +1,13 @@
 +++
 title = "040 लाक्षालवणमांसानि पतनीयानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lac, salt, and meat cause degradation when sold;  
+milk, curds, and intoxicating drink make one lower in class.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लाक्षा-लवण-मांसानि  

@@ -1,6 +1,13 @@
 +++
 title = "094 दत्त्वा र्णम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having paid the debt, he should tear up the document, or have another made for clearance;  
+or whatever was done with witnesses should be repaid before witnesses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा र्णं पाटयेल् लेख्यं  

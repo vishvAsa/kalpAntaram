@@ -1,6 +1,13 @@
 +++
 title = "191 अमेध्याक्तस्य मृत्तोयैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of what is smeared with impure matter is by earth and water, until smell and the rest are removed.  
+What is praised by speech, washed with water, and unknown [to be impure] is always pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अमेध्याक्तस्य मृत्-तोयैः  

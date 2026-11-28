@@ -1,6 +1,13 @@
 +++
 title = "153 अनृते तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If they testify falsely, they shall each be punished by the king with the middling fine for heinous offences;  
+in the absence of witnesses and marks, the king is the fixer of the boundary.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनृते तु पृथग् दण्ड्या  

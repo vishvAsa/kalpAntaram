@@ -1,6 +1,13 @@
 +++
 title = "049 प्रतिपन्नं स्त्रिया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman must pay what she agreed to pay, or what was incurred together with her husband,  
+or a debt contracted by herself; a woman is not obliged to pay any other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिपन्नं स्त्रिया देयं  

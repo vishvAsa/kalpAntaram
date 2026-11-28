@@ -1,6 +1,13 @@
 +++
 title = "186 निजधर्माविरोधेन यस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Moreover, a convention that does not conflict with one's own duty  
+should also be preserved with diligence, as well as the duty enacted by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निज-धर्माविरोधेन  

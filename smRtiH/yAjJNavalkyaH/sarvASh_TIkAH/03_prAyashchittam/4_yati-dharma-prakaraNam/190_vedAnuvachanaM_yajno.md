@@ -1,6 +1,13 @@
 +++
 title = "190 वेदानुवचनं यज्ञो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the recitation of the Veda, sacrifice, celibate studenthood, austerity, self-control,  
+faith, fasting, and mastery over oneself are the means of knowing the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदानुवचनं यज्ञो  

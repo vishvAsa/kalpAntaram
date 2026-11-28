@@ -1,6 +1,13 @@
 +++
 title = "189 यतो वेदाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From whom [originate] the Vedas, the Purāṇas, the sciences and the Upaniṣads,  
+verses, aphorisms, commentaries, and whatever speech exists—
+</details>
+
 <details><summary>मूलम्</summary>
 
 यतो वेदाः पुराणानि  

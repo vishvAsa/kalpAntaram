@@ -1,6 +1,13 @@
 +++
 title = "229 निषिद्धभक्षणञ् जैह्म्यम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eating forbidden food, crookedness, false speech in asserting superiority,  
+and tasting the mouth of a menstruating woman are equal to drinking liquor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निषिद्ध-भक्षणं जैह्म्यम्  

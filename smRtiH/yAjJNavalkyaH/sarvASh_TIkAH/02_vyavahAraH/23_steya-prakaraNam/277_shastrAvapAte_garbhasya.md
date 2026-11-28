@@ -1,6 +1,13 @@
 +++
 title = "277 शस्त्रावपाते गर्भस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For striking with a weapon, and for causing an abortion, the highest fine [is imposed];  
+and the highest or lowest [fine] in the case of killing a man or a woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शस्त्रावपाते गर्भस्य  

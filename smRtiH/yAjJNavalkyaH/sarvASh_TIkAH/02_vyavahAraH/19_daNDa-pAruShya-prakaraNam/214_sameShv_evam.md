@@ -1,6 +1,13 @@
 +++
 title = "214 समेष्व् एवम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This applies to equals; it is doubled for other men's wives and superiors;  
+for inferiors, half the fine; there is no fine for actions caused by delusion, intoxication, or the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समेष्व् एवं पर-स्त्रीषु  

@@ -1,6 +1,13 @@
 +++
 title = "241 अकूटङ् कूटकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever calls a genuine coin counterfeit, or a counterfeit coin genuine,  
+that coin examiner is to be made to pay the highest fine for heinous offences.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अकूटं कूटकं ब्रूते  

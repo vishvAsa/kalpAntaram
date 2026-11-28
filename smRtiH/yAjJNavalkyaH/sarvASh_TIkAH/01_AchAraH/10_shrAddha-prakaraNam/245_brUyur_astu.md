@@ -1,6 +1,13 @@
 +++
 title = "245 ब्रूयुर् अस्तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They should say: 'Let there be svadhā.' When this is spoken, he should then sprinkle water on the ground;  
+and when the Brahmins say: 'May the Viśve Devas be pleased!', he should chant this:
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रूयुर् अस्तु स्वधेत्य् उक्ते  

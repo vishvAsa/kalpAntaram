@@ -1,6 +1,13 @@
 +++
 title = "362 जालसूर्यमरीचिस्थं त्रसरेणू"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The floating speck of dust seen in a ray of sunlight coming through a lattice is considered a dust-particle;  
+eight of them are a louse-egg; three of those are said to be a black mustard seed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जाल-सूर्य-मरीचिस्थं  

@@ -1,6 +1,13 @@
 +++
 title = "107 श्लेष्मौजसस् तावद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the same amount of phlegm-vitality, and the same amount of semen.  
+Such is this unstable body, for the liberation of which he acts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्लेष्मौजसस् तावद् एव  

@@ -1,6 +1,13 @@
 +++
 title = "073 सुरापी व्याधिता"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who drinks liquor, is diseased, cunning, barren, destructive of property, sharp-tongued,  
+bearing only female children, or hostile to men, may be superseded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुरापी व्याधिता धूर्ता  

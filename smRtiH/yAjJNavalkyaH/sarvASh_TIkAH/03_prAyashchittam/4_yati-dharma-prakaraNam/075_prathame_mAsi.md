@@ -1,6 +1,13 @@
 +++
 title = "075 प्रथमे मासि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the first month it is liquefied, compounded of the elements;  
+in the second month it is a lump; and in the third it is endowed with limbs and senses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रथमे मासि सङ्क्लेद-  

@@ -1,6 +1,13 @@
 +++
 title = "058 आधिः प्रणश्येद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pledge is lost when the money has doubled, if it is not redeemed.  
+A pledge for a fixed time is lost at that time; a pledge to be enjoyed through its produce is not lost.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधिः प्रणश्येद् द्वि-गुणे  

@@ -1,6 +1,13 @@
 +++
 title = "228 गुरूणाम् अध्यधिक्षेपो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Excessive reviling of gurus, censure of the Veda, slaying a friend,  
+and destruction of what has been studied are to be known as equal to slaying a Brahmin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरूणाम् अध्यधिक्षेपो  

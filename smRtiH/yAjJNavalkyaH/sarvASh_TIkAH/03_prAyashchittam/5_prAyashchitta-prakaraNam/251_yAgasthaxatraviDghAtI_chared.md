@@ -2,6 +2,12 @@
 title = "251 यागस्थक्षत्रविड्घाती चरेद्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who slays a Kshatriya or a Vaishya engaged in a sacrifice should perform the vow for slaying a Brahmin;  
+also one who slays an embryo according to the social class, and likewise a slayer of a woman who has bathed after her courses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यागस्थ-क्षत्र-विड्-घाती  

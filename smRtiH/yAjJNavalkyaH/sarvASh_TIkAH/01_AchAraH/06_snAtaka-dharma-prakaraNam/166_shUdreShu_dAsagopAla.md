@@ -1,6 +1,13 @@
 +++
 title = "166 शूद्रेषु दासगोपाल"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among Shudras, a servant, a cowherd, a family friend, a sharecropper,  
+and a barber are those whose food may be eaten, as well as one who surrenders himself [as a dependent].
+</details>
+
 <details><summary>मूलम्</summary>
 
 शूद्रेषु दास-गो-पाल-  

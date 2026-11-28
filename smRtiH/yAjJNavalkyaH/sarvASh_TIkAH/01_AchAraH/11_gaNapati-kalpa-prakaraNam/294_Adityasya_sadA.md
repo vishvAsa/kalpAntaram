@@ -1,6 +1,13 @@
 +++
 title = "294 आदित्यस्य सदा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Always performing worship of the Sun, and an auspicious forehead-mark, and [worship] of the Lord,  
+and of Mahāgaṇapati, one would attain success.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदित्यस्य सदा पूजां  

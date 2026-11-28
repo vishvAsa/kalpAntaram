@@ -2,6 +2,12 @@
 title = "170 सन्धिन्य्अनिर्दशावत्सा गोपयः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid the milk of a cow in heat, a cow within ten days of calving, or one without a calf;  
+as also the milk of camels, one-hoofed animals, women, wild animals, and sheep;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्धिन्य्-अनिर्दशा-वत्सा-  

@@ -1,6 +1,13 @@
 +++
 title = "170 वेदैः शास्त्रैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the Vedas, the treatises along with higher knowledge, through birth and death,  
+through distress, departure, and return, through truth and falsehood,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदैः शास्त्रैः स-विज्ञानैर्  

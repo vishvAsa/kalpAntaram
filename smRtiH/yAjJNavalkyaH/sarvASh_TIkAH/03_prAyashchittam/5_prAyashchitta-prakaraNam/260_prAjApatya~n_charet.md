@@ -1,6 +1,13 @@
 +++
 title = "260 प्राजापत्यञ् चरेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, one who violates the guru's bed should observe a Prājāpatya penance for a year,  
+or a lunar penance for three months, [and] practice the Vedic Saṃhitā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राजापत्यं चरेत् कृच्छ्रं  

@@ -1,6 +1,13 @@
 +++
 title = "253 पण्यस्योपरि संस्थाप्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Adding to the commodity the expenses arising from the commodity,  
+a price should be fixed that is favourable to both the buyer and the seller.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पण्यस्योपरि संस्थाप्य  

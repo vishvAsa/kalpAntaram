@@ -1,6 +1,13 @@
 +++
 title = "367 धिग्दण्डस् त्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reprimand, verbal censure, monetary fine, and capital punishment:  
+these are to be employed separately or together according to the offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धिग्-दण्डस् त्व् अथ वाग्-दण्डो  

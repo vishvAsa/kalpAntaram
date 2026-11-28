@@ -1,6 +1,13 @@
 +++
 title = "300 विख्यातदोषः कुर्वीत"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One whose fault is widely known should perform a vow approved by the assembly;  
+but one whose fault is unknown should observe a secret vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विख्यात-दोषः कुर्वीत  

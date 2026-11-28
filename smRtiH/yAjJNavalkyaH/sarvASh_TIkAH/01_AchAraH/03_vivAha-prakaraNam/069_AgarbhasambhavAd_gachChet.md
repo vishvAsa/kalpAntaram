@@ -2,6 +2,12 @@
 title = "069 आगर्भसम्भवाद् गच्छेत्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He may approach her until conception occurs; otherwise he would become fallen;  
+the son born according to this rule becomes his 'soil-born' son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-गर्भ-सम्भवाद् गच्छेत्  

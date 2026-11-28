@@ -1,6 +1,13 @@
 +++
 title = "112 यथाविधानेन पठन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reciting the chanting of the Sāman according to rule without mistake,  
+attentive, through that practice he attains the supreme Brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-विधानेन पठन्  

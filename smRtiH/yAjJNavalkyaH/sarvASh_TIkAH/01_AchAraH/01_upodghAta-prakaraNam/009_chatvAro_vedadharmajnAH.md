@@ -1,6 +1,13 @@
 +++
 title = "009 चत्वारो वेदधर्मज्ञाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Four persons who know the Veda and duty, or an assembly of those learned in the three Vedas—  
+whatever they declare shall be duty, or what is declared by a single person most knowledgeable in the Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चत्वारो वेद-धर्मज्ञाः  

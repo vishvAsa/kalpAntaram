@@ -1,6 +1,13 @@
 +++
 title = "026 ततो ऽभिवादयेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should salute the elders, saying, “I am so-and-so,”  
+and attend upon his guru with focused mind for the recitation of the Veda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो ऽभिवादयेद् वृद्धान्  

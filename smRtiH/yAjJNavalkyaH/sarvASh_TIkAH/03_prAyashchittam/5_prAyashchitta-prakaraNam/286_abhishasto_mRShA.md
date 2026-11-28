@@ -1,6 +1,13 @@
 +++
 title = "286 अभिशस्तो मृषा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who is falsely accused should perform a penitential hardship, or  
+offer a sacrificial cake to Agni, or an animal victim to Vāyu.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिशस्तो मृषा कृच्छ्रं  

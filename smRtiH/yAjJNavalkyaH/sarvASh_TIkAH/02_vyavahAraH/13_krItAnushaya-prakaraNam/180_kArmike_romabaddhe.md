@@ -1,6 +1,13 @@
 +++
 title = "180 कार्मिके रोमबद्धे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In embroidered cloth and in fabrics woven with hair, a loss of one-thirtieth part is considered normal;  
+there is neither loss nor increase in silk and bark-cloth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कार्मिके रोम-बद्धे च  

@@ -1,6 +1,13 @@
 +++
 title = "257 अन्यहस्ते च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one sells it to another person, or sells a defective good  
+as if it were non-defective, the fine in that case shall be double the price.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्य-हस्ते च विक्रीय  

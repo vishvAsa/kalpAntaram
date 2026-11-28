@@ -1,6 +1,13 @@
 +++
 title = "171 आगमेनोपभोगेन नष्टम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lost property must be proved by title and by possession; otherwise,  
+a fine of one-fifth belongs to the king for him who fails to prove it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमेनोपभोगेन  

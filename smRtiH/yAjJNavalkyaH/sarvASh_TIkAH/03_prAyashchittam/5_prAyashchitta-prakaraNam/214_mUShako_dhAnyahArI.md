@@ -1,6 +1,13 @@
 +++
 title = "214 मूषको धान्यहारी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A stealer of grain becomes a mouse; of a vehicle, a camel; [of] fruit, a monkey;  
+[of] water, a diving bird; [of] milk, a crow; and [of] household furnishings, a wasp.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मूषको धान्य-हारी स्याद्  

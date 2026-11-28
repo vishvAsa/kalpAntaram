@@ -2,6 +2,12 @@
 title = "278 यन् मे"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the two [mantras beginning with] 'Whatever semen of mine today', he should consecrate the spilled semen;  
+with that [semen], he should touch the space between his breasts and the space between his eyebrows using the ring finger.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यन् मे ऽद्य रेत इत्य्-आभ्यां  

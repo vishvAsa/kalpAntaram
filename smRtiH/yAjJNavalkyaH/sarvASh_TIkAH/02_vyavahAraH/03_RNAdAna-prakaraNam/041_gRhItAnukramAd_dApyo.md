@@ -1,6 +1,13 @@
 +++
 title = "041 गृहीतानुक्रमाद् दाप्यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debtor must be made to pay his creditors in the order the debts were contracted,  
+but only after paying a Brahmin, and immediately after that the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीतानुक्रमाद् दाप्यो  

@@ -1,6 +1,13 @@
 +++
 title = "084 यः कश्चिद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever transaction has been agreed upon mutually by their own consent,  
+a document attested by witnesses should be made regarding it, beginning with the creditor's [name],
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः कश्चिद् अर्थो निष्णातः  

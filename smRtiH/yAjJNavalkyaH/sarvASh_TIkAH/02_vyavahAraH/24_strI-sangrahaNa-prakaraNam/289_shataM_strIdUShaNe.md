@@ -1,6 +1,13 @@
 +++
 title = "289 शतं स्त्रीदूषणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One shall pay one hundred for defaming a woman, but two hundred for a false accusation.  
+Having intercourse with beasts, one is made to pay one hundred; with a degraded woman and a cow, the middling fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शतं स्त्री-दूषणे दद्याद्  

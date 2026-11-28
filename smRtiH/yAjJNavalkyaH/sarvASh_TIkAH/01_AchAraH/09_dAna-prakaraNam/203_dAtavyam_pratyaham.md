@@ -1,6 +1,13 @@
 +++
 title = "203 दातव्यम् प्रत्यहम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A gift should be given daily to a worthy recipient, especially on [auspicious] occasions;  
+it should be given according to one's ability, purified by faith, even to one who asks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दातव्यं प्रत्यहं पात्रे  

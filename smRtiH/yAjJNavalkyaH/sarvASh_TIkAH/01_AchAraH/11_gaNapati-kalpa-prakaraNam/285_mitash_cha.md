@@ -1,6 +1,13 @@
 +++
 title = "285 मितश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the names ‘Mita’, ‘Sammita’, and likewise ‘Śālakaṭaṅkaṭa’,  
+and ‘Kūśmāṇḍarājaputra’, accompanied at the end by ‘svāhā’.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मितश् च सम्मितश् चैव  

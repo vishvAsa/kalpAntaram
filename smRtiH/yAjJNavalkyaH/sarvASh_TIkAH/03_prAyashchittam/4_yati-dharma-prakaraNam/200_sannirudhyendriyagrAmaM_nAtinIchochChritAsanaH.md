@@ -1,6 +1,13 @@
 +++
 title = "200 सन्निरुध्येन्द्रियग्रामं नातिनीचोच्छ्रितासनः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having restrained the collection of senses, seated on a seat neither too low nor too high,  
+he should undertake breath control doubled or tripled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्निरुध्येन्द्रिय-ग्रामं  

@@ -1,6 +1,13 @@
 +++
 title = "093 ब्राह्मण्याङ् क्षत्रियात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Kshatriya on a Brahmin woman is born a Sūta, and likewise from a Vaishya, a Vaidehaka;  
+but born from a Shudra is a Caṇḍāla, excluded from all duties.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मण्यां क्षत्रियात् सूतो  

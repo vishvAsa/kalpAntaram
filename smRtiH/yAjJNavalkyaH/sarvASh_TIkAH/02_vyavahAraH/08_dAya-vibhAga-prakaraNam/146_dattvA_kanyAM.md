@@ -1,6 +1,13 @@
 +++
 title = "146 दत्त्वा कन्यां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who takes back a maiden after having given her shall be fined, and must repay the expenditure with interest;  
+if she dies, he may take back what was given, deducting the expenditure on both sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा कन्यां हरन् दण्ड्यो  

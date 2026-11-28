@@ -1,6 +1,13 @@
 +++
 title = "069 निमित्तम् अक्षरः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The instrumental cause, imperishable, the agent, the knower, possessing qualities, self-controlled,  
+unborn—it is spoken of as 'born' only from its taking up of a body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निमित्तम् अक्षरः  

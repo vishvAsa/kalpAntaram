@@ -1,6 +1,13 @@
 +++
 title = "035 इतरेण निधौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a treasure trove is found by any other person, the king shall take a sixth share;  
+if it is discovered without having been reported, he shall also make him pay a fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इतरेण निधौ लब्धे  

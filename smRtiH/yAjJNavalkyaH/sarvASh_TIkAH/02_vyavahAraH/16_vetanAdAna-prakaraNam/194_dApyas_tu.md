@@ -1,6 +1,13 @@
 +++
 title = "194 दाप्यस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has work done without fixing the wages, however,  
+should be made by the ruler of the earth to pay a tenth share of the trade, livestock, or grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाप्यस् तु दशमं भागं  

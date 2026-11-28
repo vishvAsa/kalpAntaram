@@ -1,6 +1,13 @@
 +++
 title = "270 मार्जारगोधानकुल मण्डूकांश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed a cat, an alligator, a mongoose, frogs, or birds,  
+one should drink milk for three days, or perform a quarter-kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मार्जार-गोधा-नकुल-  

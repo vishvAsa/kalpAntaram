@@ -1,6 +1,13 @@
 +++
 title = "155 मर्यादायाः प्रभेदे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For breaking a landmark, for trespassing beyond a boundary,  
+and for seizing a field, the fines are lowest, highest, and middling [respectively].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मर्यादायाः प्रभेदे च  

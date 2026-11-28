@@ -1,6 +1,13 @@
 +++
 title = "141 मलिनो हि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as a tarnished mirror is not capable of reflecting an image,  
+so the [mind whose] faculties are unripened is not capable of knowledge of the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मलिनो हि यथा आदर्शो  

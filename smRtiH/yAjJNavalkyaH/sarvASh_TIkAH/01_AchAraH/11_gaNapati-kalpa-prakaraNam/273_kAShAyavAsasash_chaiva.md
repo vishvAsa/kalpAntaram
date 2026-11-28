@@ -1,6 +1,13 @@
 +++
 title = "273 काषायवाससश् चैव"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he sees people wearing ochre robes, and mounts carnivorous animals;  
+he stands together in one place with outcasts, donkeys, and camels;
+</details>
+
 <details><summary>मूलम्</summary>
 
 काषाय-वाससश् चैव  

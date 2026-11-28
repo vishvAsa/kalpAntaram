@@ -1,6 +1,13 @@
 +++
 title = "039 सन्ततिस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The maximum return on female animals is their offspring; on fluids, eightfold;  
+on garments, grains, and gold, the maximum is fourfold, threefold, and twofold respectively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ततिस् तु पशु-स्त्रीणां  

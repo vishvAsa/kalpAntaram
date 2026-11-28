@@ -1,6 +1,13 @@
 +++
 title = "207 मृगाश्व[?]सूकरोष्ट्राणां ब्रह्महा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The killer of a Brahmin enters the womb of a deer, horse, boar, or camel;  
+a drinker of liquor [enters the womb] of a donkey, a Pulkasa, or a Vena, without doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृगाश्व[?]-सूकरोष्ट्राणां  

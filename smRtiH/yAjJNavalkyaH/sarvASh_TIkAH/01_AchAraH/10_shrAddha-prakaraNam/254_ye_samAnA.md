@@ -1,6 +1,13 @@
 +++
 title = "254 ये समाना"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with the two verses beginning with 'ye samānāḥ', and perform the rest as before.  
+This is the rite of union through ancestral cakes; a single-ancestor rite is also performed for a woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये समाना इति द्वाभ्यां  

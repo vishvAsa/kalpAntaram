@@ -1,6 +1,13 @@
 +++
 title = "308 ग्रहाधीना नरेन्द्राणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Subject to the planets are the rises and falls of kings  
+and the existence and non-existence of the world; therefore, the planets are most worthy of worship.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रहाधीना नरेन्द्राणाम्  

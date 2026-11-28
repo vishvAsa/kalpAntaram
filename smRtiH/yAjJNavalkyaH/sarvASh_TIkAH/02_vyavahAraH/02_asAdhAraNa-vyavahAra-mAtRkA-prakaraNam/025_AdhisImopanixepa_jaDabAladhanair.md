@@ -1,6 +1,13 @@
 +++
 title = "025 आधिसीमोपनिक्षेप जडबालधनैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Excepting pledges, boundaries, open deposits, the property of idiots and minors,  
+as well as sealed deposits, and the property of the king, women, and learned Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधिसीमोपनिक्षेप-  

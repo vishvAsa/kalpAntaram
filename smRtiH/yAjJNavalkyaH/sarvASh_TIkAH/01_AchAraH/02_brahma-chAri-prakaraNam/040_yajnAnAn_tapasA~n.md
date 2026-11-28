@@ -1,6 +1,13 @@
 +++
 title = "040 यज्ञानान् तपसाञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among sacrifices, austerities, and auspicious deeds,  
+the Veda alone is the supreme bringer of the highest good for the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञानां तपसां चैव  

@@ -1,6 +1,13 @@
 +++
 title = "113 अतिथिं श्रोत्रियन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should accompany a satisfied guest who is a learned Brahmin to the boundary [of the village];  
+he should spend the remainder of the day with learned men, cherished companions, and relatives.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतिथिं श्रोत्रियं तृप्तम्  

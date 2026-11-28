@@ -1,6 +1,13 @@
 +++
 title = "089 विना ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A document written in one's own hand, even without witnesses,  
+is traditionally regarded as valid evidence, except when made by force or fraud.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विना ऽपि साक्षिभिर् लेख्यं  

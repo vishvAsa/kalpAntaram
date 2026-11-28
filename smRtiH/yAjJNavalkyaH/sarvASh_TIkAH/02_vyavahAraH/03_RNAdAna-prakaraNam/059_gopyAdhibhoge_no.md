@@ -1,6 +1,13 @@
 +++
 title = "059 गोप्याधिभोगे नो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no interest if a pledge to be kept is used, or if a beneficial pledge is impaired;  
+if lost or ruined, it must be replaced, except [when caused] by an act of God or the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोप्याधिभोगे नो वृद्धिः  

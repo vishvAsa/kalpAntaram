@@ -1,6 +1,13 @@
 +++
 title = "182 सत्त्वं रजस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purity, passion, and darkness are celebrated as its very qualities;  
+enveloped by passion and darkness, it is indeed whirled around like a wheel.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्त्वं रजस् तमश् चैव  

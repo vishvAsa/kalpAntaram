@@ -1,6 +1,13 @@
 +++
 title = "308 शुक्रियारण्यकजपो गायत्र्याश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The muttering of the Śukriya hymns, the Āraṇyaka, and especially the Gāyatrī,  
+and likewise the eleven Rudras—for these remove all sins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुक्रियारण्यक-जपो  

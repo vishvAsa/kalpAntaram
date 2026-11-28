@@ -1,6 +1,13 @@
 +++
 title = "044 तस्य वृत्तङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ascertained his conduct, family, character, learning, recitation, austerity,  
+and household, the king should assign him a righteous livelihood.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य वृत्तं कुलं शीलं  

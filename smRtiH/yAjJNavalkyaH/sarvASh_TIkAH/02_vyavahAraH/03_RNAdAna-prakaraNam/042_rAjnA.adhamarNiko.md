@@ -1,6 +1,13 @@
 +++
 title = "042 राज्ञा ऽधमर्णिको"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debtor shall be made by the king to pay ten percent of the recovered debt,  
+and a creditor who has received his money shall be made to pay five percent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञा ऽधमर्णिको दाप्यः  

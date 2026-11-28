@@ -1,6 +1,13 @@
 +++
 title = "118 कथम् एतद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“How is this? We are bewildered. Tell us how the world,  
+with gods, asuras, and humans, arose, and how the self is within it.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 कथम् एतद् विमुह्यामः  

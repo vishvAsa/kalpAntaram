@@ -2,6 +2,12 @@
 title = "135 पत्नी दुहितरश्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wife, the daughters also, the parents, and the brothers,  
+their sons, those born of the gotra, relatives, disciples, and fellow students—
+</details>
+
 <details><summary>मूलम्</summary>
 
 पत्नी दुहितरश् चैव  

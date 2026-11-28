@@ -1,6 +1,13 @@
 +++
 title = "202 अन्तर्धानं स्मृतिः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Invisibility, memory, beauty, clairvoyance, clairaudience,  
+abandoning one's own body and entering another's body,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तर्धानं स्मृतिः कान्तिर्  

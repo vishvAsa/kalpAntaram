@@ -2,6 +2,12 @@
 title = "226 प्रायश्चित्तैर् अपैत्य्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Guilt that was committed through ignorance departs through penances;  
+but [when done] intentionally, one becomes fit to associate with in this world only by scriptural declaration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रायश्चित्तैर् अपैत्य् एनो  

@@ -1,6 +1,13 @@
 +++
 title = "015 उपनीय गुरुः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having initiated the student, the guru, preceded by the great sacred utterances,  
+should teach him the Veda and instruct him in purification and proper conduct.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपनीय गुरुः शिष्यं  

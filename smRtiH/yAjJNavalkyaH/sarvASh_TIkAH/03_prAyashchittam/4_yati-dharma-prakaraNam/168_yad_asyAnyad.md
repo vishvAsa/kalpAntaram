@@ -1,6 +1,13 @@
 +++
 title = "168 यद् अस्यान्यद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the hundred other rays of his that are also directed upwards,  
+one attains the bodies of gods along with their celestial abodes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् अस्यान्यद् रश्मि-शतम्  

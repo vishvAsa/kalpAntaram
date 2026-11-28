@@ -1,6 +1,13 @@
 +++
 title = "266 ग्राहकैर् गृह्यते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A thief is caught by captors by means of the stolen goods or footprints,  
+or by previous criminal history, and likewise by questionable lodging.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्राहकैर् गृह्यते चौरो  

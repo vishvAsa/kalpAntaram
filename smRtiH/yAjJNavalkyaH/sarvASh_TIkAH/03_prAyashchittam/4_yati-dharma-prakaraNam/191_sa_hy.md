@@ -1,6 +1,13 @@
 +++
 title = "191 स ह्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should indeed be sought after in this very manner by all the stages of life;  
+and he must be seen, contemplated, and heard of by the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स ह्य् आश्रमैर् विजिज्ञास्यः  

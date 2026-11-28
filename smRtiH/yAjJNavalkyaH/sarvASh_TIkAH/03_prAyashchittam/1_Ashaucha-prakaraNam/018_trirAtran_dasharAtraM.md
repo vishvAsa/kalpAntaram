@@ -1,6 +1,13 @@
 +++
 title = "018 त्रिरात्रन् दशरात्रं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Death impurity is prescribed for three nights or ten nights.  
+For a child under two years old, [impurity applies] to both parents; birth impurity, however, is for the mother alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रं दश-रात्रं वा  

@@ -1,6 +1,13 @@
 +++
 title = "148 अधिविन्नस्त्रियै दद्याद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He must give an equal compensation for a superseded wife to the superseded woman,  
+if no woman's separate property has been given to her; but if it has been given, he should assign half.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधिविन्न-स्त्रियै दद्याद्  

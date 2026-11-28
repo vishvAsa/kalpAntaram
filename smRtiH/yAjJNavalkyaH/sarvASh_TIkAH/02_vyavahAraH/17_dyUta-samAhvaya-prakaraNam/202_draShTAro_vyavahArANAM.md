@@ -1,6 +1,13 @@
 +++
 title = "202 द्रष्टारो व्यवहाराणां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those very people are the judges of disputes and the witnesses;  
+those who play with false dice or deceit should be branded and banished by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्रष्टारो व्यवहाराणां  

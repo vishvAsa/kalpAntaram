@@ -1,6 +1,13 @@
 +++
 title = "321 पिण्याकाचामतक्राम्बु सक्तूनाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Subsisting on] oil-cake, scum of boiled rice, buttermilk, water, and barley-meal, each on a day,  
+and a fast for one night, this is called the Saumya kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिण्याकाचाम-तक्राम्बु-  

@@ -2,6 +2,12 @@
 title = "139 निद्रालुः क्रूरकृल्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sleepy, cruel, greedy, atheistic, and a beggar,  
+negligent and of broken conduct—such a tāmasa person is born among animals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निद्रालुः क्रूर-कृल् लुब्धो  

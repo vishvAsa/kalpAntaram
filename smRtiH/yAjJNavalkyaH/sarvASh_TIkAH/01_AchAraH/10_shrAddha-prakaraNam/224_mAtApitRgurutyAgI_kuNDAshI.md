@@ -1,6 +1,13 @@
 +++
 title = "224 मातापितृगुरुत्यागी कुण्डाशी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+one who has abandoned mother, father, or guru, an eater of food given by a Kuṇḍa, the son of a Shudra woman,  
+the husband of a woman married before, a thief, and those depraved in action are condemned.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माता-पितृ-गुरु-त्यागी  

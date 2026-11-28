@@ -1,6 +1,13 @@
 +++
 title = "209 अशक्तस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One incapable [of harm] who speaks thus should be fined ten paṇas;  
+likewise, one who is capable must be made to furnish a surety for the other's safety.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अशक्तस् तु वदन्न् एवं  

@@ -1,6 +1,13 @@
 +++
 title = "199 ग्लहे शतिकवृद्धेस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In gambling, from an increment of a hundred, the keeper of the gaming-house  
+may take five per cent from an experienced gambler, and ten per cent from any other.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्लहे शतिक-वृद्धेस् तु  

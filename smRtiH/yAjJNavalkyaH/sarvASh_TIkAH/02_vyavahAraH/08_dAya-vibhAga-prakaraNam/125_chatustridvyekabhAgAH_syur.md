@@ -1,6 +1,13 @@
 +++
 title = "125 चतुस्त्रिद्व्य्एकभागाः स्युर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sons of a Brahmin take four, three, two, or one share according to social class;  
+sons of a Kshatriya take three, two, or one share; and sons of a Vaishya take two or one share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतुस्-त्रि-द्व्य्-एक-भागाः स्युर्  

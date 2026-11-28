@@ -1,6 +1,13 @@
 +++
 title = "303 मृताङ्गलग्नविक्रेतुर् गुरोस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For a seller of clothes taken from the limbs of a corpse, for a striker of a guru,  
+and for an mounter of the king's carriage or throne, the fine is the highest heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृताङ्ग-लग्न-विक्रेतुर्  

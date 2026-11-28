@@ -1,6 +1,13 @@
 +++
 title = "267 धनं वेदान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+wealth, the Vedas, success in medicine, base metals, cattle, goats, sheep,  
+horses, and long life—whoever offers the ancestral rite according to rule,
+</details>
+
 <details><summary>मूलम्</summary>
 
 धनं वेदान् भिषक्-सिद्धिं  

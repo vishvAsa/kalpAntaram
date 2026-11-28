@@ -1,6 +1,13 @@
 +++
 title = "269 वसुरुद्रादितिसुताः पितरः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ancestors are the Vasus, the Rudras, and the sons of Aditi; they are the deities of the ancestral rite;  
+satisfied by the ancestral rite, they bring gratification to the ancestors of human beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसु-रुद्रादिति-सुताः  

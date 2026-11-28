@@ -1,6 +1,13 @@
 +++
 title = "098 तुला स्त्रीबालवृद्धान्ध"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The balance is for women, children, the aged, the blind, the lame, Brahmins, and the sick;  
+fire or water for a Shudra, or seven barley-grains of poison.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला स्त्री-बाल-वृद्धान्ध-  

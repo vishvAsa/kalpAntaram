@@ -1,6 +1,13 @@
 +++
 title = "346 उपायाः साम"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Conciliation, gift, division, and force are the expedients;  
+properly applied, they succeed, but force is the recourse when there is no recourse.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपायाः साम दानं च  

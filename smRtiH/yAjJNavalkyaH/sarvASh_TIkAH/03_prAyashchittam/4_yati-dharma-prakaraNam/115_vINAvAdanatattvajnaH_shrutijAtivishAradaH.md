@@ -1,6 +1,13 @@
 +++
 title = "115 वीणावादनतत्त्वज्ञः श्रुतिजातिविशारदः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+one who knows the truth of lute-playing, is skilled in microtones and melodic types,  
+and knows rhythm, enters upon the path to liberation without effort.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वीणा-वादन-तत्त्वज्ञः  

@@ -1,6 +1,13 @@
 +++
 title = "281 भैक्षाग्निकार्ये त्यक्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having omitted the collection of alms and the fire rite for seven nights while not ill,  
+he should offer two oblations with the two [mantras beginning with] 'He who has violated his vow out of desire'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भैक्षाग्नि-कार्ये त्यक्त्वा तु  

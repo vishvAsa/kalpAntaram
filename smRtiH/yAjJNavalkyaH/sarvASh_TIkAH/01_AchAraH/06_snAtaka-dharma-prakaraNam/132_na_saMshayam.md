@@ -1,6 +1,13 @@
 +++
 title = "132 न संशयम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not enter into danger; he should not utter an unpleasant word without cause;  
+nor what is harmful, nor what is untrue; he should not be a thief, nor a usurer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न संशयं प्रपद्येत  

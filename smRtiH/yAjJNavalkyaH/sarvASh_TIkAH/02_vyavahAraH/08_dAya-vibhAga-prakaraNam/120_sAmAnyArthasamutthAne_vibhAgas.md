@@ -1,6 +1,13 @@
 +++
 title = "120 सामान्यार्थसमुत्थाने विभागस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of recovery through common wealth, however, partition of inheritance is declared equal.  
+But for sons of different fathers, the apportionment of shares is according to the father.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामान्यार्थ-समुत्थाने  

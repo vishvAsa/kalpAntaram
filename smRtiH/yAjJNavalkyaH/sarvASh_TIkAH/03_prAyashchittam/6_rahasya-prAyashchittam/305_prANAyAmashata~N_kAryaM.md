@@ -1,6 +1,13 @@
 +++
 title = "305 प्राणायामशतङ् कार्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A hundred breath controls are to be performed for the removal of all sins,  
+of classes of minor sins, and also of any unspecified sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणायाम-शतं कार्यं  

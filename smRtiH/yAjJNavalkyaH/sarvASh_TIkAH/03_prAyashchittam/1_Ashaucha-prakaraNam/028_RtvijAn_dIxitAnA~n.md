@@ -2,6 +2,12 @@
 title = "028 ऋत्विजान् दीक्षितानाञ्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nor for sacrificial priests and initiated persons performing sacrificial rites;  
+likewise for those engaged in a sacrificial session, vow-holders, chaste students, donors, and knowers of Brahman;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋत्विजां दीक्षितानां च  

@@ -1,6 +1,13 @@
 +++
 title = "043 हीनजातिम् परिक्षीणम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One of lower caste who is destitute may be made to do labour to pay off a debt;  
+a destitute Brahmin, however, should be made to pay gradually as he acquires means.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हीन-जातिं परिक्षीणम्  

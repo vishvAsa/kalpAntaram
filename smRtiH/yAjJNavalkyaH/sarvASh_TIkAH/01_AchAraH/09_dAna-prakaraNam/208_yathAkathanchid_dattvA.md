@@ -1,6 +1,13 @@
 +++
 title = "208 यथाकथञ्चिद् दत्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a cow in any manner whatsoever, whether a milch-cow or not a milch-cow,  
+provided she is free from disease and not distressed, the giver is magnified in heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चिद् दत्त्वा गां  

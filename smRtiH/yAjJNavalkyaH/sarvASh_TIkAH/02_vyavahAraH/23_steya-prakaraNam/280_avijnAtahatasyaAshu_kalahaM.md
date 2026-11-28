@@ -1,6 +1,13 @@
 +++
 title = "280 अविज्ञातहतस्य+आशु कलहं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a man has been killed by unknown persons, his sons and kinsmen must be questioned swiftly about any quarrel,  
+and his womenfolk separately, regarding their attachment to another man;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविज्ञात-हतस्य+आशु  

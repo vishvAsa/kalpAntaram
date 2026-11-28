@@ -1,6 +1,13 @@
 +++
 title = "135 नेक्षेतार्कन् न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not look at the [eclipsed] sun, nor at a naked woman, nor at one engaged in sexual intercourse,  
+nor at urine or feces, nor, being impure, at Rāhu or the stars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नेक्षेतार्कं न नग्नां स्त्रीं  

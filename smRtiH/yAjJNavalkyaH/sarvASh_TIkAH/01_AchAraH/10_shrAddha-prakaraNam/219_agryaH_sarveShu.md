@@ -1,6 +1,13 @@
 +++
 title = "219 अग्र्यः सर्वेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Foremost in all the Vedas, a learned Brahmin, a knower of Brahman, a youth,  
+a knower of the meaning of the Veda, a singer of the Jyeṣṭhasāman, a Trimadhu, a Trisuparṇa,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्र्यः सर्वेषु वेदेषु  

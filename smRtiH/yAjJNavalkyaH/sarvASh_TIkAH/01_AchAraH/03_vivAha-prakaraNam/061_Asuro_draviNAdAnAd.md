@@ -1,6 +1,13 @@
 +++
 title = "061 आसुरो द्रविणादानाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Āsura is from the acceptance of wealth; the Gāndharva from mutual agreement;  
+the Rākṣasa from abduction in war; the Paiśāca from deceit practised on the maiden.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आसुरो द्रविणादानाद्  

@@ -1,6 +1,13 @@
 +++
 title = "326 तवाहंवादिनङ् क्लीबं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not strike one who says 'I am yours', a eunuch, one disarmed, one engaged with another,  
+one who has turned back, a spectator of the battle, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तवाहं-वादिनं क्लीबं  

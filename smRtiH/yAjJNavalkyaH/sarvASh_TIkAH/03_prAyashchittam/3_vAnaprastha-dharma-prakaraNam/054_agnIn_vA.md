@@ -1,6 +1,13 @@
 +++
 title = "054 अग्नीन् वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, having interiorized the fires, dwelling at the foot of trees, eating moderately,  
+he should beg alms for subsistence solely from the houses of forest-dwellers;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नीन् वा ऽप्य् आत्मसात्-कृत्वा  

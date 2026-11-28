@@ -1,6 +1,13 @@
 +++
 title = "131 क्रीतश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The bought son is sold by them; the made son is one made by oneself;  
+the self-given son is one who gave himself; and the son taken with the bride is one conceived in the womb.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीतश् च ताभ्यां विक्रीतः  

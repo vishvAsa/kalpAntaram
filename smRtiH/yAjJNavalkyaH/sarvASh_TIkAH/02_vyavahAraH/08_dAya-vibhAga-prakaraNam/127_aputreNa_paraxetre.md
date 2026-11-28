@@ -1,6 +1,13 @@
 +++
 title = "127 अपुत्रेण परक्षेत्रे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son begotten by authorization on another's wife by a sonless man  
+is an heir and an offerer of the funeral cake to both according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रेण पर-क्षेत्रे  

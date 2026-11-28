@@ -1,6 +1,13 @@
 +++
 title = "291 गुरुं हुङ्कृत्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Addressing a guru with 'hum' or 'thou', or having conquered a Brahmin in debate,  
+or binding him with a cloth, one should fast for a day after promptly appeasing him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरुं हुं-कृत्य त्वं-कृत्य  

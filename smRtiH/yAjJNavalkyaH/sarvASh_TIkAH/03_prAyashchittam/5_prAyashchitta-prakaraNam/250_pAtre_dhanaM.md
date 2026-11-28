@@ -2,6 +2,12 @@
 title = "250 पात्रे धनं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having given adequate wealth to a worthy recipient, he would attain purification;  
+and for the purification of the receiver, a Vaiśvānarī rite is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पात्रे धनं वा पर्याप्तं  

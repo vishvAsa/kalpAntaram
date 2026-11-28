@@ -1,6 +1,13 @@
 +++
 title = "348 यदा सस्यगुणोपेतं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the enemy's kingdom is endowed with rich crops, then he should march,  
+and when the enemy is weakened while he himself has spirited conveyances and men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा सस्य-गुणोपेतं  

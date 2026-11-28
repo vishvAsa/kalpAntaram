@@ -1,6 +1,13 @@
 +++
 title = "103 देवेभ्यश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the remnant of the food offered to the gods, he should present the offering to the spirits,  
+and throw food on the ground for dogs, Caṇḍālas, and crows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवेभ्यश् च हुताद् अन्नाच्  

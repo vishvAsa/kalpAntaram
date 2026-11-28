@@ -2,6 +2,12 @@
 title = "082 यः साक्ष्यं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, having been made to hear testimony, conceals it from others, enveloped in darkness,  
+shall be made to pay an eightfold fine; but a Brahmin he should banish.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः साक्ष्यं श्रावितो ऽन्येभ्यो  

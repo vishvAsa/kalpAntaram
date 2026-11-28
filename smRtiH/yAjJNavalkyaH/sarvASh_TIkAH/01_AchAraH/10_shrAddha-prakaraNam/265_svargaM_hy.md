@@ -1,6 +1,13 @@
 +++
 title = "265 स्वर्गं ह्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+heaven, offspring, vigour, valour, land, strength,  
+a son, pre-eminence, good fortune, prosperity, leadership, good fortune,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वर्गं ह्य् अपत्यम् ओजश् च  

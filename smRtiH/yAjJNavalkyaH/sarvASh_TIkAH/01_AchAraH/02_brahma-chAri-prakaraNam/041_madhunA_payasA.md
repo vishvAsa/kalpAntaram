@@ -1,6 +1,13 @@
 +++
 title = "041 मधुना पयसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The twice-born who recites verses of the Ṛgveda daily libates the gods with honey and milk,  
+and the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधुना पयसा चैव  

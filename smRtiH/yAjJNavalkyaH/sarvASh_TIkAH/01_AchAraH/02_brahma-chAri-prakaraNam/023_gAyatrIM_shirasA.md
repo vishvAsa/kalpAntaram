@@ -1,6 +1,13 @@
 +++
 title = "023 गायत्रीं शिरसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should chant the Gāyatrī together with its head, preceded by the sacred utterances,  
+each joined with the sacred syllable Om; this, repeated thrice, is breath control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गायत्रीं शिरसा सार्धं  

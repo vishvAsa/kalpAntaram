@@ -1,6 +1,13 @@
 +++
 title = "093 लेख्यस्य पृष्ठे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the back of the document the debtor should write each payment after paying the money;  
+or the creditor should give a receipt marked with his own hand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लेख्यस्य पृष्ठे ऽभिलिखेद्  

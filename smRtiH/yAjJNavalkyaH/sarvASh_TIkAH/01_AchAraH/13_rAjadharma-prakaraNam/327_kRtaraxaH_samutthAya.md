@@ -1,6 +1,13 @@
 +++
 title = "327 कृतरक्षः समुत्थाय"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ensured his security and arisen, he should inspect revenue and expenditure himself.  
+Then, having looked into legal affairs and bathed, he may eat at his pleasure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत-रक्षः समुत्थाय  

@@ -1,6 +1,13 @@
 +++
 title = "101 एकोनत्रिंशल्लक्षाणि तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Know that there are twenty-nine hundred thousand, nine hundred,  
+and fifty-six vessels termed veins and arteries.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकोन-त्रिंशल्-लक्षाणि  

@@ -1,6 +1,13 @@
 +++
 title = "290 प्राणायामी जले"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who rides in an ass-cart or a camel-cart,  
+one who bathes naked, eats naked, or has sex with a woman by day, [is purified] having bathed in water and practiced breath control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणायामी जले स्नात्वा  

@@ -1,6 +1,13 @@
 +++
 title = "315 भोगांश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And he should give enjoyments and various treasures to Brahmins;  
+this is an inexhaustible treasure of kings—that which is bestowed upon Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भोगांश् च दद्याद् विप्रेभ्यो  

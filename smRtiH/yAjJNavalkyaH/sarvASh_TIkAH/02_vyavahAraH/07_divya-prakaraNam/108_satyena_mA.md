@@ -1,6 +1,13 @@
 +++
 title = "108 सत्येन मा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having invoked the water with: “Protect me with truth, O Varuṇa!”,  
+holding the thighs of one standing in navel-deep water, he should submerge into the water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्येन मा ऽभिरक्ष त्वं  

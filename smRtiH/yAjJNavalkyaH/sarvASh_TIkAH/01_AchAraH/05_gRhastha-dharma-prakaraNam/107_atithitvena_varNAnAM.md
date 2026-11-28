@@ -1,6 +1,13 @@
 +++
 title = "107 अतिथित्वेन वर्णानां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food should be given to the social classes as guests according to ability, in order.  
+A guest who arrives in the evening is not to be turned away, even if [honoured only] with speech, a seat, grass, and water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अतिथित्वेन वर्णानां  

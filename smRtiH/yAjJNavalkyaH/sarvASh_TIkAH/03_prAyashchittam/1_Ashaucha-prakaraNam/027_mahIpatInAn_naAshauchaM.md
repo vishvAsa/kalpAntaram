@@ -1,6 +1,13 @@
 +++
 title = "027 महीपतीनान् न+आशौचं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no impurity for rulers of the earth, nor for those killed by lightning,  
+nor in battle for the sake of cows and Brahmins, nor for anyone the ruler of the earth desires.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मही-पतीनां न+आशौचं  

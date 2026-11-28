@@ -1,6 +1,13 @@
 +++
 title = "286 नामभिर् बलिमन्त्रैश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having scattered kuśa grass all around in a winnowing basket at a crossroads,  
+one should offer [the oblations] with the names and the offering mantras accompanied by obeisance:
+</details>
+
 <details><summary>मूलम्</summary>
 
 नामभिर् बलि-मन्त्रैश् च  

@@ -1,6 +1,13 @@
 +++
 title = "139 अन्योदर्यस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A reunited half-brother takes [the estate], but a separated half-brother may not take the property.  
+Or even a non-reunited [full brother] may take it, but not a reunited son born of another mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्योदर्यस् तु संसृष्टी  

@@ -1,6 +1,13 @@
 +++
 title = "249 सम्भूय कुर्वताम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For artisans and craftsmen who conspire to set a price that causes obstruction,  
+or knowingly cause a fall or rise in price, the fine is the highest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भूय कुर्वताम् अर्घं  

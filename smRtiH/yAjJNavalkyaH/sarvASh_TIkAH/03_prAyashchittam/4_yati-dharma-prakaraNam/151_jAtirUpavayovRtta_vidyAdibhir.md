@@ -1,6 +1,13 @@
 +++
 title = "151 जातिरूपवयोवृत्त विद्यादिभिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Filled with egoism on account of birth, appearance, age, conduct, and learning,  
+undertaking action toward objects such as sound through deeds, mind, and speech,
+</details>
+
 <details><summary>मूलम्</summary>
 
 जाति-रूप-वयो-वृत्त-  

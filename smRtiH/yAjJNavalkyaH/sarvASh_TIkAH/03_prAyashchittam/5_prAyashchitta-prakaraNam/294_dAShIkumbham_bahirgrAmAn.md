@@ -1,6 +1,13 @@
 +++
 title = "294 दाषीकुम्भम् बहिर्ग्रामान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+His female slave's water jar should be cast out outside the village by his relatives,  
+and they should exclude that fallen person from all religious acts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाषी-कुम्भं बहिर्-ग्रामान्  

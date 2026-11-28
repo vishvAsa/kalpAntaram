@@ -2,6 +2,12 @@
 title = "137 आत्मज्ञः शौचवान्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Knowing the self, pure, self-controlled, ascetic, having conquered the senses,  
+performing duty, and knowing the Vedic learning, a sāttvika person attains birth among the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्मज्ञः शौचवान् दान्तस्  

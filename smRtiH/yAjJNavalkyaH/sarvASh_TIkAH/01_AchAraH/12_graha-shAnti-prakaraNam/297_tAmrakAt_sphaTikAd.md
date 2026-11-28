@@ -1,6 +1,13 @@
 +++
 title = "297 ताम्रकात् स्फटिकाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From copper, crystal, red sandalwood, gold—both [the next two]—,  
+silver, iron, lead, and bronze, the planets should be made in order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 ताम्रकात् स्फटिकाद् रक्त-  

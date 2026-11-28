@@ -1,6 +1,13 @@
 +++
 title = "195 यज्ञेन तपसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those men, however, who conquer heaven through sacrifice, austerity, and gifts,  
+successively attain the smoke, the night, the dark fortnight, the southern course [of the sun],
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञेन तपसा दानैर्  

@@ -1,6 +1,13 @@
 +++
 title = "274 तित्तिरौ तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For a partridge, a droṇa of sesame. Unable to give the gift  
+for an elephant and the like, one should perform a penitential hardship for the purification of each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तित्तिरौ तु तिल-द्रोणं  

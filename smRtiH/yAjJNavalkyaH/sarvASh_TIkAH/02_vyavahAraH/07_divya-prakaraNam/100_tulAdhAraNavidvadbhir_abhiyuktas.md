@@ -1,6 +1,13 @@
 +++
 title = "100 तुलाधारणविद्वद्भिर् अभियुक्तस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placed on the balance by those skilled in holding the balance,  
+balanced with a counterweight and a mark made, the accused is taken down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला-धारण-विद्वद्भिर्  

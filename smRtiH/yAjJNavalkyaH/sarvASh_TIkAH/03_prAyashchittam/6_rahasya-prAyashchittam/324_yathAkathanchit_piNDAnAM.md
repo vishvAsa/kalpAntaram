@@ -1,6 +1,13 @@
 +++
 title = "324 यथाकथञ्चित् पिण्डानां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Alternatively, one should consume two hundred and forty morsels in any manner whatsoever  
+in the course of a month; [this is] another lunar penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चित् पिण्डानां  

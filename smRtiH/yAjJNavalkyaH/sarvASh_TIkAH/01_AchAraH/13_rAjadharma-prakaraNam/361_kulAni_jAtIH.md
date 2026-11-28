@@ -1,6 +1,13 @@
 +++
 title = "361 कुलानि जातीः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Families, castes, guilds, corporations, and inhabitants of the realm:  
+the king, having disciplined those who have strayed from their duty, should establish them on the path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुलानि जातीः श्रेणीश् च  

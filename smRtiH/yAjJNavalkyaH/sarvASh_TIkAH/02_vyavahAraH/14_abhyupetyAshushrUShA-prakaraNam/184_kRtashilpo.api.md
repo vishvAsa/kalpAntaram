@@ -1,6 +1,13 @@
 +++
 title = "184 कृतशिल्पो ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even having acquired the craft, an apprentice should reside in the guru's house for the agreed period,  
+receiving food from the guru and giving him the fruits [of his labor].
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृत-शिल्पो ऽपि निवसेत्  

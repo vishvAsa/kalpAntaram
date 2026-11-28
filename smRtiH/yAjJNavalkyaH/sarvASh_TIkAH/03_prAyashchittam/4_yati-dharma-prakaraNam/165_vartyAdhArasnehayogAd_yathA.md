@@ -1,6 +1,13 @@
 +++
 title = "165 वर्त्य्आधारस्नेहयोगाद् यथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as the persistence of a lamp depends on the combination of wick, base, and oil,  
+and its destruction is likewise observed, so occurs premature exhaustion of vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्त्य्-आधार-स्नेह-योगाद्  

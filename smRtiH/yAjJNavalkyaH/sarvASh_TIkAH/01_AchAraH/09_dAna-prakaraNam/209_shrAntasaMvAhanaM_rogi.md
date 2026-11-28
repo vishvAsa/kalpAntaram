@@ -1,6 +1,13 @@
 +++
 title = "209 श्रान्तसंवाहनं रोगि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Massaging the weary, attendance on the sick, worship of the gods,  
+washing the feet [of guests], and clearing the food-remnants of twice-born men are equal to the gift of a cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रान्त-संवाहनं रोगि-  

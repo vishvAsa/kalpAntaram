@@ -1,6 +1,13 @@
 +++
 title = "278 विप्रदुष्टां स्त्रियञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who is exceedingly wicked, who has killed a man, and is not pregnant,  
+and who destroys a dike, he should cause to be submerged in water after tying a stone [to her].
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्रदुष्टां स्त्रियं चैव  

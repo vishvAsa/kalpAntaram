@@ -1,6 +1,13 @@
 +++
 title = "185 ये च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And those devoted to generosity, properly endowed with the eight virtues,  
+dedicated to the vow of truth, also go by that very path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये च दान-पराः सम्यग्  

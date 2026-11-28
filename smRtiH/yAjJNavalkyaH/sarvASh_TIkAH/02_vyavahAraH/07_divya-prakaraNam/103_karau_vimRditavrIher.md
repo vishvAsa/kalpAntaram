@@ -1,6 +1,13 @@
 +++
 title = "103 करौ विमृदितव्रीहेर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having inspected his two hands rubbed with rice grains, he should then place on them  
+seven leaves of the sacred fig tree and wrap them with as many turns of thread.
+</details>
+
 <details><summary>मूलम्</summary>
 
 करौ विमृदित-व्रीहेर्  

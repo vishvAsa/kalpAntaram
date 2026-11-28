@@ -1,6 +1,13 @@
 +++
 title = "226 अपराह्णे समभ्यर्च्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the afternoon, having honoured them who have arrived with a welcome,  
+he, holding purificatory grass in hand, should seat them on seats after they have sipped water for purification,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपराह्णे समभ्यर्च्य  

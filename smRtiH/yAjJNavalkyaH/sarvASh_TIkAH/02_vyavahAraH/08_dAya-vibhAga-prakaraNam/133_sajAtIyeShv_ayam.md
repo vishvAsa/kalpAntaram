@@ -1,6 +1,13 @@
 +++
 title = "133 सजातीयेष्व् अयम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This rule has been declared by me regarding sons of the same social class.  
+A son born of a female slave to a Shudra may take a share at his choice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-जातीयेष्व् अयं प्रोक्तस्  

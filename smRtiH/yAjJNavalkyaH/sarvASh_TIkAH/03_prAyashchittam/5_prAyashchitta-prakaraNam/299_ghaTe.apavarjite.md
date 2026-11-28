@@ -1,6 +1,13 @@
 +++
 title = "299 घटे ऽपवर्जिते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the jar has been discarded, he, standing among his relatives, should give fodder to cows  
+first; for an act of hospitality is due to one honoured by cows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घटे ऽपवर्जिते ज्ञाति-  

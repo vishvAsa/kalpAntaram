@@ -1,6 +1,13 @@
 +++
 title = "218 शोणितेन विना"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man causing pain without blood by means of wood and the like  
+is to be fined thirty-two paṇas; double if blood is seen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शोणितेन विना दुःखं  

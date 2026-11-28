@@ -1,6 +1,13 @@
 +++
 title = "338 ये राष्ट्राधिकृतास्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having learned through spies the conduct of those appointed over the kingdom,  
+the king should honour the good and have the opposite slain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ये राष्ट्राधिकृतास् तेषां  

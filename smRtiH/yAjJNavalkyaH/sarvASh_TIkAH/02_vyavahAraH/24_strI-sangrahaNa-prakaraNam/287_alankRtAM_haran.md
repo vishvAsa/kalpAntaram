@@ -1,6 +1,13 @@
 +++
 title = "287 अलङ्कृतां हरन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carrying off an adorned maiden [of the same class], he shall pay the highest [fine]; but if unadorned, the lowest  
+fine among women of equal social class; in reverse order of classes, death is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अलङ्कृतां हरन् कन्याम्  

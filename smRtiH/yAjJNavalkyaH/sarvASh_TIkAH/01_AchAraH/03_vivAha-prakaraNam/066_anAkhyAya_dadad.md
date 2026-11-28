@@ -1,6 +1,13 @@
 +++
 title = "066 अनाख्याय ददद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who gives [a girl] without declaring a defect is to be fined the highest heinous offence fine;  
+but one who abandons a faultless girl is to be fined; one who falsely defames her [is to be fined] one hundred [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनाख्याय ददद् दोषं  

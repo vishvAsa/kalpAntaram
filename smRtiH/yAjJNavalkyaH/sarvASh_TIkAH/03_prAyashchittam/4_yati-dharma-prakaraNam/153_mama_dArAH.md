@@ -1,6 +1,13 @@
 +++
 title = "153 मम दाराः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thinking ‘My wife, my sons, my ministers; I belong to them’—such is his condition;  
+he is always perverse in judgment concerning what is beneficial and harmful.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मम दाराः सुतामात्या  

@@ -1,6 +1,13 @@
 +++
 title = "210 भूदीपांश् चान्नवस्त्राम्भस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given land, lamps, food, clothing, water, sesame, clarified butter, shelters,  
+marriage expenses, gold, and a draft-ox, one is magnified in heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू-दीपांश् चान्न-वस्त्राम्भस्-  

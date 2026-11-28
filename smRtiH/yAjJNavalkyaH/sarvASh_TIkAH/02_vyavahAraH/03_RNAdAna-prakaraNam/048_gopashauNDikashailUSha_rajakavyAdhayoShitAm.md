@@ -1,6 +1,13 @@
 +++
 title = "048 गोपशौण्डिकशैलूष रजकव्याधयोषिताम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The husband must pay the debt of the wives of herdsmen, distillers, actors, washermen, and hunters,  
+because his livelihood depends on them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोप-शौण्डिक-शैलूष-  

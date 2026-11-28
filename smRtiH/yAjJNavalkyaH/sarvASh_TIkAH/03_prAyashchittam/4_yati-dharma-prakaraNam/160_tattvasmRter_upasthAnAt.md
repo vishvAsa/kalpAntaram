@@ -1,6 +1,13 @@
 +++
 title = "160 तत्त्वस्मृतेर् उपस्थानात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through the presence of memory of the reality, through union with sattva, through the destruction  
+of actions, and through proximity to the virtuous, yoga proceeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्त्व-स्मृतेर् उपस्थानात्  

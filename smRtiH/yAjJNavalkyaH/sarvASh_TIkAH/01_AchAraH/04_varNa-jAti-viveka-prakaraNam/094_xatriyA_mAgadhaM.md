@@ -1,6 +1,13 @@
 +++
 title = "094 क्षत्रिया मागधं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Kshatriya woman bore a Māgadha from a Vaishya, and a Kṣattṛ from a Shudra;  
+a Vaishya woman bore an Āyogava son from a Shudra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षत्रिया मागधं वैश्याच्  

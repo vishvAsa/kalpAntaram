@@ -1,6 +1,13 @@
 +++
 title = "122 अहिंसा सत्यम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Non-violence, truthfulness, non-stealing, purity, restraint of the senses,  
+generosity, self-control, compassion, and forbearance are the means of duty for all.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहिंसा सत्यम् अस्तेयं  

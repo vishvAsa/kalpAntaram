@@ -1,6 +1,13 @@
 +++
 title = "105 रसस्य नव"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Nine handfuls should be known of chyle, ten of water,  
+seven of faeces, and eight of blood are proclaimed;
+</details>
+
 <details><summary>मूलम्</summary>
 
 रसस्य नव विज्ञेया  

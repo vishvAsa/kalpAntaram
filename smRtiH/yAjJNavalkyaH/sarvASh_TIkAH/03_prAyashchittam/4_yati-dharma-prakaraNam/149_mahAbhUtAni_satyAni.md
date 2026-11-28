@@ -1,6 +1,13 @@
 +++
 title = "149 महाभूतानि सत्यानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The great elements are real, and just so is the self;  
+for who otherwise sees with one eye what was seen with the other?
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-भूतानि सत्यानि  

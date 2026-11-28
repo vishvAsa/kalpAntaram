@@ -1,6 +1,13 @@
 +++
 title = "030 नृपेणाधिकृताः पूगाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Officers appointed by the king, corporate assemblies, guilds, and families:  
+each preceding one is to be regarded as weightier in judicial procedure for men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृपेणाधिकृताः पूगाः  

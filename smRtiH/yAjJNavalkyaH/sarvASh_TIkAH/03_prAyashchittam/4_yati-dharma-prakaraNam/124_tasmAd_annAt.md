@@ -1,6 +1,13 @@
 +++
 title = "124 तस्माद् अन्नात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From that food [arises] sacrifice again, from sacrifice again food, and again sacrifice;  
+in this way this wheel without beginning or end revolves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्माद् अन्नात् पुनर् यज्ञः  

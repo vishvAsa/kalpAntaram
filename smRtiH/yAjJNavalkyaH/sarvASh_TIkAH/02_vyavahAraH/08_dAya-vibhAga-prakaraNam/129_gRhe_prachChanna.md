@@ -1,6 +1,13 @@
 +++
 title = "129 गृहे प्रच्छन्न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The secretly born son is known as one born secretly in the house.  
+The maiden-born son is born of an unmarried girl and is regarded as the son of the maternal grandfather.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहे प्रच्छन्न उत्पन्नो  

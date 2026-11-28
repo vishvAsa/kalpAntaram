@@ -1,6 +1,13 @@
 +++
 title = "293 अयोनौ गच्छतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For having intercourse with a woman in an unnatural orifice, or discharging semen upon a man,  
+the fine is twenty-four [paṇas]; likewise for having intercourse with a female renunciant.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयोनौ गच्छतो योषां  

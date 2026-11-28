@@ -1,6 +1,13 @@
 +++
 title = "150 सीन्नो विवादे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a legal dispute over the boundary of a field, neighbouring landholders, elders, and others,  
+herdsmen, cultivators along the boundary, and all forest-dwellers,
+</details>
+
 <details><summary>मूलम्</summary>
 
 सीन्नो विवादे क्षेत्रस्य  

@@ -1,6 +1,13 @@
 +++
 title = "179 प्राणात्यये तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At risk of life, in an ancestral rite, when sprinkled [for sacrifice], or by the wish of twice-born people,  
+after having worshipped the gods and ancestors, eating meat does not incur guilt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राणात्यये तथा श्राद्धे  

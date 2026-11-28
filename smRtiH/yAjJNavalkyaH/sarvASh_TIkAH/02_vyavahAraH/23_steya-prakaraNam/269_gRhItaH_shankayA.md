@@ -1,6 +1,13 @@
 +++
 title = "269 गृहीतः शङ्कया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one seized on suspicion of theft does not clear himself,  
+[the king], having made him restore the stolen property, should punish him with the punishment for a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीतः शङ्कया चौर्ये  

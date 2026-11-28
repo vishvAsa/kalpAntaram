@@ -1,6 +1,13 @@
 +++
 title = "036 देयञ् चौरहृतन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property carried off by thieves must be restored by the king to the inhabitant of the countryside;  
+for if he does not restore it, he incurs that person's sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देयं चौरहृतं द्रव्यं  

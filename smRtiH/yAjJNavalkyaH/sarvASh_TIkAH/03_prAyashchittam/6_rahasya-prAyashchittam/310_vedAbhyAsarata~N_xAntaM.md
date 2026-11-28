@@ -1,6 +1,13 @@
 +++
 title = "310 वेदाभ्यासरतङ् क्षान्तं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sins, even those arising from mortal sins,  
+do not touch in this world one devoted to the study of the Veda, patient, and intent on the rites of the five great sacrifices.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेदाभ्यास-रतं क्षान्तं  

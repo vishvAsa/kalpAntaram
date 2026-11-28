@@ -1,6 +1,13 @@
 +++
 title = "136 अयम् मे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should recite the entire mantra beginning 'This is my thunderbolt';  
+he should not walk uncovered when it rains, nor sleep with his head to the west.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयं मे वज्र इत्य् एवं  

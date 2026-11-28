@@ -1,6 +1,13 @@
 +++
 title = "230 यवैर् अन्ववकीर्याथ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, having scattered barley grains over them, having poured water into a vessel containing a purifier with 'May the goddess be auspicious for us...',  
+and barley grains with 'You are barley...',
+</details>
+
 <details><summary>मूलम्</summary>
 
 यवैर् अन्ववकीर्याथ  

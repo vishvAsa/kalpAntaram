@@ -1,6 +1,13 @@
 +++
 title = "256 मृते ऽहनि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It should be performed on the day of death every month for a year,  
+and likewise every year; the first should be on the eleventh day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते ऽहनि प्रकर्तव्यं  

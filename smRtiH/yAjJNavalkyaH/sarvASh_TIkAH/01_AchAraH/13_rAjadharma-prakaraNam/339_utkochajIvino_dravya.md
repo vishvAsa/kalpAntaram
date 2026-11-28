@@ -1,6 +1,13 @@
 +++
 title = "339 उत्कोचजीविनो द्रव्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should strip of their wealth and banish those who live on bribes;  
+he should always settle Vedic scholars, honouring them with true gifts and respect.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्कोच-जीविनो द्रव्य-  

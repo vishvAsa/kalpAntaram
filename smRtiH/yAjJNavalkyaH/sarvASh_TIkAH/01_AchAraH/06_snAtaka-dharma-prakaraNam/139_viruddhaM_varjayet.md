@@ -1,6 +1,13 @@
 +++
 title = "139 विरुद्धं वर्जयेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid improper acts, the smoke of a corpse, swimming across a river,  
+and standing on hair, ashes, chaff, hot cinders, or potsherds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विरुद्धं वर्जयेत् कर्म  

@@ -1,6 +1,13 @@
 +++
 title = "114 ऋग्गाथा पाणिका"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the ṛc-hymn, the song-verse, the pāṇikā, and the brahmagītikā prescribed by Dakṣa—  
+by practicing the singing of these, known as [instruments of] liberation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋग्-गाथा पाणिका दक्ष-  

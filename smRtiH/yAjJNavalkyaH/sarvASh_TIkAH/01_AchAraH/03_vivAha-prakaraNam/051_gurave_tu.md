@@ -1,6 +1,13 @@
 +++
 title = "051 गुरवे तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given an honorarium to the guru, he may take the ceremonial bath with his permission,  
+after bringing to completion either the Veda, the vows, or both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरवे तु वरं दत्त्वा  

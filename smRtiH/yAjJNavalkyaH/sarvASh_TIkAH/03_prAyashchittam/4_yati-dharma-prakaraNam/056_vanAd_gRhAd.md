@@ -1,6 +1,13 @@
 +++
 title = "056 वनाद् गृहाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the forest or from the house, having performed the Prājāpatya sacrifice  
+with all one's possessions as the sacrificial gift, and at its conclusion having deposited those fires within oneself,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वनाद् गृहाद् वा कृत्वेष्टिं  

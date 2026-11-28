@@ -1,6 +1,13 @@
 +++
 title = "186 सोषरोदकगोमूत्रैः शुध्यत्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Woollen and silk cloth is purified with saline water and cow urine;  
+bark-cloth with bel fruit, and mountain-wool cloth with soap-berries.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोषरोदक-गो-मूत्रैः  

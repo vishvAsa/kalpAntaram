@@ -1,6 +1,13 @@
 +++
 title = "218 ततो निष्कल्मषीभूताः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, having become free of taint, they are born into a great family as men of enjoyment,  
+endowed with learning, and provided with wealth and grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो निष्कल्मषी-भूताः  

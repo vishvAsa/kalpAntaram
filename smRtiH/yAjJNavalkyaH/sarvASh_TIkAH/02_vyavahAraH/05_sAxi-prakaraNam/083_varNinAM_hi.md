@@ -1,6 +1,13 @@
 +++
 title = "083 वर्णिनां हि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where the execution of members of any class is involved, there a witness may speak an untruth.  
+For purification from that, an oblation to Sarasvatī must be offered by twice-born men.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वर्णिनां हि वधो यत्र  

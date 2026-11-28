@@ -1,6 +1,13 @@
 +++
 title = "292 गृहीतवेतना वेश्या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A courtesan who has received her fee and is unwilling shall pay double;  
+if the fee has not been received, equal. A man likewise, indeed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-वेतना वेश्या  

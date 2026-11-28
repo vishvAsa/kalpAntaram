@@ -1,6 +1,13 @@
 +++
 title = "300 शक्तो ऽप्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An owner, though able, who does not release [animals] with fangs or with horns,  
+shall pay the first heinous offence fine; and twice that if an alarm was cried.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शक्तो ऽप्य् अमोक्षयन् स्वामी  

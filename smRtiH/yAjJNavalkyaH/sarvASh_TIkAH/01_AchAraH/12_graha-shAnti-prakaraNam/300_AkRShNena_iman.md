@@ -1,6 +1,13 @@
 +++
 title = "300 आकृष्णेन इमन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Ā kṛṣṇena’, ‘Imaṃ devāḥ’, ‘Agnir mūrdhā divaḥ kakut’,  
+and ‘Udbudhyasva’ are proclaimed as the verses in respective order;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकृष्णेन इमं देवा  

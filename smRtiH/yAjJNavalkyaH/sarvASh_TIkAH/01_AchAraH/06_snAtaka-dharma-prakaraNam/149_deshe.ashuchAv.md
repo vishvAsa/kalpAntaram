@@ -1,6 +1,13 @@
 +++
 title = "149 देशे ऽशुचाव्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an unpurified place and when oneself is unpurified, during an interplay of lightning and thunder,  
+after eating while the hands are still wet, while inside water, at midnight, or in a violent wind;
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशे ऽशुचाव् आत्मनि च  

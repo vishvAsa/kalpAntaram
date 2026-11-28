@@ -1,6 +1,13 @@
 +++
 title = "117 वृद्धभारिनृपस्नात स्त्रीरोगिवरचक्रिणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The road is to be yielded to an old man, one carrying a load, a king, a graduate, a woman, a sick man, a bridegroom, and one in a carriage.  
+Among these the king is to be honoured, and a graduate is to be honoured by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृद्ध-भारि-नृप-स्नात-  

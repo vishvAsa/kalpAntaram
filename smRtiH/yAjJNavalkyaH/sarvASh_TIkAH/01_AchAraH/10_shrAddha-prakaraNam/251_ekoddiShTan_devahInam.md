@@ -1,6 +1,13 @@
 +++
 title = "251 एकोद्दिष्टन् देवहीनम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite for a single ancestor is devoid of the gods, has a single guest-water offering and a single strainer,  
+is without the invocation and the offering into the fire, and is performed with the sacred thread over the right shoulder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकोद्दिष्टं देव-हीनम्  

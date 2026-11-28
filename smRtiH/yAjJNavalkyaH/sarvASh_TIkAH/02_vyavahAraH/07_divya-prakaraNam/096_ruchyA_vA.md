@@ -1,6 +1,13 @@
 +++
 title = "096 रुच्या वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or either of the two may perform it by agreement, while the other undertakes the penalty.  
+Even without a penalty, one should administer it in treason against the king or in a major sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रुच्या वा ऽन्यतरः कुर्याद्  

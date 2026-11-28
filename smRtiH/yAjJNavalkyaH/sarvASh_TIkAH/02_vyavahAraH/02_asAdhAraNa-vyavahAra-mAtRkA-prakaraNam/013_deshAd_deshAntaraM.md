@@ -1,6 +1,13 @@
 +++
 title = "013 देशाद् देशान्तरं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who moves from place to place, repeatedly licks the corners of his mouth,  
+whose forehead sweats, and whose face loses its colour,
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशाद् देशान्तरं याति  

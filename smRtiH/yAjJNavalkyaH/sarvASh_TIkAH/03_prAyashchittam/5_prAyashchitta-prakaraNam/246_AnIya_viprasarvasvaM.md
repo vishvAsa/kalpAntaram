@@ -1,6 +1,13 @@
 +++
 title = "246 आनीय विप्रसर्वस्वं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having recovered a Brahmin's property that was stolen, or [if] he was killed  
+for that purpose, even if wounded by weapons while surviving, he is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आनीय विप्र-सर्वस्वं  

@@ -1,6 +1,13 @@
 +++
 title = "071 सोमः शौचन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma gave them purification; a Gandharva, sweet speech;  
+the Fire, universal purity; therefore, indeed, women are pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सोमः शौचं ददाव् आसां  

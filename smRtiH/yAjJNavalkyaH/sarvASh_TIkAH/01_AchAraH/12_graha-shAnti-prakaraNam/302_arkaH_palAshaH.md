@@ -1,6 +1,13 @@
 +++
 title = "302 अर्कः पलाशः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Arka, palāśa, khadira, and apāmārga, then pippala,  
+udumbara, śamī, dūrvā, and kuśa are the firewood sticks in order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्कः पलाशः खदिर  

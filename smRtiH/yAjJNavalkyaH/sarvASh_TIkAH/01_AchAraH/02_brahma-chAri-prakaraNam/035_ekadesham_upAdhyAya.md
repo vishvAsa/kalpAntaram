@@ -1,6 +1,13 @@
 +++
 title = "035 एकदेशम् उपाध्याय"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who teaches a portion [of the Veda] is a sub-teacher; he who performs a sacrifice is called the sacrificial priest.  
+These are venerable in order of precedence; greater than all of them is the mother.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकदेशम् उपाध्याय  

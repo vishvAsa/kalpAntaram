@@ -1,6 +1,13 @@
 +++
 title = "088 सत्याम् अन्यां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+While a wife of the same social class is present, he should not perform a religious act with another;  
+among wives of the same social class, in a religious rite, not without the senior wife [should it be performed] by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्याम् अन्यां सवर्णायां  

@@ -1,6 +1,13 @@
 +++
 title = "063 तत्कालकृतमूल्यो वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or it may remain there free of interest, valued at that time;  
+or [the creditor] may sell it in the presence of witnesses, even without the debtor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्-काल-कृत-मूल्यो वा  

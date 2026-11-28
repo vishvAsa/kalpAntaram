@@ -2,6 +2,12 @@
 title = "087 पतिप्रियहिते युक्ता"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intent on her husband's pleasure and welfare, well-behaved, with her senses conquered,  
+she attains fame here and the supreme destination after death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पति-प्रिय-हिते युक्ता  

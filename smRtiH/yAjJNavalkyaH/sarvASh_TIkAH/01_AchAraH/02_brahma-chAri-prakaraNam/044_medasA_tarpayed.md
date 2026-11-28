@@ -1,6 +1,13 @@
 +++
 title = "044 मेदसा तर्पयेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The twice-born who chants the Atharvāṅgiras hymns daily according to his ability libates the gods with fat,  
+and the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मेदसा तर्पयेद् देवान्  

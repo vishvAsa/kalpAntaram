@@ -1,6 +1,13 @@
 +++
 title = "262 कन्याङ् कन्यावेदिनश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who gives the ancestral rite always obtains a maiden, and husbands for maidens, cattle and good sons,  
+gambling victory, agriculture, commerce, cloven-hoofed and single-hoofed beasts,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कन्यां कन्या-वेदिनश् च  

@@ -1,6 +1,13 @@
 +++
 title = "081 मनश्चैतन्ययुक्तो ऽसौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endowed with mind and consciousness, furnished with vessels, ligaments, and veins  
+in the seventh and eighth months, it is also endowed with skin, flesh, and memory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनश्-चैतन्य-युक्तो ऽसौ  

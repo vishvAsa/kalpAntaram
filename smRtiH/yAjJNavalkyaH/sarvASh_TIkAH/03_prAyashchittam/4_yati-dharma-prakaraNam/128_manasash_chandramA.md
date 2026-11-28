@@ -1,6 +1,13 @@
 +++
 title = "128 मनसश् चन्द्रमा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From his mind the moon was born, and from his eye the sun;  
+from his loins the atmosphere, and the world with all that moves and is still.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मनसश् चन्द्रमा जातश्  

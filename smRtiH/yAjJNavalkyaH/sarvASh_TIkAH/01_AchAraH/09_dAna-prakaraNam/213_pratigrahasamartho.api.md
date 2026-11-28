@@ -1,6 +1,13 @@
 +++
 title = "213 प्रतिग्रहसमर्थो ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who, though capable of accepting gifts, does not take a gift,  
+attains those abundant worlds belonging to those of generous nature.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रह-समर्थो ऽपि  

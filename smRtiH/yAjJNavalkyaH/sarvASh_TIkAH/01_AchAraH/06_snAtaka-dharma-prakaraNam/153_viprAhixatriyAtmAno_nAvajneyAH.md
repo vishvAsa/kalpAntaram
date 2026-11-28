@@ -1,6 +1,13 @@
 +++
 title = "153 विप्राहिक्षत्रियात्मानो नावज्ञेयाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin, a serpent, a Kshatriya, and oneself should never be treated with contempt;  
+he should strive for prosperity until death; he should not strike anyone in a vulnerable spot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्राहि-क्षत्रियात्मानो  

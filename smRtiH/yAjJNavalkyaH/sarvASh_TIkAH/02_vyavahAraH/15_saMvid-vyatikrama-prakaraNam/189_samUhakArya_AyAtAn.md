@@ -1,6 +1,13 @@
 +++
 title = "189 समूहकार्य [?]आयातान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they have arrived on corporate business, the lord of the earth, having honoured them  
+with gifts, esteem, and hospitable welcome, should dismiss them once their business is accomplished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समूह-कार्य [?]आयातान्  

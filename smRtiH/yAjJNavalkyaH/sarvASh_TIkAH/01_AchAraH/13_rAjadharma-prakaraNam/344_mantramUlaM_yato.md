@@ -1,6 +1,13 @@
 +++
 title = "344 मन्त्रमूलं यतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since counsel is the root of the kingdom, he should keep counsel well guarded,  
+so that they do not know of his undertakings until the fruition of the result.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन्त्र-मूलं यतो राज्यं  

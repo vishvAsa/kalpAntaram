@@ -1,6 +1,13 @@
 +++
 title = "059 यज्ञस्थ ऋत्विजे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Daiva is [given] to a sacrificial priest engaged in a sacrifice; the Ārṣa, however, upon receiving a pair of cattle;  
+the son born of the first purifies fourteen [generations], and the son born of the latter six.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यज्ञस्थ ऋत्विजे दैव  

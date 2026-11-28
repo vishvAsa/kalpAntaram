@@ -1,6 +1,13 @@
 +++
 title = "004 मन्व्अत्रिविष्णुहारीत याज्ञवल्क्योशनो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras,  
+Yama, Āpastamba, Saṃvarta, Kātyāyana, Bṛhaspati,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मन्व्-अत्रि-विष्णु-हारीत-  

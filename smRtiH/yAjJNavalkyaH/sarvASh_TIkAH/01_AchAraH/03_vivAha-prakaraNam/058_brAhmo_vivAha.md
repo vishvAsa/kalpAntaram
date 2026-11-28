@@ -1,6 +1,13 @@
 +++
 title = "058 ब्राह्मो विवाह"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brāhma marriage is [when a maiden] is given having been summoned and adorned according to ability;  
+the son born of it purifies twenty-one generations on both sides.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मो विवाह आहूय  

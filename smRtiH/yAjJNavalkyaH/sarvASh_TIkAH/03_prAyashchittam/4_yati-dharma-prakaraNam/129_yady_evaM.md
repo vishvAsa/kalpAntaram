@@ -1,6 +1,13 @@
 +++
 title = "129 यद्य् एवं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“If it is so, O Brahmin, how is he born in sinful wombs?  
+How is that Lord conjoined with undesirable states of existence?
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद्य् एवं स कथं ब्रह्मन्  

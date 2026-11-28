@@ -1,6 +1,13 @@
 +++
 title = "103 रोम्णाङ् कोट्यस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are fifty-four crores,  
+and sixty-seven and a half lakhs of body hairs together with the sweat-ducts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रोम्णां कोट्यस् तु पञ्चाशच्  

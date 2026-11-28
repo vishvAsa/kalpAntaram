@@ -1,6 +1,13 @@
 +++
 title = "211 गृहधान्याभयोपानच् छत्रमाल्यानुलेपनम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a house, grain, safety, shoes, an umbrella, garlands, ointment,  
+a conveyance, a tree, a desirable object, or a bed, one will become exceedingly happy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृह-धान्याभयोपानच्-  

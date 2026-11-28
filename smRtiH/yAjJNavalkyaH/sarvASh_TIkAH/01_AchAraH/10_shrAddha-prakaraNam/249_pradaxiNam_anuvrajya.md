@@ -2,6 +2,12 @@
 title = "249 प्रदक्षिणम् अनुव्रज्य"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having walked around clockwise and escorted them, he should eat what was enjoyed by the ancestors;  
+and along with the Brahmins, he should remain a celibate student for that night.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रदक्षिणम् अनुव्रज्य  

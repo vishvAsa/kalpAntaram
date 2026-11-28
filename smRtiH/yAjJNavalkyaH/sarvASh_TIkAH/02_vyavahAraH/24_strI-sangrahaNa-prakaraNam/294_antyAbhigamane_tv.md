@@ -1,6 +1,13 @@
 +++
 title = "294 अन्त्याभिगमने त्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon having intercourse with an outcaste woman, he should be branded with an ignominious mark and banished;  
+a Shudra would become an outcaste himself; for an outcaste having intercourse with an Aryan woman, death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्त्याभिगमने त्व् अङ्क्यह्[अङ्क्य?]  

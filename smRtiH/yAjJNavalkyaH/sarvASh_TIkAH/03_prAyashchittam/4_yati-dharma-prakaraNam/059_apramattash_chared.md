@@ -1,6 +1,13 @@
 +++
 title = "059 अप्रमत्तश् चरेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vigilant, unobserved, in the evening, in a village free of beggars,  
+not greedy, he should beg alms only for sustenance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रमत्तश् चरेद् भैक्षं  

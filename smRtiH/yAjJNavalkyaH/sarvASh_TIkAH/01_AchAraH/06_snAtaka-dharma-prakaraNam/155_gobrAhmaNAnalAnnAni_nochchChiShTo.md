@@ -1,6 +1,13 @@
 +++
 title = "155 गोब्राह्मणानलान्नानि नोच्च्छिष्टो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not touch cows, Brahmins, fire, or food when he is contaminated by food remnants, nor with his foot;  
+he should not revile or strike [anyone], but he may discipline a son or a student.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-ब्राह्मणानलान्नानि  

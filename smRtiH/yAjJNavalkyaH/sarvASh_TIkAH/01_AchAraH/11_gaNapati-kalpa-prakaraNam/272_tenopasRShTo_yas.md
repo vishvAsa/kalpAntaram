@@ -1,6 +1,13 @@
 +++
 title = "272 तेनोपसृष्टो यस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Learn the marks of one who is possessed by him:  
+he plunges deeply into water in dreams, and sees shaven-headed men;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनोपसृष्टो यस् तस्य  

@@ -1,6 +1,13 @@
 +++
 title = "306 यो मन्येताजितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who thinks 'I am not defeated' although defeated in accordance with justice,  
+having defeated him again when he comes back, the king shall make him pay double the fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो मन्येताजितो ऽस्मीति  

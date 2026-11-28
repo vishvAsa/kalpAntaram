@@ -2,6 +2,12 @@
 title = "146 पञ्चदश्याञ् चतुर्दश्याम्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the fifteenth, the fourteenth, and the eighth days, during an eclipse,  
+at the junction of the seasons, after eating at an ancestral rite, or having accepted [a gift related to] an ancestral rite;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चदश्यां चतुर्दश्याम्  

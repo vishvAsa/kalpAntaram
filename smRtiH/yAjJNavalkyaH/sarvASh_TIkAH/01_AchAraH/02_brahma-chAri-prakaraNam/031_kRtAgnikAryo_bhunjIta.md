@@ -1,6 +1,13 @@
 +++
 title = "031 कृताग्निकार्यो भुञ्जीत"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed the fire-service, restrained in speech, with the guru's permission,  
+preceded by the rite of sipping water, he should eat, honouring his food and not reviling it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृताग्नि-कार्यो भुञ्जीत  

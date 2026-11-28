@@ -1,6 +1,13 @@
 +++
 title = "319 पटे वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On cloth or on a copper plate, marked above with his own seal;  
+having inscribed his ancestors and himself, the lord of the earth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पटे वा ताम्र-पट्टे वा  

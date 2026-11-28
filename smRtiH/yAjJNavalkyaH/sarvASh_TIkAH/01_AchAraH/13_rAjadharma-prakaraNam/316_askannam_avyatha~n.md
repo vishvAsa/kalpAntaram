@@ -1,6 +1,13 @@
 +++
 title = "316 अस्कन्नम् अव्यथञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unharmed, without distress, and undefiled by penances,  
+what is offered into the fire of the Brahmin is said here to be superior to [an offering in] fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अस्कन्नम् अव्यथं चैव  

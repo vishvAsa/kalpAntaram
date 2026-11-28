@@ -1,6 +1,13 @@
 +++
 title = "087 द्वे द्वे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should point out two each in the knees, cheeks, thighs, shoulder blades, collarbones,  
+eye sockets, palate, and hip bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वे द्वे जानु-कपोलोरु-  

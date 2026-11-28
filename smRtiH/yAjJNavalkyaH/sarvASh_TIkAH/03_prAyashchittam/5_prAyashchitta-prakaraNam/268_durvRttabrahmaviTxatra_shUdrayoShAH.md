@@ -1,6 +1,13 @@
 +++
 title = "268 दुर्वृत्तब्रह्मविट्क्षत्र शूद्रयोषाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed unchaste women of the Brahmin, Vaishya, Kshatriya, and Shudra [classes],  
+one should give a leather bag, a bow, a he-goat, and a sheep, in order, for purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्वृत्त-ब्रह्म-विट्-क्षत्र-  

@@ -1,6 +1,13 @@
 +++
 title = "227 युग्मान् दैवे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+an even number for the divine [ancestral rite] according to his capacity, and an odd number for that of the ancestors,  
+in an enclosed, pure place that slopes to the south.
+</details>
+
 <details><summary>मूलम्</summary>
 
 युग्मान् दैवे यथा-शक्ति  

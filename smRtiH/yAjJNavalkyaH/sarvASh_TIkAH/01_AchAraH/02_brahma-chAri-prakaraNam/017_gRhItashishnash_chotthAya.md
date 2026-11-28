@@ -1,6 +1,13 @@
 +++
 title = "017 गृहीतशिश्नश् चोत्थाय"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having risen while holding his penis, he should unweariedly perform purification  
+with earth and drawn-up water, removing odour and coating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-शिश्नश् चोत्थाय  

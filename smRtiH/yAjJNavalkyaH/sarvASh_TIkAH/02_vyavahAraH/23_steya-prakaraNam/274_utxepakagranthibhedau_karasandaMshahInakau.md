@@ -1,6 +1,13 @@
 +++
 title = "274 उत्क्षेपकग्रन्थिभेदौ करसन्दंशहीनकौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pickpockets and cutpurses should be made to lose their thumb and forefinger;  
+on a second offence, they should be made to lose a hand and a foot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्क्षेपक-ग्रन्थि-भेदौ  

@@ -1,6 +1,13 @@
 +++
 title = "031 बलोपाधिविनिर्वृत्तान् व्यवहारान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Transactions brought about by force or fraudulent misrepresentation should be annulled,  
+as also those made by women, at night, inside a house, outside, or by enemies.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बलोपाधिविनिर्वृत्तान्  

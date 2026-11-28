@@ -1,6 +1,13 @@
 +++
 title = "275 क्षुद्रमध्यमहाद्रव्य हरणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of stealing small, middling, or valuable property, the fine is according to the value;  
+the place, time, age, and ability are to be considered in inflicting punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षुद्र-मध्य-महा-द्रव्य-  

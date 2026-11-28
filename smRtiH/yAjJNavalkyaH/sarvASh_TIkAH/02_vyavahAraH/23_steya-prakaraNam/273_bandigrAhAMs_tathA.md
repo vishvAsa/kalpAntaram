@@ -1,6 +1,13 @@
 +++
 title = "273 बन्दिग्राहांस् तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who take captives, and likewise those who steal horses and elephants,  
+and those who kill by violent assault, he should impale on stakes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बन्दि-ग्राहांस् तथा वाजि-  

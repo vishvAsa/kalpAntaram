@@ -1,6 +1,13 @@
 +++
 title = "196 स्नात्वा पीत्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having bathed, drunk, sneezed, slept, eaten, or walked along a road,  
+and having changed one's garment, one who has sipped water for purification should sip water for purification again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नात्वा पीत्वा क्षुते सुप्ते  

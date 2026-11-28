@@ -1,6 +1,13 @@
 +++
 title = "240 तुलाशासनमानानां कूटकृन्नाणकस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who counterfeits scales, royal decrees, measures, or coins,  
+and whoever transacts with these, is to be made to pay the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुला-शासन-मानानां  

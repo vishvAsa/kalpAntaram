@@ -1,6 +1,13 @@
 +++
 title = "313 पुरोहितम् प्रकुर्वीत"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should appoint a family priest who is an astrologer, exalted by ancestry and character,  
+skilled in the science of government and likewise in the Atharvaveda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरोहितं प्रकुर्वीत  

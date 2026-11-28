@@ -1,6 +1,13 @@
 +++
 title = "329 य इदन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Those who will maintain this treatise on duty without negligence,  
+having attained fame in this world, shall go to heaven.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इदं धारयिष्यन्ति  

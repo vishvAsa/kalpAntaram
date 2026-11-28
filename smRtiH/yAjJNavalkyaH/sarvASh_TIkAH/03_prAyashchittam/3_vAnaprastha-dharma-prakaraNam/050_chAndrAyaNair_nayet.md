@@ -1,6 +1,13 @@
 +++
 title = "050 चान्द्रायणैर् नयेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should pass time with lunar penances or always live by penitential hardships;  
+or he may eat after a fortnight has passed, or after a month, or after a day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चान्द्रायणैर् नयेत् कालं  

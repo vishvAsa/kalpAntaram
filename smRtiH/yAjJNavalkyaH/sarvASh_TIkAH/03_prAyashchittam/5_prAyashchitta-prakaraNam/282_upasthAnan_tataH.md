@@ -1,6 +1,13 @@
 +++
 title = "282 उपस्थानन् ततः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should perform worship [of the sun] with: 'May they sprinkle me';  
+upon eating honey or meat, a penitential hardship must be performed, as well as the remaining vows.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपस्थानं ततः कुर्यात्  

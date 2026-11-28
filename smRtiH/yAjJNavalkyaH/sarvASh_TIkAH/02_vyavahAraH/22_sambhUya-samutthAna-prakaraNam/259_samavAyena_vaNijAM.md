@@ -1,6 +1,13 @@
 +++
 title = "259 समवायेन वणिजां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When merchants do business in partnership for the sake of profit,  
+their profit and loss are in proportion to their capital, or as agreed upon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समवायेन वणिजां  

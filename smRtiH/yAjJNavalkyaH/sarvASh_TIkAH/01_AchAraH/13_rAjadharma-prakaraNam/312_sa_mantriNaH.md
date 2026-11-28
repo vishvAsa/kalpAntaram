@@ -1,6 +1,13 @@
 +++
 title = "312 स मन्त्रिणः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Should appoint ministers who are wise, hereditary, steadfast, and pure;  
+with them he should deliberate on the kingdom, then with a Brahmin, and then by himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स मन्त्रिणः प्रकुर्वीत  

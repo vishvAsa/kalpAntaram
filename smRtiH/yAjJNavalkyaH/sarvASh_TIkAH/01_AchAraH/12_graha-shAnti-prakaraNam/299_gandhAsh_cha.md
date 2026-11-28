@@ -1,6 +1,13 @@
 +++
 title = "299 गन्धाश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And perfumes, offerings, incense, and bdellium are to be given;  
+and sacrificial porridge endowed with mantras is to be prepared for each deity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्धाश् च बलयश् चैव  

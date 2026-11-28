@@ -1,6 +1,13 @@
 +++
 title = "034 स गुरुर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is the guru who, having performed the rites, imparts the Veda to him;  
+he who initiates and then imparts the Veda is designated the preceptor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स गुरुर् यः क्रियाः कृत्वा  

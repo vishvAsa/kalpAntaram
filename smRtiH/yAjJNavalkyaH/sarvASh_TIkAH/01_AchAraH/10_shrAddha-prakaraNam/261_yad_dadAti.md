@@ -1,6 +1,13 @@
 +++
 title = "261 यद् ददाति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and whatever one gives while staying in Gayā, all that attains endless duration;  
+and likewise on the thirteenth day of the rainy season, especially under the Maghā asterism.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् ददाति गयास्थश् च  

@@ -1,6 +1,13 @@
 +++
 title = "011 निह्नवे भावितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If convicted after denial, he shall pay the money and an equal amount to the king;  
+a false accuser shall pay twice the amount of the claim.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निह्नवे भावितो दद्याद्  

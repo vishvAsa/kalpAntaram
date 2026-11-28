@@ -1,6 +1,13 @@
 +++
 title = "089 दाहयित्वा ऽग्निहोत्रेण"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having cremated a virtuous wife with the sacrificial fire,  
+the husband should without delay take a wife and the sacred fires according to the rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाहयित्वा ऽग्नि-होत्रेण  

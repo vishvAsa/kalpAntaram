@@ -2,6 +2,12 @@
 title = "265 उपपातकशुद्धिः स्याद्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification from a secondary sin can be achieved in this manner, or through a lunar penance,  
+or through milk for a month, or again by a Parāka fast.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपपातक-शुद्धिः स्याद्  

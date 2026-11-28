@@ -1,6 +1,13 @@
 +++
 title = "130 करणैर् अन्वितस्यापि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Though endowed with organs, why has he no prior knowledge?  
+And being all-pervading, why does he not perceive all-pervading sensation?”
+</details>
+
 <details><summary>मूलम्</summary>
 
 करणैर् अन्वितस्यापि  

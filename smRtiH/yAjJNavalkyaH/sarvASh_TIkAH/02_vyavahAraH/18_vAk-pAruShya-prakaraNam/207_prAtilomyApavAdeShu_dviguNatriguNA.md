@@ -1,6 +1,13 @@
 +++
 title = "207 प्रातिलोम्यापवादेषु द्विगुणत्रिगुणा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In insults against the grain of social classes, fines are doubled and tripled;  
+with the grain of social classes, [they are reduced] from that by successive halves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रातिलोम्यापवादेषु  

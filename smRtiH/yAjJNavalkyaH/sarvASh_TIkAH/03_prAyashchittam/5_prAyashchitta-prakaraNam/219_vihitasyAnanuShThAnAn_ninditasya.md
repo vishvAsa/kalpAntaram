@@ -1,6 +1,13 @@
 +++
 title = "219 विहितस्याननुष्ठानान् निन्दितस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From not performing what is ordained, and from resorting to what is condemned,  
+and from the non-restraint of the senses, a man incurs a fall [into sin].
+</details>
+
 <details><summary>मूलम्</summary>
 
 विहितस्याननुष्ठानान्  

@@ -1,6 +1,13 @@
 +++
 title = "047 सुराकामद्यूतकृतं दण्डशुल्कावशिष्टकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son need not pay any paternal debt here incurred for liquor, lust, or gambling,  
+or the unpaid balance of a fine or toll, or an idle promise of a gift.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुरा-काम-द्यूत-कृतं  

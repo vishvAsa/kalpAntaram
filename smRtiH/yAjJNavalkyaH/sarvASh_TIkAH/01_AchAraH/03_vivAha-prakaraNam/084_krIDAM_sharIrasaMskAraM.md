@@ -1,6 +1,13 @@
 +++
 title = "084 क्रीडां शरीरसंस्कारं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Games, bodily adornment, visiting gatherings and festivals,  
+laughing, and going to another's house—a woman whose husband is abroad should avoid these.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रीडां शरीर-संस्कारं  

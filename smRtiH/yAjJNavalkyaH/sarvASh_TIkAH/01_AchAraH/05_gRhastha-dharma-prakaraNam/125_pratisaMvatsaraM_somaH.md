@@ -2,6 +2,12 @@
 title = "125 प्रतिसंवत्सरं सोमः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Every year the soma sacrifice, the animal sacrifice at each solstice,  
+the sacrifice of the first fruits, and the four-month sacrifices should indeed be performed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिसंवत्सरं सोमः  

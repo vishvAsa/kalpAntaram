@@ -1,6 +1,13 @@
 +++
 title = "124 त्रैवार्षिकाधिकान्नो यः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A twice-born who has grain in excess of three years' supply may drink soma;  
+he whose grain suffices for one year should perform the rites prior to the soma sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रैवार्षिकाधिकान्नो यः  

@@ -1,6 +1,13 @@
 +++
 title = "276 भक्तावकाशाग्न्य्उदक मन्त्रोपकरणव्ययान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For knowingly providing a thief or a murderer with food, shelter, fire,  
+water, counsel, implements, and funds, the fine is the highest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्तावकाशाग्न्य्-उदक-  

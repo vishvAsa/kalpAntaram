@@ -1,6 +1,13 @@
 +++
 title = "297 नीचाभिगमनङ् गर्भ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intercourse with a base-born man, abortion, and injury to the husband:  
+these are indeed causes of outcasting especially for women.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नीचाभिगमनं गर्भ-  

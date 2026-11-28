@@ -1,6 +1,13 @@
 +++
 title = "065 न+आश्रमः कारणन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stage of life is not the cause in duty; duty is what is actually done.  
+Therefore, what is disagreeable to oneself one should not do to others.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न+आश्रमः कारणं धर्मे  

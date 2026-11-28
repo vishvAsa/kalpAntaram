@@ -1,6 +1,13 @@
 +++
 title = "102 बलिकर्मस्वधाहोम स्वाध्यायातिथिसत्क्रियाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The offering of food portions, the funeral libation, the fire offering, the recitation of the Veda, and the hospitality to guests:  
+these are the great sacrifices to the spirits, the ancestors, the gods, Brahman, and human beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बलि-कर्म-स्वधा-होम-  

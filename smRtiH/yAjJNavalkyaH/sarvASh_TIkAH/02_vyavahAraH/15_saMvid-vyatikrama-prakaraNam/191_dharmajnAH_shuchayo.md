@@ -1,6 +1,13 @@
 +++
 title = "191 धर्मज्ञाः शुचयो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The managers of affairs should be knowledgeable in duty, pure, and free from greed;  
+the instructions of those who speak for the welfare of the association must be obeyed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धर्मज्ञाः शुचयो ऽलुब्धा  

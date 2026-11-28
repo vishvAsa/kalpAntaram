@@ -2,6 +2,12 @@
 title = "126 एषाम् असम्भवे"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+If these are impossible, a twice-born should perform the sacrifice to Vaiśvānara;  
+he should not perform a lesser rite when he possesses wealth, [lest it fail] to yield fruit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एषाम् असम्भवे कुर्याद्  

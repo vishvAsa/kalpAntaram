@@ -1,6 +1,13 @@
 +++
 title = "309 यत्र यत्र"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And wherever a twice-born considers himself defiled,  
+there an oblation with sesame seeds and recitation of the Gāyatrī [should be performed].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्र यत्र च सङ्कीर्णम्  

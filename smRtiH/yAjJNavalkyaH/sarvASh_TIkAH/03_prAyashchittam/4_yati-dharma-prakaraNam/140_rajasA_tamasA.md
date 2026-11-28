@@ -1,6 +1,13 @@
 +++
 title = "140 रजसा तमसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus pervaded by rajas and tamas, wandering here,  
+joined with undesirable states, he enters the cycle of rebirth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रजसा तमसा चैवं  

@@ -1,6 +1,13 @@
 +++
 title = "216 उद्गूर्णे हस्तपादे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a hand or foot is raised in menace, the fines are ten and twenty respectively;  
+mutually among all persons, with a weapon, [the fine is that of] the middling heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उद्गूर्णे हस्त-पादे तु  

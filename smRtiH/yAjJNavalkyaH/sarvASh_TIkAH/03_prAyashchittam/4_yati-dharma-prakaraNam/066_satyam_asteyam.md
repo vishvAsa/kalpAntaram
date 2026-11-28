@@ -1,6 +1,13 @@
 +++
 title = "066 सत्यम् अस्तेयम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Truthfulness, non-stealing, freedom from anger, modesty, purification, wisdom, steadfastness, self-restraint,  
+control of the senses, knowledge: this is declared to be the whole of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्यम् अस्तेयम् अक्रोधो  

@@ -1,6 +1,13 @@
 +++
 title = "091 गन्धरूपरसस्पर्श शब्दाश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Smell, form, taste, touch, and sound are taught as sense objects;  
+the nose, eyes, tongue, skin, and ear are the sense organs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्ध-रूप-रस-स्पर्श-  

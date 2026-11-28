@@ -1,6 +1,13 @@
 +++
 title = "341 प्रजापीडनसन्तापात् समुद्भूतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fire arisen from the torment of the oppression of the subjects  
+does not turn back without burning the king's family, prosperity, and life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रजा-पीडन-सन्तापात्  

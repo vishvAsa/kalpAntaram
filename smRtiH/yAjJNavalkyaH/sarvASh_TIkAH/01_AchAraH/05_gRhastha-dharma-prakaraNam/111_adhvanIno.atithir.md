@@ -1,6 +1,13 @@
 +++
 title = "111 अध्वनीनो ऽतिथिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A traveller is to be understood as a guest; a learned Brahmin is one who has mastered the Veda.  
+These two are to be honoured by a householder who desires the world of Brahman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अध्वनीनो ऽतिथिर् ज्ञेयः  

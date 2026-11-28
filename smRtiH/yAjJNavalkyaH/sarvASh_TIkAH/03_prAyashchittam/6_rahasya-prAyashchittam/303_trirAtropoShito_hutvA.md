@@ -1,6 +1,13 @@
 +++
 title = "303 त्रिरात्रोपोषितो हुत्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having fasted for three nights, offering clarified butter with the Kūṣmāṇḍa hymns, purified,  
+a stealer of a Brahmin's gold, muttering the Rudra hymns while standing in water, [becomes purified].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रोपोषितो हुत्वा  

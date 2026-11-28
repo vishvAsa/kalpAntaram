@@ -1,6 +1,13 @@
 +++
 title = "271 घातिते ऽपहृते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a person is killed or property stolen, the fault lies on the headman of the village if it has not left [the village];  
+on the master of the pasture on a road; and on the police officer outside the pasture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 घातिते ऽपहृते दोषो  

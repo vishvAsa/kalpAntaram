@@ -1,6 +1,13 @@
 +++
 title = "293 एवं विनायकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having thus worshipped Vināyaka and the planets according to the rule,  
+he attains the fruit of his undertakings and attains unsurpassed prosperity.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं विनायकं पूज्य  

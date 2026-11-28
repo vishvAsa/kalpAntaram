@@ -1,6 +1,13 @@
 +++
 title = "152 देवर्त्विक्स्नातकाचार्य राज्ञाञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not step upon the shadow of gods, sacrificial priests, initiated students, preceptors, kings, or another's wife,  
+nor upon blood, feces, urine, spittle, cleansing pastes, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवर्त्विक्-स्नातकाचार्य-  

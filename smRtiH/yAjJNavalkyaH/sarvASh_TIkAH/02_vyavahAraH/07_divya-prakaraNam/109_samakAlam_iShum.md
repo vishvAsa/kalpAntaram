@@ -1,6 +1,13 @@
 +++
 title = "109 समकालम् इषुम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the same moment, another swift man having fetched an arrow discharged [at that time],  
+when he returns, if he sees his limbs submerged, he attains clearance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम-कालम् इषुं मुक्तम्  

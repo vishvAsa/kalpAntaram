@@ -1,6 +1,13 @@
 +++
 title = "279 विषाग्निदाम् पतिगुरु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman who gives poison, sets fire, or kills her husband, elders, or own offspring,  
+having cut off her ears, hands, nose, and lips, he should cause to be trampled to death by bulls.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विषाग्निदां पति-गुरु-  

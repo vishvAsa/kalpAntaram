@@ -1,6 +1,13 @@
 +++
 title = "219 करपाददतो भङ्गे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For breaking a hand, foot, or tooth, or severing an ear or nose,  
+the middling fine applies, as well as for opening a wound or beating [someone] almost to death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर-पाद-दतो भङ्गे  

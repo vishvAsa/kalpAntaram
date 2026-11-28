@@ -1,6 +1,13 @@
 +++
 title = "112 देवान् उग्रान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having worshipped fierce deities, one should take the water of their bathing;  
+having consecrated it, one should make him drink three palmfuls of that water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवान् उग्रान् समभ्यर्च्य  

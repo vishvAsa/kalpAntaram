@@ -1,6 +1,13 @@
 +++
 title = "156 कर्मणा मनसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should diligently practice duty in deed, mind, and speech;  
+yet he should not perform what is unheavenly and hated by the world, even if it conforms to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्मणा मनसा वाचा  

@@ -1,6 +1,13 @@
 +++
 title = "128 कुशूलकुम्भीधान्यो वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having a granary full of grain, or a jar full of grain, or enough for three days, or not possessing [food] for the morrow,  
+or living by gleaning ears and grains: each succeeding one of these is superior.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुशूल-कुम्भी-धान्यो वा  

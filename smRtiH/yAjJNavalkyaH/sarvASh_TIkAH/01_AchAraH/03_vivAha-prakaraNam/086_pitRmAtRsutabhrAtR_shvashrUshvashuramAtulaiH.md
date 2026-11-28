@@ -1,6 +1,13 @@
 +++
 title = "086 पितृमातृसुतभ्रातृ श्वश्रूश्वशुरमातुलैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She should not be separated from father, mother, son, brother, mother-in-law, father-in-law, or maternal uncles,  
+without her husband; otherwise she would become blameworthy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-मातृ-सुत-भ्रातृ-  

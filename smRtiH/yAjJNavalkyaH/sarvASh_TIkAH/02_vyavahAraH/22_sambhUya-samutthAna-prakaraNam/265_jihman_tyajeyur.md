@@ -1,6 +1,13 @@
 +++
 title = "265 जिह्मन् त्यजेयुर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They may expel a dishonest [partner] without profit; one who is unable [to work] may have it done by another.  
+By this, the rule for sacrificial priests, cultivators, and artisans is declared.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जिह्मं त्यजेयुर् निर्लाभम्  

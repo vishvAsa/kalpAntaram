@@ -1,6 +1,13 @@
 +++
 title = "133 विपाकः कर्मणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fruition of some actions occurs after death, of some here [in this life],  
+and of some either here or in the next world; mental disposition is the cause in that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विपाकः कर्मणां प्रेत्य  

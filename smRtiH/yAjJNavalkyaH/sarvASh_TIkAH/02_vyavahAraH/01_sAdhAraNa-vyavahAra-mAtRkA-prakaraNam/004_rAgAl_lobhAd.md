@@ -1,6 +1,13 @@
 +++
 title = "004 रागाल् लोभाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If assessors act against traditional law through partiality, greed, or fear,  
+they are each to be punished separately with a fine twice the value of the legal dispute.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रागाल् लोभाद् भयाद् वापि  

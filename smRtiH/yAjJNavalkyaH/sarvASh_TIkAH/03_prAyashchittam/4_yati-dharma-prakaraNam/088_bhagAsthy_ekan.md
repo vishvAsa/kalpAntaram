@@ -1,6 +1,13 @@
 +++
 title = "088 भगास्थ्य् एकन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The pubic bone is one; in the back there are forty-five;  
+the neck has fifteen bones; the clavicles are one on each side, and likewise the jaw.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगास्थ्य् एकं तथा पृष्ठे  

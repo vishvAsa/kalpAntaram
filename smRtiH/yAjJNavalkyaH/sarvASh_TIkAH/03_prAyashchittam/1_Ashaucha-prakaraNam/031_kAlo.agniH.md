@@ -1,6 +1,13 @@
 +++
 title = "031 कालो ऽग्निः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Time, fire, rite, earth, wind, mind, knowledge, austerity, water,  
+repentance, and abstention from food: all these are causes of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कालो ऽग्निः कर्म मृद् वायुर्  

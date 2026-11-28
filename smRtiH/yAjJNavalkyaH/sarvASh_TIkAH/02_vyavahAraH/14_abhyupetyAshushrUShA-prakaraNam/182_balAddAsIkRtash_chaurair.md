@@ -1,6 +1,13 @@
 +++
 title = "182 बलाद्दासीकृतश् चौरैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One made a slave by force or sold by thieves is set free;  
+as is one who saves the master's life, by abandonment of maintenance, and also by payment of ransom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बलाद्-दासी-कृतश् चौरैर्  

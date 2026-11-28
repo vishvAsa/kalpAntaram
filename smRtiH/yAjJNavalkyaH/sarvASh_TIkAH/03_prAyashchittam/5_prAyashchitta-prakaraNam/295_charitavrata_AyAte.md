@@ -1,6 +1,13 @@
 +++
 title = "295 चरितव्रत आयाते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he returns having performed the vow, they should bring a new jar;  
+and they should not despise him, and they should associate with him in every way.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरित-व्रत आयाते  

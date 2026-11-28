@@ -1,6 +1,13 @@
 +++
 title = "108 द्वासप्ततिसहस्राणि हृदयाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seventy-two thousand channels called the wholesome and unwholesome  
+issue forth from the heart; in the midst of them is a moon-like radiant
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वासप्तति-सहस्राणि  

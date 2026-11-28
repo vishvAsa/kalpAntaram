@@ -1,6 +1,13 @@
 +++
 title = "116 गीतज्ञो यदि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a knower of song does not attain the highest state through yoga,  
+he becomes an attendant of Rudra and rejoices with him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गीतज्ञो यदि योगेन  

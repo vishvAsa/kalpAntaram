@@ -1,6 +1,13 @@
 +++
 title = "205 अभिगन्ता ऽस्मि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To one who swears, 'I will have intercourse with your sister or your mother,'  
+the king should assign a fine of twenty-five [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिगन्ता ऽस्मि भगिनीं  

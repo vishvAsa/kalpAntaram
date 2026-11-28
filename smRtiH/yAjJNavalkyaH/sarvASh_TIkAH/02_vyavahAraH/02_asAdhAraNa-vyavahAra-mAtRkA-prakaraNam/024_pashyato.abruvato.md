@@ -1,6 +1,13 @@
 +++
 title = "024 पश्यतो ऽब्रुवतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For land being enjoyed by another before the owner's eyes without his speaking, the loss occurs in twenty years;  
+for movable property, in ten years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पश्यतो ऽब्रुवतो भूमेर्  

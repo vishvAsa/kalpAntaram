@@ -1,6 +1,13 @@
 +++
 title = "353 स्वाम्य् अमात्या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king, the ministers, the people, the fortress, the treasury, and force,  
+and allies: these are the constituent elements; the kingdom is said to have seven limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वाम्य् अमात्या जनो दुर्गं  

@@ -1,6 +1,13 @@
 +++
 title = "282 भगन् ते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘May King Varuṇa give you fortune; fortune may the Sun [and] Bṛhaspati [give];  
+fortune may Indra and Vāyu, fortune may the Seven Sages give!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 भगं ते वरुणो राजा  

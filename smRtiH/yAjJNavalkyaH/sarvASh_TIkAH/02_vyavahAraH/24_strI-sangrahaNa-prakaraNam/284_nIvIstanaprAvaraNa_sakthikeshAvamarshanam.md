@@ -1,6 +1,13 @@
 +++
 title = "284 नीवीस्तनप्रावरण सक्थिकेशावमर्शनम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Touching the knot of the skirt, breasts, upper garment, thighs, or hair,  
+conversing at an improper place and time, and sitting together on a single seat—
+</details>
+
 <details><summary>मूलम्</summary>
 
 नीवी-स्तन-प्रावरण-  

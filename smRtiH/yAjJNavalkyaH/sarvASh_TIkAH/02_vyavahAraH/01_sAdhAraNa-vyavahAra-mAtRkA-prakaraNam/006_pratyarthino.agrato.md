@@ -1,6 +1,13 @@
 +++
 title = "006 प्रत्यर्थिनो ऽग्रतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the presence of the defendant, the claim made by the plaintiff should be recorded,  
+marked by year, month, fortnight, day, name, caste, and so forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रत्यर्थिनो ऽग्रतो लेख्यं  

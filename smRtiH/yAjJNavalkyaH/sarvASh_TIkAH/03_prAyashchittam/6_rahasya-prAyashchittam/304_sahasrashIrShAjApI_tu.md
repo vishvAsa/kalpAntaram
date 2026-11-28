@@ -1,6 +1,13 @@
 +++
 title = "304 सहस्रशीर्षाजापी तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has violated his guru's bed is freed by muttering the hymn beginning with 'A thousand heads' [Puruṣasūkta];  
+at the end of this rite, a milch cow should be given separately by each of these.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्र-शीर्षा-जापी तु  

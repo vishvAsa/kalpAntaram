@@ -1,6 +1,13 @@
 +++
 title = "173 शौल्किकैः स्थानपालैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When lost or stolen property is brought by customs officials or guards of royal stations,  
+the owner may claim it within a year; after that, the king takes it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शौल्किकैः स्थान-पालैर् वा  

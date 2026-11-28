@@ -1,6 +1,13 @@
 +++
 title = "263 तरिकः स्थलजं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A ferryman taking land-toll is to be made to pay ten paṇas;  
+this same [fine applies] in the case of not inviting Brahmin neighbours [to a feast].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तरिकः स्थलजं शुल्कं  

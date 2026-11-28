@@ -1,6 +1,13 @@
 +++
 title = "157 स्वामिने यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who constructs a dike in a field without first informing the owner:  
+when profit arises, the enjoyment belongs to the owner; in his absence, to the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वामिने यो ऽनिवेद्यैव  

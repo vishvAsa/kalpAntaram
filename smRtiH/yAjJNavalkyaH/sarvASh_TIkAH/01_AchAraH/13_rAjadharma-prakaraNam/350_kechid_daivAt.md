@@ -1,6 +1,13 @@
 +++
 title = "350 केचिद् दैवात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Some wish for the fruit from fate, or from nature, from time, or from human effort;  
+some of skilled intellect [wish for it] from their combination.
+</details>
+
 <details><summary>मूलम्</summary>
 
 केचिद् दैवात् स्वभावाद् वा  

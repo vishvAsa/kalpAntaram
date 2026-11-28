@@ -1,6 +1,13 @@
 +++
 title = "004 एवम् मातामहाचार्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Such is the water rite for deceased maternal grandfathers and teachers.  
+The water offering is optional for friends, married daughters, sisters' sons, fathers-in-law, and sacrificial priests.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं मातामहाचार्य-  

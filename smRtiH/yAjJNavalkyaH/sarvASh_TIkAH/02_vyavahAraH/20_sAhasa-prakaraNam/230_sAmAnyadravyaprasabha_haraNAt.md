@@ -1,6 +1,13 @@
 +++
 title = "230 सामान्यद्रव्यप्रसभ हरणात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the forcible taking of common property, a heinous offence is declared;  
+the fine is double its value, but fourfold in the case of denial.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामान्य-द्रव्य-प्रसभ-  

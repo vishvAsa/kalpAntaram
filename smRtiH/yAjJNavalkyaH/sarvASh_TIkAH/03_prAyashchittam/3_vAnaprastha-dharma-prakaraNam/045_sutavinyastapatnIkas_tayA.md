@@ -1,6 +1,13 @@
 +++
 title = "045 सुतविन्यस्तपत्नीकस् तया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Entrusting his wife to his son or accompanied by her,  
+the forest-dweller, remaining chaste, should go to the forest with his sacred fire and his domestic ritual.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुत-विन्यस्त-पत्नीकस्  

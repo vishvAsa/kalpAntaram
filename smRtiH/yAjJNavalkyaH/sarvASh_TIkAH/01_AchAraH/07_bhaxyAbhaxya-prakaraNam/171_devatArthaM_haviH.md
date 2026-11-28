@@ -1,6 +1,13 @@
 +++
 title = "171 देवतार्थं हविः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food prepared for deities, the śigru plant, red exudations from incisions in trees,  
+unoffered meats, excrement-born items, and mushrooms.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवतार्थं हविः शिग्रुं  

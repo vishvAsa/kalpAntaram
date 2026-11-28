@@ -1,6 +1,13 @@
 +++
 title = "056 यद् उच्यते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As for what is said regarding the taking of a wife from among Shudras by the twice-born,  
+that is not my opinion, because he himself is born in her.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यद् उच्यते द्विजातीनां  

@@ -1,6 +1,13 @@
 +++
 title = "073 साक्षिणः श्रावयेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cause the witnesses, standing near the plaintiff and defendant, to hear:  
+'Whatever worlds belong to sinners and to those who commit great sins,
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिणः श्रावयेद् वादि-  

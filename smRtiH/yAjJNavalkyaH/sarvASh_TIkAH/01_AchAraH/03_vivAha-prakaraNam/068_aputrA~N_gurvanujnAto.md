@@ -1,6 +1,13 @@
 +++
 title = "068 अपुत्राङ् गुर्व्अनुज्ञातो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Permitted by his elders, a brother-in-law, or a sapiṇḍa, or a sagotra, desiring a son,  
+smeared with clarified butter, may approach a childless woman during her fertile period.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रां गुर्व्-अनुज्ञातो  

@@ -1,6 +1,13 @@
 +++
 title = "118 इज्याध्ययनदानानि वैश्यस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sacrificing, Vedic study, and giving gifts [are the duties] of a Vaishya and of a Kshatriya;  
+accepting gifts is additional for a Brahmin, as are sacrificing for others and teaching.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इज्याध्ययन-दानानि  

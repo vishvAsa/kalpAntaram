@@ -1,6 +1,13 @@
 +++
 title = "047 ते तृप्तास्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They, being gratified, gratify him with all auspicious fruits of desire;  
+and whatever sacrifice he recites, he attains the fruit of that sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ते तृप्तास् तर्पयन्त्य् एनं  

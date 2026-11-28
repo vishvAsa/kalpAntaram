@@ -1,6 +1,13 @@
 +++
 title = "020 निह्नुते लिखितन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one denies all items listed, but is proved liable in one part,  
+he must be made by the king to pay the whole amount; but what was not claimed cannot be recovered.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निह्नुते लिखितं नैकम्  

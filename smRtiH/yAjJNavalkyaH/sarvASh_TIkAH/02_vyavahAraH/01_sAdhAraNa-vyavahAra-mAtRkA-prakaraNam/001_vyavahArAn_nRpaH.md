@@ -1,6 +1,13 @@
 +++
 title = "001 व्यवहारान् नृपः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king should examine legal disputes together with learned Brahmins,  
+in accordance with the treatise on duty, free from anger and greed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यवहारान् नृपः पश्येद्  

@@ -1,6 +1,13 @@
 +++
 title = "032 अकार्यकारिणान् दानं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For those who have committed misdeeds, giving is the purifier; and for a river, its current;  
+for an object to be cleansed, earth and water; and renunciation, indeed, for the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अकार्य-कारिणां दानं  

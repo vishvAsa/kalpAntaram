@@ -1,6 +1,13 @@
 +++
 title = "221 एकङ् घ्नताम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When many strike one person, the fine is double that stated;  
+property seized in an affray must be restored, and a fine double its value [paid].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकं घ्नतां बहूनां च  

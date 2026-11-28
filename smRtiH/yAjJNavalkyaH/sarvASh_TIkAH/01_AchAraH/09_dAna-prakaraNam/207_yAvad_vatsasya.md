@@ -1,6 +1,13 @@
 +++
 title = "207 यावद् वत्सस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As long as the two feet and the face of the calf are seen in the womb,  
+so long is the cow to be recognized as the earth, until she releases the embryo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावद् वत्सस्य पादौ द्वौ  

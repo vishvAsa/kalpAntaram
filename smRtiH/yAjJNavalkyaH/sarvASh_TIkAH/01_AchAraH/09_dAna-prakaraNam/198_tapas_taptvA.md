@@ -1,6 +1,13 @@
 +++
 title = "198 तपस् तप्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed austerity, Brahmā created Brahmins for the preservation of the Veda,  
+for the satisfaction of ancestors and gods, and for the protection of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपस् तप्त्वा ऽसृजद् ब्रह्मा  

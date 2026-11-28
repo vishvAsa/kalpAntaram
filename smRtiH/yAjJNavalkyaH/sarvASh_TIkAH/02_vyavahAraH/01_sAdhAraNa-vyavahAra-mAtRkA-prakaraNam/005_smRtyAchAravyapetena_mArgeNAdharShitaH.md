@@ -1,6 +1,13 @@
 +++
 title = "005 स्मृत्याचारव्यपेतेन मार्गेणाधर्षितः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a person aggrieved by others in a manner contrary to traditional law and custom  
+reports it to the king, that constitutes a cause for legal procedure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्मृत्याचारव्यपेतेन  

@@ -1,6 +1,13 @@
 +++
 title = "127 चाण्डालो जायते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man is born a Caṇḍāla from performing a sacrifice with materials begged from a Shudra;  
+not giving what was obtained for the purpose of sacrifice, he becomes a vulture or a crow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चाण्डालो जायते यज्ञ-  

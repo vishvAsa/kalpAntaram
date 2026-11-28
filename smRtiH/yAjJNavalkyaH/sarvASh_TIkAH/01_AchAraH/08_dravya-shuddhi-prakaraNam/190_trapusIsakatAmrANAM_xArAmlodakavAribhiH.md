@@ -2,6 +2,12 @@
 title = "190 त्रपुसीसकताम्राणां क्षाराम्लोदकवारिभिः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of tin, lead, and copper is by alkaline water, sour liquids, and water;  
+of bell-metal and iron, by ashes and water; and of a liquid, by overflowing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रपु-सीसक-ताम्राणां  

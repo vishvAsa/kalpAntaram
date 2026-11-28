@@ -1,6 +1,13 @@
 +++
 title = "162 यथा हि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as an actor colours his body with paints  
+creating various forms, so does the self [assume] bodies born of action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा हि भरतो वर्णैर्  

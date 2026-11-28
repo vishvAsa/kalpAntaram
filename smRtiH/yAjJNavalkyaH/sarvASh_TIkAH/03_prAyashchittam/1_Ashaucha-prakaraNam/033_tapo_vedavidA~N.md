@@ -1,6 +1,13 @@
 +++
 title = "033 तपो वेदविदाङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Austerity is said to be the purifier of knowers of the Veda; forbearance, of the wise; water, of the body;  
+muttering, of secret drinkers; truth, of the mind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपो वेदविदां क्षान्तिर्  

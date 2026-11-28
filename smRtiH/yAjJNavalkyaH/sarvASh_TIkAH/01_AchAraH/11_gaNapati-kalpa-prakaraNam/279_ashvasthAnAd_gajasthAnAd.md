@@ -1,6 +1,13 @@
 +++
 title = "279 अश्वस्थानाद् गजस्थानाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should cast into the water earth from a stable, an elephant-stable, an anthill, a confluence, and a lake,  
+and [also] rocanā, perfumes, and bdellium.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व-स्थानाद् गज-स्थानाद्  

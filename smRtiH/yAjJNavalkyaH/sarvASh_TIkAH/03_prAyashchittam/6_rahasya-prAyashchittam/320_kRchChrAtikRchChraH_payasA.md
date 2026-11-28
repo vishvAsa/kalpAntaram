@@ -1,6 +1,13 @@
 +++
 title = "320 कृच्छ्रातिकृच्छ्रः पयसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The most severe kṛcchra penance is [performed] with milk for twenty-one days;  
+the Parāka fast is proclaimed to be a fast of twelve days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्राति-कृच्छ्रः पयसा  

@@ -1,6 +1,13 @@
 +++
 title = "278 सर्वाउषधैः सर्वगन्धैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and his head anointed with all medicinal herbs and all perfumes;  
+while he is seated on an auspicious seat, auspicious Brahmins should be made to pronounce blessings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वाउषधैः सर्व-गन्धैर्  

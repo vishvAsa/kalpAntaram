@@ -1,6 +1,13 @@
 +++
 title = "157 मातृपित्र्अतिथिभ्रातृ जामिसम्बन्धिमातुलैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With mother, father, guests, brothers, sisters, relations, maternal uncles,  
+the elderly, children, the sick, preceptors, physicians, dependents, kinsmen,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातृ-पित्र्-अतिथि-भ्रातृ-  

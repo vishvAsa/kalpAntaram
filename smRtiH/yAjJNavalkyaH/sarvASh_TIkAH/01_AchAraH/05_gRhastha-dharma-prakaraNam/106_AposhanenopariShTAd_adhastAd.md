@@ -1,6 +1,13 @@
 +++
 title = "106 आपोशनेनोपरिष्टाद् अधस्ताद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Eating with sipping of water both after and beforehand,  
+the food should be rendered neither naked nor mortal by the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपोशनेनोपरिष्टाद्  

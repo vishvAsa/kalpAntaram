@@ -1,6 +1,13 @@
 +++
 title = "178 अग्नौ सुवर्णम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In fire, gold suffers no loss; silver loses two palas in a hundred;  
+eight in tin and lead; five in copper; and ten in iron.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नौ सुवर्णम् अक्षीणं  

@@ -1,6 +1,13 @@
 +++
 title = "158 फालाहतम् अपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who does not cultivate a field, nor cause it to be cultivated, even though it has been broken with the plough,  
+shall be made to pay the produce of cultivation, and he shall cause the field to be cultivated by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 फालाहतम् अपि क्षेत्रं  

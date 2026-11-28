@@ -1,6 +1,13 @@
 +++
 title = "166 ग्राम्येच्छया गोप्रचारो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pasturage for cattle exists by the wish of the villagers or under the authority of the king of the land.  
+A twice-born may take grass, fuel, and flowers from everywhere at all times.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्राम्येच्छया गो-प्रचारो  

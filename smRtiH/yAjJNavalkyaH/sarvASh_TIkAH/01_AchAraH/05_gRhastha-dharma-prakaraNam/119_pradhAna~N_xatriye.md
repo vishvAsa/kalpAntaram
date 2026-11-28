@@ -1,6 +1,13 @@
 +++
 title = "119 प्रधानङ् क्षत्रिये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The primary duty for a Kshatriya is the protection of the subjects;  
+money-lending, agriculture, trade, and cattle-rearing are prescribed for a Vaishya.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रधानं क्षत्रिये कर्म  

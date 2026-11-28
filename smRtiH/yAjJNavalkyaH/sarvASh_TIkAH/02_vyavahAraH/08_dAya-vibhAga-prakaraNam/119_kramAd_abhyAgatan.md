@@ -1,6 +1,13 @@
 +++
 title = "119 क्रमाद् अभ्यागतन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If one recovers property that came down in succession but was lost,  
+he need not give it to the co-heirs; and likewise what is acquired by learning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रमाद् अभ्यागतं द्रव्यं  

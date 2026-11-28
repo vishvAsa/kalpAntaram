@@ -1,6 +1,13 @@
 +++
 title = "124 असंस्कृतास् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Uninitiated brothers must be initiated by brothers previously initiated;  
+and sisters, having given a fourth part from their own share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असंस्कृतास् तु संस्कार्या  

@@ -1,6 +1,13 @@
 +++
 title = "330 सन्ध्याम् उपास्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having performed twilight devotion, he should hear the secret reports of spies.  
+He should dine with music and dance, and also recite the recitation of the Veda.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्याम् उपास्य शृणुयाच्  

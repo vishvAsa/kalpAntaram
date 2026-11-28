@@ -2,6 +2,12 @@
 title = "246 दातारो नो"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May donors increase for us, as also the Vedas and progeny;  
+may faith not depart from us, and may we have much to give!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दातारो नो ऽभिवर्धन्तां  

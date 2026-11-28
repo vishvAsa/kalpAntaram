@@ -1,6 +1,13 @@
 +++
 title = "147 पशुमण्डूकनकुल श्वाहिमार्जारमूषकैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a beast, frog, mongoose, dog, snake, cat, or rat  
+runs between [the teacher and pupil], the suspension lasts for a day and a night, as also when Indra's banner falls or is raised;
+</details>
+
 <details><summary>मूलम्</summary>
 
 पशु-मण्डूक-नकुल-  

@@ -1,6 +1,13 @@
 +++
 title = "307 राज्ञा ऽन्यायेन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever fine has been unlawfully taken by the king, having offered it to Varuṇa,  
+he should give it to Brahmins, increased thirtyfold by himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञा ऽन्यायेन यो दण्डो  

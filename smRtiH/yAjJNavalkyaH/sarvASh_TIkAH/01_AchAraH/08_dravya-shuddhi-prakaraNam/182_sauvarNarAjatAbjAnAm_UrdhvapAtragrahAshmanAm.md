@@ -1,6 +1,13 @@
 +++
 title = "182 सौवर्णराजताब्जानाम् ऊर्ध्वपात्रग्रहाश्मनाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Vessels of gold, silver, or conch-shell, upright wooden cups, planetary ladles, stone vessels,  
+vegetables, ropes, roots, fruits, garments, split bamboo, and hides;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सौवर्ण-राजताब्जानाम्  

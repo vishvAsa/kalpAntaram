@@ -1,6 +1,13 @@
 +++
 title = "345 अरिर् मित्रम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The enemy, the friend, the neutral, the immediate neighbor, the one beyond him, and the further one:  
+the circle [of states] should be contemplated in succession with policies beginning with conciliation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरिर् मित्रम् उदासीनो  

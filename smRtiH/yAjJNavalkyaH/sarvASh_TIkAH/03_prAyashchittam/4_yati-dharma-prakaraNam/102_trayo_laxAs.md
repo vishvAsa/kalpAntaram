@@ -1,6 +1,13 @@
 +++
 title = "102 त्रयो लक्षास्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three hundred thousand hairs of the beard and head are known in embodied beings,  
+one hundred and seven vital points, and two hundred joints.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रयो लक्षास् तु विज्ञेयाः  

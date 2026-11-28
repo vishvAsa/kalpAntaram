@@ -1,6 +1,13 @@
 +++
 title = "328 श्रुत्वैतान् ऋषयो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having heard these duties spoken by Yājñavalkya,  
+the seers addressed this to that great soul, the lord of yogins of boundless splendour:
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुत्वैतान् ऋषयो धर्मान्  

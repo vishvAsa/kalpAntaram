@@ -1,6 +1,13 @@
 +++
 title = "165 पालदोषविनाशे तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When loss occurs through the fault of the keeper, however, a fine is ordained for the keeper:  
+twelve and a half paṇas, and the property itself to the owner.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाल-दोष-विनाशे तु पाले  

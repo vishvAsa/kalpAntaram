@@ -1,6 +1,13 @@
 +++
 title = "007 श्रुतार्थस्योत्तरं लेख्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Once he has heard the matter, the answer [of the defendant] should be recorded in the presence of the complainant;  
+thereupon the plaintiff must immediately cause the proof of the matter asserted to be recorded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुतार्थस्योत्तरं लेख्यं  

@@ -1,6 +1,13 @@
 +++
 title = "220 स्वस्रीयर्त्विज्जामातृ याज्यश्वशुरमातुलाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a sister's son, a sacrificial priest, a son-in-law, a patron of sacrifice, a father-in-law, a maternal uncle,  
+a Triṇāciketa, a daughter's son, a student, a relative by marriage, and a kinsman,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वस्रीयर्त्विज्-जामातृ-  

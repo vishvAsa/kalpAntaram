@@ -1,6 +1,13 @@
 +++
 title = "243 अबन्ध्यं यश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever imprisons one not to be imprisoned, or releases one imprisoned,  
+or [imprisons] one who has not attained legal majority, is to be made to pay the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अबन्ध्यं यश् च बध्नाति  

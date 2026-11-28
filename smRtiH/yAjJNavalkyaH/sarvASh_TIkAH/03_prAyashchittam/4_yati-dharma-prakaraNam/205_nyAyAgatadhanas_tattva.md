@@ -1,6 +1,13 @@
 +++
 title = "205 न्यायागतधनस् तत्त्व"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One whose wealth is acquired righteously, devoted to knowledge of the truth, fond of guests,  
+performing ancestral rites, and speaking the truth—even a householder is liberated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न्यायागत-धनस् तत्त्व-  

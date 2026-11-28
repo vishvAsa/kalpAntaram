@@ -1,6 +1,13 @@
 +++
 title = "272 हंसश्येनकपिक्रव्याज् जलस्थलशिखण्डिनः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having killed a swan, a falcon, a monkey, a carnivorous bird, water or land peafowl,  
+or a vulture, one should give a cow; for a non-carnivorous [bird], a female calf;
+</details>
+
 <details><summary>मूलम्</summary>
 
 हंस-श्येन-कपि-क्रव्याज्  

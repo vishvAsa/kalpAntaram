@@ -1,6 +1,13 @@
 +++
 title = "085 समामासतद्अर्धाहर् नामजातिस्वगोत्रकैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+marked with the year, month, fortnight, day, name, caste, own lineage,  
+fellow-student status, and the names of oneself and one's father, and so forth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समा-मास-तद्-अर्धाहर्-  

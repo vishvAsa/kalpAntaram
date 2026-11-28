@@ -1,6 +1,13 @@
 +++
 title = "064 यदा तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the debt on a pledge has indeed doubled,  
+then the pledge is to be released once double the amount has entered [the creditor's hands] from its produce.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा तु द्वि-गुणी-भूतम्  

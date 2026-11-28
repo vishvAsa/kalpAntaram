@@ -1,6 +1,13 @@
 +++
 title = "210 यो येन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever associates with any of these is born with that person's mark.  
+The stealer of food becomes sickly; the stealer of speech, mute.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो येन संवसत्य् एषां  

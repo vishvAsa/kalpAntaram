@@ -1,6 +1,13 @@
 +++
 title = "258 क्षयं वृद्धिञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A merchant who does not know the decrease and increase of commodities  
+must not rescind after buying; doing so, he incurs a fine of a sixth part.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षयं वृद्धिं च वणिजा  

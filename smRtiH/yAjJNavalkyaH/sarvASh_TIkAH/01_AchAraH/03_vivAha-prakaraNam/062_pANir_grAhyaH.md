@@ -1,6 +1,13 @@
 +++
 title = "062 पाणिर् ग्राह्यः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The hand should be grasped with women of the same social class; a Kshatriya woman should hold an arrow;  
+a Vaishya woman should take a goad, in marriage to a man of the highest social class.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाणिर् ग्राह्यः सवर्णासु  

@@ -1,6 +1,13 @@
 +++
 title = "234 स्वच्छन्दविधवागामी विक्रुष्टे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who approaches a widow at will; one who does not run to help upon a cry of distress;  
+one who cries out in distress without cause; and a Caṇḍāla who touches higher classes;
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वच्छन्द-विधवागामी  

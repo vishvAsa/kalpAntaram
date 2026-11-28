@@ -1,6 +1,13 @@
 +++
 title = "358 अपि भ्राता"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be he a brother, a son, an object of reverence, a father-in-law, or a maternal uncle,  
+none who has deviated from his duty is immune from punishment by the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपि भ्राता सुतो ऽर्घ्यो वा  

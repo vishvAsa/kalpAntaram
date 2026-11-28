@@ -1,6 +1,13 @@
 +++
 title = "239 पितापुत्रविरोधे तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a dispute between father and son, the fine for the witnesses is three paṇas;  
+and whoever comes between the two, his fine is eight times that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिता-पुत्र-विरोधे तु  

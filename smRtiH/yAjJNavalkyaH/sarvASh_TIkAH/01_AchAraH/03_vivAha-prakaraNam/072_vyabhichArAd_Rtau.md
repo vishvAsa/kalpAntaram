@@ -1,6 +1,13 @@
 +++
 title = "072 व्यभिचाराद् ऋतौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification from adultery is [effected] by menstruation; abandonment is prescribed in case of conception,  
+and in the slaying of a foetus, of the husband, and the like, as well as in a major sin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्यभिचाराद् ऋतौ शुद्धिर्  

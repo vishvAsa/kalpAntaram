@@ -1,6 +1,13 @@
 +++
 title = "131 अन्त्यपक्षिस्थावरतां मनोवाक्कायकर्मजैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through faults born of the actions of mind, speech, and body,  
+this individual soul goes to the state of an outcaste, a bird, or an immobile thing, and to existence in hundreds of wombs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्त्य-पक्षि-स्थावरतां  

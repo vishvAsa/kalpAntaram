@@ -1,6 +1,13 @@
 +++
 title = "046 अफालकृष्तेनाग्नींश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With food not grown by plowing, self-controlled, bearing a beard, matted hair, and body hair,  
+he should gratify the fires, the ancestors, the gods, guests, and dependants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अफाल-कृष्तेनाग्नींश् च  

@@ -1,6 +1,13 @@
 +++
 title = "252 स्वदेशपण्ये तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A merchant who buys and sells immediately may take five percent  
+on local commodities, but ten percent on foreign goods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-देश-पण्ये तु शतं  

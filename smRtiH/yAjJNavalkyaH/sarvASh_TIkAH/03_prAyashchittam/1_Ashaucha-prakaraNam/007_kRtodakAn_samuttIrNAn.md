@@ -1,6 +1,13 @@
 +++
 title = "007 कृतोदकान् समुत्तीर्णान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered water, emerged [from it], and sat down on soft green grass,  
+after bathing, others should console them with ancient legends:
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृतोदकान् समुत्तीर्णान्  

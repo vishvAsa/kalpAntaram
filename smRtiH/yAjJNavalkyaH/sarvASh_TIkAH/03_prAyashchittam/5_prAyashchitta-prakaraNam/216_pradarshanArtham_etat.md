@@ -1,6 +1,13 @@
 +++
 title = "216 प्रदर्शनार्थम् एतत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This has been stated by me only by way of illustration in the matter of theft;  
+for just as there are types of objects, so indeed are the species of living beings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रदर्शनार्थम् एतत् तु  

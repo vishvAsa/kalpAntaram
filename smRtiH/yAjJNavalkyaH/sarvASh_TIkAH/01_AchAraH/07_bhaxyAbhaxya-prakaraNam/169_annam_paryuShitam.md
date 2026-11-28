@@ -1,6 +1,13 @@
 +++
 title = "169 अन्नम् पर्युषितम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stale food may be eaten if it is mixed with oil or clarified butter, even if kept long;  
+preparations of wheat, barley, and cow's milk may be eaten even without oil.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नं पर्युषितं भोज्यं  

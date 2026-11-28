@@ -1,6 +1,13 @@
 +++
 title = "076 अब्रुवन् हि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man who does not give testimony should be made by the king  
+to pay the entire debt together with a tenth part on the forty-sixth day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अब्रुवन् हि नरः साक्ष्यम्  

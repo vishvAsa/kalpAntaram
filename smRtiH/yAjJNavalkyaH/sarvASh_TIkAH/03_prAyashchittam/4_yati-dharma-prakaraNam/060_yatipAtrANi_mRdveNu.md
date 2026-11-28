@@ -1,6 +1,13 @@
 +++
 title = "060 यतिपात्राणि मृद्वेणु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The vessels of an ascetic are made of earth, bamboo, wood, or gourd;  
+purification of these is by water and scrubbing with cow-hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यति-पात्राणि मृद्-वेणु-  

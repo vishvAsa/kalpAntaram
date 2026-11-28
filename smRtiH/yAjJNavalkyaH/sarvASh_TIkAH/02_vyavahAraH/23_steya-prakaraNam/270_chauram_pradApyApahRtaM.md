@@ -2,6 +2,12 @@
 title = "270 चौरम् प्रदाप्यापहृतं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having made the thief return what was stolen, he should have him executed by various methods of execution;  
+but marking a Brahmin with an indelible sign, he should banish him from his kingdom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चौरं प्रदाप्यापहृतं  

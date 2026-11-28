@@ -1,6 +1,13 @@
 +++
 title = "224 दुःखोत्पादि गृहे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Throwing into a house an object causing pain or one taking life,  
+the first [actor] should be made to pay sixteen paṇas, the second the middling fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखोत्पादि गृहे द्रव्यं  

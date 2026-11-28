@@ -1,6 +1,13 @@
 +++
 title = "212 असाक्षिकहते चिह्नैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an unwitnessed battery, the legal dispute is to be determined  
+by physical marks, inferences, and past record, because of fear of fabricated marks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 असाक्षिक-हते चिह्नैर्  

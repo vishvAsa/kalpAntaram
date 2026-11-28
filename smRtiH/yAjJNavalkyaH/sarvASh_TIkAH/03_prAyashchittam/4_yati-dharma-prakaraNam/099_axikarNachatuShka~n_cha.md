@@ -1,6 +1,13 @@
 +++
 title = "099 अक्षिकर्णचतुष्कञ् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The four pairs of eyes and ears, the feet, hands, and heart,  
+and the nine apertures are indeed the seats of the vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षि-कर्ण-चतुष्कं च  

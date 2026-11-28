@@ -1,6 +1,13 @@
 +++
 title = "316 पर्णोदुम्बरराजीव बिल्वपत्रकुशोदकैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By drinking [the decoction of] leaves, udumbara, lotus, bilva leaves, and kuśa water,  
+each individually on each day, it is declared to be the Parṇakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर्णोदुम्बर-राजीव-  

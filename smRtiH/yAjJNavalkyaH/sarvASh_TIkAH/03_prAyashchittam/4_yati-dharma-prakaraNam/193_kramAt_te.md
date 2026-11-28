@@ -1,6 +1,13 @@
 +++
 title = "193 क्रमात् ते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+they successively attain the flame, the day, the bright fortnight, the northern  
+course [of the sun], the realm of the gods, the sun, and the realm of lightning.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रमात् ते सम्भवन्त्य् अर्चिर्  

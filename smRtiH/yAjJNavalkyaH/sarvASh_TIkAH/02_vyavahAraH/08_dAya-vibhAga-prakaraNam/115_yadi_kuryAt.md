@@ -1,6 +1,13 @@
 +++
 title = "115 यदि कुर्यात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If he makes equal shares, wives must be made equal sharers  
+to whom woman's separate property has not been given by the husband or the father-in-law.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि कुर्यात् समान् अंशान्  

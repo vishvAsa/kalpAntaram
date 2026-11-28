@@ -1,6 +1,13 @@
 +++
 title = "145 सन्ध्यागर्जितनिर्घात भूकम्पोल्कानिपातने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When twilight brings thunder, meteoric thunderclaps, earthquakes, or falling meteors,  
+[recitation is suspended for a day and night,] and having completed a Veda for a day and a night, or upon studying an Āraṇyaka;
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्या-गर्जित-निर्घात-  

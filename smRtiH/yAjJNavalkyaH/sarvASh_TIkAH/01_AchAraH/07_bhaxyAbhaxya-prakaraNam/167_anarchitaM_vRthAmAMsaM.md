@@ -1,6 +1,13 @@
 +++
 title = "167 अनर्चितं वृथामांसं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unconsecrated food, meat not used in sacrifice, food contaminated with hair or insects,  
+sour food, stale food, remnants, food touched by a dog, or looked upon by a degraded person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनर्चितं वृथा-मांसं  

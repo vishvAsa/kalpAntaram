@@ -1,6 +1,13 @@
 +++
 title = "210 पतनीयकृते क्षेपे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In an insult involving an offence causing loss of caste, the fine is the middling heinous offence [fine];  
+but in one connected with a secondary sin, he should be made to pay the first heinous offence [fine].
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतनीय-कृते क्षेपे  

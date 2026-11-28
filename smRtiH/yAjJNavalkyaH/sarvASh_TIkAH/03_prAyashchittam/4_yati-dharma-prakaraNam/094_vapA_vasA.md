@@ -1,6 +1,13 @@
 +++
 title = "094 वपा वसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The omentum, fat tissue, navel, trachea, liver, spleen,  
+small intestine, kidneys, bladder, and receptacle for faeces,
+</details>
+
 <details><summary>मूलम्</summary>
 
 वपा वसा ऽवहननं  

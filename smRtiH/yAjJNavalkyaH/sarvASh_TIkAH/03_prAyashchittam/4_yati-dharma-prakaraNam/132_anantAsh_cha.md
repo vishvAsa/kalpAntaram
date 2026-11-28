@@ -1,6 +1,13 @@
 +++
 title = "132 अनन्ताश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as there are endless states of being in the bodies of the embodied,  
+so too are there forms for embodied souls in all wombs in this world.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्ताश् च यथा भावाः  

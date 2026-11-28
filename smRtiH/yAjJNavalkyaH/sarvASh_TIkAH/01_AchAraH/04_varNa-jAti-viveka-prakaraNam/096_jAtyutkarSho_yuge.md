@@ -1,6 +1,13 @@
 +++
 title = "096 जात्य्उत्कर्षो युगे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An elevation of class is to be understood [to take place] in the seventh or in the fifth generation;  
+in the case of an inversion of conduct, equality [of class] and descent [occur], as previously explained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जात्य्-उत्कर्षो युगे ज्ञेयः  

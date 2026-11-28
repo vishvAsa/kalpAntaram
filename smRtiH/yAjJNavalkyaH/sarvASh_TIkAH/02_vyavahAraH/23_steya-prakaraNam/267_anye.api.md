@@ -1,6 +1,13 @@
 +++
 title = "267 अन्ये ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Others also are to be seized on suspicion: those who conceal their social class, name, and the like;  
+those addicted to gambling, women, and drinking; and those whose mouths and voices are dry and faltering;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्ये ऽपि शङ्कया ग्राह्या  

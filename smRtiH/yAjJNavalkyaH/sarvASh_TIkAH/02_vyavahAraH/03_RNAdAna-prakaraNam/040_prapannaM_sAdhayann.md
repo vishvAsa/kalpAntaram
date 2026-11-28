@@ -1,6 +1,13 @@
 +++
 title = "040 प्रपन्नं साधयन्न्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A creditor recovering an admitted debt should not be censured by the king;  
+a debtor who complains to the king while being made to pay is to be fined and made to pay the debt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रपन्नं साधयन्न् अर्थं  

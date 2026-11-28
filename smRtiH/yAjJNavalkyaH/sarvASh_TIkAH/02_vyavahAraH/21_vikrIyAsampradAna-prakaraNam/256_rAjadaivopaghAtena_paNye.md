@@ -1,6 +1,13 @@
 +++
 title = "256 राजदैवोपघातेन पण्ये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a commodity is damaged through an act of the king or an act of god,  
+that loss falls only on the seller who does not deliver it when demanded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज-दैवोपघातेन  

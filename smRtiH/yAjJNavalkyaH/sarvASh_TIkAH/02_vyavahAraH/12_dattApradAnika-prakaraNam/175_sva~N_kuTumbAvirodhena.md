@@ -1,6 +1,13 @@
 +++
 title = "175 स्वङ् कुटुम्बाविरोधेन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One's own property, except for wife and son, may be given without detriment to the family;  
+not one's entire estate when there is progeny, nor what has been promised to another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वं कुटुम्बाविरोधेन  

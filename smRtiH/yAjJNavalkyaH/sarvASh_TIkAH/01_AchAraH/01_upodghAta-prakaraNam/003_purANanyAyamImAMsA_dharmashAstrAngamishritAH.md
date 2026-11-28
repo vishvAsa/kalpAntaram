@@ -1,6 +1,13 @@
 +++
 title = "003 पुराणन्यायमीमांसा धर्मशास्त्राङ्गमिश्रिताः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The four Vedas, along with the Purāṇas, Nyāya, Mīmāṃsā,  
+the treatises on duty, and the auxiliary sciences, are the fourteen sources of knowledge and of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुराण-न्याय-मीमांसा-  

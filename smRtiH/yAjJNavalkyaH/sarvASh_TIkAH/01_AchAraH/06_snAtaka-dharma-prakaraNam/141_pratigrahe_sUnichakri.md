@@ -1,6 +1,13 @@
 +++
 title = "141 प्रतिग्रहे सूनिचक्रि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In receiving gifts, a slaughterhouse-keeper, an oil-presser, a tavern-keeper, a courtesan, and a king—  
+these are each ten times more corrupt than the one preceding, in that order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रहे सूनि-चक्रि-  

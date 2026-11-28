@@ -1,6 +1,13 @@
 +++
 title = "054 दर्शनप्रतिभूर् यत्र"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Where a surety for appearance or for assurance dies,  
+his sons need not pay the debt; but [the sons] of him who stood for payment must pay.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दर्शन-प्रतिभूर् यत्र  

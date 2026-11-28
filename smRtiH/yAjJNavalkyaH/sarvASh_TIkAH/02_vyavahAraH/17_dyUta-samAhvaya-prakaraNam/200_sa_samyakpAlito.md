@@ -1,6 +1,13 @@
 +++
 title = "200 स सम्यक्पालितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Well protected, he shall pay the king the share as stipulated;  
+he must collect what was won for the winner, speak truthfully, and remain patient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स सम्यक्-पालितो दद्याद्  

@@ -1,6 +1,13 @@
 +++
 title = "019 छलन् निरस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rejecting deception, the king should conduct legal proceedings according to the facts;  
+yet even a fact, if not presented, is lost through legal procedure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छलं निरस्य भूतेन  

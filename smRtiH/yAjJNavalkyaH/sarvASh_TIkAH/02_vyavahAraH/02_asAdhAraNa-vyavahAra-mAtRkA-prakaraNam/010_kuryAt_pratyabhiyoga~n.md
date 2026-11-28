@@ -1,6 +1,13 @@
 +++
 title = "010 कुर्यात् प्रत्यभियोगञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One may, however, make a counter-accusation in cases of brawl and heinous offences.  
+For both parties, a surety capable of fulfilling the determination of the suit should be taken.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुर्यात् प्रत्यभियोगं च  

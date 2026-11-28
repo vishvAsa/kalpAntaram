@@ -1,6 +1,13 @@
 +++
 title = "193 रश्मिर् अग्नी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sunlight, fire, dust, shade, a cow, a horse, earth, wind,  
+drops [of saliva], and flies are pure to the touch; a calf [is pure] during lactation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रश्मिर् अग्नी रजश्-छाया  

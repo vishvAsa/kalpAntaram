@@ -1,6 +1,13 @@
 +++
 title = "024 अहस् त्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One day is the purifier for unmarried girls and young boys,  
+and for a guru, a resident pupil, a learned teacher, a maternal uncle, and a Vedic scholar;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहस् त्व् अदत्त-कन्यासु  

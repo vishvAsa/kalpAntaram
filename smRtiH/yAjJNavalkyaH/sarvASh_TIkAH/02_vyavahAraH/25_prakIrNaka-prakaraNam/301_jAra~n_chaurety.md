@@ -1,6 +1,13 @@
 +++
 title = "301 जारञ् चौरेत्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Calling a paramour a 'thief', one shall be made to pay a fine of five hundred;  
+releasing him after taking money, eight times that amount.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जारं चौरेत्य् अभिवदन्  

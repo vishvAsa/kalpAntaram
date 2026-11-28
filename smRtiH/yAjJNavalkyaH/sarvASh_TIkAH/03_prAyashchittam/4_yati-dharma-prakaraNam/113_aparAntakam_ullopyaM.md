@@ -1,6 +1,13 @@
 +++
 title = "113 अपरान्तकम् उल्लोप्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The aparāntaka, the ullopya, the madraka, and the prakarī,  
+as well as the auveṇaka, the sarobindu, the uttara, and the songs,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपरान्तकम् उल्लोप्यं  

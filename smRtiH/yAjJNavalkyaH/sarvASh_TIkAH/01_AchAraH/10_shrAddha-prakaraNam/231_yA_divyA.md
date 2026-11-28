@@ -1,6 +1,13 @@
 +++
 title = "231 या दिव्या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he should pour the guest-water into their hands with the mantra: 'The divine waters...'.  
+Having given water, perfumes, a garland, and an offering of incense accompanied by a lamp,
+</details>
+
 <details><summary>मूलम्</summary>
 
 या दिव्या इति मन्त्रेण  

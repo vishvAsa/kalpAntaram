@@ -1,6 +1,13 @@
 +++
 title = "092 हस्तौ पायुर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two hands, the anus, the genitals, the tongue, and the two feet—  
+one should know these as the five organs of action, and the mind shares the nature of both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हस्तौ पायुर् उपस्थं च  

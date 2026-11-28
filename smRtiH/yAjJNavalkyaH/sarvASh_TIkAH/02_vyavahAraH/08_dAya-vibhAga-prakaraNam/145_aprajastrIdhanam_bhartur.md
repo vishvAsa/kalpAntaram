@@ -1,6 +1,13 @@
 +++
 title = "145 अप्रजस्त्रीधनम् भर्तुर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The separate property of a childless woman goes to the husband in the four [forms of marriage] beginning with the Brāhma;  
+if she has daughters, [it goes to them]; in the remaining [forms], it goes to her parents.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रज-स्त्री-धनं भर्तुर्  

@@ -1,6 +1,13 @@
 +++
 title = "261 एभिस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever resides with these [sinners] for a year becomes equal to them.  
+One should marry a maiden of theirs who fasts and has no possessions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एभिस् तु संवसेद् यो वै  

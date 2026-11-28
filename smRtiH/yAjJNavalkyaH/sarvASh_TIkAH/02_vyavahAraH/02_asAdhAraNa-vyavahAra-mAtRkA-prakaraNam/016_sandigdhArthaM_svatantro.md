@@ -1,6 +1,13 @@
 +++
 title = "016 सन्दिग्धार्थं स्वतन्त्रो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who on his own recovers a disputed claim, or flees,  
+or says nothing when summoned, is held to have lost and is to be fined.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्दिग्धार्थं स्वतन्त्रो यः  

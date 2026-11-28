@@ -1,6 +1,13 @@
 +++
 title = "296 पतितानाम् एष"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This very rule has been declared for fallen women:  
+dwelling near the house should be given [to her], food, clothing, along with protection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पतितानाम् एष एव  

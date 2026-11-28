@@ -2,6 +2,12 @@
 title = "209 ब्रह्महा क्षयरोगी"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The killer of a Brahmin becomes consumptive; the drinker of liquor, black-toothed;  
+the stealer of gold, foul-nailed; and the violator of the guru's bed, diseased in the skin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्महा क्षय-रोगी स्यात्  

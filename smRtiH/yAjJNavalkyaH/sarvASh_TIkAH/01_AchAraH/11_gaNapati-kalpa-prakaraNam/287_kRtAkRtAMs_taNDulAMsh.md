@@ -1,6 +1,13 @@
 +++
 title = "287 कृताकृतांस् तण्डुलांश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cooked and uncooked rice grains, and sesame-seed rice,  
+fish cooked and raw, and only just that much meat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृताकृतांस् तण्डुलांश् च  

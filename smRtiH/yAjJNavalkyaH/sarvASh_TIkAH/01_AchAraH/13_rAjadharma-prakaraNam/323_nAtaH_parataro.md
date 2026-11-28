@@ -1,6 +1,13 @@
 +++
 title = "323 नातः परतरो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There is no higher duty for kings than this: that wealth acquired in battle  
+is given to Brahmins, and freedom from fear is always [granted] to subjects.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नातः परतरो धर्मो  

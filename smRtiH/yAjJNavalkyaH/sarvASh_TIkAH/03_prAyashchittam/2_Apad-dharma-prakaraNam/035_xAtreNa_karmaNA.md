@@ -1,6 +1,13 @@
 +++
 title = "035 क्षात्रेण कर्मणा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In distress, a twice-born may live by the work of a Kshatriya or even of a Vaishya;  
+having crossed over it, he should purify himself and set himself upon the proper path.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षात्रेण कर्मणा जीवेद्  

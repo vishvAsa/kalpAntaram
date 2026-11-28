@@ -1,6 +1,13 @@
 +++
 title = "123 वयोबुद्ध्य्अर्थवाग्वेष श्रुताभिजनकर्मणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should pursue a livelihood suitable to his age, intellect, wealth, speech, dress, learning, lineage, and occupation,  
+straightforward and uncheating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वयो-बुद्ध्य्-अर्थ-वाग्-वेष-  

@@ -1,6 +1,13 @@
 +++
 title = "188 कर्तव्यं वचनं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+All must carry out the instructions of those who speak for the welfare of the association;  
+whoever acts contrary therein should be made to pay the first fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्तव्यं वचनं सर्वैः  

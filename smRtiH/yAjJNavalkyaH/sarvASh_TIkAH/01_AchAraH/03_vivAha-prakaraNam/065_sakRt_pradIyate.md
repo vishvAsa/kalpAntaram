@@ -1,6 +1,13 @@
 +++
 title = "065 सकृत् प्रदीयते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A maiden is given away once; he who abducts her is liable to the punishment of a thief;  
+even if given away, she may be taken away from the former [suitor] if a better groom arrives.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सकृत् प्रदीयते कन्या  

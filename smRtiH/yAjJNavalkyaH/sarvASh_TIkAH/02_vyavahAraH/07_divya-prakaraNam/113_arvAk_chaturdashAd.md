@@ -1,6 +1,13 @@
 +++
 title = "113 अर्वाक् चतुर्दशाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He to whom within fourteen days no terrible disaster occurs,  
+caused by the king or the gods, is pure without doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्वाक् चतुर्दशाद् अह्नो  

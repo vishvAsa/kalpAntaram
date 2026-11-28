@@ -1,6 +1,13 @@
 +++
 title = "086 षष्ट्य्अङ्गुलीनान् द्वे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixty bones of the digits, two in the heels, four in the ankles,  
+four bones in the forearms, and just as many in the shanks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 षष्ट्य्-अङ्गुलीनां द्वे पार्ष्ण्योर्  

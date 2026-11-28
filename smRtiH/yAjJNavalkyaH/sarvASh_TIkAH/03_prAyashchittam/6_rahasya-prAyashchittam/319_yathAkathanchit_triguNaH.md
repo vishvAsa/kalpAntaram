@@ -1,6 +1,13 @@
 +++
 title = "319 यथाकथञ्चित् त्रिगुणः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Repeated three times in any manner, this is called the Prājāpatya penance;  
+this very [penance], when eating food filling [only] the hand, would be the severe kṛcchra penance.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कथञ्चित् त्रि-गुणः  

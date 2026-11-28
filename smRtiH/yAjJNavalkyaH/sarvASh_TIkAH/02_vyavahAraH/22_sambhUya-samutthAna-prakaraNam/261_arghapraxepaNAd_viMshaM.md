@@ -1,6 +1,13 @@
 +++
 title = "261 अर्घप्रक्षेपणाद् विंशं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king may take a twentieth part of the estimated price as customs duty;  
+goods prohibited or suitable for the king, when sold, go to the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्घ-प्रक्षेपणाद् विंशं  

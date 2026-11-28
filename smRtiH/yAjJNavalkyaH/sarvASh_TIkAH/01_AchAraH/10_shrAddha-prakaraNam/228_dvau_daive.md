@@ -1,6 +1,13 @@
 +++
 title = "228 द्वौ दैवे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Two [Brahmins] facing east for the divine, three facing north for the ancestors, or even one for each;  
+so too for the maternal grandfathers, or a combined rite for the All-gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ दैवे प्राक् त्रयः पित्र्य  

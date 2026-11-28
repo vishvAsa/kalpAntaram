@@ -1,6 +1,13 @@
 +++
 title = "134 मृते पितरि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the father has died, the brothers should make him a half-sharer;  
+if he has no brothers, he takes the whole, except if there is a son of daughters.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते पितरि कुर्युस् तं  

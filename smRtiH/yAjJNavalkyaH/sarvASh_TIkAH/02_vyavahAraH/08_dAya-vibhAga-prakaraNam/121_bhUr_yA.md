@@ -1,6 +1,13 @@
 +++
 title = "121 भूर् या"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Land, a periodic grant, or movable property acquired by the grandfather—  
+in that, indeed, ownership is equal between the father and the son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भूर् या पितामहोपात्ता  

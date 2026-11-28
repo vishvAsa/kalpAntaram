@@ -1,6 +1,13 @@
 +++
 title = "244 मानेन तुलया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever takes away an eighth part by measure or scale  
+is to be made to pay a fine of two hundred [paṇas], adjusted for increases and decreases.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानेन तुलया वा ऽपि  

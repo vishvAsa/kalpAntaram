@@ -1,6 +1,13 @@
 +++
 title = "008 तत्सिद्धौ सिद्धिम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If that is established, he achieves success; if otherwise, the reverse.  
+This legal procedure is declared to consist of four feet in legal disputes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्-सिद्धौ सिद्धिम् आप्नोति  

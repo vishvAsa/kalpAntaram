@@ -1,6 +1,13 @@
 +++
 title = "159 पञ्च पिण्डान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without lifting out five balls of earth, he should not bathe in waters belonging to another;  
+he may bathe in rivers, natural reservoirs made by gods, lakes, and springs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च पिण्डान् अनुद्धृत्य  

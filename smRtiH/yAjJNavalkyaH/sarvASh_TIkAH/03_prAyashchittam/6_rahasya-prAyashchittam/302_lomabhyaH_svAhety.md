@@ -1,6 +1,13 @@
 +++
 title = "302 लोमभ्यः स्वाहेत्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or else, subsisting on air for a day, standing in water,  
+he should offer forty oblations of clarified butter with the words: 'To the bodily hairs, svāhā.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोमभ्यः स्वाहेत्य् अथ वा  

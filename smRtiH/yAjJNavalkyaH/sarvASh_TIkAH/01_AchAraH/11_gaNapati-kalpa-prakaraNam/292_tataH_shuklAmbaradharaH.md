@@ -1,6 +1,13 @@
 +++
 title = "292 ततः शुक्लाम्बरधरः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, wearing white garments, with white garlands and ointments,  
+he should feed Brahmins and give a pair of garments even to his guru.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततः शुक्लाम्बर-धरः  

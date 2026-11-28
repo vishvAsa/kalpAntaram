@@ -1,6 +1,13 @@
 +++
 title = "217 यथाकर्म फलम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having obtained the fruit according to their deeds in the animal state through the lapse of time,  
+the lowest of men are born destitute, devoid of auspicious bodily marks.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-कर्म फलं प्राप्य  

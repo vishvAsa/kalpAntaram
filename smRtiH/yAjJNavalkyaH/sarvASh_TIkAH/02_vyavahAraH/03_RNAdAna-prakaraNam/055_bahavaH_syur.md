@@ -1,6 +1,13 @@
 +++
 title = "055 बहवः स्युर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If there are many sureties, they shall pay the money according to their shares;  
+when they are bound jointly and severally, [they pay] at the option of the creditor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बहवः स्युर् यदि स्वांशैर्  

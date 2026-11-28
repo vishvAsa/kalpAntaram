@@ -1,6 +1,13 @@
 +++
 title = "174 पणान् एकशफे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should give four paṇas for a single-hoofed animal, five for a human,  
+two each for buffaloes, camels, and cattle, and a quarter-paṇa for a goat or sheep.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पणान् एकशफे दद्याच्  

@@ -1,6 +1,13 @@
 +++
 title = "021 हतानान् नृपगोविप्रैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For those killed by kings, cows, or Brahmins, and for suicides, [purification is] immediate.  
+When [a kinsman dies] abroad, [the period of impurity] should be the remainder of the time; once [that period has] fully passed, one is pure after offering water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हतानां नृप-गो-विप्रैर्  

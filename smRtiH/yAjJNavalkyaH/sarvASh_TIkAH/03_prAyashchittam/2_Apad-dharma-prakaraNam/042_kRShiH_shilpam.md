@@ -1,6 +1,13 @@
 +++
 title = "042 कृषिः शिल्पम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agriculture, crafts, hired labour, teaching, money-lending, carting, [gathering in] mountains,  
+service, [clearing] wetlands, the king, and begging are livelihoods in distress.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृषिः शिल्पं भृतिर् विद्या  

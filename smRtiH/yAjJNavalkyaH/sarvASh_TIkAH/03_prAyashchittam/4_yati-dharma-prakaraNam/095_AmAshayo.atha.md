@@ -1,6 +1,13 @@
 +++
 title = "095 आमाशयो ऽथ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the stomach, heart, large intestine, anus,  
+abdomen, and both buttocks and pelvic organs: this is proclaimed as the full extent.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आमाशयो ऽथ हृदयं  

@@ -1,6 +1,13 @@
 +++
 title = "140 न+आचक्षीत धयन्तीङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not point out a suckling cow; he should never enter except through a door;  
+he should not accept gifts from a greedy king who acts contrary to scripture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न+आचक्षीत धयन्तीं गां  

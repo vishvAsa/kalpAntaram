@@ -1,6 +1,13 @@
 +++
 title = "081 पृथक् पृथग्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+False witnesses and the suborner of perjury should be fined separately,  
+a fine double the dispute; a Brahmin is declared to be banished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृथक् पृथग् दण्डनीयाः  

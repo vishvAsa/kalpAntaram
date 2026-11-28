@@ -1,6 +1,13 @@
 +++
 title = "274 व्रजन्न् अपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+even when walking, he imagines himself pursued by enemies;  
+he is despondent, his undertakings fail, and he falls into despair without cause.
+</details>
+
 <details><summary>मूलम्</summary>
 
 व्रजन्न् अपि तथ +आत्मानं  

@@ -1,6 +1,13 @@
 +++
 title = "272 स्वसीन्नि दद्याद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The village must pay [if the crime occurs] within its own boundary, or whither the footprints lead;  
+or a cluster of five villages, or a cluster of ten villages, if beyond a krośa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्व-सीन्नि दद्याद् ग्रामस् तु  

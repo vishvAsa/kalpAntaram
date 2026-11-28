@@ -1,6 +1,13 @@
 +++
 title = "141 औरसाः क्षेत्रजास्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Their legitimate sons and sons of the wife, however, if free from defects, take a share;  
+and their daughters must be maintained until they are given away to husbands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औरसाः क्षेत्रजास् त्व् एषां  

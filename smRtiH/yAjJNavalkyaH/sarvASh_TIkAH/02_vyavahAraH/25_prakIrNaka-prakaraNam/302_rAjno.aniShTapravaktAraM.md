@@ -1,6 +1,13 @@
 +++
 title = "302 राज्ञो ऽनिष्टप्रवक्तारं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who speaks what is disagreeable to the king, one who reviles him,  
+and one who reveals his secret counsel: having cut out his tongue, he should banish him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राज्ञो ऽनिष्ट-प्रवक्तारं  

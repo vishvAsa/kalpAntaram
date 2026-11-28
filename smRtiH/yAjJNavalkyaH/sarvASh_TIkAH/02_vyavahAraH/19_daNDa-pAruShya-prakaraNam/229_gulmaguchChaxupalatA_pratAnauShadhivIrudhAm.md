@@ -1,6 +1,13 @@
 +++
 title = "229 गुल्मगुच्छक्षुपलता प्रतानौषधिवीरुधाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting down shrubs, clusters, bushes, climbing plants, spreading creepers, medicinal herbs, and vines  
+in the stated places, the fine is half of that previously stated.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुल्म-गुच्छ-क्षुप-लता-  

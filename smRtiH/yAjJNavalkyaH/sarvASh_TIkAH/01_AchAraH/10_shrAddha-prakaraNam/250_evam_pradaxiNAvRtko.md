@@ -1,6 +1,13 @@
 +++
 title = "250 एवम् प्रदक्षिणावृत्को"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this manner, turning clockwise at a joyful celebration, he should worship the Nāndīmukha ancestors,  
+performing the rites with barley and offering rice-balls mixed with curds and jujube fruit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं प्रदक्षिणावृत्को  

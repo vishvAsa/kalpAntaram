@@ -1,6 +1,13 @@
 +++
 title = "106 षट् श्लेष्मा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+six of phlegm, five of bile, four of urine,  
+three of muscle-fat, two of adipose tissue, one of marrow, and above in the head [one of brain-marrow];
+</details>
+
 <details><summary>मूलम्</summary>
 
 षट् श्लेष्मा पञ्च पित्तं तु  

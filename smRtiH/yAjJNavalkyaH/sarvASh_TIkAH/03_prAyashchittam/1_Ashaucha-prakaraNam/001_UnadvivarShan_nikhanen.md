@@ -2,6 +2,12 @@
 title = "001 ऊनद्विवर्षन् निखनेन्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should bury a child under two years old; no water offering should be made thereafter.  
+Following [the corpse] to the cremation ground, any other person, accompanied by relatives,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊन-द्वि-वर्षं निखनेन्  

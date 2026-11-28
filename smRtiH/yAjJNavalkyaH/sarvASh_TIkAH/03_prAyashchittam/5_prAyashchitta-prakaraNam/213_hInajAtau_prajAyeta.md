@@ -1,6 +1,13 @@
 +++
 title = "213 हीनजातौ प्रजायेत"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stealer of another's gems is born in a low caste;  
+having stolen leafy vegetables, a peacock; [having stolen] pleasant perfumes, a musk-rat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हीन-जातौ प्रजायेत  

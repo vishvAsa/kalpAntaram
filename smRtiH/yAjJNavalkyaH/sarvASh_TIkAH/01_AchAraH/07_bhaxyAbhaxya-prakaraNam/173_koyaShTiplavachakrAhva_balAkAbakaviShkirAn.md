@@ -1,6 +1,13 @@
 +++
 title = "173 कोयष्टिप्लवचक्राह्व बलाकाबकविष्किरान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The koyaṣṭi bird, water-fowl, ruddy sheldrake, white heron, egret, scratching birds,  
+preparations of rice with sesame, barley cakes, sweet rice pudding, cakes, and pastry prepared uselessly [not for gods or ancestors];
+</details>
+
 <details><summary>मूलम्</summary>
 
 कोयष्टि-प्लव-चक्राह्व-  

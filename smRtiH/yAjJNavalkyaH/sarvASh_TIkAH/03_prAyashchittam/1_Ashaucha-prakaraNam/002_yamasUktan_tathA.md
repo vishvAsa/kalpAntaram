@@ -1,6 +1,13 @@
 +++
 title = "002 यमसूक्तन् तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+should be burned with secular fire by those reciting the Yama hymn and sacred verses,  
+but if initiated, according to the rule of the keeper of sacred fire, with proper rites.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यम-सूक्तं तथा गाथा  

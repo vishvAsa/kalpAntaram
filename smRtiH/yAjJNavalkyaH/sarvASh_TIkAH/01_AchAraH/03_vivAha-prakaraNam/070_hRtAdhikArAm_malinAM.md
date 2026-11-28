@@ -1,6 +1,13 @@
 +++
 title = "070 हृताधिकाराम् मलिनां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Deprived of her rights, unkempt, subsisting on bare morsels of food,  
+treated with contempt, sleeping on the ground, an unchaste woman should be made to live.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृताधिकारां मलिनां  

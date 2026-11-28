@@ -1,6 +1,13 @@
 +++
 title = "271 गजे नीलवृषाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For an elephant, five dark-blue bulls [must be given]; for a parrot, a two-year-old calf;  
+for an ass, a goat, or a sheep, a bull is to be given; for a heron, a three-year-old [calf];
+</details>
+
 <details><summary>मूलम्</summary>
 
 गजे नील-वृषाः पञ्च  

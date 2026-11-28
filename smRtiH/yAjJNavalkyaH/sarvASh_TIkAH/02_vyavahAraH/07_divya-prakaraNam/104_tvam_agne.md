@@ -1,6 +1,13 @@
 +++
 title = "104 त्वम् अग्ने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O fire, wander within all beings, O purifier;  
+speak the truth regarding merits and sins like a witness, O wise one, to me!”
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वम् अग्ने सर्व-भूतानाम्  

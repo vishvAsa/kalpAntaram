@@ -1,6 +1,13 @@
 +++
 title = "305 दुर्दृष्टांस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When lawsuits improperly judged are reconsidered by the king,  
+the court assessors together with the winning party are to be fined twice the penalty of the suit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्दृष्टांस् तु पुनर् दृष्ट्वा  

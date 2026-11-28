@@ -1,6 +1,13 @@
 +++
 title = "148 श्वक्रोष्टृगर्दभोलूक सामबाणार्तनिःस्वने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When there is the sound of a dog, jackal, donkey, or owl, or of a Sāman, an arrow, or cries of distress,  
+in the vicinity of impure matter, a corpse, a Shudra, an outcaste, a cremation ground, or a degraded person;
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्व-क्रोष्टृ-गर्दभोलूक-  

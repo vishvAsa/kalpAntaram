@@ -1,6 +1,13 @@
 +++
 title = "164 नृशंसराजरजक कृतघ्नवधजीविनाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a pitiless man, a king, a washerman, an ingrate, one living by slaughter,  
+a clothes-dyer, one who sells liquor, and a house with a paramour;
+</details>
+
 <details><summary>मूलम्</summary>
 
 नृशंस-राज-रजक-  

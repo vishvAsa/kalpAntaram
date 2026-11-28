@@ -1,6 +1,13 @@
 +++
 title = "229 पाणिप्रक्षालनन् दत्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given water for washing the hands and kuśa grass for the purpose of a seat,  
+he should invoke [the deities], being permitted, with the verse: 'O All-gods...'
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाणि-प्रक्षालनं दत्त्वा  

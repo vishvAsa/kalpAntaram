@@ -1,6 +1,13 @@
 +++
 title = "329 ततः स्वैरविहारी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he may take recreation at will or meet with his ministers.  
+Having held an inspection of the forces, he should deliberate with the commander of the army.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततः स्वैर-विहारी स्यान्  

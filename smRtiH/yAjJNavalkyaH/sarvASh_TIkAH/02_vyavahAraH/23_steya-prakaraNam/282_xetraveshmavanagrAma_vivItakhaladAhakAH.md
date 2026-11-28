@@ -1,6 +1,13 @@
 +++
 title = "282 क्षेत्रवेश्मवनग्राम विवीतखलदाहकाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who set fire to fields, houses, forests, villages, pasture lands, or threshing floors,  
+and one who has intercourse with a king's wife, must be burned by a fire of reed mats.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षेत्र-वेश्म-वन-ग्राम-  

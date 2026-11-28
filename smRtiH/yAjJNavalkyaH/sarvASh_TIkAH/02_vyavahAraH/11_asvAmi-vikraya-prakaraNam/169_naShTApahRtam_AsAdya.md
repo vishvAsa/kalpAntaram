@@ -2,6 +2,12 @@
 title = "169 नष्टापहृतम् आसाद्य"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Finding his lost or stolen property, a man should cause the taker to be arrested;  
+and when time and place have passed, he may seize him and deliver him himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नष्टापहृतम् आसाद्य  

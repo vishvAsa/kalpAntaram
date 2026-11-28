@@ -1,6 +1,13 @@
 +++
 title = "064 अप्रयच्छन् समाप्नोति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By not giving [her], he incurs the guilt of abortion at every menstrual period;  
+but in the absence of givers, the maiden may choose a suitable husband herself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रयच्छन् समाप्नोति  

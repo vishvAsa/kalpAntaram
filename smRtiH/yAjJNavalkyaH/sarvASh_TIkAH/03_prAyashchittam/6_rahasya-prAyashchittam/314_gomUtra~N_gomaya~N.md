@@ -1,6 +1,13 @@
 +++
 title = "314 गोमूत्रङ् गोमयङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having consumed cow's urine, cow dung, milk, curd, clarified butter, and water with kuśa grass,  
+one should fast on the next day; one should perform the Sāntapana kṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-मूत्रं गो-मयं क्षीरं  

@@ -1,6 +1,13 @@
 +++
 title = "179 बुद्धेर् उत्पत्तिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The arising of the intellect is from the unmanifest; from that arises egoism;  
+from egoism arise the subtle elements and the rest, having successively one additional quality.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुद्धेर् उत्पत्तिर् अव्यक्तात्  

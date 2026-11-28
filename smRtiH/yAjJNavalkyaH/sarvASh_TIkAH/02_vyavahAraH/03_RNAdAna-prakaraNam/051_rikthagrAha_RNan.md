@@ -1,6 +1,13 @@
 +++
 title = "051 रिक्थग्राह ऋणन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The taker of the inheritance must be made to pay the debt, and likewise the taker of the wife,  
+[and] the son whose property has not passed to another, [or] the heir of a sonless man.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रिक्थ-ग्राह ऋणं दाप्यो  

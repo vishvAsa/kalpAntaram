@@ -1,6 +1,13 @@
 +++
 title = "254 गृहीतमूल्यं यः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever, having received the price, does not deliver the commodity to the buyer,  
+is to be made to give it to him with interest, or with foreign profit if he has arrived from a foreign land.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-मूल्यं यः पण्यं  

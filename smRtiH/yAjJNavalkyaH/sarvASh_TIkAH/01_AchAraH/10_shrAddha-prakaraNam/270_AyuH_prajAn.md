@@ -1,6 +1,13 @@
 +++
 title = "270 आयुः प्रजान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Long life, offspring, wealth, sacred knowledge, heaven, liberation, and pleasures,  
+and likewise sovereignty—the grandfathers, when pleased, bestow upon mortals.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आयुः प्रजां धनं विद्यां  

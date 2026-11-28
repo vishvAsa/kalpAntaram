@@ -1,6 +1,13 @@
 +++
 title = "032 मत्तोन्मत्तार्तव्यसनि बालभीतादियोजितः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A transaction entered into by an intoxicated person, a lunatic, one afflicted, an addict, a minor, a frightened person, and the like,  
+or made by an unauthorised person, does not hold valid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मत्तोन्मत्तार्तव्यसनि-  

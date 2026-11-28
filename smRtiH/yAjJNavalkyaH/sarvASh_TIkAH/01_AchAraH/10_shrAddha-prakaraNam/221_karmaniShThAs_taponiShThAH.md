@@ -1,6 +1,13 @@
 +++
 title = "221 कर्मनिष्ठास् तपोनिष्ठाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+those steadfast in rites, those steadfast in austerity, those keeping the five fires, chaste students,  
+and those devoted to father and mother—such Brahmins are the assets of an ancestral rite.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्म-निष्ठास् तपो-निष्ठाः  

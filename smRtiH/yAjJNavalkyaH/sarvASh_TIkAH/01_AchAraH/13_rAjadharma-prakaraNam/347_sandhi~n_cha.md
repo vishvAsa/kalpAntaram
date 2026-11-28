@@ -1,6 +1,13 @@
 +++
 title = "347 सन्धिञ् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Peace, war, marching, holding ground, seeking refuge,  
+and dual policy: he should properly apply these six measures of statecraft.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्धिं च विग्रहं यानम्  

@@ -1,6 +1,13 @@
 +++
 title = "156 आचार्योपासनं वेद"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Attendance upon the preceptor, discernment regarding the meaning of the Vedas and treatises,  
+performance of their rites, association with the virtuous, auspicious speech,
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्योपासनं वेद-  

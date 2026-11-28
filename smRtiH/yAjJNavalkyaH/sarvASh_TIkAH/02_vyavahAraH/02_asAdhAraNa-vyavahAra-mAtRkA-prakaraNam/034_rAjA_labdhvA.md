@@ -1,6 +1,13 @@
 +++
 title = "034 राजा लब्ध्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A king, having found a treasure trove, should give half to twice-born men;  
+a learned twice-born man, however, may take the whole, since he is master of everything.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजा लब्ध्वा निधिं दद्याद्  

@@ -1,6 +1,13 @@
 +++
 title = "262 मिथ्या वदन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who states a false measure, or slips away from the customs post,  
+and one who buys or sells fraudulently, is to be made to pay eight times [the duty].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथ्या वदन् परीमाणं  

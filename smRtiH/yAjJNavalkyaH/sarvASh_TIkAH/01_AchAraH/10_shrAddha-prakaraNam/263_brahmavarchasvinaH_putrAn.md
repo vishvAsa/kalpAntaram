@@ -1,6 +1,13 @@
 +++
 title = "263 ब्रह्मवर्चस्विनः पुत्रान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+sons endowed with Vedic splendour, gold and silver along with base metals,  
+pre-eminence among kin, and all desires.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-वर्चस्विनः पुत्रान्  

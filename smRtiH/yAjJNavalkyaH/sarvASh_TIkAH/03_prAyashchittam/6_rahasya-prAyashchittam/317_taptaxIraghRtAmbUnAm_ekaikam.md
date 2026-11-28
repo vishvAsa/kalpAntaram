@@ -1,6 +1,13 @@
 +++
 title = "317 तप्तक्षीरघृताम्बूनाम् एकैकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should drink hot milk, hot clarified butter, and hot water, each on one day,  
+and fast for one night; it is declared to be the Taptakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप्त-क्षीर-घृताम्बूनाम्  

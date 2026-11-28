@@ -1,6 +1,13 @@
 +++
 title = "156 न निषेध्यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A dike that causes little injury but produces benefit is not to be prohibited;  
+nor a well taking up another's land, occupying a very small area but having abundant water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न निषेध्यो ऽल्प-बाधस् तु  

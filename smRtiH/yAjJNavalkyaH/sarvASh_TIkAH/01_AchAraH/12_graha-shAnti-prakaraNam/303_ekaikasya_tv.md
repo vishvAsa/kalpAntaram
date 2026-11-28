@@ -1,6 +1,13 @@
 +++
 title = "303 एकैकस्य त्व्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For each one, one hundred and eight, or indeed twenty-eight,  
+should be offered, mixed with honey and clarified butter, or curd, or milk.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एकैकस्य त्व् अष्ट-शतम्  

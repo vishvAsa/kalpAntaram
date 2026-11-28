@@ -1,6 +1,13 @@
 +++
 title = "011 श्लेष्माश्रु बान्धवैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because the deceased helplessly consumes the phlegm and tears shed by kinsmen,  
+one must not weep; rather, rites should be performed according to one's capacity.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्लेष्माश्रु बान्धवैर् मुक्तं  

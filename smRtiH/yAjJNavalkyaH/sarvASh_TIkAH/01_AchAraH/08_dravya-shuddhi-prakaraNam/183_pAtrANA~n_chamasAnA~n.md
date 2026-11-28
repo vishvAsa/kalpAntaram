@@ -1,6 +1,13 @@
 +++
 title = "183 पात्राणाञ् चमसानाञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dishes and goblets—their purification is held to be by water;  
+cooking pots, sacrificial ladles, spoons, and vessels containing oil or clarified butter, with hot water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पात्राणां चमसानां च  

@@ -1,6 +1,13 @@
 +++
 title = "185 राजा कृत्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having established a residence in the city and settled Brahmins there,  
+the king should grant an endowment to those learned in the three Vedas, saying, 'Maintain your own duty.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजा कृत्वा पुरे स्थानं  

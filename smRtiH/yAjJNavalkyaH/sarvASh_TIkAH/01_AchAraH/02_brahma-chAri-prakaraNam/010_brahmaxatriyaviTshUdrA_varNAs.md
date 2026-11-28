@@ -1,6 +1,13 @@
 +++
 title = "010 ब्रह्मक्षत्रियविट्शूद्रा वर्णास्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahmins, Kshatriyas, Vaishyas, and Shudras are the social classes; the first three are the twice-born.  
+Their life-cycle rites, beginning with insemination and ending at the cremation ground, are performed with sacred formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-क्षत्रिय-विट्-शूद्रा  

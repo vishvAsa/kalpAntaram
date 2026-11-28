@@ -1,6 +1,13 @@
 +++
 title = "020 अन्तरा जन्ममरणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a birth or death occurs in between, one becomes purified after the remaining days.  
+In the case of a miscarriage, the number of nights equal to the months [of pregnancy] is the cause of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तरा जन्म-मरणे  

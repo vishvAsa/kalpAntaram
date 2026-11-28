@@ -1,6 +1,13 @@
 +++
 title = "090 ऋणं लेख्यकृतन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A debt contracted by a written document must be paid by three generations only;  
+but a pledge is enjoyed for as long as it is not repaid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋणं लेख्य-कृतं देयं  

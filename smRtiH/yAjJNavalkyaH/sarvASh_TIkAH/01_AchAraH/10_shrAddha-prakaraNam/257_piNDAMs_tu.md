@@ -1,6 +1,13 @@
 +++
 title = "257 पिण्डांस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should give the balls of rice to cows, goats, and Brahmins, or cast them into fire or water;  
+while the Brahmins are present, he must not clear away the Brahmins' leftover food.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिण्डांस् तु गो-ज-विप्रेभ्यो  

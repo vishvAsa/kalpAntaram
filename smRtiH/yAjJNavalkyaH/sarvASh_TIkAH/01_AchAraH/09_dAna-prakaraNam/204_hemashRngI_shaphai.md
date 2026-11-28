@@ -1,6 +1,13 @@
 +++
 title = "204 हेमशृङ्गी शफै"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A milch-cow having horns of gold, hooves of silver, of good disposition, draped with cloth,  
+accompanied by a bell-metal vessel and a sacrificial fee, should be given.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हेम-शृङ्गी शफै रौप्यैः  

@@ -1,6 +1,13 @@
 +++
 title = "188 भूशुद्धिर् मार्जनाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The purification of the ground [is accomplished] by sweeping, by burning, by time, and by the treading of cows,  
+by sprinkling, by scraping, and by smearing; a house [is purified] by sweeping and smearing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भू-शुद्धिर् मार्जनाद् दाहात्  

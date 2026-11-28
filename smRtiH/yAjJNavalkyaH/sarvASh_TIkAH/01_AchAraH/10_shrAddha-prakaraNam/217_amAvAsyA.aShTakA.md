@@ -1,6 +1,13 @@
 +++
 title = "217 अमावास्या ऽष्टका"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The new-moon day, the Aṣṭakā days, the increase of prosperity, the dark fortnight, the two solstices,  
+[the availability of] material, the presence of [worthy] Brahmins, the equinox, the sun's transit,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अमावास्या ऽष्टका वृद्धिः  

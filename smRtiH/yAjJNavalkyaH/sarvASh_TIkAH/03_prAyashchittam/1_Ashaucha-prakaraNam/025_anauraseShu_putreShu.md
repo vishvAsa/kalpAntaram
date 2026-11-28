@@ -1,6 +1,13 @@
 +++
 title = "025 अनौरसेषु पुत्रेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and for sons not born of one's own body, wives gone to another,  
+and when the king of one's place of residence has died, that day is the cause of purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनौरसेषु पुत्रेषु  

@@ -1,6 +1,13 @@
 +++
 title = "222 दुःखम् उत्पादयेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever causes pain must be made to pay the expenses arising from convalescence,  
+as well as the fine that has been declared for that particular affray.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखम् उत्पादयेद् यस् तु  

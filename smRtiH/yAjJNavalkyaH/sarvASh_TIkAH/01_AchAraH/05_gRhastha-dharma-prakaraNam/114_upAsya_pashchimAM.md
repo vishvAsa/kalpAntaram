@@ -1,6 +1,13 @@
 +++
 title = "114 उपास्य पश्चिमां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having attended to the evening twilight devotion, offered into the fires, and paid reverence to them,  
+he should eat surrounded by servants, not to over-fullness, and then lie down.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपास्य पश्चिमां सन्ध्यां  

@@ -1,6 +1,13 @@
 +++
 title = "258 हविष्यान्नेन वै"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With food fit for oblations, for a month; but with rice-milk, for a year;  
+with the meat of fish, deer, sheep, birds, goats, spotted deer,
+</details>
+
 <details><summary>मूलम्</summary>
 
 हविष्यान्नेन वै मासं  

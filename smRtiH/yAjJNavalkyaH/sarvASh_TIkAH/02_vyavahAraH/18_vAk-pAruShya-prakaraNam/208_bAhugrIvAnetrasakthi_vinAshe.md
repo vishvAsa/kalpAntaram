@@ -1,6 +1,13 @@
 +++
 title = "208 बाहुग्रीवानेत्रसक्थि विनाशे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a verbal threat to destroy an arm, neck, eye, or thigh, the fine  
+is truthful [full]; half that in the case of a foot, nose, ear, hand, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बाहु-ग्रीवा-नेत्र-सक्थि-  

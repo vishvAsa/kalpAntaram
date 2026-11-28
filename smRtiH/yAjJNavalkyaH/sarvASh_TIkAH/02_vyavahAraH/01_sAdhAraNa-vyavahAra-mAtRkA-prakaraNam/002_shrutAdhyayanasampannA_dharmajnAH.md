@@ -1,6 +1,13 @@
 +++
 title = "002 श्रुताध्ययनसम्पन्ना धर्मज्ञाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those accomplished in sacred learning and study, knowers of duty, speakers of truth,  
+and impartial toward foe and friend, should be appointed by the king as court assessors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रुताध्ययनसम्पन्ना  

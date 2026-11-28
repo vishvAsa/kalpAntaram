@@ -1,6 +1,13 @@
 +++
 title = "130 अक्षतायाङ् क्षतायां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The son of a remarried woman is born of a woman whether deflowered or undeflowered.  
+The son whom the mother or the father gives is the adopted son.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षतायां क्षतायां वा  

@@ -1,6 +1,13 @@
 +++
 title = "140 क्लीबो ऽथ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An impotent man, an outcaste and his son, a lame man, a madman, an idiot,  
+a blind man, and those afflicted with an incurable disease and the like, are without a share and must be maintained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्लीबो ऽथ पतितस् तज्जः  

@@ -1,6 +1,13 @@
 +++
 title = "121 यो द्रव्यदेवतात्याग"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The highest essence that arises from the renunciation of substance and deity,  
+that essence, having satisfied the gods and [endowed] the sacrificer with reward,
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो द्रव्य-देवता-त्याग-  

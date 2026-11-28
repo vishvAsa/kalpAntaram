@@ -1,6 +1,13 @@
 +++
 title = "088 उभयाभ्यर्थितेनैतन् मया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the scribe should write at the end:  
+'Requested by both parties, this has been written by me, so-and-so, son of so-and-so.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उभयाभ्यर्थितेनैतन्  

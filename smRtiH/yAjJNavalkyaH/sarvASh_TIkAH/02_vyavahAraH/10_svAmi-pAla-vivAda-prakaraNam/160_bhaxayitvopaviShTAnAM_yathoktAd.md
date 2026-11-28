@@ -1,6 +1,13 @@
 +++
 title = "160 भक्षयित्वोपविष्टानां यथोक्ताद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For animals that sit down after eating, the fine is double that stated;  
+the same applies to them in pasture land also; a donkey or a camel is equal to a female buffalo.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्षयित्वोपविष्टानां  

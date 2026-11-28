@@ -1,6 +1,13 @@
 +++
 title = "205 दाता ऽस्याः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The giver of this [cow] attains heaven for as many years as there are hairs [on her];  
+if she is a tawny cow, she delivers her family even up to the seventh generation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दाता ऽस्याः स्वर्गम् आप्नोति  

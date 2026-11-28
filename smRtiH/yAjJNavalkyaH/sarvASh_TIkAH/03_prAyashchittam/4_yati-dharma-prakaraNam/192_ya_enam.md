@@ -1,6 +1,13 @@
 +++
 title = "192 य एनम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who know him thus, or those forest-dwelling twice-born  
+who worship the truth endowed with supreme faith—
+</details>
+
 <details><summary>मूलम्</summary>
 
 य एनम् एवं विन्दन्ति  

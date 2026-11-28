@@ -1,6 +1,13 @@
 +++
 title = "025 सन्ध्याम् प्राक्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the morning, in the same way, he should stand facing east for the twilight devotion until the sun is seen.  
+Then he should perform the fire-service at both twilight devotions.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्ध्यां प्राक् प्रातर् एवं हि  

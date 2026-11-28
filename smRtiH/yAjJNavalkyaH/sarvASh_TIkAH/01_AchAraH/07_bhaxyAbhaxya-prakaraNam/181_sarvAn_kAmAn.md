@@ -1,6 +1,13 @@
 +++
 title = "181 सर्वान् कामान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He obtains all desires and the fruit of the horse sacrifice—  
+even while living in his home, a Brahmin becomes an ascetic through abstaining from meat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वान् कामान् अवाप्नोति  

@@ -1,6 +1,13 @@
 +++
 title = "198 प्रक्रान्ते सप्तमम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who abandons [goods] at the start [shall pay] a seventh part, one-fourth along the way,  
+and all the wages at midway; a master who dismisses [a carrier midway] must likewise be made to pay.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रक्रान्ते सप्तमं भागं  

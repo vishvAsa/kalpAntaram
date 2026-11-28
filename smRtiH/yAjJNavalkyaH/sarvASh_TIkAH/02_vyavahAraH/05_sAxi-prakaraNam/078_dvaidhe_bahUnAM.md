@@ -1,6 +1,13 @@
 +++
 title = "078 द्वैधे बहूनां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In case of a conflict, the word of the majority [prevails]; among equals, that of the virtuous;  
+and in a conflict among the virtuous, the statement of those who are most virtuous is to be accepted.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वैधे बहूनां वचनं  

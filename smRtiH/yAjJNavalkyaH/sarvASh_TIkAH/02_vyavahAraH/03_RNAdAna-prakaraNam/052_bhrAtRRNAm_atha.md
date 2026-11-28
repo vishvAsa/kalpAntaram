@@ -1,6 +1,13 @@
 +++
 title = "052 भ्रातॄणाम् अथ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among brothers, between husband and wife, and between father and son,  
+suretyship, debt, and witnessing are not recognized while they are unpartitioned.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भ्रातॄणाम् अथ दम्पत्योः  

@@ -1,6 +1,13 @@
 +++
 title = "184 पितृयानो ऽजवीथ्याश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The space between the path of the ancestors, the Goat's Way, and Agastya—  
+along that path the performers of the Agnihotra, desiring heaven, proceed to the sky.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-यानो ऽज-वीथ्याश् च  

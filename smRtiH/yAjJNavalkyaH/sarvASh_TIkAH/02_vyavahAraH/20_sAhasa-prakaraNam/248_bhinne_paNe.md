@@ -1,6 +1,13 @@
 +++
 title = "248 भिन्ने पणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For [a value of] a fraction of a paṇa, fifty [paṇas]; for one paṇa, one hundred is declared;  
+for two paṇas, the fine is two hundred, and it increases with the increase of the value.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भिन्ने पणे च पञ्चाशत्-  

@@ -1,6 +1,13 @@
 +++
 title = "142 अपुत्रा योषितश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And their childless wives must be maintained if they conduct themselves virtuously;  
+those who are unchaste or hostile must be expelled.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपुत्रा योषितश् चैषां  

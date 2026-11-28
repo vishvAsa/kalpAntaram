@@ -1,6 +1,13 @@
 +++
 title = "028 कृतज्ञाद्रोहिमेधावि शुचिकल्यानसूयकाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are grateful, non-malicious, intelligent, pure, healthy, free from envy,  
+capable, honest, and those who impart knowledge or wealth are fit to be taught according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृतज्ञाद्रोहि-मेधावि-  

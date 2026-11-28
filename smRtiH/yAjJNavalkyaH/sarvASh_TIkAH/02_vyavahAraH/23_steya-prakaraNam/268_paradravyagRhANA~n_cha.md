@@ -1,6 +1,13 @@
 +++
 title = "268 परद्रव्यगृहाणाञ् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and those who inquire into the property and houses of others; those who move secretly;  
+those who have expenses without income; and those selling stolen property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-द्रव्य-गृहाणां च  

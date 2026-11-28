@@ -1,6 +1,13 @@
 +++
 title = "137 वानप्रस्थयतिब्रह्म चारिणां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The heirs to the heritage of a forest hermit, an ascetic, and a celibate student  
+are, in order, the preceptor, the virtuous pupil, and a spiritual brother belonging to the same hermitage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वानप्रस्थ-यति-ब्रह्म-  

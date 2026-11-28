@@ -1,6 +1,13 @@
 +++
 title = "283 पुमान् सङ्ग्रहणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man is caught in adultery hair-to-hair with another man's wife,  
+or immediately by marks born of lust, as well as upon confession by both.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुमान् सङ्ग्रहणे ग्राह्यः  

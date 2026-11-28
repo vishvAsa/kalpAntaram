@@ -1,6 +1,13 @@
 +++
 title = "147 दुर्भिक्षे धर्मकार्ये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In a famine, for a religious duty, in illness, or when imprisoned,  
+the husband who has taken his wife's separate property does not have to restore it to the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुर्भिक्षे धर्म-कार्ये च  

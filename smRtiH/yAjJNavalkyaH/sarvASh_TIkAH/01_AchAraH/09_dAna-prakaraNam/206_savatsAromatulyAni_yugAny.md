@@ -1,6 +1,13 @@
 +++
 title = "206 सवत्सारोमतुल्यानि युगान्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Giving a cow facing both ways according to the aforesaid rule,  
+her giver attains heaven for as many ages as there are hairs on her and the calf.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सवत्सा-रोम-तुल्यानि  

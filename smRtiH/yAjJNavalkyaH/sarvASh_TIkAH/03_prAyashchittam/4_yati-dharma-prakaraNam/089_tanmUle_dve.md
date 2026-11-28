@@ -1,6 +1,13 @@
 +++
 title = "089 तन्मूले द्वे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At its base are two, two in the forehead, eyes, and temples; the nose is a solid bone;  
+the ribs together with their sockets and tubercles are seventy-two.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तन्-मूले द्वे ललाटाक्षि-  

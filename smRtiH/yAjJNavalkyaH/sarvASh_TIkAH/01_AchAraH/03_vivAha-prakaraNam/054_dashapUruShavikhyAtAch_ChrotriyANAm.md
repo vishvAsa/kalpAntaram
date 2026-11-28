@@ -1,6 +1,13 @@
 +++
 title = "054 दशपूरुषविख्याताच् छ्रोत्रियाणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+from a great family of Vedic scholars renowned for ten generations,  
+even if flourishing, [provided it is] free from contagious diseases and faults.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दश-पूरुष-विख्याताच्  

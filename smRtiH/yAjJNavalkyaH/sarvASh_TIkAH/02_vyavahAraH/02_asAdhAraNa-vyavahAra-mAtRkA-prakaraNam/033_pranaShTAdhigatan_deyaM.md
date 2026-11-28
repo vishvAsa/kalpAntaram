@@ -1,6 +1,13 @@
 +++
 title = "033 प्रनष्टाधिगतन् देयं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property lost and found should be returned by the king to the owner;  
+if he fails to prove ownership by identifying marks, he deserves a fine equal to it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रनष्टाधिगतं देयं  

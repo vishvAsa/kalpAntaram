@@ -1,6 +1,13 @@
 +++
 title = "123 खमण्डलाद् असौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the circle of the sky, that sun creates the highest nectar,  
+which is the birth of all beings, both the eating and the non-eating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ख-मण्डलाद् असौ सूर्यः  

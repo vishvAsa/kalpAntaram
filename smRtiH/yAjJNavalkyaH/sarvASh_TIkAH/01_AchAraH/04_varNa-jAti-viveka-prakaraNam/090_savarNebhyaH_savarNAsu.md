@@ -2,6 +2,12 @@
 title = "090 सवर्णेभ्यः सवर्णासु"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From men of the same social class in women of the same social class are indeed born children of the same caste  
+in blameless marriages—sons who increase the lineage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सवर्णेभ्यः सवर्णासु  

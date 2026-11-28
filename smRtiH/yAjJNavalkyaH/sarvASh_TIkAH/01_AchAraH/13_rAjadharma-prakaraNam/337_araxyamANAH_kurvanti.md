@@ -1,6 +1,13 @@
 +++
 title = "337 अरक्ष्यमाणाः कुर्वन्ति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever sin the subjects commit when left unprotected,  
+half of that belongs to the king, since he collects taxes from them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरक्ष्यमाणाः कुर्वन्ति  

@@ -1,6 +1,13 @@
 +++
 title = "013 एवम् एनः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In this way the sin arising from seed and womb is subdued.  
+These rites are performed silently for women, but marriage is accompanied by sacred formulas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवम् एनः शमं याति  

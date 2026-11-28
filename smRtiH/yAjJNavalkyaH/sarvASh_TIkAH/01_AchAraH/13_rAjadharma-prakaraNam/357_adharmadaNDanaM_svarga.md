@@ -1,6 +1,13 @@
 +++
 title = "357 अधर्मदण्डनं स्वर्ग"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unjust punishment ruins heaven, fame, and the worlds;  
+but the proper punishment brings the king heaven, fame, and victory.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अधर्म-दण्डनं स्वर्ग-  

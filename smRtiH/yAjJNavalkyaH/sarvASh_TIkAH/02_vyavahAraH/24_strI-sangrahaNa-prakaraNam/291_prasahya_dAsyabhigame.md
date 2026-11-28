@@ -1,6 +1,13 @@
 +++
 title = "291 प्रसह्य दास्य्अभिगमे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For forcibly having intercourse with a female slave, a fine of ten paṇas is prescribed;  
+if by many men when she is unwilling, twenty-four [paṇas] each.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रसह्य दास्य्-अभिगमे  

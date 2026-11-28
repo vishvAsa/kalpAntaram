@@ -1,6 +1,13 @@
 +++
 title = "306 धेनुः शङ्खस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A milch cow, a conch shell, an ox, gold, cloth, a horse in order,  
+a black cow, iron, and a goat—these are indeed remembered as the sacrificial gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 धेनुः शङ्खस् तथा ऽनड्वान्  

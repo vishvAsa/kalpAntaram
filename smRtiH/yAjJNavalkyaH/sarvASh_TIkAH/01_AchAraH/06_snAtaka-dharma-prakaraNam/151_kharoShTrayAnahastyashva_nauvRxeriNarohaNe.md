@@ -1,6 +1,13 @@
 +++
 title = "151 खरोष्ट्रयानहस्त्य्अश्व नौवृक्षेरिणरोहणे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+While mounting a donkey, camel, carriage, elephant, horse, boat, tree, or barren soil—  
+these thirty-seven suspensions of Vedic study are known to last for the duration of the cause.
+</details>
+
 <details><summary>मूलम्</summary>
 
 खरोष्ट्र-यान-हस्त्य्-अश्व-  

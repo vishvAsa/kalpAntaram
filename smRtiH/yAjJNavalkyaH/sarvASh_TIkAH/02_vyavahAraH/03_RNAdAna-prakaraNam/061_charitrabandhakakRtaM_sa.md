@@ -1,6 +1,13 @@
 +++
 title = "061 चरित्रबन्धककृतं स"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should make [the debtor] pay the money secured by personal credit along with interest;  
+he should make him return double the property secured by earnest money.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरित्र-बन्धक-कृतं  

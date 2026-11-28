@@ -1,6 +1,13 @@
 +++
 title = "307 यश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And whichever [planet] is ill-placed for anyone at any time, he should worship that one with effort;  
+for a boon was given to them by Brahmā: ‘Worshipped, you will bring honour.’
+</details>
+
 <details><summary>मूलम्</summary>
 
 यश् च यस्य यदा दुःस्थः  

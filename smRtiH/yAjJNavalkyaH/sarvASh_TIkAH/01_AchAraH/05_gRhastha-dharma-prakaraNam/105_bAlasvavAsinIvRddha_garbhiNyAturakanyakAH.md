@@ -1,6 +1,13 @@
 +++
 title = "105 बालस्ववासिनीवृद्ध गर्भिण्य्आतुरकन्यकाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having fed children, married daughters living in the house, the elderly, pregnant women, the sick, and unmarried girls,  
+as well as guests and servants, the husband and wife should eat the remainder.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बाल-स्व-वासिनी-वृद्ध-  

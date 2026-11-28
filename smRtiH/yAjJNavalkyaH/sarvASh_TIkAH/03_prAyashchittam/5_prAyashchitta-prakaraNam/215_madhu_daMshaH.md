@@ -1,6 +1,13 @@
 +++
 title = "215 मधु दंशः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[A stealer of] honey becomes a gadfly; of meat, a vulture; of a cow, an iguana; and of fire, a heron;  
+[a stealer of] clothing becomes a leper; of flavored liquid, a dog; and the stealer of salt, a cricket.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु दंशः पलं गृध्रो  

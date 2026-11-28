@@ -1,6 +1,13 @@
 +++
 title = "135 पुरुषो ऽनृतवादी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man who speaks untruth, is slanderous, harsh,  
+and given to incoherent babble, is born among beasts and birds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुरुषो ऽनृत-वादी च  

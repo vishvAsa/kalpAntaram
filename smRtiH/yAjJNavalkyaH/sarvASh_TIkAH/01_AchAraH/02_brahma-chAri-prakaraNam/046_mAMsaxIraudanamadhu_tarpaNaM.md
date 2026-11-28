@@ -1,6 +1,13 @@
 +++
 title = "046 मांसक्षीरौदनमधु तर्पणं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+makes an offering of meat, milk, boiled rice, and honey to the dwellers of heaven,  
+and brings satisfaction to the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मांस-क्षीरौदन-मधु-  

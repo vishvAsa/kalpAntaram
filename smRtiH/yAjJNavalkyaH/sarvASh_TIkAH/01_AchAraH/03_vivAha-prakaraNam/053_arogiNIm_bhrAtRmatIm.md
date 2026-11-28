@@ -1,6 +1,13 @@
 +++
 title = "053 अरोगिणीम् भ्रातृमतीम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+free from disease, having brothers, not born of the same ṛṣi and gotra,  
+and beyond the fifth degree on the mother's side and the seventh on the father's;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरोगिणीं भ्रातृमतीम्  

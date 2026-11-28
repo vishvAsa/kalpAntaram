@@ -1,6 +1,13 @@
 +++
 title = "092 वैश्याशूद्र्योस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Kshatriya on a Vaishya woman and a Shudra woman, a Māhiṣya and an Ugra son are recorded;  
+but from a Vaishya on a Shudra woman, a Karaṇa [is born]; this rule is recorded with regard to married wives.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैश्या-शूद्र्योस् तु राजन्यान्  

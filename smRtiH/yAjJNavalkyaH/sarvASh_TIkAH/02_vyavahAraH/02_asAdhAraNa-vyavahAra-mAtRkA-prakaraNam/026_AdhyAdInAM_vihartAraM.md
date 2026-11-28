@@ -2,6 +2,12 @@
 title = "026 आध्यादीनां विहर्तारं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who appropriates a pledge and the like must be made to return the property to the owner,  
+and to pay an equal fine to the king, or according to his means.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आध्यादीनां विहर्तारं  

@@ -1,6 +1,13 @@
 +++
 title = "070 स्त्रीबालवृद्धकितव मत्तोन्मत्ताभिशस्तकाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Women, minors, the aged, gamblers, intoxicated persons, the insane, the accused,  
+actors, heretics, forgers, those with defective senses,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-बाल-वृद्ध-कितव-  

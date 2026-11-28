@@ -1,6 +1,13 @@
 +++
 title = "061 सन्निरुध्येन्द्रियग्रामं रागद्वेषौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Restraining the collection of sense organs, abandoning passion and aversion,  
+and removing fear from living beings, a twice-born becomes immortal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्निरुध्येन्द्रिय-ग्रामं  

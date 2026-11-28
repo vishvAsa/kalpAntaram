@@ -1,6 +1,13 @@
 +++
 title = "225 दुःखे च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For causing pain, shedding blood, and cutting off a tail or a limb,  
+the fine in the case of small animals begins from two paṇas progressively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दुःखे च शोणितोत्पादे  

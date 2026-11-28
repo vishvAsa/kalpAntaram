@@ -1,6 +1,13 @@
 +++
 title = "067 निःसरन्ति यथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as sparks burst forth from a glowing lump of iron,  
+so indeed do individual selves issue forth from the Self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निःसरन्ति यथा लोह-  

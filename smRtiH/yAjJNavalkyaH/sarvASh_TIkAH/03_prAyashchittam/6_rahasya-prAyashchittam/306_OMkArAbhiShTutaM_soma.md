@@ -1,6 +1,13 @@
 +++
 title = "306 ॐकाराभिष्टुतं सोम"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having ingested semen, feces, or urine,  
+a supreme twice-born should drink purifying Soma water consecrated with the sacred syllable Om.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ॐ-काराभिष्टुतं सोम-  

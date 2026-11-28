@@ -1,6 +1,13 @@
 +++
 title = "021 हृत्कण्ठतालुगाभिस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twice-born persons are purified by water reaching the heart, the throat, and the palate respectively;  
+women and Shudras by water merely touched once at the lips.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृत्-कण्ठ-तालुगाभिस् तु  

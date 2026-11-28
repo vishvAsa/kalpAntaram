@@ -1,6 +1,13 @@
 +++
 title = "143 पौषमासस्य रोहिण्याम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the Rohiṇī day of the month of Pauṣa, or on the Aṣṭakā day,  
+he should properly perform outside, by the water's edge, the concluding suspension rite of the Vedic texts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पौष-मासस्य रोहिण्याम्  

@@ -1,6 +1,13 @@
 +++
 title = "027 आहूतश् चाप्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Summoned, he should study; and what he has received [as alms] he should report to him.  
+He should always act for his benefit with mind, speech, body, and deeds.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आहूतश् चाप्य् अधीयीत  

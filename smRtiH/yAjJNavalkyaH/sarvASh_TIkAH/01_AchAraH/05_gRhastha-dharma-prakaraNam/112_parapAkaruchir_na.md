@@ -1,6 +1,13 @@
 +++
 title = "112 परपाकरुचिर् न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not desire food cooked by another, except upon an unblamable invitation;  
+he should avoid restlessness of speech, hands, and feet, and overeating.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-पाक-रुचिर् न स्याद्  

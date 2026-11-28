@@ -1,6 +1,13 @@
 +++
 title = "095 माहिष्येण करण्यान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Māhiṣya on a Karaṇa woman a Rathakāra is produced.  
+Those born against the grain and with the grain are to be known as base and noble respectively.
+</details>
+
 <details><summary>मूलम्</summary>
 
 माहिष्येण करण्यां तु  

@@ -1,6 +1,13 @@
 +++
 title = "178 तथा पाठीनराजीव"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Likewise, the pāṭhīna, the rājīva, and fish with scales may be eaten by the twice-born.  
+Now hear from me the rule concerning the eating and abstaining from meat:
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा पाठीन-राजीव-  

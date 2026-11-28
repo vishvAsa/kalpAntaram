@@ -1,6 +1,13 @@
 +++
 title = "314 श्रौतस्मार्तक्रियाहेतोर् वृणुयाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the sake of revealed and traditional rites, he should select sacrificial priests,  
+and he should perform sacrifices according to rule, with abundant sacrificial gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रौत-स्मार्त-क्रिया-हेतोर्  

@@ -1,6 +1,13 @@
 +++
 title = "198 ऊरुस्थोत्तानचरणः सव्ये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the upturned foot placed on the thigh, resting the upper hand on the left,  
+raising the upturned face slightly, and steadying the chin against the chest,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊरुस्थोत्तान-चरणः  

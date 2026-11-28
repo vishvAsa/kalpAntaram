@@ -1,6 +1,13 @@
 +++
 title = "056 प्रतिभूर् दापितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever money of the creditor the surety was openly compelled to pay,  
+twice that amount must be repaid to him by the debtors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिभूर् दापितो यत् तु  

@@ -1,6 +1,13 @@
 +++
 title = "295 श्रीकामः शान्तिकामो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who desires prosperity, or one who desires pacification, should perform a sacrifice to the planets,  
+or one who desires rain, longevity, or nourishment, or even one performing an incantation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्री-कामः शान्ति-कामो वा  

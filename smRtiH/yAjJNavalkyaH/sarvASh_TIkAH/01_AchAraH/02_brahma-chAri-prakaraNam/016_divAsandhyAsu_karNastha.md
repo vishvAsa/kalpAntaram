@@ -1,6 +1,13 @@
 +++
 title = "016 दिवासन्ध्यासु कर्णस्थ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+During the day and at the twilight devotions, with his sacred thread placed over his ear and facing north,  
+he should void urine and feces; at night, however, facing south.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दिवा-सन्ध्यासु कर्णस्थ-  

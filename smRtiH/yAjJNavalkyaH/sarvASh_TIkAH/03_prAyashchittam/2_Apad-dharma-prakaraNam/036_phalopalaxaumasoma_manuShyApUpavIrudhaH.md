@@ -1,6 +1,13 @@
 +++
 title = "036 फलोपलक्षौमसोम मनुष्यापूपवीरुधः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fruits, gems, linen, soma, human beings, cakes, creepers,  
+sesame, boiled rice, essences, alkaline salts, curds, milk, ghee, water,
+</details>
+
 <details><summary>मूलम्</summary>
 
 फलोपल-क्षौम-सोम-  

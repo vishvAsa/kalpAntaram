@@ -1,6 +1,13 @@
 +++
 title = "104 अन्नम् पितृमनुष्येभ्यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food and water should be given daily to the ancestors and to human beings.  
+He should constantly perform recitation of the Veda, and never cook food for himself alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नं पितृ-मनुष्येभ्यो  

@@ -1,6 +1,13 @@
 +++
 title = "283 यत् ते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘Whatever misfortune is in your hair, in the parting of your hair, and on your head,  
+on your forehead, your two ears, [and] your two eyes—may the waters always destroy that!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् ते केशेषु दौर्भाग्यं  

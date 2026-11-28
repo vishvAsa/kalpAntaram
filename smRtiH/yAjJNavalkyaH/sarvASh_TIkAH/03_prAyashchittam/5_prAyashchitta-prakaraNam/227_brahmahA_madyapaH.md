@@ -1,6 +1,13 @@
 +++
 title = "227 ब्रह्महा मद्यपः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A killer of a Brahmin, a drinker of liquor, a thief, and likewise a violator of the guru's bed:  
+these are major sinners, as is whoever associates with them.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्महा मद्यपः स्तेनस्  

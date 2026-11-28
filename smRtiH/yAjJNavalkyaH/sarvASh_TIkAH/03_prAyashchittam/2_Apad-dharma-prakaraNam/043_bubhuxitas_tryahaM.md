@@ -1,6 +1,13 @@
 +++
 title = "043 बुभुक्षितस् त्र्यहं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Remaining hungry for three days, he may take grain from a non-Brahmin;  
+having taken it, if charged, he must declare it according to duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुभुक्षितस् त्र्यहं स्थित्वा  

@@ -1,6 +1,13 @@
 +++
 title = "125 अनादिर् आत्मा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self is beginningless; there is no origin of the inner self;  
+but the composite individual soul is born of delusion, desire, hatred, and action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आत्मा सम्भूतिर्  

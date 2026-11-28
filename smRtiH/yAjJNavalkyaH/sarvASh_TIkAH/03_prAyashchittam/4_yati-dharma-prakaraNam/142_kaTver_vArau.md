@@ -1,6 +1,13 @@
 +++
 title = "142 कट्वेर् वारौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as sweet juice, though present, is not obtained  
+in an unripe bitter gourd, so consciousness is not found in the self when its faculties are unripened.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कट्वेर् वारौ यथा ऽपक्वे  

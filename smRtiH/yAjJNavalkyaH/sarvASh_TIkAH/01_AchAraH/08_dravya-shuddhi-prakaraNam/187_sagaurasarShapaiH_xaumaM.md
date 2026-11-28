@@ -1,6 +1,13 @@
 +++
 title = "187 सगौरसर्षपैः क्षौमं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Linen [is purified] with white mustard; earthenware through refiring.  
+An artisan's hand is pure, as is merchandise, alms, and a woman's mouth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-गौर-सर्षपैः क्षौमं  

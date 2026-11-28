@@ -1,6 +1,13 @@
 +++
 title = "366 साशीतिपणसाहस्रो दण्ड"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A fine of one thousand and eighty paṇas is the highest fine for heinous offences;  
+half of that is stated to be the middle, and half of that is considered the lowest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साशीति-पण-साहस्रो  

@@ -1,6 +1,13 @@
 +++
 title = "122 विभक्तेषु सुतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A son born of an equal-class wife after the partition of inheritance is a sharer in the division;  
+or his partition of inheritance may be from the visible estate cleared of receipts and expenses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभक्तेषु सुतो जातः  

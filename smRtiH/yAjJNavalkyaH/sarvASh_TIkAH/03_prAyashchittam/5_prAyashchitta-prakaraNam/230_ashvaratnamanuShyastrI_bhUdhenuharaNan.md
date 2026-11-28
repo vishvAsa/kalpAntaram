@@ -1,6 +1,13 @@
 +++
 title = "230 अश्वरत्नमनुष्यस्त्री भूधेनुहरणन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The theft of a horse, a gem, a man, a woman, land, a cow,  
+and of a deposit is indeed entirely equal to the theft of gold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अश्व-रत्न-मनुष्य-स्त्री-  

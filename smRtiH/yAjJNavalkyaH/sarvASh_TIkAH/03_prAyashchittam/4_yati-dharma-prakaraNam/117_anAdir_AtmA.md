@@ -1,6 +1,13 @@
 +++
 title = "117 अनादिर् आत्मा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self is taught to be beginningless, but its beginning is the physical body;  
+from the self arises the entire world, and the origin of the world is from the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिर् आत्मा कथितस्  

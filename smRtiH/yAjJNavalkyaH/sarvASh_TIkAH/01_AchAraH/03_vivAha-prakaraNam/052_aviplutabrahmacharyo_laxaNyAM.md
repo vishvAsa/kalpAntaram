@@ -2,6 +2,12 @@
 title = "052 अविप्लुतब्रह्मचर्यो लक्षण्यां"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With his celibate studenthood unbroken, he should marry an auspicious woman  
+who has belonged to no other man before, who is attractive, not a sapiṇḍa, and younger than himself,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अविप्लुत-ब्रह्म-चर्यो  

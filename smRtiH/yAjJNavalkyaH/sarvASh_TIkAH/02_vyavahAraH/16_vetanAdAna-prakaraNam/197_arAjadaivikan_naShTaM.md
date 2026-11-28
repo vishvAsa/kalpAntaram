@@ -1,6 +1,13 @@
 +++
 title = "197 अराजदैविकन् नष्टं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A carrier must pay for goods lost through reasons other than the king or an act of God;  
+and one who obstructs the departure must be made to pay double the wages.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अराज-दैविकं नष्टं  

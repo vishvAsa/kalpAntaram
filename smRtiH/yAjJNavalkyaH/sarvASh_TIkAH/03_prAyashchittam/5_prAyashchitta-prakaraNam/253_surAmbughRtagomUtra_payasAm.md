@@ -1,6 +1,13 @@
 +++
 title = "253 सुराम्बुघृतगोमूत्र पयसाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having drunk any one of liquor, water, clarified butter, cow's urine, or milk,  
+resembling fire, the drinker of liquor attains purification through death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुराम्बु-घृत-गो-मूत्र-  

@@ -1,6 +1,13 @@
 +++
 title = "213 भस्मपङ्करजःस्पर्शे दण्डो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For touching [someone] with ashes, mud, or dust, the fine is stated to be ten paṇas;  
+for touching with impure substances, the heel, or spittle, it is double that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भस्म-पङ्क-रजः-स्पर्शे  

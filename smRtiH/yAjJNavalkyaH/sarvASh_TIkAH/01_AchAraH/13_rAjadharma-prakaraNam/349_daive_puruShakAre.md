@@ -1,6 +1,13 @@
 +++
 title = "349 दैवे पुरुषकारे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The success of action rests on fate and human effort.  
+There, fate is human effort from a previous body made manifest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दैवे पुरुष-कारे च  

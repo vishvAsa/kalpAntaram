@@ -1,6 +1,13 @@
 +++
 title = "041 आपद्गतः सम्प्रगृह्णन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin in distress, accepting gifts or eating from anyone whatsoever,  
+is not tainted by sin, for he is equal to fire and the sun.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आपद्-गतः सम्प्रगृह्णन्  

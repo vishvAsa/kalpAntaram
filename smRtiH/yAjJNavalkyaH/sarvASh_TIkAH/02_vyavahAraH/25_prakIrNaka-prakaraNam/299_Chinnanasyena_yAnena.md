@@ -1,6 +1,13 @@
 +++
 title = "299 छिन्ननस्येन यानेन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+nor by a carriage whose nose-rope has broken, or whose yoke or the like is shattered,  
+nor when it slips backwards: the owner incurs no guilt in case of injury.
+</details>
+
 <details><summary>मूलम्</summary>
 
 छिन्न-नस्येन यानेन  

@@ -1,6 +1,13 @@
 +++
 title = "227 प्ररोहिशाखिनां शाखा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting branches, trunks, or destroying entirely trees with shoots,  
+and for trees that provide a livelihood, the fine is twice twenty [paṇas].
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्ररोहि-शाखिनां शाखा-  

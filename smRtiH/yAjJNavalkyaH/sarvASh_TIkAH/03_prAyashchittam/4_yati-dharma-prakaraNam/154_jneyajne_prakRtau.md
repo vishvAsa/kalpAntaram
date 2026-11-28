@@ -1,6 +1,13 @@
 +++
 title = "154 ज्ञेयज्ञे प्रकृतौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Making no distinction between the object of knowledge and the knower, or between primary nature and its modifications,  
+he is eager to end his life by starvation, fire, poison, or jumping into water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञेयज्ञे प्रकृतौ चैव  

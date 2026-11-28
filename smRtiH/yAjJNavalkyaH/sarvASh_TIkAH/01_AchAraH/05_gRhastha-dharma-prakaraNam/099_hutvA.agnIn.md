@@ -1,6 +1,13 @@
 +++
 title = "099 हुत्वा ऽग्नीन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered into the fires, he should attentively recite the mantras having the sun as their deity,  
+and study the meanings of the Veda and the various treatises.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हुत्वा ऽग्नीन् सूर्य-दैवत्यान्  

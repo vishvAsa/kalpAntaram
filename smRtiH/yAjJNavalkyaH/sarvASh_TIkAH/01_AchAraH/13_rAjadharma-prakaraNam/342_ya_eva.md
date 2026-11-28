@@ -1,6 +1,13 @@
 +++
 title = "342 य एव"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever is the king's duty in protecting his own realm,  
+he incurs that entirely when bringing another realm under control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य एव नृपतेर् धर्मः  

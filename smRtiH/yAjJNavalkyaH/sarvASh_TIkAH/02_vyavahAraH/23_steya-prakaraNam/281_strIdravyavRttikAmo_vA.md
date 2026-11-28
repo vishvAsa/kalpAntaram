@@ -1,6 +1,13 @@
 +++
 title = "281 स्त्रीद्रव्यवृत्तिकामो वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or whether he was desirous of women, wealth, or livelihood, or with whom he went.  
+Or he should gently question people living near the place of death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-द्रव्य-वृत्ति-कामो वा  

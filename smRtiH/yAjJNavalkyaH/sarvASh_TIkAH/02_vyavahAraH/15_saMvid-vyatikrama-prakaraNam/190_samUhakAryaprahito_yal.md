@@ -1,6 +1,13 @@
 +++
 title = "190 समूहकार्यप्रहितो यल्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever someone dispatched on corporate business receives, he must deliver;  
+if he does not deliver it of his own accord, he should be made to pay elevenfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 समूह-कार्य-प्रहितो  

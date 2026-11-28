@@ -1,6 +1,13 @@
 +++
 title = "120 शूद्रस्य द्विजशुश्रूषा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For a Shudra, service to the twice-born [is prescribed]; unable to live by that, he may become a trader,  
+or live by various crafts, doing what is beneficial to the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शूद्रस्य द्विज-शुश्रूषा  

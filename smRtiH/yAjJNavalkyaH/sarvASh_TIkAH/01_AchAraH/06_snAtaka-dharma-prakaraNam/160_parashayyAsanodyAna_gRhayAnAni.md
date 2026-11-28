@@ -1,6 +1,13 @@
 +++
 title = "160 परशय्यासनोद्यान गृहयानानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid another's bed, seat, garden, house, and carriage  
+that are not given to him; except in distress, he should not eat the food of one who maintains no sacred fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पर-शय्यासनोद्यान-  

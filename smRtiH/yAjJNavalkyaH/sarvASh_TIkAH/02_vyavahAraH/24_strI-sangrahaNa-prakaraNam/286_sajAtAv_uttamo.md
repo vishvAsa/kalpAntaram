@@ -1,6 +1,13 @@
 +++
 title = "286 सजाताव् उत्तमो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the same social class, the highest fine applies; but in direct order of classes, the middling fine;  
+in reverse order of classes, death for the man, and cutting off of the ears and other limbs for the woman.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सजाताव् उत्तमो दण्ड  

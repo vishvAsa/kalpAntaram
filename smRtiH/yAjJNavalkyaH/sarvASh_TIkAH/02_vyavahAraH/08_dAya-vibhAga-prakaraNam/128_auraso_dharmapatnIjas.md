@@ -2,6 +2,12 @@
 title = "128 औरसो धर्मपत्नीजस्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The body-born son is born of the lawful wife; equal to him is the son of an appointed daughter.  
+The soil-born son is born of the wife by a person of the same gotra or another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 औरसो धर्म-पत्नीजस्  

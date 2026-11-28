@@ -1,6 +1,13 @@
 +++
 title = "151 नयेयुर् एते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+shall determine the boundary marked by mounds, charcoal, chaff, trees,  
+dikes, anthills, hollows, bones, shrines, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नयेयुर् एते सीमानं  

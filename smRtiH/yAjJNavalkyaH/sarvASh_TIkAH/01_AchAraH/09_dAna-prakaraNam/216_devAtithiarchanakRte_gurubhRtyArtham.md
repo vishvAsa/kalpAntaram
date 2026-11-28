@@ -1,6 +1,13 @@
 +++
 title = "216 देवातिथिअर्चनकृते गुरुभृत्यार्थम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For the sake of worshipping gods and guests, or for a guru and servants,  
+or for the sake of one's own livelihood, one may accept [gifts] from anyone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देवातिथि-अर्चन-कृते  

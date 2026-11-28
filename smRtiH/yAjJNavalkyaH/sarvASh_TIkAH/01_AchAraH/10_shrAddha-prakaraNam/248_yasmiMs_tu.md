@@ -1,6 +1,13 @@
 +++
 title = "248 यस्मिंस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Turning upright that vessel of the ancestors  
+in which the washings had previously been placed in the guest-water vessel, he should dismiss the Brahmins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मिंस् तु संस्रवाः पूर्वम्  

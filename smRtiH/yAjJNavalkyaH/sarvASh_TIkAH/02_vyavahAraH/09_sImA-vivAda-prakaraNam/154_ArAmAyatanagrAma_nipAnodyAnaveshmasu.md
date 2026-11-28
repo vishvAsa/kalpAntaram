@@ -1,6 +1,13 @@
 +++
 title = "154 आरामायतनग्राम निपानोद्यानवेश्मसु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of pleasure-groves, temples, villages, reservoirs, gardens, and houses,  
+as well as channels of rainwater and the like, this very same rule is to be known.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आरामायतन-ग्राम-  

@@ -1,6 +1,13 @@
 +++
 title = "189 गोघ्राते ऽन्ने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When food has been sniffed by a cow, or spoiled by hair, flies, or insects,  
+water, ashes, or earth should be thrown into it for its purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-घ्राते ऽन्ने तथा केश-  

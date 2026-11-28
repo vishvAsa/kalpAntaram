@@ -1,6 +1,13 @@
 +++
 title = "222 रोगी हीनातिरिक्ताङ्गः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A diseased man, one with deficient or redundant limbs, a one-eyed man, the son of a remarried woman,  
+one who has broken his vow of chastity, a Kuṇḍa, a Gola, one with deformed nails, one with discoloured teeth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 रोगी हीनातिरिक्ताङ्गः  

@@ -1,6 +1,13 @@
 +++
 title = "064 भवो जातिसहस्रेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+rebirth in thousands of wombs, and the reversal of the agreeable and disagreeable;  
+through the discipline of meditation he should perceive the subtle Self abiding in the self.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भवो जाति-सहस्रेषु  

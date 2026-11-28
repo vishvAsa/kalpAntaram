@@ -1,6 +1,13 @@
 +++
 title = "296 अभक्ष्येण द्विजन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Corrupting a twice-born with inedible food, one should be fined the highest heinous offence;  
+a Kshatriya, the middling; a Vaishya, the first; a Shudra, half.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभक्ष्येण द्विजं दूष्यो[दूष्य?]  

@@ -1,6 +1,13 @@
 +++
 title = "134 न तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not urinate into a river, in shade, on a path, in a cowshed, in water, or in ashes;  
+nor facing fire, the sun, a cow, the moon, the twilight, water, a woman, or a twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न तु मेहेन् नदी-छाया-  

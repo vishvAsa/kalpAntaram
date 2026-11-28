@@ -1,6 +1,13 @@
 +++
 title = "188 तपसा ब्रह्मचर्येण"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through austerity, celibate studenthood, abandonment of attachment, and wisdom,  
+having gone there, they remain until the dissolution of the elements.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपसा ब्रह्म-चर्येण  

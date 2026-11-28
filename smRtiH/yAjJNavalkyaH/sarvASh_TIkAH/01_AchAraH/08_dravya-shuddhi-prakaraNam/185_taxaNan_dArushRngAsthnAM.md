@@ -1,6 +1,13 @@
 +++
 title = "185 तक्षणन् दारुशृङ्गास्थ्नां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Chiselling is the purification for wood, horns, and bones; with cow hair for products of fruits;  
+wiping with the hand during sacrificial performance for sacrificial vessels.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तक्षणं दारु-शृङ्गास्थ्नां  

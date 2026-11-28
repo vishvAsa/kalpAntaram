@@ -1,6 +1,13 @@
 +++
 title = "333 य इदं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever wise man would recite this to twice-borns on every lunar juncture,  
+his is the fruit of a horse sacrifice; may your honour assent to that!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 य इदं श्रावयेद् विद्वान्  

@@ -1,6 +1,13 @@
 +++
 title = "255 अज्ञानात् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having drunk liquor unwittingly, or semen, feces, or urine,  
+the three twice-born social classes deserve to undergo the life-cycle rite once again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अज्ञानात् तु सुरां पीत्वा  

@@ -1,6 +1,13 @@
 +++
 title = "334 ब्राह्मणेषु क्षमी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Patient toward Brahmins, straight toward friends, wrathful toward enemies,  
+the king should be like a father toward his servants and subjects.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेषु क्षमी स्निग्धेष्व्  

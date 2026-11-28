@@ -1,6 +1,13 @@
 +++
 title = "280 या आहृता"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then, onto a red ox-hide, [water] brought from a lake  
+with four monochromatic jars should be poured, and the auspicious seat placed thereon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 या आहृता ह्य् एक-वर्णैश्  

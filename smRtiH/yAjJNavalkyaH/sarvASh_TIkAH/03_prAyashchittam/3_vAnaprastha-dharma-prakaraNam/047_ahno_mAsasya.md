@@ -1,6 +1,13 @@
 +++
 title = "047 अह्नो मासस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He may make a hoard of goods for a day, for a month, for six months,  
+or for a year; what has been gathered he should discard in the month of Āśvayuja.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अह्नो मासस्य षण्णां वा  

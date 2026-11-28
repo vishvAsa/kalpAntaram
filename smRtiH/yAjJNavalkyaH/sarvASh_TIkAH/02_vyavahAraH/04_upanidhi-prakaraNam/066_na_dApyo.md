@@ -1,6 +1,13 @@
 +++
 title = "066 न दाप्यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He shall not be made to pay if it is carried off by the king, an act of God, or thieves.  
+If loss occurs after it has been demanded and not given, he must be made to pay, and a fine equal to it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न दाप्यो ऽपहृतं तं तु  

@@ -1,6 +1,13 @@
 +++
 title = "266 ऋषभैकसहस्रा गा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For killing a Kshatriya, a man should give one thousand cows with one bull,  
+or he should observe the vow for killing a Brahmin for three years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऋषभैकसहस्रा गा  

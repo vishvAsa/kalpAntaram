@@ -1,6 +1,13 @@
 +++
 title = "355 स नेतुन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+It cannot be administered righteously by one who is greedy and untrained in intellect,  
+[but only] by one true to his promise, pure, having good aides, and wise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स नेतुं न्यायतो ऽशक्यो  

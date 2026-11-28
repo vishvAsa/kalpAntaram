@@ -1,6 +1,13 @@
 +++
 title = "250 सम्भूय वणिजाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For merchants who conspire to withhold commodities,  
+selling them or holding them at an improper price, the highest fine for heinous offences is ordained.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सम्भूय वणिजां पण्यम्  

@@ -1,6 +1,13 @@
 +++
 title = "109 महोक्षं वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should provide a large ox or a large goat for a learned Brahmin;  
+[and provide] respectful reception, a seat, sweet food, and truthful, pleasing speech.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महोक्षं वा महाजं वा  

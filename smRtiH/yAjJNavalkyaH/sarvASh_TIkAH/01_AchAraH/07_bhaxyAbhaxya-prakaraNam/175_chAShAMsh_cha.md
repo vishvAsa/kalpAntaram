@@ -1,6 +1,13 @@
 +++
 title = "175 चाषांश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Blue jays, red-legged birds, meat from a slaughterhouse, dried meat,  
+and fish—having eaten these intentionally, he should fast for three days.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चाषांश् च रक्त-पादांश् च  

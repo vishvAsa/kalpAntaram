@@ -1,6 +1,13 @@
 +++
 title = "068 तपस्विनो दानशीलाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ascetics, generous men, those of noble birth, truth-tellers,  
+those devoted to duty, upright, having sons, and endowed with wealth,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तपस्विनो दान-शीलाः  

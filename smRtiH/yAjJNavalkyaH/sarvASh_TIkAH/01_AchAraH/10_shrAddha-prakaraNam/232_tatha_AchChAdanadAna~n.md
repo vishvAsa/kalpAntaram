@@ -1,6 +1,13 @@
 +++
 title = "232 तथ +आच्छादनदानञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and likewise an offering of clothing and water for cleansing the hands,  
+he should then place the sacred thread over the right shoulder, moving counter-clockwise for the ancestors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथ +आच्छादन-दानं च  

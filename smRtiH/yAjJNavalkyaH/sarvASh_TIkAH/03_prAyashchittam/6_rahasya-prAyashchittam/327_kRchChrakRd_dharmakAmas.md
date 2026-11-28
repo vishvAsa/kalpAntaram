@@ -1,6 +1,13 @@
 +++
 title = "327 कृच्छ्रकृद् धर्मकामस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who performs a kṛcchra desiring duty obtains great prosperity;  
+well-concentrated, he attains the fruit like that of a great sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्र-कृद् धर्म-कामस् तु  

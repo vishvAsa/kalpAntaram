@@ -1,6 +1,13 @@
 +++
 title = "206 अर्धो ऽधर्मेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fine is halved in unrighteous actions, and doubled in cases involving other men's wives and social superiors;  
+the levying of fines is to be carried out according to the superior and inferior order of social class and caste.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्धो ऽधर्मेषु द्वि-गुणः  

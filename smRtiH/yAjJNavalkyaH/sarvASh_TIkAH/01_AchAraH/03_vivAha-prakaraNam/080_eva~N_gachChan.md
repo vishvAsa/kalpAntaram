@@ -1,6 +1,13 @@
 +++
 title = "080 एवङ् गच्छन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching his wife thus when she is slender, he should avoid the Maghā and Mūla asterisms;  
+the moon being favourable, a man should beget a son possessing auspicious marks, once [per night].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एवं गच्छन् स्त्रियं क्षामां  

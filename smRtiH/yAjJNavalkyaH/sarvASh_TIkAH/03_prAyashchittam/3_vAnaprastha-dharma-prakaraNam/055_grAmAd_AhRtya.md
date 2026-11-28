@@ -1,6 +1,13 @@
 +++
 title = "055 ग्रामाद् आहृत्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or, having brought eight mouthfuls from a village, he should eat them restrained in speech;  
+or, feeding on air, he should walk toward the northeast until the destruction of his body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रामाद् आहृत्य वा ग्रासान्  

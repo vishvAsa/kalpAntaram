@@ -2,6 +2,12 @@
 title = "076 आकाशाल् लाघवं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+From ether it takes lightness, subtlety, sound, the ear, and bodily force;  
+and from air touch, movement, physical organisation, and dryness;
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकाशाल् लाघवं सौक्ष्म्यं  

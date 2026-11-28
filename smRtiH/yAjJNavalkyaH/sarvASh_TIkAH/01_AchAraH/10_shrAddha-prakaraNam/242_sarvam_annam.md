@@ -2,6 +2,12 @@
 title = "242 सर्वम् अन्नम्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking all kinds of food mixed with sesame seeds, facing south,  
+he should place the balls of rice near the leftover food, just as in the ancestral sacrifice.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वम् अन्नम् उपादाय  

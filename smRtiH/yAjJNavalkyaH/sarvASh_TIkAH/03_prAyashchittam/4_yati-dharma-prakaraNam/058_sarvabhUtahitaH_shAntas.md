@@ -1,6 +1,13 @@
 +++
 title = "058 सर्वभूतहितः शान्तस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beneficent to all beings, tranquil, carrying three staves and a water pot,  
+delighting in solitude, having renounced, seeking alms, he should resort to a village.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्व-भूत-हितः शान्तस्  

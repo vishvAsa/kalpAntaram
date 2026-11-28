@@ -1,6 +1,13 @@
 +++
 title = "176 प्रतिग्रहः प्रकाशः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Acceptance of a gift should be public, especially of immovable property;  
+what is proper to give and has been promised should be given, and once given, he must not take it back.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिग्रहः प्रकाशः स्यात्  

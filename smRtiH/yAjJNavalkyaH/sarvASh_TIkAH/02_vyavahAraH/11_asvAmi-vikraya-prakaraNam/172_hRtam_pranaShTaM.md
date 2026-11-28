@@ -1,6 +1,13 @@
 +++
 title = "172 हृतम् प्रनष्टं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who recovers stolen or lost property from the hand of another  
+without informing the king shall be fined ninety-six paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हृतं प्रनष्टं यो द्रव्यं  

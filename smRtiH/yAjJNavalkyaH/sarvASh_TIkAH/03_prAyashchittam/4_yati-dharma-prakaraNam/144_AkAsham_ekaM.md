@@ -1,6 +1,13 @@
 +++
 title = "144 आकाशम् एकं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as space, though one, becomes distinct in pots and other things,  
+so the self is one and many, like the sun in vessels of water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आकाशम् एकं हि यथा  

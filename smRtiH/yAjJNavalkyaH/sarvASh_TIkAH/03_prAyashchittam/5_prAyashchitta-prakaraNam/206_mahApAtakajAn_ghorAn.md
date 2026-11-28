@@ -1,6 +1,13 @@
 +++
 title = "206 महापातकजान् घोरान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having reached the dreadful, severe hells born of mortal sins,  
+perpetrators of mortal sins are reborn here upon the exhaustion of their action.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पातकजान् घोरान्  

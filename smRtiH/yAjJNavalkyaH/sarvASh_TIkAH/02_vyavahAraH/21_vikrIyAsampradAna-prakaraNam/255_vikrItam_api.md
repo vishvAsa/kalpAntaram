@@ -1,6 +1,13 @@
 +++
 title = "255 विक्रीतम् अपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even though sold, it may be sold [to another] if the first buyer does not take it;  
+if there is a loss through the fault of the buyer, it shall fall only upon the buyer.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विक्रीतम् अपि विक्रेयं  

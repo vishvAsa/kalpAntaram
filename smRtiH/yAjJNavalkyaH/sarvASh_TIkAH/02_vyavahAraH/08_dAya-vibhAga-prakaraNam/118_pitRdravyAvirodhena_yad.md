@@ -1,6 +1,13 @@
 +++
 title = "118 पितृद्रव्याविरोधेन यद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever else is acquired by oneself without detriment to the ancestral property,  
+as well as gifts from friends and through marriage, does not belong to the co-heirs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-द्रव्याविरोधेन  

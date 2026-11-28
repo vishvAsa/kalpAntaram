@@ -1,6 +1,13 @@
 +++
 title = "043 स तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who chants the Sāmaveda chants daily libates the gods with soma and clarified butter,  
+and satisfies the ancestors with honey and clarified butter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स तु सोम-घृतैर् देवांस्  

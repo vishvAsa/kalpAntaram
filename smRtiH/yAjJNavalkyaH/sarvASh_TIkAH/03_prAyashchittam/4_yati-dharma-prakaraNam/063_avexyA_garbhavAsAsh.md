@@ -1,6 +1,13 @@
 +++
 title = "063 अवेक्ष्या गर्भवासाश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwellings in the womb should be observed, and the states resulting from karma,  
+worries, diseases, afflictions, old age, the decay of physical form,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवेक्ष्या गर्भ-वासाश् च  

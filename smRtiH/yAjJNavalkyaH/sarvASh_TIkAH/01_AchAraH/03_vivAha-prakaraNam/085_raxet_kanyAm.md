@@ -1,6 +1,13 @@
 +++
 title = "085 रक्षेत् कन्याम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The father should protect a maiden; the husband, a married woman; but sons in old age;  
+in their absence, relatives: a woman is never independent at any time.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रक्षेत् कन्यां पिता विन्नां  

@@ -1,6 +1,13 @@
 +++
 title = "080 स्थैर्यञ् चतुर्थे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the fourth month comes firmness of the limbs; in the fifth, the production of blood;  
+in the sixth, the emergence of strength, complexion, nails, and hair.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थैर्यं चतुर्थे त्व् अङ्गानां  

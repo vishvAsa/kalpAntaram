@@ -1,6 +1,13 @@
 +++
 title = "154 दूराद् उच्छिष्टविण्मूत्र"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should cast off at a distance food remnants, feces, urine, and foot-washing water;  
+he should properly and constantly practice the conduct prescribed by revealed scripture and traditional law.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दूराद् उच्छिष्ट-विण्-मूत्र-  

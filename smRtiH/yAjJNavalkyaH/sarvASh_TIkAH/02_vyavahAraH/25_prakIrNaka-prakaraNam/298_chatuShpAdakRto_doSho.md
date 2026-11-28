@@ -1,6 +1,13 @@
 +++
 title = "298 चतुष्पादकृतो दोषो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+No fault attaches to the driver who shouts: 'Get out of the way!' for harm caused by a quadruped,  
+or caused by wood, clod, arrow, stone, arm, or yoked draught animal;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चतुष्पाद-कृतो दोषो  

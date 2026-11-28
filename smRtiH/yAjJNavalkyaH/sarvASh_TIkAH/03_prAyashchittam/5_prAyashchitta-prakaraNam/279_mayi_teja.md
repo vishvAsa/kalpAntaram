@@ -1,6 +1,13 @@
 +++
 title = "279 मयि तेज"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having seen his own reflection cast in water, he should murmur: 'May splendour be in me';  
+[he should murmur] the Sāvitrī upon seeing an impurity, in rash conduct, and also upon speaking an untruth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मयि तेज इति छायां  

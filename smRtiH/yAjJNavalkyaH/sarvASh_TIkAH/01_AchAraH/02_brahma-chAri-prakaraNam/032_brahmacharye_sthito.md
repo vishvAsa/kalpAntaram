@@ -1,6 +1,13 @@
 +++
 title = "032 ब्रह्मचर्ये स्थितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Established in celibate studenthood, he should not eat solitary food unless in distress.  
+A Brahmin may eat at will at an ancestral rite without violating his vow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-चर्ये स्थितो नैकम्  

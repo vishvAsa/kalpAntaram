@@ -1,6 +1,13 @@
 +++
 title = "075 मृते जीवति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whether her husband is dead or living, she who does not approach another [man]  
+attains fame in this world and rejoices with Umā [in the next].
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृते जीवति वा पत्यौ  

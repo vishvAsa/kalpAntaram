@@ -2,6 +2,12 @@
 title = "006 पाखण्ड्य्अनाश्रिताः स्तेना"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who belong to heretical sects, thieves, husband-slayers, unchaste women and the like,  
+female wine-drinkers, and women who commit suicide are not entitled to impurity or water offerings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाखण्ड्य्-अनाश्रिताः स्तेना  

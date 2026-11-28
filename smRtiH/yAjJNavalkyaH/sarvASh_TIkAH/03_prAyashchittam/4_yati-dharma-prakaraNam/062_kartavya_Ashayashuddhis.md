@@ -1,6 +1,13 @@
 +++
 title = "062 कर्तव्य +आशयशुद्धिस्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Purification of disposition, especially, must be cultivated by a mendicant,  
+because it is the cause for the arising of knowledge and for the attainment of spiritual autonomy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्तव्य +आशय-शुद्धिस् तु  

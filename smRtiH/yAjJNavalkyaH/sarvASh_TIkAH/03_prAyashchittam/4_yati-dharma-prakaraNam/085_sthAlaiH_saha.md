@@ -1,6 +1,13 @@
 +++
 title = "085 स्थालैः सह"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixty-four teeth together with their sockets, twenty nails,  
+and the small bones of the hands and feet, which have four locations.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्थालैः सह चतुः-षष्टिर्  

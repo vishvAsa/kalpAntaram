@@ -1,6 +1,13 @@
 +++
 title = "049 दन्तोलूखलिकः काल"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+using his teeth as a mortar or eating what ripens in time or crushing with a stone,  
+he should perform Vedic and traditional rites and ceremonies with oils from fruits.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दन्तोलूखलिकः काल-  

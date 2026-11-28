@@ -1,6 +1,13 @@
 +++
 title = "199 सर्वस्य प्रभवो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahmins devoted to learning the revealed scripture are the source of all;  
+higher than them are those dedicated to rites; and higher even than them are those who know the supreme Self best.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वस्य प्रभवो विप्राः  

@@ -1,6 +1,13 @@
 +++
 title = "232 अर्घ्याक्षेपातिक्रमकृद् भ्रातृभार्याप्रहारकः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who reviles an honoured guest or commits a transgression, one who strikes a brother's wife,  
+one who fails to deliver what was entrusted, and one who breaks into a sealed house—
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्घ्याक्षेपातिक्रम-कृद्  

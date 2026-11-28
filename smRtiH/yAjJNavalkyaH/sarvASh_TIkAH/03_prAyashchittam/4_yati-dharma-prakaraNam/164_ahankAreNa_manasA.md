@@ -1,6 +1,13 @@
 +++
 title = "164 अहङ्कारेण मनसा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Never before has this self been liberated from egoism,  
+mind, transmigration, the fruit of action, and the physical body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहङ्कारेण मनसा  

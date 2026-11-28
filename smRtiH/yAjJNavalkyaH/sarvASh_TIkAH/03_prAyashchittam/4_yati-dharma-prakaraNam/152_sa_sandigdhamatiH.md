@@ -1,6 +1,13 @@
 +++
 title = "152 स सन्दिग्धमतिः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+his mind doubting whether the fruit of action exists or not,  
+astray, though unaccomplished he considers himself accomplished.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स सन्दिग्ध-मतिः कर्म-  

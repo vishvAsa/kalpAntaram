@@ -1,6 +1,13 @@
 +++
 title = "186 तत्राष्टाशीतिसाहस्र मुनयो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There dwell eighty-eight thousand householder sages  
+who return again, serving as the seeds [of mankind] and promoters of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्राष्टाशीति-साहस्र-  

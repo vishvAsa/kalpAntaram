@@ -1,6 +1,13 @@
 +++
 title = "138 संसृष्टिनस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A reunited partner takes the share of a reunited partner, and a uterine brother of a uterine brother;  
+he should give the share of one who is born and take the share of one who has died.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संसृष्टिनस् तु संसृष्टी  

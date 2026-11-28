@@ -1,6 +1,13 @@
 +++
 title = "333 दृष्ट्वा ज्योतिर्विदो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having received astrologers and physicians, he should give a cow, gold, land,  
+and marriage gifts, and houses to Vedic scholars.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दृष्ट्वा ज्योतिर्विदो वैद्यान्  

@@ -1,6 +1,13 @@
 +++
 title = "307 निशायां वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever may have been done in ignorance, whether at night or by day,  
+all of that is entirely destroyed by performing the twilight devotion at the three times of day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निशायां वा दिवा वा ऽपि  

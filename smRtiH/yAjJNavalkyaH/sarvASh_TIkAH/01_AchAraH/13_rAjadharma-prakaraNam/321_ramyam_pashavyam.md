@@ -1,6 +1,13 @@
 +++
 title = "321 रम्यम् पशव्यम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should dwell in a delightful country, good for cattle, offering livelihood, [and] arid;  
+there he should build fortresses for the protection of his subjects, the treasury, and himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रम्यं पशव्यम् आजीव्यं  

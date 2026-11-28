@@ -1,6 +1,13 @@
 +++
 title = "195 देशङ् कालञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For one who exceeds the place or time, or who realizes a different profit,  
+the decision rests with the master; more is to be given if more work has been done.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं च यो ऽतीयाल्  

@@ -1,6 +1,13 @@
 +++
 title = "072 स्त्रीपुंसयोस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the union of man and woman, when semen and menstrual blood are pure,  
+the Lord himself, as the sixth, assumes the five elements all at once.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्री-पुंसयोस् तु संयोगे  

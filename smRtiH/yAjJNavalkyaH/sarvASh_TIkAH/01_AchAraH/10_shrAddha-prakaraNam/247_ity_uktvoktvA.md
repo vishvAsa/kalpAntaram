@@ -2,6 +2,12 @@
 title = "247 इत्य् उक्त्वोक्त्वा"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having said this, having spoken kind words and prostrated himself, he should dismiss them;  
+pleased, with the verse 'vāje vāje', dismissal is made beginning with the ancestors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इत्य् उक्त्वोक्त्वा प्रिया वाचः  

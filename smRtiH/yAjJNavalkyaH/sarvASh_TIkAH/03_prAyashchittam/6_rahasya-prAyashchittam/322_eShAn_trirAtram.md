@@ -1,6 +1,13 @@
 +++
 title = "322 एषान् त्रिरात्रम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the repetition of each of these for three nights in due order,  
+this balance-ordeal penance of fifteen days is to be known.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एषां त्रि-रात्रम् अभ्यासाद्  

@@ -1,6 +1,13 @@
 +++
 title = "194 अजाश्वयोर् मुखम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The mouth of a goat and of a horse is pure, but not that of a cow, nor are excretions born of humans.  
+Roads are purified by the rays of the moon and sun and by the wind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अजाश्वयोर् मुखं मेध्यं  

@@ -1,6 +1,13 @@
 +++
 title = "322 तत्र तत्र"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And in respective matters he should appoint superintendents who are experienced, skilled, pure,  
+and attentive to revenue, workshops, and expenditure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र तत्र च निष्णातान्  

@@ -1,6 +1,13 @@
 +++
 title = "336 चाटतस्करदुर्वृत्त महासाहसिकादिभिः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should protect his subjects when they are oppressed by flatterers, thieves, scoundrels,  
+perpetrators of heinous offences, and especially by scribes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चाट-तस्कर-दुर्वृत्त-  

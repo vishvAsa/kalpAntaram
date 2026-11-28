@@ -2,6 +2,12 @@
 title = "323 तिथिवृद्ध्या चरेत्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Performing the lunar penance, one should consume morsels sized like a peahen's egg with the increase of lunar days in the bright [fortnight],  
+and decrease the morsel by one each day in the dark [fortnight].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तिथि-वृद्ध्या चरेत् पिण्डान्  

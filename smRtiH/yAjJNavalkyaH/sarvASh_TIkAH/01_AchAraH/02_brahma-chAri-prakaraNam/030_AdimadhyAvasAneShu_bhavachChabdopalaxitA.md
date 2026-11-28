@@ -1,6 +1,13 @@
 +++
 title = "030 आदिमध्यावसानेषु भवच्छब्दोपलक्षिता"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Marked by the word 'bhavat' at the beginning, middle, and end, respectively,  
+is the begging of alms for Brahmins, Kshatriyas, and Vaishyas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आदि-मध्यावसानेषु  

@@ -1,6 +1,13 @@
 +++
 title = "083 संयतोपस्करा दक्षा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Keeping the household utensils collected, skilful, cheerful, averse to lavish expenditure,  
+she should bow to the feet of her parents-in-law, devoted to her husband.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संयतोपस्करा दक्षा  

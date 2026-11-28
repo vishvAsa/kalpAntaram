@@ -1,6 +1,13 @@
 +++
 title = "092 सन्दिग्धलेख्यशुद्धिः स्यात्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Authentication of a doubtful document is achieved by means of one's own handwriting and the like,  
+by reason, possession, proof, circumstantial marks, relationship, and title.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सन्दिग्ध-लेख्य-शुद्धिः स्यात्  

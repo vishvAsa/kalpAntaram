@@ -1,6 +1,13 @@
 +++
 title = "252 उपतिष्ठताम् अक्षय्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In place of 'May it be inexhaustible', he says 'May it attend [upon you]'; at the dismissal of the Brahmins,  
+he should say 'May you be pleased', and they should reply 'We are well pleased.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 उपतिष्ठताम् अक्षय्य-  

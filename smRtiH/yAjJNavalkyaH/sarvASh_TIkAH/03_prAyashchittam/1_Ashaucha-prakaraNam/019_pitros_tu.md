@@ -1,6 +1,13 @@
 +++
 title = "019 पित्रोस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Birth impurity belongs to both parents, but surely to the mother because of the appearance of blood;  
+the day [of birth] does not cause impurity for the father and others on account of the occasion of birth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पित्रोस् तु सूतकं मातुस्  

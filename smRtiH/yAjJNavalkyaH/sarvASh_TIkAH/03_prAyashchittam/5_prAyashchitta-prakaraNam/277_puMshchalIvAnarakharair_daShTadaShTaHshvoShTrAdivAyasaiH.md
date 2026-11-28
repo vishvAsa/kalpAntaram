@@ -1,6 +1,13 @@
 +++
 title = "277 पुंश्चलीवानरखरैर् दष्ट[दष्टः?]श्वोष्ट्रादिवायसैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bitten by a harlot, a monkey, an ass, dogs, camels, and the like, or crows,  
+having performed breath control in water and tasted ghee, one is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुंश्चली-वानर-खरैर्  

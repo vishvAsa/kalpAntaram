@@ -1,6 +1,13 @@
 +++
 title = "180 वसेत् स"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That evil-doer who slaughters animals contrary to the prescribed rule  
+shall dwell in a terrible hell for as many days as there are hairs on the animal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसेत् स नरके घोरे  

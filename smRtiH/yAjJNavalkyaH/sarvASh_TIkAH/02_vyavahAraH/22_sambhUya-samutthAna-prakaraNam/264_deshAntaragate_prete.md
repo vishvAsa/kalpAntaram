@@ -1,6 +1,13 @@
 +++
 title = "264 देशान्तरगते प्रेते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When one dies abroad, heirs, relatives,  
+or kinsmen who have arrived may take the property; in their absence, the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशान्तर-गते प्रेते  

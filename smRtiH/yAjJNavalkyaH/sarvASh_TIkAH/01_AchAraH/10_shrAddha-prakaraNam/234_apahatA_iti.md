@@ -1,6 +1,13 @@
 +++
 title = "234 अपहता इति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Scattering sesame seeds all around with the mantra 'apahatāḥ',  
+the purposes served by barley should be performed with sesame seeds; he should perform the guest-water and other rites as before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपहता इति तिलान्  

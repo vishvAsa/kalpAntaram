@@ -1,6 +1,13 @@
 +++
 title = "036 प्रतिवेदम् ब्रह्मचर्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For each Veda, celibate studenthood is twelve years, or five;  
+some say it lasts until comprehension; and the first shaving of the beard is in the sixteenth year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिवेदं ब्रह्म-चर्यं  

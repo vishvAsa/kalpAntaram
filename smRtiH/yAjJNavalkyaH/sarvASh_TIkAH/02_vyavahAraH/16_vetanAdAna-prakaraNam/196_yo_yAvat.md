@@ -1,6 +1,13 @@
 +++
 title = "196 यो यावत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+However much work a person does, that much shall be his wages;  
+if an undertaking proves impossible for both, he should do as agreed when it is achievable.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो यावत् कुरुते कर्म  

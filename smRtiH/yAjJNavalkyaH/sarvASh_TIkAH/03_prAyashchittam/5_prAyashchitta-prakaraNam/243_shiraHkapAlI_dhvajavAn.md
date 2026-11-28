@@ -2,6 +2,12 @@
 title = "243 शिरःकपाली ध्वजवान्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Carrying a skull, bearing a staff, eating alms-food, proclaiming his deed,  
+[and] eating moderately, the killer of a Brahmin would attain purification in twelve years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिरः-कपाली ध्वजवान्  

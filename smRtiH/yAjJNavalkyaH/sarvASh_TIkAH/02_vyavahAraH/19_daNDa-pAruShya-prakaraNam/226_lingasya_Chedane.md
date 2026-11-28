@@ -1,6 +1,13 @@
 +++
 title = "226 लिङ्गस्य छेदने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For cutting off the generative organ or causing death, [the fine is] the middling one, plus the actual value;  
+in these circumstances regarding large animals, the fine is double.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लिङ्गस्य छेदने मृत्यौ  

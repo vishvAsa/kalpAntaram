@@ -1,6 +1,13 @@
 +++
 title = "039 मातुर् यद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because they are born first from their mother, and secondly from the tying of the girdle of muñja grass,  
+therefore Brahmins, Kshatriyas, and Vaishyas are traditionally known as the twice-born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातुर् यद् अग्रे जायन्ते  

@@ -1,6 +1,13 @@
 +++
 title = "288 त्रीन् कृच्छ्रान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who sacrifices for an outcaste, or who performs malevolent sorcery, should perform three penitential hardships;  
+one who repudiates the Veda or abandons one who sought refuge, eating barley for a year [is purified].
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रीन् कृच्छ्रान् आचरेद् व्रात्य-  

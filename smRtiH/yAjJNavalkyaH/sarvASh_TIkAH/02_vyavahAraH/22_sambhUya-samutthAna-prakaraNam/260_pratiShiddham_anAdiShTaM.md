@@ -1,6 +1,13 @@
 +++
 title = "260 प्रतिषिद्धम् अनादिष्टं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is lost through doing what was forbidden, or without instruction, or through negligence,  
+that he must pay; and if he saves [property] from a catastrophe, he receives a tenth share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिषिद्धम् अनादिष्टं  

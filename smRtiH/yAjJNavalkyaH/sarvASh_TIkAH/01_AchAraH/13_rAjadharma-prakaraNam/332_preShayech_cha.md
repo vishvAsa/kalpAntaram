@@ -1,6 +1,13 @@
 +++
 title = "332 प्रेषयेच् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then he should dispatch attentive spies among his own people and among others.  
+Having been greeted with blessings by the sacrificial priests, the chaplain, and preceptors,
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रेषयेच् च ततश् चारान्  

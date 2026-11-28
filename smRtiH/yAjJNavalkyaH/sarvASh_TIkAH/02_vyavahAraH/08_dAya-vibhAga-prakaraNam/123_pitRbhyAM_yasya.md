@@ -1,6 +1,13 @@
 +++
 title = "123 पितृभ्यां यस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever was given to one by his parents shall be that person's property alone.  
+When they divide after the father's death, the mother too shall take an equal share.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृभ्यां यस्य तद् दत्तं  

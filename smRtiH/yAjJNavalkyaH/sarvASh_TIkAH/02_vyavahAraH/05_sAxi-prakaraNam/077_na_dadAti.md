@@ -1,6 +1,13 @@
 +++
 title = "077 न ददाति"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The lowest of men who does not give testimony even though knowing [the truth]  
+is equal in sin to false witnesses, and [equal] in fine as well.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न ददाति हि यः साक्ष्यं  

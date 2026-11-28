@@ -1,6 +1,13 @@
 +++
 title = "012 इति संश्रुत्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having listened to this, they should go home, led by the children;  
+chewing neem leaves, with restrained minds, at the door of the house,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति संश्रुत्य गच्छेयुर्  

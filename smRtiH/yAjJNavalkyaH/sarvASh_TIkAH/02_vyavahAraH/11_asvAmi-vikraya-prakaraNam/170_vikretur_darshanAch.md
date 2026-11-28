@@ -1,6 +1,13 @@
 +++
 title = "170 विक्रेतुर् दर्शनाच्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+By producing the seller there is exoneration; the owner receives the property, the king the fine,  
+and the buyer obtains the purchase price from the one who was the seller to him.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विक्रेतुर् दर्शनाच् छुद्धिः  

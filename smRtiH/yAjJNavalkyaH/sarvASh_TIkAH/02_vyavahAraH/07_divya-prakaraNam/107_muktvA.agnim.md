@@ -1,6 +1,13 @@
 +++
 title = "107 मुक्त्वा ऽग्निम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having dropped the fire, he rubs rice grains; if unburnt, he attains clearance.  
+If the ball falls between, or in case of doubt, he must carry it again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मुक्त्वा ऽग्निं मृदित-व्रीहिर्  

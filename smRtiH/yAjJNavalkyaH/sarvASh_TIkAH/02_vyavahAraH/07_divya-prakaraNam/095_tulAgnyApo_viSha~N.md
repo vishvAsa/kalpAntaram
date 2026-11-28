@@ -1,6 +1,13 @@
 +++
 title = "095 तुलाग्न्य्आपो विषङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The balance, fire, water, poison, and consecrated water are the ordeals here for clearance  
+in cases of grave accusation, when the accuser submits to the penalty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तुलाग्न्य्-आपो विषं कोशो  

@@ -1,6 +1,13 @@
 +++
 title = "177 भक्ष्याः पञ्चनखाः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among five-toed animals, the porcupine, monitor lizard, tortoise, hedgehog,  
+and hare may be eaten; and among fish: the lion-snout and rohita;
+</details>
+
 <details><summary>मूलम्</summary>
 
 भक्ष्याः पञ्च-नखाः  

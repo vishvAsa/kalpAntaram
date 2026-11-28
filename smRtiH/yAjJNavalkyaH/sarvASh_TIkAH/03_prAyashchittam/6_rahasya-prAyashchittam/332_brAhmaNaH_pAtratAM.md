@@ -1,6 +1,13 @@
 +++
 title = "332 ब्राह्मणः पात्रतां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A Brahmin attains worthy standing, a Kshatriya becomes victorious,  
+and a Vaishya becomes rich in grain and wealth through maintaining this treatise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणः पात्रतां याति  

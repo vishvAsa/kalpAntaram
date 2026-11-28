@@ -1,6 +1,13 @@
 +++
 title = "051 स्वप्याद् भूमौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should sleep on the bare ground, pure, by night, and by day spend time on the tips of his toes,  
+or by standing, sitting, walking, or by the practice of yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वप्याद् भूमौ शुची रात्रौ  

@@ -1,6 +1,13 @@
 +++
 title = "187 गणद्रव्यं हरेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever embezzles corporate property or breaches an agreement,  
+him the king should banish from the realm after confiscating all his property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गण-द्रव्यं हरेद् यस् तु  

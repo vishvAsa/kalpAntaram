@@ -1,6 +1,13 @@
 +++
 title = "033 मधुमांसाञ्जनोच्छिष्ट शुक्तस्त्रीप्राणिहिंसनम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should avoid honey, meat, eye salve, leftover food, sour substances, women, harming living beings,  
+looking at the sun, vulgar speech, slander, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मधु-मांसाञ्जनोच्छिष्ट-  

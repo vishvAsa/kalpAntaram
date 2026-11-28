@@ -1,6 +1,13 @@
 +++
 title = "001 योगीश्वरं याज्ञवल्क्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having worshipped Yājñavalkya, the lord of yogins, the sages said:  
+“Tell us in full the duties of the social classes, the stages of life, and the others.”
+</details>
+
 <details><summary>मूलम्</summary>
 
 योगीश्वरं याज्ञवल्क्यं  

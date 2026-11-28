@@ -1,6 +1,13 @@
 +++
 title = "317 अलब्धम् ईहेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is unacquired he should seek through duty; what is acquired he should protect with effort;  
+what is protected he should increase through policy; what is increased he should bestow on worthy recipients.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अलब्धम् ईहेद् धर्मेण  

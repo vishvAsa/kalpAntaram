@@ -1,6 +1,13 @@
 +++
 title = "328 हिरण्यं व्यापृतानीतं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should deposit in the treasuries the gold brought by officials.  
+He should inspect spies, and then dispatch envoys in consultation with his ministers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्यं व्यापृतानीतं  

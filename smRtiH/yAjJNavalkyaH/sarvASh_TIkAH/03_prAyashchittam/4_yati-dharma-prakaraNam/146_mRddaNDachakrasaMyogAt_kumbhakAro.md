@@ -1,6 +1,13 @@
 +++
 title = "146 मृद्दण्डचक्रसंयोगात् कुम्भकारो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Just as a potter makes a pot through the combination of clay, staff, and wheel,  
+or a builder makes a house with grass, earth, and wood,
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृद्-दण्ड-चक्र-संयोगात्  

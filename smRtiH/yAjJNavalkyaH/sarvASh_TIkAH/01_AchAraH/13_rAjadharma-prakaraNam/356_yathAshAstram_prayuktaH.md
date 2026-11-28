@@ -1,6 +1,13 @@
 +++
 title = "356 यथाशास्त्रम् प्रयुक्तः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When applied according to the treatises, it gladdens the entire world  
+with its gods, demons, and humans; otherwise, it enrages it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा-शास्त्रं प्रयुक्तः सन्  

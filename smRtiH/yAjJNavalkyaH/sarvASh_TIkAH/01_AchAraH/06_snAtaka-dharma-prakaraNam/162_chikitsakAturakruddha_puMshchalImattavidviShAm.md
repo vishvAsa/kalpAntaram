@@ -1,6 +1,13 @@
 +++
 title = "162 चिकित्सकातुरक्रुद्ध पुंश्चलीमत्तविद्विषाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a physician, an invalid, an angry man, an unchaste woman, an intoxicated man, an enemy,  
+a cruel man, a ferocious man, a degraded person, an outcaste, a hypocrite, one who eats remnants;
+</details>
+
 <details><summary>मूलम्</summary>
 
 चिकित्सकातुर-क्रुद्ध-  

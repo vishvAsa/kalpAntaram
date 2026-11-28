@@ -1,6 +1,13 @@
 +++
 title = "296 सूर्यः सोमो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Sun, the Moon, the Son of the Earth, the Son of the Moon, Bṛhaspati,  
+Venus, Saturn, Rāhu, and Ketu—these are known as the planets.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सूर्यः सोमो मही-पुत्रः  

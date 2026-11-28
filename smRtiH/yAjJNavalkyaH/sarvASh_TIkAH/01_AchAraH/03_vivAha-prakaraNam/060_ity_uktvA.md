@@ -1,6 +1,13 @@
 +++
 title = "060 इत्य् उक्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Kāya is that [marriage] where she is given to a suitor after saying, 'Practise duty together';  
+the son born of it purifies six generations [before him], six [after him], along with himself.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इत्य् उक्त्वा चरतां धर्मं  

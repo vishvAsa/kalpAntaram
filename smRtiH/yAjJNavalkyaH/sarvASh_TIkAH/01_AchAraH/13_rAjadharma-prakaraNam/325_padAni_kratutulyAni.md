@@ -1,6 +1,13 @@
 +++
 title = "325 पदानि क्रतुतुल्यानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The steps of those who do not turn back when others are broken are equal to sacrifices.  
+The king takes the merit of those who flee and are slain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पदानि क्रतु-तुल्यानि  

@@ -2,6 +2,12 @@
 title = "292 विप्रदण्डोद्यमे कृच्छ्रस्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For raising a stick against a Brahmin, a penitential hardship [is prescribed], but a severe kṛcchra penance for striking him;  
+a most severe kṛcchra penance for drawing blood, and a penitential hardship for internal contusion.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्र-दण्डोद्यमे कृच्छ्रस् त्व्  

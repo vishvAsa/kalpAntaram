@@ -1,6 +1,13 @@
 +++
 title = "018 अन्तर्जानु शुचौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seated in a pure place with his hands between his knees, facing north  
+or east, a twice-born should always sip water for purification using the sacred part of the hand belonging to Brahmā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्तर्-जानु शुचौ देश  

@@ -1,6 +1,13 @@
 +++
 title = "083 नवमे दशमे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the ninth or tenth month, by the powerful winds of delivery,  
+it is expelled like an arrow through the opening of the birth canal, suffering fever.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नवमे दशमे वा ऽपि  

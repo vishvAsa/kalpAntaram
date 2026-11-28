@@ -1,6 +1,13 @@
 +++
 title = "161 कदर्यबद्धचौराणां क्लीबरङ्गावतारिणाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a miser, a prisoner, a thief, a eunuch, an actor,  
+a cane-worker, an accused sinner, a usurer, a courtesan, one initiated by a group;
+</details>
+
 <details><summary>मूलम्</summary>
 
 कदर्य-बद्ध-चौराणां  

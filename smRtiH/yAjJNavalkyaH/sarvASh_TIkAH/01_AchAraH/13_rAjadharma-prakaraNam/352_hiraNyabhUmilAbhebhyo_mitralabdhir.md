@@ -1,6 +1,13 @@
 +++
 title = "352 हिरण्यभूमिलाभेभ्यो मित्रलब्धिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since gaining an ally is superior to gaining gold and land,  
+therefore he should strive for that attainment, and attentively preserve truthfulness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 हिरण्य-भूमि-लाभेभ्यो  

@@ -1,6 +1,13 @@
 +++
 title = "183 प्रव्रज्यावसितो राज्ञो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One who has lapsed from ascetic life becomes the slave of the king until death.  
+Slavery exists in direct order of the social classes, never in reverse order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रव्रज्यावसितो राज्ञो  

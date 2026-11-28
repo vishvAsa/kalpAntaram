@@ -1,6 +1,13 @@
 +++
 title = "354 तद् अवाप्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having obtained that, the king should strike the wicked with punishment;  
+for duty was created in ancient times by Brahmā in the form of punishment.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् अवाप्य नृपो दण्डं  

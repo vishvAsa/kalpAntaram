@@ -2,6 +2,12 @@
 title = "037 अशीतिभागो वृद्धिः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+An eightieth part should be the interest month by month where there is a pledge;  
+otherwise, it is two, three, four, or five percent in order of the social classes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अशीति-भागो वृद्धिः स्यान्  

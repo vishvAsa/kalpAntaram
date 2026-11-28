@@ -1,6 +1,13 @@
 +++
 title = "276 आचार्यत्वं श्रोत्रियश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a learned Brahmin does not attain the preceptor's status, nor a disciple his Vedic study;  
+a merchant does not gain profit, nor a ploughman agriculture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचार्यत्वं श्रोत्रियश् च  

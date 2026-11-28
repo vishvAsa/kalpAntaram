@@ -1,6 +1,13 @@
 +++
 title = "131 शुक्लाम्बरधरो नीच"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wearing white garments, with his hair, beard, and nails trimmed, pure,  
+he should not eat in sight of his wife, nor wearing a single garment, nor standing up.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुक्लाम्बर-धरो नीच-  

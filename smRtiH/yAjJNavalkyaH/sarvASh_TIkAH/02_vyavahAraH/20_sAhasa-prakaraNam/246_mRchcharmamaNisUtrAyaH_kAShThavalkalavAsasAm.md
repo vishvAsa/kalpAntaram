@@ -1,6 +1,13 @@
 +++
 title = "246 मृच्चर्ममणिसूत्रायः काष्ठवल्कलवाससाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In making clay, hide, gems, thread, iron, wood, bark, or cloth  
+appear to be of a species to which they do not belong, the fine is eight times the value of the saleable item.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मृच्-चर्म-मणि-सूत्रायः-  

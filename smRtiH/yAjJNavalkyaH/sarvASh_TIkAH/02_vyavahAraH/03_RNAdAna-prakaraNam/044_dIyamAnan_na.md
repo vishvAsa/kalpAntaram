@@ -1,6 +1,13 @@
 +++
 title = "044 दीयमानन् न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a creditor does not accept his lent money when offered,  
+and it is deposited with an impartial person, it ceases to bear interest from that time on.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीयमानं न गृह्णाति  

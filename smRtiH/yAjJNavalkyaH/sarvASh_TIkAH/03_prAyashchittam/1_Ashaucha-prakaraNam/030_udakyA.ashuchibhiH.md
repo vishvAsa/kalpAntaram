@@ -1,6 +1,13 @@
 +++
 title = "030 उदक्या ऽशुचिभिः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If touched by a menstruating woman or impure persons, one should bathe and sip water for purification;  
+and one should mutter the water hymns and the Gāyatrī once in thought.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदक्या ऽशुचिभिः स्नायात्  

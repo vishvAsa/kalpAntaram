@@ -2,6 +2,12 @@
 title = "019 कनिष्ठादेशिन्य्अङ्गुष्ठ मूलान्य्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The base of the little finger, of the forefinger, and of the thumb, and the tip of the hand:  
+these are, in order, the sacred parts belonging to Prajāpati, the ancestors, Brahmā, and the gods.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कनिष्ठा-देशिन्य्-अङ्गुष्ठ-  

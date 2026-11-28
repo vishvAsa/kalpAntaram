@@ -1,6 +1,13 @@
 +++
 title = "335 पुण्यात् षड्भागम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protecting righteously, he takes a sixth part of the religious merit;  
+for protecting the subjects is greater than all gifts.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुण्यात् षड्-भागम् आदत्ते  

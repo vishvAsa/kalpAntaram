@@ -1,6 +1,13 @@
 +++
 title = "145 ब्रह्मखानिलतेजांसि जलम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Brahman, space, wind, fire, water, and earth are the primary elements;  
+these worlds and this self [arise from them], and from that [comes] all that moves and is still.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्म-खानिल-तेजांसि  

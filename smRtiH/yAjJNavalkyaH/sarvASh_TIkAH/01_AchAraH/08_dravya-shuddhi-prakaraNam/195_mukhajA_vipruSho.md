@@ -1,6 +1,13 @@
 +++
 title = "195 मुखजा विप्रुषो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Drops issuing from the mouth are pure, as are drops from sipping water for purification;  
+and having discarded facial hair that entered the mouth or [food] stuck in the teeth, one is then pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मुखजा विप्रुषो मेध्यास्  

@@ -1,6 +1,13 @@
 +++
 title = "163 कालकर्मात्मबीजानां दोषैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through defects of time, action, the self's seed, and likewise of the mother,  
+deformity of the embryo is observed, such as being born lacking limbs.
+</details>
+
 <details><summary>मूलम्</summary>
 
 काल-कर्मात्म-बीजानां  

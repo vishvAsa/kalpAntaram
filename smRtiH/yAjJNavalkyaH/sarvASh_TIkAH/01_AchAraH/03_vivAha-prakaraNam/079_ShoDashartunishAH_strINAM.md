@@ -1,6 +1,13 @@
 +++
 title = "079 षोडशर्तुनिशाः स्त्रीणां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are sixteen fertile nights for women; during that [time] he should unite on the even [nights];  
+behaving as a chaste student, however, he should avoid the change-of-moon days and the first four [nights].
+</details>
+
 <details><summary>मूलम्</summary>
 
 षोडशर्तु-निशाः स्त्रीणां  

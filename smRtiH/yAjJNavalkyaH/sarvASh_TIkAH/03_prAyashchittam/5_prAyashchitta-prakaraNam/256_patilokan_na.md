@@ -1,6 +1,13 @@
 +++
 title = "256 पतिलोकन् न"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Brahmin woman who drinks liquor does not attain her husband's world;  
+in this very world she is reborn as a female dog, a female vulture, or a sow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पति-लोकं न सा याति  

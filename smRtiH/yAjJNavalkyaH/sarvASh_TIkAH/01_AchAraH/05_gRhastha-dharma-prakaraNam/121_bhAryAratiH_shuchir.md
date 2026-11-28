@@ -1,6 +1,13 @@
 +++
 title = "121 भार्यारतिः शुचिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Devoted to his wife, pure, supporting his dependants, intent on ancestral rites,  
+he should not omit the five sacrifices with the mantra 'Namaḥ'.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भार्या-रतिः शुचिर् भृत्य-  

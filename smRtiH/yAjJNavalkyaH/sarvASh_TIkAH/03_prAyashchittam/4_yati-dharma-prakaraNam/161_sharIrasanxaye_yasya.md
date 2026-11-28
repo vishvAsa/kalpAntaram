@@ -1,6 +1,13 @@
 +++
 title = "161 शरीरसङ्क्षये यस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the dissolution of the body, he whose mind is fixed on purity [and] the Lord,  
+with an unwavering intellect, fully attains the recollection of his former births.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शरीर-सङ्क्षये यस्य  

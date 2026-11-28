@@ -1,6 +1,13 @@
 +++
 title = "021 स्मृत्योर् विरोधे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the case of a conflict between two legal traditions, equity prevails in legal procedure;  
+but the rule is that a treatise on duty is stronger than a treatise on worldly profit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्मृत्योर् विरोधे न्यायस् तु  

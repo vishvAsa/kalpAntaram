@@ -2,6 +2,12 @@
 title = "008 इज्याचारदमाहिंसा दानस्वाध्यायकर्मणाम्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Among sacrifices, conduct, self-restraint, non-violence,  
+gift-giving, and recitation of the Veda, the supreme duty is seeing the Self through yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इज्याचार-दमाहिंसा-  

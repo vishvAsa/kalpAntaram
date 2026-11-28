@@ -1,6 +1,13 @@
 +++
 title = "009 पञ्चधा सम्भृतः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the body, composed of the five elements, has returned to the five elements  
+by means of deeds arising from one's own body, what lamentation can there be?
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्चधा सम्भृतः कायो  

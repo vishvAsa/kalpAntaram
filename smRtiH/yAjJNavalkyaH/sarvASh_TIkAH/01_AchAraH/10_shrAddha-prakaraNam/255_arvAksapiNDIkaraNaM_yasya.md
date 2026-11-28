@@ -1,6 +1,13 @@
 +++
 title = "255 अर्वाक्सपिण्डीकरणं यस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For someone whose rite of union through ancestral cakes occurs before a year has passed,  
+food accompanied by a water-jar should still be given to a Brahmin for a whole year.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अर्वाक्-सपिण्डी-करणं  

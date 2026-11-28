@@ -2,6 +2,12 @@
 title = "055 एतैर् एव"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A bridegroom endowed with these very qualities, of the same social class, learned in the Veda,  
+carefully tested as to his virility, young, intelligent, and popular with the people, [should be chosen].
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतैर् एव गुणैर् युक्तः  

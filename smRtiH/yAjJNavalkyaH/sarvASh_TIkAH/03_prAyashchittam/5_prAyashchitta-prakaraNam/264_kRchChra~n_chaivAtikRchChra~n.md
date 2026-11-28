@@ -1,6 +1,13 @@
 +++
 title = "264 कृच्छ्रञ् चैवातिकृच्छ्रञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or, composed in mind, he should observe a penitential hardship and a severe kṛcchra penance,  
+and having fasted for three nights, he should give cows with a bull as the eleventh.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कृच्छ्रं चैवातिकृच्छ्रं च  

@@ -1,6 +1,13 @@
 +++
 title = "359 यो दण्ड्यान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king who punishes those deserving of punishment and rightly has those deserving of death slain,  
+by him sacrifice is offered with rituals completed with excellent sacrificial fees.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यो दण्ड्यान् दण्डयेद् राजा  

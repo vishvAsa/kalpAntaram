@@ -1,6 +1,13 @@
 +++
 title = "197 रथ्याकर्दमतोयानि स्पृष्टान्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Road mud and water touched by outcastes, dogs, and crows,  
+and structures built of baked bricks, are purified by the wind alone.
+</details>
+
 <details><summary>मूलम्</summary>
 
 रथ्या-कर्दम-तोयानि  

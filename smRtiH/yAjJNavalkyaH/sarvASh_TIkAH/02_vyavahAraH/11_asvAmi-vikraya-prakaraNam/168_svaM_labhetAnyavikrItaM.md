@@ -2,6 +2,12 @@
 title = "168 स्वं लभेतान्यविक्रीतं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A man may recover his own property sold by another; there is fault on the buyer if purchased in secret;  
+from a disreputable person, in secret, at a reduced price, and at an untimely hour, he is a thief.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्वं लभेतान्य-विक्रीतं  

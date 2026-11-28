@@ -1,6 +1,13 @@
 +++
 title = "245 दीर्घतीव्रामयग्रस्तं ब्राह्मणङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or having seen a Brahmin or a cow on the road afflicted by a long and severe disease,  
+and having relieved them of suffering, the killer of a Brahmin becomes pure.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दीर्घ-तीव्रामय-ग्रस्तं  

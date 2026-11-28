@@ -1,6 +1,13 @@
 +++
 title = "050 अनेन विधिना"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mortifying his body by this rule, with his senses conquered,  
+he attains the world of Brahmā and is not born here again.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनेन विधिना देहं  

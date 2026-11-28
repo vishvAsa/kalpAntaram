@@ -1,6 +1,13 @@
 +++
 title = "301 त्रिरात्रोपोषितो जप्त्वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having fasted for three nights and muttered the Aghamarṣaṇa hymn  
+under water, the slayer of a Brahmin becomes purified, and by giving a milch cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रि-रात्रोपोषितो जप्त्वा  

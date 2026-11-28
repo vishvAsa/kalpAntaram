@@ -2,6 +2,12 @@
 title = "280 अवकीर्णी भवेद्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+A chaste student who has sex with a woman becomes one who has broken his vow of celibacy;  
+having sacrificed a donkey as a victim to Nirṛti, he is purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवकीर्णी भवेद् गत्वा  

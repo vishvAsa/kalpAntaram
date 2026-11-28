@@ -1,6 +1,13 @@
 +++
 title = "253 गन्धोदकतिलैर् युक्तं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should prepare four vessels supplied with scented water and sesame seeds  
+for the guest-water; into the ancestors' vessels he should pour the vessel of the deceased,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्धोदक-तिलैर् युक्तं  

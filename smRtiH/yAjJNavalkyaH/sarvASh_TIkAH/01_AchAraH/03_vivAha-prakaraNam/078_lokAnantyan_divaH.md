@@ -1,6 +1,13 @@
 +++
 title = "078 लोकानन्त्यन् दिवः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since eternity of the worlds and the attainment of heaven [come] through sons, grandsons, and great-grandsons,  
+women must therefore be served and well protected.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोकानन्त्यं दिवः प्राप्तिः  

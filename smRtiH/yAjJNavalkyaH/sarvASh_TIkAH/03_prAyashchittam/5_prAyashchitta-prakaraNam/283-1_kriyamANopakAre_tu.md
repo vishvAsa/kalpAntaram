@@ -1,6 +1,13 @@
 +++
 title = "283-१ क्रियमाणोपकारे तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When a Brahmin dies while a beneficial service is being performed [for him], there is no sin;  
+nor in the case of cows and bulls during concoction [of medicines], treatment with medicine, and the application of branding.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्रियमाणोपकारे तु  

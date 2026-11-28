@@ -1,6 +1,13 @@
 +++
 title = "315 पृथक्सान्तपनद्रव्यैः षड्अहः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[Subsisting] on the individual substances of the Sāntapana for six days, accompanied by a fast [on the seventh],  
+this kṛcchra of seven days is recorded as the Mahāsāntapana.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पृथक्-सान्तपन-द्रव्यैः  

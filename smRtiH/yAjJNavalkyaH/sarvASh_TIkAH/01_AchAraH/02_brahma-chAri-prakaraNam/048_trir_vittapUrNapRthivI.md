@@ -1,6 +1,13 @@
 +++
 title = "048 त्रिर् वित्तपूर्णपृथिवी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A twice-born man who constantly recites the Veda obtains here the fruit of gifting the earth filled with wealth three times,  
+and of the supreme asceticism.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिर् वित्त-पूर्ण-पृथिवी-  

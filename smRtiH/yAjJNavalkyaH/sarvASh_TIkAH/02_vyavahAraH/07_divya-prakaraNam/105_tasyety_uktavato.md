@@ -1,6 +1,13 @@
 +++
 title = "105 तस्येत्य् उक्तवतो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When he has said this, [the judge] should place an iron ball, smooth, weighing fifty palas,  
+glowing like fire, in both his hands.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्येत्य् उक्तवतो लौहं  

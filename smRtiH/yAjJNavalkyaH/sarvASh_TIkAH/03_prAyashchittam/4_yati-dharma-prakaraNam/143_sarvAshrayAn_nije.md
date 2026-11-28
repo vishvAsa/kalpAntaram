@@ -1,6 +1,13 @@
 +++
 title = "143 सर्वाश्रयान् निजे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The embodied soul experiences sensation residing in its own body;  
+and a yogi is liberated who experiences no sensations of any kind.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वाश्रयां निजे देहे  

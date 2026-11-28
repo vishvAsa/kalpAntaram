@@ -1,6 +1,13 @@
 +++
 title = "239 सव्याहृतिकाङ् गायत्रीं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having chanted the Gāyatrī with its sacred utterances and the three verses beginning with 'madhu vātāḥ',  
+he should say: 'Eat at your ease'; and they, too, restrained in speech, should eat.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-व्याहृतिकां गायत्रीं  

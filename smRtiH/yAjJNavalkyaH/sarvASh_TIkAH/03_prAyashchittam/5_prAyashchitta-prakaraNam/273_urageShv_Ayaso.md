@@ -1,6 +1,13 @@
 +++
 title = "273 उरगेष्व् आयसो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For serpents, an iron staff; for a eunuch, tin and lead;  
+for a boar, a pot of ghee is to be given; for a camel, a guñjā [weight of gold]; for a horse, a cloth;
+</details>
+
 <details><summary>मूलम्</summary>
 
 उरगेष्व् आयसो दण्डः  

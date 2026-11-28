@@ -2,6 +2,12 @@
 title = "290 अवरुद्धासु दासीसु"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+With kept female slaves and maidservants,  
+even if sexually approachable, a man shall be made to pay a fine of fifty paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवरुद्धासु दासीसु  

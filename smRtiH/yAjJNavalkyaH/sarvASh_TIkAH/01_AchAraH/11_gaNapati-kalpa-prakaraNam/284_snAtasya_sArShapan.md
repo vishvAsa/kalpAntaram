@@ -1,6 +1,13 @@
 +++
 title = "284 स्नातस्य सार्षपन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him who has bathed, holding kuśa grass with the left [hand],  
+one should offer mustard oil upon his head with an udumbara ladle,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नातस्य सार्षपं तैलं  

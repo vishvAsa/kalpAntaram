@@ -1,6 +1,13 @@
 +++
 title = "351 यथा ह्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For just as there can be no movement of a chariot with one wheel,  
+so without human effort, fate does not succeed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ह्य् एकेन चक्रेण  

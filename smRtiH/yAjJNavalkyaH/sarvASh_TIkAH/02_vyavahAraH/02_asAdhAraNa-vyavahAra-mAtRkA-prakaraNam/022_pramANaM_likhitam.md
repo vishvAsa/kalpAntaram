@@ -1,6 +1,13 @@
 +++
 title = "022 प्रमाणं लिखितम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Proof is declared to be written evidence, possession, and witnesses;  
+in the absence of any of these, one of the ordeals is prescribed.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रमाणं लिखितं भुक्तिः  

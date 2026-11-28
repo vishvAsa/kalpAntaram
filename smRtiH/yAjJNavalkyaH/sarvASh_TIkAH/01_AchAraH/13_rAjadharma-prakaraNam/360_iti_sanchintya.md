@@ -1,6 +1,13 @@
 +++
 title = "360 इति सञ्चिन्त्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Reflecting thus that the individual fruit is equal to a sacrifice,  
+the king should inspect legal disputes himself daily, surrounded by council members.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इति सञ्चिन्त्य नृपतिः  

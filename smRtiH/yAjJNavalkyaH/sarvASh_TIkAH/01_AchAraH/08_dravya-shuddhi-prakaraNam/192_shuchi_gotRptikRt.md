@@ -1,6 +1,13 @@
 +++
 title = "192 शुचि गोतृप्तिकृत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pure is water that satisfies a cow, is in its natural state, and is on the ground;  
+likewise, meat felled by dogs, Cāṇḍālas, carnivorous beasts, and the like.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शुचि गो-तृप्ति-कृत् तोयं  

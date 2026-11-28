@@ -1,6 +1,13 @@
 +++
 title = "312 ब्रह्मचर्यन् दया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Celibate studenthood, compassion, patience, generosity, truthfulness, integrity,  
+non-violence, non-stealing, gentleness, and self-restraint are recorded as the restraints.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्रह्मचर्यं दया क्षान्तिर्  

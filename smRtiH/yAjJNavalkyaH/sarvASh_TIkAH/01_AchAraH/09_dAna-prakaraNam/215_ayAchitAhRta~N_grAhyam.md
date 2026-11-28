@@ -1,6 +1,13 @@
 +++
 title = "215 अयाचिताहृतङ् ग्राह्यम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is brought unasked should be accepted, even from an evildoer,  
+except from an unchaste woman, a eunuch, outcastes, and an enemy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अयाचिताहृतं ग्राह्यम्  

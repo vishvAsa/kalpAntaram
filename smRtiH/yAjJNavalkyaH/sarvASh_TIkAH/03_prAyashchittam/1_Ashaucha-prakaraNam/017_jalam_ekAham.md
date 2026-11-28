@@ -1,6 +1,13 @@
 +++
 title = "017 जलम् एकाहम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Water and milk in an earthen pot should be placed in the open air for one day.  
+The Vedic and domestic rites must be performed, as enjoined by revealed scripture.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जलम् एकाहम् आकाशे  

@@ -1,6 +1,13 @@
 +++
 title = "077 स्त्रीभिर् भर्तृवचः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The husband's word should be carried out by women; this is the highest duty of a woman;  
+indeed, even one tainted by a major sin should be waited upon until his purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्त्रीभिर् भर्तृ-वचः कार्यम्  

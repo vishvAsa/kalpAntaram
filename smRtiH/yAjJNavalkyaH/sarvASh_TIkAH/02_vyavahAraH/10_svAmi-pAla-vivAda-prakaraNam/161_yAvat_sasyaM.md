@@ -1,6 +1,13 @@
 +++
 title = "161 यावत् सस्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As much crop as is destroyed, that much shall be the profit for the owner of the field;  
+and the herdsman is to be beaten, but the cattle-owner deserves the fine mentioned before.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यावत् सस्यं विनश्येत् तु  

@@ -1,6 +1,13 @@
 +++
 title = "287 अनियुक्तो भ्रातृजायां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Going to a brother's wife without being commissioned, he should perform a lunar penance;  
+having had intercourse with a menstruating woman, he is purified after three nights by consuming ghee.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनियुक्तो भ्रातृ-जायां  

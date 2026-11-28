@@ -1,6 +1,13 @@
 +++
 title = "163 अवीरास्त्रीस्वर्णकार स्त्रीजितग्रामयाजिनाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a woman without a protector, a goldsmith, a henpecked man, a village priest,  
+a dealer in weapons, a blacksmith, a weaver, one who lives by dogs;
+</details>
+
 <details><summary>मूलम्</summary>
 
 अवीरा-स्त्री-स्वर्ण-कार-  

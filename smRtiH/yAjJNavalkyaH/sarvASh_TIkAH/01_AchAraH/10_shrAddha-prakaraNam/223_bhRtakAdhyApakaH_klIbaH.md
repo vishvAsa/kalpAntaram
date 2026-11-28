@@ -1,6 +1,13 @@
 +++
 title = "223 भृतकाध्यापकः क्लीबः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+a paid teacher, a eunuch, a defiler of maidens, one accused of a crime,  
+a betrayer of friends, a slanderer, a seller of soma, a younger brother married before the elder,
+</details>
+
 <details><summary>मूलम्</summary>
 
 भृतकाध्यापकः क्लीबः  

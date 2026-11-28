@@ -1,6 +1,13 @@
 +++
 title = "275 तेनोपसृष्टो लभते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Possessed by him, a prince does not gain the kingdom,  
+a maiden does not obtain a husband, nor a woman offspring or conception;
+</details>
+
 <details><summary>मूलम्</summary>
 
 तेनोपसृष्टो लभते  

@@ -1,6 +1,13 @@
 +++
 title = "309-१ ग्रहाणाम् इदम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should offer this hospitality to the planets even once a year;  
+endowed with health and strength, he would live for a hundred autumns.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रहाणाम् इदम् आतिथ्यं  

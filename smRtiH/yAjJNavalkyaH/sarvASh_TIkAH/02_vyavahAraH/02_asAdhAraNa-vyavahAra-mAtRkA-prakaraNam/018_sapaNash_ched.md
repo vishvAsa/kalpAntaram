@@ -1,6 +1,13 @@
 +++
 title = "018 सपणश् चेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If the legal dispute involves a wager, the loser must be made to pay  
+the fine, his own wager, and the debt itself to the creditor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सपणश् चेद् विवादः स्यात्  

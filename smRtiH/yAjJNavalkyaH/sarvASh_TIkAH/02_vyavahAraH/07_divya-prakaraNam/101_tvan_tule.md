@@ -1,6 +1,13 @@
 +++
 title = "101 त्वन् तुले"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“You, O balance, are the abode of truth, fashioned of old by the gods;  
+therefore speak the truth, auspicious one, and deliver me from doubt!
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्वं तुले सत्य-धामा ऽसि  

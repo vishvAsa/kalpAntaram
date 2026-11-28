@@ -1,6 +1,13 @@
 +++
 title = "126 सहस्रात्मा मया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From the mouth, arms, thighs, and feet of that thousand-formed primordial god  
+whom I have described to you, the social classes are born in order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्रात्मा मया यो व[वा?]  

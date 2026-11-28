@@ -1,6 +1,13 @@
 +++
 title = "225 निमन्त्रयेत पूर्वेद्युर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self-restrained and pure [host] should invite Brahmins on the previous day;  
+and they too must be restrained in the actions of mind, speech, and body.
+</details>
+
 <details><summary>मूलम्</summary>
 
 निमन्त्रयेत पूर्वे-द्युर्  

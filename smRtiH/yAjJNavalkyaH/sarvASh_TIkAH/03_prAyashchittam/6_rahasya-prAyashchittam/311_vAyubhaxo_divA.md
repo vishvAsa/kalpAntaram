@@ -1,6 +1,13 @@
 +++
 title = "311 वायुभक्षो दिवा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Subsisting on air, standing by day, spending the night in water, gazing at the sun,  
+having muttered a thousand Gāyatrīs, one is purified, except from the slaying of a Brahmin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वायु-भक्षो दिवा तिष्ठन्  

@@ -1,6 +1,13 @@
 +++
 title = "082 पुनर् धात्रीम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Its vitality runs repeatedly to the mother and repeatedly to the foetus;  
+hence, if born in the eighth month, the child is deprived of life.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुनर् धात्रीं पुनर् घर्मम्  

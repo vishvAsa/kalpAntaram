@@ -1,6 +1,13 @@
 +++
 title = "014 प्रवेशनादिकङ् कर्म"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite of entering and so forth is also for those who touched the corpse;  
+for others desiring immediate purification, it is through bathing and self-restraint.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रवेशनादिकं कर्म  

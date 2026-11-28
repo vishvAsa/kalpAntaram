@@ -1,6 +1,13 @@
 +++
 title = "284 मिथ्याभिशंसिनो दोषो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The fault of a false accuser is twice that of one who speaks the truth;  
+and uttering a lie, he takes on the fault of the falsely accused person.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मिथ्याभिशंसिनो दोषो  

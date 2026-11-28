@@ -1,6 +1,13 @@
 +++
 title = "242 भिषङ् मिथ्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A physician acting deceitfully is to be fined the lowest fine in the case of animals,  
+the middling fine in the case of a human, and the highest fine in the case of royal officers.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भिषङ् मिथ्य +आचरन् दण्ड्यस्  

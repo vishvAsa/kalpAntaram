@@ -1,6 +1,13 @@
 +++
 title = "223 अभिघाते तथा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For striking, cutting, breaking, or knocking down a wall,  
+he should be made to pay five, ten, and twenty paṇas, as well as the repair expenses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभिघाते तथा छेदे  

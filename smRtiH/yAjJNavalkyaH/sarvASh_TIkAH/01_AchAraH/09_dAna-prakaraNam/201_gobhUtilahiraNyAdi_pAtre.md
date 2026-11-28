@@ -1,6 +1,13 @@
 +++
 title = "201 गोभूतिलहिरण्यादि पात्रे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Cows, land, sesame seeds, gold, and the like should be given to a worthy recipient after honouring [him];  
+nothing should be given to an unworthy recipient by a wise person desiring his own welfare.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-भू-तिल-हिरण्यादि  

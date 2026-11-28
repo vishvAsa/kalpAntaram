@@ -2,6 +2,12 @@
 title = "117 विभजेरन् सुताः"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+After the parents' death, the sons should divide the heritage and the debt equally;  
+after [paying] the debt, daughters take the remainder of the mother's [estate], and failing them, the male lineage.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभजेरन् सुताः पित्रोर्  

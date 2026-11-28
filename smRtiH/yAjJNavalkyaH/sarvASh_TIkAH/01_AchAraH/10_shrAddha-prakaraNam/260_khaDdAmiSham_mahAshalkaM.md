@@ -1,6 +1,13 @@
 +++
 title = "260 खड्दामिषम् महाशल्कं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rhinoceros meat, large-scaled fish, honey, hermit's food,  
+red-goat meat, the mahāśāka herb, or the meat of the old white-winged goat,
+</details>
+
 <details><summary>मूलम्</summary>
 
 खड्दामिषं महा-शल्कं  

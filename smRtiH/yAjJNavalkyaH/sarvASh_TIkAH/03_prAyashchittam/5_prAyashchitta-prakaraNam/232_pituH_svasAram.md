@@ -1,6 +1,13 @@
 +++
 title = "232 पितुः स्वसारम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching the father's sister, the mother's sister, the maternal uncle's wife, the daughter-in-law,  
+the father's co-wife, a sister, the teacher's daughter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितुः स्वसारं मातुश् च  

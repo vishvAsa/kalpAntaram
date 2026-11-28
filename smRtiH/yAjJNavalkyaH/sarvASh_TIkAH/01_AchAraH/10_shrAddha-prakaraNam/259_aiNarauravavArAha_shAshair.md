@@ -1,6 +1,13 @@
 +++
 title = "259 ऐणरौरववाराह शाशैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+blackbuck, Ruru deer, wild boar, and hare in regular order,  
+with an increase of a month each time, the grandfathers are fully satisfied here by what is given.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऐण-रौरव-वाराह-  

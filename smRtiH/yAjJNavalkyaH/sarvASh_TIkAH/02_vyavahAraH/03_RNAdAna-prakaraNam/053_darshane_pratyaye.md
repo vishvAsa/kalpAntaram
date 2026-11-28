@@ -1,6 +1,13 @@
 +++
 title = "053 दर्शने प्रत्यये"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Suretyship is prescribed for appearance, for assurance, and for payment.  
+In the case of falsehood, the first two must be made to pay; of the other, even the sons [must pay].
+</details>
+
 <details><summary>मूलम्</summary>
 
 दर्शने प्रत्यये दाने  

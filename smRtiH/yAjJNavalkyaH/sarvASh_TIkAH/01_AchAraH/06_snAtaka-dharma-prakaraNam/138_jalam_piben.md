@@ -1,6 +1,13 @@
 +++
 title = "138 जलम् पिबेन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not drink water with cupped hands; he should not wake a sleeping person;  
+he should not play with dice, nor associate with violators of duty or the diseased.
+</details>
+
 <details><summary>मूलम्</summary>
 
 जलं पिबेन् नाञ्जलिना  

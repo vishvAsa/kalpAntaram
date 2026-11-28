@@ -1,6 +1,13 @@
 +++
 title = "318 दत्त्वा भूमिन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given land or established an endowment, the king should have a written document made,  
+for the information of future auspicious kings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा भूमिं निबन्धं वा  

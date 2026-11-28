@@ -1,6 +1,13 @@
 +++
 title = "163 महोक्षोत्सृष्टपशवः सूतिकागन्तुकादयः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Large bulls, consecrated animals, cows recently delivered, stray cattle, and the like,  
+which have no keeper, are to be released, as also those overtaken by acts of God or the king.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महोक्षोत्सृष्ट-पशवः  

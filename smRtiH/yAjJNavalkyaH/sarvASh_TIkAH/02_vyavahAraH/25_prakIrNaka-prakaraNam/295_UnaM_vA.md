@@ -1,6 +1,13 @@
 +++
 title = "295 ऊनं वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever writes less or more in a royal edict,  
+or releases an adulterer or a thief, faces the highest fine.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊनं वा ऽभ्यधिकं वा ऽपि  

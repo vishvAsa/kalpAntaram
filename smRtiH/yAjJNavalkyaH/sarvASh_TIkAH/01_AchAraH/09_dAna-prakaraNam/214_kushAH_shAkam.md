@@ -1,6 +1,13 @@
 +++
 title = "214 कुशाः शाकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kuśa grass, vegetables, milk, fish, perfumes, flowers, curd, land,  
+meat, a bed, a seat, roasted grains, and water must not be refused.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुशाः शाकं पयो मत्स्या  

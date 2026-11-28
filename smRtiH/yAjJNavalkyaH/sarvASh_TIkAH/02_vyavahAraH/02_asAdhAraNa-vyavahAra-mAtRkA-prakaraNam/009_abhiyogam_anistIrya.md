@@ -1,6 +1,13 @@
 +++
 title = "009 अभियोगम् अनिस्तीर्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Without refuting the accusation, one should not bring a counter-accusation against him,  
+nor may one alter what has already been stated by an accused person or by another.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अभियोगम् अनिस्तीर्य  

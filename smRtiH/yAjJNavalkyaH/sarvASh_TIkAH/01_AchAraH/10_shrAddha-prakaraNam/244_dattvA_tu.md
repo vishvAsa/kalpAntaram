@@ -2,6 +2,12 @@
 title = "244 दत्त्वा तु"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having given a sacrificial fee according to his means, he should utter the word svadhā;  
+permitted with the words 'Let it be pronounced!', he should say: 'May svadhā be spoken for those on whose behalf the rite is performed!'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा तु दक्षिणां शक्त्या  

@@ -1,6 +1,13 @@
 +++
 title = "225 महापातकजैर् घोरैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Attended by terrible [sins] born of major sins, and likewise born of minor sins,  
+the lowest of men who have not performed penance go [to these hells].
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पातकजैर् घोरैर्  

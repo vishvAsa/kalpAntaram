@@ -1,6 +1,13 @@
 +++
 title = "178 अव्यक्तम् आत्मा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the unmanifest, and the self are declared as the knower of the field of this field—  
+the Lord dwelling in all beings, who is existence, non-existence, and both existence and non-existence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव्यक्तम् आत्मा क्षेत्रज्ञः  

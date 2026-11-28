@@ -1,6 +1,13 @@
 +++
 title = "262 चान्द्रायणञ् चरेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should perform a lunar penance having slain any inferior person;  
+even a Shudra devoid of religious competence is purified by this duration of time.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चान्द्रायणं चरेत् सर्वान्  

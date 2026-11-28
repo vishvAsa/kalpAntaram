@@ -1,6 +1,13 @@
 +++
 title = "251 राजनि स्थाप्यते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The price that is fixed daily by the king is that by which sale  
+or purchase [takes place]; the surplus derived from that is traditionally regarded as the merchants' profit.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजनि स्थाप्यते यो ऽर्घः  

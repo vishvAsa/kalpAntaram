@@ -1,6 +1,13 @@
 +++
 title = "076 आज्ञासम्पादिनीन् दक्षां"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who abandons a wife who obeys commands, is skilful, bears brave sons, and speaks sweetly,  
+must be compelled to give her a third of his wealth, or maintenance if he has no wealth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आज्ञा-सम्पादिनीं दक्षां  

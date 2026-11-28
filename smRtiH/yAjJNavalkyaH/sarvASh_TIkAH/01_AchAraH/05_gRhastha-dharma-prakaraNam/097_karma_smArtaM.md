@@ -1,6 +1,13 @@
 +++
 title = "097 कर्म स्मार्तं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A householder should perform the traditional rite daily in the domestic fire of marriage,  
+or in that brought at the time of inheritance; and the revealed rite in the sacred fires.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कर्म स्मार्तं विवाहाग्नौ  

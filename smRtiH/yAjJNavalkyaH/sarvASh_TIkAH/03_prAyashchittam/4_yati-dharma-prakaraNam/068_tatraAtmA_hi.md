@@ -1,6 +1,13 @@
 +++
 title = "068 तत्र+आत्मा हि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There the self performs actions: some on its own, some from inherent nature,  
+and some from habitual practice, consisting of both duty and non-duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र+आत्मा हि स्वयं किञ्चित्  

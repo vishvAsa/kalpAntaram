@@ -1,6 +1,13 @@
 +++
 title = "022 क्षत्रस्य द्वादशाहानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Twelve days are prescribed for a Kshatriya, and fifteen for a Vaishya,  
+thirty days for a Shudra, and half of that for one who follows righteous conduct.
+</details>
+
 <details><summary>मूलम्</summary>
 
 क्षत्रस्य द्वादशाहानि  

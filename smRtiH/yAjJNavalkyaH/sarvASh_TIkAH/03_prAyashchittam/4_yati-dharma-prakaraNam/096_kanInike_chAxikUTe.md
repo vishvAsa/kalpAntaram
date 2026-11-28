@@ -1,6 +1,13 @@
 +++
 title = "096 कनीनिके चाक्षिकूटे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The pupils, eye sockets, ear cavities, auricles,  
+ears, temples, eyebrows, gums, lips, buttocks,
+</details>
+
 <details><summary>मूलम्</summary>
 
 कनीनिके चाक्षि-कूटे  

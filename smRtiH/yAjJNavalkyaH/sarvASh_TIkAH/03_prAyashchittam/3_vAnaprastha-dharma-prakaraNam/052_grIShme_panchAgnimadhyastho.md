@@ -1,6 +1,13 @@
 +++
 title = "052 ग्रीष्मे पञ्चाग्निमध्यस्थो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In summer standing in the midst of five fires, in the rainy season lying on the bare ground,  
+and in winter wearing wet clothes, or he may perform austerity according to his ability.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ग्रीष्मे पञ्चाग्नि-मध्यस्थो  

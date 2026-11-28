@@ -1,6 +1,13 @@
 +++
 title = "340 अन्यायेन नृपो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The king who unlawfully increases his own treasury from the realm,  
+he soon loses his prosperity and meets with destruction together with his kinsmen.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्यायेन नृपो राष्ट्रात्  

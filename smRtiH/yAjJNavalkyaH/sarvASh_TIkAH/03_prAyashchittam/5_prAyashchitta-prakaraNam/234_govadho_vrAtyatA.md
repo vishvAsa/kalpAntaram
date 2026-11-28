@@ -2,6 +2,12 @@
 title = "234 गोवधो व्रात्यता"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Killing a cow, outcaste status, theft, non-payment of debts,  
+not maintaining the sacred fires, sale of forbidden commodities, lamentation,
+</details>
+
 <details><summary>मूलम्</summary>
 
 गो-वधो व्रात्यता स्तेयम्  

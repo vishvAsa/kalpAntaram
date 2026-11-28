@@ -2,6 +2,12 @@
 title = "005 सकृत् प्रसिञ्चन्त्य्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Remaining silent, they pour out water once, uttering the name and clan.  
+Chaste students and outcasts must not perform the water offering.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सकृत् प्रसिञ्चन्त्य् उदकं  

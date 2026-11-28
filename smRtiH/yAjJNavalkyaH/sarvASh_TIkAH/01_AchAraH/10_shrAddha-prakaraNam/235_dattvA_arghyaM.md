@@ -1,6 +1,13 @@
 +++
 title = "235 दत्त्वा अर्घ्यं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having offered the guest-water and placed their washings into a vessel according to rule,  
+he turns the vessel upside down below, saying: 'You are a dwelling place for the ancestors.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 दत्त्वा अर्घ्यं संस्रवांस् तेषां  

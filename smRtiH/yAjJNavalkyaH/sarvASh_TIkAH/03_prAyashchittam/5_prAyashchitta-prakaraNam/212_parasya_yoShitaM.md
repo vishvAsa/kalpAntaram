@@ -2,6 +2,12 @@
 title = "212 परस्य योषितं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having seized another's wife, and having stolen a Brahmin's property,  
+one becomes a Brahmarākṣasa in a waterless wilderness.
+</details>
+
 <details><summary>मूलम्</summary>
 
 परस्य योषितं हृत्वा  

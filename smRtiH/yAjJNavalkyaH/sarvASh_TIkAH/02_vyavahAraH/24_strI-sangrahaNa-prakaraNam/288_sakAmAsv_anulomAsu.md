@@ -1,6 +1,13 @@
 +++
 title = "288 सकामास्व् अनुलोमासु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With willing women in direct order of classes there is no fault, but otherwise there is a fine;  
+but for violating [an unwilling maiden], amputation of the hand; and with a woman of a higher class, death.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स-कामास्व् अनुलोमासु न  

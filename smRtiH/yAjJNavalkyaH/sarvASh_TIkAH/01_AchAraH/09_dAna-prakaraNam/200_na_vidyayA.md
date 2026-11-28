@@ -1,6 +1,13 @@
 +++
 title = "200 न विद्यया"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fitness [to receive gifts] does not come through learning alone, nor even through austerity;  
+where there is both of these alongside conduct, that indeed is proclaimed a fit recipient.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न विद्यया केवलया  

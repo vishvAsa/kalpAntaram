@@ -2,6 +2,12 @@
 title = "060 आधेः स्वीकरणात्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The validity of a pledge arises from its taking possession. If, even though protected,  
+it becomes useless, another must be pledged, or the creditor must receive his money.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आधेः स्वीकरणात् सिद्धी  

@@ -1,6 +1,13 @@
 +++
 title = "091 विप्रान् मूर्धावसिक्तो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From a Brahmin [is born] a Mūrdhāvasikta on a Kshatriya woman; on a woman of the Vaishya [class],  
+an Ambaṣṭha; on a Shudra woman, a Niṣāda or Pāraśava is born.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्रान् मूर्धावसिक्तो हि  

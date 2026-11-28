@@ -1,6 +1,13 @@
 +++
 title = "039 वैश्यवृत्त्या ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+even when living by the occupation of a Vaishya, he must never sell these.  
+For religious purposes, sesame may be bartered for equal grain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैश्य-वृत्त्या ऽपि जीवन् नो  

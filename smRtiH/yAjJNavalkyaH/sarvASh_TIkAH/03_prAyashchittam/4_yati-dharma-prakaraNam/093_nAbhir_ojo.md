@@ -1,6 +1,13 @@
 +++
 title = "093 नाभिर् ओजो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The navel, vitality, rectum, semen, blood, both temples,  
+the head, shoulders, throat, and heart are the seats of the vital breath.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नाभिर् ओजो गुदं शुक्रं  

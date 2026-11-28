@@ -1,6 +1,13 @@
 +++
 title = "129 न स्वाध्यायविरोध्य्अर्थम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should not pursue wealth that conflicts with the recitation of the Veda, nor from any source whatsoever,  
+nor through illicit attachment; and he should always be content.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न स्वाध्याय-विरोध्य्-अर्थम्  

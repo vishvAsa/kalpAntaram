@@ -1,6 +1,13 @@
 +++
 title = "231 यः साहसङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who instigates a heinous offence should be made to pay double the fine;  
+and he who instigates it by saying, 'I will pay,' should pay fourfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः साहसं कारयति  

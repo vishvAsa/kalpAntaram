@@ -1,6 +1,13 @@
 +++
 title = "244 ब्राह्मणस्य परित्राणाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or through the rescue of a Brahmin and of twelve cows,  
+or through the concluding ablution bath of a horse sacrifice, he would attain purification.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ब्राह्मणस्य परित्राणाद्  

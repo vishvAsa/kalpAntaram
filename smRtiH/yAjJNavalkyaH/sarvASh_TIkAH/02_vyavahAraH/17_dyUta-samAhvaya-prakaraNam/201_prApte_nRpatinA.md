@@ -1,6 +1,13 @@
 +++
 title = "201 प्राप्ते नृपतिना"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the share has been received by the king, in a recognized circle of gamblers,  
+he should cause what was won to be paid in a place overseen by the keeper, but not otherwise.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्राप्ते नृपतिना भागे  

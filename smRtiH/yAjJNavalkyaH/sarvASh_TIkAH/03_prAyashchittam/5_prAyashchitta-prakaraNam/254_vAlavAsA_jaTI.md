@@ -1,6 +1,13 @@
 +++
 title = "254 वालवासा जटी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or clad in horsehair garments, or wearing matted hair, he should perform the vow for slaying a Brahmin,  
+or he should eat oil-cake or broken grains at night for three years.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाल-वासा जटी वा ऽपि  

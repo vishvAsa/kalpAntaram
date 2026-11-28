@@ -1,6 +1,13 @@
 +++
 title = "110 ज्ञेयञ् च+आरण्यकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should know the Āraṇyaka which I obtained from the sun,  
+and the treatise on yoga spoken by me should be known by one seeking yoga.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ज्ञेयं च+आरण्यकम् अहं  

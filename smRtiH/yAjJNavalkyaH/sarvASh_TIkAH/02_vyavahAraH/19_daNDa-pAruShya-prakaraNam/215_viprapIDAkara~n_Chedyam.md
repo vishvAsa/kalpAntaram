@@ -1,6 +1,13 @@
 +++
 title = "215 विप्रपीडाकरञ् छेद्यम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The limb of a non-Brahmin that inflicts pain on a Brahmin is to be cut off;  
+if it is raised [in menace], the first fine [applies], but half that for mere contact.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विप्र-पीडा-करं छेद्यम्  

@@ -2,6 +2,12 @@
 title = "259 तप्ते ऽयःशयने"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should sleep on a heated iron bed together with an iron woman,  
+[or] seizing and cutting off his testicles, he should cast off his body towards the southwest.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तप्ते ऽयः-शयने सार्धम्  

@@ -1,6 +1,13 @@
 +++
 title = "132 उत्सृष्टो गृह्यते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who is abandoned and taken is the cast-off son.  
+Of these, each subsequent one offers the funeral cake and takes the share in the absence of the preceding.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्सृष्टो गृह्यते यस् तु  

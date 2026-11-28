@@ -1,6 +1,13 @@
 +++
 title = "167 ऊर्ध्वम् एकः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One of them extends upwards; piercing the orb of the sun  
+and passing beyond the realm of Brahmā, one attains through it the supreme goal.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऊर्ध्वम् एकः स्थितस् तेषां  

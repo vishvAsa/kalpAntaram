@@ -1,6 +1,13 @@
 +++
 title = "217 पादकेशांशुककरोल् लुञ्चनेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For pulling a foot, hair, garment, or hand, [the fine is] ten paṇas;  
+for squeezing, dragging, wrapping in a garment, or resting a foot upon [someone], the fine is one hundred.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पाद-केशांशुक-करोल्-  

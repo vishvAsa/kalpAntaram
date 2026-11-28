@@ -1,6 +1,13 @@
 +++
 title = "365 शतमानन् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A śatamāna, however, is ten dharaṇas, and a pala as well;  
+four suvarṇas are a niṣka; a copper kārṣika is a paṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शत-मानं तु दशभिर्  

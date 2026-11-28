@@ -1,6 +1,13 @@
 +++
 title = "238 वसानस्त्रीन् पणान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A washerman wearing another's garment is to be fined three paṇas;  
+but in the case of sale, hiring out, mortgaging, or borrowing, ten paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वसानस्-त्रीन् पणान् दण्ड्यो  

@@ -1,6 +1,13 @@
 +++
 title = "073 इन्द्रियाणि मनः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The senses, mind, vital breath, knowledge, lifespan, pleasure, steadfastness,  
+retention, impulse, pain, desire, and egoism,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इन्द्रियाणि मनः प्राणो  

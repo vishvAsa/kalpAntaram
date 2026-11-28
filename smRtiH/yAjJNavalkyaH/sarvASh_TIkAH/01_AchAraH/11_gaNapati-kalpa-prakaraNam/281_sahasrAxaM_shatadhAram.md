@@ -1,6 +1,13 @@
 +++
 title = "281 सहस्राक्षं शतधारम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘[The water] thousand-eyed, hundred-streamed, made purifying by the sages—  
+with that I sprinkle you; may the purifying verses purify you!’
+</details>
+
 <details><summary>मूलम्</summary>
 
 सहस्राक्षं शत-धारम्  

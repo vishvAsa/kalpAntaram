@@ -1,6 +1,13 @@
 +++
 title = "228 चैत्यश्मशानसीमासु पुण्यस्थाने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For trees grown at sacred shrines, cremation grounds, boundaries, holy places, or temples,  
+and for a renowned tree, the fine is double.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चैत्य-श्मशान-सीमासु  

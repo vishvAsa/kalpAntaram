@@ -2,6 +2,12 @@
 title = "022 स्नानम् अब्दैवतैर्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing with verses dedicated to the waters, sprinkling, breath control,  
+paying homage to the sun, and the daily chanting of the Gāyatrī [are required].
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नानम् अब्-दैवतैर् मन्त्रैर्  

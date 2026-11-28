@@ -1,6 +1,13 @@
 +++
 title = "098 शरीरचिन्तान् निर्वर्त्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having attended to the needs of the body, having performed the procedure of purification,  
+a twice-born should attend to the morning twilight devotion preceded by the cleaning of teeth.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शरीर-चिन्तां निर्वर्त्य  

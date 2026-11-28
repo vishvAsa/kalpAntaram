@@ -1,6 +1,13 @@
 +++
 title = "343 यस्मिन् देशे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever is the custom, legal practice, and family rule in a country,  
+that very [rule] must be preserved when it is brought under control.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्मिन् देशे य आचारो  

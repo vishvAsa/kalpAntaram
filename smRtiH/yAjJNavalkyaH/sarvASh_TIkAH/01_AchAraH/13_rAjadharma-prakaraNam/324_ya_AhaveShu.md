@@ -1,6 +1,13 @@
 +++
 title = "324 य आहवेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who are slain in battle for the sake of land, not turning their backs,  
+go to heaven by means of uncrooked weapons, just like yogins.
+</details>
+
 <details><summary>मूलम्</summary>
 
 य आहवेषु वध्यन्ते  

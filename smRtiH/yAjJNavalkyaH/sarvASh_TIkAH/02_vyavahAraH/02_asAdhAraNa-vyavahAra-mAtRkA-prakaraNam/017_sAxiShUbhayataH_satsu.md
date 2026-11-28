@@ -1,6 +1,13 @@
 +++
 title = "017 साक्षिषूभयतः सत्सु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When there are witnesses on both sides, the witnesses of the claimant [are to be heard];  
+if the prima facie case is refuted, those of the respondent are heard.
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिषूभयतः सत्सु  

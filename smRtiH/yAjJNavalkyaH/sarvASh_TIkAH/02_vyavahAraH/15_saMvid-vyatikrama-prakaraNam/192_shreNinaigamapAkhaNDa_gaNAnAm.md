@@ -1,6 +1,13 @@
 +++
 title = "192 श्रेणिनैगमपाखण्ड गणानाम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This same rule applies to guilds, merchant bodies, sectarian groups, and corporate leagues;  
+and the king should preserve their distinct traditions and uphold their former modes of livelihood.
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रेणि-नैगम-पाखण्ड-  

@@ -1,6 +1,13 @@
 +++
 title = "240 अन्नम् इष्तं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Free from anger and without haste, he should serve food that is agreeable and fit for oblations,  
+chanting purifying texts until they are satisfied, as well as the previous chants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्नम् इष्तं हविष्यं च  

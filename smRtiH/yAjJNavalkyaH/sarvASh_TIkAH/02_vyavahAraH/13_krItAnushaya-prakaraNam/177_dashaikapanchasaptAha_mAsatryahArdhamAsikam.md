@@ -1,6 +1,13 @@
 +++
 title = "177 दशैकपञ्चसप्ताह मासत्र्य्अहार्धमासिकम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ten days, one day, five days, seven days, a month, three days, and half a month:  
+these are the periods for examining seed, iron, draft animals, gems, female slaves, milch cattle, and male slaves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 दशैक-पञ्च-सप्ताह-  

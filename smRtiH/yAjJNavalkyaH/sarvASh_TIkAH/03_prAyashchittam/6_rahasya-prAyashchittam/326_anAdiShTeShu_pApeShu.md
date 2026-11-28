@@ -1,6 +1,13 @@
 +++
 title = "326 अनादिष्टेषु पापेषु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And in the case of unspecified sins, purification is by the lunar penance;  
+whoever performs this for the sake of duty attains the same world as the Moon.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनादिष्टेषु पापेषु  

@@ -1,6 +1,13 @@
 +++
 title = "187 सप्तर्षिनागवीथ्य्अन्तर् देवलोकं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Between the Seven Seers and the Serpent's Way, settled in the realm of the gods,  
+are just as many sages who have abandoned all worldly undertakings.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सप्तर्षि-नाग-वीथ्य्-अन्तर्  

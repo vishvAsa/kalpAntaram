@@ -1,6 +1,13 @@
 +++
 title = "013 आचम्याग्न्य्आदि सलिलं"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+having sipped water for purification, touching fire, water, cow dung, and white mustard seeds,  
+and placing a foot gently upon a stone, they should enter.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आचम्याग्न्य्-आदि सलिलं  

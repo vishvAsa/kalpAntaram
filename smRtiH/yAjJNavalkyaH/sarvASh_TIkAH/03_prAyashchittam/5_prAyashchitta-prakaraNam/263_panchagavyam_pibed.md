@@ -1,6 +1,13 @@
 +++
 title = "263 पञ्चगव्यम् पिबेद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A cow-killer should drink the five products of a cow and sit self-controlled for a month,  
+sleeping in a cowshed, following cows; he is purified by the gift of a cow.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पञ्च-गव्यं पिबेद् गोघ्नो  

@@ -1,6 +1,13 @@
 +++
 title = "003 अपश्यता कार्यवशाद्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If, however, the king cannot examine legal disputes owing to other affairs,  
+he should appoint a Brahmin who knows all duty, along with the assessors.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अपश्यता कार्यवशाद्  

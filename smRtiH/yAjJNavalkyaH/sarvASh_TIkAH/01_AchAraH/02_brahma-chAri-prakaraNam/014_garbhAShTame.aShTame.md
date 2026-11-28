@@ -1,6 +1,13 @@
 +++
 title = "014 गर्भाष्टमे ऽष्टमे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The initiation rite of a Brahmin takes place in the eighth year from conception or the eighth year [after birth];  
+of kings in the eleventh, of Vaishyas in the eleventh plus one [twelfth], according to family custom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाष्टमे ऽष्टमे वा ऽब्दे  

@@ -1,6 +1,13 @@
 +++
 title = "285 महापापोपपापाभ्यां यो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever falsely accuses another of a major sin or a secondary sin  
+should subsist on water for a month, murmuring [prayers] with restrained senses.
+</details>
+
 <details><summary>मूलम्</summary>
 
 महा-पापोपपापाभ्यां यो  

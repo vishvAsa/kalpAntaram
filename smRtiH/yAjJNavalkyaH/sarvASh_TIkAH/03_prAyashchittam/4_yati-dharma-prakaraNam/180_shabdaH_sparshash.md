@@ -1,6 +1,13 @@
 +++
 title = "180 शब्दः स्पर्शश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sound, touch, form, taste, and smell are their qualities;  
+whichever has emerged from whatever dissolves back into that very thing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शब्दः स्पर्शश् च रूपं च  

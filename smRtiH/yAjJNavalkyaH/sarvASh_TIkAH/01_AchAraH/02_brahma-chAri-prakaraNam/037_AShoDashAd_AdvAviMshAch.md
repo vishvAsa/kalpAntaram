@@ -1,6 +1,13 @@
 +++
 title = "037 आषोडशाद् आद्वाविंशाच्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Up to the sixteenth, twenty-second, and twenty-fourth year, respectively,  
+is the upper time limit for initiation for Brahmins, Kshatriyas, and Vaishyas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आ-षोडशाद् आ-द्वाविंशाच्  

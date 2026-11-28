@@ -1,6 +1,13 @@
 +++
 title = "193 गृहीतवेतनः कर्म"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A labourer who has received wages and abandons the work shall pay double;  
+if wages have not been received, he should be made to pay an equal amount; tools must be preserved by the servants.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गृहीत-वेतनः कर्म  

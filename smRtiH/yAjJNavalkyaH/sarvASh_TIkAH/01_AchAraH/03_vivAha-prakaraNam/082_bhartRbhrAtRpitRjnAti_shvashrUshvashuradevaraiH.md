@@ -1,6 +1,13 @@
 +++
 title = "082 भर्तृभ्रातृपितृज्ञाति श्वश्रूश्वशुरदेवरैः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Women are to be honoured with ornaments, garments, and food  
+by husband, brother, father, agnates, mother-in-law, father-in-law, brother-in-law, and kin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 भर्तृ-भ्रातृ-पितृ-ज्ञाति-  

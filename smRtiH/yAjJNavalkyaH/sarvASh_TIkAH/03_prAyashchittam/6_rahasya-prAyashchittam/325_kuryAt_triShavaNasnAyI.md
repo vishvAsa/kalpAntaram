@@ -1,6 +1,13 @@
 +++
 title = "325 कुर्यात् त्रिषवणस्नायी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bathing at the three daily junctures, one should perform the kṛcchra and likewise the lunar penance;  
+one should mutter purifying texts and consecrate the morsels with the Gāyatrī.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कुर्यात् त्रिषवण-स्नायी  

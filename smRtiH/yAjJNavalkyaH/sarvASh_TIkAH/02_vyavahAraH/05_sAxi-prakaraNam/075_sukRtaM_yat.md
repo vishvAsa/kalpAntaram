@@ -1,6 +1,13 @@
 +++
 title = "075 सुकृतं यत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever merit has been earned by you over hundreds of other lifetimes,  
+know that all that belongs to him whom you falsely cause to be defeated.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 सुकृतं यत् त्वया किञ्चिज्  

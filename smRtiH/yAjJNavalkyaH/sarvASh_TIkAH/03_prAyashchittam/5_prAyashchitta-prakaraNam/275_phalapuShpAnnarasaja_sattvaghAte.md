@@ -1,6 +1,13 @@
 +++
 title = "275 फलपुष्पान्नरसज सत्त्वघाते"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon killing creatures born from fruits, flowers, food, or juices, eating ghee is [the expiation];  
+something should be given for killing a boned animal, but breath control [is required] for a boneless one.
+</details>
+
 <details><summary>मूलम्</summary>
 
 फल-पुष्पान्न-रसज-  

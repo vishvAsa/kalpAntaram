@@ -2,6 +2,12 @@
 title = "126 अन्योन्यापहृतन् द्रव्यं"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Property concealed from one another that is discovered after partition of inheritance,  
+they should divide again into equal shares; such is the established rule.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अन्योन्यापहृतं द्रव्यं  

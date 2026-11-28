@@ -1,6 +1,13 @@
 +++
 title = "204 अथ वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or rather, practicing the Veda, having cast off rites, dwelling in the forest,  
+eating unbegged food, and eating in moderation, he may attain supreme perfection.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ वा ऽप्य् अभ्यसन् वेदं  

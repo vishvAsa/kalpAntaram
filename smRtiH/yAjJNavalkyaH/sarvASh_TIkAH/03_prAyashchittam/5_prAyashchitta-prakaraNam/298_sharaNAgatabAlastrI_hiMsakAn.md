@@ -1,6 +1,13 @@
 +++
 title = "298 शरणागतबालस्त्री हिंसकान्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+One should never associate with killers of those who sought refuge, children, or women,  
+even when they have observed the vow, nor with ungrateful persons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शरणागत-बाल-स्त्री-  

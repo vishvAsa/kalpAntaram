@@ -1,6 +1,13 @@
 +++
 title = "152 सामन्ता वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or neighbouring landholders, men of the same village, four, eight, or even ten,  
+wearing red garlands and garments, bearing earth, shall determine the boundary.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सामन्ता वा सम-ग्रामाश्  

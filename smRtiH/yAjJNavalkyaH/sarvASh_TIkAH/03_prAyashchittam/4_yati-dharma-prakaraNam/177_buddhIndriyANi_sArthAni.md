@@ -1,6 +1,13 @@
 +++
 title = "177 बुद्धीन्द्रियाणि सार्थानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sense organs along with their objects, the mind, the organs of action,  
+egoism, intellect, and earth and the other [elements],
+</details>
+
 <details><summary>मूलम्</summary>
 
 बुद्धीन्द्रियाणि सार्थानि  

@@ -1,6 +1,13 @@
 +++
 title = "283 प्रतिकूलङ् गुरोः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having acted against the guru, one is purified only by propitiating [him];  
+the guru should perform three penitential hardships if [a student] dies when sent on an errand.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिकूलं गुरोः कृत्वा  

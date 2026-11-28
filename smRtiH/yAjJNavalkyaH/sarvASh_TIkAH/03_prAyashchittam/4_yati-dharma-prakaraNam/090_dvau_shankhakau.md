@@ -1,6 +1,13 @@
 +++
 title = "090 द्वौ शङ्खकौ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are two temples, four cranial plates of the head,  
+and seventeen bones in the chest: this is the sum of a man's bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्वौ शङ्खकौ कपालानि  

@@ -1,6 +1,13 @@
 +++
 title = "010 गन्त्री वसुमती"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The earth will go to destruction, as will the ocean and the deities;  
+how shall the mortal world, resembling foam, not go to destruction?
+</details>
+
 <details><summary>मूलम्</summary>
 
 गन्त्री वसुमती नाशम्  

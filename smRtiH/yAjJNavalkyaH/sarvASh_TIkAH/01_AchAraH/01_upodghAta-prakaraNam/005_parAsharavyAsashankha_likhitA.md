@@ -1,6 +1,13 @@
 +++
 title = "005 पराशरव्यासशङ्ख लिखिता"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, Gautama,  
+Śātātapa, and Vasiṣṭha are the promulgators of the treatises on duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पराशर-व्यास-शङ्ख-  

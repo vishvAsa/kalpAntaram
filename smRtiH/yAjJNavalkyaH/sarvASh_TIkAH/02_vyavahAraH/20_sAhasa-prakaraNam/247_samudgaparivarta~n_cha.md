@@ -1,6 +1,13 @@
 +++
 title = "247 समुद्गपरिवर्तञ् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For substituting a sealed box, or pledging or selling  
+an imitation of a valuable vessel, the assessment of the fine [is as follows]:
+</details>
+
 <details><summary>मूलम्</summary>
 
 समुद्ग-परिवर्तं च  

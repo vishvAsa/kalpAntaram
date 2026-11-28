@@ -2,6 +2,12 @@
 title = "249 अरण्ये नियतो"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Restrained in a forest, having recited the Saṃhitā of the Veda three times,  
+or by eating moderately [while walking] against the current of the Sarasvatī, he would be purified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अरण्ये नियतो जप्त्वा  

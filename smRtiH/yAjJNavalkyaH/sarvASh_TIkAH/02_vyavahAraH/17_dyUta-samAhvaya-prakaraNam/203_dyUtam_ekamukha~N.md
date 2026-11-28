@@ -1,6 +1,13 @@
 +++
 title = "203 द्यूतम् एकमुखङ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Gambling should be kept under unified supervision for the purpose of discovering thieves;  
+this very rule is to be understood for wagering on living creatures in prize contests.
+</details>
+
 <details><summary>मूलम्</summary>
 
 द्यूतम् एक-मुखं कार्यं  

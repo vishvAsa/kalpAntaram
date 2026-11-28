@@ -1,6 +1,13 @@
 +++
 title = "331 संविशेत् तूर्यघोषेण"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should go to rest to the sound of trumpets and awake likewise.  
+He should reflect in his mind upon the treatises and all duties.
+</details>
+
 <details><summary>मूलम्</summary>
 
 संविशेत् तूर्य-घोषेण  

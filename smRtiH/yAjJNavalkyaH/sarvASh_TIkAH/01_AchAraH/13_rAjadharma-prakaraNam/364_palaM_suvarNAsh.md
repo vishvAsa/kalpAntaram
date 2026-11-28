@@ -1,6 +1,13 @@
 +++
 title = "364 पलं सुवर्णाश्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A pala is declared to be four or five suvarṇas.  
+Two kṛṣṇalas are a silver māṣa; sixteen of those are a dharaṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पलं सुवर्णाश् चत्वारः  

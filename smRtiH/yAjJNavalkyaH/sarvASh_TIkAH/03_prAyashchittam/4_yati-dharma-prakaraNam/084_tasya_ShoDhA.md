@@ -1,6 +1,13 @@
 +++
 title = "084 तस्य षोढा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Its bodies are sixfold, six layers of skin support them,  
+six are the major limbs, and there are three hundred and sixty bones.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्य षोढा शरीराणि  

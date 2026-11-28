@@ -1,6 +1,13 @@
 +++
 title = "150 वाचं वा"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or who recognizes speech after hearing it repeatedly?  
+Who has memory of past things, or who is the maker of dreams?
+</details>
+
 <details><summary>मूलम्</summary>
 
 वाचं वा को विजानाति  

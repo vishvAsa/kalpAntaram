@@ -1,6 +1,13 @@
 +++
 title = "106 स तम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Taking it, he should walk slowly through seven circles;  
+a circle should be known as sixteen finger-breadths, and the interval between them the same.
+</details>
+
 <details><summary>मूलम्</summary>
 
 स तम् आदाय सप्तैव  

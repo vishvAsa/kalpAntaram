@@ -1,6 +1,13 @@
 +++
 title = "211 त्रैविद्यनृपदेवानां क्षेप"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An insult to those learned in the three Vedas, the king, or deities is the highest heinous offence [fine];  
+the middling for castes and guilds; the first for a village or a country.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रैविद्य-नृप-देवानां  

@@ -1,6 +1,13 @@
 +++
 title = "048 दान्तस् त्रिषवणस्नायी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Self-restrained, bathing at the three junctures of the day, retired from accepting gifts,  
+devoted to Vedic study, disposed to give, intent on the welfare of all beings,
+</details>
+
 <details><summary>मूलम्</summary>
 
 दान्तस् त्रिषवण-स्नायी  

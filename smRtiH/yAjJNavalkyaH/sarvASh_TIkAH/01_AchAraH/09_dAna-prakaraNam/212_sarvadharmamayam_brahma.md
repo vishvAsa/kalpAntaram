@@ -1,6 +1,13 @@
 +++
 title = "212 सर्वधर्ममयम् ब्रह्म"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Because the Veda comprises all duties and is superior to gifts,  
+one who imparts it completely attains the imperishable world of Brahmā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्व-धर्म-मयं ब्रह्म  

@@ -1,6 +1,13 @@
 +++
 title = "142 अध्यायानाम् उपाकर्म"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The opening rite for Vedic study occurs on the full moon of Śrāvaṇa, or with the asterism Śravaṇa,  
+or with Hasta when herbs appear, or else on the fifth day of the bright half of Śrāvaṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अध्यायानाम् उपाकर्म  

@@ -2,6 +2,12 @@
 title = "011 गर्भाधानम् ऋतौ"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The rite of insemination is [performed] during the fertile period; the rite for quickening a male child before the fetus moves;  
+the parting of the hair rite in the sixth or eighth month; and the birth rite upon delivery.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गर्भाधानम् ऋतौ पुंसः  

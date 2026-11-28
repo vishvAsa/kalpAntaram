@@ -1,6 +1,13 @@
 +++
 title = "201 ततो ध्येयः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then the Lord, who dwells like a lamp in the heart, should be meditated upon;  
+and fixing the mind there, the wise man should practice concentration.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततो ध्येयः स्थितो यो ऽसौ  

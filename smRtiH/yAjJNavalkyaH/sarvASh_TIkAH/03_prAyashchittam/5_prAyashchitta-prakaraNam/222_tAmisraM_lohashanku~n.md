@@ -1,6 +1,13 @@
 +++
 title = "222 तामिस्रं लोहशङ्कुञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Tāmisra, Lohaśaṅku, Mahāniraya, Śālmalī,  
+Raurava, Kuḍmala, Pūtimṛttika, Kālasūtra,
+</details>
+
 <details><summary>मूलम्</summary>
 
 तामिस्रं लोह-शङ्कुं च  

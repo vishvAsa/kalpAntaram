@@ -1,6 +1,13 @@
 +++
 title = "130 राजान्तेवासियाज्येभ्यः सीदन्न्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When distressed by hunger, he may desire wealth from the king, from pupils, or from sacrifice patrons;  
+and he should avoid hypocrites, dialecticians, heretics, and those acting like herons.
+</details>
+
 <details><summary>मूलम्</summary>
 
 राजान्तेवासि-याज्येभ्यः  

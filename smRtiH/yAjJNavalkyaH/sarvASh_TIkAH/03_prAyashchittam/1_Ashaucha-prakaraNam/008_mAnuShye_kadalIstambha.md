@@ -1,6 +1,13 @@
 +++
 title = "008 मानुष्ये कदलीस्तम्भ"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Whoever seeks substance in human existence, which is devoid of substance like a plantain stalk  
+and resembles a water bubble, is completely deluded.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानुष्ये कदली-स्तम्भ-  

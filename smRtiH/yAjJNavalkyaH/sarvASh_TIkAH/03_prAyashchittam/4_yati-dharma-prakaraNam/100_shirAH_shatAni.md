@@ -1,6 +1,13 @@
 +++
 title = "100 शिराः शतानि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There are seven hundred veins, nine hundred ligaments,  
+two hundred arteries, and five hundred muscles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शिराः शतानि सप्तैव  

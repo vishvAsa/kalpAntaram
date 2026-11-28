@@ -2,6 +2,12 @@
 title = "243 मातामहानाम् अप्य्"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the same manner for maternal grandfathers, he should then give water for sipping;  
+then he should have blessings pronounced and offer inexhaustible water.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मातामहानाम् अप्य् एवं  

@@ -1,6 +1,13 @@
 +++
 title = "318 एकभक्तेन नक्तेन"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With one meal by day, [one] by night, [one meal] unasked for,  
+and a fast [on the fourth day], this is proclaimed to be the Pādakṛcchra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एक-भक्तेन नक्तेन  

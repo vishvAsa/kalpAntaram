@@ -1,6 +1,13 @@
 +++
 title = "067 अक्षता च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A woman consecrated a second time, whether deflowered or undeflowered, is a remarried woman;  
+an unchaste woman is she who, having abandoned her husband, resorts to a man of the same social class out of lust.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अक्षता च क्षता चैव  

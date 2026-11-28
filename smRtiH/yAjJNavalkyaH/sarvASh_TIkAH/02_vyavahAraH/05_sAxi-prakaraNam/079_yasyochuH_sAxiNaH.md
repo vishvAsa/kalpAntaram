@@ -1,6 +1,13 @@
 +++
 title = "079 यस्योचुः साक्षिणः"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He whose claim the witnesses declare to be true shall be the winner;  
+for that litigant whose [claim] is otherwise, defeat is certain.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यस्योचुः साक्षिणः सत्यां  

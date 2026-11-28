@@ -1,6 +1,13 @@
 +++
 title = "042 यजूंषि शक्तितो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who recites the Yajurveda formulas daily according to his ability pleases the gods with clarified butter and nectar,  
+and likewise the ancestors with clarified butter and honey.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यजूंषि शक्तितो ऽधीते  

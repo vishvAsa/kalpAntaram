@@ -1,6 +1,13 @@
 +++
 title = "087 साक्षिणश् च"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And the witnesses, being equal, should write in their own hands, preceded by their fathers' names:  
+'Here I, so-and-so, am a witness.'
+</details>
+
 <details><summary>मूलम्</summary>
 
 साक्षिणश् च स्व-हस्तेन  

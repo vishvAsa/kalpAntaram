@@ -1,6 +1,13 @@
 +++
 title = "057 तिस्रो वर्णानुपूर्व्येण"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three wives in order of social classes [are permitted] to a Brahmin, two to a Kshatriya, and one to a Vaishya respectively;  
+to a person born a Shudra, only one of his own [social class].
+</details>
+
 <details><summary>मूलम्</summary>
 
 तिस्रो वर्णानुपूर्व्येण  

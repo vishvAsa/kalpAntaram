@@ -1,6 +1,13 @@
 +++
 title = "236 अग्नौ करिष्यन्न्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Intending to make offerings into the fire, he takes up food drenched in clarified butter and asks [the Brahmins]: 'May I make the offering in the fire?'  
+Permitted with 'Perform it!', having offered into the fire as in the ancestral sacrifice,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अग्नौ करिष्यन्न् आदाय  

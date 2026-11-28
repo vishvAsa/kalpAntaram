@@ -1,6 +1,13 @@
 +++
 title = "276 वृक्षगुल्मलतावीरु च्छेदने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon cutting down trees, shrubs, climbing vines, or creeping plants, a hundred ṛk-verses should be muttered;  
+upon the useless cutting of medicinal plants, [one should be] a milk-drinker following cows for a day.
+</details>
+
 <details><summary>मूलम्</summary>
 
 वृक्ष-गुल्म-लता-वीरु-  

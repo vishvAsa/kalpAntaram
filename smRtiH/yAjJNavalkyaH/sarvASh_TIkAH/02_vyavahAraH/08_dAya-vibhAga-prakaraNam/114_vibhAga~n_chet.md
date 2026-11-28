@@ -1,6 +1,13 @@
 +++
 title = "114 विभागञ् चेत्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If a father makes a partition of inheritance, he may divide the sons at his pleasure:  
+either the eldest with the best share, or all may have equal shares.
+</details>
+
 <details><summary>मूलम्</summary>
 
 विभागं चेत् पिता कुर्याद्  

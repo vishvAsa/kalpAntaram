@@ -1,6 +1,13 @@
 +++
 title = "204 सत्यासत्यान्यथास्तोत्रैर् न्यूनाङ्गेन्द्रियरोगिणाम्(८३)"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If someone reviles those with missing limbs or sense-organs, or the diseased,  
+through true, false, or ironic praise, he is to be fined twelve and a half paṇas.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सत्यासत्यान्यथा-स्तोत्रैर्  

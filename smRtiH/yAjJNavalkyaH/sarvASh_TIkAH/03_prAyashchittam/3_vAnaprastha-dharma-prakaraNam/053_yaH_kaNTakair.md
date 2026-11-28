@@ -1,6 +1,13 @@
 +++
 title = "053 यः कण्टकैर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Neither angry at the one who pierces him with thorns,  
+nor pleased with the one who smears him with sandalwood, he is equal to both this one and that.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यः कण्टकैर् वितुदति  

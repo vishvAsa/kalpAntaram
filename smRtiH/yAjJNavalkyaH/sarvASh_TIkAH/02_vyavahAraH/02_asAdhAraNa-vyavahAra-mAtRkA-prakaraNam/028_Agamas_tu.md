@@ -2,6 +2,12 @@
 title = "028 आगमस् तु"
 +++
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He by whom the title was acquired must establish it when sued,  
+but not his son or his son's son; in their case, possession carries greater weight.
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमस् तु कृतो येन  

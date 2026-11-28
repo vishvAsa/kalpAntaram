@@ -1,6 +1,13 @@
 +++
 title = "277 स्नपनन् तस्य"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For him a bath should be performed on an auspicious day according to rule,  
+after he has been rubbed with white mustard paste mixed with clarified butter,
+</details>
+
 <details><summary>मूलम्</summary>
 
 स्नपनं तस्य कर्तव्यं  

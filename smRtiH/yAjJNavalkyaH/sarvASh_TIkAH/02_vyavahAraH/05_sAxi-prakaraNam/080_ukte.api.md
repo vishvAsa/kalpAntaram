@@ -1,6 +1,13 @@
 +++
 title = "080 उक्ते ऽपि"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even after testimony has been given by witnesses, if other, more virtuous [witnesses],  
+or twice as many, state otherwise, the former witnesses are false.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उक्ते ऽपि साक्षिभिः साक्ष्ये  

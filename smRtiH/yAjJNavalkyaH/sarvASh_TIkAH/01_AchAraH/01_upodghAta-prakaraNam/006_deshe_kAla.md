@@ -1,6 +1,13 @@
 +++
 title = "006 देशे काल"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever property is given in a proper place, at a proper time, by proper means,  
+with faith, to a worthy recipient—all that is the mark of duty.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशे काल उपायेन  

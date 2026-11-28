@@ -1,6 +1,13 @@
 +++
 title = "252 चरेद् व्रतम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He should perform the vow even without having killed, if he came for the purpose of killing;  
+but one should prescribe a double vow in the case of a Brahmin engaged in the soma pressing.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चरेद् व्रतम् अहत्वा ऽपि  

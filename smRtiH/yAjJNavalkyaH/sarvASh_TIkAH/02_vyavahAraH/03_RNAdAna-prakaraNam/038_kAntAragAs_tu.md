@@ -1,6 +1,13 @@
 +++
 title = "038 कान्तारगास् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those travelling through wildernesses should pay ten percent, and sea-voyagers twenty percent;  
+or all of every class may pay the interest agreed upon by themselves.
+</details>
+
 <details><summary>मूलम्</summary>
 
 कान्तारगास् तु दशकं  

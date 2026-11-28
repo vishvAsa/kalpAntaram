@@ -1,6 +1,13 @@
 +++
 title = "220 चेष्टाभोजनवाग्रोधे नेत्रादिप्रतिभेदने"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For hindering movement, eating, or speech, for piercing an eye and the like,  
+and for breaking the neck, arm, or thigh, [the fine is that of] the middling heinous offence.
+</details>
+
 <details><summary>मूलम्</summary>
 
 चेष्टा-भोजन-वाग्-रोधे  

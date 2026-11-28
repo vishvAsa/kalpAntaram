@@ -1,6 +1,13 @@
 +++
 title = "165 पिशुनानृतिनोश् चैव"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of a slanderer, a liar, an oilman, and a bard—  
+the food of these must not be eaten, nor of a seller of Soma.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पिशुनानृतिनोश् चैव  

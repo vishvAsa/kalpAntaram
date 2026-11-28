@@ -1,6 +1,13 @@
 +++
 title = "247 लोमभ्यः स्वाहेत्य्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Or he should offer his body into the fire with the mantras, 'Svāhā to the hairs,'  
+beginning with the hairs and ending with the marrow, in due order.
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोमभ्यः स्वाहेत्य् एवं हि  

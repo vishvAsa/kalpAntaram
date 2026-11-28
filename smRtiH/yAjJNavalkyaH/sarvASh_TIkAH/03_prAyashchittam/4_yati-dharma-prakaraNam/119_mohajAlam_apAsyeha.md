@@ -1,6 +1,13 @@
 +++
 title = "119 मोहजालम् अपास्येह"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the snare of delusion is cast aside here, the Puruṣa is indeed perceived—  
+he who has a thousand hands, feet, and eyes, has the splendour of the sun, and is thousandfold.
+</details>
+
 <details><summary>मूलम्</summary>
 
 मोह-जालम् अपास्येह  

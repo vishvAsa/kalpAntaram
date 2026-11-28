@@ -1,6 +1,13 @@
 +++
 title = "168 उदक्यास्पृष्टसङ्घुष्टं पर्यायान्नञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Food touched by a menstruating woman, food loudly proclaimed for all, and food offered in succession, he should avoid;  
+as also food sniffed by a cow, remnants left by a bird, or deliberately touched with the foot.
+</details>
+
 <details><summary>मूलम्</summary>
 
 उदक्या-स्पृष्ट-सङ्घुष्टं  

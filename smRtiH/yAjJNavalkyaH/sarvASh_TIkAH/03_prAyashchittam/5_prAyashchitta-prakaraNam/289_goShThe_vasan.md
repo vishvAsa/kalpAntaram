@@ -1,6 +1,13 @@
 +++
 title = "289 गोष्ठे वसन्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Dwelling in a cowshed as a celibate student for one month on a milk vow,  
+devoted to murmuring the Gāyatrī, one is purified from accepting gifts from the unworthy.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गोष्ठे वसन् ब्रह्म-चारी  

@@ -1,6 +1,13 @@
 +++
 title = "179 शते दशपला"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+An increase of ten palas in a hundred is recognized in woolen and cotton thread;  
+an increase of five palas in medium quality, but three palas in fine thread.
+</details>
+
 <details><summary>मूलम्</summary>
 
 शते दश-पला वृद्धिर्  

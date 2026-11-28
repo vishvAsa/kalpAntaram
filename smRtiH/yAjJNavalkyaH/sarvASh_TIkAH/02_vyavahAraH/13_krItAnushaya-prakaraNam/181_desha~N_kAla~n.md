@@ -1,6 +1,13 @@
 +++
 title = "181 देशङ् कालञ्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Knowing the place, the time, the use, and the strength and weakness of articles when damaged,  
+experts shall state what is to be paid, without a doubt.
+</details>
+
 <details><summary>मूलम्</summary>
 
 देशं कालं च भोगं च  

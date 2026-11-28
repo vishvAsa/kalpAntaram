@@ -1,6 +1,13 @@
 +++
 title = "049 नैष्ठिको ब्रह्मचारी"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A lifelong chaste student, however, should dwell near his preceptor;  
+in his absence, near his son, near his wife, or near the sacred fire.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नैष्ठिको ब्रह्म-चारी तु  

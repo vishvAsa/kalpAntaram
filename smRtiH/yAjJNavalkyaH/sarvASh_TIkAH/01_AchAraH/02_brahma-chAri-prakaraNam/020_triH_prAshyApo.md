@@ -1,6 +1,13 @@
 +++
 title = "020 त्रिः प्राश्यापो"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having sipped water three times and wiped twice, he should touch the apertures [of the head] with water.  
+[The sipping must be done] with natural water, free from foam and bubbles.
+</details>
+
 <details><summary>मूलम्</summary>
 
 त्रिः प्राश्यापो द्विर् उन्मृज्य  

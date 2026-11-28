@@ -1,6 +1,13 @@
 +++
 title = "174 अहङ्कारः स्मृतिर्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Egoism, memory, intellect, hatred, discernment, pleasure, resolve,  
+the movement between different sense organs, desire, bodily sustenance and life,
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहङ्कारः स्मृतिर् मेधा  

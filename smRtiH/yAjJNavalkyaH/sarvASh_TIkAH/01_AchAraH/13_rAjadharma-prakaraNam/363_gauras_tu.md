@@ -1,6 +1,13 @@
 +++
 title = "363 गौरस् तु"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three of those are a white [mustard seed]; six of those are a barleycorn; three of those are a medium  
+kṛṣṇala; five of those are a māṣa; sixteen of those are a suvarṇa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 गौरस् तु ते त्रयः षट् ते  

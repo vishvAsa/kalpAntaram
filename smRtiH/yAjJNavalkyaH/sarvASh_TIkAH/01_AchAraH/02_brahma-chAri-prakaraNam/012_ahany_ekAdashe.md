@@ -1,6 +1,13 @@
 +++
 title = "012 अहन्य् एकादशे"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+On the eleventh day is the naming rite; in the fourth month, the rite of the first outing;  
+in the sixth month, the rite of first solid food; the tonsure rite should be performed according to family custom.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहन्य् एकादशे नाम  

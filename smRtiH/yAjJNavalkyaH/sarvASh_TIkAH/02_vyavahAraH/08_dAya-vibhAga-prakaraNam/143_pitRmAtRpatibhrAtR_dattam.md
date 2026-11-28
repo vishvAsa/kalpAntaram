@@ -1,6 +1,13 @@
 +++
 title = "143 पितृमातृपतिभ्रातृ दत्तम्"
 +++
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is given by father, mother, husband, or brother, what is received before the nuptial fire,  
+and compensation for a superseded wife and the like, are declared to be a woman's separate property.
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितृ-मातृ-पति-भ्रातृ-  
