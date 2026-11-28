@@ -31,6 +31,11 @@ For this reason also the King should be always exerting himself:—Want of exert
 7.1-42.\]]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतत्रेताद्वापरकलयो राज्ञ एव चेष्टितविशेषास्तैरेव सत्यादिविशेषप्रवृत्तेः तस्माद्राजैव कृतादियुगमभिधीयते ॥३०१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 तथा च कलियुगम् इति कृत्वा नोदासीनः स्यात् । येन च राजवृत्तेनायं कलियुगादिभिर् व्यपदिश्यते राजा। तद् दर्शयति ॥ ९.३०१ ॥

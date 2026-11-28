@@ -44,6 +44,16 @@ in *Kṛtyakalpataru* (35a).
 \[See the texts under [79 *et seq*.]\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणहन्तुः, स्त्रीघातिनो बालघातिनश्च ये नरकादिलोका ऋषिभिः स्मृताः, ये च मित्रद्रोहादिकारिणः, ये चोपकर्तुरपकारिणस्ते तव मिथ्यावदतो भवेयुः ॥८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मघ्नानां स्मृता लोका ये च स्त्रीबालघातिनाम् **इति । ब्राह्मणस्त्रीबालघातिनां ये नरकादिलोका ऋषिभिः स्मृता ये चात्रापकारिणां ये च कृथापकारिणः ते तव च मिथावदतो भवेयुः ॥ ८.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	(Saying), 'Whatever places (of torment) are assigned (by the sages) to the slayer of a Brahmana, to the murderer of women and children, to him who betrays a friend, and to an ungrateful man, those shall be thy (portion), if thou speakest falsely.

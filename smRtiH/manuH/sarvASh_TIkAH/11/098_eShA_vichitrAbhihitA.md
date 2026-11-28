@@ -18,6 +18,16 @@ Thus have been described the various expiations for wine-drinking; after this I 
 The purpose of the two halves of the verse is as is clearly stated here.—(98)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इदं सुरापानजनितपापस्यनानाप्रकारं प्रायश्चित्तमभिहितम्। अतः परं ब्राह्मण सुवर्णहरणपापस्य निष्कृतिंवक्ष्यामि॥ १८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषेति** । सुरापानजनितपापस्य नानाप्रकारा संशुद्धिर् उक्ता तस्मात् परं ब्राह्मणसुवर्णचौर्यस्य संशुद्धिं वक्ष्यामि ॥ ११.९७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः स्लोकः ॥ ११.९७ ॥

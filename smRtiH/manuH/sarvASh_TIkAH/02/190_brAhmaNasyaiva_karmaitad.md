@@ -36,11 +36,20 @@ To the above we make the following reply:—It has been ordained that after the 
 than the one cited by Medhātithi is found in Manu 3. 234—‘*Vṛatasṭhamapi dauhitram śrāddhe yatnena bhojayet*,’ by which ‘feeding at Śrāddha’ is applicable to the *Kṣatriya Brahmacārī* also.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रियविशां त्रयाणामेव ब्रह्मचारिणां भैक्षाचरणविधानात् "व्रतवत्" ( म० स्मृ० २-१८९) इत्यनेन तदपवादरूप मेकान्नभोजनमुपदिष्ट क्षत्रियवैश्ययोरपि पुनरुकेन पर्युदस्यते । एतदैकान्नभोजनरूपं कर्म तद् ब्राह्मणस्यैव वेदार्थविद्भिर्विदितं, क्षत्रियवैश्ययोः पुनर्न चैतत्कर्मेति ब्रूते ॥१९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मनस्येति ।** **एतद् **दैवपित्र्यैकान्नभोजनाख्यं **कर्म ब्राह्मणस्यैव **मन्वादिभिः स्मृतम् । क्षत्रियवैश्ययोः पुनः **नैतत् कर्म **ब्रुवते भैक्षस्य प्रतिग्रहप्रकारत्वे ऽपि । ब्रह्मचारित्वं च प्रकरणात् क्षत्रियवैश्ययोर् अपि । ब्रह्मचारिणो भैक्ष्यभोजनाभ्यनुज्ञाने सति तदपवादैकान्नभोजने ऽपि तयोर् अपि प्रस्तुतत्वात् प्रतिग्रहस्य च ब्रह्मचारिव्यतिरिक्तक्षत्रियविषये चरितार्थत्वात् प्राप्तौ सत्याम् एवं प्रतिषेधः ॥ २.१९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 190	This duty is prescribed by the wise for a Brahmana only; but no such duty is ordained for a Kshatriya and a Vaisya.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

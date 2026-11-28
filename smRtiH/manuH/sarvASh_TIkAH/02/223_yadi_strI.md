@@ -95,11 +95,20 @@ In every way it is clear that there is not much useful purpose served by this ve
 specially good rewards.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि स्त्री शुद्रो वा किञ्चिच्छ्रेयोऽनुतिष्ठति तत्सर्वं युक्तोऽनुतिष्ठेत् । यत्र च शास्त्रानिषिद्धे मनोऽस्य तुष्यति तदपि कुर्यात् ॥२२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति **। **स्त्रीश्**ऊद्राव् अपि यच् **छ्रेयो** वक्ष्यमाणं शास्त्रविरुद्धम् अनुतिष्ठतः तद् अपि तयोः सकाशात् दृष्ट्वा **युक्तो** यत्नवान् अनुतिष्ठेत् । तत्या यत्र च शास्त्रीयपदार्थे जपादौ **मनो ऽस्य **परितुष्येत् तत् समाचरेत् ॥ २.२२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 223	If a woman or a man of low caste perform anything (leading to) happiness, let him diligently practise it, as well as (any other permitted act) in which his heart finds pleasure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

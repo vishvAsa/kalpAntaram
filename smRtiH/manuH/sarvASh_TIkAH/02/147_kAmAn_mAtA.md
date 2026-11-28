@@ -36,11 +36,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 480).
 his imparting the Veda.’—‘Therefore the learned expounder of the Veda is never regarded as *childless*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापितरौ यद् एनं बालकं कामवशेनान्योन्यमुत्पादयतः संभवमात्रंतत्तस्य पश्चादिसावारणम् । यद्योनौ मातृकुक्षावभिजायतेऽङ्गप्रत्यङ्गानि लभते ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः **कामाद्** इति । **आचार्यस् त्व्** इति । पितराव् एनं **मिथः** परस्परं **कामाद् उत्पादयतो** न तदुपकारचिकीर्षया । पुनः सम्भवमात्रं **तस्य **जानीयाद् **यद् योनाव्** असाव् उत्पद्यते । **आचार्यः** पुनः समस्तवेदाध्यापयिता यथाशास्त्रम् उपनयनाङ्गबूतया **सावित्र्या यां जातिं **यज् जन्म **अस्य **करोति **सा सत्या **स्यात् सत्यात्मका श्रौतादिकर्मनिमित्तत्वात् । सा **अजरा** अबाधका पुनस् तूद्भवे तस्यानपचयात्, **अमरा **अमरात्मकज्ञानाधिकारोत्पादनद्वारेणामरहेतुत्वात्॥ २.१४७–४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

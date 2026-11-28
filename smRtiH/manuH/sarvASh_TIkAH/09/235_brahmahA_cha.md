@@ -64,6 +64,11 @@ four capital offences, his head shall be shaved and he shall he banished; and wi
 capital offences,—violating the Guru’s bed, drinking wine, stealing gold, and killing a Brāhmaṇa,—for violating the Guru’s bed, he should he branded with the mark of the female part,—for drinking wine, with the flag of the wine-seller,—for stealing gold, with the mark of the dog’s foot,—for killing a Brāhmaṇa, the mark of a headless trunk shall be branded on his forehead; and no one should hold any converse with him;—such is the teaching of Manu.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मनुष्यो ब्राह्मणं ..... सुरापोद्विजातिः षैष्ठ्याः याता ब्राह्मणश्च षैष्टीमाध्वीनौढीनां, तस्यांशे ....... मनुष्यः यश्च कश्चित् गुरुपत्नीगानीत्येते सर्वे प्रत्येकंमहापातकिनोबोद्धव्याः ॥ २३२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अपरः पाठो ऽत्र श्लोके-

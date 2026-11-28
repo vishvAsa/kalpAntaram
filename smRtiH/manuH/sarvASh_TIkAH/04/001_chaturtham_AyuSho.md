@@ -44,11 +44,15 @@ life-stages, free from vulgarity; having gone through the fourth part of his lif
 Do. (12.243.1).—‘During the second quarter of his life, the householder shall live in the house, firm in his observances, after having been united to a virtuous wife and having kindled the fires.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+ब्रह्मचर्यपूर्वकं गृहाश्रमम् अनुतिष्ठतः वक्ष्यमाणा वृत्तयो भवन्तीत्य् एतत् प्रतिपादयितुम् उक्तं ब्रह्मचर्यकालं वक्ष्यमाणं च गार्हस्थ्यकालम् अनुवदितुम् आह **चतुर्थम्** इति । वक्ष्यमाणम् आश्रमसमुच्चयपक्षम् आश्रितो ब्राह्मणः **आद्यम् **आयुश्चतुर्भागे प्राप्ते “षड्विंशदाब्दिकम्” इत्यादिविशेषनोदनात् ऊनातिरिक्तम् अपि गुरुकुल आसित्वा ततो **द्वितीयम्** आयुश्चतुर्भागं “गृहस्थस् तु यदा पश्येद् वलीपतम्” (६.२) इत्यादिवक्ष्यमाणविशेषात् ऊनाध्यधिकम् अपि कृतभार्यो गार्हस्थ्यम् अनुतिष्ठेत् । न चास्य कालसमर्पणार्थत्वं युक्तम्, अनियतत्वेनायुषो ऽस्य साकाङ्क्षत्वात् ॥ ४.१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 001	Having dwelt with a teacher during the fourth part of (a man's) life, a Brahmana shall live during the second quarter (of his existence) in his house, after he has wedded a wife.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

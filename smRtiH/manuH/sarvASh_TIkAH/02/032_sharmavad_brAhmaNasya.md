@@ -81,6 +81,26 @@ Kṣatriya, *Gupta* and *Datta* for the Vaiśya and *Dāsa* for the Śūdra.
 These titles have been thus explained by Āśvalāyanāchārya:—‘The name of the Brāhmaṇa should end with *Śarma* because he imparts *Śarma* (happiness) to the world through his religious character, calmness and self-control; that of the Kṣatriya should end with *Varmā*, because like the *Varma* (armour), he protects the world from the three kinds of pain; that of the Vaiśya should end with *Gupta*, because he fosters (*gopāyati*) the people by giving them money at certain times; that of the Śūdra should end with *Dāsa*, because he keeps the twice-born people satisfied by constant service.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां यथाक्रमं शर्मरक्षापुष्टिप्रैष्यवाचकानि कर्तव्यानि, शर्मवर्मभूतिदासादीनि \। उपपदानि कार्याणि । उदाहरणानि तु- शुभशर्मा, बलवर्मा, वसुभूतिः, दीनदास इति । तथा च यमः—
+
+**'शर्म देवश्च विप्रस्य वर्म त्राता च भूभुजः ।**
+
+**भूतिदत्तश्च वैश्यस्य दासः शूद्रस्य कारयेत्' ॥**
+
+विष्णुपुराणेऽप्युक्तम्—
+
+**शर्मवद्ब्राह्मणस्योक्तं वर्मेति क्षत्रसंयुतम् ।**
+
+**गुप्तदासात्मकं नाम प्रशस्तं वैश्यशूद्रयोः ॥३२॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उपपदनियमार्थम् आह – **शर्मवद् ब्राह्मणस्येति** । शर्मरक्षापुष्टिप्रेष्यवाचकान्य् एषां यथाक्रमं शर्मपालपुष्टिदासान्य् उपपदानि स्युः । उदाहरणानि भद्रशर्मा शक्तिपालो धनपुष्टो दीनदास इति ॥ २.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	(The second part of) a Brahmana's (name) shall be (a word) implying happiness, of a Kshatriya's (a word) implying protection, of a Vaisya's (a term) expressive of thriving, and of a Sudra's (an expression) denoting service.

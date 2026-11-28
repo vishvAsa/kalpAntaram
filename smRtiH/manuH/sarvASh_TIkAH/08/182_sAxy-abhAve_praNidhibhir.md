@@ -99,6 +99,11 @@ fails to restore it on being asked to do so, he should he punished and compelled
 the depositor refuses to restore it and dishonestly denies the deposit, he should be arrested and compelled to restore the deposit and also pay a fine.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रथमनिक्षेपे साक्ष्यभावे स्वकीयसभ्यैश्चारपुरुषैरतिक्रान्तबाल्यैः सौम्यादिभिर्नृपोपद्रवा–दिव्याजाभिधायिभिर्हिरण्यानि तत्त्वेन तत्र निक्षेपयित्वा तैरेव चारपुरुषैः स निक्षेपधारी प्राडि्ववाकेन चारपुरुषनिक्षिप्तसुवर्णं याच्यः ॥१८२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यदि तं द्वितीयं निक्षेपं यथा [न्यस्तं प्रतिपद्येत् तदा **न**] **किंचिद्** अस्ति **यत् परैर् अभियुज्यते** ॥ ८.१८१ ॥

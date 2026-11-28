@@ -46,6 +46,16 @@ becomes defiled under the law; for this unintentional striking, the sages have p
 *Kṛccra* as well as the *Cāndrāyaṇa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयुध्यमानस्य ब्राह्मणस्याङ्गे शास्त्रानभिज्ञतया शोणितमुत्पाद्य परलोके महद् दुःखमाप्नोति ॥१६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अयुध्यमानस्येति** । युद्धं विना ब्राह्मणशरीरतो मौर्ख्यात् रुधिरं नर उत्पाद्य परलोके महद् दुःखं प्राप्नोति ॥ ४.१६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 167	A man who in his folly caused blood to flow from the body of a Brahmana who does not attack him, will suffer after death exceedingly great pain.

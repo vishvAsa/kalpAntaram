@@ -35,6 +35,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying down t
 (Vīramitrodaya-Saṃskāra, p. 516).—‘One should not teach, or sacrifice for, a person who has not been duly tested.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधर्मेण पृष्टोऽपि यो यस्य वदति यश्चान्यायेन यं पृच्छति तयोरन्यतरो व्यतिक्रमकारी म्रियते, विद्वेषं वा तेन सह गच्छति ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधर्मेणेति** । उक्तमर्यादातिक्रमेण **यः प्राह यो** वा **पृच्छति तयोर् अन्यतरः **यो ऽतिक्रमकृत् स म्रियते **द्वेषं **वा लोके भजते ॥ २.१११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	Of the two persons, him who illegally explains (anything), and him who illegally asks (a question), one (or both) will die or incur (the other's) enmity.

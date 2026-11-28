@@ -74,6 +74,11 @@ with treasure and provisions, with elephants, horses and chariots,—also with g
 strong walls and ditches, supplied with elephants, horses and chariots, with bright citizens, adorned with squares and markets, full of brave and wise men.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**त्रीण्य् आद्यान्य् आश्रितास् त्व् एषां मृगगर्ताश्रया पुरेति** । मध्याद्यानि त्रीणि धन्वमह्यब्दुर्गाणि मृगादय आश्रिताः । तत्र धन्वदुर्गं मृगैर् आश्रितम् । महीदुर्गं बिलासादैर् नकुलादिभिः । अम्बुदुर्गम् उदकचारिभिः कूर्मादिभिः । उत्तराणि त्रीणि वृक्षनृगिरिदुर्गाणि क्रमेण प्लगङ्गमादय आश्रिताः । तत्र वृक्षदुर्गं वानरैर् आश्रितम् । नृदुर्गं मनुष्यैः । गिरिदुर्गं देवैः ॥ ७.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	The first three of those (various kinds of fortresses) are inhabited by wild beasts, animals living in holes and aquatic animals, the last three by monkeys, men, and gods respectively.

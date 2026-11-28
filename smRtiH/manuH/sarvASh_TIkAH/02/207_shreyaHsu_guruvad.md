@@ -66,11 +66,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462), where we have th
 See Comparative notes for [Verse 2.206].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रेयःसु विद्यातपःसमृद्धेषु, आर्येष्विति गुरुपुत्रविशेषणम्। समानजातिगुरुपुत्रेषु गुरोध ज्ञातिष्वपि पितृव्यादिषु सर्वदा गुरुवद् वृत्तिमनुतिष्ठेत् । गुरुपुत्रश्चान्त्र शिष्याधिकवयाश्च बोद्धव्यः । शिष्यबालसमा नवयसामनन्तरं शिष्यस्य वक्ष्यमाणत्वात् ॥२०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रेयःसु **स्वापेक्षया विद्यादिभिर् अधिकेषु आचार्येष्व् इति (आर्येष्व् इति) गुरुपुत्रविशेषणम् । अनेन विशेषणेन स्वापेक्षायाधिकवयस्केषु स्वसमानजातिषु उत्कृष्टजातिषु परमावस्थेषु च गुरुपुत्रेषु **गुरुवद् वृत्तिम् आचरेद्** इत्य् अभिप्रायो मनोर् बोध्यः । **गुरोश् चैव स्वबन्धुषु** गुरोः पितृव्यादिषु ॥ २.२०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

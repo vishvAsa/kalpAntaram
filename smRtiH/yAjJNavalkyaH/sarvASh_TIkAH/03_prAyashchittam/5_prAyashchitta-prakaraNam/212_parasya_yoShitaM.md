@@ -1,6 +1,7 @@
 +++
 title = "212 परस्य योषितं"
 +++
+
 <details><summary>मूलम्</summary>
 
 परस्य योषितं हृत्वा  
@@ -16,9 +17,9 @@ _किं च ।_
 > **परस्य योषितं हृत्वा ब्रह्मस्वम् अपहृत्य च । ३.२१२अब्**  
 > **अरण्ये निर्जले देशे भवति ब्रह्मराक्षसः ॥ ३.२१२च्द्**
 
-[४५]यः परदारान् अपहरति, ब्रह्मस्वं च सुवर्णव्यतिरिक्तम् अपहरति, असाव् अरण्ये निर्जले देशे ब्रह्मराक्षसो भूतविशेषो जायते ॥ ३.२१२ ॥
+[^४५]यः परदारान् अपहरति, ब्रह्मस्वं च सुवर्णव्यतिरिक्तम् अपहरति, असाव् अरण्ये निर्जले देशे ब्रह्मराक्षसो भूतविशेषो जायते ॥ ३.२१२ ॥
 
-[४५]: In place of the actual commentary, NSP mistakenly puts here part of the commentary on 3.213: hīnajātau hemakārākhyāyāṃ pakṣijātau pararatnādyapahārako jāyate | nirjale deśe brahmarākṣaso bhūtaviśeṣo jāyate |
+[^४५]: In place of the actual commentary, NSP mistakenly puts here part of the commentary on 3.213: hīnajātau hemakārākhyāyāṃ pakṣijātau pararatnādyapahārako jāyate | nirjale deśe brahmarākṣaso bhūtaviśeṣo jāyate |
 </details>
 
 <details><summary>विश्वरूपः</summary>

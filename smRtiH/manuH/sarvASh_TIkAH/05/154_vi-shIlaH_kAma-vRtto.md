@@ -57,6 +57,20 @@ the permission of her father, husband or son performs a penance, it becomes futi
 perform penances only with the permission of her husband.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ दानप्रभृति या तु स्याद्यावदायुः पतिव्रता ।**
+
+**भर्तृलोकं न त्यजति यथवारुन्धती तथा ॥२१॥ \]**
+
+सदाचारशुन्यः स्त्र्यन्तरानुरक्तो वा विद्यादिगुणहीनो वा तथापि साध्व्यास्त्रिया देववत्पविराराधनीयः ॥१५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विशील** इति । दुराचारो भार्यान्तरासक्तो वा विद्यानुष्ठानादिवर्जितो वा तथापि **साध्व्या स्त्रिया** सर्वदा देव इव **पतिर्** आराधनीयः ॥ ५.१५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 154	Though destitute of virtue, or seeking pleasure (elsewhere), or devoid of good qualities, (yet) a husband must be constantly worshipped as a god by a faithful wife.

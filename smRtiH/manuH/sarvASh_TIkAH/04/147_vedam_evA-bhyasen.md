@@ -48,11 +48,20 @@ elder superior to the mother; there is no friend superior to charity,—either h
 *Āpastamba Dharmasūtra* (1.14.12).—‘There is no refuge beyond the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नित्यकृत्यावसरे श्रेयोहेतुतया प्रणवगायत्र्यादिकं वेदमेवानलसो जपेत् । यस्मात्तं ब्राह्मणस्य श्रेष्ठं धर्मं मन्वादयो वदन्ति । अन्यः पुनस्ततोऽपकृष्टोधर्मो मुनिभिरुच्यते । उक्तस्यैव वेदाभ्यासादेः पूर्वजाविस्मरणद्वारेण मोक्षहेतुत्वं वदितुं पुनरभिधानम् ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदम् एव जपेन् नित्यम्** इति । यस्मिन् यस्मिन् काले दृष्टार्थकर्मोपरोधो भवति तत्र नित्यं **वेदम् एवा**नलसः सन् **जपएत् **। यस्मात् तं ब्रह्मणस्य **परं धर्मं **मन्वादय **आहुः** । तदन्यस् त्व् अमुख्यो धर्मस् तैर् **उच्यते **॥ ४.१४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	Let him, without tiring, daily mutter the Veda at the proper time; for they declare that to be one's highest duty; (all) other (observances) are called secondary duties.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

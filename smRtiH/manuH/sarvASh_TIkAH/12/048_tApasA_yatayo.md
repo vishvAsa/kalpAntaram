@@ -46,6 +46,16 @@ This verse is quoted in *Aparārkā* (p. 999);—in *Madanapārijāta* (p. 694);
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वानप्रस्थाः, भिक्षवः, ब्राह्मणाश्च, अप्सरसो व्यतिरिक्ताः पुष्पकादिविमानचारिणः, नक्षत्राणि, दैत्याश्चेत्येषा सत्त्वनिमित्ताऽधमा गतिः॥४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तापसा **इति । वानप्रस्था भिक्षवो ब्राह्मणाः पुष्पकादिविमानचारिणो ये देवविशेषाः नक्षत्राणि दैत्याख्या जातिविशेषाश् चेत्य् एषा सत्त्वनिमित्ता निकृष्टा गतिः तापस्यादिकर्माश्रयत्वात् सापि सत्त्वादिगुणनिमित्तकम् एव इति चेत् तत् तापसा इत्य् अनेन दर्शयति । न तु तापसजातियतिजातिर् वा विद्यते – सन्ति वैतिहासिकदृष्ट्या मेर्वादिवासिनो जातिविशेषा यतिप्रभृतयः । श्रूयते च “इन्द्रो यतीन् सालावृकेभ्यः प्रायच्छत्” इति ॥ १२.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	Hermits, ascetics, Brahmanas, the crowds of the Vaimanika deities, the lunar mansions, and the Daityas (form) the first (and lowest rank of the) existences caused by Goodness.

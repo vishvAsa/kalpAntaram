@@ -51,11 +51,20 @@ It is quoted in *Aparārka* (p. 507);—in *Hemādri* (Śrāddha, p. 1451) to th
 etc*., he shall turn towards the north and restrain his breath.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनन्तरमुपस्पृश्योदङ्मुखो भूत्वा यथाशक्ति प्राणायामत्रयं कृत्वा "वसन्ताय नमस्तुभ्यम्” इत्यादिना षड्ऋतून्नमस्कुर्यात् । पितृश्च “नमो वः पितर" इत्यादिमन्त्रयुक्तम् “अभिपर्यावृत्त्य" (अ. ४ खं ८ ) इति गृह्यदर्शनाद्दक्षिणामुखो नमस्कुर्यात् ॥२१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचम्योदक्परावृत्येति **। तद् अनूपस्पृश्य **आचम्यो**दङ्मुखः यथाशक्ति त्रीन् प्राणायामान् कृत्वा “वसन्ताय नमः” इति **षडृतून् नमस्कुर्यात्** । **पितॄन् च **पितॄंश् च “नमो वः पितरः” इत्य् एवमादि मन्त्रयुक्तं कृत्वा “अभिपर्यावृत्त्या” इति (म्ध् ४.१) गृह्यदर्शनात् दक्षिणाभिमुखो भूत्वा नमस्कुर्यात् ॥ ३.२१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 217	Having (next) sipped water, turned round (towards the north), and thrice slowly suppressed his breath, (the sacrificer) who knows the sacred texts shall worship (the guardian deities of) the six seasons and the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

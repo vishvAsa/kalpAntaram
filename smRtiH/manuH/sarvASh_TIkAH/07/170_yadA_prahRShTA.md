@@ -36,6 +36,16 @@ slay his foe, even though swelling with power,—then alone should he start on a
 Do. (15.19).—‘Of internal and external defects, the internal is the graver. Amending the internal defects and providing necessary measures for the removal of the external ones, the king shall set out on the expedition.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदाऽमात्यादिकाः सर्वाः प्रकृतीर्दानसंमानाद्यरतीव तुष्टा मन्येत, आत्मानं च हस्त्यश्वकोशादिशक्तित्रयेणोपचितं तदा विग्रहमाश्रयेत् ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदेति **। यदामात्यादिकाः सर्वाः प्रकृतीः दानमानादिनात्यन्तं परितुष्टाः मन्येत, आत्मानं च प्रभूतमन्त्रोत्साहशकत्यदिनोच्छ्रितं तदा विग्रहम् अध्यवस्येत् ॥ ७.१७० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 वि[ग्रहार्थं दण्डादिसंपदाभ्युच्चि]तः स संतुष्टोपगृहीतप्रकृतिः संधिविग्रहं कुर्यात् ॥ ७.१७० ॥

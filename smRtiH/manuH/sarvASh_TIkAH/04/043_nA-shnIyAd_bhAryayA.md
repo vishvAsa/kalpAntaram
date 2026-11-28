@@ -119,11 +119,20 @@ harm in a man eating with his own wife, or her leavings.’
 *Smṛtyarthasāra* (Do.).—‘He shall not eat with his wife.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भार्यया सहकपात्रे नाश्नीयात् । एनां च भुञ्जानां क्षतं जृम्भां व कुर्वतींयथासुखं निर्यन्त्रणप्रदेशावस्थितां च नेक्षेत ॥४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्नीयाद्** इति । **भार्यया **सह नाद्यात् यत् पुनः “नित्यम् आस्यं शुचि स्त्रीणाम्” (५.१३०) इति तत् “स्त्रियश् च रतिसंसर्गे” इति गौतमस्मरणात् रतिकालविषयम् एव । न चाप्य् एनां भुञ्जानां **क्षुवन्तीं **वायुना चास्यविकासं कुर्वाणां प्रसृतचरणत्वादिना वा अनियन्त्रणावस्थां पश्येत् ॥ ४.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	Let him not eat in the company of his wife, nor look at her, while she eats, sneezes, yawns, or sits at her ease.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

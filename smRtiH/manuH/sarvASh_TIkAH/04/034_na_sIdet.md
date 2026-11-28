@@ -42,11 +42,20 @@ nor with a woman in her courses.’
 *Viṣṇu* (72.9).—\[Same as Gautama.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यादियोगात्प्रतिग्रहशक्तोऽपि स्नातको ब्राह्मण उक्तराजप्रतिग्रहादिलाभे सति न क्षुधावसन्नोभवेत् । न च धने सम्भवति जीर्णे मलिने च वाससी बिभृयात् ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । स्नातको ब्राह्मणो विद्वत्त्वात् प्रतिग्रहसमर्थो राजादिधनसम्भवे सति क्षुधावसादं न कदाचिद् गच्छेत् । न च सम्भवे जीर्णमलिनवसनः स्यात् ॥ ४.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	A Snataka who is able (to procure food) shall never waste himself with hunger, nor shall he wear old or dirty clothes, if he possesses property.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

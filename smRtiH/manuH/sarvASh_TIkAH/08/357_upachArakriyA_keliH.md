@@ -57,11 +57,19 @@ Do. (Vivādaratnākara, p. 380).—‘Sending such presents as perfumes and garl
 the intention of having intercourse with a woman, all such are declared to he reprehensible, as being conducive to the fulfilment of illicit love. If a man sends presents to the woman, or meets her at unreasonable hours and improper places, or touches her neck or hair or clothes, ears, nose, hands or other parts of the body,—if he sits with her and dines with her on the same seat,—all this has been declared by the sages to be Adultery. All such acts as sending presents of perfumes, garlands and clothes, and sending letters to her, should be regarded as indicative of Adultery.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्रग्गन्धानुलेपनप्रेषणाद्यापचारकरणं, केलिः परिहासालिङ्गनादिः, अलंकारवस्त्राणां स्पर्शनम्, एकखट्वासनमित्येतत्सर्व संग्रहणं मन्वादिभिः स्मृतम् ॥३५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपकारक्रिया केलिर्** इति । **सह खट्वासनम्** इति । अङ्गानुलेपनाद्युपचारकरणं क्रीडा अलङ्करणवाससां स्पर्शनम् । एकखट्वासनं एकयानगमनम् इत्य् एतत् सर्वं सङ्ग्रहणं मन्वादिभिः स्मृतम् ॥ ८.३५७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **भूषणवाससाम्** उपदेशात् स्त्रीगतानां पुरुषगतानां च स्पर्शनाद् उभयापराधः । यच् चान्यत् स्निग्धदृष्टिनिपातनाङ्गविकारादि तद् अपि संग्रहणम् एव विज्ञेयम् ॥ ८.३५६ ॥
-
-_इदं चान्यत् ।_
 </details>
 
 <details><summary>Bühler</summary>

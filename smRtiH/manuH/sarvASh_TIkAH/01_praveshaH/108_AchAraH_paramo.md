@@ -26,11 +26,15 @@ Morality [Right Behaviour] is highest Dharma; that which is prescribed in the ś
 *Vaśiṣṭha*, 6.1-5.—(Same as Manu.)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**आचार** इति । यः **श्रुत्युक्तः आचारः **पुरुषसाधारणप्राधान्यख्यापनार्थं स धर्माख्यः, यश् च **स्मार्तः** स **परमः **पर्क्ēष्ट्तो **धर्मः **परमो ज्योतिष्टोमाष्टकादिभ्यः श्रौतस्मार्तधर्मेभ्यः यतः तस्मात् यो **नित्यं** प्रशस्तात्मा आचारे सर्वकाले **युक्तो** यत्नवान् स्यात् ॥ १.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

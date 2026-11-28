@@ -113,6 +113,23 @@ together with its subsidiaries, know how to draw inferences from it, and are abl
 shall regulate his course of action according to the conduct which is unanimously recognised in all countries by men of the three twice-born castes, who have been properly obedient to their teachers, who are aged, of subdued senses, free from avarice and hypocrisy.” Acting thus he will gain both worlds. Some people say that the remaining duties must be learnt from women and from men of all castes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मचर्याद्युक्तधर्मेण यैरङ्गमीमांसाधर्मशास्त्रपुराणाद्युपबृंहितो वेदोऽधिगतस्ते ब्राह्मणाः श्रुतेः प्रत्यक्षीकरणे हेतवः, ये श्रुतिं पठित्वा तदर्थमुपदिशन्ति ते शिष्टा विज्ञेयाः॥१०९॥
+
+**दशावरा वा परिषद्यं धर्मं परिकल्पयेत्।  
+त्र्यवरा वापि वृत्तस्था तं धर्मं न विचालयेत्॥११०॥  
+\[पुराणं मानवो धर्मो साङ्गोपाङ्गचिकित्सकः।  
+आज्ञासिद्धानि चत्वारि न हन्तव्यानि हेतुभिः॥९॥\]**
+
+यदि बहवः सन्तोऽवहिता न भवन्ति तदा दशावरास्त्र्यवराश्चेति वक्ष्यमाणलक्षणा यस्याः सा परिषत् तदभावे त्रयोऽवरा यस्याः सा वा सदाचारा यं धर्मं निश्चिनुयात्तं धर्मत्वेन स्वीकुर्यान्न विसंवदेत्॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धर्मेनाधिगत** इति । ब्रह्मचर्योक्तेतिकर्तव्यतया यैर् अङ्गमीमांसाधर्मशास्त्रपुराणाद्युपबृंहकस्हितो वेदो ऽधीतस् ते ब्राह्मणाः वेदगोचरपदार्थोपदेशकारणभूताः शिष्टा विज्ञेयाः ॥ १२.१०९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **सपरिबृंहणः** साङ्ग इत्य् अर्थः । अथ वा मीमाम्सान्यायविस्तरधर्मशास्त्रपुराणैर् अङ्गैश् च सह वेदः **सपरिबृंहण** उच्यते । एवं च व्याख्यायमाने प्रकरणान् व्यायसंपरिग्रहः कृतो भवति, विद्याबहुत्वस्य च मीमांसादिग्रहणेन । तदभावे ॥ १२.१०९ ॥

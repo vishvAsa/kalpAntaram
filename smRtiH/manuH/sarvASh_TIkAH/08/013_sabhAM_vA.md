@@ -54,6 +54,16 @@ all, or a fair opinion should be delivered. That man who stands mute or delivers
 opinion, ignoring the true state of the case, resembles a blind man who, regardless, swallows fish together with the bones.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सभामवगम्य व्यवहारार्थं तत्प्रवेशो न कर्तव्यः ।पृष्टश्चेत्तदा सत्यमेव वक्तव्यम् । अन्यथा तूष्णीमवतिष्ठमानो मृषा वा वदन्नुभयथाऽपि सद्यः पापी भवति । मेधातिथिना तु**“सभा वा न प्रवेष्टव्या”**इति ऋज्वेव पठितम् ॥ १३ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सभां वा न प्रवेष्टव्येति **। व्यवहारदर्शनार्थं **सभा न प्रवेष्टव्या** । प्रविष्टश् चेत् तदा सत्यं वक्तव्यम् । अथ वा तूष्णीम् आसीनो विरुद्धं वा ब्रुवन् सभ्य एव एनस्वी भवति ॥ ८.१३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **सभा व न प्रवेष्टव्या वक्तव्यं वा समञ्जसम् ।**
@@ -63,8 +73,6 @@ opinion, ignoring the true state of the case, resembles a blind man who, regardl
 > **अब्रुवन् विब्रुवन् वापि नरो भवति किल्बिषी  ॥ ८.१३ ॥**
 
 न केवलं विब्रुवन् किल्बिषी भवति, किं तर्हि अब्रुवन्न् अपि । अतो न "सभ्यैर् अयम् उपेक्षणीयो ऽन्यथा पश्यन् राजप्रकृतो ऽयं करोत्य् एवम्, तद् एवं न वयम्" इति नात्रौदासीन्याद् यूयम् उच्यध्वम् ॥ ८.१३ ॥
-
-_तथा चाहुः ।_
 </details>
 
 <details><summary>Bühler</summary>

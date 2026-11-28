@@ -46,11 +46,20 @@ nails clipped,—he shall not eat in the presence of his wife, nor with only one
 colouring; also what is naturally black. He shall wear only such cloth as may not be obtrusive.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कल्पनं छेदनं लूनकेशनखश्मश्रुः तपःक्लेशसहो दान्तः शुक्लवासा बाह्याभ्यन्तरशौचसम्पन्नो वेदाभ्यासयुक्त औषधोपयोगादिना चात्महितपरः स्यात् ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृतकेशनखश्मश्रुर्** इति । लूनकेशनखश्मश्रुः शमवान् शुक्लवासाः बाह्याभ्यन्तरशौचोपेतः वेदाभ्यासशीलः औषधोपयोगादिरतः स्यात् ॥ ४.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

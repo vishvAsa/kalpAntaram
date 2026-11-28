@@ -55,6 +55,16 @@ transaction in question,—‘*bāliśya*’ means ‘majority just attained’,
 See Comparative notes for [Verse 8.118].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीसंभोगरूपकामानुरोधेन मिथ्यावदन्प्रथमसाहसं दशगुणं दण्डयः । क्रोधेन तु परं मध्यमसाहसं त्रिगुणं वक्ष्यमाणं, अज्ञानत्वाद् द्वे शते, बालिश्यादनवधानात्पणशतमेव दण्डय इति सर्वत्रानुषङ्गः ॥१२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कामाद्** इति । कामेनानृतं वदन् प्रथमसाहसं दशगुणं दण्ड्यः । क्रोधेनोत्तमसाहसं वक्ष्यमाणं त्रिगुणम् । अज्ञानेन द्वे शते पणे सम्पूर्णे मअर्ख्येण शतम् एव च ॥ ८.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	(He who does it) through lust, (shall pay) ten times the lowest amercement, but (he who does it) through wrath, three times the next (or second amercement); (he who does it) through ignorance, two full hundreds, but (he who does it) through childishness, one hundred (panas).

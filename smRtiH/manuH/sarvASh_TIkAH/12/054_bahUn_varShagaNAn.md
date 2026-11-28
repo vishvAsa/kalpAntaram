@@ -53,6 +53,16 @@ Like flaming fire, Actions also are prone to become strong and weak; when they a
 See Comparative notes for [Verse 12.53].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्महत्यादिमहापातककारिणो बहून्वर्षसमुहान् भयङ्करान्नरकान्प्राप्य तदुपभोगक्षयाद् दुष्कृतशेषेण वक्ष्यमाणान् जन्मविशेषान्प्राप्नुवन्ति॥५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बहून्** इति । ब्रह्महत्यादिमहापातककारिणो बहून् वर्षसमूहान् भीषणान् नरकान् प्राप्य दुष्कृतक्षयाद् ईषद्दुष्कृतशेषेणेमा वक्ष्यमाणा योनीः प्राप्नुवन्ति ॥ १२.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	Those who committed mortal sins (mahapataka), having passed during large numbers of years through dreadful hells, obtain, after the expiration of (that term of punishment), the following births.

@@ -51,11 +51,20 @@ worshipped the gods, he shall, with their permission, perform the worship of the
 Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आरक्षो रक्षा तेषां पितॄणां रक्षाभूतं दैवं विश्वेदेवब्राह्मणं पूर्वं निमन्त्रयेत् ।यस्माद्रक्षावर्जितं श्राद्धं राक्षसा आच्छिन्दन्ति ॥२०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । पितॄणां रक्षाभूतम्, गृह्यदर्शनात् विश्वान् देवान् उद्दिश्य **पूर्वं** ब्राह्मणं निमन्त्रयेत् । यस्माद् रक्षोदर्शितं श्राद्धं **रक्षांस्य्** आच्छिन्दन्ति यस्माद् रक्षाभूतं पित्र्यस्य दैवं तस्मात् ॥ ३.२०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

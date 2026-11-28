@@ -52,6 +52,17 @@ the smoke issuing from a dead body, and swimming in the river; also standing upo
 grass or a heap of pebbles.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दीर्घमायुर्जीवितुमिच्छुःकेशादीन्नाधिरोहत् । भग्नमृन्मयभाजनशकलानि
+कपालिकाः॥७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधितिष्ठेद्** इति । **दीर्घम् आयुर् **जीवितुम् इच्छुः केश**भस्मास्थिकपालिकाः कार्पास**बीजतुषान् नाधिरोहेत् ॥ ४.७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.

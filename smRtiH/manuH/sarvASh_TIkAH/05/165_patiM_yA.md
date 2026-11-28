@@ -55,6 +55,16 @@ See Comparative notes for [Verse 5.154].
 well-behaved, with senses under control, attains fame in this world and the supreme state, after death.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मनोवाग्देहसंयतेति विशेषणोपादानात् या मनोवाग्देहैरेव भर्तारं न व्यभिचरति सा भर्तृमात्रनिष्ठमनोवाग्देहव्यापारत्वाद्भर्त्रा सहार्जिर्तोल्लोकान्प्राप्नोति। इह च शिष्टैःसाध्वीत्युत्र्यते। वाङ्मनसाभ्यामपि पतिं न व्यभिचरेदिति विधानार्थो दैहिकत्र्यभिचारनिवृत्तेरुकाया अप्यनुवादः॥१६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**या मनोवाग्देह**संयुता सती तैर् वाग्मनोदेहैः पतिं न व्यभिचरति सा भर्त्रा सह अर्जितान् स्वर्गादिलोकान् प्राप्नोतीह विशिष्टैः साध्वीत्य् उच्यते । इति वाङ्मनसनिरासार्थं मुक्तं पुनर्वचनम् ॥ ५.१६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 165	She who, controlling her thoughts, words, and deeds, never slights her lord, resides (after death) with her husband (in heaven), and is called a virtuous (wife).

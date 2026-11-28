@@ -78,11 +78,20 @@ the pupil shall give to the teacher the fee that he can, and then, permitted by 
 syllable,—there is nothing on earth by giving which he would be free from the debt to him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उपकुर्वाणस्यायं विधिः, नैष्ठिकस्य स्नानासम्भवात् । गुरुदक्षिणादानं धर्मज्ञो, ब्रह्मचारी स्नानात्पूर्वं किचिद्रोवस्त्रादि धनं गुरवे नावश्यं दद्यात् । यदि तु यदृच्छातो लभते तदा गुरवे दुद्यादेव । अत एव स्नानात्पूर्व गुखे दानमाह आपस्तम्बः— "यदन्यानि द्रव्याणि यथालाभमुपहरति दक्षिणा एव ताः स एव ब्रह्मचारिणो यज्ञो नित्यव्रतम्" इति । स्त्रास्यन्पुनर्गुरुणा दत्ताज्ञो यथाशक्ति धनिनं याचित्वाऽपि प्रतिग्रहादिनापि गुरखेऽर्थमा हत्यावश्यं दद्यात् ॥२४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न पूर्वम्** इति । स्नानपूर्वम् अगृहीतवेदः शिष्यो धनम् आहरन् यथा (यदा) न (धनं विना) अध्यापयामीत्य् एवं गुरुणादिष्टः न किञ्चिद् अपि गुरवे दद्यात्, भृतकाध्यापकत्वप्रसङ्गात् । अत एवाह **धर्मवित्** । अपणपूर्वत्वे ऽनिषेधः “धर्मार्थौ यत्र न स्याताम्” इत्य् उक्तत्वात् । तथा च आपस्तम्बः- “यदाचार्यं भोजयित्वा शेषम् अन्नम् अश्नाति हविर् उत्कृष्टम् एव तत् यद् अन्यानि द्रव्याणि यथालाभम् उपहरति दक्षिणा एव वा स एष ब्रह्मचारिणो यज्ञो नित्यप्रयतः” इति । स्नानं पुनः कर्तुम् इच्छन् समावर्तनकाले इमम् अर्थम् आहरेत्य् एवं गुरुणादिष्टः यथाशक्ति अवश्यं गुर्वर्थम् आहरेत् तदानीं भृतकाध्यापितत्वासम्भवात् ॥ २.२४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -32,11 +32,20 @@ This verse is quoted in *Gadādharapaddhati* (Kāla, p. 526), which explains ‘
 the annual Śrāddha to individual ancestors,—if one performs other five sacrifices, he surely goes to hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवानुद्दिश्य यत्क्रियते तद्देवकार्यम् । ततः पितृकार्यंद्विजातीनां विशेषेण कर्तव्यमुपदिश्यतो अनेन पितृश्राद्धस्य प्राधान्यं, दैवं तत्राङ्गमित्याह । एतदेव स्पष्टयति— यतो दैवं कर्म पितृकृत्यस्य पूर्वं सदाप्यायनं परिपूरकं स्मृतम् ॥२०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवकार्याद्** इति । दैवस्य देवकर्मणः सकाशात् पित्र्यं कर्म द्विजातीनां विशेषेण कर्तव्यतयोपदिश्यते । प्रधानं हि तत् यस्मात् दैवकर्म पितृकर्मणः पूर्व सत् परिपूरकं स्मृतम् । एवं च तस्य पितृकार्यपरिपूरकवद् अङ्गत्वम् इति ॥ ३.२०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 203	For twice-born men the rite in honour of the manes is more important than the rite in honour of the gods; for the offering to the gods which precedes (the Sraddhas), has been declared to be a means of fortifying (the latter).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

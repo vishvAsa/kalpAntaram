@@ -37,6 +37,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 248), which explains �
 See Comparative notes for [Verse 7.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राष्ट्रस्य रक्षणे च वक्ष्यमाणमिममुपानमनुतिष्ठेत् ।यस्मात्संरक्षितराष्ट्रो राजाऽनायासेन वर्धते ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं चैतद् दोषपरिजिहीर्षयाह **राष्ट्रस्येति **। राष्ट्रसंरक्षणे सर्वदा वक्ष्यमाणम् उपायं कुर्यात् । यस्मात् सुसंरक्षितराष्ट्रो राजा यत्नेन वर्धते ॥ ७.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	In governing his kingdom let him always observe the (following) rules; for a king who governs his kingdom well, easily prospers.

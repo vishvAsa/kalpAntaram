@@ -45,11 +45,24 @@ This verse is quoted in *Gadādharapaddhati* (Kāla, pp. 52 and 129), which says
 See Comparative notes for [Verse 5.152].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ पत्यौ जीवति या तु स्त्री उपवासं व्रतं चरेत् ।**
+
+**आयुष्यं हरते भर्तुः नरकं चैव गच्छति ॥२२॥ \]**
+
+यथा भर्तुः कस्याश्चित्पत्न्या रजोयोगादिना अनुपस्थितावपि पत्न्यन्तरेण यज्ञनिष्पत्तिः तथा न स्त्रीणां भर्त्राविना यज्ञसिद्धिः । नापि भर्तुरनुमतिमन्तरेण व्रतोपवासौ, किंतु भर्तृपरिचर्ययैव स्त्री स्वर्गलोके पूज्यते ॥१५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यथा भर्तृर् भार्यान्तरम् अवलम्बनेन यज्ञकरणम् अस्ति, नैवं भर्तारं विना स्त्रीणां यज्ञो ऽस्ति, न च तदनुज्ञातानां कृच्छ्रादिर् उपवासो विद्यते । किं तर्हि । भर्तृपरिचरणेन स्वर्गे महिमानं प्राप्नोमि । तस्मात् परलोकोपयान्तरं यस्माच् च भावात् ॥ ५.१५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 155	No sacrifice, no vow, no fast must be performed by women apart (from their husbands); if a wife obeys her husband, she will for that (reason alone) be exalted in heaven.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

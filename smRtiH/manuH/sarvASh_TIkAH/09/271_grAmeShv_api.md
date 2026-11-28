@@ -45,6 +45,11 @@ refuge with them, or who suffer them to escape, though able to arrest them, part
 Do. (Theft: 13-14).—‘Those who give food to thieves, as well as those who supply them with fire or water, or who give shelter, or show the way to them, or make their defence, or who buy their goods, or receive their goods, or those who hide them are held to be as punishable as the thieves themselves.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्रामादिष्वपि ये केचिच्चौराणां चौत्वंज्ञात्वा भक्ता, चौर्योपयुक्तभाण्डादि गृहावस्थं ये ददति तानपिनैरन्तर्याश्चापराधगोचरापेक्षया घातवेत् ॥ २७१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 विचार्य प्रत्यक्षागमानुमानैः प्रमाणैः । येनाविज्ञानाद् अपि ह्य् एतत् सर्वं भवति ॥ ९.२७१ ॥

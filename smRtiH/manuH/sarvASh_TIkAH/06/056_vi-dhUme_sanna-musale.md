@@ -54,6 +54,20 @@ the house have had their meal and when the dishes have been removed.’
 shall beg for pure food daily in the evening.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पाकधूमे, निवृत्तावहननमुसले, निर्वाणपाकाङ्कारे, गृहस्थपर्यन्तभुक्तवज्जने, उ. त्यक्तेषु सर्वदा यतिभिक्षां चरेत्। एतच्च दिनशेषमुहूर्तत्रयरूपसायाह्णोपलक्ष ऽऽह याज्ञवल्क्यः—
+
+** अप्रमत्तश्चरेद् भैक्ष्यं सायाह्णेनाभिसन्धितः।**
+
+(या. स्मृ. ३-५९)॥५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विधूम** इति । विगतधूमे काले निवृत्तमुसलावहननेषु पाकज्वालासूपशान्तासु गृहस्थपर्यन्तेषु जनेषु कृतभोजनेषु उच्छिष्टशरावेषु त्यक्तेषु सर्वदा यतिर् भिक्षां चरेत् ॥ ५.५६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 056	When no smoke ascends from (the kitchen), when the pestle lies motionless, when the embers have been extinguished, when the people have finished their meal, when the remnants in the dishes have been removed, let the ascetic always go to beg.

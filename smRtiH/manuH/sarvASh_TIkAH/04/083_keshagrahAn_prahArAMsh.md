@@ -36,6 +36,11 @@ This verse is quoted in *Aparārka* (p. 183), which construes the second line to
 *Viṣṇu* (64.12).—‘He shall not touch the oiled limb.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**केशग्रहान् **इति । केशग्रहणप्रहारौ** **कोपेन मूर्धनि न कुर्यात् । सशिरस्कः** स्नातः** **तैलेन किञ्चिद् अप्य् अङ्गं स्पृशेत् **॥ ४.८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 083	Let him avoid (in anger) to lay hold of (his own or other men's) hair, or to strike (himself or others) on the head. When he has bathed (submerging) his head, he shall not touch any of his limbs with oil.

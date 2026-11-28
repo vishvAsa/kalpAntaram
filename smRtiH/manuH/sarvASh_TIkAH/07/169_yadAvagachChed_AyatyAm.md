@@ -35,6 +35,16 @@ When he knows that ‘this king is equal to me in strength—or I may be weaker 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), which adds the following notes:—‘*āyatyam*,’ ‘in the future,’—‘*ādhikyam*,’ ‘superiority of force,’—‘*tadātve*,’ ‘at the time.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदा युद्धोत्तरकाले निश्चितमात्मन आधिक्यं जानीयात्तदात्वे तत्कालेऽल्पचनाद्यपक्षयः तदा त्वल्पमङ्गीकृत्यापि संधिमाश्रयेत् ॥१६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदावगच्छेद् आयत्याम् आधिकं ध्रुवम् आत्मन** इति । यदागामिनि काल आत्मनो निश्चितम् आधिकं मन्येत, साम्प्रतिकश् चाल्प उपक्षयस् तदापक्षयम् अङ्गीकृत्याधिसन्धिम् एवाश्रयेत् ॥ ७.१६९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आयत्यपेक्षय्**आल्पिकां पीडां **कृत्वा**त्मनः संधिं समाश्रयेत्** ॥ ७.१६९ ॥

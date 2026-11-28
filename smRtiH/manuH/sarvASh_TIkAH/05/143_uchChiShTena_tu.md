@@ -78,11 +78,20 @@ metal-vessel, he shall put it down, sip water and sprinkle it, when he is going 
 impure substance, then he shall place that thing on the ground, sip water and then use it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्रव्यहस्तपदेन शरीरसंबन्धमात्रं द्रव्यस्य विवक्षितम् । आमणिबन्धात्पाणि प्रक्षाल्येति द्रव्यहस्तस्याचमनासंभवात्स्कन्धादिस्थितद्रव्यो यद्यच्छिष्टेन संस्पृष्टो भवति, तदा द्रव्यमनवस्थाप्यैव कृताचमनः शुद्ध्यति, द्रव्यं च शुद्धं भवति ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उच्छिष्टेनेति** । गृहीतद्रव्यः सन् यद्य् उच्छिष्टेन स्पृष्टो भवति तदा द्रव्यम् अवस्थापैतत् कृताचमनः शुद्धित्वं प्राप्नोति ॥ ५.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	He who, while carrying anything in any manner, is touched by an impure (person or thing), shall become pure, if he performs an ablution, without putting down that object.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

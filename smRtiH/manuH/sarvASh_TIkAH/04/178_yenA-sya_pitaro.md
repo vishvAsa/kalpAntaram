@@ -51,11 +51,20 @@ It may be that what is meant is that, in the matter of optional alternatives, on
 its ways; all we do is that we follow the footsteps of our forefathers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बहुविधशास्त्रार्थसम्भवे पितृपितामहाधनुष्ठित एव शास्त्रार्थोऽनुरातव्यः । तेन गच्छन् न रिष्यते नाधर्मेण हिंस्यते ॥१७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+द्विधावाक्यार्थप्रतिभाने वैकल्पिकपदार्थेषु वा य एव पितृपितामहादिभिः तस्यानुसृतो मार्गः यद् एव तैर् अनुष्ठितं तेनैव (तम् एव) साधुमार्गम् अनुसरेत् तद् एवाचरेत्, तद् आचरन् धर्मेण न हिंस्यते ॥ ४.१७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

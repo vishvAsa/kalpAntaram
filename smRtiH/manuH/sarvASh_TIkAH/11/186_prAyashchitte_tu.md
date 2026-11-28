@@ -12,17 +12,13 @@ If however the expiation has been performed, they shall bathe with him in a sacr
 
 कृतप्रायश्चित्तस्येदनीम् उदकक्रियोच्यते । **तेनैव सार्धं स्नात्वा जलाशये पुण्ये** स्रवन्त्यां[^३०१] महाह्रदे वा प्रभासमानसादौ वा तीर्थविशेषे कृतस्नानो **ऽपां कुम्भं नवं** स्वयं **प्रास्येयुः** । 
 
-
 [^३०१]:
      M G J: puṇyasravantyāṃ (my reading is conjectural, but it appears to be a citation of the term from the root text)
 
 - **नवकुम्भ**ग्रहणाद्[^३०२] दासीग्रहणाच् चात्र पूर्वत्रोपयुक्तस्य क्रियासु कुम्भस्य ग्रहणम् । उदकेन पूरयित्वा हरणम् उक्तम् ॥ ११.१८६ ॥
 
-
 [^३०२]:
      M G omit: nava-
-
-_पुनर् असौ घटः प्रक्षेप्तव्य इत्य् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -53,6 +49,16 @@ requisite penances, they shall pour a fresh jarful of water; after that they sha
 
 *Vaśiṣṭha* (15.17-20).—‘Outcasts who have performed the prescribed
 penance may be re-admitted. Those who strike their teacher, mother or father may be re-admitted in the following manner: Having filled a golden or an earthen vessel with water from a sacred lake or river, they pour it over him reciting three sacred texts.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+कृते पुनः पतितेन प्रायश्चित्तं सण्डिसमानोदकास्तेनैव कृतप्रायश्चित्तेनसह पवित्रेजलाधारे स्नात्वा जलपूर्णं नवं घटं प्रक्षिपेयुः। इह नवघटग्रहणाद्दासीघटमित्यत्रकृतोपयोगिघटःप्रतीयते॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रायश्चित्त** इति । कृते पुनः पतितेन प्रायश्चित्ते उदकपूर्णं नवं तेनैव प्रायश्चित्तेन सह पवित्रे जलाधारे स्नात्वा तेन सपिण्डसमानोदकाः प्रक्षिपेयुः । इह नवग्रहणाद् दासीघटम् इत्य् अत्रोपयुक्तघटग्रहणं गम्यते ॥ ११.१८५ ॥
 </details>
 
 <details><summary>Bühler</summary>

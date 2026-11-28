@@ -148,11 +148,24 @@ Kapila-Saṃhitā—‘On the eleventh day, in due form, the name should be give
 letter or two letters or three letters or four letters, or of letters without limit; it should be one formed with a verbal, never with a nominal, affix.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादीनां यथाक्रमं मङ्गलबलधननिन्दावाचकानि शुभबलवसुदीनादीनि नामानि कर्तव्यानि ॥३१॥
+
+इदानीमुपपदनियमार्थमाह—'
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+_इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_
+
+तच् च **माङ्गल्यं ब्राह्मणस्येति** । मङ्गलबलधननिन्दाप्रतिपादकानि एषां यथाक्रमं भद्रशक्तिधनदीनकादीनि नामानि स्युः ॥ २.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

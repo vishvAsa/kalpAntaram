@@ -66,11 +66,24 @@ Compare the *Mahābhārata* 13.93.13 *et. seq*.
 Manu\].—‘The remnant of sacrifices is *amṛta*; and the eating of this is equal to the eating of sacrificial food. He who eats the food left over after the servants have eaten, is called the *vighasāśī*; *vighasa* being the food left by servants, and *amṛta*, the remnant of sacrifices.’ *Mahābhārata* (3.2.60).—\[Reproduces Manu\].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वदा विघसभोजनः स्यात्सर्वदा चामृतभोजनो भवेत् । विघसामृतपदयोरप्रसिद्धत्वादर्थं व्याकुरुते विप्रादिभुक्तशेषं विघस उच्यते, दर्शपौर्णमासादियज्ञशिष्टं पुरोडाशाद्यमृतम् । सामान्याभिधानेऽपि प्रकृतत्वाच्छ्राद्धे विप्रभुक्तशेषभोजनार्थोऽयं विधिः । अत एव—
+
+**भुञ्जीतातिथिसंयुक्तः सर्वं पितृनिषेवितम् ।**
+
+इति स्मृत्यन्तरम् \। अतिथ्यादिविशेषभोजनं तु **“अवशिष्टं तु दम्पती”** (म. स्मृ. ३ - ११६) इत्यनेनैव विहितम् । तस्यैव यज्ञशेषतुल्यत्वापादनेन स्तुत्यर्थं पुनर्वचनमिति तु गोविन्दराजव्याख्यानमनुष्ठानविशेषानर्हमप्राकरणिकं च ॥२८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विघसाशीति** । सर्वदा विधसभोजनः स्यात् इत्य् एतत् यज्ञशेषभुक् तुल्यत्वापादनेन स्तुत्यर्थम् अस्य पुनर्वचनम् । सर्वदा च अमृतभोजनः स्यात् । अप्रसिद्धत्वात् विघसामृते निरूपयति अतिथ्यादि**भुक्तशेषं विघसम्** उच्यते । यज्ञावशिष्टं पुरोडाशादि **अमृतम्** इति ॥ ३.२८५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 285	Let him daily partake of the vighasa and daily eat amrita (ambrosia); but vighasa is what remains from the meal (of Brahmana guests) and the remainder of a sacrifice (is called) amrita.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

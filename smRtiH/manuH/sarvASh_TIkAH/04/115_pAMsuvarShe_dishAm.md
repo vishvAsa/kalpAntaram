@@ -50,6 +50,11 @@ jackal, the owl, the Sāma, the arrows (or flute?) or of some one in distress; o
 instruments, or cry of distress,—in the outskirts of the village, or in the cremation-ground, or when there are sounds of the dog, the ass, the owl, the jackal or the Sāma,—it is unfit for study while all this lasts.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पांसुवर्ष** इति । रजोवर्षे दिग्दाहे च यत्र ज्वलिता इव दिशो लक्ष्यन्ते । शृगालश्वखरविरुते पङ्क्त्याकारेण चोपविश्य **द्विजो न पठेत्** ॥ ४.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.

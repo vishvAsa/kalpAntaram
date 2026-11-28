@@ -38,6 +38,13 @@ This verse is quoted in *Madanapārijāta* (p. 106), where the following explana
 away;—if he is far away, he should approach near him;—if he is lying down, he should be saluted.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पराङ्मुखस्य वादिशतः संमखस्थो, दूरस्थस्यगुरोः समीपमागत्य, शयानस्यगुरोः प्रणम्य
+
+ग्रहो भूत्वा, निदेशे निकटेऽवतिष्ठतो गुरोरा दिशतः प्रह्वीभूयैव प्रतिश्रवणसंभाषे कुर्यात् ॥१९७॥
+</details>
+
 <details><summary>Bühler</summary>
 
 197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.

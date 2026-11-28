@@ -79,11 +79,28 @@ teeth, when it is devoid of any taste,—except when it is touched by the tongue
 should be regarded as the teeth; and he should not make much effort to take it out, as if the sticks used wounded him, he would become very impure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अजाश्वं मुखतो मेध्यं गावो मेध्याश्च पृष्ठतः ।**
+
+**ब्राह्मणाः पादतोमेध्याः स्त्रियो मेध्याश्च सर्वतः ॥१७॥**
+
+**गौरमेध्या मुखे प्रोक्ता अजा मेध्या ततः स्मृता ।**
+
+**गोः पुरीषं च मूत्रं च मेध्यमित्यब्रवीन्मनुः ॥१८॥ \]**
+
+मुखभवा विप्रुषो या अङ्गे निपतन्ति ता उच्छिष्ट न कुर्वन्ति तथा मनुलोमानि मुखप्रविष्टानि नोच्छिष्टतां जनयन्ति । दन्तावकाशस्थितं चान्नावयवादि नोच्छिष्टं कुरुते तत्र गौतमीये विशेषः–"दन्ताश्लिष्टेषु दन्तवदन्यत्र जिह्वाभिमर्षणात्प्राक् च्युतेः" इति । एके
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोच्छिष्टम्** इति । मुखनिःसृता विप्रुषो व्यङ्गत्वेन निपतन्ति तदोच्छिष्टं न जनयन्ति । तस्मात् श्मश्रूण्य् आस्यप्रतिष्ठानि दन्तान्तरलग्नं वान्नावयवादि, दन्तश्लिष्टं तु दन्तवद् अन्यत्र जिह्वाभिमर्शनात् प्राक् च्युतेर् इत्य् _एके_ । “च्युतेष्व् आश्राववद् विद्यान् निर्गिरन्न् एव तच्छुचिः” इत्य् एवं गौतमप्रक्रिया नोच्छिष्टं करोति ॥ ५.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	Drops (of water) from the mouth which do not fall on a limb, do not make (a man) impure, nor the hair of the moustache entering the mouth, nor what adheres to the teeth.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -78,6 +78,16 @@ a patricide, if he has arrived at the proper time and place, he should be fed.�
 householder or an accomplished student,—to him he shall offer welcome, water for washing the feet and rinsing the mouth, and seat; as also all the vegetables that may be available; when he departs, he should go with him; thus do his forefathers become pleased; and he should turn hack only when permitted to do so by the guest; if he however stays at the house, he should be duly attended upon.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्नासंभवे पुनस्तृणविश्रामभूमिपादप्रक्षालनाद्यर्थजलप्रियवचनान्यपि धार्मिकगृहेष्वतिव्यर्थ न कदाचिदुच्छिद्यन्ते अवश्यदेयानीति विधीयते । तृणग्रहणं शयनीयोपलक्ष गार्थम् ॥१०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अन्नासम्भवे पुनः **तृणानीति** । **तृणानि **विश्रामभूम्याचमनाद्युदकप्रियसत्यवचनानि साधुगृहेषु अतिथ्यर्थं न कदाचिद् अप्य् **उच्छिद्यन्ते** । अतो ऽन्नाभावे एतान्य् अवश्यं देयानि॥ ३.१०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.

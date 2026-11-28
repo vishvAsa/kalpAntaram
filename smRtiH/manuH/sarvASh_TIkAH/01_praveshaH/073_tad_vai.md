@@ -29,6 +29,16 @@ If it be asked—what happens to the people who know this?—it is added that �
 ‘*Puṇyam*’—Medhātithi takes this not merely as an epithet of ‘*ahaḥ*,’ but as constituting a distinct sentence by itself.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+युगसहस्रेणान्तः समाप्तिर्यस्य तद् ब्राह्ममहस्तत्परिमाणां च रात्रिं ये जानन्ति तेऽहोरात्रज्ञा इति स्तुतिरियम्। स्तुत्या च ब्राह्ममहोरात्रं ज्ञातव्यमिति विधिः परिकल्प्यते। अत एव पुण्यहेतुत्वापुण्यमिति विशेषणं कृतम्॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तद्** इति । युगसहस्रेणान्तो यस्य तत् प्राजापत्यम् अहः तद्वेदनस्य पुण्यहेतुत्वात् **पुण्यं रात्रिं** च तत् परिमाणतो ये विजानन्ति ते **अहोरात्र**ज्ञनिनः, न तु मनुष्याद्यहोरात्रवेदनेनेति । ब्रह्माहर्विज्ञानप्रशंसा तद्वेदनाप्ररोचनार्थम् ॥ १.७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.

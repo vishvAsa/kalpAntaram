@@ -49,6 +49,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), which explains ‘*U
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वास्तुपुरुषस्य शिरःप्रदेश उत्तरपूर्वस्यां दिशि श्रियै बलिं दद्यात् । तस्यैव पाददेशे दक्षिणपश्चिमायां दिशि भद्रकाल्यै । अन्ये तु उच्छीर्षकं गृहस्थशयनस्य शिरःस्थानभूभागं, पादत इति तस्यैवचरणभूप्रदेशमाहुः । ब्रह्मणे वास्तोष्पतय इति गृहमध्ये ।द्वन्द्वनिर्देशेऽपि ब्रह्मवा स्तोष्पत्योः पृथगेव देवतात्वम् । यत्र द्वन्द्वे मिलितस्य देवतात्वमपेक्षितं तत्र सहादिशब्दं करोति । यथा सहद्यावापृथिव्योश्चेति ॥८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उच्छीर्षक** इति । वास्तुपुरुषस्य शिरःप्रदेशे उत्तरपूर्वस्यां दिशि श्रियं तस्यैव पादप्रदेशे दक्षिणपश्चिमायां **भद्रकाल्यै ब्रह्मणे वास्तोष्पतये **चेति गृहमध्ये द्वन्द्वनिर्देशे ऽपि आङ्निर्देशाभावात् देवताद्वयम् ॥ ३.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.

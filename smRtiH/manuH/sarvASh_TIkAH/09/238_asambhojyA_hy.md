@@ -63,6 +63,11 @@ This verse is quoted in *Vivādaratnākara* (p. 635), which adds the following n
 See Comparative notes for [Verse 9.235].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्नादिकं नैते भोजयितव्याः, न चैते याजनीयाः, नाप्येतेऽध्यापनीयाः, नाध्येतैः कन्यादानसम्बन्धः कर्तव्यः। एते च निर्धनत्वाद्याचार्यादिदैन्ययुक्ताःसर्वभौतादिकर्मवर्जिताः पृथिवीं पर्यटेयुः ॥ २३८
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एष एव तेषां त्यागो विज्ञेयः । तद् एव दर्शयति ॥ ९.२३८ ॥

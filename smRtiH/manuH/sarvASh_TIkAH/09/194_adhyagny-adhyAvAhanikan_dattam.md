@@ -68,6 +68,21 @@ son, nor the father, nor the brothers have the right to take away or to spend a 
 interest, and should also pay a fine; if any one makes use of it with her permission, and in a manner agreeable to her, he should repay it, if he has the wealth to do it. Whatever the woman may have lovingly given to any of the above relations during his sickness or when he was in trouble or harassed by creditors,—that also he may voluntarily repay.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अध्यग्नीति "अव्ययं विभक्तिसमीप-" (पा. सू. २-१-६ ) इत्यादिसूत्रेण समीपार्थेऽव्ययीभावः। विवाहकाले अग्निसन्निधौ यत्पित्रादिदत्तं तदध्यग्नि स्त्रीधनम्। तदाह कात्यायनः—
+
+**"विवाहकाले यत्स्त्रीभ्यो दीयते ह्यग्निसन्निधौ।  
+तद्ध्वनि कृतं सद्भिः स्त्रीधनं परिकीर्तितम्॥”**
+
+यत्तु पितृगृहाद्भर्तृगृह नीयमानया लब्धं तदध्यावाहनिकम्। तथा च कात्यायनः—
+
+**"यत्पुनर्लभते नारी नीयमाना तु पतृकात्।  
+अध्यावाहनिकंनाम तत्स्त्रीधनमुदाहृतम्॥"**
+
+यत्तु प्रीतिहेतुकर्मणि भर्त्रादिदत्तं तथा भ्राता पित्रा च समयान्तरे यद् दत्तम्। एवं षट्प्रकारकं स्त्रीधनं स्मृतम्॥ १९४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 षड्विधस्य नियमात् मैत्रलब्धस्य स्त्रीधनत्वं नास्ति । अध्यग्नीयम् अग्निसमीप उह्यमानायै दत्तम् । अध्यावाहनिकं पत्या स्वगृहम् आनीयमानायै दीयते ॥ ९.१९४ ॥

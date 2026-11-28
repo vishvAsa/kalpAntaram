@@ -73,11 +73,21 @@ making gifts, studying, austerities, receiving gifts, teaching and officiating a
 prescribed for him, marrying in families not belonging to the same Ṛṣi-gotra, approaching his wife only during her periods, making offerings to gods, Pitṛs, guests and dependants and feeding on what remains.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परस्यापीडा शिलोञ्छायाचितादिरद्रोहः, ईषत्पीडा याचितादिरल्पद्रोहः, न तु हिंसैव द्रोहः, तस्या निषिद्धत्वात् । अद्रोहेण तदसम्भवेऽल्पद्रोहेण या वृत्तिर्जीवनोपायः तदाश्रयणेन भार्यादिभृत्यपञ्चयज्ञानुष्ठानयुक्तो ब्राह्मणो, न तु क्षत्रियादिरनापदि जीवेत् ।आपदि दशमे विधिर्भविष्यति । अयं च सामान्योपदेशो याजनाध्यापनविशुद्धप्रतिग्रहादिसङ्ग्रहार्थः । वक्ष्यमाणर्तादिविशेषमात्रनिष्ठत्वे सङ्कुचितस्वरसत्वहानिरनधिकारार्थत्वं
+याजनादेर्वृत्तिप्रकरणानिवेशश्च स्यात्तयाऽपि जीवेत् ॥२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अद्रोहेणेति** । वक्ष्यमाणवृत्तीनां मध्यात् भूतान्पपीडनेन या जीविका शिलोञ्छादिना तदलाभे ऽल्पोपपीडनेन याचनादिना या ताम् आश्रित्य भार्यादिभरणनित्यानुष्ठानसम्पत्तौ सत्यां **विप्रो** **जीवेत् । **न चात्राल्पजिघांसाभ्यनुज्ञानं, हिंसाया निषिद्धत्वात् । विप्रग्रहणं क्षत्रियादिव्युदासार्थम् । तथापि जीवेत् ॥ ४.२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

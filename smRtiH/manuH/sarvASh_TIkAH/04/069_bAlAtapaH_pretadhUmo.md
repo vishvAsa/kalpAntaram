@@ -56,6 +56,18 @@ he shall avoid sitting under the young sun.’
 body.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रथमोदितादित्यतापो बालातपः स च मुहूर्तत्रयं यावदिति (१)[^79]मेधातिथिः। कन्यार्कातप इत्यन्ये ।प्रेतधूमो दह्यमानशवधूमः । भग्नासनं च एतानि वर्जनीयानि ।नखानि च रोमाणि च प्रवृद्धानि न छिन्द्यात् । दन्तैश्च नखान्नोत्पाटयेत् ॥६९॥
+
+[^79]: "प्रथमोदिते सवितरि मुहूर्त्तत्रयं बालातपव्यपदेशः ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बालातप** इति । प्रथमोदितादित्यातपः । शवधूमभग्नपीठाद्युपवेशनानि वर्ज्यानि । **नखलोमानि **चात्मन **न छिन्द्यात् । दन्तैश् **च** नखान् नोत्पाटयेत्** ॥ ४.६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.

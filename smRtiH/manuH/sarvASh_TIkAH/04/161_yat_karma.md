@@ -24,11 +24,20 @@ While an act is being performed, if there arises in the mind no sort of doubt or
 This verse is quoted in *Aparārka* (p. 224), which explains ‘*Karma*’ as ‘*Dharma*’;—in *Parāśaramādhava* (Ācāra, p. 524);—in *Madanapārijāta* (p. 14), which adds that the ‘act’ here mentioned must be such as is not incompatible with the teachings of scriptures; though even in regard to such acts, there are exceptions; *e.g*., even though an act may have been enjoined by the scriptures, it should not be done if it is against popular opinion;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 71b).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्कर्म कुर्वतोऽस्यानुष्ठांतुः पुरुषस्यान्तरात्मनस्तुष्टिः स्यात्तत्प्रयत्नतोऽनुष्ठेयम् । अतुष्टिकरं वर्जयेत् । एतच्चाविहितानिषिद्धगोचरं वैकल्पिकविषयं च ॥१६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अशिष्टाप्रतिषिद्धं वैकल्पिकं वा । **यत् कर्मेति । यत् कर्म** अनुतिष्ठतः पुंसो ऽ**न्तरामनः** **परितोषो **भवति **तत् **यत्नतः **कुर्वीत** । आत्मतुष्टिकरं पुनर् **वर्जयेत् **॥ ४.१६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

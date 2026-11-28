@@ -42,6 +42,16 @@ who are pure and truthful, over villages and towns, for the protection of the pe
 officers in charge of departments as are endowed with all the qualities of a minister; and their work shall he constantly inspected.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रतिनगरमेकैकमुच्चःस्थानं कुलादिना महान्तं प्रधानरूपं घोररूपं हस्त्यश्वादिसामग्र्या भयजनकं नक्षत्रादिमध्ये भार्गवादिग्रहमिवतेजस्विनं कार्यद्रष्टारं नगराधिपतिं कुर्यात् ॥१२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नगर** इति । प्रतिनगरम् एकैकम् **उच्चैःस्थानं** महाकुलीनं **घोररूपं** छात्रालङ्कारहस्त्यश्वादिबलसामग्र्या भयानकाकारं मध्ये **ग्रहम् इव** भास्कराकारं नगराधिपतिं **कुर्यात्** ॥ ७.१२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 हस्त्यश्वादि[बल]संपन्नं प्रतिनगरं नागरिकं स्थापयेत् ॥ ७.१२१ ॥

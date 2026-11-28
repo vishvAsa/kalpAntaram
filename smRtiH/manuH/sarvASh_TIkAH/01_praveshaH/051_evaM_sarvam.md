@@ -23,11 +23,15 @@ Thus repeatedly suppressing time (of dissolution) by time (of creation and maint
 ‘*Repeatedly suppressing time by time*’—the Present-participle (‘suppressing’) is connected with the verb ‘having oreated’; the meaning being—‘destroying the time of dissolution by the time of creation and maintenance’;—‘again and again; it will lie described later on that ‘there are endless creations and dissolutions.’—(61)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं सृष्टिं प्रदर्श्य इदानीं प्रलयं दर्शयितुम् आह – **सर्वम् एवम्** इति । अनेन प्रकारेण इदं **मां च सृष्ट्वा स** प्रजापतिः अचिन्त्यशक्तिः पुनः **आत्मन्य् **एवान्तर्धानं कृतवान् । शरीरत्यागेन सृष्टि**कालं **प्रलय**कालेन** विनाशयन् प्राणिनां कर्मवशतः स्वेच्छया च पुनः पुनः सर्गसंहारौ करोतीत्य् अर्थः ॥ १.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	When he whose power is incomprehensible, had thus produced the universe and men, he disappeared in himself, repeatedly suppressing one period by means of the other.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

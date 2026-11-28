@@ -24,11 +24,20 @@ The ten great sages are mentioned by name (in verse 35).—(34-35)
 These are quoted in Hemādri-Dāna, p. 242, as describing the ‘munis’, sages. It reads ‘*dustaram*’ for ‘*duścaram*’, and ‘*āṅgirasam*’ for ‘*aṅgirasam*’.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+त एते दश प्रजापतयो नामतो निर्दिष्टाः॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+आह तांश् च – **मरीचिम्** इति ॥ १.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	Mariki, Atri, Angiras, Pulastya, Pulaha, Kratu, Praketas, Vasishtha, Bhrigu, and Narada.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

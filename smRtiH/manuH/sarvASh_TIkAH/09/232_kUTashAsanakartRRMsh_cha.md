@@ -64,6 +64,11 @@ document, or disobeys a royal edict, and deals with short weights and measures s
 evidence or by means of a forged seal, should he fined with the highest amercement.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कूटराजाज्ञालेखकन्अमात्यानां च भेदकानू, स्त्रीबालब्राह्मणवातिनः शत्रुसेविनश्चराजा हन्यात्॥ २३२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 [ते]षां राज्यतन्त्रविरोधे वर्तमानानां नियमतो वधः । द्विट्सेविनश् छमागतिकाः ॥ ९.२३२ ॥

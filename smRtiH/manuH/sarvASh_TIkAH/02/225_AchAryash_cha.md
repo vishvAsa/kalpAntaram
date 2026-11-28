@@ -45,11 +45,20 @@ one’s service shall be as towards the Ācārya.’
 Mother and the Ācārya;—one should ever attend upon these;—one should do what is agreeable and beneficial to these.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यो, जनको, जननी च, भ्राता च सगर्भो ज्येष्ठः पीडितेनाप्यमी नावमाननीयाः । विशेषतो ब्राह्मणेन ॥२२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यश् च पिता चैवेति **। **आचार्यपितृमातृज्येष्ठभ्रातरः **पीडितेनापि क्षत्रियादिना **नावमाननीयाः **विशेषतो ब्राह्मणेन नान्येषां तन्मूलत्वाद् धर्मानुष्ठानस्यातिप्रसङ्गः स्याद् यस्माद् इति ॥ २.२२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -25,9 +25,14 @@ This describes the reward of what has just been enjoined. The mention of the rew
 See Comparative notes for [Verse 6.87].
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_संन्यासक्रमार्थम् अधुनेदम् उच्यते ।_
+ये विप्रा एतानि दशविधधर्मस्वरूपाणि परन्ति, पठित्वा चात्मज्ञानसाचिव्येनानुतिष्ठन्ते, ते ब्रह्मज्ञानसमुत्कर्षात्परमां गतिं मोक्षलक्षणां प्राप्नुवन्ति॥९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दश लक्षणानीति **। ये ब्राह्मणाः एतानि **दश लक्षणानि** पठन्ति पठित्वा चानुतिष्ठन्ति ते उत्कृष्टं स्थानं ब्रह्मलोकं वा ज्ञाने सति मोक्षं प्राप्नुवन्ति ॥ ६.९३ ॥
 </details>
 
 <details><summary>Bühler</summary>

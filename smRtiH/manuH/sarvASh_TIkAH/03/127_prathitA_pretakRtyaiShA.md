@@ -60,6 +60,16 @@ to longevity, heaven and prosperity.’
 with the help of Brāhmaṇas learned in the Veda, his Pitṛs become satisfied and reward him with what he desires.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदेतत्पित्र्यं कम श्राद्धरूपं प्रथममियं प्रख्याता प्रेतकृत्या पित्रुपकारार्थाक्रिया ।प्रकर्षेण इतः प्रेतः पितृलोकस्थ एवोच्यते । विधुयेऽमावास्यायां तस्मिन्पित्र्ये कर्मणि युक्तस्यैतत्परस्य लौकिकी स्मार्तिकी प्रेतकृत्या पित्रुपकारार्या क्रिया गुणवत्पुत्रपौत्रधनादिफलप्रबन्धरूपेण कर्तारमुपतिष्ठते, तस्मादिदं कर्तव्यम् । गोविन्दराजेनतु विधिः क्षय इतिपठितं, व्याख्यातं च योऽयं नाम विधिः पित्र्यं कर्मेति क्षये चन्द्रक्षये गृहे (?) वा, तदसांप्रदायिकम्, मेधातिथिप्रभृतिभिर्गोविन्दराजादपि वृद्धतरैरनभ्युपेतत्वात्क्षय इति सम्बन्धक्लेशाच्च ॥१२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रथितेति** । यो ऽयं पित्र्यो नाम विधिः पित्र्यं कर्म **एषा** **प्रेतकृत्या** प्रेतोपकारार्था क्रिया **क्षये** चन्द्रक्षये गृहे वा नाश्रमन्तरे, सर्वगृहिणां ख्याता । **तस्मिन् **कृत्ये पित्र्ये कर्मणि **युक्तस्य **तन्निष्ठस्य लौकिकी स्मार्ता **प्रेतक्रिया** इति प्रेत उपक्रियते गुणवत्पुत्रपौत्रप्रबन्धोपपत्त्या तस्माद् एतद् यत्नतः कार्यम् ॥ ३.१२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 127	Famed is this rite for the dead, called (the sacrifice sacred to the manes (and performed) on the new-moon day; if a man is diligent in (performing) that, (the reward of) the rite for the dead, which is performed according to Smarta rules, reaches him constantly.

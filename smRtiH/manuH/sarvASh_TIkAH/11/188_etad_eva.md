@@ -78,6 +78,16 @@ applicable to women who have become outcasts. They should however be given a dwe
 abandoned: One who has intercourse with her husband’s pupil, one who has intercourse with her Guru, one who has killed her husband, and one who has intercourse with a despicable person.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीष्वपि पतितास्वेवमेव पतितस्योदकं कार्यमित्यादिविधिं भर्त्रादिसपिण्डसमानोदकवर्गः कुर्यात्। ग्रासाच्छादनानि पुनराभ्यो देयानि।गृहसमीपे चासां वासार्थंकुटीर्दद्युः॥१८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद् एव व्रतम्** इति । यद् एव पुंसः पातित्यनिमित्तं तद् एव स्त्रीणां विशेषं याज्ञवल्क्यः प्राह- “नीचाभिगमनं गर्भपातनं भर्तृहिंसनम् । विशेषपतनीयानि स्त्रीणाम् एतान्य् अपि ध्रुवम्” इत्य् एवं स्त्रीषु पतितासु पतितस्योदकं कार्यम् इत्यादि यद् उक्तं किं तु कुर्यात् किं तु ग्रासाच्छादनान्नपानादीनि गृहसमीपे च शीर्णगृहकादि निवासार्थम् आसां देयम् ॥ ११.१८७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ११.१८७ ॥

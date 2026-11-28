@@ -34,11 +34,20 @@ This verse is quoted in *Mitākṣarā* (on 2.127) as deprecating
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुत्रो मे जायतां तेन स्वर्गं प्राप्स्यामीति लोभेन या स्त्री भर्तारमतिक्रम्य वर्तते, व्यभिचरतीत्यर्थः। सेह लोके गर्हांप्राप्नोति, परलोकं च स्वर्गं तेन पुत्रेण न लभते ॥१६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपत्यलोभाद्** इति । या स्त्री अपत्यलोभातिशया **भर्तारम् **अतिकर्म्य **वर्तते** व्यभिचरति सा इह लोके गर्हां प्राप्नोति, भर्त्रा सहार्जितं स्वर्गादिलोकं न प्राप्नोति । किं चापत्यम् अपि तत् तस्या न भवति ॥ ५.१६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 161	But a woman who from a desire to have offspring violates her duty towards her (deceased) husband, brings on herself disgrace in this world, and loses her place with her husband (in heaven).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

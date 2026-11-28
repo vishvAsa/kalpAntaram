@@ -57,6 +57,11 @@ man dying without a son; or his daughters of the same caste, or his father, if h
 his property goes to his brother; in the absence of the brother, his mother and father take it; or his senior wife; or his *Sagotras*, pupils and fellow-students.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनपत्यस्य पुत्रस्य धनंमाता गृह्णीयात् । पूर्वं“पिता हरेदपुत्रस्य रिक्थम्''(म. स्मृ.९-१८५) इत्युक्तत्वात् इह माता हरेदित्यादि याज्ञवल्क्येन"पितरौ (या. स्मृ. २-१३्५) इत्येकशेषकरणात् । विष्णुना च- "अपुत्रस्य धनं पत्न्यभिगामि तदभावे दुहितृगामि तदभावेपितृगामि" इत्येकशेषस्यैव कृतत्वात, मातापितरौ विभज्य गृह्णीयाताम् । मातरि मृतायांपत्नीपितृभ्रातृभ्रातृजाभावे पितुर्माता धर्म गृह्णीयात् ॥ २१७ \।\।
+</details>
+
 <details><summary>भारुचिः</summary>
 
 जीवत्यां मातरि पितामह्यां च न सोदरा ईशन्ते ऽनपत्यस्य स्वधनस्य, नापि तत्पितासोदर्या वा भ्रातरः ॥ ९.२१७ ॥

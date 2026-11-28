@@ -35,11 +35,22 @@ not meat, even though he is ill or has been invited, he obtains, without effort,
 the buyer, the seller, and the cooker—all these are *slayers*......the eater is the seventh and the worst of all.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यच्चिन्तयति धर्मादिकमिदं मेऽस्त्विति, यच्च श्रेयःसाधनं कर्म करोति, यत्र च परमार्थध्यानादौ धृतिं बध्नाति, तत्सर्वमक्लेशेन लभते । य उपघातनिमित्तं दंशमशकाद्यपि न व्यापादयति ॥४७॥
+
+मांसभक्षणप्रसङ्गेन हिंसागुणदोषावभिधाय पुनः मतमांसभक्षणमाह–
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद् ध्यायतीति** । यश् चिन्तयति [**यच्** चिन्तयति] भगवदीश्वराराधनादि, **यद् **वा **कुरुते **हरिहरचरणनमस्कारादि, **यत्र **वा भवभक्तिभावनादौ **रतिं बध्नाति तत् **सर्वम् **अयत्नेन **प्राप्नोति य आतताय्यादीन् अपि प्राणिनो **न हिनस्ति** ॥ ५.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	He who does not injure any (creature), attains without an effort what he thinks of, what he undertakes, and what he fixes his mind on.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

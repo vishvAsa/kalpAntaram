@@ -36,6 +36,16 @@ give half of it to Brāhmaṇas;—the learned Brāhmaṇa however, may take the
 Treasury and give the other half to Brāhmaṇas; the good Brāhmaṇa however takes the whole of the hidden treasure that he has found.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यं पुनरस्वामिकं पुरातनं भूम्यन्तर्गतं निधिं राजा लभते तस्माद् ब्राह्मणेभ्योऽर्धं दत्त्वार्धमात्मीयधनागारे च प्रवेशयेत् ॥३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यम्** इति । **यं **पुनः चिरन्तनस्वामिकं भूमिप्रक्षिप्तं निधिं लभेत तस्माद् अर्धं ब्राह्मणेभ्यो दत्वा अर्धम् आत्मनो ऽर्थागारे प्रवेशयेत् ॥ ८.३८
+</details>
+
 <details><summary>भारुचिः</summary>
 
 राज्ञो ऽयं निध्यधिगमे दाननियमः । न त्व् अन्यस्य, वचनसामर्थ्यात् ॥ ८.३८ ॥

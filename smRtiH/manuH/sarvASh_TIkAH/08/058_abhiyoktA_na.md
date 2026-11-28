@@ -50,6 +50,16 @@ exposition given of what is claimed and what not, and the meaning of the plaint 
 consists of depriving one of his property, or striking or confining him. When a man makes no answer, even though all methods have been employed, he is defeated and liable to punishment after a week. When the defendant asks for time, through timidity or terror or failing memory, time shall be granted to him. He shall bo allowed time extending to one day, or three days, or five days, or seven days, or a fortnight, or a month, or three seasons, or a year, according to his circumstances.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+योऽर्थी सन् राजस्थाने निवेद्य भाषायां न ब्रूयात्तदा विषयगौरवापेक्षया बध्यो लघुनि विषये दण्डयश्च धर्मतः स्यात् । प्रत्यर्थी पुनर्यदि पक्षत्रयमध्ये न ब्रूयात्तदा धर्मत एव पराजितः स्यान्न तु छलेन ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभियोक्तेति** । यो ऽर्थी सद्य एव पूर्वपक्षं न ब्रूयात् तदा धर्मव्यतिक्रमतारतम्यापेक्षया वधार्हो दण्डनीयश् च स्यात् । आक्षिप्तः पुनः पक्षत्रये यदि न ब्रूयात् तदा धर्मविषये पराजितो ऽन्याय्यप्रवृत्तत्वेनाधार्मिकत्वात् ॥ ८.५८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **अभियोक्ता न चेद् ब्रूयात्**, न लेखयेद् व्यवहारं राज्ञः स्वकार्यनिर्वेदनानन्तरम् एव । तत्रायं बन्धनार्हो दण्डार्हश् च स्यात् । गुणवद्व्यवहारवस्त्वपक्षया चैतयोर् नियोगविकल्पसमुच्चयाः प्रकल्प्याः । **च**शब्दाद् ब्(व्?)अधदण्डवाग्दण्डयोर् अपि यथोक्तसामर्थ्याद् । अत्र संहवो विज्ञेयो गुणान् अतिक्रमेण धर्मतः पराजितस्य सोपधत्वात् कारणान्तरतः, येन सुविहितार्थेन ह्य् अर्थिना भवितव्यम् । अथ केनचित् प्रमाकरणान्तरेणायम् अकुटिलो निरुपधत्वाद् विज्ञायते । अतो नायं ब् (व्?)अधदण्डादिः पदार्थः स्यात् । तथा चोक्तम्, **धर्मं प्रतिपराजितस्य** नान्यथा प्रत्यर्थिनः । इदानीम् अर्थिकालाद् अन्यः प्रतिवचनकालो निर्दिश्यते । **न चेत् त्रिपक्षात् प्रब्रूयात्** प्रतिब्रूयाद् इत्य् अर्थः । अतो **बध्यो दण्डश् च धर्मतो, धर्मं प्रति पराजितः सन्**, नेतरथेत्य् उक्तम् । अधुना जितस्यार्थिनः प्रत्यर्थिनो वा दण्डनियमार्थम् अयम् आरभ्यते श्लोकः ॥ ८.५८ ॥

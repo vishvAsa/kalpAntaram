@@ -47,11 +47,22 @@ which has the following notes:—‘*Prācīnāvītinā*,’ with the sacred thr
 shoulder, he shall make the offering to the Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दक्षिणांसस्थितयज्ञोपवीतेनानलसेन दर्भहस्तेन अपसव्यं पितृतीर्थेन यथाशास्त्रं सर्वं पितृसम्बन्धि कर्म आनिधनादासमाप्तेः कर्तव्यम् । आनिधनाद्यावज्जीवमिति (१)[^73] मेधातिथिगोविन्दराजौ ॥२७९॥
+
+[^73]: "आनिधनात्आमरणाद्यावज्जीविकोऽयं विधिरित्यर्थः ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्राचीनावीतिनेति** । सर्वेण प्राचीनावीतीत्युक्तप्राचीनावीतयुक्तेनानलसेन दर्भपवित्रहस्तेन **अपसव्य**पितृतीर्थेन यथाशास्त्रं सम्यक् **पित्र्यं **कर्म यावज्जीवं **कार्यम्** ॥ ३.२७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

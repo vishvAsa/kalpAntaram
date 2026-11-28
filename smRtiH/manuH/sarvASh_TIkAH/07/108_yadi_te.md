@@ -23,6 +23,16 @@ Those who are beyond the reach of conciliation and the other expedients should b
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 404), to the effect that force should be employed only when all other means have failed.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ते च विजयविरोधिनो यद्याद्यैस्त्रिभिरुपायैनं निवर्तन्ते तदा बलाद्देशोपमर्दादिना युद्धेन शनकैर्लघुगुरुदण्डक्रमेण दण्डेन वशीकुर्यात् ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । ते च परिपन्थिनो यद्य् आद्यैः सामदानभेदैर् उपायैः वशं नायान्ति तदा दण्डेनैव देशोपमर्यादादिना हठाद् एव शनकैर् यादृशो दण्डक्रमस् तेन वशं नयेत् ॥ ७.१०८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सामाध्युपायत्रयपरिक्षये दण्डस्य प्रयोगनियमः ॥ ७.१०८ ॥

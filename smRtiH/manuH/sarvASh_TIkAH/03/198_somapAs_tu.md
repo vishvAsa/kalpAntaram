@@ -28,6 +28,16 @@ The Havirbhujs are here spoken of as ‘Haviṣmats.’
 This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कवेर्भगोः सोमपाः पुत्राः । हविर्भुज एव हविष्मन्तोऽङ्गिरसः पुत्राः । आज्यपाः पुलस्त्यसुताः । सुकालिनो वसिष्टसुताः ॥१९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सोमपा** इति । ब्राह्मणस्य पितरः **सोमपाः कवेः** भृगोः** पुत्राः **। क्षत्रियपितरो हविर्भुजो **हविष्मन्तो ऽङ्गिरःसुताः **। वैश्यपितरस् त्व् **आज्यपाः पुलस्त्यस्य पुत्राः** । शूद्रपितरः **सुकालिनो वसिष्ठस्य **पुत्राः ॥ ३.१९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 198	The Somapas are the sons of Kavi (Bhrigu), the Havishmats the children of Angiras, the Agyapas the offspring of Pulastya, but the Sukalins (the issue) of Vasishtha.

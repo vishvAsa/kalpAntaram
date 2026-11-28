@@ -15,6 +15,9 @@ Verily he shall not kill the Brāhmaṇa, even though he be steeped in all crime
 - <u>केचिद्</u> आहुः । निर्वासने त्व् आधीयमानं सधनं निर्वास्य धनदण्डं प्रतिषेधति ।
 
 <u>अन्ये</u> तु **समग्रधनं**[^२९५] हृतसर्वस्वं कृत्वा निर्वास्यत इति मन्यन्ते ॥ ८.३८० ॥
+
+[^२९५]:
+     M G omit: bruvan
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -49,9 +52,14 @@ to the effect that for the Brāhmaṇa there is no death-penalty.
 See Comparative notes for [Verse 8.379].
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_अस्यार्थवादः_ ।
+ब्राह्मणं सर्वपापकारिणमपि कदाचिन्न हन्यात् । अपि तु सर्वस्वयुक्तमक्षतशरीरं राष्ट्रान्निर्वासयेत् ॥ ३८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न जात्व्** इति । सर्वपापकारिणम् अपि ब्राह्मणं कदाचिद् अपि न हन्यात् । अपि सर्वधनसंयुक्तम् अक्षतशरीरं राष्ट्रान् निर्वासयेत् ॥ ८.३८० ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -51,11 +51,19 @@ Do. (2.36).—‘Tho self-controlled king holds the key to the spiritual and mat
 there is no other means save punishment for the subjugating of living beings. Such is not the view of kauṭilya; for if a king is very severe in his punishments, the people become discontented; if he is very lenient, he is disregarded; he is respected only when he inflicts punishment impartially in the right manner. If intelligently administered, punishment brings prosperity and happiness to the people; if improperly administered, through ignorance, or greed, or anger, it angers even Hermits and Renunciates; what to say of Householders? The people consisting of the four castes and orders is protected by the king through punishment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तं दण्डं राजा सम्यक्प्रवर्तयन्धर्मार्थकामैवृद्धिं गच्छति। यः पुनर्विषयाभिलाषी विषमः कोपनः क्षुद्रश्छलान्वेषी नृपः स प्रकृतेनैव दण्डेनामात्यादिनां कोपादधर्माद्वा विनाश्यते॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तम्** इति । **तं** दण्डं **राजा सम्यक्** कुर्वन् धर्मार्थकामैर् वृद्धिम् एति । यः पुनः रागप्रधानः क्रोधनः छली द्वेषी राजा न सम्यक्कृतेन दण्डेनैवात्यन्तकोपाद् अधर्माद् वा विनश्यति ॥ ७.२७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अदृष्टम् उत्सृज्य दृष्टेन चैनं प्रगुणीकरोति । येन **सम्यक्** प्रणीत एष त्रिवर्गेण प्रणेतारं वर्धयति । कामादिदिषैश् च **दण्डेनैव निहन्यते** ॥ ७.२७ ॥
-
-_यस्माद्-_
 </details>
 
 <details><summary>Bühler</summary>

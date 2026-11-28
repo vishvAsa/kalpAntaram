@@ -33,6 +33,11 @@ to fight against one another after a wager has been laid, it is called
 leather, little staves of ivory, and *Betting* on birds form the subject of a head of dispute.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अक्षशलाकादिभिरप्राणैर्यत्क्रियते तल्लोके द्यूतं कथ्यते। यः पुनः प्राणिभिर्मेषकुक्कुटादिभिः पणपूर्वकंक्रियते स समाह्वयो ज्ञेयः। लोकप्रसिद्धयोरप्यनयोर्लक्षणकथनं परिहारार्थम्॥२२३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 द्यूतसमाह्वयभेदप्रदर्शनार्थम् इदम् अधुनोच्यते-

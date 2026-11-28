@@ -34,11 +34,20 @@ This verse is quoted in *Hemādri* (Dāna, p. 90).
 See Comparative notes for [Verse 4.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनृतेन हेतुना यज्ञः क्षरति । सत्येनैव स फलं साधयति । एवं तपसि दाने च योज्यम् । विप्रनिन्दया चायुः क्षीयते ॥२३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् **यज्ञ** इति । यस्मात् यज्ञादीन्य् अनृतादिभिः कृतैर् अकृतसमानि भवन्ति तस्माद् एतन् न कर्तव्यम् ॥ ४.२३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

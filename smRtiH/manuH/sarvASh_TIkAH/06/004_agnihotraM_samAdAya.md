@@ -34,11 +34,20 @@ lire according to the rule of the Śramaṇaka, he shall offer the Agnihotra.’
 *Yājñavalkya* (3.45).—(See under 3.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रौताग्निमावसथ्याग्निमग्न्युपकरणं च स्रुक्स्रुवादि गृहीत्वा ग्रामादरण्यं निःसृत्य गत्वा संयतेन्द्रियः सन्निवसेत्॥४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्निहोत्रम्** इति । श्रौताग्नीन् **गृह्यं** चाग्निम् अग्न्युपकरणं च स्रुक्स्रुवादि समादाय **ग्रामाद्** बहिः निःसृत्य जितेन्द्रियः सन् **निवसेत्** ॥ ६.४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 004	Taking with him the sacred fire and the implements required for domestic (sacrifices), he may go forth from the village into the forest and reside there, duly controlling his senses.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

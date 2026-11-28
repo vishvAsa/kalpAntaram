@@ -12,33 +12,25 @@ He who has been authorised in regard to a widow shall, annointed with clarified 
 
 **विधवा**ग्रहणम् अतन्त्रम् । क्लीबादिरूपे पत्यौ जीवत्य् अप्य्[^१३८] एष एव विधिः[^१३९] । यतो वक्ष्यति "नियुक्तौ यौ[^१४०] विधिं हित्वा" (म्ध् ९.६३) इति । एतद् एव तस्य प्रयोजनम् । नियमो ऽत्र विषयाणाम्, न नियमानाम्, अन्यथा विज्ञाते[^१४१] अप्रकृतत्वाद्[^१४२] विधवाया एव स्युः । **निशि** प्रदीपाद्यालोकनिवृत्त्यर्थम् एतत्, वचनान्तरेण दिवोपगमनप्रतिषेधात् ।
 
-
 [^१४२]:
      M G J: prakṛtatvād
-
 
 [^१४१]:
      M G DK: vijñāyeta
 
-
 [^१४०]:
      M G: niyuktāṃ yo
 
-
 [^१३९]:
      DK (1: 1065) adds: ghṛtāka iti
-
 
 [^१३८]:
      M G: klībādiniyogo jīvatpatyā apy
 
 - <u>अन्ये</u> त्व् आहुः- पुरुषार्थो ऽसौ प्रतिषेधः कर्मार्थस् त्व् अयम् । तेनाह्नि गमनेन क्षेत्रजम् उत्पादयेत्[^१४३] । **एकम् उत्पादयेत् पुत्रं न द्वितीयम्** ॥ ९.६० ॥
 
-
 [^१४३]:
      Some confusion here. MG omit: utpādayet; J: gamanena _adds _na; DK: tenāhni gamanaṃ na, kṣetrajam ekam
-
-_अस्य प्रतिप्रसवः ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -82,6 +74,16 @@ and without amorous desire. He must have anointed his limbs with clarified butte
 
 *Yama* (Vivādaratnākara, p. 446).—‘When during her period, the woman has
 taken her bath, her brother-in-law, desiring an offspring for his deceased brother, may approach her during the dark night, with speech held in check, with a single cloth on, and his body anointed with clarified butter, and mind stricken with grief, avoiding the contact of his face and limbs with her face and limbs.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+विधवायामित्यपत्योत्पादनयोग्यपत्यभावपरमिदम् । जीवत्यपि पत्यौ अयोग्यपत्यादिगुरुनियुक्तो घृताक्तसर्वगात्रो मौनी रात्रावेकं पुत्रं जनयेन्न कथंचिद् द्वितीयम् ॥ ६० ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विधवायाम्** इति । “यस् तल्पजः पर्मीतस्य वा” इति दर्शनाद् अभर्तृकाव्याधितभार्याविषये गुरुभिर् नियुक्तो घृताभ्यक्तो मौनवाक् रात्राव् एकं पुत्रं जनयेत्, न द्वितीयम् ॥ ९.६० ॥
 </details>
 
 <details><summary>भारुचिः</summary>

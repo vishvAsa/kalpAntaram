@@ -95,11 +95,20 @@ called *Patnī*; she is not fit to participate in rites either to gods or to Pit
 conducive to spiritual merit and help also in the water-offerings; that is, those in which no price is paid, and which alone are fit for the Brāhmaṇa; these save both families.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इह पैशाचप्रतिषेधादुपरितनानां पञ्चानां प्राजापत्यादीनां ग्रहणं, तेषु मध्ये प्राजापत्यगा-न्धर्वराक्षसास्त्रयो धर्मादनपेतास्तत्र प्राजापत्यः क्षत्रियादीनामप्राप्तो विधीयते । ब्राह्मणस्य विहितत्वादनुद्यते । गान्धर्वस्य च चतुर्णामेव प्राप्तत्वादनुवादः । राक्षसोऽपि वैश्यशूद्रोयोर्विधीयते । ब्राह्मणस्य क्षत्रियवृत्त्यवस्थितस्याप्यासुरपैशाचौ न कर्तव्यौ । कदाचनेत्यविशेषा च्चतुर्णामेव निषिध्यते । अत्र यं वर्णं प्रति यस्य विवाहस्य विधिनिषेधौ तस्य तं प्रति विकल्पः स च विहितासम्भवे बोद्धव्यः ॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चानाम्** इति । इह पैशाचनिषेधात् प्राजापत्यादयः पञ्च गृह्यन्ते । **पञ्चानां **प्राजापत्यादीनां मद्यात् **त्रयो **धर्माद् अनपेताः, **द्वौ **त्व् **अधर्म्याव् इह **शास्त्रे स्मृतौ **पैशाचासुरौ** । ताव् आपद्य् अपि न कर्तव्यौ ॥ ३.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

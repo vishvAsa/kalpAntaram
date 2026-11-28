@@ -41,6 +41,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 204);—in
 407);—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 72a);—and in *Nītimayūkha* (p. 65), which explains ‘*mantraiḥ*’ (v. l. ‘*yantraiḥ*’) as ‘persons well versed in the use of incantations for the cure of snake-bite and other ills’.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तद्दुर्गंखड्गाद्यायुधसुवर्णादिधनधान्यकरितुरगादिवाहनब्राह्मणभक्ष्यादिशिल्पियन्त्रवासोदकसमृद्धं कुर्यात्॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्माद्** इति । **तद्** दुर्गं खड्गाद्यायुधधनधान्याश्वादिवाहनब्राह्मणत्क्षादिशिल्पयन्त्र-घासोदकसमृद्धं कार्यम् ॥ ७.७५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दुर्गोपरोधकालप्रयोजनवतां प्रदर्शनार्थः श्लोकः । एवं च सत्य् अन्यद् अपि यत् कालप्रयोजनं वधशल्यविषवैद्यमौहूर्तिकादि तद् अपि ग्राह्यम् ॥ ७.७५ ॥

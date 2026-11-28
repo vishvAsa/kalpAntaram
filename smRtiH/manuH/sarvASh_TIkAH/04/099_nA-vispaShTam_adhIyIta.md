@@ -51,11 +51,15 @@ defective in accent and syllable, he becomes scorched by Ṛk, Yajuṣ and Sāma
 obtaining gifts, leads one to hell.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाविस्पष्टम्** इति । सर्वदा **अविस्पष्टम् **अव्यक्तं न पठेत् । तथा **शूद्रजनसन्निधौ नाधीयीत** । तथा सुप्तोत्थितः न रात्रेः पश्चिमे भागे वेदान् अधीत्य **श्रान्तः** सन् **पुनः** सुप्यात् ॥ ४.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

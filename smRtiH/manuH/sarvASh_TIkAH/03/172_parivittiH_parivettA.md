@@ -58,11 +58,20 @@ parividyate*’ the reading is *Yā chainam parivindati*.’
 marries illegally—all these are outcasts.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परिवित्तिः, परिवेत्ता च, यया च कन्यया परिवेदनं क्रियते, कन्याप्रदाता, याजकश्च तद्विवाहहोमकर्ता स पञ्चमो येषां ते सर्वे नरकं व्रजन्ति ॥१७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+प्रसङ्गाद् एतद्व्यतिक्रमफलम् आह **परिवित्तिर्** इति । **परिवित्तिपरिवेत्तारौ यया च** कन्यया हेतुभूतया परिवेदनं क्रियते **दाता** च कन्यायाः याजकश् च तदुद्वाहहोमस्योपदेष्टा येषां **पञ्चमः **ते नरकं गच्छन्ति ॥ ३.१७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 172	The elder brother who marries after the younger, the younger brother who marries before the elder, the female with whom such a marriage is contracted, he who gives her away, and the sacrificing priest, as the fifth, all fall into hell.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

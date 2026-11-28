@@ -31,6 +31,16 @@ In the whole of this section on ‘deposits’ only two or three verses are mand
 This verse is quoted in *Vivādaratnākara* (p. 95), which adds the following notes:—‘*Akṣiṇvan*,’ not harassing the person who is believed to have been the holder of the deposit;—and in *Parāśaramādhava* (Vyavahāra, p. 209), which explains ‘*aprakṣiṇvan*’ (which is its reading for ‘*akṣiṇvan*’), as ‘not chastising.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राज्ञा निक्षिप्तस्य धनस्यामुद्रस्य मुद्रादियुतस्य वोपनिधिरूनस्य तथा प्रोत्या कतिचित्कालं भोगार्थमर्पितस्यानेनोक्तप्रकारेण न्यस्तधनधारिणमपीडयन्निर्णयं कुर्यात् ॥१९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निक्षिप्तस्येति । **निक्षेपधारिणम् अपीडयन् निक्षिप्तस्य द्रव्यस्य प्रीत्या च साम्प्रतिकोपभोगार्थम् अर्पितस्यानेन प्रकारेण निर्णयं कुर्यात् ॥ ८.१९६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 समुद्रो विमुद्रो वा निक्षेपः । विमुद्र एव तु प्रीतिविमुक्तभोग उपनिधिः । तयोर् अन्वेषणविधिर् अयं विज्ञेयः । अस्वामिविक्रय इदानीम् उच्यते ॥ ८.१९५ ॥

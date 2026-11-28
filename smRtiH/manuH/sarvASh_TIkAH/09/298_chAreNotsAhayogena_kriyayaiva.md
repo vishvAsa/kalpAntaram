@@ -43,6 +43,11 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 artisans, should go out in all directions, apprising themselves of the opinion of the world. Spies well-informed in everything should every day come to and go away from the King; as they are the eyes of the King and enable him to see distant things.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सप्तमाध्यायोक्तकापटिकादिना बलस्योत्साहयोगेन कर्मणां च हस्तिवन्यवणिक्पथादीनामनुष्ठानेन जातां शत्रोरात्मनश्च शक्ति राजा सदा जानीयात्॥ २९८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अत एषां पुनर् इहोपदेशः कण्टकोद्धरणप्रकरणे । यथैतत्संश्रयाद् इदम् उपदिश्यते **नित्य**ग्रहणम् । एवं च परचक्रसंरक्षणवज् जनपदः स्वचक्रपीडातो ऽपि रक्षणीयः । सैषा कण्टकोद्धरणादरार्था पुनर् इह राजधर्मोक्तिर् विज्ञेया ॥ ९.२९८ ॥

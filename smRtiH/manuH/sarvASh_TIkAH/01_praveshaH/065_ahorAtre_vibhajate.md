@@ -32,6 +32,16 @@ The answer to this is given in the second line—‘*what is conducive* &c.’ F
 See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषदेवसम्बन्धिनौ दिनरात्रिकालावादित्यः पृथक्करोति। तयोर्मध्ये भूतानां स्वप्नारात्रिर्भवति, कर्म्मदुहार्थे च दिनम्॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अहोरात्रे **इति । देवमानुषसम्बन्धिनी **अहोरात्रे सूर्यो** **विभजते** आदित्यो विभागीकरोति । ततश् च **भूतानां रात्रिः **स्वप्नार्थं भवति । कर्मोद्यमार्थं त्व् **अहः** ॥ १.६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.

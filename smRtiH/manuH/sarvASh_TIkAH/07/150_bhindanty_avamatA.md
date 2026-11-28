@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 309), which explains �
 *Agnipurāṇa*.—(See under 149.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते जडादयोऽपि प्राचीनदुष्कृतवशेन प्राप्तजडादिभावा अधार्मिकतयैवावमानिता मन्त्रभेदं कुर्वन्ति । तथा शुकादयोऽतिवृद्धाश्च स्त्रियश्च विशेषेणास्थिरबुद्धितया मन्त्रं भिन्दन्ति । तस्मात्तदपसारणे यत्नवान्स्यात् ॥१५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भिन्दन्तीति** । जडत्वादिदोषयोगेन सावमाना जडादयो मन्त्रभेदं कुर्वन्ति । तथा क्षितिपरिवर्तादिश्रवणा तिर्यग्योना अपि **मन्त्रं भिन्दन्ति** । विशेषतश् च **स्त्रियो** ऽपि चापलातिशयात्वात् तस्मात् तदपासने यत्नवान् स्यात् ॥ ७.१५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 150	(Such) despicable (persons), likewise animals, and particularly women betray secret council; for that reason he must be careful with respect to them.

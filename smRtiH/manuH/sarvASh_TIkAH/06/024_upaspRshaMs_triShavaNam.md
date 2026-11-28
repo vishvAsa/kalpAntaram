@@ -39,6 +39,20 @@ severe austerities for the purpose of emaciating his physical frame.
 See Comparative notes for [Verse 6.23].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विहितमपि त्रिषवणं स्नानं देवर्षिपितृतर्पणविधानार्थमनुद्यते। प्रातर्मध्यंदिनंसायंसवनेषु त्रिष्वपि देवर्षिपितृतर्पणं कुर्वन्। अन्यदपि पक्षमासोपवासादिकं तीव्रव्रतं तपोऽनुतिष्ठन्। यथोक्तं यमेन—
+
+**पक्षोपवासिनः केचित्केचिन्मासोपवासिनः। इति।**
+
+स्वशरीरं शोषयेत्॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपस्पृशन्न्** इति । सायम्प्रातर् मध्यन्दिनेषूक्तं त्रिषवणं स्नानं कुर्वन् देवपितृतर्पणं कुर्वन्न् अन्यद् अपि वैखानसशास्त्रोक्तं तीव्रं **तपश् चरंश् च** शरीरं क्षपयेत् ॥ ६.२४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 024	When he bathes at the three Savanas (sunrise, midday, and sunset), let him offer libations of water to the manes and the gods, and practising harsher and harsher austerities, let him dry up his bodily frame.

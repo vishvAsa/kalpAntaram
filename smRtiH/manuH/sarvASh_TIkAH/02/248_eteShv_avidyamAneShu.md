@@ -87,11 +87,20 @@ upon the Fire.
 *Yājñavalkya* (1. 49).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतेषु त्रिष्वविद्यमानेषु सततमाचार्यस्येवाप्नेः समीपे स्नानासनविहारैः सायम्प्रातरादौ समिद्धोमादिना चाग्नेःशुश्रूषां कुर्वन्नात्मनो देहमात्मदेहावच्छिन्नं जीवं ब्रह्मप्राप्तियोग्यं साधयेत् ॥२४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतेष्व् अविद्यमानेष्व्** इति । गुरुपुत्रादिष्व् असत्सु कालनियमावलम्बनेन उत्थानोपवेशनाटनवान् भक्त्या अग्निकार्यम् अनितिष्ठन् आत्मसम्बन्धि शरीरं क्षपयेत् ॥ २.२४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -37,6 +37,16 @@ This verse is quoted in *Aparārka* (p. 193);—in *Madanapārijāta* (p. 121);�
 road-crossings at midday, or at midnight, or late at night, or during the two twilights.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दिवाराने च सम्पूर्णे प्रहरद्वये समांसं च श्राद्धं भुक्त्वा प्रातःसायंसन्ध्ययोश्च चिरं चतुष्पथं नाधितिष्ठेत् ॥१३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मधन्दिन** इति । मध्याह्नार्धरात्रसन्ध्यासु समांसं च **श्राद्धं भुक्त्वा **चतुष्पथे चिरं न तिष्ठेत् ॥ ४.१३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.

@@ -55,11 +55,20 @@ qualified men, he obtains great wealth and sons and grandsons.’
 best to do his duty.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अवधारणे तु शब्दः । येन येनैव भावेनाभिप्रायेण फलाभिसन्धिकः स्वर्गो मे स्यादिति, मुमुक्षु-र्मोक्षाभिप्रायेण निष्कामो यद्यद्दानं ददाति, तेनैव भावेनोपलक्षितस्तत् तद्वानफलद्वारेण जन्मान्तरे पूजितः सन्प्राप्नोति ॥२३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येनेति** । यादृशेन राजसेन सात्विकेन तामसेन वा शुद्धेन वा मध्यमेनाशुद्धेन वा चित्तधर्मेण च **यद् यद्** एव द्रव्यं ददाति **तत् तद्** द्रव्यं फलद्वारेण तु **तेनैव** दान्ग्गतभावेन भावानुरूपेणैव सुखं मध्यमदुःखवता चित्तेन (न) च जन्मान्तरे पूजितः सन् प्राप्नोति ॥ ४.२३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

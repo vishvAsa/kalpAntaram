@@ -38,11 +38,20 @@ from qualified Brāhmaṇas, excepting the Teacher’s house; and avoiding those
 only raw food, that also just enough for one night.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वं “वेदयज्ञैरहीनानाम्” ( अ० २ श्लो० १८३ ) इत्यनेनोक्का नाम संभवे सर्वं वा ग्राममुक्त-गुणरहितमपि शुचिर्मौनी भिक्षेत। महापातकाद्यभिशस्तांस्त्यजेत् ॥१८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वम्** इति । बन्धुगृहादिभ्यो ऽप्य् अलाभे चातुर्वर्ण्यादिष्व् आहरेत् । स जितेन्द्रियः सन् भिक्षावाक्यवर्जं मौनं **अभिशस्तान् **पुनः पातकित्वेन प्रसिद्धान् निश्चितपातकान् दण्डापूपकया पतितांश् च **वर्जयेत् **॥ २.१८५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

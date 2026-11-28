@@ -77,11 +77,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—in
 the gods, one should make offerings to the Elementals, and also offer food on the ground for Caṇḍālas and birds.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नानाप्रकारत्वादर्चनस्य स्वाध्यायादेरर्चनार्थत्वमुचितम्। महायज्ञान्तर्गतैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रं पूजयेत्॥८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं तद् इत्य् आह **स्वाध्यायेनेति** । नानाप्रकारत्वाद् अर्चनस्य स्वाध्यायादेर् अर्चनार्थत्वम् अविरुद्धं पूर्वोक्तमहायज्ञार्थैः स्वाध्यायादिभिः ऋषिदेवपित्रतिथिभूतानि यथाशास्त्रम् अर्चयेत् ॥ ३.८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 081	Let him worship, according to the rule, the sages by the private recitation of the Veda, the gods by burnt oblations, the manes by funeral offerings (Sraddha), men by (gifts of) food, and the Bhutas by the Bali offering.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

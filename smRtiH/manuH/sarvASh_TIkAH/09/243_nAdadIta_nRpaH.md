@@ -41,6 +41,11 @@ which says that what is forbidden is the confiscation of the property by the kin
 the outcast, the King shall have it handed over to the Assembly.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धार्मिको राजा महापातकसम्बन्धि घनंदण्डरूयं न गृह्णीयात् । लोभात्पुनस्तद् गृह्णन्महापातकदोषेण संयुज्यते ॥ २४३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यत एतद् एवम् अतः ।

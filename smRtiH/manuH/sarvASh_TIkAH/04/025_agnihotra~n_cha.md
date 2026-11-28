@@ -93,6 +93,16 @@ three years shall drink *Soma*; and he who has enough for the year shall perform
 evening;—oblations should be poured to the gods;—one shall offer sacrifices on the moonless and full-moon days, by reason of the proximity and remoteness of the moon and the sun.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदितहोमपक्षे दिनस्यादौ निशायाश्चादौ । अनुदितहोमपक्षे दिनस्यान्ते निशायाश्चान्ते । यद्वा उदितहोमपक्षे दिनस्यादौ दिनान्ते च । अनुदितहोपक्षे निशादौ निशान्ते च अग्निहोत्रं कुर्यात् । कृष्णपक्षार्धमासान्ते दर्शाख्येन कर्मणा शुक्लपक्षार्धेच पोर्णमासाख्येन यजेत् ॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्निहोत्रं चेति** । उदितहोमपक्षे दिनादौ दिनान्ते होमं कुर्यात् । तथा अनुदितहोमपक्षे रात्र्यादौ रात्र्यन्ते च होमं कुर्यात् । तथा कृष्णपक्षान्ते दर्शाख्येन कर्मणा, शुक्लपक्षान्ते पौर्णमासाख्येन यजेत ॥ ४.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	A Brahmana shall always offer the Agnihotra at the beginning or at the end of the day and of the night, and the Darsa and Paurnamasa (Ishtis) at the end of each half-month,

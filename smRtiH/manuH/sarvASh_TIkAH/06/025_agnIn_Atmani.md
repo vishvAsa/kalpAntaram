@@ -54,6 +54,16 @@ tree, keeping no fire and no house. He who makes offerings to gods, Pitṛs and 
 under a tree, eating measuredly, he shall beg alms only from the houses of hermits.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रौतानग्नीन्वैखानसशास्त्रविधानेन भस्मपानादिना आत्मनि समारोप्यलौकिकाग्निगृहशुन्यः। यथा वक्ष्यति “वृक्षमूलनिकेतनः” (म. स्मृ. ६ - २६) इति। मुनिर्मौनव्रतचारी फलमूलाशन एव स्यात्।नीवाराद्यपि नाश्नीयात्। एतच्चोर्ध्वं षण्मासेभ्योऽष्युपरि “अनग्निरनिकेतनः”इति वसिष्ठवचनात्षण्मासोपर्यनग्नित्वमनिकेतत्वं च॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्नींश् चेति** । ऊर्ध्वं षड्भ्यो मासेभ्यो “अनगिर् अनिकेतः” इति वसिष्ठदर्शनात् तस्मात् कालाद् ऊर्ध्वं श्रौतान् अग्नीन् वैखानसशास्त्रविधानेन आत्मनि भस्मपानादिद्वारेण समारोप्य ततो लौकिकाग्निपर्णकुटीगृहशून्यो मुनिश् च संयतवाङ्मूलफलाशन एव स्यात् ॥ ६.२५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 025	Having reposited the three sacred fires in himself, according to the prescribed rule, let him live without a fire, without a house, wholly silent, subsisting on roots and fruit,

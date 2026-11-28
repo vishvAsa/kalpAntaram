@@ -50,11 +50,20 @@ brinjal, mushroom, tame pig, fame; cock, milk of camel, woman or ass,- on eating
 eating mushrooms, one should perform the *Sāntapana*; on eating substances cooked overnight,—except preparations of barley or wheat or milk, or what is smeared with oils, or dry sugar-candy—one should fast. Substances growing out of incisions or unclean things, the red exudation from trees, needlessly cooked rice-sesamum,... on eating these one should fast for three days and should stand in water for one day.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतानि छत्राकादीनि षट बुद्धिपुर्वकमेव भक्षयित्वाऽभिधेयभक्षणस्य निमित्तत्वेन साहित्यस्या-विवक्षितत्वात् । एकादशाध्याव्यायवक्ष्यमाणस्वरूपं सप्ताहसाध्यं सान्तपनं यतिचान्दायणं वा चरेत् । एतद्व्यतिरिक्तेषु लोहितवृक्षनिर्यातादिषु प्रत्येकं भक्षणादहोरात्रोपवासं कुर्यात् । छत्राकादीनां च प्रायश्चित्तापकर्षा वर्जनादरार्थः।“शेषेषूपत्रसेदहः" इति लाववार्थम् । तत्र हि क्रियमाणे लाहितनिर्यासग्रहणमपि कर्तव्यं स्यात् ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अमत्यैतानीति **। **एतानि** छत्राकादीनि **षट् **बुद्धिपूर्वकं प्रत्येकं भक्षयित्वा एकादशाध्यायवक्ष्यमानस्वरूपं **सान्तपनं यतिचान्द्रायणं चरेत्** । एतद्व्यतिरिक्तेषु लोहितनिर्यासादिषु प्रत्येकभक्षणे ऽहोरात्रं नाश्नीयात् । प्रायश्चित्तस्य प्रकर्षेणोत्कर्षो लशुनादीनां वर्जनादरार्थम् । **शेषेषूपवसेद् अहर्** इत्य् एतत् पुनर् लाघवार्थम् । तत्र हि क्रियमाणे लोहितनिर्यासादिग्रहणं कर्तव्यं स्यात् ॥ ५.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	He who unwittingly partakes of (any of) these six, shall perform a Samtapana (Krikkhra) or the lunar penance (Kandrayana) of ascetics; in case (he who has eaten) any other (kind of forbidden food) he shall fast for one day (and a night ).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

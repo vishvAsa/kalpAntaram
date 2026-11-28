@@ -39,6 +39,16 @@ arrows.’
 *Yājñavalkya* (l.323).—(Sec under 87.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कूटान्यायुधानि बहिःकाष्ठादिमयान्यन्तर्गुप्तनिशितशस्त्राण्येतैः समरे युध्यमानः शत्रून्नहन्यात्। नापि कर्ण्याकारफलकैर्बाणैः, नापि विषाक्तैः, नाष्यग्निदीप्तफलकैः॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न कूटैर्** इति । **न कर्णिकैर् नापि दग्धैर् नाग्निज्वलिततेजनैः **। सङ्ग्रामे युद्धं कुर्वन् कूटशस्त्रादिभिः शत्रून् हन्यमानो ऽपि कृतकर्णाकारफलकैर् नापि विषलिप्तैर् न चाग्निज्वलितफलकैः ॥ ७.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	When he fights with his foes in battle, let him not strike with weapons concealed (in wood), nor with (such as are) barbed, poisoned, or the points of which are blazing with fire.

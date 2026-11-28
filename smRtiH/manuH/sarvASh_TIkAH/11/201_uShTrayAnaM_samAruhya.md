@@ -38,6 +38,21 @@ camel should perform breath-suspension in water.’
 and one who has bathed, or slept, or eaten, quite naked, must suspend his breath thrice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उष्ट्रैर्युक्तं यानं शकटादि एवं खरयानमपि तत्कामत आरुह्य अव्यवधान उष्ट्रखराभ्यां याने प्राणायामबहुत्वं नग्नश्च कामतः स्नानं कृत्वा प्राणायामेन शुद्धो भवति॥२०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उष्ट्रयानम्** इति ॥ ११.२०० ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+दण्डापूपिकया चोष्ट्रखरयोर् अव्यवधान एतद् एव स्यात्, ईषद् अधिकं वा ।
+</details>
+
 <details><summary>Bühler</summary>
 
 202	A Brahmana who voluntarily rode in a carriage drawn by camels or by asses, and he who bathed naked, become pure by suppressing his breath (Pranayama).

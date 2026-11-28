@@ -33,11 +33,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 805).
 *Viṣṇu* (22.93).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयं शरीरसंबन्धिनः शौचस्य युष्माकं निश्चय उक्तः । इदानीं नानाप्रकारद्र्व्याणां येन यच्छुद्ध्यति तस्य निर्णयं शृणुत ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । **एष **शरीरसम्बन्धिनः शौचस्य युष्माकं विचार उक्तः । इदानीं नानाप्रकाराणां **द्रव्याणां शुद्धेः निर्णयं शृणुत** ॥ ५.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	Thus the precise rules for the purification of the body have been declared to you; hear now the decision (of the law) regarding the purification of the various (inanimate) things.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

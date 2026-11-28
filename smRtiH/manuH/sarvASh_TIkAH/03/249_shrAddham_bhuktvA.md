@@ -34,11 +34,20 @@ This verse is quoted in *Aparārka* (p. 498);—and in *Gadādharapaddhati* (Kā
 jāyate*’ for ‘*kālasūtramavākśirāḥ*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आश्रितशुद्रायोच्छिष्टदानप्रसक्तावयं निषेधः । श्राद्धभोजनोच्छिष्टं यः शुद्राय ददाति स मूर्खः कालसूत्रं नाम नरकमधोमुखं गच्छति ॥२४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्राद्धम्** इति । श्राद्धभोजनोच्छिष्टं यः शूद्राय ददाति स मूर्खः कालसूत्राख्यनरकमध्ये अधोमुखो व्रजति । आश्रितसच्छूद्रत्वात् उच्छिष्टम् अन्नं दातव्यम् इति प्राप्ते ऽयं प्रतिषेधः ॥ ३.२४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

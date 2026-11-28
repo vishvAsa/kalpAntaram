@@ -24,11 +24,15 @@ When that divine being is awake, then this world is active; when he slumbers, wi
 ‘*With his mind in calm repose*’—means that he has withdrawn from his state of diversity.—(52)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यदा स देव** इति । **यदा स **प्रजापतिर् इच्छति **तद् एवं जगत् **उत्पत्त्यवस्थिती करोति । **यदा** तु नेच्छति **शान्तात्मा** उपसंहृतव्यापारमनाः **तद् एवं प्रलीयते **। अन्तरालप्रलयस् तदा भवति । यथा शरीरे यदा क्षेत्रज्ञो जागर्ति तदा पशुपक्षिसरीसृपात्मकं जगत् चेष्टते चेष्टायुक्तं भवति । यदा स्वपिति तदा निश्चेष्टम् इति जाग्रत्स्वप्नसुषुप्त्याख्या आत्मवृत्तयो ऽत्र प्रजापतिकृतानां जाग्रत्स्वपसुषुप्तवृत्तीनां स्थित्यन्तरालप्रलयम् आह, प्रलयकारणभूतानां दृष्टान्तत्वेनोपपत्तेः ॥ १.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

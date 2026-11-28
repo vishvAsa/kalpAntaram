@@ -49,6 +49,16 @@ should not he smelt, or at wine, dishonest dealing,—sexual intercourse with ca
 sea-voyage, stealing a Brāhmaṇa’s property or a deposit, giving false evidence regarding land, trading with merchandise of any description, serving Śūdras, begetting a son on a Śūdra woman, and thereby becoming her son. The following: minor offences cause loss of caste—intercourse with females who should not be approached, etc., etc. (sec under 58-66).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य दण्डहस्तादिना पीडाक्रिया, यदतिशयदुर्गान्धतयाघ्रेयं लशुनपुरीषादि तस्य मद्यस्य चाघ्राणं, कुटिलत्वं वक्रता, पुंसि च मुखादौ मैथुनमित्येतत्प्रत्येकं जातिभ्रंशकरंस्मृतम्॥ ६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राःमणस्येति** । ब्राह्मणस्य पीडोत्पादनं पलाण्ड्वादेः मद्यस्य च घ्राणं कुटिलत्वं पुंसि च मुखादौ मौथुनम् इत्य् एवं प्रत्येकं जातिभ्रंशकरं स्मृतम् ॥ ११.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	Giving pain to a Brahmana (by a blow), smelling at things which ought not to be smelt at, or at spirituous liquor, cheating, and an unnatural offence with a man, are declared to cause the loss of caste (Gatibhramsa)

@@ -43,11 +43,20 @@ in the Teacher’s house, as a Religious Student.’
 Students.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनेन क्रमकथितोपायेन जातकर्मादिनोपनयनपर्यन्तेन संस्कृतो द्विजो गुरुकुले वसन् शनैरत्वरया वेदग्रहणार्थं तपोऽभिहिताभिधास्यमाननियमकलापरूपमनुतिष्ठेत् । सिद्ध्यन्तरसिद्ध-स्याप्ययमर्थवादोऽध्ययनाङ्गत्वबोधनाय ॥१६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं प्रसक्तानुप्रसक्तिकया रुषमात्रधर्मम् उक्त्वा अधुना प्रकृतम् आह **अनेनेति** । उक्तपरिपाटीसम्बन्धेन कृतोपनयनो **द्विजः **गुरुकुले **वसन् **वेदप्राप्तिप्रयोजनं तपोनियमाख्यं तपोऽर्जनम् आत्मसंस्कारं च **शनैः **अन्वहम् उपार्जयेत् ॥ २.१६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 164	A twice-born man who has been sanctified by the (employment of) the means, (described above) in due order, shall gradually and cumulatively perform the various austerities prescribed for (those who) study the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

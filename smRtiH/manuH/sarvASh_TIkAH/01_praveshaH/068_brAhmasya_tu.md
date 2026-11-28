@@ -28,6 +28,16 @@ each time-cycle separately.
 The present verse serves as the summary of what is going to be described, intended to draw the attention of the audience; it is with this view that they are exhorted to ‘*learn*.’—The ‘division of time’ having been already mentioned as the subject-matter of the context, the reiterated promise (implied in the exhortation to ‘learn’) is meant to indicate that a fresh subject is going to be introduced; the idea being that what is going to be described now is not merely what remains of the afore-mentioned ‘division of time,’ but it is also conducive to *merit*; as will be directly stated in verse 73, where it is stated that ‘Brahma’s day is known to be sacred’; which means that the knowledge of it brings merit.—(68)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मणोऽहोरात्रस्य यत्परिमाणं प्रत्येकयुगानां च कृतादीनां तत्क्रमेण समासतः संक्षेपतः शृणुत।प्रकृतेऽपि कालविभागे यद्ब्रह्मणोऽहोरात्रस्य पृथक् प्रतिज्ञानं तत्तदीयज्ञानस्य पुण्यफलज्ञानार्थम्। वक्ष्यति च “ब्राह्मं पुण्यमहर्विदुः” ( म. स्मृ. १-७३ ) इति। तद्वेदनात्पुण्यं भवतीत्यर्थः॥६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मस्येति **। प्राजापत्यस्याहोरात्रस्य **यत् प्रमाणं** युगानां च प्रत्येकं तत् क्रमेण सङ्क्षेपतः श्रृणुत ॥ १.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.

@@ -11,12 +11,6 @@ If one kills one thousand animals ‘with bones,’ or a full cart-load of bonel
 <details><summary>मेधातिथिः</summary>
 
 स्वल्पशरीरत्वम् इहास्थिमत्त्वम्, अनस्थिसाहचर्यात् । **अनः** शकटस् तत्संख्यानम् एतत् । ॥ ११.१४० ॥
-
-_उक्तार्थे सत्य् एव_[^२१०] ।
-
-
-[^२१०]:
-     All editors place this at the end of the commentary on the previous verse. But, it appears to be an introduction to the next verse, which prescribes additional or different penances for the same offences. Jha's translation appears to support this.
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -54,6 +48,16 @@ to the weight of a cow, one should perform the *Kṛcchra* penance of twelve day
 
 *Yājñavalkya* (3.269, 275).—‘For killing a thousand animals with bones,
 or a cart-load of boneless animals, one should perform the same penance as for killing a Śūdra. For killing an animal with bones, he shall give something; and for killing a boneless animal, he shall perform breath-suspension.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+अनस्थिसाहचर्यादस्मितां प्राणिनां कुकलासादीनां सहस्त्रस्य वधे शूद्रवधप्रायश्चित्तमौपदेशिकं कुर्यात्, अस्थिरहितानां च मत्कुणादीनां शकटपरिमितानां वधे तदेव प्रायश्चित्तं कुर्यात्॥ १४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अस्थ्यन्वितानाम्** इति । अनस्थिसाहचर्याद् अस्थिमतां प्राणिनां क्षुद्रजन्तूनां कृकलासादीनां सहस्रस्य वधे शूद्रवधव्रतम् औपदेशिकं कुर्यात् । अस्थिरहितानां प्राणीनां क्षुद्रजन्तूनां मत्कुणादीनां च शकटपूरणपरिमाणानां वधाद् एतद् एव व्रतं कुर्यात्॥ ११.१३९ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -88,11 +88,34 @@ Vaiśya or Śūdra should not drink the milk of the Kapilā cow.’
 milk of the cow in heat;—nor of the cow whose calf is absent or dead, of the cow that has been milked dry, nor of one just calved, till seven days have elapsed, according to some,—ten days, according to others,—while according to some, milk becomes drinkable after a month;—they say that for two months, all the milk should he given to the calf; during the third month, one shall milk only two teats, during the fourth three teats.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ क्षीराणि यान्यभक्षाणि तद्विकाराशने बुधः ।**
+
+**सप्तरात्रं व्रतं कुर्यात्प्रयत्नेन समाहितः ॥१॥ \]**
+
+प्रसूताया अनिर्देशाया गोर्दुग्धम् । गोरिति पेयक्षीरपशूपलक्षणार्थम् । तेनाजामहिष्योरपि दशाहमध्ये प्रतिषेधः । तथा च यमः—
+
+**अनिर्दशाहं गोक्षीरमाज माहिषमेव च ।**
+
+तथोष्ट्रभवं, अश्वाद्येकखुरसंबन्धि, मेषभवं, संधिनी या ऋतुमती वृषमिच्छतीतस्याः क्षीरम् । तथा च हारीतः - “संधिनी वृषस्यन्ती तस्याः पयो न पिबेदृतुमत्तद्भवति" ।विवत्सायो मृतवत्सायाः असन्निहितवत्सायाश्च क्षीरं वर्जयेत् ।धेन्वधिकरणन्यायेन वत्सग्रहणादेव गवि लब्धायां पुनर्नोग्रहणं गोरेव, न त्वजामहिष्योरिति ज्ञापनार्थम् ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनिर्दशायाच्ब् **इति । प्रसूतायाश् चानिर्दशाया योः सम्बन्धि क्षीरम् । तथा उष्ट्रसम्बन्धि अश्वाद्येकशफैडकसम्बन्धि च तथा “अदुग्ध्या दोहकालेष् सन्धिनी सद्भिर् उच्यते” इति त्रिकाण्डाभिधानात् भक्ष(?)क्षीराया अपि सन्धिन्याः क्षीरम्, तथा मृतवत्सायाश् च **गोः पयो** वर्जयेत् । वत्सग्रहणाद् एव् गविलब्धायां गोग्र्हणं गौर् एव, न त्व् अजामहिष्योर् इति ज्ञापनार्थम् । अत्र क्षीरग्रहणे प्रकृते सन्धिणीक्षीरं विवत्सायाश् च गोः पय इति पुनः क्षीरग्रहणपयोग्रहणाच् च सन्धिनीविवत्सायाश् च क्षीरम् एव प्रतिषिध्यते । न तु तद्विकारा इति _कश्चिद्_ आह – _तद् असत्_, स्वभावाशुचिनो विकाराभ्यनुज्ञानस्यान्याय्यत्वात् । यथा चाशुभाग्नेषु तस्य निषेधदर्शनम् । शङ्खश् चाह-
+
+> क्षीराणि यान्य् अभक्ष्याणि तद्विकाराशने बुधः ।
+
+> सप्तरात्रव्रतं कुर्यात् प्रयत्नेन समाहितः ॥ इति ।
+
+सन्धिन्याश् च तद्धितनिर्देशस्य कृतत्वाच् च क्षीरग्रहणं कर्तुम् उपयुज्यते सन्ध्नीक्षीरम् इति च समासान्तर्वर्तित्वात् क्षीरशब्दस्य गोः पय इति पयोग्रहणम् उपयुज्यते ॥ ५.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	The milk of a cow (or other female animal) within ten days after her calving, that of camels, of one-hoofed animals, of sheep, of a cow in heat, or of one that has no calf with her,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

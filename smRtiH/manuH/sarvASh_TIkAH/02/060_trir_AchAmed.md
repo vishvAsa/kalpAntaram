@@ -73,11 +73,24 @@ his hands, seated, he should sip water thrice, and wash twice; having sprinkled 
 should touch the holes with water in its natural condition.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वं ब्राह्मादितीर्थेन जलगण्डूषत्रयं पिबेत् । अनन्तरं संवृत्यौष्ठाधरौवारद्वयमङ्गुष्टमूलेन संमृज्यात् ।
+
+**संवृत्याङ्गुष्ठमूलेन द्विः प्रमृज्यात्ततो मुखम् ।**
+
+इति दक्षेण विशेषाभिधानात् । खानि चेन्द्रियाणि जलेन स्पृशेत् । मुखस्य सन्निधानान्मुखखान्येव । गोतमोऽप्याह- "खानि चोपस्पृशेच्छीर्षण्यानि" ।"हृद्यन्तर्ज्योतिः पुरुषः" ( बृह० ४ / ३ / ७ ) इत्युपनिषत्सु हृदयदेशत्वेनात्मनः श्रवणादात्मानं हृदयं शिरश्चाद्भिरेव स्पृशेत् ॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+आचमनस्यालौकिकत्वात् स्वरूपम् आह **त्रिर्** इति । प्रथमं त्रीन् वारान् अपः तीर्थेनाचामेत् । ततः आस्यं द्वौ वारौ अपि शोधयेत् । तद् अनु च **खानि** इन्द्रियच्छिद्राणि **अद्भिः स्पृशेत् **। ततः आत्मस्थानं हृदयम्, अथो **शिर** इति ॥ २.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	Let him first sip water thrice; next twice wipe his mouth; and, lastly, touch with water the cavities (of the head), (the seat of) the soul and the head.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -43,6 +43,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 252), which adds the fo
 to the Brāhmaṇas; a field furnished with Brāhmaṇas is the source of prosperity of the world. A Brāhmaṇa may command respect and a distinguished seat at the King’s court. In the morning, the King shall show his face to, and salute, the Brāhmaṇa first of all.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्याचारवन्तं ब्राह्मणं रोगिणं पुत्रवियोगादिदुःखितं बालवृद्धदरिद्रमहाकुलप्रसूतोदारचरितान् राजा दानमानहितकरणैः संपूजयेत्सदा ॥ ३९९ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रोत्रियं व्याधिनार्तं चेति **। अध्ययनानुष्ठानवन्तं ब्राह्मणं रोगिणं प्रियवियोगाक्रान्तं बालवृद्धदरिद्रमहाकुलीनोत्पन्नार्जवोपेतान् राजा दानमानप्रियकरणेन सर्वदा पूजयेत् ॥ ८.३९५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **श्रोत्रियः** शास्त्रप्रसिद्ध्या ब्राह्मणो गृह्यते । व्याधितार्तबालवृद्धाकिंचना अश्रोत्रिया अपि सन्तः । **महाउलीनम्**, [सगुणकुलजातम्], **आर्यं च राजा संपूजयेत् सदा** । प्रकरणात् कराग्रहेण ग्रासाच्छादनेन वा स्थित्यर्थेन । कराग्रहणादिकेन तपस्विश्रोत्रियप्रसङ्गाच् चायं व्यवहारमध्ये कारुधर्म उच्यते ॥ ८.३९३ ॥

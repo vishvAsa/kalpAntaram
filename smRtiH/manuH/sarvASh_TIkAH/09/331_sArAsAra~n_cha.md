@@ -48,6 +48,13 @@ This verse is quoted in *Madanapārijāta* (p. 227), which explains ‘*bhāṇ�
 See Comparative notes for [Verse 9.326].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इदमुत्कृष्टमेतदपकृष्टमित्येकजातीनामपि द्रव्याणां विशेषं जानीयात्तथा देशानां प्राक्पश्चिमादीनां क्व किमल्पमूल्यंकिं बहुमूल्यं चेत्यादि देशगुणदोषौ बुध्येत। विक्रयद्रव्याणां चेयता
+
+कालेन इयानपचय उपचयो वेति विद्यात्। तथाऽस्मिन् देशे कालेऽनेन च तृणोदकयवादिना पशवोवर्धन्तेऽनेन क्षीयन्त इत्येतदपि जानीयात्॥ ३३१॥
+</details>
+
 <details><summary>Bühler</summary>
 
 331	Moreover, the excellence and defects of commodities, the advantages and disadvantages of (different) countries, the (probable) profit and loss on merchandise, and the means of properly rearing cattle.

@@ -62,6 +62,16 @@ well versed in astrology, endowed with the aforesaid qualities, expert in crimin
 whose family and character are well-known, who is well-instructed in the Veda with the six subsidiaries, in portents and the science of government, competent to allay all troubles from human and superhuman sources hy means laid down in the Atharva Veda; him the king shall follow as the pupil follows the teacher, the son the father, or the servant the master.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुरोहितं चाप्याथर्वणविधिना कुर्वीत।ऋत्विजश्च कर्माणि कर्तुं वृणुयात्। ते चास्य राज्ञो गृह्योक्तानि न्नेतासंपाद्यानि कर्माणि कुर्युः॥७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पुरोहितम्** इति । **पुरोहितं** चाथर्वणविधिज्ञं **कुर्वीत** । **ऋत्विजश्** च सूत्रकारोक्तप्रक्रियया **वृणुयात्** । **ते चास्य** राज्ञो गृह्योक्तानि श्रौतानि **कर्माणि कुर्युः** ॥ ७.७८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अमात्यगुणैर् ब्राह्मणगुणैश् च युक्तः पुरो[हितः स्]यात् । ऋत्विजस् तु ब्राह्मणगुणयुक्ता एव ॥ ७.७८ ॥

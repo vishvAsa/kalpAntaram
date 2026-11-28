@@ -66,11 +66,20 @@ not dirtied by gnats and flies that have settled on it (is pure).’
 exposed for sale, alms and woman’s mouth.’ *Śaṅkha* (Aparārka, p. 263).—‘The artisan’s hand is pure, so also substances got out of mines and washed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कारोर्मालाकारादेर्देवब्राह्मणाद्यर्थेऽपि माल्यादिग्रथने द्रव्यप्रयोजनाद्यपेक्षया शुद्धिविशेषाकरणेऽपि स्वभावादेव हस्तः सर्वदा शुद्धः । तथा जननमरणयोरपि स्वव्यापारे शुद्ध ।"नत्वाशौचं कारुणां कारुकर्मणि" इति वचनात् । तथा यद्विक्रेतव्यं पण्यवीथिकायां प्रसारितं "नापणनीयमन्नमश्नीयात्" इति शङ्खवचनात्सिद्धान्नव्यतिरिक्तं तदनेकक्रेतृकररूपशंऽपि शुद्धमेव । तथा ब्रह्मचार्यादिगतभैक्ष्यमनाचान्तस्त्रीदत्तमपि रथ्यादिक्रमणेऽपि सर्वदा शुद्धमिति शास्त्रमर्यादा ॥१२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम् **इति । कारोः सूपचारादेर् देवब्राह्मणाद्यर्थे ऽपि पाके द्रव्यप्रयोजनापक्ष-शुद्धिविशेषाकरणे ऽपि सुशुद्ध्यैव हस्तः शुद्धः, तथा अशौचे ऽपि “कारूणां कारुकर्मणि” इति विष्णुस्मरणात् । स्वव्यापारमात्रे हस्तः शुद्धः हस्तप्रधानप्रायत्वाच् च तत्कर्मणां हस्तग्रहणम् । तथा यद् विक्रेतव्यम् आपणभूमौ वितत्य स्थापितं तद् अनेकक्रेतृसामान्यकरपरिघटितम् अपि “नापणीयम् अन्नम् अश्नीयात्” इति शङ्खस्मरणात् । सिद्धान्नवर्जं शुचि ब्रह्मचर्यादिगतं भैक्ष्यम् अनाचान्तस्त्रीप्रदानशुचि रथाक्रमणादिनापि नित्यं शुद्धम् इति शास्त्रमर्यादा ॥ ५.१२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 129	The hand of an artisan is always pure, so is (every vendible commodity) exposed for sale in the market, and food obtained by begging which a student holds (in his hand) is always fit for use; that is a settled rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -39,11 +39,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 55); — and in
 *Nirṇayasindhu* (p. 281.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणप्रभृतीनां चतुर्णां वर्णानां सोमपाप्रभृतयश्चत्वारः पितरः स्मृताः ॥१९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सोमपा नामेति** । ब्राह्मणक्षत्रियवैश्यशूद्राणां यथाक्रमं सोमपहविर्भुजाज्यप-सुकालिनामानः पितरः ॥ ३.१९७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

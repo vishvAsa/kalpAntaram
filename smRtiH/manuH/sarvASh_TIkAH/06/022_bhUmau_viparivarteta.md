@@ -52,6 +52,16 @@ day he shall pass on tip-toe, or standing, sitting and walking, or by the practi
 standing and sitting, and shall never lose his steadiness.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केवलायां भूमौ लुण्ठन्गतागतानि कुर्यात्। स्थानासनादावुपविशेत्।उत्तिष्ठेत्पर्यटेदित्यर्थः। आवश्यकं स्नानभोजनादिकालं विहाय चायंनियमः, एवमुत्तरत्रापि।पादाग्राभ्यां वा दिनं तिष्ठेत्कञ्चित्कालं स्थित एव स्यात् कञ्चिच्चोपविष्ट एव न त्वन्तरा पर्यटत्। सवनेषु सायंप्रातर्मध्याह्नेषु स्नायात्। यत्तु सायं प्रगे तथेत्युक्तं तेन सहास्य नियमातिशशयापेक्षो विकल्पः॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भूमाव्** इति । **भूमौ** लुठन् गतागतानि वा कुर्यात् । पादाग्रभ्यां वा दिनं तिष्ठेत् किञ्चिच् च कालस्थित एव स्यात् । किञ्चिच् चोपविष्ट एव सवनेषु सायम्प्रातर् मध्यन्दिनेषु च स्नानं कुर्यात् । “प्रगे तथा” इत्य् एतेन सहास्य विकल्पो नियमातिशयापेक्षः ॥ ६.२२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 022	Let him either roll about on the ground, or stand during the day on tiptoe, (or) let him alternately stand and sit down; going at the Savanas (at sunrise, at midday, and at sunset) to water in the forest (in order to bathe).

@@ -35,6 +35,11 @@ This verse is quoted in *Vīramitordaya* (Rājanīti, p. 151).
 See Comparative notes for [Verse 9.313].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ययाऽऽहिवोऽनाहितो वाग्निमंहती देवता, एवं मूर्खो विद्वांश्च ब्राह्मणः प्रकृष्टा देवतेति॥ ३१७॥
+</details>
+
 <details><summary>Bühler</summary>
 
 317	A Brahmana, be he ignorant or learned, is a great divinity, just as the fire, whether carried forth (for the performance of a burnt-oblation) or not carried forth, is a great divinity.

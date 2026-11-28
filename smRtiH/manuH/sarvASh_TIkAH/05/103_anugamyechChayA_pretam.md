@@ -51,11 +51,20 @@ folly, follows the corpse of a Kṣatriya, he remains impure for one day and bec
 corpse being followed, purification comes after one day; in that of a Vaiśya one, after two days; and in that of a Śūdra one, after three days, followed by a hundred breath-suspensions.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्ञातिमज्ञातिं वा मृतमिच्छातोऽनुगम्य सचैलस्नानं च कृत्वा ततोऽग्निं च स्पृष्ट्वा पश्चाद्धतप्राशनं कृत्वा अनुगमननिमित्ताशौ वाद्विशुद्ध्यति ॥१०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनुगम्येति** । बन्धुम् अन्यं प्रेतं वा बुद्धिपूर्वकम् अनुगम्य स्नानं कृत्वा ततो ऽग्निं स्पृष्ट्वा तदनु च घृतप्राशनं कृत्वा विशुध्यति ॥ ५.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	Having voluntarily followed a corpse, whether (that of) a paternal kinsman or (of) a stranger, he becomes pure by bathing, dressed in his clothes, by touching fire and eating clarified butter.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

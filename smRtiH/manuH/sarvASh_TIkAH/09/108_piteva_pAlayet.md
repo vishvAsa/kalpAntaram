@@ -12,11 +12,8 @@ The eldest brother shall support his younger brothers, just as the father suppor
 
 पुत्रवत् पालनीया न तु बाला इति धनादिना गर्हणीयाः । तैर् अप्य् अयं पितेति भावनीयम्[^२६७] । तद् आह **पुत्रवच् चापि वर्तेरन्न्** इति ॥ ९.१०८ ॥
 
-
 [^२६७]:
      M G omit: tair apy ayaṃ piteti bhāvanīyam
-
-_अपरा प्रशंसा ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -38,6 +35,11 @@ This verse is quoted in *Vivādaratnākara* (p. 457), which adds the following e
 **
 
 See Comparative notes for [Verse 9.105].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ज्येष्ठो भ्राता विभागाभावेऽनुज्जान्भ्रातृम्भक्ताच्छादनादिभिः पितेव बिभृभात्। अनुजाश्व भ्रातरः पुत्रा इव ज्येष्ठे भ्रातरि धर्माय वर्तेरन्। १०८॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -53,6 +53,16 @@ North-East till his body perishes.’
 Long Journey, or drown in water or enter the fire, or fall from a precipice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अचिकित्सितव्याध्याद्युद्भवेऽपराजितामैशानीं दिशमाश्रित्याकुटिलगतियुक्तो योगनिष्टो जलानिलाशन आशरीरनिपाताद् गच्छेत्। महाप्रस्थानाख्यं शास्त्रे विहितं चेदं मरणम्। तेन “न पुरायुषः स्वःकामी प्रेयात्”इति श्रुत्याऽपि न विरोधः।यतः स्वःकामिशब्दप्रयोगादवैधं मरणमनया निषिध्यते न शास्त्रीयम्॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अचिकित्स्यव्याध्युद्भवे ऽनिष्टसन्दर्शने वा सति **अपराजिताम्** इति । उत्तरपूर्वां वा दिशम् आश्रित्य अकुटिलयोगनिष्ठावान् वार्यम्बुभक्षः सन् आ शरीरसन्निपाताद् गच्छेत् । न पुरायुषः स्वकामी प्रेयाद् इत्य् एतत्श्रुतिविरोधो न, यतः स्वकामिशब्दाद् अविधिमरणम् अत्र निषिध्यते इति अवसीयते न शास्त्रचोदितम् इति ॥ ६.३१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 031	Or let him walk, fully determined and going straight on, in a north-easterly direction, subsisting on water and air, until his body sinks to rest.

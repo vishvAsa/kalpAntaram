@@ -48,6 +48,16 @@ king shall honour the gods and Brāhmaṇas; he shall then worship the Fire.’
 and domestic priests and the teacher, he shall see the astrologers and physicians and then give away cows, gold and land.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स भूपो रात्रेः पश्चिमयाम उत्थाय कृतमुत्रपुरीषोत्सर्गादिशौचोऽनन्यमनाः कृताग्निहोत्रावसथ्यहोमो ब्राह्मणान्पूजयित्वा वास्तुलक्षणाद्युपेतां सभाममात्यादिदर्शनगृहं प्रविशेत् ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्थायेति** । मुहूर्तमात्रावशिष्टायां रात्राव् **उत्थाय** कृतावश्यकशौचः संयतमनाः कृताग्निहोत्रो **ब्राह्मणान्** पूजयित्वा वास्तुलक्षणोपेतां **सभाम्** अमात्यादिधर्शनवेश्म **प्रविशेत्** ॥ ७.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	Having risen in the last watch of the night, having performed (the rite of) personal purification, having, with a collected mind, offered oblations in the fire, and having worshipped Brahmanas, he shall enter the hall of audience which must possess the marks (considered) auspicious (for a dwelling).

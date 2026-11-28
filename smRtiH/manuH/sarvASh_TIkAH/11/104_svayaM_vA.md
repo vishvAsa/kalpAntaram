@@ -55,6 +55,16 @@ It is quoted in *Madanapārijāta* (p. 836), which also adds that the man should
 See Comparative notes for [Verse 11.103].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्मनैव वा लिङ्गवृषणौ छित्त्वाऽञ्जलौ कृत्वा यावच्छरीरपातमवक्रगतिः सन्दक्षिणपाश्चमां दिशं गच्छेत्। एवं चोक्तप्रायश्चित्तद्वयं गुरुत्वात्सवर्णगुरुभार्याविषयं ज्ञानतो रेताविसर्गपर्यन्तमैथुनविषयम्॥ १०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वयम्** इति । आत्मनैव वा लिङ्गवृषणम् उत्खायाञ्जलौ गृहीत्वा स्पष्टगतिः सन्न् आ शरीरपाताद् दक्षिणपश्चिमां दिशं गच्छेत् ॥ ११.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	Or, having himself cut off his organ and his testicles and having taken them in his joined hands, he may walk straight towards the region of Nirriti (the south-west), until he falls down (dead);

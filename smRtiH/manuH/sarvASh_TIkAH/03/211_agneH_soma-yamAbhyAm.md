@@ -42,6 +42,16 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 1353), which adds the followin
 as declared before.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अग्नेः सोमयमयोश्च विधिवत्पर्युक्षणादिपूर्वं हविर्दानेन प्रीणनमादौ कृत्वा पश्चादन्नादिना पितृृं स्तर्पयेत् । सोमयमयोर्द्वन्द्वनिर्देशेऽपि पृथगेव देवतात्वम्, सहादिशब्दप्रयोगाभावात् । यत्र साहित्यं विवक्षितं तत्र सहादिशब्दं करोतीत्युक्तं प्राक् ॥२११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्नेर्** इति । सोमयमयोः द्वन्द्वनिर्देशे ऽपि **अग्नेर्** निर्देशाभावात् देवताद्वयं तेन अग्नये स्वाहा, सोमाय स्वाहा, यमाय स्वाहेत्य् एवं अग्न्यादीनां पर्युक्षणादि विधिपूर्वकं हविर्दानेन तर्पणं आदौ कृत्वा पश्चाद् ब्राह्मणभोजनादि ॥ ३.२११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.

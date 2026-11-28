@@ -49,6 +49,16 @@ most potent factor; that is why castes become intermixed.’
 Do. (p. 581).—‘The declaration of the Veda is that the child belongs to the owner of the soil; some sages say that the child belongs to the mother; the child is said to belong to two fathers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुत्रमधिकृत्य शिष्टैर्मन्वादिभिः पूर्वमुत्पन्नैश्च महर्षिभिरभिहितमिमं वक्ष्यमाणं सर्वजनहितं विचारं शृणुत ॥ ३१ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पुतम्** इति । पुनर् अधिकृत्य शिष्टैर् मन्वादिभिः पूर्वजातैश् चान्यैर् महर्षिभिः संवक्ष्यमाणं सर्वजनहितं कल्याणकरं परं शृणुत ॥ ९.३१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथा विश्वजन्य् ऽसौ तथेदम् उच्यते ॥ ९.३१ ॥

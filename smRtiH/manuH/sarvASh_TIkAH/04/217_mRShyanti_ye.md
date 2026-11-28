@@ -68,11 +68,20 @@ food should not be eaten:—Actor, dancer, carpenter, cobbler, goldsmith, a brot
 embryo-killer, harlot, weapon-maker, oil-presser, wine-seller, goldsmith, writer, eunuch, loose woman, astrologer, prostitute,—the food of these should not be eaten. The hog-dealer, fowler, vagabond, dyer, stage-maker, bamboo-dealer, cobbler,—of these, the food should not bo eaten, nor gifts accepted.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृह इत्यनुषज्यते । गेहे ज्ञातं भार्याजारं ये सहन्ते तेषामन्नं न भुञ्जीत ।तेन गृहान्निः - सारिताया जारसहने नैष दोषः । तथा सर्वकर्मसु स्त्रीपरतन्त्राणाम्, अनिर्गताशौचं च सूतकान्नम् अतुष्टिकरमेव च न भुञ्जीत ॥२१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मृष्यन्तीति** । भार्याजारं ये सहन्ते तदन्नम् अभोज्यम् एवं (च) गृहाद् गतायां जारिण्याम् उपेक्षितायाम् अपि प्रतिषेधः । सर्वकर्मसु स्त्र्यायत्तानां अनिर्गताशौचं च मृतकान्नम् अप्रीतिकरं च न भूज्ञीत ॥ ४.२१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

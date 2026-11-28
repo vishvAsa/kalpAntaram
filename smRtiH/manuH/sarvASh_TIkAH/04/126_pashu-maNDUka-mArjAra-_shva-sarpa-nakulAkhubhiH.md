@@ -42,11 +42,15 @@ or a mongoose or a dog or a serpent or a cat or a rat,—it will be unfit for st
 *rise* of Indra.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पशुमण्डूकमार्जारश्वसर्पनकुलाखुभिर्** इति । शिष्योपाध्याययोर् अधीयानयोः गवादिपशुमण्डूकबिडालश्वसर्पनकुलमूषकैः मध्यगमने कृते अहोरात्रम् अनध्यायं जानीयत् ॥ ४.१२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 126	Know that (the Veda-study must be) interrupted for a day and a night, when cattle, a frog, a cat, a dog, a snake, an ichneumon, or a rat pass between (the teacher and his pupil).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

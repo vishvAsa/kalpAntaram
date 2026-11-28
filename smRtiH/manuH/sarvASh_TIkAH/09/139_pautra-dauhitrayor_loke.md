@@ -41,6 +41,11 @@ and [132].
 son and the daughter’s son: for even a daughter’s son works the salvation of a sonless man just like a son’s son.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दौहित्रः पुत्रिकापुत्रः। पुत्रदौहित्रयोर्लोके कश्चिद्विशेषो न सम्भाव्यते, यस्माद्दौहित्रोऽपि मातामहं परलोके पौत्रवन्निस्तारयति। एतच्च पौत्रिकेयस्य पौत्रेण साम्यप्रतिपादनार्थं पुत्रिकाकरणानन्तरजातपुत्रेण सह धने तुल्यभागबोधनार्थम्॥ १३९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उक्तार्थोपसंहारार्थः श्लोकः ॥ ९.१३९ ॥

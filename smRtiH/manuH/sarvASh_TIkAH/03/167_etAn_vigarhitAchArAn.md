@@ -37,11 +37,20 @@ at gifts; these should be avoided with great care—so Yama has declared.’
 of the line; the wise man should avoid them with great care at the performance of Śrāddha.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतास्तेनादीन्निन्दिताचाराकाणादींश्चपूर्वजन्मार्जितनिन्दितकर्मशेषलब्धाणादिभावान्साधुभिः सहैकत्र भोजनाद्यनर्हान्ब्राह्मणावसदान् ब्राह्मणश्रेष्ठः शास्त्रज्ञो दैवे पित्र्येच त्यजेत् ॥१६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतान्** इति । एते निन्दिताचाराः स्तेनादयः इहजन्मनि । काणादयश् च “एवं कर्माव्शेषेण जायन्ते” इति वक्ष्यमाणत्वात् प्राग्जन्मनि । अत एतान् योग्यब्राह्मणैः सह एकपङ्क्तिभोजनानर्हान् ब्राह्मणापसदान् द्विजश्रेष्ठः शास्त्रज्ञः दैवे पित्र्ये च वर्जयेत् ॥ ३.१६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 167	A Brahmana who knows (the sacred law) should shun at (sacrifices) both (to the gods and to the manes) these lowest of twice-born men, whose conduct is reprehensible, and who are unworthy (to sit) in the company (at a repast).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

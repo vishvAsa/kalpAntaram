@@ -78,11 +78,20 @@ northward, without causing injury, he should fetch fuel,—wet, if desirous of f
 in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in the absence of these, Arka and Vetasa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दूरादिग्भ्यः परिगृहीतवृक्षेभ्यः समिध आनीय आकाशे धारणाशक्तः पटलादौ स्थापयेत् । ताभिश्च समिद्भिः सायंप्रातरनले होमं कुर्यात् ॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दूराद् आहृत्येति** । अरण्यात् **समिध आहृत्येति** गृह्यदर्शनात् । दूरस्य वा अपर्यवसितत्वात् अपरिगृहीताः समिध आनीय **विहायसि** आकाशे निधानासम्भवात् गृहपटकादौ स्थापयेत् । **ताभिश्** चानलसः सन् **सायम्प्रातर् **अग्निकार्यं कुर्यात् ॥ २.१८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 186	Having brought sacred fuel from a distance, let him place it anywhere but on the ground, and let him, unwearied, make with it burnt oblations to the sacred fire, both evening and morning.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

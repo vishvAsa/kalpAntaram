@@ -1,6 +1,7 @@
 +++
 title = "209 ब्रह्महा क्षयरोगी"
 +++
+
 <details><summary>मूलम्</summary>
 
 ब्रह्महा क्षय-रोगी स्यात्  
@@ -11,15 +12,15 @@ title = "209 ब्रह्महा क्षयरोगी"
 
 <details><summary>विज्ञानेश्वरः</summary>
 
-_किं च _।[४४]
+_किं च _।[^४४]
+
+[^४४]: In NSP and Pāṇḍeya, there is an introductory statement: evaṃ ca tiryaktvād uttīrṇānāṃ mānuṣye rogādilakṣaṇāṇi bhavantīty āha | And "kiṃ ca" is given as part of the commentary. Since this is unusual, I think Seltur is right in taking this as the introduction. He notes that the longer sentence is found only in a single manuscript.
 
 > **ब्रह्महा क्षयरोगी स्यात् सुरापः श्यावदन्तकः । ३.२०९अब्**  
 > **हेमहारी तु कुनखी दुश्चर्मा गुरुतल्पगः ॥ ३.२०९च्द्**  
 > **यो येन संवसत्य् एषां स तल्लिङ्गो ऽभिजायते । ३.२१०अब्**
 
 एवं रौरवादिनरकेषु श्वसूकरखरादियोनिषु च दारुणं दुःखम् अनुभूयानन्तरं दुरितशेषेण जननसमय एव क्षयरोगादिलक्षणयुक्ताः प्रचुरेषु मानवशरीरेषु संसरन्ति । ब्रह्महा क्षयरोगी राजयक्ष्मी भवेत् । निषिद्धसुरापः स्वभावतः कृष्णदशनः । ब्राह्मणहेम्नो हर्ता कुत्सितनखत्वम् । गुरुदारगामी दुश्चर्मत्वं कुष्ठिताम् । एतेषां ब्रह्महादीनां मध्ये येन पतितेन यः पुरुषः संवसति स तल्लिङ्गो’भिजायते । ॥ ३.२०९ ॥
-
-[४४]: In NSP and Pāṇḍeya, there is an introductory statement: evaṃ ca tiryaktvād uttīrṇānāṃ mānuṣye rogādilakṣaṇāṇi bhavantīty āha | And "kiṃ ca" is given as part of the commentary. Since this is unusual, I think Seltur is right in taking this as the introduction. He notes that the longer sentence is found only in a single manuscript.
 </details>
 
 <details><summary>विश्वरूपः</summary>

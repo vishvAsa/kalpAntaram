@@ -151,6 +151,16 @@ Domestic Priest, he shall, in the first instance, appoint ministers to unimporta
 Do. (p. 76).—‘The cabinet of ministers shall consist of twelve—say the followers of Manu; sixteen, say the followers of Bṛhaspati; twenty, say the followers of Uśanas; the number shall depend on the king’s own capacity, says Kauṭilya.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मौलान्पितृपितामहक्रमेण सेवकान्, तेषामपि द्रोहादिना व्यभिचारात् दृष्टादृष्टाथशास्त्रज्ञान्विक्रान्तान्, लब्धलक्षान्लक्षादप्रच्युतशरीरशल्यादीवायुधविद इत्यर्थः । विशुद्धकुलभवान्देवतास्पर्शादिनियतानमात्यान्सप्ताष्टौवा मन्त्रादौ कुर्वीत ॥५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मौलान्** इति । पित्राद्यन्वयायातान् स्नेहातिशयेनाव्यभिचारार्थं दृष्टादृष्टार्थशास्त्रज्ञान् दृष्टादृष्टमर्यादानुल्लङ्घनार्थं विक्रान्तान् शरीरानपेक्षं प्रभुवृत्त्यर्थं पुनः कृतराजकार्यान् असम्मोहेन कर्मसम्पत्त्यर्थम् । कुलीनान् कुलाभिमानेनाव्यभिचारार्थम् । धर्मार्थकाममयविषये चारप्रयोगादिद्वारेण कृतपरीक्षान् शुद्धान् सप्त चाष्टौ वामात्यान् सहायभूतान् मन्त्रादौ कुर्वीत ॥ ७.५४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 _यस्मात्_,

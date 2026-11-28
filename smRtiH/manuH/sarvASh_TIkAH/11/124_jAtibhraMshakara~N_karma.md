@@ -48,6 +48,16 @@ laying down the expiation common to all ‘*Jātibhraṃśakara*’ offences;—
 caste shall perform the *Sāntapana* penance; he who has done so unawares shall perform the *Prājāpatya* penance.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“ब्राह्मणस्य रुजः कृत्वा” (म. स्मृ, ११–६७) इत्यादि जातिभ्रंशकर्मोक्तं तन्मध्यादन्यतमं कर्मविशेषमिच्छातः कृत्वा वक्ष्यमाणं सान्तपनं सप्ताहसाध्यं कुर्यात्। अनिच्छातःपुनः कृत्वा प्राजापत्यं वक्ष्यमाणं चरेत्॥ १२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जातिभ्रंशकरम्** इति । ब्राह्मणस्य रुजः कृत्वेत्यादि जातिभ्रंशकराण्य् उक्तानि तेषु मध्याद् अन्यतमम् इच्छया कृत्वा वक्ष्यमाणं सान्तपनं कुर्यात् । अनिच्छातस् तु कृत्वा प्राजापत्यं वक्ष्यमाणम् ॥ ११.१२३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सान्तपनं कृच्छ्रं प्राजापत्यं च वक्ष्यति ॥ ११.१२३ ॥

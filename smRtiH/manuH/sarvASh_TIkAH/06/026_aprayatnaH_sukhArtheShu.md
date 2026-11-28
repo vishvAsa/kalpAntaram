@@ -49,6 +49,16 @@ roots of a tree.’
 *Do*. (3.5.4).—(See under 25.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सुखप्रयोजनेषु स्वादुफलभक्षणशीतातपपरिहारादिषु प्रयत्नशून्योऽस्त्रीसम्भोगी भुशायी च निवासस्थानेषु ममत्वरहितो वृक्षमूलवासी स्यात्॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अप्रयत्न** इति । सुखप्रयोजनेषु शीतातपपरिहारादिषु यत्नरहितः स्त्रीसम्प्रयोगरहितः वरण्डकस्थण्डिलशायी आश्रमेषु वृक्षमूलेषु ममेदम् इत्य् एवमात्मीयाभिमानशून्यो वृक्षनिकेतननिवासी स्यात् ॥ ६.२६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 026	Making no effort (to procure) things that give pleasure, chaste, sleeping on the bare ground, not caring for any shelter, dwelling at the roots of trees.

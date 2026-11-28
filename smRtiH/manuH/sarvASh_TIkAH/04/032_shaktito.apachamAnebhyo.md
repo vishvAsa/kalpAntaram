@@ -60,11 +60,27 @@ master and mistress of the house shall not refuse him.’
 Do. (2.10.10).—‘Distribution of food has been laid down for such seekers for food as may be coming daily,—but without detriment (to the master).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपचमाना ब्रह्मचारिपरिव्राजकाः पाषण्डादयः । ब्रह्मचारिपरिव्राजकानामुक्तमप्यन्नदा  
+पचमानापेक्षयाऽतिशयार्थं स्नातकव्रतत्वार्थं च पुनरुच्यते । (१)[^78] मेधातिथिगोविन्दराजौ तु
+
+[^78]: "अपचमाना ब्रह्मचारिपरिव्राजका इत्याहुः । तदुक्तं मृताय नित्यवद्दानं विहितमेव ।भिक्षां चभिक्षवे दद्यादिति । तस्माद्ये दरिद्रा भैक्षजीवनाश्च पाखण्ड्यादयःतेभ्यः शक्तितो दातव्यम् ।यावद्भ्यः शक्यते यावञ्च पच्यते पचिक्रियाविरहनिभित्तत्त्वाच्चसिद्धान्तमेवेदम् ।"
+
+**भिक्षां च भिक्षवे दद्याद्विविधिवद् ब्रह्मचारिणः ।**
+
+इति ब्रह्मचारिपरिव्राजकयोरुक्तत्वात्पाषण्ड्यादिविषयत्वमेवास्यवचनस्येत्यूचतुः। स्वकुटुम्बानुरोधेन वृक्षादिपर्यन्तप्राणिभ्योऽपि जलादिनाऽपि विभागः कर्तव्यः ॥३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अन्नमात्रं पुनः **शक्तत** इति । गृहस्थेन पाकरहितेभ्यः पाखण्ड्यादिभ्यो यथाशक्त्यान्नं देयम्, स्वकुटुम्बाद्नुपरोधेन वृक्षपर्यन्तेभ्यो दोह्यादिदानेन **संविभागः** कर्तव्यः ॥ ४.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

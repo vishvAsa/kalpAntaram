@@ -60,11 +60,22 @@ The term ‘*sāhasra*’ literally means *that which has a thousand*; and since
 ‘*vidhi*’ it reads ‘*ārambha*’\].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विधिविषयो यज्ञो विधियज्ञो दर्शपौर्णमासादिस्तस्मात्प्रकृतानां प्रणवादीनां जपयज्ञो दशगुणाधिकः । सोऽप्युपांशुश्चेदनुष्ठितस्तदा शतगुणाधिकः । यत्समीपस्थोऽपि परो न शृणोति तदुपांशु ।मानसस्तु जपः सहस्रगुणाधिकः । यत्र जिह्वौष्टं मनागपि न चलति स मानसः ॥८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+_शब्दार्थयोर् वेदान्तदृष्ट्योत्पादित (शब्दार्थो यो वेदान्तदृष्ट्योत्पादितः) वैदिककर्मनिन्दया प्रकृतार्थस्तुतिः ।_
+
+**विधियज्ञाद्** इति । बाह्यव्यापारसम्पाद्याद् अग्निष्टोमादेः **जपयज्ञः विशिष्टो दशभिर् गुणैः** दशगुणफलत्वात् । स एव **चोपांशुः **यं परो न शृणोति **स शतगुणः । **मनोव्यापारसम्पाद्यश् च **सहस्रगुण** इति अभ्यासातिशयापेक्षया द्रव्यत्यागाद् अपि चान्तःसंयमस्य दुःसहत्वात् वैदिककर्मफलाधिक्येन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

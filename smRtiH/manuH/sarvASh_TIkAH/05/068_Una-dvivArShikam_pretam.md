@@ -50,11 +50,15 @@ nor should any water-offerings be made.’
 old, one should smear the body with butter and bury it in the ground.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऊनद्विवार्षिकम्** इति । मासमात्रोनवर्षद्वयप्रमाणं प्रेतम् अलङ्कृत्य ग्रामाद् बहिः शुद्धायां भूमौ कालान्तरसम्भाव्यस्थिसञ्चयनवर्जं बान्धवाः प्रक्षिपेयुः ॥ ५.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	A child that has died before the completion of its second year, the relatives shall carry out (of the village), decked (with flowers, and bury it) in pure ground, without collecting the bones (afterwards).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

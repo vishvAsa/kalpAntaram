@@ -33,11 +33,15 @@ the *Utsarjana* ceremony does not mean that its study should be totally abandone
 carry on the study of the Subsidiary Sciences.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अत** इति । उत्सर्गानध्यायाद् **ऊर्ध्वं** शुक्लपक्षेषु संयमवान् वेदान् अधीयीत । **कृष्णपक्षे** तु **वेदाङ्गानि **व्याकरणादीनि नियमितः **पठेत् **॥ ४.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

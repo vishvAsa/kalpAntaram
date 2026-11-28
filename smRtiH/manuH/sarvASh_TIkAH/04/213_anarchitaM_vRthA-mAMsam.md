@@ -56,11 +56,20 @@ of the enemy, of the outcast;—food intentionally touched with the feet, or sne
 outcast......;—of the maleless woman, of the goldsmith, of the man who is controlled by his wife, of the village-sacrificer, of the man selling weapons, of the carpenter, of the weaver and of one who makes a living by dogs;—of the cruel king, of the dyer, of the ungrateful man, of the man who lives by slaughtering animals, of the clothes-washer, of the wine-seller, and of the man who permits his wife’s paramour to live in the house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अर्चार्हस्य यदवज्ञया दीयते, वृथामांसं देवतादिमुद्दिश्य यन्न कृतं, अवीरायाः पतिपुत्ररहितायाः, शत्रुनगरपतितानां च, उपरि कृतक्षुतं चान्नं न भुञ्जीत ॥२१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनर्चितम्** इति । अर्चार्हस्य यद् अकृतारं दीयते अकृतदेवताद्यर्चनं यन् मासम् अतिथ्यादेर् दीयते कल्पयितुं “देवान् पितॄंश् चार्चयित्वा” इत्य् एवमादेर् वक्ष्यमाणत्वात् न भूज्ञीत ॥ ४.२१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 213	Nor (food) given without due respect, nor (that which contains) meat eaten for no sacred purpose, nor (that given) by a female who has no male (relatives), nor the food of an enemy, nor that (given) by the lord of a town, nor that (given) by outcasts, nor that on which anybody has sneezed;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

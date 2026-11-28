@@ -9,10 +9,17 @@ Even though not put down as a witness, if a person happens to see or hear anythi
 </details>
 
 <details><summary>मेधातिथिः</summary>
+
 <u>ननु</u> चोक्तं "समक्षदर्शनात्" (म्ध् ८.७४) इत्य् अत्र यथाकथंचिदनुभूतवतो ऽनियुक्तस्यापि साक्ष्यम् अस्तीति । तत्र किम् अनेन "यत्रानिबद्धो ऽपि" इति । को वा विशेषः । 
 
 <u>उच्यते</u> । लेख्यारूढस्य व्यापारविशेषाद्युक्तं साक्षित्वं न पुनर् अनारूढस्य । आरोहणस्यानर्थक्यप्रसङ्गाद् उभयोः साक्षित्वे[^२८३] । अत एताम् आशङ्काम् अपनेतुम् इदम् उच्यते । पूर्वस् तु श्लोको यत्रानुकाः[^२८४] साक्षिणः । अयं तु यत्र ससाक्षिकं लेख्यम् ।  
 **अनिबद्धो** लेक्यम् अनारूढो ऽपीत्य् अर्थः । ईक्षणश्रवणे व्याख्याते । शेषं सुबोधम् ॥ ८.७६ ॥
+
+[^२८३]:
+     M G: upekṣya; J: upekṣyetāpi
+
+[^२८४]:
+     DK (1: 388) add: na; (DK 5: 1190 follows edition)
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -47,6 +54,16 @@ to what he has seen or heard, when asked, even though he may not have been cited
 witness, comes of his own accord to make a deposition, is termed a *spy* in the law-books; he is unworthy to bear testimony.’
 
 Do. (1.166).—‘If a witness dies or goes abroad after having been appointed, those who may have heard his statement may give evidence; for indirect proof makes evidence.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+त्वमस्मिन्वषये साक्षी भवेत्येतोमकृतोऽपि यत्किञ्चिदृणादानादि पश्यति वाक्पारुष्यादिकं वा शृणोति तत्रापि साक्षी स पृष्ठः सन् यथोपलब्धं कथयेत् । अयं त्वकृतसाक्षी सामान्येन मनुनोत्कः। अस्य **“ग्रामश्च प्राड्विवाकश्च राजा च”** इत्यादिना नारादिभिः षाङ्गिध्यमुत्कम् ॥७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत्रेति** । त्वं मे साक्षी स्या इत्य् एवं निबद्धो ऽपि यत्र किञ्चिद् ऋणादानादि पश्येद् वाक्पारुष्यादि शृणुयात् तत्रापि पृष्टः सन् साक्षी न ह्य् अर्थोपलब्धं कथयेत् ॥ ८.७६ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -12,7 +12,6 @@ That king in whose town there is no thief, no adulterer, no defamer, no criminal
 
 **यस्य** राज्ञः **पुरे** देशे राष्ट्रे **स्तेनश्** चौरो **नास्ति** स शक्रस्येन्द्रस्य लोकं स्थानं भजते स्वर्गं प्राप्नोति । नान्यस्त्रीगो, अन्यस्य या स्त्री भार्यावरुद्धा पुनर्भूर् वा, स्त्रीग्रहणम् अभार्याया अप्य् असंबन्धिन्याः प्रतिषेधार्थम् । **दुष्ट्वाक्** त्रिविधस्याक्रोशस्य कर्ता । **साहसिक** उक्तः । दण्डेन हन्ति दण्डपारुष्यकृत् । **शक्रलोकभाग्** इति सर्वत्रानुषङ्गः । स्तेनादीनां स्त्रीसंग्रहशेषो[^३०६] ऽयम् अर्थवादः ॥ ८.३८६ ॥
 
-
 [^३०६]:
      M G: sarīrasaṃgrahaśeṣo; DK: sarīranigrahaśeṣo
 </details>
@@ -58,9 +57,14 @@ gamblers, oppressors,—that King in whose realm these persons are not found bec
 sacred law, have been committed, the King, after having reflected upon the matter, shall himself inflict punishment upon those who deserve it. What is opposed to revealed and traditional law, or injurious to living beings, must not be practised by the King; wherever it is practised, he must check it.’
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_यतश् वैतद् एवम् अतः ।_
+यस्य राज्ञो राष्ट्रेचौरः, परदारगामी, परुषवादी, गृहदाहादिसाहसकारी, दण्डपारुष्यकर्ता च नास्ति स राजा शक्रपुरं याति ॥ ३८६ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्येति** । यस्य राज्ञो राष्ट्रे चौरपारदारिकवाक्पारुष्यकृद्दण्डपारुष्याग्निदाहादिसाहसकारिणः न सन्ति स राजा स्वर्गं व्रजेत् ॥ ८.३८६ ॥
 </details>
 
 <details><summary>Bühler</summary>

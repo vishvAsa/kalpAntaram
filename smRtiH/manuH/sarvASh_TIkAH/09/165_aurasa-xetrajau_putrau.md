@@ -57,6 +57,11 @@ one is entitled to offer the Ball and to inherit property only in the absence of
 he partakers of inheritance; the body-born son, the son of the appointed daughter, the son begotten on one’s wife by another man, the adopted son, the appointed son, the secretly-born son, and the cast-off son. The following are partakers of the *gotra* only—the son born of the unborn damsel, the son born of the pregnant bride, the son bought, the son of the remarried woman, the self-given son and the son of the Śūdra mother.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+औरसक्षेत्रजौपुत्रावुक्तप्रकारेण पितृधनहरो स्याताम् । अन्ये पुनर्दश दत्तकादयःपुत्रागोत्रमाजो भवन्ति, "पूर्वाभावे परः परः” ( या० स्मृ, २-१३२ ) इत्येवं क्रमेण धनांशहराश्च॥ १६५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च पूर्वस्मिन् पूर्वस्मिन् सति उत्तरोत्तरः रजीवनमात्रेणांशेन युज्यते । एतस्माच् च यस्मात् पूर्वस्य पूर्वस्य ज्यायस्त्वं गोत्रभाक्त्वं च ज्ञातिकार्यं च कानीनादिभिर् अपि कार्यम् । एषाम् इदानीं लक्षणम् उच्यते ॥ ९.१६५ ॥

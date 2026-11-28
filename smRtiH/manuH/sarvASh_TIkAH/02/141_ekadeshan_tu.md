@@ -58,6 +58,16 @@ the Veda.’
 teaches a portion of the Veda, is the *Upādhyāya*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदस्यैकदेशं मन्त्रं ब्राह्मणं च वेदरहितानि व्याकरणादीन्यङ्गानि यो वृत्यर्थमंध्यापयति स उपाध्याय उच्यते ॥१४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकदेशम्** इति । वेदभागं वेदाङ्गानि वा शिक्षाकल्पनिरुक्तव्याकरणज्योतिषछन्दांसि यो जीविकार्थम् अर्पणपूर्वम् **अध्यापयति स उपाध्याय उच्यते **॥ १.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).

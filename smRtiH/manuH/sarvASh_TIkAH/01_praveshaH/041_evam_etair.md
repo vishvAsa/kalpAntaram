@@ -26,11 +26,20 @@ In this manner was all this, movable and immovable, called into being, through t
 ‘*Yathākarma*’—Here we have a distinct enunciation of the Law of Karma.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमित्युक्तप्रकारेण एतैर्मरीच्यादिभिरिदं सर्वं स्थावरजङ्गमं सुष्टुम्। यथाक्रमयस्य जन्तोर्यादृशं कर्म तदनुरूपं तस्य देवमनुष्यतियगादियोनिषूत्पादनं मन्नियोगान्मदाज्ञया। तपोयोगान्महत्तपः कृत्वा। सर्वमैश्वर्यं तपोधीनमिति दर्शितम्॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम् **इति । अनेन प्रकारेण तैः मुनिभिः मदाज्ञया सृज्यमानप्राणिकर्मगतकर्मानुरूपेण इदं तपोबलात् सृष्टम् ॥ १.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	Thus was this whole (creation), both the immovable and the movable, produced by those high-minded ones by means of austerities and at my command, (each being) according to (the results of) its actions.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

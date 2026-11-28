@@ -64,11 +64,22 @@ the sun and by the wind.’
 Do. (3.30-33).—‘Time, fire, acts, clay, wind, mind, knowledge, austerity, water, repentance, fasting—all these are causes of purification. For those who do what should not he done, charity is the means of purification; the river is purified by its current; of things requiring purification, it is brought about by clay and water; for the twice-born, renunciation is the purifier; for Vedic scholars, austerities; for the learned, tolerance; for the body, water; for those who have sinned secretly, the repeating of mantras; for the mind, truth; for all living beings, penance and learning; for the intellect, knowledge; for the Conscious Being, the best purification consists in the knowledge of God.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्ञानादीनि शुद्धेः साधनानि भवन्ति । तत्र ब्रह्मज्ञानं बुद्धिरूपान्तःकरणशुद्धे साधनम् । यथा वक्ष्यति “बुद्धिर्ज्ञानेन शुद्ध्यति" ( म. स्मृ. ५-१०९) । तपो यथा “तपसा वेदवित्तमाः” ( म. स्मृ. ५-१०७ ) ।अग्निर्यथा “पुनःपाकेनमृन्मयम्” ( म. स्मृ. ५-२२२ ) । आहारो यथा “हविष्येण यवाग्वा" (म. स्मृ. ११-१०६ ) इति ।मृद्वारिणी यथा "मृद्वार्यादेयमर्थवत्" ( म. स्मृ.५-१३४ ) इति ।मनो यथा “मनःपूतं समाचरेत् " ( म. स्मृ. ६-१४६ ) इति । संकल्पविकल्पात्मकं मनः, निश्चयात्मिका बुद्धिरिति मनोबुद्ध्यार्भेदः ।उपाञ्जनमुपलेपनं यथा "मार्जनोपाजनैवेंश्म " ।कर्म यथा “यजेत वाऽश्वमेधेन” ( म. स्मृ. ११-७४ ) इत्यादि । अर्को यथा “गामालभ्यार्कमीक्ष्य वा " ।कालो यथा “शुद्ध्येद्विप्रोदशाहेन" ( म. स्मृ. ५-८३ ) ।वायोस्तु शुद्धिहेतुत्वं मनुनाऽनुक्तमपि पन्थानश्च विशुद्ध्यन्ति सोमसूर्यांशुमारुतैः ।
+
+इति विष्ण्वादावुक्तंग्राह्यम् ॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं कानिचिद् वाक्यान्तरसिद्धानि शुद्धिसाधनानि सङ्क्षेपावबोधाय प्रसङ्गतो ऽनुवदितुं कानिचिच् च प्रसङ्गतो ऽंशपूर्वानि विधातुम् आह **जानम् **इति । ज्ञानं बुद्धेः शुद्धिर्तर्तृ, यथा वक्ष्यति “बुद्धिर् ज्ञानेन शुध्यति” इति । सङ्कल्पकं मनो निश्चायिका बुद्धिर् इति । बुद्धिर् मनसो भेदः । एवं तपो वेदविदां यथाभिधास्यति “तपसा वेदवित्तमाः” इत्य् अग्निर् यथा वदिष्यति “पुनःपाकेन मृन्मयम्” इत्य् आहार्तो यथा कथयिष्यति “हविष्येन यवाग्वा वा” इति मृवारिणी यथा जल्पिष्यति “मृद्वाति चादेयम् अर्थवद्” इति । मनो यथा ख्यास्यति “मनःपूतं सदा भवेद्” इति । उपाञ्जनम् उपलेपनं यथा भणिष्यति “सम्माऋजनेनाञ्जनेन” इति । वायोर् इह शास्त्रे शोध्यं न निर्दिष्टं तस्य मृत्पर्णतृणकाष्टानां च चाण्डालादिवायसैः स्पर्शने शौचम् “सोमसूर्यांसुमारुतैः” इत्य् एवमादिविप्लाव्याद्युक्तं कर्म यथा कीर्तयिष्यति “यजेत वाश्वमेधेन” इत्यदित्यौ यथोक्तं “गाम् आलभ्यार्कं वीक्ष्य वा” इति कालो यथोक्तम् “शुध्येद् विप्रो दशाहेन” इत्य् एवं ज्ञानादीनि मनुष्याणां साक्षाद् उपयोग्यद्रव्यद्वारेण च शुद्धेः कर्तॄणि ॥ ५.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	The knowledge (of Brahman) austerities, fire, (holy) food, earth, (restraint of) the internal organ, water, smearing (with cowdung), the wind, sacred rites, the sun, and time are the purifiers of corporeal (beings).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

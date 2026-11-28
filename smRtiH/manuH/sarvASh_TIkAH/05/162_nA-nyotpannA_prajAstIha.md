@@ -32,11 +32,20 @@ The child that is born for her from another man is not her ‘child’; similarl
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद्भर्तृव्यतिरिक्तेन पुरुषेणोत्पन्ना सा प्रजा तस्याः शास्त्रीया न भवति । न चान्यपत्न्यामुत्पादितोत्पादकस्य प्रजा भवति । एतच्चानियोगोत्पादितविषयम् ।बहुभर्तृकेयमिति लोकप्रसिद्धेः । द्वितीयोऽपि भव । न तस्मादन्योत्पादितत्वमसिद्धमित्याशङ्क्याह—नेति । लोके गर्हाप्रसिद्धावपि सांध्वाचाराणां न क्वचिच्छास्त्रेद्वितीयोभतोपदिश्यते । एवं सति पुनर्भूत्वमपि प्रतिषिद्धम् ॥१६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नान्योत्पन्ना **इति । भर्तृव्यतिरिक्ततया उत्पादिता प्रजासेहशास्त्रे तस्मात् पौनर्भवसंस्कारादि योगेनापि न भर्त्रान्तरम् आश्रयणीयम् ॥ ५.१६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 162	Offspring begotten by another man is here not (considered lawful), nor (does offspring begotten) on another man's wife (belong to the begetter), nor is a second husband anywhere prescribed for virtuous women.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -11,8 +11,6 @@ He shall receive alms just enough for subsistence, only from brāhmaṇa-hermits
 <details><summary>मेधातिथिः</summary>
 
 पञ्चम्यर्थे सप्तमी । तापसेभ्यः फलमूलासंभवे **भैक्षम् आहरेत्** । **गृहमेधिभ्यो** गृहस्थेभ्यो वा वनवासिभ्यः । **यात्रिकं** यावता सौहित्यं भवति ॥ ६.२७ ॥
-
-_असंभवे तु ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -32,6 +30,16 @@ This verse is quoted in *Aparārka* (p. 945) as laying down the means of subsist
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 *Yājñavalkya* (3.54).—(See under 25.)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+फलमूलासम्भवे च वानप्रस्थेभ्यो ब्राह्मणेभ्यः प्राणमात्रधारणोचितं भक्षमाहरेत्, तदभावे चान्येभ्यो गृहस्थेभ्यो द्विजेभ्यः॥ २७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+फलमूलाभावे तु **तापसेष्व्** इति । वानप्रस्थेभ्य एव ब्राह्मणेभ्यः प्राणवृत्तिमात्रप्रयोजनं भैक्ष्यम् आहरेद् अन्येभ्यश् चैव वनवासिभ्यः ॥ ६.२७ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

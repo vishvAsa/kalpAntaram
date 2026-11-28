@@ -42,11 +42,20 @@ This verse is quoted in *Madanapārijāta* (p. 155) as introducing the enumerati
 keeping with the form of marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मादनपेतो धर्म्यः, यो विवाहो धर्म्यो, यस्य विवाहस्य यौ गुणदोषौ इष्टानिष्टफले तत्त-द्विवाहोत्पन्नापत्येषु ये गुणागुणास्तत्सर्वं युष्माकं प्रकर्षणाभिधास्यामि । वक्ष्यमाणानुकीर्तनमिदं शिष्याणां सुखग्रहणार्थम् ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ये यस्य धर्मा** इति । **ये **विवाहा **यस्य वर्णस्य **धर्मानपेता **यस्य च **विवाहस्य **यौ गुणदोषौ **वोढुर् इष्टानिष्टफलदातारौ प्रतिनियतविवाहोत्पन्नायत्तेषु च ये **गुणदोषौ तत् सर्वं** युष्माकं **प्रवक्ष्यामि **॥ ३.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	Which is lawful for each caste (varna) and which are the virtues or faults of each (rite), all this I will declare to you, as well as their good and evil results with respect to the offspring.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

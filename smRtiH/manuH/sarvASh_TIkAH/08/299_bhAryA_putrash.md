@@ -76,6 +76,16 @@ pupil,—when these commit a fault, they should be chastised with a rope or with
 chastised, without hurting him, either with a thin rope or with split bamboo; the teacher shall not beat him much, nor in the head or on the chest. Behaving otherwise than this, the teacher should be punished by the King.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भार्यापुत्रादयः कृतापराधा रज्ज्वा वाऽतिलघुवेणुशलाकया ताड्या भवेयुः । शिक्षार्थं ताडनविधानादत्र दण्डापवादः ॥२९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भार्या शिष्यश् च दासश् च पुत्रो भ्राता च सोदर** इति । भार्यादयः कृतापराधा रज्ज्वा वेणुत्वचा वा दण्डनीयाः स्युर् इति हिंसादण्डोपराधार्थः । साधने दण्ड्याः स्युः ॥ ८.२९९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दण्डप्रतिषेधर्थो ऽयम् आरम्भः, ताडनासादननियमार्थश् च ॥ ८.२९८ ॥

@@ -33,11 +33,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 590), as describing th
 See Comparative notes for [Verse 3.64].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यपि “धनेन कुलम्” इति लोके प्रसिद्धं तथाप्यल्पधनान्यपि कुलानि वेदाध्ययनतदर्थज्ञा-नानुष्ठानप्रसक्तान्युत्कृष्टकुलगणनायां गण्यन्ते महतीं च ख्यातिमर्जयन्ति ॥६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मन्त्रत** इति । यद्य् अपि धनेन कुलम् इति प्रवादः । तथापि वेदाध्ययनावबोध-तदर्थानुष्ठानयुक्तानि पुनः कुलानि अल्पधनान्य् अपि उत्कृष्टकुलमध्ये गुण्यतां प्राप्नुवन्ति महतीं ख्यातिम् अर्जयन्ति । विवाहप्रसङ्गेन प्रसक्तानुप्रसक्तिकयैतत् सर्वम् उक्तम् ॥ ३.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

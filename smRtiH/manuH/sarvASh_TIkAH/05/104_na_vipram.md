@@ -43,11 +43,22 @@ to be carried by a Śūdra; nor a Śūdra by a twice-born person.’
 shall not carry his dead body; that dead person for whom the Śūdra carries fire, grass or wood, remains a *ghost* for ever and becomes defiled by sin.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादिं मृतं समानजातीयेषु स्थितेषु न शुद्रेण पुत्रादिरियेत् । यस्मात्सा शरीराहुतिः शूद्रस्पर्शदुष्टा सती मृतस्य स्वर्गाय हिता न भवति । मृतं स्वर्गं न प्रापयतीत्यर्थः । स्वेषु तिष्ठत्स्वित्यभिधानाद्वाह्मणाभावे क्षत्रियेण तद्भावे वैश्येन तदभावे शुद्रेणापि निर्हारयेदि-
+
+त्युक्तं, यथापूर्वं श्रेष्टत्वात् । अस्वर्ग्यदोषश्च ब्राह्मणादिसद्भावे शुद्रेण निर्हरणे सति बोद्धव्यः ।गोविन्दराजस्तुदोषनिर्देशात्स्वेषु तिष्ठत्स्वित्यविवक्षितमित्याह । तद्युक्तम् ।संभवदर्थपदद्वयो- च्चारणवैयर्थ्यप्रसङ्गादुपक्रमावगतेश्च वेहोदितन्यायेनानुबोध्यत्वाद् गुणभुतशुद्धयनुरोधेन प्रधानुभूताया जातेरुपेक्षायां गुणलोपेनामुख्यस्येत्यपि न्यायेन बाध्येत । तस्मात्
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । पुत्रादिर् विप्रं मृतं समानजातिषु तिष्ठत्सु स्थितेषु सत्सु शूद्रेण न निर्हारयेत् । यस्मात् सा शारीराहुतिः शूद्रस्पर्शदुष्टा सती मृतस्य स्वर्गलोकसाधनी न भवत्य् एवं च दोषनिर्देशात् स्वेषु तिष्ठत्सु इति विवक्षितम् ॥ ५.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	Let him not allow a dead Brahmana to be carried out by a Sudra, while men of the same caste are at hand; for that burnt-offering which is defiled by a Sudra's touch is detrimental to (the deceased's passage to) heaven.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -35,6 +35,16 @@ Hopkins is not right in saying that “Medhātithi has no note on this verse.”
 See Comparative notes for [Verse 6.53].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्मृत्तिकावंशादिखण्डनिर्मितानि यतीनां भिक्षापात्राणि स्वायम्भुवो मनुरक्तरुत्वनिर्मितमिति गोविन्दराजः॥५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अलाबुं वा दारुपात्रम्** इति । अलाबुदारुमृत्तरुत्वङ्निर्मितानि पात्राणि प्रव्रजितानां स्वायम्भुवो मनुर् आह ॥ ६.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	A gourd, a wooden bowl, an earthen (dish), or one made of split cane, Manu, the son of Svayambhu, has declared (to be) vessels (suitable) for an ascetic.

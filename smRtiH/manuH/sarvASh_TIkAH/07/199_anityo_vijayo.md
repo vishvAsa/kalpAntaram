@@ -23,6 +23,16 @@ Because it is not always founed (found?) to be the case that he who gains the vi
 This verse is quoted in *Smṛtitattva* (p. 742);—in *Parāśaramādhava* (Ācāra, p. 403);—and in *Vīramitrodaya* (Rājanīti, p. 404).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद्युध्यमानयोर्बहुलबलत्वाद्यल्पबलत्वाद्यनपेक्षमेवानियमेन जयपराजयौ दृश्येते, तस्मात्सत्युपायान्तरे युद्धं परिहरेत् ॥९९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनित्य** इति । युध्यमानयोर् यतो बलवदबलस्थानापेक्षायाम् एवानियमेन जयपराजयौ दृश्येते । तस्माद् उपायान्तरसम्भवे सति युद्धं विवर्जयेत् ॥ ७.१९९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 जयपराजययोर् अनित्यत्वात् प्रयत्नतो युद्धं परिहरणीयम् । तस्माद् असंदिग्धः तनुर् अप्य् अर्थसंदिग्धान् महतो ऽपि श्रेयान् ॥ ७.१९९ ॥

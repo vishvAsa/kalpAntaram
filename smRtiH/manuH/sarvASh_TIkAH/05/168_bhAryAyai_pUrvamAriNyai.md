@@ -40,11 +40,20 @@ This verse is quoted in *Nirṇayasindhu* (p. 413) to the effect that if a man w
 See Comparative notes for [Verse 5.165].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वंमृतायाअन्त्यकर्मणि दाहनिमित्तमग्नीन्समर्प्य गृहस्थाश्रममिच्छन्नुत्पन्नपुत्रोऽनुत्पन्नपुत्रोवा पुनर्विवाहं कुर्यात्। स्मार्ताग्रीन् श्रौताग्नीन्वा आदध्यात्॥१६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भार्याया** इति । पूर्वमृतायै भार्यायै अन्त्येष्टिदाहाव् अग्नीन् दत्वा गार्हस्त्यैकाश्रमनिर्वाहेच्छया पुत्राभावाद् वा प्राप्तपर्यन्तत्वादिना वा केनचित् कारणेन वानप्रस्थाद्याश्रमान्तराश्रयेण पुनर् विवाहाग्निपरिग्रहौ कुर्यात् ॥ ५.१६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 168	Having thus, at the funeral, given the sacred fires to his wife who dies before him, he may marry again, and again kindle (the fires).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

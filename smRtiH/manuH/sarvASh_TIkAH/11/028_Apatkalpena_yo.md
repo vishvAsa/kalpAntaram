@@ -34,6 +34,16 @@ This verse is quoted in *Āparārka* (p. 167).
 alternative method; as it is only when an act is performed with all its accessories complete that it brings its reward.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आपद्विहितेन विधिना योऽनापदि धर्मानुष्ठानं द्विजः कुरुते तस्य तत्परलोके निष्फलंभवतीति मन्वादिभिर्विचारितम्॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आपत्कल्प** इति । आपच्चोदितेन विधिना वैश्वानर्यादि नानापदि यो ऽनुष्ठानं द्विजः कुरुते तस्य परलोके तं निष्फलं भवति इति मन्वादिभिर् विचारितम् ॥ ११.२७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति न विद्यमानधनो वैश्वानरीं कुर्यात् पशुसोमवैकल्पिकीम्, प्रायश्चित्तप्रतिनिधिं वेति । येन ॥ ११.२७ ॥

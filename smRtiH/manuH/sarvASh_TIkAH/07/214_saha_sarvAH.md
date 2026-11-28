@@ -12,19 +12,14 @@ Seeing all kinds of troubles frequently cropping up simutaneously, the wise pers
 
 आपदो दैवमानुषाणि व्यसनानि । तानि प्रकृतिविषयाणि युगपदुपजातान्य् अत्यर्थम्[^३२९] अपि यथा स्युस् तथा । **संयुक्तांश् च** सामपुरःसरं दानम्, सामपूर्वकं भेदम्, साम दानभेदसहितम्,[^३३०] दण्डम् एव वा दानम् एव वेत्यादिकान्[^३३१] सर्वोपायान् **विसृजेद् बुध** इति । यत्र यत् प्राप्तं तत् **समीक्ष्य** विचार्य प्रयुञ्जीतेत्य् अर्थः, न तु विषण्ण आसीत ॥ ७.२१४ ॥
 
-
 [^३३१]:
      M G J: dānam evetyādikān (see DK)
-
 
 [^३३०]:
      DK (4: 1935) suggests adding: vyuktāṃś ca
 
-
 [^३२९]:
      M G J: yugapadupajātānīty artham (see DK 4: 1935)
-
-_कथम् इत्य् अपेक्षायाम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -37,6 +32,16 @@ How this shall be done is explained in the next verse.
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 413), which explains ‘*Saṃyuktān*’ as ‘arisen together’,—‘*viyuktān*’, as ‘arisen separately,’ and ‘*nayet*’ as ‘should employ.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+कोशक्षयप्रकृतिकोपमित्रव्यसनादिकाः सर्वा आपदो युगपदतिशयेनोत्पन्ना ज्ञात्वा न मोहमुपेयात् ।अपि तु व्यस्तान्समस्तान्वा सामादीनुपायान्शास्त्रज्ञः संप्रयुञ्जीत ॥२१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **सहेति **। प्रकृतिकोपकोषक्षयमित्रव्यसनादिका युगपत् सर्वा आपदो ऽत्यर्थम् उत्पन्ना ज्ञात्वा न मोहम् उपेयाद् अपि तु व्यस्तान् समस्तान् वा सामादीन् उपायान् सर्वान् वा प्राज्ञः प्रयुञ्जीत सर्वथा ॥ ७.२१४ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -44,11 +44,28 @@ hyperbolic eulogium; what is meant is only that *such Dharma as is adumbrated in
 ‘*Guṇadoṣau ca karmaṇām*’—‘The desirable and undesirable results of actions’ (Medhātithi, Govindarāja, Kullūka and Nandana);—‘the prescribed acts’ (Rāghavānanda and Nārāyaṇa).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्मिन्शास्त्रे कार्त्स्न्येन धर्मोऽभिहित इति शास्त्रप्रशंसा। कर्मणां च विहितनिषिद्धानामिष्टानिष्टफले।वर्णचतुष्टयस्यैव पुरुषधर्मरूप आचारः शाश्वतः पारम्पर्यागतः। धर्मत्वेऽप्याचारस्य प्राधान्यख्यापनाय पृथङ्निर्देशः॥१०७॥
+
+प्राधान्यमेव स्पष्टयति—
+
+**आचारः परमो धर्मः श्रुत्युक्तः स्मार्त एव च।**
+
+**तस्मादस्मिन्सदा युक्तो नित्यं स्यादात्मवान्द्विजः॥१०८॥**
+
+युक्तो यत्नवान् आत्महितेच्छुः। सर्वस्यात्मास्तीति आत्मशब्देन आत्महितेच्छा लक्ष्यते॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अस्मिन्न्** इति । **अस्मिन्** स्मार्तो **धर्मः** कार्त्स्न्येनोक्तः **कर्मणां च **विहितप्रतिषिद्धानाम्, **गुणदोषौ** इष्टानिष्टफले **वर्णानाम्** **आचारः **पुरुषघर्माख्यः साधारणप्राधान्यख्यापनार्थं चास्य पृथग् ग्रहणम् । एवं चैव तत्सन्निधौ धर्मशब्दो ऽत्र साधारणः सन्ध्योपासनादिप्रतिवचनः ॥ १.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

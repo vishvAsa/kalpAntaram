@@ -54,6 +54,16 @@ other Kṣatriya castes became degraded by not seeing the Brāhmaṇas. Drāvi�
 together; they recognise authority other than the Vedas and live in the North and West. Their Śāstras have been framed for their welfare by their own teachers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इमा वक्ष्यमाणाः क्षत्रियजातय उपनयनादिक्रियालोपेन ब्राह्मणानां च याजनाध्यापनप्रायश्चित्ताद्यर्थदर्शनाभावेन शनैः शनैर्लोके शूद्रतां प्राप्ताः॥ ४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **शनकैर्** इति । इमा वक्ष्यमाणाः क्षत्रियजातयः सत्य उपनयनादिक्रियालोपेन ब्राह्मणानां च यजनाध्यापनप्रायश्चित्ताद्यर्थं दर्श्नाभावेन शनैः शनैः लोके शूद्रतां प्राप्ताः ॥ १०.४३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > व्यभिचारेण वर्णानाम् अवेद्यावेदनेन च ।  

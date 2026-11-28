@@ -43,6 +43,16 @@ milch cow; if a non-carnivorous wild animal, he must give a heifer.’
 134.)]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आममांसभक्षिणो मृगान्व्याघ्रादीन्हत्वा बहुक्षीरां धेनुं दद्यात्। आममांसाभक्षकान् हरिणादीन् हत्वा प्रौढवत्सिकां दद्यात्। उष्ट्रं हत्वा सुवर्णकृष्णलं रक्तिकां दद्यात्॥ १३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्रव्यादान्** इति । आममांसभक्ष्यान् मृगान् व्याघ्रादीन् हत्वा प्रत्यग्रप्रसूतां प्रचुरक्षीरां गां दद्यात् । अमांसभक्षान् मृगान् सारङ्गादीन् हत्वोत्तीर्णवत्सभावां गां दद्यात् । उष्ट्रं हत्वा सुवर्णरक्तिकां दद्यात् ॥ ११.१३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 138	But for killing carnivorous wild beasts, he shall give a milch-cow, for (killing) wild beasts that are not carnivorous, a heifer, for killing a camel, one krishnala.

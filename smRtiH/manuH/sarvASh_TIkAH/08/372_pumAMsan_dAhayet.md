@@ -37,11 +37,19 @@ woman of a superior caste, the King shall put him to death.’
 caste, the King shall cause him to be tied up in *Vīraṇa* grass and thrown into fire. Of the woman, he shall have the hair shaved and the body anointed with butter; then placing her naked on a donkey, he shall cause her to be conducted along the public road; it is declared that by this she becomes purified. If a Vaiśya approaches a female of the Brāhmaṇa caste, the King shall have him tied up in *Lohita* grass and thrown into fire;—\[the woman is to be dealt with as above\]. If a Kṣatriya approaches a female of the Brāhmaṇa caste, the King shall have him tied up in the leaves of *Śara* grass and thrown into fire; \[the woman is to be dealt with as above\], A Vaiśya offending with a Kṣatriya woman shall be dealt with in the same manner; so also a Śūdra offending with a Vaiśva or Ksatriya woman.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनन्तरोक्तंजारं पापकारिणं पुरुषमयोमयशयनेप्रज्वलिते राजा दाहयेत् । तत्र शयने वध्यघातिनः काष्टानि निःक्षिपेयुर्यावत्पापकारी दग्धः स्यात् ॥ ३७२ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तं दर्पिताजारं पुरुषं दाहयेद् इति । तं पापकारिणं पुरुषम् अयोमये शयने अग्निज्वलिते राजा दाहयेत् । काष्ठानि निक्षिपेयुः यावद् असौ पापकृद् दग्धः स्यात् ॥ ८.३७२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अनयैव संगृहीतस्यायं विधिः । अन्यस्य तु यथोक्त एव दण्डः स्यात् ॥ ८.३७१ ॥
-
-_तच् च दर्शयति ।_
 </details>
 
 <details><summary>Bühler</summary>

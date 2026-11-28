@@ -37,6 +37,16 @@ This verse is quoted in *Gadādharapaddhati* (Kāla, p. 550), which explains ‘
 in cleanliness, Rākṣasas take away all that is sacrificed or offered or given away or eaten, all *japa*, all austerities and all learning;—similarly also what is given in anger, or what is eaten in hurry, the Rākṣasas take away both these;—having invited the Pitṛs, one shall do nothing that may be improper; therefore one shall perform the Śrāddha with speech and anger under control;—one shall not be angry with any one, even though there be cause for it; what pleases the Pitṛs is the Śrāddha that is free from anger.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अश्रु क्रियमाणं प्रेतान्भूतवेषान्श्राद्धान्नानि प्रापयति, न पितृृणामुपकारकं भवति । क्रोधः शत्रून्, मृषावादः कुक्कुरान्, पादस्पर्शोऽन्नस्यराक्षतान्, अवधूननं पापकारिणः । तस्मान्न रोदनादि कुर्यात् ॥२३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अस्रं गमयति प्रेतान्** इति । अश्रु क्रियमाणं प्रेताखान् भूतविशेषान् श्राद्धान्नादि प्रापयति क्रोधः **अनृतं शुनः पादस्पर्शो रक्षांसि अवधूननं **पापकारिणं तस्माद् एतन् न कुर्यात् ॥ ३.२३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 230	A tear sends the (food) to the Pretas, anger to his enemies, a falsehood to the dogs, contact with his foot to the Rakshasas, a shaking to the sinners.

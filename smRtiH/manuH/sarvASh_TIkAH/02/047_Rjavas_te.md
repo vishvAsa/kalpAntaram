@@ -55,11 +55,15 @@ the sacrificial post.’
 *Paiṭhīnasi* (Do.).—(The same words as Gautama’s.)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऋजव** इति । **ते** दण्डाः मृष्टनिच्छ्रिद्राः भीषणीयाकाररहिताः **सत्वचः **अग्निदोषशून्याः स्युः । न च तैः किञ्चिद् भूतजातम् उद्वेजनीयम् ॥ २.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

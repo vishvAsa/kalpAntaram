@@ -121,11 +121,20 @@ birth, or one who is still-born, the impurity of the family ceases immediately; 
 days; if the dead is a child less than two years old, the impurity attaches to the parents only; and that due to the birth attaches to the mother only. In the case of the death of children before teething, the impurity is only for the moment; in that of those after teething but before tonsure, it lasts for one night; in that of those after tonsure, hut before Upanayana, for three days;—after that, for ten days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दन्तजाते जातदन्त इत्यर्थः, "वाहिताग्न्यादिषु" ( पा० सू० २ / २ / ३७ ) इत्यनेन जातशब्दस्य परनिपातः । अनुजाते जातदन्तानन्तरे कृतचूडाकरणे च चकारात्कृतोपनयने च संस्थिते मृते सति बान्धवाः सपिण्डाः समानोदकाश्चाशुद्धा भवन्ति । प्रसवेच तथैवाशुद्धा भवन्तीत्युच्यते । वयोविभागेनोद्देशमात्रमिदं वक्ष्यमाणाशौचकालभेदादिसुखात्रवोधनार्थम् ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दन्तजाते ऽनुजाते चेति** । जातदन्ते ऽनुजाते च जातदन्ताद् बालतरे कृतचूडाकरणे चे । चकारात् कृतोपनयने च मृते सपिण्डसमानोदकाः सर्वे बान्धवाः अशुद्धास् तथा प्रसवे च सति तथैवाशुद्धा इत्य् उच्यते । कृतचूड इति च भूयिष्ठे तृतीय इति गृह्योक्तचूडाकालोपलक्षणेन कृतचूडत्वं विवक्षितम् । “रात्रिभिर् मासतुल्याभिः” इति गर्भात् प्रभृत्य् एव । भूयस्त्वेनाशौचवृद्धिदर्शनाद् इहापि च दन्तजाते ऽनुजाते चेति वयोद्वारेणैवोपक्रमाद् एव दशाहाशौचे ऽपि मुख्योपनयनकाललक्षणाविज्ञेयास् तु पञ्चवर्ष उपनीतस् तस्यापेक्षाया अभावात् तदानीम् एव परिपूर्णम् आशौचं भवति ॥ ५.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	When (a child) dies that has teethed, or that before teething has received (the sacrament of) the tonsure (Kudakarana) or (of the initiation), all relatives (become) impure, and on the birth (of a child) the same (rule) is prescribed.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

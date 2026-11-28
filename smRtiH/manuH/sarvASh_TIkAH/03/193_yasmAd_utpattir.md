@@ -22,6 +22,16 @@ this ‘*learn fully*,’ as described now.
 ‘*Rules*;’—this is a mere reiterative reference; the rules having been already laid down in the words, ‘one should remain self-controlled, &c., &c.’ The plural number is due to there being a large number of rules.—(193)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां सर्वेषां पितॄणां यस्मादुत्पत्तियं च पितरो यैर्ब्राह्मणादिभिर्यैनियमैः शास्त्रोक्तकर्मभिरुपचरणीया भवेयुस्तान्साकल्येन शृणुत ॥१९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्माद्** इति । एषां पितॄणां यस्य सकाशाद् **उपत्तिः ये च **पितरो **यैः** ब्राह्मणादिभिः यागादिभिर् **नियमैः** शास्त्रोक्तकर्मभिः यथा स्युः तत् शृणुत ॥ ३.१९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.

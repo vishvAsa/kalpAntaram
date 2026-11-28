@@ -35,11 +35,20 @@ respectfully offered by the wise man who desires his own welfare to a proper rec
 an unbaked vessel becomes destroyed through the weakness of the vessel, and the vessel also becomes destroyed, in the same manner, when an illiterate person accepts the gift of cows or gold or clothes or food or land or sesamum, he becomes reduced to ashes like wood.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वर्णादीञ्श्रुतस्वाध्यायहीनः प्रतिगृह्णन्न ग्निसंयोगेन दारुवद्भस्मीभूतो भवति पुनरुत्पत्तिं न लभते ॥१८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हिरण्यम्** इति । श्रुताध्ययनशून्यः सुवर्णादीन् **प्रतिगृह्णन् **अग्निसंयोगेन **दारुवत् भस्मीभवति **॥ ४.१८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 188	But an ignorant (man) who accepts gold, land, a horse, a cow, food, a dress, sesamum-grains, (or) clarified butter, is reduced to ashes like (a piece of) wood.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

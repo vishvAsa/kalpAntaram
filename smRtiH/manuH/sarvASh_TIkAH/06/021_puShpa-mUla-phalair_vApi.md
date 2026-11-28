@@ -36,6 +36,16 @@ Finally he shall content himself with what has become detached spontaneously. Th
 *Ākāṣha*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुष्पमूलफलैरव वा कालपक्वैः नाग्निपक्वैःस्वयंपतितैर्जीवेत्। वैखानसो वानप्रस्थः तद्धर्मप्रतिपादकशास्त्रदर्शने स्थितः। तेनैतदुक्तमन्यदपि वैखानसशास्त्रोक्तं धर्ममनुतिष्ठेत्॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पुष्पमूलफलैर्** इति । मूलफलान्य् एव कालपक्वानि नाग्निपक्वानि स्वयम्पक्वानि भक्षयेत् । वैखानसाख्ये वानप्रस्थशास्त्रदर्शने स्थितः तदुक्तम् अन्यद् अप्य् अनुतिष्ठेत् ॥ ६.२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **The commentary and the mūla texts from 6.21–38 were illegible to Derrett. This is something that we may want to revisit by reading the original Malayalam manuscript. The readable commentary ends thus:

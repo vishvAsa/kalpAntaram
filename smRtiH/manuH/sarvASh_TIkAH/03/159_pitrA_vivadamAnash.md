@@ -96,11 +96,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 087), which reads ‘*
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पित्रा सह शास्त्रार्थं लौकिके वा वस्तुनि निरथं यो विवदते, कितवो यः स्वयं देवितुमनभिज्ञः स्वार्थं परान्देवयति, न स्वयं देविता, तत्योक्तत्वात् । न च सभिकः, तस्य द्यूतवृत्तिपदेनाभिधास्यमानत्वात् । “केकरः" इति पाठे तिर्यग्दृष्टिः, सुराव्यतिरिक्तमद्यपाता, कुष्टी, अनिर्णोतेऽपि तस्मिन्महापातकादौ जाताभिशापः, छद्मता धर्मकारी, इक्षुरसादिविक्रेता ॥१५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पित्रेति** । **पापरोग्य् अभिशस्तश् च जालिको रसविक्रयी । **शास्त्रालोकवस्तुषु यः **पित्रा** सह विवदते, **कितवः **अपरः देवयति, इतरस्योक्तत्वात् । **केकर** इति पाठकाचारः । सुराव्यतिरिक्तमद्यस्य पाता कुष्ठी, पातकोपपातककर्तृत्वेनोत्पन्नाभिशापो ऽसत्य् अपि तत्कारित्वनिश्चये, सव्याजो धर्मानुष्ठाने, रसशब्दस्येक्षुरसादाव् अपि प्रसिद्धत्वात् तद्विक्रयी विषस्येव तत्राप्य् अर्थशास्त्रे रसशब्दप्रयोगात् इत्य् एते उभयत्र परिहर्तव्याः ॥ ३.१५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 159	He who wrangles or goes to law with his father, the keeper of a gambling-house, a drunkard, he who is afflicted with a disease (in punishment of former) crimes, he who is accused of a mortal sin, a hypocrite, a seller of substances used for flavouring food,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

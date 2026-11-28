@@ -69,6 +69,11 @@ to look like a valuable article, cheats women and children, he should he lined i
 Do. (Vivādaratnākara, p. 297).—‘If one sells commodities adulterated with articles whose defects are concealed, or burnished up so as to look new, should be made to pay double the price to the buyer, and also an equal amount as fine.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अदुष्टद्रव्याणामपद्रव्यप्रक्षेपेण दूषणे, मणीनां च माणिक्यादीनामभेद्यानां विदारणे, वेध्यानामपि मुक्तादीनामनवस्थानवेधने प्रथमसाहसो दण्डः कार्यः। सर्वत्र परकीयद्रव्यनाशे द्रव्यान्तरदानादिना स्वामितुष्टिः कार्या॥ २८६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कुंकुमादिद्रव्याणां तत् सदृशेन मायाकुसुम्भादिना दूषणम् । भेदनं तु मणिभिः संबध्यते । मणीनां भेदने विनाशे ऽवेधे ऽस्थानवेधे च मणीनाम् एव सारानुरूपो दण्डः । एवं च सति प्रथमसाहसग्रहणं प्रदर्शनार्थं विज्ञेयम् । येन मणयो हि काकणिकमूल्या अपि सन्ति अनेकसाहस्राश् च । अतो नाविशेषेण युक्तो ऽत्र दण्ड इति । एतस्मात् कारणात् प्रथमसाहसग्रहणस्य प्रदर्शनार्थता कल्प्यते ॥ ९.२८६ ॥

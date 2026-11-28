@@ -43,6 +43,11 @@ This verse is quoted in *Vivādaratnākara* (p. 423).
 See Comparative notes for [Verse 9.77].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या स्त्री द्यूतादिप्रमादवन्तं मदजनकपानादिना मत्तं व्याधितं वा शुश्रूषाद्यकरणेनावजानाति सा विगतालङ्कारशय्यादिपरिच्छदा त्रीन्मासान्नोपगन्तव्या ॥ ७८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अत्रासंभोगस् त्यागः, न हि निर्वासनम् ॥ ९.७८ ॥

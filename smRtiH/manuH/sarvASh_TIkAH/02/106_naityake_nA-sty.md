@@ -49,6 +49,16 @@ This verse is quoted in *Madanapārijāta* (p. 282) along with 105, as setting f
 See Comparative notes for [Verse 2.105 (Non-observance of Holidays)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्तनैत्यकस्वाध्यायस्यायमनुवादः । नैत्यके जपयज्ञेऽनध्यायो नास्ति, यतः सततभवत्वात् । ब्रह्मसत्रं तन्मन्वादिभिः स्मृतम् । ब्रह्मैवाहुतिर्ब्रह्माहुतिर्हविस्तस्यां द्रुतमनध्यायाध्ययनमध्ययनरूपमनध्या-यवषट्कृतमपि पुण्यमेव भवति ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादम् आह **नैत्यक** इति । **नैत्यके** एकस्मिन् ब्रह्मयज्ञे **अनध्यायो नास्ति **। यस्मात् **ब्रह्मसत्रं** **तत्** मन्वादिभिः **स्मृतम्** । अतः सततप्रवृत्तगवामयनादिसत्रतुल्यत्वात् सर्वदैव तद् अनुष्ठेयम् । किम् अस्य सत्त्रसादृश्यम् इत्य् अत आह **ब्रह्माहुतितुअम्** इत्यादि । सत्त्रं सोमाहुत्याहुतं भवति । इदम् अपि वेदोच्चारणाहुत्याहुतं ब्रह्म, आहुतिर् इव आहुत्यर्थत्वात् पुण्यहेतुत्वाच् च सत्त्रतुल्यम् । सत्त्रं च प्रदानार्थेन वषट्कारेण युक्तं भवति । इदम् अपि अनध्यायाध्ययनात् **अनध्यायवषट्कृतम्** ॥ २.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	There are no forbidden days for the daily recitation, since that is declared to be a Brahmasattra (an everlasting sacrifice offered to Brahman); at that the Veda takes the place of the burnt oblations, and it is meritorious (even), when (natural phenomena, requiring) a cessation of the Veda-study, take the place of the exclamation Vashat.

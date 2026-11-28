@@ -72,6 +72,18 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738);—and in
 See Comparative notes for [Verse 9.60].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादयं पशुसम्बन्धी मनुष्याणामपि व्यवहारो विद्वद्भिर्निन्दितः । योऽयमधार्मिके
+
+वेने राज्ञि राज्यं कुर्वाणे तेन कर्तव्यतया प्रोकः । अतो वेनादारभ्य प्रवृत्तोऽयमादिमानिति निन्द्यते ॥ ६६ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अयम्** इति । यस्माद् अयं पशुसम्बन्धी व्यवहारो ऽत्यन्तकुत्सितो वेनाख्ये राजनि कुर्वाणो ऽन्यत्वेन प्रोक्तस् तस्माद् आआदिमन्वादिभिर् एष श्रुतौ नास्तीति पूर्वोक्तस्यायम् हेतुः ॥ ९.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 066	This practice which is reprehended by the learned of the twice-born castes as fit for cattle is said (to have occurred) even among men, while Vena ruled.

@@ -124,11 +124,20 @@ offered in the Marriage Fire.’
 Agnihotra, to live by the prescribed professions and to avoid sexual intercourse on the Parvas. The duties of those who have married and settled down are—to worship gods, pitṛs and guests, to show mercy to the poor and the distressed and to live according to *Śruti* and *Smṛti*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विवाहे भवो वैवाहिकः, अध्यात्मादित्वाट्ठञ् । तस्मिन्नग्नौगृह्योक्तं कर्म सायंप्रातर्होमाष्टकादि यथाशास्त्रमग्निसम्पाद्यं च पञ्चमहायज्ञान्तर्गतवैश्वदेवाद्यनुष्ठानं प्रतिदिनसम्पाद्यं च पाकंगृहस्थः कुर्यात् ॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैवाहिक** इति । अष्टकादि गृह्योक्तं **कर्म** यथाशास्त्रं वक्ष्यमाण**पञ्चयज्ञा**नुष्ठानं चाग्निसम्पाद्यं प्रात्यहिकं पाकं विवाहभवे **ऽग्नौ** गृहस्थः **कुर्वीत** ॥ ३.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	With the sacred fire, kindled at the wedding, a householder shall perform according to the law the domestic ceremonies and the five (great) sacrifices, and (with that) he shall daily cook his food.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

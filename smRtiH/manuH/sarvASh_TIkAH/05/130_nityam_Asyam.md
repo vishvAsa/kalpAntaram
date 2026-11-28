@@ -93,11 +93,20 @@ dalliance.’
 by the wind; women, old persons and children are never impure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वदा स्त्रीणां मुखं शुचि, तथा काकादिपक्षिणां चञ्चूपघातपतितं फलं शुचि, वत्समुखं च दोहसमये क्षीरप्रक्षरणे शुचि, श्वा च यदा मृगादीन्हन्तुं गृह्णाति तदा तत्र व्यापारे शुचिः स्यात् ॥१३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम्** इति । “स्त्रियश् चरति संसर्गम्” इति गौतमस्मरणात् तत्कालं नित्यं **स्त्रीणाम् आस्यं शुचि** । तथा काकाद्यत्यन्ताहतपक्षिचञ्चुघातपातिफलं शुचि । वत्समुखं च दोहवेलायां क्षीरप्रस्नावने शुचि । **श्वा** च यदा मृगादि हन्तुं गृह्णाति तदा तद्व्यापारे शुचिः ॥ ५.१३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 130	The mouth of a woman is always pure, likewise a bird when he causes a fruit to fall; a calf is pure on the flowing of the milk, and a dog when he catches a deer.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -41,6 +41,16 @@ much as the ‘conveyance’ and other things have been mentioned in the same co
 flowers, roots or fruits, the drinking of the five bovine products has been ordained.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भक्ष्यस्य मोदकादेः, भोज्यस्य पायसादेः, यानस्य शकटादेः, शय्यायाः, आसनस्य च, पुष्पमूलफलानां च प्रत्येकमपहरणे पञ्चगव्यपानं विशोधनम्॥ १६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भक्ष्यभोज्यापहरण** इति । भक्ष्यस्य मोदकादेर् यानस्य गन्त्र्यादेः शय्यायाः खट्वादेः आसनस्य च पीठादेः पुष्पाणां मूलानां चापहरणे गोमूत्रं गोमयं क्षीरं दधि सर्पिर् इत्य् एतत् पञ्चगव्यं विशोधनम् ॥ ११.१६४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अत्र च संख्या भक्ष्यभोज्यादीनाम् आवृत्त्यपेक्षया सप्रत्ययाप्रत्ययतो वा ॥ ११.१६४ ॥

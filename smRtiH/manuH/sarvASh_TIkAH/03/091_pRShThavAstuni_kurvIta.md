@@ -55,6 +55,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where the following 
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृहस्योपरि यद् गृहं तत्पृष्ठवास्तु बलिदातुः पृष्ठदेशे भूभागे वा तत्र सर्वात्मभूतये नम इत्येव बलिं दद्यात् । उक्तबलिदानावशिष्टं सर्वमन्नं दक्षिणस्यां दिशि दक्षिणामुखः स्वधा पितृभ्य इति बलिं हरेत् । प्राचीनावीतिना चार्य बलिदैयः ।"स्वधा पितृभ्य इति प्राचीनावीतीशेष दक्षिणा निनयेत्” ( अ. १ खं. २ ) इति बहुवृचगृह्यवचनात् ॥९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पृष्ठे वास्तुनि कुर्वीतेति **। वेश्मन उपरि वेश्मनः पृष्ठे वासुप्रदेशे वा तत्र **सर्वान्नभूतये **नम इत्य् एवं बलिं कुर्यात् । बल्यर्थं घृतान्नशेषं सर्वं दक्षिणस्यां दिशि “स्वधा पितृभ्य इति प्राचीनावीती” इत्य् एवं गृह्यदर्शनात् **पितृभ्यो हरेत्** ॥ ३.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.

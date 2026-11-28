@@ -52,11 +52,24 @@ name—the *Ācārya*, the teacher’s son, one initiated at a sacrifice, the
 learned man, father-in-law, husband, and the mother’s sister.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ परोक्षं सत्कृपापूर्वं प्रत्यक्षं न कथंचन ।**
+
+**दुष्टानुचारी च गुरोरिह वाऽमुत्र चेत्यधः ॥११॥ \]**
+
+अस्य गुरोः परोक्षमपि उपाध्यायाचार्यादिपूजावचनोपपदशून्यं नाम नोच्चारयेत् । न तु गुरोर्गमनभाषितचेष्टितान्यनुकुर्वीत, गुरुगमनादिसदृशान्यात्मनो गमनादीन्युपहासबुध्या न कुर्वीत ॥१९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोदाहरेद्** इति । गुरोर् असन्निधाने ऽपि पूजावाक्यपदरहितं नाम नोच्चारयेत् । गुरोर् गमनभाषणभोजनादिचेष्टां नानुकुर्यात् एवम् अस्मद्गुरुर् गच्छतीति ॥ २.१९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -33,11 +33,20 @@ For reasons stated above,—‘*of these two*’—of the father and the mother,
 See Comparative notes for [Verse 2.225].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तयोर्मातापित्रोः प्रत्यहमाचार्यस्य च सर्वदा प्रीतिमुत्पादयेत् । यस्मात्तेष्वेव त्रिषु प्रीतेषु सर्वं तपश्चान्द्रायणादिकं फलद्वारेण सम्यक्प्राप्यते मात्रादित्रयतुष्ट्यैव सर्वस्य तपसः फलं प्राप्यत इत्यादि ॥२२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तस्मात् **तपोनित्यम्** इति । मातापित्राचार्याणां यावज्जीवं **प्रियं कुर्यात्** । न च तपोन्तरासक्त्या तत्प्रियोपेक्षया कार्या। तस्मात् **तेष्व् एव **च तुष्टेषु **सर्वं** **तपः**फलं सम्यक् **प्राप्यते** ॥ २.२२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 228	Let him always do what is agreeable to those (two) and always (what may please) his teacher; when those three are pleased, he obtains all (those rewards which) austerities (yield).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

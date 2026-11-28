@@ -14,11 +14,19 @@ But if he happens to be stopped on the road and causes the death of a living bei
 
 - अथ वा जवोत्पतिता अश्वाः पथि संरोधकसंमुखीनरथदर्शनेन बलाद् विधार्यमाणास् तिर्यग्गत्या गच्छेयुः पार्श्वकीयान्[^२६१] प्रत्यगवस्थितत्वात् तथा हन्युस् तत्र दण्डो विचारितो नास्ति, प्राजके दोषाभावात् ।
 
-
 [^२६१]:
 M G: pārśvakīyāḥ
 
 अथ वा पथि स्थितो[^२६२] वर्तमानः, संरुद्धो न विध्रियमाणः,[^२६३] विचारितो विशेषेण विहितो विशेषित इति यावत्[^२६४] ॥ ८.२९५ ॥
+
+[^२६२]:
+     M G DK (1: 256): evaṃ
+
+[^२६३]:
+     DK: trihastācārapatre (perhaps attempting to correct the sandhi); could the original be trihastācāre patre?
+
+[^२६४]:
+     M G DK omit: na
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -48,6 +56,16 @@ killed, the man should be made to pay a fine according to the character of the a
 
 *Viṣṇu* (5.50-54).—‘He who kills domestic animals shall pay a fine of
 100 *kārṣāpaṇaṣ*;—he shall make good their value to the owner; be who kills wild animals shall pay 500 *kārṣāpaṇas*; a killer of birds or fish, ten *kārṣāpaṇas*; a killer of insects, one *kārṣāpaṇa*.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स चेत्प्राजकः संमुखागतैः प्रचुरगवादिभी स्थान्तरेण वा संरुद्धः स्वरधगमनानवधानास्प्रत्यक्सर्पणाक्षमः सङ्कटेऽपि स्वरथतुरगान्प्रेरयन्, तुरगौ रथेन वा स्थावयवैर्वा प्राणिनो व्या–
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स** इति । स प्राजकः सम्मुखागतयानान्तराद् अवरुद्धैर् बलीवर्दादिभिः संरुद्धयानो रथान्तरेण व भूमिवैषम्यात् प्रत्यग् अपसर्पिणा अकुशलत्वात् प्राणिनो रथप्रमापयेत् तत्र दण्डो मन्वादिभिर् विचारितः ॥ ८.२९५ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

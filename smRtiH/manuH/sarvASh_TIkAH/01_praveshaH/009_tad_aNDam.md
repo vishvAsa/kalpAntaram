@@ -69,11 +69,20 @@ There has been a great deal of confusion in the mind of modern scholars in conne
 said in the Bhāṣya on verse 5, to the effect that ‘the process of creation here described is in some places in agreement with the Purāṇas, while in others, in accordance with the doctrine of the Saṅkhyas.’ It is this want of consistency that has led Medhātithi to regard the whole of this discourse as purely ‘*arthavāda*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तद्राजं परमेश्वरेच्छया हैममण्डमभवत्। हैममिव हैमं शुद्धिगुणयोगान्न तु हैममेव, तदीयैकशकलेन भूमिनिर्माणस्य वक्ष्यमाणत्वात्। भूमेश्वाहैमत्वस्य प्रत्यक्षत्वादुपचाराश्रयणम्। सहस्रांशुरादित्यस्ततुल्यप्रभं तस्मिन्नण्डे हिरण्यगर्भो जातवान्।येन पुर्वजन्मनि हिरण्यगर्भोऽहमस्मीति भेदाभेदभावनया परमेश्वरोपासना कृता तदीयं लिङ्गशरीरावच्छिन्नजीवमनुप्रविश्य स्वयं परमात्मैव हिरण्यगर्भरूपतया प्रादुर्भूतः। सर्वलोकानां पितामहो जनकः, कपितामह इति वा तस्य नाम॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तद्** इति । **तद् **वीर्यं काञ्चनम् **अण्डं** सम्पन्नम् अत एव आदित्यसमदीप्ति । **तस्मिंश्** च जातवान् आत्मेच्छया हिरण्यगर्भः । **सर्वलोको**त्पादयिता **पितामह** इति वा सञ्ज्ञा तस्य ॥ १.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

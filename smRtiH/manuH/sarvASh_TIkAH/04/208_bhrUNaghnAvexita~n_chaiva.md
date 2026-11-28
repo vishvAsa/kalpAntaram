@@ -76,11 +76,20 @@ courses, pecked by birds, touched by the dog, smelt by the cow.’
 the paramour living in the house of his ladylove, or one who permits his wife’s paramour to live in the house—(the food of these should he avoided).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भ्रूणघ्नेत्युपलक्षणाद् गोघ्नेत्यादिपतिताबेक्षितं, रजस्वलया च स्पृष्टं, पक्षिणा च काकादिना स्वादितं, कुक्कुरेण च स्पृष्टमन्नं न भुञ्जीत ॥२०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रूणघ्नावेक्षितम् **इति । ब्रह्महादिपतितावेक्षितं रजस्वलाद्यस्पृश्यस्पृष्टं पक्षिणा काकादिना आस्वादितं **शुना स्पृष्टं **न भुञ्जीत ॥ ४.२०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

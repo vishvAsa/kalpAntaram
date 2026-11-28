@@ -40,6 +40,16 @@ rise and examine his income and expenditure; after that, having looked into suit
 effect of poisons, and having decorated his person with antidotary gems, the King should take food that has been thoroughly examined, surrounded by physicians well-versed in the science of Toxicology.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण सर्वराजवृत्तं मन्त्रिभिः सह विचार्य अनन्तरमायुषाभ्यासादिना व्यायामं कृत्वा मध्याह्ने स्नानादिकं माध्याह्निंक कृत्यं निर्वाह्य भोक्तुमन्तःपुरं विशेत् ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **एवम्** उक्तनीत्या सर्वं राजा मन्त्रिभिः सह विचार्य तद् अनु धनुरादिना व्यायामं कृत्वा स्नात्वा च मध्याह्ने काले अन्तःपुरं भोक्तुं प्रविशेत् ॥ ७.२१६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ७.२१६ ॥

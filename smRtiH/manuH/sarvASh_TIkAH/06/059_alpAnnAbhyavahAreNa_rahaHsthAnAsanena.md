@@ -37,6 +37,16 @@ food to living beings and sprinkling the remainder with water, he shall eat it a
 *Vaśiṣṭha* (10-25).—‘He shall never eat to satiation.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहारलाघवेन निर्जनदेशस्थानादिना च रूपादिविषयैराकृष्यमाणानीन्द्रियाणि निवर्तयेत्॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अल्पान्नाभ्यवहारेणेति** । विषयै रूपादिभिर् उपभोगार्थम् इन्द्रियाणि अल्पान्नभोजनेन एकान्तदेश उपवेशनेन च ह्रियमाणानि विषयेन्द्रियाणि निवर्तयेत् ॥ ६.५९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 इन्द्रियजयोपायद्वयोपदेशो ऽयम् । कस्य पुनर् हेतोरे यौ॥।

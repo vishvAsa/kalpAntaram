@@ -40,11 +40,21 @@ the Food:—If one eats rice without offering rice to the Pitṛs, the gods, dep
 been fed, he eats sin, and after death, he goes to hell and is born as a feeder on phlegm.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतेभ्योऽतिथ्यादिभृत्यपर्यन्तेभ्योऽन्नमदत्त्वा व्यतिक्रमभोजनदोषमजानन् यः पूर्वं भुङ्क्ते स मरणानन्तरं वगृतध्रैरात्मनो भक्षणं न जानाति । व्यतिक्रमस्येदं फलमिति वचनवै-  
+दध्येनोक्तम् ॥११५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अदत्वेति** । **एतेभ्यो** भृत्यपर्यन्तेभ्य अतिथिभ्यो **ऽदत्वा **यो व्यतिक्रमदोषानभिज्ञः **पूर्वं भुङ्क्ते स भुञ्जानः** एतत् फलभूतं मरणसमन्तरप्राप्तम् आत्मनः **श्वगृध्र**खादनं **न जानाति** ॥ ३.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

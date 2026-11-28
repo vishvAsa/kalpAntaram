@@ -43,6 +43,16 @@ every day when the night is over, he shall bring back again in the evening, afte
 robbers and tigers, and from caverns or pits; let him try his best to protect them, call out for help, and give notice to his master.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गवादिपशुविषये स्वामिनां पालानां व्यतिक्रमे जाते विवादं सम्यग्धर्म्यं यथा तथा व्यस्थया वक्ष्यामि ॥२२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पशुष्व्** इति । पशुविवाददोषैर् उत्पन्नैः स्वामिनां तत्पालानां च विवादम् अशेषअं कृत्वा तात्त्विकव्यवस्थां वक्ष्यति ॥ ८.२२९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपन्यासार्थश्लोकः ॥ ८.२२८ ॥

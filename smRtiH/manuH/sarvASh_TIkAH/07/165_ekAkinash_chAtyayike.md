@@ -29,6 +29,16 @@ The two-foldness of Marching is based upon its being undertaken by the king alon
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 326), as setting forth the two kinds of ‘marching’—(*a*) alone or (*b*) accompanied by the ally.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्ययिकं कार्यं शत्रोव्यसनादिकं तस्मिन्नकस्माज्जाते शक्तस्यैकाकिनो याननशक्तस्यमित्रसहितस्येत्येवं यानं द्विविधमभिधीयते ॥१६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकाकिन** इति । परस्य व्यसनादौ क्षिप्रप्रतीकारे ऽकस्मात् कार्ये प्राप्ते समर्थस्यैकाकिनो यानसमर्थस्य तु मित्रसहितस्येत्य् एवं **यानम् उच्यते द्विविधम्** ॥ ७.१६५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 परस्य व्यसने यदृच्छया, **प्राप्ते आत्ययिके च कार्ये**, **एकाकिन** एव यानं यद्य् असाव् एकाकी शक्नोति तं जेतुम् । **संहतस्य मित्रेण** । । । एवं **द्विविधं यानम्** ॥ ७.१६५ ॥

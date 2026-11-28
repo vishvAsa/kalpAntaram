@@ -46,6 +46,18 @@ and leeks,—on eating these one should perform the Cāndrāyaṇa.’
 leeks, onion, exudation from trees, the property of gods, mushrooms, milk of the camel, milk of sheep,—if the twice-born eats these unintentionally, he becomes purified by fasting for three days and eating *Pañcagavya*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कवकमामसूकरलशुनादीनामन्यतमंबुद्धिपूर्वकं गुरुप्रायश्चित्तोपदेशादभ्यासतो भक्षयित्वा द्विजातिः पतति । ततश्च पतितप्रायश्चित्तं कुर्यात् ।
+
+गर्हितानाद्ययोर्जग्धिः सुरापानसमानि षट् ।( म. स्मृ. ११-९६ ) इति ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**छत्राकम्** इति । कवकग्रामसूकरलशुनादीनाम् अन्यतमं बुद्धिपूर्वं प्रायश्चित्तगुरुत्वात् अभ्यासतो भक्षयित्वा द्विजातिः **पतेत्** । द्विजातिकर्मभ्यो हानिः पतनम् इति । ततश् च प्रायश्चित्तं तस्य न भवति । तथा वक्ष्यति “गर्हितान्न्द्ययोर् जग्धिः सुरापानसमानि षट्” (११.५६) इति ॥ ५.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	A twice-born man who knowingly eats mushrooms, a village-pig, garlic, a village-cock, onions, or leeks, will become an outcast.

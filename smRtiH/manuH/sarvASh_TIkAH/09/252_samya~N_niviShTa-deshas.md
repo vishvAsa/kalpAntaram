@@ -12,15 +12,11 @@ Having duly settled his kingdom, and having built forts according to the institu
 
 देशनिवेशो दुर्गकरणं च[^६३४] यत् सप्तमाध्याये उक्तम्, तत् कृत्वा[^६३५] **कण्टकोद्धरणम्** । तेनापि राष्ट्ररक्षा क्रियते । **कष्टक**शब्दः पीडाहेतुसामान्यात् तस्करादिषु प्रयुक्तः ॥ ९.२५२ ॥
 
-
 [^६३५]:
      M G: kṛtyaṃ
 
-
 [^६३४]:
      M G J omit: ca (see DK 1: 1692; 4: 709)
-
-_एतद् एव दर्शयति ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,6 +35,11 @@ The term ‘thorn’ is applied to robbers and others who are a source of suffer
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
 \[See under [7.69]-[70].\]
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+“जाङ्गलं सस्यसम्पन्नम्” (म. स्मृ. ७-६९) इत्युक्तरीत्या सम्यगाश्रितदेशस्तत्र सप्तमाध्यायोक्तप्रकारेण कृतदुर्गश्चौरसाहसिकादिकण्टकनिराकरणे प्रकृष्टं यत्नंसदा कुर्यात्॥ २५॥
 </details>
 
 <details><summary>भारुचिः</summary>

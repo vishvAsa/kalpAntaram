@@ -53,6 +53,16 @@ water, clarified butter, shelter, household-necessaries, gold and beasts of burd
 clothes becomes endowed with beauty, and the man who gives land is always a king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जलदः क्षुत्पिपासाविगमात्तृप्तिम्, अन्नदोऽत्यन्तसुखं, तिलव्रदं ईप्सितान्यवत्यादीनि दोपदो विप्रवेश्मादौ निर्दोषं चक्षुः प्राप्नोति ॥२२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वारिद** इति । उदकप्रदः सौहित्यम्, **अन्नदः **अनन्तसुखम्, **तिलप्रदः **ईप्सितान्य् अपत्यानि, **दीपदः **तिमिराद्यनुपहतं **चक्षुः** प्राप्नोति ॥ ४.२२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.

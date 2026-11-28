@@ -74,11 +74,24 @@ the other being excluded on the ground of his being a non-Brāhmaṇa;—in
 *Mahābhārata* (13.7.13).—\[Do.\].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ उत्पन्नयोरधर्मेण हव्यकव्ये च नैत्यके ।**
+
+**यस्तयोरन्नमश्नाति स कुण्डाशी द्विजः स्मृतः ॥१०॥ \]**
+
+परदारेषु कुण्डगोलकाख्यौ द्वौ सुतावत्पद्येते ।तत्र जीवत्पतिकायामुत्पन्नः कुण्डो, मृतपतिकायां च गोलकः ॥१७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परदारेष्व्** इति । परभायायां **कुण्डगोलका**ख्यौ सुताव् उत्पद्येते । तत्र सपतिकायां य उत्पद्यते स **कुण्डः, **विधवायां च **गोलकः** ॥ ३.१७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 174	Two (kinds of) sons, a Kunda and a Golaka, are born by wives of other men; (he who is born) while the husband lives, will be a Kunda, and (he who is begotten) after the husband's death, a Golaka.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

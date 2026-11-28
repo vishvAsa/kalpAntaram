@@ -61,6 +61,11 @@ who has not yet been given in marriage, in her father’s house, from a man of t
 belong to him who marries the mother.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पितृगुहे कन्यायं पुत्रमप्रकाशं जनयेत्तं कन्यापरिणेतुः पुत्रं नाम्ना कानीनं वदेत्॥ १७२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सवर्णार्थं सदृशोत्पन्नः । अपरे तु **रह** इति वचनाद् अत्र्[आपि बी]जिनो ऽविज्ञानात् कानीनं मातृजातीयम् एवाहुः ॥ ९.१७२ ॥

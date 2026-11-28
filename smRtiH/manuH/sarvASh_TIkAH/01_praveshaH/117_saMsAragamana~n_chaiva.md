@@ -27,6 +27,16 @@ The threefold transmigration of the Soul, arising from actions,—the highest go
 See 12. 51 *et seq*.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+संसारगमनं देहान्तरप्राप्तिरूपमुत्तममध्यमाधमभेदेन त्रिविधं शुभाशुभकर्महेतुकम् । निःश्रेयसमात्मज्ञानं सर्वोत्कृष्टमोक्षलक्षणस्य श्रेयोहेतुत्वात् । कर्मणां च विहितनिषिद्धानां गुणदोषपरीक्षणम् ॥११७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**संसारगमनम्** इति ॥ १.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,

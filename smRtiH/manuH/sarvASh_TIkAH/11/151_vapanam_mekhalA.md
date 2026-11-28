@@ -48,6 +48,16 @@ hair and nails, the vows and the restrictive rules may be omitted.’
 staff and the alms-begging shall be omitted.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शिरोमुण्डनं मेखलाधारणं दण्डधारणं भैक्षाणि व्रतानि च मधुमांसस्त्रीवर्जनयुतानि प्रायश्चित्तानि पुनरुपनयने द्विजातानां न भवन्ति॥ १५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वपनम्** इति । शिरोमुण्डनमेखलादण्डभैक्ष्यचरणानि व्रतानि चाग्निकार्यं मधुमांसवर्जनादीनि प्रायश्चित्तार्थम् उपनयने द्विजातीनां न भवन्ति ॥ ११.१५० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ११.१५० ॥

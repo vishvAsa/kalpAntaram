@@ -26,6 +26,16 @@ He imbibes the traits of the man who begot him, and not of him to whom the ‘so
 See Comparative notes for [Verse 10.57].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+महाकुलप्रसूतस्यापि यस्य योनिसङ्करः प्रच्छन्नो भवति स मनुष्यो जनकस्वभावंस्तोकं प्रचुरं वा सेवतएव॥ ६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुल** इति । महाकुलोत्पन्नस्यापि यस्य योनिसङ्करः प्रच्छन्नो भवति स जनः स्वपितृगतं स्वभावं ईषद् वा बाहुल्येन सेवत एव ॥ १०.६० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **कुले मुख्ये ऽपि जातस्य अस्य स्याद् योनिसंकरः ।**

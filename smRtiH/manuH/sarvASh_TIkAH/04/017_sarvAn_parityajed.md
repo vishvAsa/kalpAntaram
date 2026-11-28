@@ -34,11 +34,20 @@ Those things that are likely to obstruct Vedic study should all be relinquished;
 *Yājñavalkya* (1.121).—\[See under 15.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदार्थविरोधिनोऽर्थानत्यन्तेश्वरगृहोपसर्पणकृषिलोकयात्रादयस्तान्सर्वान्परित्यजेत्। कथं तर्हिभृत्यात्मपोषणमित्याशङ्क्याह—यथातथा केनाप्युपायेन स्वाध्यायाविरोधिना भृत्या\[त्मानौ जीवयन्। यस्मात्सास्य स्नातकस्य कृतकृत्यता कृतार्थता यन्नित्यं स्वाव्यायपरता ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वान्** इति । **यथा तथा यापयंस् त्व्** इति । येन केनचिद् उपायेनात्मादीन् बिभ्रद् वेदाध्ययनविरुद्धान् अप्रतिषिद्धान् अपि विषयोपभोगादीन् अर्थान् **परित्यजेत्** यस्मात् सा ब्राह्मणस्य **कृतकृत्यता **यत् स्वाध्यायपरत्वम् ॥ ४.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

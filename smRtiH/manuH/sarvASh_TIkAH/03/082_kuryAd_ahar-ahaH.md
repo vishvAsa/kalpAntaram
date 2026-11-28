@@ -33,11 +33,20 @@ offered;—in *Smrtisāroddhāra* (p. 283);—in *Hemādri* (Śrāddha, pp. 208 
 *Varṣakriyākaumudī* (p. 353);—and in *Godādharapoddhati* (Kāla, p. 372).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्यहं यथासम्भवं श्राद्धं कुर्यात्। श्राद्धशब्दोऽयं कर्मविधिवाक्यवर्ती कौण्डपापिनामयनीयाग्निहोत्रशब्दवद्वक्ष्यमाणपार्वणश्राद्धधर्मातिदेशार्थः। अन्नाद्येनेति तिलैत्रीर्व्रीहिभिर्यवैरित्यादेरुपादानम्। पयः क्षीरम्॥८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तेषु पितृयज्ञनिरूपणार्थं तावद् आह **दद्याद् अहर् अहर्** इति । **पितृभ्यः प्रीतिम्** उत्पादयन् **अन्नोदक**क्षीर**मूलफलैः **यथासम्भवं प्रत्यहं श्राद्धं कुर्यात् ॥ ३.८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 082	Let him daily perform a funeral sacrifice with food, or with water, or also with milk, roots, and fruits, and (thus) please the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

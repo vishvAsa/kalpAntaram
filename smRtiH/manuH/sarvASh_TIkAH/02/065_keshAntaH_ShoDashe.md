@@ -48,11 +48,20 @@ the *keśānta*.’
 *keśānta* ceremony is described by the description of the *Cūḍākaraṇa*
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केशान्ताख्यो गृह्योक्तसंस्कारो "गर्भादिसंख्या वर्षाणाम्” इति बौधायनवचनाद्गर्भ षोडशे ब्राह्मणस्य, क्षत्रियस्य गर्भद्वाविंशे, वैश्यस्य ततो द्व्यधिके गर्भचतुर्विंशे कर्तव्यः ॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**केशान्त** इति । केशान्ताख्यः संस्कारः ब्राह्मणादीनां यथाक्रमं षोडशद्वाविंशचतुर्विंशेषु वर्षेषु विधीयते ॥ २.६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

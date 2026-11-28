@@ -58,11 +58,20 @@ etc.’
 words, specially in regard to Brāhmaṇas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथादृष्टश्रुतं तत्त्वं ब्रूयात् । तथा प्रीतिसाधनं ब्रूयात्पुत्रस्ते जात इति । यथा दृष्टश्रुतमप्यप्रियं पुत्रस्ते मृत इत्यादि न वदेत् । प्रियमपि मिथ्या न वदेत् । एष वेदमूलतया नित्यो धर्मः ॥१३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सत्यम्** इति । केनचित् पृष्टः सन् **सत्यम्** एव **ब्रूयात् । सत्यं प्रियं **चाप्य् अपृष्टो ऽपि पुत्रजन्मादि कथयेत् । **अप्रियं **पुनः **सत्यं **बन्धुवियोगादि न वदेत्, अपि तु सत्यां गतौ तूष्णीम् आसीत । **प्रियम्** अपि चासत्यं नापि(भि) **ब्रूयात्** इत्य् **एष** नित्यो **धर्मः** ॥ ४.१३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 138	Let him say what is true, let him say what is pleasing, let him utter no disagreeable truth, and let him utter no agreeable falsehood; that is the eternal law.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

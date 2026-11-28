@@ -40,6 +40,16 @@ non-Brāhmaṇas who are unable to work;—and those who arc free from taxes, an
 unbreakable, imperishable, indestructible ancient treasure (of the Veda); the king shall therefore honour them and thereby become unconquerable, like the King of the Gods.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रज्ञानानुष्ठाने ज्ञात्वा अस्य तदनुरूपां धर्मादनपेतां जीविकामुपकल्पयेत् । चौरादिभ्यश्चैनमौरसं पुत्रमिव पिता, रक्षेत् ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **श्रुतवृत्ते** इति । भयेभ्यश् च तथा रक्षेत् **पिता पुत्रम् इवौरसम्** । ज्ञानानुष्ठाने ऽस्य ज्ञात्वा तदनुरूपां धर्माद् अनपेतां स जीविकां कल्पयेत्, चौरपारदारिकादिभ्यो भयेभ्यश् च रक्षणीयस् तथा यथा पिता पुत्रं रक्षति ॥ ७.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Having ascertained his learning in the Veda and (the purity of) his conduct, the king shall provide for him means of subsistence in accordance with the sacred law, and shall protect him in every way, as a father (protects) the lawful son of his body.

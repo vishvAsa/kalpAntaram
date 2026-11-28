@@ -33,11 +33,20 @@ The results that accrue, from giving to such persons, to the giver,—all that I
 which is eaten by the twice-born men ‘unfit for company’ goes to the Rākṣasas; so say the teachers of the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पङ्क्तिभोजनानहब्राह्मणाय दैवे हविषि पित्र्ये वा दत्तेदातुर्यो दानादूर्ध्वं फलोदयस्तमशेष-मभिधास्यामि ॥१६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपङ्क्त्यदान** इति । पङ्क्तिभोजनानर्हदाने **दातुर् **यद् एनो देवपित्रर्थहविषि फलोत्पत्तिर् भवति तत् साकल्येन **प्रवक्ष्यामि **॥ ३.१६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

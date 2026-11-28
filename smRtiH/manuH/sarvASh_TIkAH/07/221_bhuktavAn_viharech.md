@@ -42,6 +42,16 @@ accompanied by ministers, he shall inspect the army and hold consultations with 
 and perfumes, and being decked with garlands and ornaments, the king shall hold intercourse with his wife, who also has bathed and decked herself with bright garments and brilliant ornaments.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतभोजनश्च तत्रैवान्तःपुरे भार्याभिः सह क्रीडेत। कालानतिक्रमेणच सप्तमेदिवसस्य भागे तत्र विहृत्याष्टमे भागे पुनः कार्याणि चिन्तयेत् ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भुक्तवान्** इति । कृतभोजनः सन् तस्मिन्न् एवान्तःपुरे भार्याभिः सह क्रीडेत् । कालातिक्रमेण च सप्तमे दिवसस्य भागे तत्र विहृत्याष्टमे भागे पुनः कार्याणि चिन्तयेत् ॥ ७.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	When he has dined, he may divert himself with his wives in the harem; but when he has diverted himself, he must, in due time, again think of the affairs of state.

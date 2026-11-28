@@ -41,6 +41,11 @@ passage of the Veda:—“Therefore one hundred cows besides a chariot should be
 marriage, a gift, with a view to meet the father’s wishes, should be made by the bridegroom to the father—“Therefore he should give a hundred cows besides a chariot; this gift he should make bootless by returning it to the giver.” In reference to these marriage-rites, the word “Sale” can apply only in a metaphorical sense; as such union is effected under the law.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रानभिज्ञः शूद्रोऽपि पुत्र ददच्छुल्कं न गृह्णीयात्किं पुनः शास्त्रविद् द्विजातिः । यस्माच्छुल्कं गृह्णन्गुप्तं दुहितृविक्रयं कुरुते । “न कन्यायाः पिता" (म.स्सु ३-९१ ) इत्यनेन निषिद्धमपि शुल्कग्रहणं कन्यायामपि गृहीतशुल्कायां शास्त्रीयनियमदर्शनाच्छुल्कग्रहणे शास्त्रीयत्वशङ्कायांपुनस्तन्निषिध्यते ॥ १८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **न शूद्रो ऽपीति** वचनात् शुल्कग्रहणं दोषवद् इत्य् एतद् दर्शयति । न तु शूद्रस्य प्रतिषेधः ॥ ९.९८ ॥

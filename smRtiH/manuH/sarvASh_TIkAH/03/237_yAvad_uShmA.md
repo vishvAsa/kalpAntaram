@@ -35,11 +35,20 @@ This verse is quoted in *Aparārka* (p. 497);—and in
 See Comparative notes for [Verse 3.236].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यावदन्ने उष्णता भवति, यावच्च मौनिनो भुञ्जते, यावच हविर्गुणा नोच्यन्ते तावत्पितरोऽश्नन्तीति पूर्वोक्तस्यैवार्थस्य प्रशंसा ॥२३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यावद् ऊष्मा भवत्य् अन्न **इति । **यावद् अन्ने **औष्ण्यं **हवति **विप्रा मौनेनाश्नन्ति हविर्गुणांश् च नाभिदधति **तावत् पितरस्** तद् अन्नं ब्राह्मणमुखेन भुञ्जते ॥ ३.२३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 237	As long as the food remains warm, as long as they eat in silence, as long as the qualities of the food are not proclaimed, so long the manes partake (of it).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

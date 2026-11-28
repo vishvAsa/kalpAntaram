@@ -65,11 +65,20 @@ been ordained—Niṣeka, Puṃsavana, Sīmantonnayana, Jātakarma, Nāmakaraṇ
 the Final (Death) Rites.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदमूलत्वाद्वैदिकैः पुण्यैः शुभैर्मन्त्रप्रयोगादिकर्मभिर्द्विजातीनां गर्भाधानादिशरीरसंस्कारः कर्तव्यः । पावनः पापक्षयहेतुः । प्रेत्य परलोके संस्कृतस्य यागादिफलसम्बन्धात्, इह लोके च वेदाध्ययनाद्यधिकारात् ॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैदिकैर् **इति । वैदिकमन्त्रसाध्यत्वात् वेदमूलसाध्यत्वाच् च **वैदिकैः **स्मार्तैः **कर्मभिः** “विष्णुर् योनिं कल्पयतु” इत्येवमादिमन्त्रप्रयोगादिबिः **पुण्यैः **पारम्पर्येण धर्महेतुभिः गर्भाधानादिः द्विजातीनां **शरीरसंस्कारः **कर्तव्यः । **पावनः **पवित्रीकारकः **प्रेत्य **परलोके संस्कृतस्य यागादिकर्मफलसम्बन्धात् । **इह **लोके च संस्कृतस्याध्ययनाद्यधिकारात् । निषेकगुणात् (-ग्रहणात्) पितुर् अधिकारः । निषेकवर्जिते तु कदाचित् तत्स्थानापन्नस्य तत्प्रयुक्तस्य वा अन्यस्यापि (न) स्यात् ॥ २.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	With holy rites, prescribed by the Veda, must the ceremony on conception and other sacraments be performed for twice-born men, which sanctify the body and purify (from sin) in this (life) and after death.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

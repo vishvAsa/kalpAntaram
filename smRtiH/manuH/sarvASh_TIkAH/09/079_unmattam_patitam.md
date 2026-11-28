@@ -47,6 +47,11 @@ This verse is quoted in Vivādaratnākara (p. 423).
 See Comparative notes for [Verse 9.77].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वातादिक्षोभादप्रकृतिस्थं, पतितमेकादशाध्याये वक्ष्यमाणं, नपुंसकम्, अबीजं बाध्यरेतस्स्वादिना बोजराहतं, कुष्ठाद्युपेतं च पतिमपरिचरन्त्यास्त्यागो न करणीयो, न च धनग्रहणंकरणीयम् ॥ ७९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अत्र निमित्ते ऽत्याग एव तस्याः ॥ ९.७९ ॥

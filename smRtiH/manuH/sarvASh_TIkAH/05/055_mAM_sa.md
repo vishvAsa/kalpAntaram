@@ -39,11 +39,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 531);—and in
 See Comparative notes for [Verse 5.54].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इह लोके यस्य मांसमहमश्नामि परलोके मां स भक्षयिष्यतीत्येतन्मांसशब्दस्य निरुक्तं पण्डिताः प्रवदन्ति इति मांसशब्दस्य निवेचनमवैधमांसभक्षणपापफलकथनार्थम् ॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मां स भक्षयितेति** ॥ ५.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	'Me he (mam sah)' will devour in the next (world), whose flesh I eat in this (life); the wise declare this (to be) the real meaning of the word 'flesh' (mamsah).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

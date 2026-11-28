@@ -57,11 +57,20 @@ defilement, by sweeping, by smearing with cowdung, by scraping, by sprinkling an
 lapse of time, by cows walking over it, by sprinkling and scraping.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अवकरशोधनेन गोमयाद्युपलेपनेन गोमूत्रोदकादिसेकेन खात्वा कतिपयमृदपनयनेन गवा-महोरात्रनिवासेन पञ्चभिरेकैकशोभूमिः शुद्ध्यति । एषां चोच्छिष्टमूत्रपुरीषचण्डालनिवासाद्यु-पघातगौरवलाघवाभ्यां समुच्चयविकल्पाववगन्तव्यौ ॥१२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्मार्जनेन दाहेनेति । **अवकरशोधनगोमधूपलेपनक्षीरोदकगोमूत्रादिसेकतक्षणैर् अहोरात्रमात्रं बहुगोनिवासेन चोच्छिष्टमूत्रपुरीषचण्डालश्मशानाद्युपघातविशेषापेक्षया व्यस्तैः समस्तैर् वा **पञ्चभिर् भूमिः शूध्यति** ॥ ५.१२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 124	Land is purified by (the following) five (modes, viz.) by sweeping, by smearing (it with cowdung), by sprinkling (it with cows' urine or milk), by scraping, and by cows staying (on it during a day and night).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

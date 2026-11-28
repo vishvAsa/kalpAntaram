@@ -63,11 +63,15 @@ feeding of Brāhmaṇas, the Student should beg the materials from his relations
 throw into his begging vessel, gold, silver and gems.’\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**मातरम्** इति । **मातुर् भगिनी** मातृष्वसा प्रथमम् उपनयनाङ्गभूतं भैक्षम् एतां याचेत् नान्यां या च प्रत्याख्यानेन ब्रह्मचारिणं **नावमानयेत्** । **निजा **सोदरा ॥ २.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	Let him first beg food of his mother, or of his sister, or of his own maternal aunt, or of (some other) female who will not disgrace him (by a refusal).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

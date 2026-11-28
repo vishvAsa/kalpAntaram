@@ -54,6 +54,16 @@ following, without her husband (or master):—recital of hymns, penances, pilgri
 either accompany him or observe the vows; she should not go to other houses; she should maintain chastity, control her passions and give up personal adornment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पत्या सह धर्माचरणेन योऽर्जितः स्वर्गादिलोकः तमिच्छन्ती साध्वी स्त्री जीवतो वा मृतस्यवा भर्तुर्न किञ्चिदप्रियमर्जयेत् । मृतस्याप्रियं व्यभिचारेणविहितश्राद्धखण्डनेन च ॥१५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पाणिग्राहस्येति** । भर्त्रा सह धर्माचरणेन स्वर्गादिलोकत्वम् आप्तुकामा साध्वी स्त्री भर्तुर् जीवतो मृतस्य वा अप्रियं व्यभिचारादि न किञ्चिद् आचरेत्, वृत्त्यसम्भवे ऽपि च ॥ ५.१५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 156	A faithful wife, who desires to dwell (after death) with her husband, must never do anything that might displease him who took her hand, whether he be alive or dead.

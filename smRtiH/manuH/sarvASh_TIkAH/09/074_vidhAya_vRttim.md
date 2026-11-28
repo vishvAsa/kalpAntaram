@@ -58,6 +58,11 @@ decorating herself, as well as dancing, singing, public spectacles or festivals 
 shall not adorn herself, nor unbind her hair.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कार्ये सति मनुष्यः पत्न्या ग्रासाच्छादनादि प्रकल्प्य देशान्तरं गच्छेत् । यस्माद् ग्रासाद्यभावपीडिता स्त्री शीलवत्यपि पुरुषान्तरसंपर्कंभजे ॥ ७४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कार्यार्थं नियमेन ग्रासाच्छादनप्रविधानं कुर्याद् भार्यायाः । अस्य नियमविधेर् अर्थवाद उत्तरः श्लोकार्धः । कार्यवतश् च मनुष्यस्य प्रवासोपदेशाद् विना कार्येण भार्यां मुक्त्वान्यत्र गमनं प्रतिषेधति ॥ ९.७४ ॥

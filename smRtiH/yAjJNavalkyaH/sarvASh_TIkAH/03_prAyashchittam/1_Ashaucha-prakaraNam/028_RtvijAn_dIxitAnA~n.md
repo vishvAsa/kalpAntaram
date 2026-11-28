@@ -1,6 +1,7 @@
 +++
 title = "028 ऋत्विजान् दीक्षितानाञ्"
 +++
+
 <details><summary>मूलम्</summary>
 
 ऋत्विजां दीक्षितानां च  
@@ -58,9 +59,11 @@ _किं च ।_
 
 इति कल्पचतुष्टयं प्रतिपादितम् । समानोदकविषयाश् च संकुचिताशौचकल्पाः पक्षिण्येकाहःसद्यःशौचरूपाः स्मृत्यन्तरे दृष्टाः वृत्तिसंकोचोपाधिकतयैव योज्याः । अयं चाशौचसंकोचो येनैव प्रतिग्रहादिना विनार्तिस् तद्विषयो न सर्वत्रेत्य् अवगन्तव्यम् ॥
 
-> (<u>ननु</u>?)[४२] ~~मनुः~~ ।   
+> (<u>ननु</u>?)[^४२] ~~मनुः~~ ।   
 > एकाहाद् ब्राह्मणः शुध्येद् यो ऽग्निवेदसमन्वितः ।   
 > त्र्यहात् केवलवेदस् तु विहीनो दशभिर् दिनैः ॥ इत्यादिस्मृत्यन्तरवचनपर्यालोचनयाध्ययनज्ञानानुष्ठानयोगिनां त्र्येकाहादिभिः सर्वात्मना शुद्धिर् इत्य् एवं कस्मान् नेष्यते । 
+
+[^४२]: All editions read "manuḥ" here, but the cited text is ascribed to "smṛtyantara" Further, the Mit never simply uses the nominative "manuḥ" to introduce a verse; it is always "āha manuḥ". I think the word here should be "nanu", introducing the pūrvapakṣa, to which a response is given several lines down with "ucyate".
 
 - <u>उच्यते</u>, 
 
@@ -86,8 +89,6 @@ _किं च ।_
 > वैश्यः प्रतोदं रश्मीन् वा यष्टिं शूद्रः कृतक्रियः ॥ इति । (म्ध् ५.९९)
 
 अयमर्थः- कृतक्रिय इति प्रत्येकम् अभिसंबध्यते । विप्रो ऽनुभूताशौचकालः कृतक्रियः कृतस्नानो हस्तेनापः स्पृष्ट्वा शुध्यति । स्पृष्ट्वेति स्पर्शनक्रियैवोच्यते न स्नानम् आचमनं वा, वाहनादिषु तस्यैवानुषङ्गात् । अथ वा कृतक्रियो यावद् आशौचं कृतोदकादिक्रियः तदनन्तरं विप्रादिर् उदकादि स्पृष्ट्वा शुध्यतीत्य् आशौचकालानन्तरभाविस्नानप्रतिनिधित्वेनोच्यत इति । क्षत्रियादिर् वाहनादिकं स्पृष्ट्वा शुध्येद् इति ॥ ३.२८ ॥ ३.२९ ॥
-
-[४२]: All editions read "manuḥ" here, but the cited text is ascribed to "smṛtyantara" Further, the Mit never simply uses the nominative "manuḥ" to introduce a verse; it is always "āha manuḥ". I think the word here should be "nanu", introducing the pūrvapakṣa, to which a response is given several lines down with "ucyate".
 </details>
 
 <details><summary>विश्वरूपः</summary>

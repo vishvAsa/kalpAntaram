@@ -39,11 +39,20 @@ It is quoted in *Saṃskāramayūkha* (p. 100), which explains ‘*ānṛśaṃs
 ancient lore quote the words of Prācetasa to the effect that in cases where the relations do not appropriate anything for themselves, it is not *selling*, it is only a method of honouring the girls, and as such, entirely harmless and righteous; the whole of the present received should he made over to the girl.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यासां कन्यानां प्रीत्या वरेण दीयमानं धनं पित्रादयो न गृह्णन्ति किन्तु कन्यायै समपर्थन्ति, सोऽपि न विक्रयः यस्मात्कुमारीणां पूजनं तदानृशंस्यमहिंसकत्वं केवलं तदनुकम्पारूपम् ॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यासाम्** इति । **यासां** कन्यानां पुनः पित्रादयः आत्मार्थं दानं दत्तं वरान् न गृह्णन्ति अपि तु प्रसन्नैः भर्त्रादिभिर् अर्पणपूर्वकं कन्यार्थं दत्तं गृह्यते, नासौ विक्रयः । किं तर्हि । पूजनं तत्, कन्यानां **केवलं** विक्रयस्पर्शशून्यम् अनुकम्पारूपं अनुकम्पारूपं तत् ॥ ३.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

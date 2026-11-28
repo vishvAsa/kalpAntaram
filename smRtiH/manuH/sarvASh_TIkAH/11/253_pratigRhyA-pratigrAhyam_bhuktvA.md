@@ -40,6 +40,16 @@ accepted gifts, must repeatedly recite the four Ṛk-verses called
 or food given by a person whose food should not be eaten, the means of removing the guilt is to sprinkle water over one’s head while reciting the *Taratsamandī* verses.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वरूपतो महापातकिधनत्वादिना वाऽप्रतिप्राह्यं प्रतिगृह्य चान्नं स्वभावकालप्रतिग्रहसंसर्गदुष्टं भुक्त्वा "तरत्समन्दी धावति" इत्येता ऋचश्चतस्त्रो जपित्वा त्र्यहं तस्मात्पापान्मनुष्यः पूतो भवति॥२५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिगृह्येति** । निषिद्धप्रतिग्रहं सुरादि भुक्त्वा तरत् स मन्दी जपित्वा द्विजातिर् दिवसत्रयेण पवित्री भवति ॥ ११.२५२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 तरत्समन्दीयं प्रसिद्धम् ॥ ११.२५० ॥

@@ -30,6 +30,16 @@ The term ‘*dat*’ is synonymous with ‘*danta*,’ and is totally different 
 ‘*Ubhayatodataḥ*’—A compound difficult to explain. The word ‘*danta*’ becomes transformed into ‘*dat*’ only in special cases, laid down in Pāṇini 5.4.141-145. The only explanation possible is that given by Medhātithi,—that the term ‘*dat*’ is an entirely different word from ‘*danta*’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जरायुगर्भावरणचर्म तत्र मनुष्यादयः प्रादुर्भवन्ति, पश्चान्मुक्ता जायन्ते। एषामेव जन्मक्रमः प्रागुक्तो विवृतः। दन्तशब्दसमानार्थो दच्छब्दः प्रकृत्यन्तरमस्ति तस्येदं प्रथमाबहुवचने रूपमुभयतोदत इति॥४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पशव** इति । **जरायु**गर्भसम्पातः तत्रादौ सम्भवन्ति । ततस् तन्मुक्ता जायन्ते ॥ १.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.

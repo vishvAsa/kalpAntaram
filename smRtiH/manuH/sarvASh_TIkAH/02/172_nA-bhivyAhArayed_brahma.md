@@ -70,11 +70,20 @@ not been initiated there is no harm done if he does not observe rules regarding 
 he likes, short of committing degrading sins.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आमौजिबन्धनादित्यनुवर्तते प्रागुपनयनाद्वेदं नोच्चारयेत् । स्वधाशब्देन श्राद्धमुच्यते, निनीयते निष्पाद्यते येन मन्त्रजातेन तद्वर्जयित्वा मृतपितृको नवश्राद्धादौ मन्त्रं नोच्चारयेत तद्व्यतिरिकं वेदं नोदाहरेत् । यस्माद्यावद्वेदे न जायते तावदसौ शूद्वेण तुल्यः ॥१७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च प्राग् उपनयनाद् अध्ययनप्रतिषेधे सति प्रतिप्रसवम् आह **नाभिव्याहारयेद्** इति । स्वधाशब्दाख्यमन्त्रसाधनं कर्म निनीयते पितॄन् प्रति प्राप्यते येन तत् **स्वधानिनयनम्**, पित्र्यं कर्म तद् वर्जयित्वा न वेदम् उदाहारयेत् । यस्मात् वेदनिमित्तं **यावन् न जायते** यावद् उपनीतस् तावत् शूद्रतुल्यो ऽसौ । एतद् एव ज्ञापकम् उपनीतपितृप्रसवे (अनुपनीतपितृमरणे) सत्य् एकोद्दिष्टं श्राद्धादिकरणाधिकारस्य ॥ २.१७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 172	(He who has not been initiated) should not pronounce (any) Vedic text excepting (those required for) the performance of funeral rites, since he is on a level with a Sudra before his birth from the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

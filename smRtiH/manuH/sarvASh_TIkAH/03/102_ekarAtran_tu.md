@@ -70,11 +70,20 @@ Vaiśvadeva offering, is to be honoured like a god; brought up by the sun, he is
 that person who comes to one’s house, whose family or name is not known,—who is not an inhabitant of the same village; he should be one who is not related to the householder; he should be one who has nothing with him, and has come from another country.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकरात्रमेव परगृहे निवसन्ब्राह्मणोऽतिथिर्भवति । अनित्यावस्थानान्न विद्यते द्वितीया ति थिरस्येत्यतिथिरुच्यते ॥१०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अप्रसिद्धत्वाद् अतिथिलक्षणम् आह **एकरात्रम्** इति । **ब्राह्मण एकरात्रं **परगृहे **वसन् अतितिः **यतिः स्मृतः यद् अस्याहनित्यावस्थानेन न विद्यते द्वितीया तिथिर् अस्येत्य् एवम् अतिथिर् उच्यते ॥ ३.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

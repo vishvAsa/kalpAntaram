@@ -20,6 +20,16 @@ Thousand ‘Time-cycles’ of the Gods make one ‘day’ of Brahmā.—Brahmā�
 The instrumental ending (in ‘*Sāṅkhyayā*’) denotes *causality*.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवयुगानां सहस्रं ब्राह्मं दिनं ज्ञातव्यम्। सहस्रमेव रात्रिः। परिसंख्ययेति श्लोकपुरणार्थोऽनुवादः॥७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैविकानाम्** इति । एषां देव**युगानां** **सहस्रं ब्राह्मम् अहर्** विज्ञेयम् । सहस्रम् एव रात्रिसङ्ख्ययेत्य् अनुवादः ॥ १.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.

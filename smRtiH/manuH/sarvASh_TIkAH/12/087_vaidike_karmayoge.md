@@ -112,6 +112,16 @@ It is for this reason that even one who is bent upon seeking Brahman should perf
 The term ‘*Kriyāvidhi*,’ ‘*performance*,’ may be taken as standing for the *act of devoted attention*, prescribed by such passages as—‘He should be heard, meditated upon, etc., etc.;’ and since there are many methods of such devoted attention, the text has rightly added the phrase—‘*each in its turn*.’ For instance, in such passages as—‘one should worship Brahman,’ ‘the Golden Person in the Sun,’ ‘this is the Self, free from sin,’ and so forth—the object of *devoted attention* is sometimes spoken of in some form attributed to It by our own mind; sometimes in the form of a ‘Golden Person,’ where the expression is used figuratively; sometimes again as the ‘lord’ of all forms of worships the sinless Self:—*e.g*., such passages as ‘Below Him, above Him,’ etc. It is on account of these diverse declarations that we have the repeated phrase ‘*tasmin, tasmin*.’—(87)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वैदिके पुनः कर्मयोगे परमात्मोपासनारुपेसर्वाण्येतानि पूर्वश्लोकोक्तान्यैहिकामुष्मिकश्रेयांसि तस्मिन्नुपासनाविधौ क्रमशः संभवन्ति। अथवा सर्वाण्येतानीति वेदाभ्यासादीन्येव परामृश्यन्ते। परात्मज्ञाने वेदाभ्यासादीनि "तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेन" इति श्रुतिविहिताङ्गत्वेनान्तर्भवन्ति॥८७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैदिक** इति । ज्योतिष्टोमादिवेदोक्तकर्मानुष्ठाने क्रमेनान्तर्भवति । तथा च श्रौतस्मार्तादौ वेदाभ्यासो ऽन्तर्भवति । तपश् च दीक्षोपसत्पयोव्रतादौ ज्ञानं चात्मज्ञानस्य समुच्चयेन वैदिककर्मणोपसर्गफलत्वाद् इन्दिर्यसंयमश् च न मांसम् अश्नीयान् न मैथुनम् उपेयाद् इति । कर्माङ्गत्वेनोक्तत्वाद् अहिंसा च तस्माद् एतां रात्रिं प्राणभृतः प्राणान् न छिन्द्याद् इति भागत्वेनाभिधानात् गुरुशुष्रूषा च यथाकर्मानुष्ठानकारणभूनं वेदम् अधिगच्छतीत्य् एवं सर्वाणि वैदिकयोगेन भवन्ति ॥ १२.८७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 वेदाभ्यासस् तावत् कर्मविधाव् अङ्गीभवति शस्त्रस्तोत्रग्रहयाजनादौ । तपश् चोपसद्व्रतादि कर्माङ्गम् । ज्ञानम् उक्तं क्षेत्रज्ञविज्ञानादि । इन्द्रियसंयमः, "न मांसम् अश्नीयान् न मिथुनम् उपेयात्" इत्य् एवमादि । **अहिंसा**- "तस्माद् एतां रात्रिं प्राणभृतः प्राणं न विच्छिन्द्यात्" इत्य् एवमादि । **गुरुसेवा** ऋत्विगनुवृत्तिः । तच् चैतद् वैदिकं कर्म ॥ १२.८७ ॥

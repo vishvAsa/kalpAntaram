@@ -22,6 +22,16 @@ The terms ‘*para*,’ ‘*excellent*’ (in verse 111), and ‘*eternal*’ (i
 All this forms the subject-matter of discourse III.—(112)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दाराधिगमनं विवाहः तद्विशेषाणां ब्राह्मादीनां चालक्षणम्। महायज्ञाः पञ्च वैश्वदेवादयः। श्राद्धस्य विधिः शाश्वतः प्रतिसर्गमनादिप्रवाहप्रवृत्त्या नित्यः। एष तृतीयाध्यायार्थः ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दाराधिगमनम्** इति ॥ १.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	(The law of) marriage and the description of the (various) marriage-rites, the regulations for the great sacrifices and the eternal rule of the funeral sacrifices,

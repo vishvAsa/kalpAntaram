@@ -33,6 +33,16 @@ family; sisters, daughters-in-law, and so forth’.
 family becomes doomed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“जामिः स्वस्कुलस्त्रियोः" इत्याभिधानिकाः (अमरकोशे नानार्थः, श्लो. १४२) । यस्मिन्कुले भगिनीगृहपतिसंवर्धनीय सन्निहितसपिण्डस्त्रियश्च पत्नीदुहितृस्नुषाद्याः परितापादिना दुःखिन्यो भवन्ति तत्कुलं शीघ्रं निर्धनीभवति दैवराजादिना च पीड्यते । यत्रैता न शोचन्ति सद्धनादिना नित्यं वृद्धिमेति । मेधातिथिगोविन्दराजौ तु “नवोढादुहितृस्नुषाद्या जामयः" इत्याहतुः ॥५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शोचन्तीति** । यस्मिन् कुले नवोढा दुहितृस्तुषाद्याः सशोका भवन्ति तत् कुलं क्षिप्रम् एव **विनश्यति **। **यत्र **पुनर्** एता **शोकार्ता न भवन्ति तत् सर्वकालं वृद्धिम् एति ॥ ३.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.

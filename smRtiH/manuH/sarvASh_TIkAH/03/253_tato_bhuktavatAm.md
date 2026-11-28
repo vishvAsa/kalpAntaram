@@ -41,11 +41,20 @@ their wishes.’
 ask them ‘*what is to he done with the remnants?*’—On being permitted by them, he shall eat it, along with his friends.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+** ** स्वधाशब्दोच्चारणानन्तरं कृतभोजनानां ब्राह्मणानां शेषमन्नमप्यस्तीत्यवशिष्टमन्नं निवेदयेत् । तैर्ब्राह्मणैरिदमनेनान्नेन क्रियतामित्यनुज्ञातो यथा ते ब्रूयुस्तथाऽन्नशेषविनियोगं कुर्यात् ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत** इति । सहकृतभोजनानां विप्राणां स्वधाकाराद् अनन्तरं शेषम् अन्नम् इत्य् एवं गृह्योक्तविधिना **अन्नशेषं निवेदयेत् **। तैश् च **द्विजैः** इदम् अनेनान्नेन क्रियताम् इति दत्तानुज्ञः **यथा **तैर् उक्तं **तथा **विनियुञ्जीत ॥ ३.२५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 253	Next let him inform (his guests) who have finished their meal, of the food which remains; with the permission of the Brahmanas let him dispose (of that), as they may direct.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

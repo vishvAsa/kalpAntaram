@@ -34,6 +34,16 @@ the Council;—and again on p. 317).
 is in consonance with spiritual and material welfare; he shall not deprive himself of pleasure entirely; or he may devote equal attention to all the three; as over-addiction to any one of them ruins the other, etc. Material Welfare is the most important, says Kauṭilya; Spiritual Welfare and Pleasure are dependent upon that.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दिनमध्ये रात्रिमध्ये वा विगतचित्तवेदः शरीरक्लेशरहितश्च मन्त्रिभिः सह । एकाकी वा धर्मार्थकामाननुष्ठातुं चिन्तयेत् ॥१५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मध्यन्दिन** इति । विगतचित्तखेदो ऽपगतशरीरक्लमश् च मध्याह्ने ऽ**र्धरात्रे वा** मन्त्रिभिः **सहैको वा** धर्मकामार्थान् “कथं मया धर्मः कामो वार्थो वा संसेव्यः” इति **चिन्तयेत्** ॥ ७.१५१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धर्मार्थकामानां वृद्धिं **चिन्तयेत्** । परस्परविरोधिनां राज्ञाम् अन्यतमविवृद्धौ तेषाम् उच्छित्तिर् जायते ॥ ७.१५०–५१ ॥

@@ -67,11 +67,20 @@ This is quoted in *Saṃskāramayūkha* (p. 16), which adds that if the intercou
 See Comparative notes for [Verse 3.45].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुंसो बीजेऽधिकेऽयुग्मास्वपि पुत्रो जायते । स्त्रीबीजेऽधिके युग्मास्वपि दुहितैव । अतो वृष्याहारादिना निजबीजाधिक्य भार्यायाश्चाहारलाघवादिना बीजाल्पत्वमवगम्य युग्मास्वपि पुत्रार्थिना गन्तव्यमिति दर्शितम् । स्त्रोपुंसयोस्तु बीजसाम्येऽपुमान्नपुंसक जायते । पुंस्त्रियाविति यमौ च । निःसारेऽल्पे चोभयोरेव बीजे गर्भस्यासम्भवः ॥४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पुमान्** इति । पुंसो ऽधिकबीजे अयुग्मास्व् अपि रात्रिषु पुमान् स्त्र्याकृतिः दुर्बलो हीनाङ्गो जायते, आयुर्वेदे एवाभिधानात् । स्त्रीबीजे त्व् अधिके युग्मास्व् अपि स्त्री पुरुषाक्र्तिः दुर्बला हीनाङ्गी वा जायते आयुर्वेददर्शनात् । समे स्त्रीपुरुषबीजे युग्मास्व् अयुग्मास्व् अपि नपुंसकं जायते ॥ ३.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

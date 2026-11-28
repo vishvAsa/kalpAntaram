@@ -40,11 +40,20 @@ not available;—in *Madanapārijāta* (p. 558), along with the next verse;—in
 3.6.37. The *Yava* having been laid down as a substitute at sacrifices for the *Vrīhi*, the question is raised as to the necessity or otherwise of performing all those acts in connection with the substitute which have been laid down in connection with the original; and the conclusion is that the substitute has to be treated exactly in the same manner as the original.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हव्यकव्ययोरुभयोरेव प्रदाने यदसम्बन्धिश्रोत्रियादिभ्यो दीयत इत्ययं मुख्यः कल्प उक्तः । अयं तु मुख्याभावे वक्ष्यमाणोऽनुकल्पो ज्ञातव्यः सर्वदा साधुभिरनुष्ठितः ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । हव्यकव्यप्रदानेन **एष** मुखो विधिः यद् असम्बन्धिभ्यः श्रोत्रियादिभ्यो दीयत इति । **अयं **वक्ष्यमाणः पुनर् मुखाभावे विधिर् बोद्धव्यः, मुख्याभावे च सर्वदा साधुभिर् **अनुष्ठितः** ॥ ३.१४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

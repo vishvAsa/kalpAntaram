@@ -41,6 +41,16 @@ This verse is quoted also in *Madanapārijāta* (p. 107), where the following no
 windward of the Teacher;—or to the leeward,’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रतिगतोऽभिमुखीभुतः शिष्यस्तदा गुरुदेशाच्छिष्यदेशमागच्छति स प्रतिवातः, यः शि-ष्यदेशाद्गुरुदेशमागच्छति सोऽनुवातः, तन्त्र गुणा समं नासीत । तथाऽविद्यमानः संश्रवो यत्र तस्मिन्नसंश्रवे, गुरुर्यत्र न शृणोतीत्यर्थः । तत्र गुरुगतमन्यगतं वा न किंचित्कथयेत् ॥२०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिवात** इति । **प्रतिवातो **मुखीभूतः पुरोवर्ती गुरुदेशाच् छिष्यदेशं प्रति वायुः यस्मिन् प्रदेशे, यत्र चानुगतशिष्यः गुरुदेशं **प्रतिवातः** । तत्र पश्चाद् **गुरुणा सह नासीत** । तथा गुरुसन्निधाने यस्मिन् देशे गुरोः संश्रवः आकर्णनं नास्ति तत्रान्यस्य तत्रान्यस्य कस्यचित् **न किञ्चिद् अपि **कथयेत् ॥ २.२०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.

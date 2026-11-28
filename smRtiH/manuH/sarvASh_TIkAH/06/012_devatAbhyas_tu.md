@@ -31,6 +31,16 @@ He should eat only such salt as is ‘*prepared by himself*’ and not rock-salt
 This verse is quoted in *Mitākṣarā* (on 3.46), which explains that the salt is to be collected from salt-marshes.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तद्वनोद्भवनीवारादिकसाधितमतिशयेन यागार्हंहविदवताभ्य उपकल्प्य शेषान्नमुपभुञ्जीत। आत्मना च कृतं लवणमूषरलवणाद्युपभुञ्जीत॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवताभ्यश् चेति** । तद् वनोद्भवं सम्पादितहविः अतिशयेन यागार्हं शास्त्रचोदित**देवताभ्य्**ओ हुत्वा **शेषम् आत्मन्य्** उपयोजयेत् । आत्मना च सम्पादितं लवणभूषालवादि ॥ ६.१२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 तच्छेषवृत्तितास्य नियम्यते ॥ ६.१२ ॥

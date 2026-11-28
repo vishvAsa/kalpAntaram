@@ -61,6 +61,16 @@ by protecting the people. The means of subsistence for the Vaiśya are cattle-re
 sacrificing, making gilts, living by arms, and protecting of living beings; of the Vaiśya—studying, sacrificing, giving gifts, agriculture, cattle-tending and trade.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणापेक्षया क्षत्रियस्याध्यापनयाजनप्रतिग्रहाख्यानि वृत्त्यर्थानि त्रीणि कर्माणि निवर्तन्ते। अध्ययनयागदानानि तु तस्यापि भवन्ति॥ ७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रय** इति । ब्राह्मणान् अपेक्ष्य क्षत्रियस्याध्यापनयाजनप्रतिग्रहाख्यानि त्रीणि वृत्त्यर्थानि कर्माणि निवर्तन्ते । एवं च सत्य् अध्ययनयागदानानि भवन्ति ॥ १०.७७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अत्र च धर्मशब्दो वृत्तिकर्मविषय एव द्रष्टव्यः, तन्निर्देशसामर्थ्यात् । एवं च सति इज्याध्ययनदानानि तस्यादृष्टार्थानि [न] प्रतिषिध्यन्ते । तथा च तानि वक्ष्यति । अत्र चाधिकाराद् वेदाध्यापनं प्रतिषिध्यते क्षत्रियस्य सहाङ्गैः न तु धनुर्वेदादीनाम् ॥ १०.७७ ॥

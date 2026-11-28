@@ -36,6 +36,16 @@ This is reiterative reference to the duties of the Life-stages.—(35).
 See Comparative notes for [Verse 6.33].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वपूर्वाश्रमादुत्तरोत्तराश्रमं गत्वा ब्रह्मचर्याद् गृहस्थाश्रमं ततो वानप्रस्थाश्रममनुष्ठायेत्यर्थः। यथाशक्ति गताश्रमहुतहोमो जितेन्द्रियो भिक्षाबलिदानचिरसेवया श्रान्तः परिव्रज्याश्रममनुतिष्ठन्परलोके मोक्षलाभाद् ब्रह्मभूतद्ध्र्यतिशयं प्राप्नोति॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आश्रमाद्** इति । पूर्वोक्तेष्व् आश्रमेषु यथाक्रमं पूर्वस्मात् पूर्वस्माद् अनन्तरं आश्रमम् अनुष्ठाय यथासम्भव आश्रमेषु हुतहोमो जितेन्द्रियो भिक्षाबलिदानश्रान्तः सन् प्रव्रज्याम् अनुतिष्ठन् परलोके वर्धते । मोक्षप्राप्त्यानन्दमयं ब्रह्मेत्य् एवम् ऋद्ध्यतिशययुक्तो भवति ॥ ६.३४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 034	He who after passing from order to order, after offering sacrifices and subduing his senses, becomes, tired with (giving) alms and offerings of food, an ascetic, gains bliss after death.

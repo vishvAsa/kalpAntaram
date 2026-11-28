@@ -38,11 +38,24 @@ the ‘conveyance and weapons’;—it suggests also another explanation:—‘*
 This verse is quoted in *Nirṇayasindhu* (p. 427);—in *Smṛtitattva* (p. 278), which says that “according to *Mitākṣarā*, ‘*kṛtakriyaḥ*’ means ‘having bathed at the end of the period of impurity’”—also in II, p. 337 where it refers to the same opinion of *Mitākṣarā* and quotes *Hāralatā* as explaining the term to mean ‘having performed the rites of the tenth day;’—in *Śuddhikaumudī* (p. 154), which explains ‘*kṛtakriyaḥ*’ as ‘who has finished the rites of the tenth day’;—in *Hāralatā* (p. 194) which explains ‘*kṛtakriyaḥ*’ as ‘who has completed the rites of the tenth day’, and ‘*apaḥ spṛṣṭvā*’ as standing for the mere *touching of water*, and not for *bathing*, ‘*pratoda*’ as ‘what is known as *pāñcnī*, ‘*raśmi*’ as the yoking-rope and ‘*yaṣṭi*’ as the ‘bamboo stick and so forth’;—and in *Smṛtisāroddhāra* (p. 226), which explains ‘*kṛtakriyaḥ*’ as one ‘who has performed’ the bath and other ceremonies at the end of the period of impurity.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अशौचान्ते कृतश्राद्धादिकृत्यो ब्राह्मणोऽपः स्पृष्ट्येति जलस्पर्शमात्रं दक्षिणहस्तेन कृत्वा शुद्धो भवति, न तु
+
+**संवत्सरे व्यतीते तु स्पृष्टैरद्भिर्विशुद्ध्यति ।**
+
+इतिवत् स्नात्वा । वाहनादिस्पर्शसाहचर्यात्स्पृष्ठ्वेत्यस्य च सदुच्चरितस्यार्थभेदस्यान्याय्यत्वात् । क्षत्रियो हस्त्यादिवाहनं खड्गाद्यस्त्रं च, वैश्यो बलीवर्दादिप्रतोदं लोहप्रोताग्रं योक्त्रं वा, शुद्रो यष्टिं वंशदण्डिकाम् ॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विप्र** इति । आशौचान्ते कृतश्राद्धादिक्रियो ब्राह्मणो ऽप औचित्याद् धस्तेन स्पृष्ट्वा क्षत्रियश् च खड्गादिकं वैश्यो बलीवर्दादिप्रतोदम् अयःप्रान्तं प्रग्रहं वाश्वादिनियमरज्जुं शूद्रो यष्टिं स्पृष्ट्वा शुध्यति ॥ ५.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	(At the end of the period of impurity) a Brahmana who has performed the necessary rites, becomes pure by touching water, a Kshatriya by touching the animal on which he rides, and his weapons, a Vaisya by touching his goad or the nose-string (of his oxen), a Sudra by touching his staff.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

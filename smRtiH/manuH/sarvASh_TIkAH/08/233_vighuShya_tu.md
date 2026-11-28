@@ -56,6 +56,16 @@ accident, he shall struggle to save her as best he may. If he is unable to rescu
 away, when the cowherd has been captured, or during an attack on the village, or during anarchy,—the cowherd shall not he held to blame.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चौरैःपुनः पटहादि विधुष्य हृतं पालो दातु नार्हति । विधुष्येति चौराणां बहुत्वं प्रबलत्वकथनपरम् । सन्निहिते देशे हरणकालानन्तरमेवात्मोयस्वामिनः कथयति ॥२३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विघुष्येति** । चौरैः पुनः पटहाद्याघुष्य हृतं पालो दातुं नार्हति । यदि तस्मिन्न् एव देशे हरणं कालानन्तरं एवात्मीयस्य स्वामिनः कथयते (कथ्यते) ॥ ८.२३३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 हरण**देशे** हरण**काले** च विघुष्य अनन्तरं **स्वामिन** आख्याते **पालो** न दद्यात् । स्वयं मृत्युनापि च मृतेषु प्रयत्नवतो गोपस्य स इदं कुर्यात् ॥ ८.२३२ ॥

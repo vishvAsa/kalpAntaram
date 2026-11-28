@@ -83,11 +83,24 @@ Brahman; Breath-suspension is the highest penance; there is nothing superior to 
 to be the best purifier; there is nothing superior to the Gāyatri; Truth is superior to silence. Daily one should repeat the Gāyatrī, 1,000 or 100 or at least 10 times, as destructive of all sins.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकाक्षरमोंकारः परं ब्रह्म, परब्रह्मावाप्तिहेतुत्वात् । ओंकारस्य जपेन तदर्थस्य च परब्रह्मणो भावनया तदवाप्तेः । प्राणायामाः सप्रणवसव्याहृतिसशिरस्कगायत्रीभिस्त्रिरावृत्तिभिः कृताश्चान्द्रायणादिभ्योऽपि परं तपः । प्राणायामा इतिबहुवचननिदशात्रयोऽवश्यं कर्तव्या इत्युक्तम् ।सावित्र्याः प्रकृष्टमन्यन्मन्त्रजातं नास्ति । मौनादपि सत्यं वाग्विशिष्यते । एषां चतुर्णो स्तुत्या चत्वार्येतान्युपासनीयानीति विधिः कल्प्यते । धरणीधरेण तु—
+
+**एकाक्षरपरं ब्रह्म प्रणायामपरं तपः ।**
+
+इति पठितं, व्याख्यातं च एकाक्षरं परं यस्य तदेकाक्षरपरं एवं प्राणायामपरमिति ।
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकाक्षरम् **इति । ओङ्काराख्यम् एतद् **एकाक्षरं परं ब्रह्म** शब्दपरब्रह्मणोर् वेदान्तदृष्टतोः, **प्राणायामः** कृच्छ्रादितपोभ्यः प्रकृष्टं **तपः** **सावित्र्याः **(प्र)सकाशाद् अन्यत् प्रकृष्टं जपनीयं नास्तीत्य् एवं प्रकृतोङ्कारप्राणायामसावित्रीविधीनां स्तुतिः । **मौनात् सत्यं विशिष्यते **। मौनं अनृतदोषपरिहारातिरेकेण सत्यवचनेनाभ्युदयोत्पादाद् इति स्तुतिप्रसङ्गेन सत्याभिधानस्तुतिः ॥ २.८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

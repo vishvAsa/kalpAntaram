@@ -41,6 +41,16 @@ in regard to a heinous offence;—It is quoted in *Vivādacintāmaṇi* (Calcutt
 268-270.)]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रियाभ्यां परस्परं पतनीयाक्रोशे कृते दण्डशास्त्रज्ञेन राज्ञा दण्डः कार्यः । दण्डमेवविशेषेणाह—ब्राह्मण इति । ब्राह्मणे क्षत्रियाक्रोशिनि प्रथमसाहसः कार्यः । ब्राह्मणाक्रोशिनिपुनः क्षत्रिये मध्यमसाहसः ॥२७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणक्षत्रियाभ्याम्** इति । ब्राह्मणक्षत्रियाभ्याम् इतरेतरं पतनीयाक्रोशे कृते सति तयोः शास्त्राभिजनदेशजात्यादिनायं दण्डः कर्तव्यः । क्षत्रियाक्रोशे सति ब्राह्मणे प्रथमसाह्सः कर्तव्यः । ब्राह्मणाक्रोशे निपुणः क्षत्रिये मध्यमसाहसः ॥ ८.२७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 276	(For mutual abuse) by a Brahmana and a Kshatriya a fine must be imposed by a discerning (king), on the Brahmana the lowest amercement, but on the Kshatriya the middlemost.

@@ -31,11 +31,19 @@ to even such necessary things as articles of food and drink which are required f
 This verse is quoted in *Yatidharmasaṅgraha* (p. 48).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदा परमार्थतो विषयदोषभावनया सर्वविषयेषु निरभिलाषो भवति तदेह लोके सन्तोषजन्यसुखं परलोके च मोक्षसुखमविनाशि प्राप्नोति॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदेति **। यदा पारमार्थिकेन चेतोधर्मेण सर्ववस्तुषु विगताभिलाषो भवति तदा देहपाताद् ऊर्ध्वम् इहलोके शतमखं प्रमीतश् चापवर्गसुखं नित्यं प्राप्नोति ॥ ६.८० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **इह** शमसुखं **प्रेत्य च** ब्रह्मलोकप्राप्तिसुखम् । शाश्वतम् इतीयं स्तुतिः भूतार्थानुवादो वा ॥ ६.८० ॥
-
-_अधुना सर्वसङ्गत्यागोपयोपदेशस्य प्रयोजनम् इदम् आचष्टे ।_
 </details>
 
 <details><summary>Bühler</summary>

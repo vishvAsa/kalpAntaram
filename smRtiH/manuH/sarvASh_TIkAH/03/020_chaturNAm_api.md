@@ -70,11 +70,20 @@ purchased with money, or being oppressed with hunger or thirst, gives herself up
 elders, in accordance with the custom of her country, becomes forcibly united with another man, she is called the fourth *Svairiṇī*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्णामपि वर्णानां ब्राह्मणादीनां परलोके इहलोके च कांश्चिद्धिता कांश्चिदहितानिमानभिधास्यमानानष्टौसंक्षेपेण भार्याप्राप्तिहेतून्विवाहानू शृणुत ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर्णाम्** इति । **चतुर्णाम् अपि **ब्राह्मणादि**वर्णानां** परलोकेहलोकयोः कांश्चिद् **धिताहितान् इमान् **वक्ष्यमाणान् भार्याप्राप्तिहेतून् **विवाहान् **सङ्क्षेपेण शृणुत ॥ ३.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -37,11 +37,22 @@ In support of what has been said in the foregoing verses, an illustration is cit
 The frequent repetition of the term ‘*ṛtu*’ season,’ is due to the exigencies of metre.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा वसन्तादिऋतव ऋतुचिह्नानि चूतमञ्जर्यादीनि ऋतुपर्यये स्वकार्यावसरे स्वयमेवाप्नुवन्ति तथा देहिनोऽपि हिंस्रा(६)[^57]दीनि कर्माणि॥३०॥
+
+[^57]: " 'हिंस्राऽहिंस्रादीनि' क०"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तत्रैव दृष्टान्तम् आह **यथेति** । यथा वसन्तादयः स्वावसरे **स्वयम् एव स्वानि कर्माणि** चिह्नभूतानि कुर्वन्ति तद्वत् **कर्माणि **हिंस्रादीनि प्राणिनः ॥ १.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

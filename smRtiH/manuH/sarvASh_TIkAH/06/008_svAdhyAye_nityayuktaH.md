@@ -53,11 +53,24 @@ Veda.’
 desisting from accepting presents, studying the Veda, charitable, devoted to the welfare of all living beings.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाभ्यासे नित्ययुक्तः स्यात्। शोतातपादिद्वन्द्वसहिष्णुः सर्वोपकारकः संयतमनाः सततं दाता प्रतिग्रहनिवृत्तः सर्वभूतेषु कृपावान्भवेत्॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+> स्वाध्यायशीलो नित्यं स्याद् दान्तो मैत्रसमाहितः ।
+
+> त्यक्तद्वन्द्वो ऽनिशं दाता सर्वभूतानुकम्पनः ॥
+
+वेदाभ्यासरतः शीतातपादिद्वन्द्वसहिष्णुः सर्वोपकारशीलसंयतमानाः स्यात् ॥ ६.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	Let him be always industrious in privately reciting the Veda; let him be patient of hardships, friendly (towards all), of collected mind, ever liberal and never a receiver of gifts, and compassionate towards all living creatures.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

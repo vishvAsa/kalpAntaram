@@ -37,11 +37,20 @@ not look at the Śrāddha.’
 Śrāddha-offerer should happen to be crippled or one-eyed, or with a crooked arm, or suffering from leucoderma, or with deficient limbs, or with redundant limbs,—he should be speedily removed from the place.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि गतिविकलः काणो वा दातुर्दासः शूद्रस्तस्यैव प्रेष्यत्वविधानात् । अपिशब्दादन्योऽपि शूद्रो न्यूनाधिकाङ्गुल्यादिर्वा स्यात्तदा तमपि ततः श्राद्धदेशादपसारयेत् ॥२४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**खञ्ज** इति । **खञ्जः **पादविकलः, **काणः** एकेक्षणविकलः, **दातुर् वा** सासः शूद्रस्यैव प्रेष्यत्वात् । अपिशब्दाद् अन्यो ऽपि शूद्रो, यो वा कुनखिषण्डकादिः तम् अपि ततः प्रदेशाद् अपोसारयेत् ॥ ३.२४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

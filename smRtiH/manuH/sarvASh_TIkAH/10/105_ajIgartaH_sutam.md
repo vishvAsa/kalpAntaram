@@ -39,6 +39,16 @@ This verse is quoted in *Aparārka* (p. 935);—and in *Parāśaramādhava* (Pr�
 See Comparative notes for [Verse 10.101].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋषिरजीगर्ताख्यो बुभुक्षितः सन्, पुत्रं शुनःशेपनामानं स्वयं विक्रीतवान् यज्ञे गोशतलाभाय यज्ञयूपे बध्वा विशसिता भूत्वा हन्तुं प्रचक्रमे। न च क्षुत्प्रतीकारार्थं तथा कुर्वन्पापेन लिप्तः। एतच्च बहुवृचब्राह्मणे शुनःशेपाख्यानेषु व्यक्तमुक्तम्॥ १०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अजीगर्त** इति । अजीगर्ताख्यऋषिः बुभुक्षितः पुत्रं शुनःशेफं हन्तुं प्रचक्रमे, न च तथा क्षुत्प्रतीकारं कुर्वन् पापेन लिप्तवान् ॥ १०.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	Agigarta, who suffered hunger, approached in order to slay (his own) son, and was not tainted by sin, since he (only) sought a remedy against famishing.

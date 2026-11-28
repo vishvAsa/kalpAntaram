@@ -70,11 +70,20 @@ shall feed the newly married girls, the sick, the pregnant women, the old and th
 relations, paternal and maternal, and also persons seeking for food, he shall feed the young and old and the sick.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सुवासिन्यो नवोढाः स्त्रियः स्नुषा दुहितरश्च ताः, कुमारी रोगिणो गर्भिणीश्चातिथिभ्योऽग्रे पूर्वमेवातिथिभ्यो भोजयेत् । कथमतिथिष्वभोजितेषु भोजनमेषामिति विचारमकुर्वन् । (१) मेधातिथिस्त्वन्वगेवेति पठित्वाऽनुगतानेवैतान्भोजयेदतिथिसमकालमिति व्याख्याय अन्ये तु अग्र इति पठन्तीत्युक्तवान् ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुवासिनीर्** इति । जीवच्छ्वशुरपितृकाः स्त्रियः **कुमार्य्**आतुर**गर्भिणीश् च **अतिथ्यनुगतान् एवाविलम्बमानो **भोजयेत् **अग्रत एव (इति) पाठे अतिथिभ्यः पूर्वम् एव ॥ ३.११४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

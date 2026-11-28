@@ -11,8 +11,6 @@ The king who is addicted to vices springing from the love of pleasure becomes de
 <details><summary>मेधातिथिः</summary>
 
 अर्थधर्मवियोगेन व्यवहित आत्मवियोगः । **क्रोधजेषु** सर्वैर् वियुज्यते इति विशेषः ॥ ७.४६ ॥
-
-_तानीदानीं व्यसनानि स्वनामतो दर्शयति ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -37,6 +35,16 @@ again on p. 742), as describing the vices.
 **
 
 See Comparative notes for [Verse 7.45].
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्कामजनितेषु व्यसनेषु प्रसक्तो राजा धर्मार्थाभ्यां हीयते। क्रोधजेषु प्रसक्तः प्रकृतिकोपाद् देहनाशं प्राप्नोति॥४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कामजेषु व्यसनेषु प्रसक्तो** **महीपतिर् अर्थधर्माभ्यां वियुयते । क्रोधजेषु व्यसनेषु प्रसक्तो महीपतिर् आत्मनैव वियुज्यते** ॥ ७.४६ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

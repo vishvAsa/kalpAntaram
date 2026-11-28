@@ -44,6 +44,11 @@ an ass, an ape, a crow, or a public prostitute, shall approach a river and stand
 ape, an ass, a dog, a camel or crows, becomes pure by performing breath-suspension in water and then eating clarified butter.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**श्वशृगालखरैर्** इति । श्वशृगालखरमनुष्याश्वोष्ट्रशूकरैर् ग्राम्यैश् चाममांसादैर् मार्जारादिभिर् दष्टः प्राणायामेन शूध्यति ॥ ११.१९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 200	He who has been bitten by a dog, a jackal, or a donkey, by a tame carnivorous animal, by a man, a horse, a camel, or a (village-) pig, becomes pure by suppressing his breath (Pranayama).

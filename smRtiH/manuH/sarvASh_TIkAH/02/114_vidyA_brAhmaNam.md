@@ -65,11 +65,20 @@ These authorities, along with Manu, paraphrase the text which is found in Nirukt
 the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one who is endowed with character and is self-controlled and is ever attentive.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्याधिष्ठात्री देवता कञ्चिदध्यापकं ब्राह्मणमागत्यैवमवदत् — तवाहं निधिरस्मि । मां रक्ष ।असूयक्रादिदोषवते न मां वदेः । तथा सत्यतिशयेन वीर्यवती भूयासम् । तथा च च्छान्दोग्यब्राह्मणम् - "विद्या ह वै ब्राह्मणमाजगाम, तवाहमस्मि, त्वं मां पालयानर्हते मानिने चैव मादा, गोपाय मां, श्रेयसी तथाहमस्मि" इति ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विद्या ब्राह्मणम् एत्याहेति** । **यम् एव त्व् **इति । **विद्या **किल विग्रहवती किञ्चिद् **ब्राह्मणम्** आगत्य निधिर् इव तवाहम्, अतो **रक्ष मां** इत्य् आह । रक्षा च असूयकम् अपात्रं मां माध्यापय । **तथा **सत्य् अहम् अतिशयेन तव दृष्टादृष्टकार्यकरणसमर्था भवामि । **यं **पुनः मृद्वार्यादिशौचयुक्तं **नियतं** संयतेन्द्रियं **ब्रह्मचारिणं **अस्त्रीसम्प्रयोगं जानीयात् प्राधान्याद् अस्य पृथग् उपदेशः । तं **विप्रं **विद्यानिधिपालनसमर्थम् अविस्मरणशीलं **अपर्मादिनम्** अनभ्यासशून्यम् अध्यापयेति ॥ २.११४–१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

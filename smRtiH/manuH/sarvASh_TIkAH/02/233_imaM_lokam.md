@@ -48,11 +48,20 @@ be Śiva.’
 *Mahāhhārata* (12.108.9).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इमं भूर्लोक मातृभक्त्या, पितृभक्त्या मध्यममन्तरिक्षम्, आचायभक्त्या तु हिरण्यगर्भ-लोकमेवप्राप्योति ॥२३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इमम्** इति । मातृपित्राचार्यशुश्रूषाभिः पृथिव्यन्तरिक्ष**ब्रह्मलोकान्** प्राप्नोति ॥ २.२३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

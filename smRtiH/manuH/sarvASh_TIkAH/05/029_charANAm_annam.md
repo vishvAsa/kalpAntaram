@@ -35,11 +35,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds—the ‘
 *Mahābhārata* (12.99.15).—(Reproduces the first half of Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जङ्गमानां हरिणादीनामजङ्गमास्तृणादयः, दंष्ट्रिणां व्याघ्रादीनामदंष्ट्रिणो हरिणादयः, सहस्तानां मनुष्यादीनामहस्ता मत्स्यादयः, 'शूराणां सिंहादीनां भीरवोहस्त्यादयेाऽदनीया एवादृश्यां विधातुरेव सृष्टौ ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चराणाम्** इति । जङ्गमानाम् अजङ्गमाः स्थावराण्य् अन्नम् । दंष्ट्रावतां च व्याघ्रादीनाम् अदंष्ट्रा सर्पादयः । हस्तवतां मार्जारादीनां **अहस्ता** मत्स्यादयः **शूराणां** सिंहादीनां **भीरवो **हस्त्यादयः । अनिमित्तम् अन्नम् इति पूर्वश्लोकस्यैवायं प्रपञ्चः ॥ ५.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	What is destitute of motion is the food of those endowed with locomotion; (animals) without fangs (are the food) of those with fangs, those without hands of those who possess hands, and the timid of the bold.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

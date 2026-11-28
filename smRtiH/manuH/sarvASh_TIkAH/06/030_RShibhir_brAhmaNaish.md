@@ -39,6 +39,16 @@ Those attended to by ‘*Brāhmaṇa-householders*’;—as has been declared un
 This verse is quoted in *Aparārka* (p. 943).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादेवा ऋषिभिर्ब्रह्मदर्शिभिःपरिव्राजकैगृहस्थैश्चवानप्रस्थैर्ब्रह्माद्वैतज्ञानवर्मयोर्विवृद्धर्थमुपनिषच्छ्रुतयःसेविताः, तस्मादेताःसेवेतेति पूर्वस्यानुवादः॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् एताः **ऋषिभिर्** इति । ऋषिभिः सर्वार्थदर्शिभिः अङ्गीरसप्रभृतिभिर् अन्यैश् च ब्राह्मणैर् वानप्रस्थैर् एव गृहस्थैश् च विज्ञानविवृद्ध्यर्थम् उपनिषच्छ्रुतयः सेविताः तपोविवृद्ध्यर्थं शरीरस्य च कल्मषक्षयाय चादरेण दीक्षाः सेविताः तस्माद् एताः सेविता इति पूर्वविधिशेषपुराकल्पार्थवादः ॥ ६.३० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 030	(As well as those rites and texts) which have been practised and studied by the sages (Rishis), and by Brahmana householders, in order to increase their knowledge (of Brahman), and their austerity, and in order to sanctify their bodies;

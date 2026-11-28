@@ -62,11 +62,27 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 456) without comment;—al
 gods, the dependents, the parents and the teacher; such is the prescribed law.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृह्याश्च देवता इत्यनेन भूतयज्ञ उक्तः, पञ्चयज्ञानुष्ठानस्य "अवशिष्टं तु दम्पती” ( म. स्मृ. ३ / ११६ ) इत्यनेन शेषमोजनस्य च विहितत्वात् । वक्ष्यमाणदोषकथनार्थोऽयमनुवादः ।
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+( १ ) अतिथिभ्योऽन्वगेवैताननुगतानेव भोजयेत् प्रारब्धभोजनेष्वेवातिथिषु तत्समकालं भोजयेत्  
+रवि इति पठन्ति।
+
+अथवा देवानित्यनेनैव भूतयज्ञस्यापि संग्रहः ।गृहे भवा गृह्या देवताः पूजयित्वेति वासुदेवादिप्रतिकृतिपूजाविधानार्थत्वमस्य ॥११७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवान्** इति । गृहे भवा **गृह्या **इत्यन्तेन भूतयज्ञ उक्त इति । वक्ष्यमाणप्रत्यवायकथनार्थो ऽयम् अनुवादः ॥ ३.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

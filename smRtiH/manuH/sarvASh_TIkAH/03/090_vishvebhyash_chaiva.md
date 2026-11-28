@@ -57,6 +57,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403) without any comment.
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विश्वेभ्यश्चैव देवेभ्य इति शब्दादेकेयमाहुतिः \। विश्वेभ्यो देवेभ्यो नम इति गृहाकाशे बलिं दद्यात्। दिवाचरेभ्यो भूतेभ्य इति दिवा, नक्तञ्चारिभ्य इति नक्तम् । “दिवाचारिभ्यो दिवा" (अ. १ खं. २ ) इत्यादिबह्वृचगृह्यदर्शनादियं व्यवस्था ॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विश्वेभ्य **इति । **विश्वेभ्यः वैश्वदेवेभ्यः **इति चशब्दाद् एकेयम् आहुतिः । **विश्वेभ्यो देवेभ्य **इति नाम्नाकारः (नामाकाशे) प्रक्षिपेत् । **दिवाचरेभ्यो भूतेभ्य** इति दिवानक्तञ्चरेभ्यो भूतेभ्ज्य इति नक्तम् इति गृह्यदर्शनात् एतादाधारान्तरस्यावचनात् आकाशस्य च प्रस्तुतत्वात् आकाश एव ॥ ३.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	Let him throw up into the air a Bali for all the gods, and (in the day-time one) for the goblins roaming about by day, (and in the evening one) for the goblins that walk at night.

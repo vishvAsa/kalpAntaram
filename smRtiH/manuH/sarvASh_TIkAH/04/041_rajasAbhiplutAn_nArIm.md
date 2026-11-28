@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains it to
 See Comparative notes for [Verse 4.40].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद्रजस्वलां स्त्रियं पुरुषस्योपगच्छतः प्रज्ञावीर्यबलचक्षुरायूंषि नश्यन्ति तस्मात्तां नोएगच्छेत् ॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**रजसेति** । यस्माद् रजस्वलास्त्रियं पुंस **उपगच्छतः प्रज्ञा**वीर्यादीनि** **नश्यन्ति, तस्मात् तां नोपेयात् ॥ ४.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.

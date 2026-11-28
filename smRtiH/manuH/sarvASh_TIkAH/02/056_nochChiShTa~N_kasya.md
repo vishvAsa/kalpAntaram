@@ -104,11 +104,20 @@ greedily.’
 he shall eat food, which has been worshipped, without decrying it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भुक्तावशेषं कस्यचिन्न दद्यात् । चतुर्थ्यां प्राप्तायां सम्बन्धमात्रविवक्षया षष्ठी । अनेनैव सामान्य-निषेधेन शूद्रस्याप्युच्छिष्टदाननिषेधे सिद्धे “नोच्छिष्टं न हविष्कृतम्” इति शूद्रगोचरनिषेधश्चातुर्थः स्नातकव्रतस्वार्थः । दिवासायंभोजनयोश्च मध्ये न भुञ्जीत वारद्वयेऽप्यतिभोजनं न कुर्यात् । नातिसौहित्यमाचरेदिति चातुर्थं स्नातकव्रतार्थम् । उच्छिष्टः सन् क्वचित्नगच्छेत् ॥५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोच्छिष्टम्** इति । **उच्छिष्टं कस्यचिद्** अपि **न दद्यात् । तथा अन्तरा** सायम्प्रातः कलयोर् मध्ये **नाद्यात्** सायं प्रातर् भोजनस्यौचित्यप्राप्तत्वात् अन्तराशब्दस्य वा मध्यवाचित्वाद् एवं लभ्यते । अतिमात्रभोजनं **न कुर्यात् । उच्छिष्टश् च न क्वचिद् **गच्छएत् ॥ २.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	Let him not give to any man what he leaves, and beware of eating between (the two meal-times); let him not over-eat himself, nor go anywhere without having purified himself (after his meal).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

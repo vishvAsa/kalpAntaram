@@ -42,11 +42,20 @@ menstrual blood, sweat, tears, rheum, phlegm and urine are declared to be *impur
 the first six (enumerated in Manu), one should take up both earth and water; but in that of the latter six one is purified by water only.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वसा कायस्नेहः, शुक्रं रेतः, असृक् रक्तं, मज्जा शिरोमध्ये पिण्डितस्नेहः, दूषिका अक्षिमलः, स्वेदः श्रमादिना देहनिःसृतं जलम् ।वसादयो द्वादश नराणां दैहिका मला भवन्ति ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वसेति । वसा** कायस्नेहः । **शुक्रं** रेतः । **असृक्** रुधिरम्, **मज्जा** शिरःस्थमेदो मूत्रपुरीषकर्णमलश्लेष्मास् त्व् अक्षिमलस्वेदा इत्य् **एते नृणां मलाः** । नरादीनाम् अभक्ष्यप्राणीनां मलाः मूत्रपुरीषोत्सर्गे सति ॥ ५.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Oily exudations, semen, blood, (the fatty substance of the) brain, urine, faeces, the mucus of the nose, ear-wax, phlegm, tears, the rheum of the eyes, and sweat are the twelve impurities of human (bodies).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

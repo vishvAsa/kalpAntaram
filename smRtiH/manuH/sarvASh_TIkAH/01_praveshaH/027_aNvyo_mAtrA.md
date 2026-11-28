@@ -26,11 +26,24 @@ This verse sums up what has gone before.
 The commentators are at some pains to explain the incongruity of the inter-position of the present verse in the middle of what purports to be a connected account of the process of creation. Medhātithi says the verse serves the purpose of summing up what has been said so far;—Govindarāja and Kullūka make it serve the purpose of setting aside the notion that the creation was accomplished by Brahman without the help of the ‘principles’;—and Nārāyaṇa holds that it is meant to lay stress upon the non-eternality of atoms;—Nandana has solved the difficulty by placing this verse after verse 19.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दशार्धानां पञ्चानां महाभूतानां याः सूक्ष्माः पञ्चतन्मात्ररूपा विनाशिन्यः पञ्चमहाभूतरूपतया विपरिणामिन्यः ताभिः सह उक्तं वक्ष्यमाणं चेदं सर्वमुत्पद्यते। अनुपूर्वशः क्रमेण सूक्ष्मात्स्थूलं (१)[^52] स्थूलात्स्थूलतरमिति। अनेन सर्वशक्तेर्ब्रह्मणो मानसी (२)[^53] इयमुक्ता वक्ष्यमाणा च सृष्टिः कदाचित्तत्त्वनिरपेक्षा स्यादितीमां शङ्कामपनिनीषंस्तद्द्वारेणैवेयं सृष्टिरिति मध्ये पुनः पूर्वोक्तं स्मारितवान्॥२७॥
+
+[^52]: " 'सूक्ष्मात्सूक्ष्मम्' क० ।"
+
+[^53]: " 'मानससृष्टिः' ख० ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्व्य** इति । पञ्चानां तन्मात्राणां याः सूक्ष्ममात्राः भागाः **विनाशिन्यः** विपरिणामित्वात् । **ताभिः** सहोक्तवक्ष्यमाणम् इदम् उत्पद्यते । क्रमेण सर्वत्र तासाम् अनुसृतत्वात् । तत्त्वैर् विनैव समनन्तरोक्तवक्ष्यमाणा सृष्टिर् इत्य् एतद् भ्रान्तिनिराकरणाय पुनस् तत्त्वोद्भवत्वं सृष्टिमध्ये स्मारयति ॥ १.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	But with the minute perishable particles of the five (elements) which have been mentioned, this whole (world) is framed in due order.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

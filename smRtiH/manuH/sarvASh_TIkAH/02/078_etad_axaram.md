@@ -157,11 +157,20 @@ the best purification consists in repeating the Gāyatrī ten thousand times.’
 Evening Prayers, while the sun is still visible, he should go on repeating the Gāyatrī till the stars become visible.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतदक्षरमोंकाररूपम्, एतां च त्रिपदां सावित्रीं व्याहृतित्रयपूर्विकां संध्याकाले जपन्वेदज्ञो विप्रादिवदत्रयाध्ययनपुण्येन युक्तो भवति । अतः संध्याकाले प्रणवव्याहृतित्रयोपेतां सावित्रीं जपेदिति विधिः कल्प्यते ॥७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतत् **ओङ्काराख्यम् **अक्षरं एतां च सावित्रीं **भूर्भुवःस्वरित्येतद् **व्याहृतिपूर्विकां** वेदार्थज्ञो **विप्रः सन्ध्ययोर् जपन्** समस्तवेदपुण्येन सम्बध्यते इति विद्वान् ब्राह्मणः सन्ध्याजपसम्भूतफलमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

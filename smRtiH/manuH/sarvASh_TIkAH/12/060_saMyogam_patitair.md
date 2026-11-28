@@ -39,6 +39,16 @@ evil-doers pass into animal bodies. Criminals of the highest degree enter the bo
 milk, a crow; that of juice, a dog; that of clarified butter, an ichneumon; that of meat, a vulture; that of fat, a cormorant; that of oil, a cockroach; that of salt, a cricket; that of sour milk, a crane; that of silk, a partridge; that of linen, a frog; that of cloth, a curlew; that of cow, an iguana; that of sugar, a *Vālguda*; that of perfumes, a musk-rat; that of vegetable and leaves, a peacock; that of prepared grain, a boar called *Śvāvidh*; that of undressed grain, a porcupine; that of fire, a crane; that of household utensils, a wasp; that of dyed cloth, a *Chakora* bird; that of an elephant, a tortoise; that of a horse, a tiger; that of fruits or blossoms, an ape; that of women, a bear; that of a vehicle, a camel; that of cattle, a vulture. He who has taken by force any property belonging to another, or eaten food not previously presented to the gods, inevitably enters the body of some beast.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यावत्कालीनपतितसंयोगेन पतितो भवति तावन्तं कालं ब्रह्महादिभिश्चतुर्भिः सह संसर्गं कृत्वा परेषां च स्त्रियं गत्वा ब्राह्मणसुवर्णादन्यदपहृत्य एकैकपापकारेण ब्रह्मराक्षसो भूतविशेषो भवति॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**संयोगम्** इति । यावता कालेन पतितो भवति तावन्तं कालं ब्रह्मादिभिश् चतुर्भिः सह संसर्गं कृत्वा परस्त्रियं च गत्वा ब्राह्मणस्वं च सुवर्णाद् अन्यद् अपहृत्यैकेन ब्रह्मराक्षसाख्यो भूतविशेषो जायते ॥ १२.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	He who has associated with outcasts, he who has approached the wives of other men, and he who has stolen the property of a Brahmana become Brahmarakshasas.

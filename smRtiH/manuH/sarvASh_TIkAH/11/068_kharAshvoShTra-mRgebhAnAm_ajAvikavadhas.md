@@ -35,6 +35,16 @@ This verse is quoted in *Mitākṣarā* (3.242);—in *Madanapārijāta* (p. 924
 degrading to a mixed caste.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गर्दभतुरगोष्ट्रमृगहस्तिच्छागमेषमत्स्यसर्पमहिषाणां प्रत्येकं वधः संकरीकरणं ज्ञेयम्॥१६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**खराश्वोष्ट्रमृगेभानाम्** इति । खरोश्वोष्ट्रमृगहस्तिच्छागैडकमत्स्यसर्पमहिषाणां प्रत्येकं वधः सङ्करीकरणं बोद्धव्यम् ॥ ११.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	Killing a donkey, a horse, a camel, a deer, an elephant, a goat, a sheep, a fish, a snake, or a buffalo, must be known to degrade (the offender) to a mixed caste (Samkarikarana).

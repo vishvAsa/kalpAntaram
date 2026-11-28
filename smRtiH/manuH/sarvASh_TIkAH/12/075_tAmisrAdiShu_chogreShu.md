@@ -33,6 +33,16 @@ Being bound up to the sword-like leaves of trees; or being ‘mangled’ by thes
 virtue of their grievous sins, and thus having their had Karma exhausted, those who had committed heinous offences become born again in the world.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"संप्राप्नुवन्ति" (म. स्मृ. १२-७४) इति पूर्वश्लोकस्थमिहोत्तरत्रानुवर्तते। तामिस्रादिषु चतुर्थाध्यायोक्तेषु घोरेषु नरकेषु दुःखानुभवं प्राप्नुवन्ति। तथाऽसिपत्रवनादीनि बन्धनच्छेदनात्मिकान्नरकान्प्राप्नुवन्ति॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तामिस्रादिष्व्** इति । तामिस्रादिषु चतुर्थाध्यायोक्तेषु घोरेषु परिलुण्ठनं प्राप्नुवन्ति । असिपत्रवनादींश् च चतुर्थाध्यायोक्तांश् च बन्धनच्छेदेनात्मकान् नरकान् प्राœनुवन्ति इति पूर्ववाक्यादिहोत्तरत्र चानुषज्जते ॥ १२.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	(The torture of) being tossed about in dreadful hells, Tamisra and the rest, (that of) the Forest with sword-leaved trees and the like, and (that of) being bound and mangled;

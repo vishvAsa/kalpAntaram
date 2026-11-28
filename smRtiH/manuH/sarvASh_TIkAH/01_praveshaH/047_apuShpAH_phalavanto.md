@@ -32,11 +32,15 @@ What we hold however (as to the real meaning of this verse), is as follows:—Th
 Though what is stated in the present verse is a well known fact (and as such did not need to be mentioned in the *Smṛti*), yet it has been mentioned with the purpose of serving as an introduction to what is going to be stated below in Verse 49—‘*Enveloped in darkness*, &c. &c.’—(47)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अपुष्पा **इति । वनस्पतीनां पुष्पम् अन्तरेणैव फलानि भवन्ति । वृक्षाः पुनः पुष्पफलेनोभयेनापि युक्ता भवन्ति ॥ १.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

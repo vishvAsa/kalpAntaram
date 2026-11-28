@@ -70,6 +70,11 @@ the property has been partitioned (among the sons), ho is entitled to the share 
 or uterine brothers, have come to a division with their father, brothers born after that shall take their father’s share. In such cases the son horn before partition has no right to the father’s share; nor can a brother’s property be claimed by one born after partition; whatever shall have been acquired by the father, after he has come to a partition with his sons, all that belongs to the son born after partition; those born before it have no right to it. In regard to the property, as also debts, gifts, pledges and purchases, the father and the divided sons have no concern with one another; except in regard to impurity (due to births and deaths) and the funeral oblations.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सदा जीवतैव पित्रा पुत्राणामिच्छयाविभागा कृतस्तदाविभागादूर्ध्वं जातःपुत्रःपितुरि मृते पितृरिक्थमेव गृह्णीयात् \। ये कृतविभागाः पित्रा सह पुनर्मिश्रीकृधनास्तैः सहासौपितरि मृते विभजेत् \।\। २१६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ये ऽन्योन्योपार्जितधनाः पित्रा स्नेहेन गुणापेक्षया वा तेषां विषमो विभागो न कर्तव्यः । इदं च दर्शनं पितुर् अभिप्राये न सति । अपि तु पित्रभिप्रायेण विभागे वैकल्पिकं ग्रहणं तदभिप्रायेण स्यात्, नान्यथा ॥ ९.२१६ ॥

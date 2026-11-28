@@ -42,11 +42,20 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 104) as laying down 
 See Comparative notes for [Verse 2.213].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्वानहं जितेन्द्रिय इति बुद्ध्या न स्त्रीसन्निधिविधेयः । यस्मादविद्वांस ।विद्वांसमपि वा पुनः पुरुषं देहधर्मोत्कामक्रोधवशानुयायिनं स्त्रिय उत्पथं नेतुं समर्थाः ॥२१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यतः **कामक्रोध**विधेयं पुरुषं सम्यक् शास्त्रज्ञं वा **लोके** अधर्ममार्गं **नेतुं** स्त्रियो **ऽलम्** समर्थाः ॥ २.२१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

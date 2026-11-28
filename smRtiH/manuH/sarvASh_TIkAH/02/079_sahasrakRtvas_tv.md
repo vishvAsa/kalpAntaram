@@ -113,11 +113,20 @@ This verse is quoted in *Aparārka* (p. 1220) where ‘*vahiḥ*’ is explained
 See Comparative notes for [Verse 2.78].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+संध्यायामन्यन्त्र काल एतत्प्रकृतं प्रणवव्याहृतित्रेयसावित्र्यात्मकं त्रिकं ग्रामाद्वहिर्न-
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सहस्रकृत्व्** इति । **एतत् **त्रयं सहस्रवारान् अहर् मासं यावत् **बहिर् **ग्रामाद् **द्विजो ऽभ्यस्य **महत् ब्रह्महत्याद्य् अपि पापम् अपनुदति । जीर्णचर्मेव सर्प इति रहस्यप्रायश्चित्तगतमाहात्म्यकथनेन प्रकृतविधित्रयस्तुतिः ॥ २.७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -9,38 +9,7 @@ The Great Sages, having approached Manu, paid their respect to him in due form, 
 
 <details><summary>मेधातिथिः</summary>
 
-वेदान्तवेद्यतत्त्वाय  
-जगत्त्रितयहेतवे ।  
-प्रध्वस्ताशेषदोषाय  
-परस्मै ब्रह्मणे नमः ॥ १ ॥
-
-चतुर्भिः पदश्लोकैर् विशिष्टकर्तृत्वम् अनन्यप्रमाणवेद्यपुरुषार्थोपदेशकत्वं चास्य शास्त्रस्य प्रपाद्यते प्रतिष्ठार्थम् । प्रतिष्ठिते हि शास्त्रे कर्तृभिः स्वर्गयशसी प्राप्येते यावत् संसारम् अनपायिनी च भवतः । शास्त्रं च प्रतिष्ठां लभते यदि तत्र केचिद् अध्ययनश्रवणचिन्तनादिषु प्रवर्तन्ते । न च बुद्धिपूर्वव्यवहारिणो ऽध्ययनादिष्व् अनवधृतप्रयोजनाः प्रवर्तितुम् अर्हन्ति । अतः "पुरुषार्थसिद्धाव् उपायपरिज्ञानार्थम् इदं शास्त्रम् आरभ्यते" इत्य् एतत् प्रतिपादनार्थं श्लोकचतुष्टयम् आचार्यः पपाठ । 
-
-- <u>न च वाच्यम्</u>- अन्तरेणैवादितः प्रयोजनवचनं वक्ष्यमाणशास्त्रपौर्वापर्यपर्यालोचनयैवेदं पर्यवस्यामः किं तत्प्रतिपादनार्थेन यत्नेनेति । किं च । उक्तम् अपि प्रयोजनं यावत् परस्तान् नावमृष्टं तावन् न निश्चीयते । न हि सर्वाणि पुरुषवचांस्य् अर्थे निश्चयनिमित्तम् । न चैष नियमः सर्वत्र प्रयोजनपरिज्ञानपूर्विकैव प्रवृत्तिः स्वाध्यायाद्ययने ऽतन्निबन्धनायाः प्रवृत्तेर् दर्शनात् । पौरुषेयेष्व् अपि ग्रन्थेषु नैव सर्वेषु प्रयोजनाभिधानम् आद्रियते । तथा हि । भगवान् पाणिनिर् अन्नुक्त्वैव प्रयोजनम् "अथ शब्दानुशासनम्" इति सूत्रसंदर्भम् आरभते । 
-
-- <u>अत्रोच्यते</u> । आरम्भे ऽनवधृतप्रयोजना नैव प्रथमतो ग्रन्थम् उपाददीरन् । अनुपादानाच् च कुतः शास्त्रं कार्त्स्न्येन पर्यालोचयेयुः । किं च पौर्वापर्यपर्यालोचनया यो ऽर्थो बुद्धिगोचरताम् आवहति स एव त्व् आदितः संक्षेपेणोच्यमानः सुग्रहो भवति । तद् उक्तम्-
-
-- इष्टं हि विदुषां लोके समासव्यासधारणम् । इति ।
-
-- <u>यत् तु</u> "उक्तम् अपि न निश्चीयते पौरुषेयेभ्यो वाक्येभ्यो ऽर्थनिश्चयाभावात् । एवम् एवायं पुरुषो वेदेति प्रत्ययो न त्व् एवमर्थः" इति । <u>नात्र</u> विवदामहे निश्चयो ऽस्ति नास्तीति । ग्रन्थगौरवप्रसङ्गात् । अर्थसंशये ऽपि प्रवृत्तिसिद्धौ नियतविषयसंशयोत्पत्तिर् नान्तरेण प्रयोजनवचनम् । अनुक्ते हि किम् इदं धर्मशास्त्रम् अर्थशास्त्रं काकदन्तपरीक्षादिलक्षणरूपं वेत्य् अपि संशयः स्यात् । अभिहिते तु प्रयोजने "अयं तावद् एवम् आह नः ऽश्रेयसः पन्थानं दर्शयामि; इति । न च मे प्रवृत्तस्य काचित् क्षतिर् अस्ति । भवतु, पर्यालोचयामि" इति प्रवृत्तिसिद्धिः ।
-
-- या तु स्वाध्यायाध्ययने प्रवृत्तिः साचार्यप्रयुक्तस्य, न स्वाधिकारप्रतिपत्त्या । न हि तदानीं बालत्वात् स्वाधिकारं प्रतिपत्तुम् उत्सहते । परप्रयुक्त्यैव च प्रवृत्तिसिद्धिः । नाधिकारप्रतिपादनेनापि चावेद्यते । अतस् तत्र प्रवृत्तस्य प्रयोजनम् अर्थावबोधो ऽतश् च प्रवृत्तिः । इह तु, 
-
-- यो ऽनधीत्य द्विजो वेदम् अन्यत्र कुरुते श्रमम् । (म्ध् २.१६८) 
-
-इति गृहीतवेदस्याध्ययनाधिकारः । तदानीं चाभ्युत्पन्नबुद्धित्वात् प्रयोजनम् अन्विच्छति । भगवतः पुनः पाणिनेर् अतिसंक्षिप्तानि सूत्राणि । नैवार्थान्तराभिधानपरत्वाशङ्का । तत्र आकुमारं च यशः पाणिनेः प्रख्यातम् इति सुप्रसिद्धप्रयोजनत्वाद् अनुपन्यासः । अयं तु विततो ग्रन्थो ऽनेकार्थवादबहुलः सर्वपुरुषार्थोपयोगी । तत्र सुखावबोधार्थे प्रयोजनाभिधाने न किंचित् परिहीणम् ।
-
-- द्वये च प्रतिपत्तारो न्यायप्रतिसरणाः प्रसिद्धिप्रतिसरणाश् च । तत्र "मनुर् वै यत् किंचावदत् तद् भेषजम्" इति (म्स् २.१.५) । 
-
-- ऋचो यजूंषि सामानि मन्त्रा आर्थर्वणाश् च ये ।
-
-- सप्तर्षिभिस् तु यत् प्रोक्तं तत् सर्वं मनुर् अब्रवीत् ॥
-
-इत्याद्यर्थवादेतिहासपुराणादिभ्यः प्रख्यातप्रभावो लोके तत्प्रसिद्ध्यैव वा निरूपितमूलपातेन प्रजापतिनैतत् प्रणीतम् इत्य् एतावतैव श्रोत्रियाः प्रवर्तन्त इति । तान् प्रति कर्तृविशेषसंबन्धो ऽपि प्रवृत्त्यङ्गम् । अत एव च प्रश्नप्रतिवचनभङ्ग्या प्रयोजनोपन्यासः । महर्षयः प्रष्टारः प्रजापतिर् वक्ता, धर्मलक्षणश् चार्थो न लोकावगम्यः शास्त्रैकगोचरो ऽयम् । यत्र महर्षयो ऽपि संशेरत इत्य् एवंपर आदेशो ऽपि । स तैः पृष्ट इति नाहं पृष्ट इति । तथात्मनो ब्रह्मणो ऽकृत्रिमप्रतिमत्वं चेत्य् एवमादिः । तद्व्युत्पादनार्थो युक्तः शास्त्रारम्भ इति श्लोकचतुष्टयस्य तात्पर्यम् ।
-
-- यथा चानेन पुरुषार्थोपदेशपरता शास्त्रस्योच्यते तथा पदार्थयोजनात् प्रतिपादयिष्यामः । 
-
-- तत्र मनुम् अभिगम्य महर्षय इदं वचनम् अब्रुवन्- "धर्मान् नो वक्तुम् अर्हसि" (म्ध् १.२) इति । स पृष्टः प्रत्युवाच- "श्रूयताम्" इति (म्ध् १.४) । एवं प्रश्नप्रतिवचने एकार्थप्रतिपादके तात्पर्येण भवतः । अतो धर्मा अत्र प्रतिपाद्यन्त इत्य् उक्तं भवति । धर्मशब्दश् च लोके श्रेयःसाधने प्रत्यक्षादिभिर् लौकिकैः प्रमाणैः शब्दाद् इतरैर् अविहिते प्रयुज्यते । अतः स श्रूयताम् इति संबन्धे विशिष्टपुरुषार्थसाधनत्वम् उक्तं भवति । 
+तत्र मनुम् अभिगम्य महर्षय इदं वचनम् अब्रुवन्- "धर्मान् नो वक्तुम् अर्हसि" (म्ध् १.२) इति । स पृष्टः प्रत्युवाच- "श्रूयताम्" इति (म्ध् १.४) । एवं प्रश्नप्रतिवचने एकार्थप्रतिपादके तात्पर्येण भवतः । अतो धर्मा अत्र प्रतिपाद्यन्त इत्य् उक्तं भवति । धर्मशब्दश् च लोके श्रेयःसाधने प्रत्यक्षादिभिर् लौकिकैः प्रमाणैः शब्दाद् इतरैर् अविहिते प्रयुज्यते । अतः स श्रूयताम् इति संबन्धे विशिष्टपुरुषार्थसाधनत्वम् उक्तं भवति । 
 
 - मनुर् नाम कश्चित् पुरुषविशेषो ऽनेकवेदशाखाध्ययनविज्ञानानुष्ठानसंपन्नः स्मृतिपरंपराप्रसिद्धः । तम् **अभिगम्य** आभिमुख्येन तत्समीपं गत्वा, व्यापारान्तरत्यागेन न यदृच्छया संगम्य । अनेन चाभिगमनप्रयत्नेन पृच्छ्यमानवस्तुगौरवं वक्तुश् च प्रामाण्यं ख्याप्यते । न ह्य् अकुशलः प्रतिवचने यत्नेन पृच्छ्यन्ते आगत्य । 
 
@@ -52,40 +21,13 @@ The Great Sages, having approached Manu, paid their respect to him in due form, 
 
 - **महर्षयः** । ऋषिर् वेदः, तदध्ययनविज्ञानतदर्थानुष्ठानातिशययोगात् पुरुषे ऽप्य् ऋषिशब्दः । महान्तश् च ते[^१] ऋषयश् च । तेषाम् एव गुणानाम् अत्यन्तातिशयेन महान्तो भवन्ति । यथा "युधिष्ठिरः श्रेष्ठतमः कुरूणाम्" इति । अथ वा तपोविशेषात् पूजाख्यातिविशेषाद् वा महान्तः ।
 
-
 [^१]:
      M G: ye
 
 - **इदं वचनम् अब्रुवन्** । उच्यते ऽनेनेति वचनम् । वक्ष्यमाणं द्वितीयश्लोकप्रश्नवाक्यम् इति, तद् एव प्रत्यासन्नत्वाद् इदम् इति प्रतिनिर्दिशति । येषाम् अपि प्रत्यक्षवस्तुप्रतिनिर्देशक इदंशब्दस् तेषाम् अपि बुद्धिस्थत्वात् प्रश्नस्य प्रत्यक्षता । अथ वोच्यत इति वचनं पृच्छ्यमानं वस्त्व् अब्रुवन्, वाक्यपक्ष इदं वाक्यम् उच्चारितवन्तः । कर्मसाधने तु वचनशब्द इदम् अपृच्छन् । द्विकर्मकश् च तदा ब्रूञ् अकथित्कर्मणा मनुना । तिसृणां क्रियाणां मनुः कर्म ॥ १.१ ॥
-
-_अभिगम्य प्रतिपूज्य किं अब्रुवन्न् इत्य् अपेक्षायां द्वितीयः श्लोकः ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
-
-Salutation to the Supreme Brahman! His real character can be known only from the Vedānta texts; He is the cause of the three worlds; and He destroys all evil.
-
-The first four verses describe the fact of the treatise being the work of a highly qualified author, and of its providing instructions bearing upon such ends of man as are not knowable by means of any other source of knowledge; and this is done for the purpose of indicating its importance (and raising it in the estimation of men). When a treatise has secured high position in the estimation of men, its author obtains fame, and also heaven; and both these continue to exist as long as the world exists. A scientific treatise, has its position established only when people engage in studying, in listening to lectures on, and in pondering over, it. Intelligent persons cannot undertake the said study, etc., until they have satisfied themselves as to the purposes served by them. It is for this reason that, the Teacher has composed the four verses with a view to point out that the Treatise is put forth for the purpose of making known the means of accomplishing the ends of man.
-
-It would not be right here to argue as follows:—“Even without the purpose of the Treatise being stated at the very outset, we could easily ascertain what that purpose is, by examining the several parts of the Treatise going to be propounded; what then is the use of making an effort to describe that purpose? Further, even if the purpose is stated at the very outset, one cannot bo sure of it until be has fully examined the subsequent portions of the Treatise; as a matter of fact, all the assertions that a man may make do not always bring conviction. Nor is it necessary that every undertaking must be preceded by the knowledge of purposes served by it; for instance, we find pupils undertaking the study of the Veda, without knowing beforehand the purposes to be served by that study. In the works of human authors also, the practice of stating the purpose is not always followed. For instance, the revered Pāṇini begins hi s Sutras with the words ‘Now follows the teaching of words,’ without having stated the. purpose to be served by his treatise.”
-
-Our answer to the above is as follows:—Unless people have ascertained the purpose served by a particular Treatise, they would not, in the first place, take it up at all; and unless they take it up, how could they examine the whole of it? Then again, that same idea which is got at by the examination of the entire Treatise, becomes more easily comprehended if it has been briefly indicated in the beginning. It is with reference to this that there is the assertion that—‘in ordinary experience, the learned always consider it desirable to carry ideas in their minds briefly as well as in greater detail.’
-
-As regards the argument that—“even when the purpose has been stated there can be no certainty about it, for the simple reason that we do not derive conviction from the words of human beings,—in whose oase the idea that we have is that this man knows the matter as he says, and not that the fact is really as he asserts,”—our answer is that we do not quarrel over the question as to whether the words of human
-
-beings do, or do not, bring about conviction; because discussion over this question would swell the size of our work. But as a matter of fact, even though it is possible for a man to have recourse to a certain course of action, even when he is in doubt as to the exact purpose served by it,—yet until there is some statement as to the purpose served by a particular action, even doubts could not arise in regard to it. In fact, if some statement had not been made in regard to the purpose to be served by the present Treatise, the doubt that would arise in men’s minds would be (not as to whether or not it was going to serve any useful purpose, but) as to whether it is a treatise on Law or on Economics, or an aimless attempt in the nature of an examination of such subjects as the ‘Crow’s teeth’ and the like. On the other hand, when the aim of the work has been stated, the idea arising in our minds is—‘the author of this work asserts that he is going to show us the path leading to our welfare,—there is no harm done by our undertaking the study of the work,—well, let us look into it’; and forthwith we take up the work.
-
-Next as regards the case (cited by the opponent) of pupils taking up Vedic study (without being told of the exact purpose to be accomplished thereby),—the fact of the matter is that the action of the pupil is due to his being urged to it by his Teacher, and not to his recognition of the fact that if behoves him to take up the study (for the accomplishment of any purpose of his own); in fact being quite a child at the time (of beginning Vedic study), it is not possible for him to have any idea as to his being entitled to the study (by virtue of his having an aim that could be served only by that study); and his activity, therefore, is brought about entirely by the direction of another person (his Teacher); who does not bewilder him by pointing out to him that he is entitled to take up the study; and when once the boy has taken up Vedic study (entirely under advice of his Teacher), the motive for further study is provided by the desire to know the meaning of the Vedic texts studied; and thus the study continues to be carried on. \[This is the case with the study of the Veda.\] As regards the study of the present Treatise (on Law), only such persons are entitled to it as have already studied the Veda, as is clearly indicated by the text—‘the twice-born person who, without having studied the Vedas, devotes his energies to other subjects \[becomes a Shudra\]’ (Manu, 2.168); and by that time the pupil has his intelligence aroused, and consequently seeks to know wbat purpose is to be served by any further action that he is going to undertake.
-
-As regards the revered Pāṇini, his aphorisms are extremely brief; so that there is no possibility of their having any other meaning (or serving any other purpose) than the one directly expressed by them; and further, the fame of Pāṇini is well known to even the smallest boy; so that the purpose served by his work is too well known to need reiteration. The present treatise (of Manu) on the other hand is on an extensive scale, abounding in several (commendatory and condemnatory) ‘Descriptions,’ and it helps in the accomplishment of all human ends; so that if its aim is stated in easily intelligible words, there is no harm done.
-
-Of enquirers (and students) there are two classes,—one following reasoning, and another following tradition. The former of these take up the study of Manu; because they know the importance and greatness of the author and his work from such texts as—‘whatever Manu said is wholesome’ (*Kāṭhaka*, 11.5), and ‘Manu has said all that has been said in the Ṛgveda, the Yajurveda, the Sāmaveda and the Mantras of the Atharva, as also by the Seven Great Sages.’ And those of the latter class undertake it merely under the influence of the tradition, the source of which they have carefully investigated—that the treatise has been composed by Prajāpati himself. And for the sake of such persons, the mentioning of the name of the Author also is a factor leading to action (towards s tudy).
-
-It is for these reasons that we have here the laying out of the aim of the Treatise, in the form of question and answer: The Great Sages are the questioners, Prajāpati is the expounder, and the subject is
-*Dharma*, which being not amenable to the ordinary means of knowledge,
-can be known only from the *Śāstras* (Scientific Treatises),—it is so difficult that even the Great Sages have doubts in regard to it. That Prajāpati is the actual expounder is indicated by the words of the text itself, which says—being questioned by them,’ and not ‘I, being questioned by them’; and of himself again Manu speaks (12.123) as being the natural image (representative) of Brahmā. Thus an effort is necessary for the expounding of the Law. Such is the sense of the first four verses.
-
-In what manner the present Treatise is made up of Instructions bearing upon the ends of man we shall show by the interpretation of the words of the text.
 
 Now, in the text we have tho declarations—(l) ‘the Great Sages, having approached Manu, said to him—‘do please expound to us the Duties of Man,’ and (2) ‘being thus questioned by them, He said—‘*listen*’; and these two—the question and its answer—in their import, are expressive of the one idea that *the Treatise expounds the Dharmas*; (he word ‘Dharma’ is in common parlance used in the sense of that means of accomplishing one’s good which is not cognisable by any of the ordinary means of knowledge, with the sole exception of ‘word.’ Hence when it is said ‘listen to Dharma,’ what is meant is that what is going to be expounded is conducive to the fulfilment of the higher ends of man.
 
@@ -127,11 +69,28 @@ P. 3, 1. 13.—‘*The word ṛṣi means the Veda*’—The word ‘*ṛṣi*�
 P. 2, l. 23—‘*Dharmaśabdaśca*—This is a paraphrase of Jaimini’s definition *codanālakṣaṇo'rtho dharmaḥ*
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+'अभिगम्य' 'प्रतिपूज्य' 'अब्रुवन्' इति क्रियात्रयेऽपि मनुमित्येव कर्म। अब्रुवन्नित्यत्राकथितकर्मता (१)[^16], (२)[^17]ब्रुविधातोर्द्विकर्मकत्वात् (३)[^18]॥१॥
+
+[^16]: " 'कर्मत्वात्' क० ।"
+
+[^17]: "'ब्रू०' क० ।"
+
+[^18]: " 'त्वाच्च' क० ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इह भृगुशिष्यः कश्चिद् विच्छिन्नपारम्पर्यतः स्मृत्यर्थप्रबन्धम् इदम् आह – स्वेच्छागृहीतशरीराय प्रजापतये ऽमिततेजसे प्रणम्य मन्वभिहितान् नानाप्रकारान् धर्मान् अदृष्टार्थकर्तव्यतारूपान् इष्टानिष्टप्राप्तिपरिहारप्रयोजनस्य वेदमूलत्वस्यैषाम् इष्यमाणत्वात् नित्यान् कथ्यिष्यामि । अधर्माणां वक्ष्यमाणानाम् अपीह पृथगप्रतिज्ञानं निन्दितकर्माभ्यासेन पातित्ये सति धर्मानुष्ठानानधिकारापत्तेः धर्मप्रतिज्ञायाम् एवान्तर्भावात् । मनुर् नाम महर्षिः अशेषवेदार्थादिज्ञानेन प्राप्तमनुसञ्ज्ञः आगमपरम्परया सकलविद्वज्जनकर्णचरीभूतसर्गस्थितिप्रलयकरणाधिकृतः । स्वयम्भुव इति क्रियाग्रहणम् अपि कर्तव्यम् इति सम्प्रदाने चतुर्थी । वेदार्थोपनिबन्धकत्वेन छन्दस्तुल्यत्वात् स्मृतीनां तु दुष्टा क्वचिद् अत्र छान्दसी रूपसिद्धिः ॥
+
+**मनुम्** इति । तं मनुम् **एकाग्रम् आसीनम्** अविक्षिप्तचित्तं स्थितं आभिमुख्येन आदरतो गत्वा । **महर्षयः** अणिमादिगुणयोगान् महान्तः ऋग्यजुःसामदर्शनान् महर्षयः । **यथान्यायं** शास्त्रोक्तमर्यादानतिक्रमेण प्रकर्षेण पूजयित्वा **इदं** समन्तरवक्ष्यमाणं **वाक्यम्** उक्तवन्तः ॥ १.१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 001	The great sages approached Manu, who was seated with a collected mind, and, having duly worshipped him, spoke as follows:
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

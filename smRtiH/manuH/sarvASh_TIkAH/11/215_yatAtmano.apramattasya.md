@@ -37,6 +37,16 @@ during twelve days, that is called the *Parākakṛcchra*, which destroys all si
 *Yājñavalkya* (3.320).—‘A twelve days’ fast has been called *Parāka*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विगतानवधानस्य संयतेन्द्रियस्य द्वादशाहमभोजनमेव पराकाख्यः कृच्छ्रः सकृदावृत्तितारतम्येन गुरुलघुसमफलपापापनोदनः॥२१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यतात्मान** इति । विगतान्नाभिलाषस्य संयतेन्द्रियस्य यत् द्वादशाहम् अभोजनं तत् पराकाख्यः कृच्छ्रः पापापेक्षया सकृद् आवृत्तितारतम्येन प्रकाशाप्रकाशगुरुलघुसकलपापानाम् अपनोदकः ॥ ११.२१४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स चायं कृच्छ्रातिकृच्छ्रो गौतमीयो ऽभिहितः ॥ ११.२१२–२१४ ॥

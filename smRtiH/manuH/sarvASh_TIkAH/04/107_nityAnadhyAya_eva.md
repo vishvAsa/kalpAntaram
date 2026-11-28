@@ -63,6 +63,11 @@ fire-portents or dust-storm there should be no reading in the village.’
 should he cessation of the study of all subjects till they last.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यानध्याय** इति । धर्मातिशयार्थिनां ग्रामनगरयोः सर्वदानध्यायः स्यात् । कुत्सितगन्धेन च सर्वस्मिन्न् उपलभ्यमाने ऽनध्यायः अस्मिन्न् अनध्यायप्रकरणे नित्यशब्दादीनां क्वचित् क्वचिद् अभावात् तत्र तत्र नित्यत्वं अन्यत्र विकल्पः । स च धर्मनैप्पुणविद्यानैपुणकामभेदेन व्यवस्थितो ज्ञेयः । द्विविधा ह्य् अध्येतारः, धर्मनैपुणकामा विद्यानैपुणकामाश् च । तत्र ये स्वीकृतप्रायवेदाः केवलं नियमानुष्थानजन्यम् अदृष्टातिशयम् अर्थयन्ते ते धर्मनैपुणकामाः तेषाम् अशेषानध्यायादरणम् । पुनः प्रथमाध्येतारः ते विद्यातिशयार्थिनः एषां नित्यत्वलिङ्गव्यतिरिक्तानध्यायादरणं नास्ति ॥ ४.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	For those who wish to acquire exceedingiy great merit, a continual interruption of the Veda-study (is prescribed) in villages and in towns, and (the Veda-study must) always (cease) when any kind of foul smell (is perceptible).

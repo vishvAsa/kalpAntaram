@@ -68,11 +68,20 @@ by time*, which has been cooked on the preceding day; among such soured substanc
 kept over-night, with the exception of rice cooked in sugar, curds, molasses, or preparations of wheat and barley-flour.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मृगशब्दोऽत्र माहिषपर्युदासात्पशुमात्रपरः ।माहिषंक्षीरं वर्जयित्वा सर्वेपामारण्यप्रभवपशूनां हस्त्यादीनां क्षीरं स्त्रीक्षीरं च सर्वाणि शुक्तानि वर्जनीयानि ।स्वभावतोमपुररसानि यानि कालवशेनोदकादिना चाम्लीभवन्ति तानि शुक्तशब्दवाच्यानि।"शुक्तं पर्युषितं चैव" इति चतुर्थे कृतेऽपि शुक्तप्रतिषेधे दध्यादिप्रतिप्रसवार्थं पुनरिहोच्यते ॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आरण्यानाम्** इति । माहिषवर्जम् **आरण्यानां **सर्वेषां हस्त्यादीनां **मृगाणां **सम्बन्धि क्षीरं स्त्रैणं च वर्जयेत् । तथा यानि प्राप्तस्वरसानि कालान्तरेणोदकादिसंसर्गकालपरिवासाभ्यां चाम्लीभवन्ति तानि सर्वाणि शुक्तानि वर्जयेत् ॥ ५.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	(The milk) of all wild animals excepting buffalo-cows, that of women, and all (substances turned) sour must be avoided.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

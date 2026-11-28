@@ -37,11 +37,20 @@ This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 354) as laying down w
 See Comparative notes for [Verse 3.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि ग्रामान्तरागतत्वादतिथिकालोपस्थितत्वादतिथिधर्मेण क्षत्रियो विप्रगृहमागच्छत्तदा विप्रगृहोपस्थितविप्रेषु कृतभोजनेषु स्थितेष्विच्छातस्तमपि भोजयेत् ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । क्षीणपाथेयो ग्रामान्तरवासित्वात् अतिथिधर्मेण **यदि क्षत्रियो** विप्रगृहे आगच्छेत् तदा गृहावस्थित**विप्रेषु** कृतभोजनेषु **तम् अपि** **भोजयेत् **॥ ३.११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

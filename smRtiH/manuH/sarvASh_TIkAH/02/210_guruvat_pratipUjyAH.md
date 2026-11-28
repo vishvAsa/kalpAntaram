@@ -41,11 +41,20 @@ wives should be similar to that towards the teacher; with the exception of the c
 avoid hair-dressing, dressing, bathing and eating of the leavings.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सवर्णा गुरुपत्न्यः गुरुवदाज्ञाकरणादिना पूज्या भवेयुः । असवर्णाः पुनः केवलप्रत्युत्था.नाभिवादनैः ॥२१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुवद्** इति । गुरोः सजातीया भार्याः **गुरुवत् पूजनीयाः ।** विजातीयाः पुनः **प्रत्युत्थानाभिवादन**मात्रेण ॥ २.२१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

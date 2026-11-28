@@ -51,6 +51,16 @@ involves a heavy penance;—in *Hemādri* (Śrāddha, p. 782);—and in
 Śūdra’s food one’s Brāhmic glory; he who cats unpurified food, eats the dirt of the earth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजान्नं तेजो नाशयति । इत एव दोषदर्शनात्तन्नभक्षणनिषेधः कल्प्यते । एवमुत्तरत्रापि पूर्वमनिषिद्धस्य दोषदर्शनादेव निषेधकल्पम् ।“नाद्याच्छूद्रस्य पक्वान्नम” ( म. स्तृ. ४–२२३ ) इति निषेधिष्यति तदतिक्रमणफलकथनमिदम्— शुद्रस्य पक्वान्नमध्ययनादिनिमित्तं तेजो नाशयति । सुवर्णकारस्यान्नमायुः, चर्मकारान्नं ख्याति नाशयति ॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**राजान्नम्** इति । **राजान्नं तेजो **नाशयति अत एव च राजान्नप्रतिषेधो बोद्धव्यः । “नाद्याच् छूद्रस्य पक्वान्नम्” (४.२२३) अधिकुलमित्रं वेति शूद्रान्नप्रतिषेधं वक्ष्यति, अतस् तदन्नं अध्ययनादिनिमित्तं तेजो ऽपहन्ति **सुवर्णकार**चर्मछेद्यन्ने आयुःख्याती हरत इति व्यतिक्रमफलकथनम् ॥ ४.२१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;

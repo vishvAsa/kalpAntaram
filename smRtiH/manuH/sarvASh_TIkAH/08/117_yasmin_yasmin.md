@@ -31,6 +31,24 @@ The decision, carried into effect, even to the realisation of the fine,—is wha
 This verse is quoted in *Mitākṣarā* (on 2.77), to the effect that even though the case may have been decided, yet if, even subsequently it is found out that the witnesses had deposed falsely,—the decision should be upset;—in *Smṛtisāroddhāra* (p. 337);—in *Kṛtyakalpataru* (p. 65a);—and in *Vīramitrodaya* (Vyavahāra, 39b).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मिन्यस्मिन्व्यवहारे साक्षिभिरनृतमुक्तमिति निश्चितं भवेत्तत्कार्यमसमाप्तं प्राड्विवाकः पुनरपि निवर्तयेत् । यदपि च दण्डसमाप्तिपर्यन्ततां नीतं तदपि पुनः परीक्षेत ॥११७॥
+
+वक्ष्यमाणविशेषार्थं लोभादीन्पृथङ् निर्दिशति—
+
+** लोभान्मोहाद्भयान्मैत्रात्कामात्क्रोधात्तथैव च ।**
+
+**   अज्ञानाद्वालभावाच्च साक्ष्यं वितथमुच्यते ॥११८॥**
+
+लोभेन, विपरीतज्ञानेन, भयेन, स्नेहेन, कामेन, क्रोधेन, अज्ञानेन, अनवधानेन साक्ष्यमसत्यमुच्यते ॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्मिन्न्** इति । **यस्मिन् यस्मिन्** व्यवहारे साक्षिभिः अनृतम् उक्तं स्यात् तत् तत् कार्यम् अप्य् अकृतं एव प्राड्विवाको निवर्तयेत् । यद् अपि कृतदण्डपर्यन्तं तद् अपि पुनः प्रीक्षयेत् ॥ ८.११७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अर्धसमाप्ते निवर्तनम्, दण्डान्ते ऽपि कृते **अकृतं भवेत्** । एवं च सति पुनस् तत् परीक्ष्यं निवृत्तिवचनात् । तच् च पुनः —

@@ -33,11 +33,20 @@ father and then to the two ancestors above the grand-father.’
 grand-father is alive, three balls shall be offered beginning with the great-grand-father.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नामकीर्तनमत्र श्राद्धोपलक्षणार्थम् ।पितृजीवनापेक्षोऽयं वाशब्दः । यस्य पुनः पिता मृतः स्यात्पितामहे जीवति स पितृप्रपितामहयोः श्राद्धं कुर्यात् । गोविन्दराजस्तु "यस्य पितृप्रपितामहौ प्रेतौ स्यातां स पित्रे पिण्डं निधाय पितामहात्परं द्वाभ्यां दद्यादिति विष्णुवचनात्प्रपितामहतत्पितृभ्यां दद्यात्" इति व्याख्यातवान् ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पिता यस्य तु वृत्तः** इति । पितृजीवनपक्षापेक्षो **वा**शब्दः । **यस्य ** पुनः **पिता **मृतः **स्यात् पितामहश् च जीवच् च स पितुर्** ब्राःमणभोजनपिण्डदानादौ नामोच्चार्यं **प्रपितामहं कीर्तयेत् **ताभ्यां द्वाभ्यां श्राद्धं कुर्यात् प्रपितामहस्य च पितुः । यथाह विष्णुः- “यस्य पिता प्रेतः स्यात् स पित्रे पिण्डं निधाय पितामहात् पराभ्यां द्वाभ्यां दद्यात्” इति ॥ ३.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

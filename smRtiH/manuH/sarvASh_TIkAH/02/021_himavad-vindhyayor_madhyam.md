@@ -51,11 +51,20 @@ This verse is quoted in the *Smṛticandrikā* (p. 18), which explains ‘*vina�
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उत्तरदक्षिणदिगवस्थितौ हिमवद्विन्ध्यौ पर्वतौ, तयोर्यन्मध्यं विनशनात्सरस्वत्यन्तर्धानदेशाद्यत्पूर्वं प्रयागाच्च यत्पश्चिमं स मध्यदेशनामा देशः कथितः ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हिमवद्विन्ध्ययोर्** इति । **हिमवद्विन्ध्या**ख्योत्तरदक्षिणदिगवस्थितपर्वतयोर् **मध्यं विनशनाच् च **सरस्वत्यन्तर्धानदेशात् **प्रत्यग्**दिग्वर्तिनः प्राक् पूर्वदिङ्मार्गे । **प्रयागाच् च **गङ्गायमुनासङ्गमात् **प्रत्यक्** पश्चिमदिङ्मार्गे स **मध्यदेशा**ख्यो देशः ॥ २.२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

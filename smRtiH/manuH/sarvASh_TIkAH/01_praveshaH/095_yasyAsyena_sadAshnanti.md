@@ -28,11 +28,15 @@ The Gods, occupying the highest regions, and the *Pitṛs* occupying the interme
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **यस्येति** । **यस्य **ब्राह्मणाख्यस्य महात्मनो मुखेन महाप्रभावाः **त्रिदिवौकसः** स्वर्गवासिनो देवाः **हव्यानि **अनवरतम् **अश्नन्ति पितरश्** **च कव्यानि ततो **ऽन्यत् प्रकृष्टं **किं भूतं **स्यात् ॥ १.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	What created being can surpass him, through whose mouth the gods continually consume the sacrificial viands and the manes the offerings to the dead?
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

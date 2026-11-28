@@ -66,6 +66,16 @@ the science of philosophy, Vedic triad and Trade-Agriculture is obtained.’
 each man gets into the habit of following his own Dharma. The person who follows his own Dharma can become powerful and influential in this world. With strict adherence to one’s own duty, there can he no happiness. Poliowing one’s own Dharma is the highest penance.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तं दण्ड देशकालौ दण्ड्यस्य च शक्तिं विद्यादिकं यस्मिन्नपराधे यो दण्डोऽर्हतीत्यादिकं शास्त्रानुसारेण तत्त्वतो निरूष्यापराधिषु प्रवर्तयेत्॥१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तस्मात् **तम्** इति । **तं** दण्डं ग्राम्यारण्यादिदिवानक्ताद्यपराधकत्वाद् रजकत्वस्य गतदेशकालौ विचार्य अपराधिसम्बन्धि च शरीरधनसामर्थं वेदाध्ययनादि सम्यग् अवेक्ष्य अन्यायकारिषु नरेषु अपराधानुरूपं कुर्वीत इत्य् अमात्यादिविषयम् इदं व्यवहारिणा प्रभवन्तम् “अनुबन्धं परिज्ञाय” [८.१२६] इति वक्ष्यमाणत्वात् ॥ ७.१६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ग्रामारण्यबाह्याभ्यन्तररथ्यादिर् **देशः** । दिवा नक्तं बालो युवा स्थविर इति **कालः** । **शक्तिः** शरीरगतार्थगता च । **विद्या** त्रयी शाङ्गोपाङ्गा । एतदपेक्षया दण्डः प्रणेयः । अन्यथा प्रणीतो ऽनर्थम् उत्पादयति, अर्थं च न करोतीति दण्डस्तुत्यर्थो ऽयम् अनुवादः । दण्डपातनविधिं तूपरिष्टाद् वक्ष्यत्य् अपराधं प्रतिज्ञायेति ॥ ७.१६ ॥

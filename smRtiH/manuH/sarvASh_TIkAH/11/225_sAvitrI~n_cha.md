@@ -42,6 +42,16 @@ destructive of all sins:—The *Śukriyā*, the *Āraṇyaka* and the
 *Gāyatrī*; also the eleven *Rudra-mantras*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सावित्रीं च सदा जपेव। पवित्राणि चाघमर्षणादीनि यथाशक्ति जपेत्। एतच्च यथा चान्द्रायणे तथा प्राजापत्यादिकृच्छ्रेष्वपि यत्नवान्प्रायश्चित्तार्थमनुतिष्ठेत्॥२२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सावित्रीम्** इति । सावित्रीं च सर्वदा रात्राव् अपि जपेत् पवित्राणि यथाशक्ति जपेत् । एवं कृच्छ्रादिष्व् अपि सर्वेषु यत्नवान् प्रायश्चित्तार्थं महाव्याहृतिभिर् होमादि सर्वं कुर्यात् । तप्तकृच्छ्रेषु षट्सवनं स्नानम् अतिदेशकं न प्रवर्तते सकृत् **स्नायीत्यौएपदेशिकविरोधात्** ॥ ११.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 226	Let him constantly mutter the Savitri and (other) purificatory texts according to his ability; (let him) carefully (act thus) on (the occasion of) all (other) vows (performed) by way of penance.

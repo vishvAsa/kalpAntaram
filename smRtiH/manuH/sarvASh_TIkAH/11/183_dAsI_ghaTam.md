@@ -52,6 +52,16 @@ This verse is quoted in *Madanapārijāta* (p. 964), which explains ‘*pretarat
 See Comparative notes for [Verse 11.182].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सपिण्डसमानोदकप्रयुक्ता दासी उदकपूर्णं घटं प्रेतवदिति दक्षिणाभिमुखीभूय पादेन क्षिपेत् यथा स निरुदको भवति। तदनु ते सपिण्डाः समानोदकैः सहाहोरात्रमशौचमाचरेयुः॥१८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दासीति** । सपिण्डसमानोदकप्रयुक्ता दास्¥ उदकपूर्णं घटम् अमुम् अनुदकं करोमीति नामग्राहम् इति गौतमस्मरणाद् एवम् उक्त्वा प्रेतस्येव दक्षिणमुखं पादेन प्रक्षिपेत् तदनु च ते सपिण्डाः समानोदकैः सह शौचम् आश्रयेयुः ॥ ११.१८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 184	A female slave shall upset with her foot a pot filled with water, as if it were for a dead person; (his Sapindas) as well as the Samanodakas shall be impure for a day and a night;

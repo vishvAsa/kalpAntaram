@@ -38,6 +38,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 See Comparative notes for [Verse 4.219].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चिकित्सकस्यान्नं पूयंपूयभक्षणसमदोषम् । एवं पुंश्चल्या अन्नमिन्द्रियं शुक्रम् । वार्धुषिकस्यान्नं पुरीषम् ।लोहविक्रयिणोऽन्नंविष्टाव्यतिरिक्तश्लेष्मादि । गोविन्दराजस्तु चिकित्स कान्नभक्षणेन तथाविधायां जातौ जायते, यत्र पूयभुग्भवतीत्याह ॥२२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूयम्** इति । चिकित्सकान्नादनेन तथाविधायां जाताव् उत्पद्यते यत्र पूयभुक् भवति । एवं पुंश्चल्यन्नं शुक्रं वार्धुषिकान्नं पुरीषं **शस्त्रविक्रयिणः **शुक्रविष्ठादिव्यतिरिक्तं मूत्रादिमलम् ॥ ४.२२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.

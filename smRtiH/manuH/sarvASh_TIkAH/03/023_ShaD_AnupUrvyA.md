@@ -93,11 +93,20 @@ any means, than she may be married even by theft, while she may be alone.’
 as authorised by the Father; the remaining (which are unrighteous) may be authorised by the Father and the Mother (who accept the fees).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य ब्राह्मादिक्रमेण षट् । क्षत्रियस्यावरानुपरितनानासुरादींश्चतुरः ।विट्शूद्रयोस्तु तानेव राक्षसवर्जितानासुरगान्धर्वपैशाचान्धर्म्यान्धर्मादनपेताञ्जनीयात् ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**षड् **इति । **षड् **आदितः क्रमावस्थितान् **विप्रस्य क्षत्रियस्य **चोपरितनान् **चतुरः** (चत्वारो), **विट्शूद्रयोः **पुनः **राक्षस**वर्जितान् **तान् एव **धर्माद् अनपेतान् जानीयात् ॥ ३.२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -78,6 +78,16 @@ transgressions by her relations,—by night and by day she must be watched by he
 employment of the means of realising the three ends of spiritual merit, wealth and pleasure. The wife should be pure in mind, speech and action; she should abide by the instructions of her husband, and follow him like his shadow, and be a friend in all his activities and servant in all his commands.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वीयैर्भर्त्रादिभिः सदा स्त्रियः स्वाधीनाः कार्याः ।अनिषिद्धेष्वपि रूपरसादिविषयेषु प्रसका अपि आत्मवशाः कार्याः ॥ २ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अस्वतन्त्रा** इति । भर्त्रादिभिः स्त्रियः सर्वदा परतन्त्राः कार्याश् च, निषिद्धे ऽपि च शब्दादिषु विषयेष्व् अतिसक्तिं भजमानास् ततो ऽपास्यात्मवर्तिन्यः कर्याः ॥ ९.२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 <u>नन्व् आसाम्</u> अस्वातन्त्र्यं स्त्रीधर्मे निष्ठम् एव पञ्चमे ऽध्याये ।
 

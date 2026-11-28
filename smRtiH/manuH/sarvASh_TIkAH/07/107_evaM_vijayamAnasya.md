@@ -29,6 +29,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 404).
 and towards those possessed of good qualities, he shall employ conciliation; towards the covetous, he shall employ presents; towards the suspected, dissension; and towards the wicked, force.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण विजयप्रवृत्तस्य नृपतेयं विजयविरोधिनो भवेयुस्तान्सर्वान्सामदानभेददण्डैरुपायैर्वशमानयेत् ॥१०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । एवम् उक्तरीत्या जेतुं प्रवृत्तस्य राज्ञो ये विजयप्रतिकूलाः स्युः तान् सर्वान् सामभेददानदण्डैर् उपायैर् वशीकुर्यात् ॥ ७.१०७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं विजये स्थितस्य राज्ञो ये प्रतापेन नोपनमेरन् तान् पश्चात् सामादिभिर् वशीकुर्यात् ॥ ७.१०७ ॥

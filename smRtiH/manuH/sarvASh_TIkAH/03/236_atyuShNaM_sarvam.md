@@ -75,11 +75,30 @@ the food...he destroys the Śrāddha and becomes degraded.’
 praise or decry the food. They should say nothing except by the gesture of the hand. The Pitṛs partake of the food only so long as it is on the ground, until it is praised, and so long as it is hot, except in the case of fruits, roots and drinks.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उष्णमेवात्युष्णं यस्योष्णस्यान्नादेर्भोजनमुचितं तदुष्णं दद्यान्न तु फलाद्यपि । अत एवशङ्कः—
+
+**"उष्णमन्नं द्विजातिभ्यः श्रद्धया विनिवेदयेत् ।**
+
+**अन्यत्र फलमूलेभ्यः पानकेभ्यश्च पण्डितः” ॥**
+
+संयतवाचश्च ब्राह्मणा अश्नीयुः । किमिदं स्वाद्वस्वादु वेति दात्राऽन्नादिगुणान् पृष्टावक्राद्यभिनयेनापि न ब्रूयुः, वाग्यतस्यात्रैव विधानात् ॥२३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अत्युष्णम्** इति । उष्णम् **अन्नं** द्विजाग्र्येभ्यः श्रद्धया विनिवेदयेत् । 
+
+> अन्यत्र फलमूलेभ्यः पानकाद् दध्न एव च ।
+
+इति शङ्खस्मरणात् फलादिव्यतिरेकेण सर्वम् उष्णं दद्यात् । संयतवाचश् च ब्राह्मणा अश्नीयुः । दात्रा च स्वाद्वस्वादु वेत्य् एनम् अन्नगुणान् पृष्टाः न कथयेयुः अभिनयेनापि । वाङ्नियमस्योक्तत्वात् (चाग्निप्रशस्योक्तत्वात्) ॥ ३.२३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

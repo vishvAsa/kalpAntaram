@@ -45,11 +45,20 @@ Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial fo
 *Yama-Hārīta-Śātātapa* (Do.).—\[Reproduce Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पवित्रं मन्त्राः, पूर्वाह्णःकालः, हविष्याणि मुन्यन्नादीनि सर्वाणि च, यच्च पवित्रं पावनं वास्तुसम्पादनादि पूर्वमुक्तम्, एताश्च देवार्थस्य कर्मणः समृद्धयः ।हव्यशब्दो दैवकर्मोपलक्षणार्थः॥२५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दर्भा** इति । विष्टराद्यर्थं **धर्भाः पवित्रं **दर्भं प्राधान्यात् पृथग् उपदिष्टम् । **पूर्वाह्ण**कालः **हविष्याणि** मुन्यन्नादीनि सर्वाणि । **यच् च **वास्तुसम्पादनादि पावनं **पूर्वम् उक्तम्** एतावद् एवार्थकर्मणः सिद्धयः ॥ ३.२५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

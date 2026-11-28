@@ -50,11 +50,15 @@ three days.’
 fellow-pupil has died.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**सब्रह्मचारिणीर्ति** । सहाध्यायिनि प्रेते [ए]काहम् आशौचं समानोदकानां पुनर् जनने सति **त्रिरात्राच् छुद्दिर् इष्यते** । त्र्यहात् तूदकदायिन इति प्रथमविषयम् उक्तम् ॥ ५.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	If a fellow-student has died, the Smriti prescribes an impurity of one day; on a birth the purification of the Samanodakas is declared (to take place) after three (days and) nights.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

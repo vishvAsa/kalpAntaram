@@ -46,11 +46,19 @@ Do. (2.25).—‘Punishments dealt out proportionately to offences increase the 
 virility, of noble family, truthful in words, pure, non-procrastinating, with keen memory, not. mean and not cruel; righteous, not addicted to evil habits, intelligent, brave, conversant with secrets.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्य दण्डस्य प्रवर्तथितारमभिषेकादिगुणयुक्तं नृपतिमवितथवादिनं समाक्ष्यकारिणं तत्त्वातत्त्वविचारोचितं प्रज्ञाशालिनं धर्मार्थकामानां ज्ञातारं मन्वादयोऽष्याहुः॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्याहुर्** इति । **तस्य** दण्डस्य कर्तारं क्षत्रियम् अभिषेकादियुक्तं यथोपलब्धाभिधायिनं विमृश्यकारिणम् ऊहापोहसमर्थं प्राज्ञोपेतं धर्मार्थकामानाम् इतरेतरानुष्ठानकुशलं मन्वादयः आहुः ॥ ७.२६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **तस्य** दण्डस्य प्रणेता जात्या क्षत्रियो ऽभिषेकाद् आधिपत्यप्रभावगुणयुक्तः । **सत्यवादि** नानवस्थितं दण्डं प्रीत्या प्रापयति, द्वेषेण वा वर्धयति । **समीक्ष्य कारी** दण्डावधारेण देशाध्यपेक्षया **प्राज्ञो** देशादीनाम् उत्सर्गापवाददर्शने । **धर्मकामार्थेषु** च पण्डितः तेषाम् अवस्थाविशेषज्ञः समचित्तः । तम् एवंविधं दण्डस्य प्रेणेतारम् आहुः ॥ ७.२६ ॥
-
-_एवंविधश् च-_
 </details>
 
 <details><summary>Bühler</summary>

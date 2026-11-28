@@ -41,6 +41,11 @@ shall he dwell in places controlled by Śūdras.’
 village where there is abundance of fuel and water, of fodder, sacrificial fuel, kuśa-grass and garlands, which is inhabited by wealthy persons, where idle men do not abound, where cultured people abound, and which cannot be entered by robbers.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाधार्मिक** इति । अधर्मबहुलजनग्रामादौ अत्यर्थं व्याधिबहुले **न वसेत्** । **एकश् चाध्वानं** न यायात् । **पर्वते **च दीर्घकालं न तिष्ठेत् ॥ ४.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	Let him not dwell in a village where the sacred law is not obeyed, nor (stay) long where diseases are endemic; let him not go alone on a journey, nor reside long on a mountain.

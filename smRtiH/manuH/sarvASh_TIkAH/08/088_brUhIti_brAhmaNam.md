@@ -10,12 +10,15 @@ He shall question the Brāhmaṇa with the word ‘speak,’ the Kṣatriya with
 
 <details><summary>मेधातिथिः</summary>
 
-[^३०९]:
-     All editions read "sarvais," but it is clear that Medhātithi's reading was "ebhis", as is evident from his commentary: "vakṣyamāṇaiḥ pātakaiḥ", and the reading "śūdram ebhis tu pātakaiḥ" given at 8.99.
-
 <u>क्व पुनर्</u> इयं तृतीया **गोबीजकाञ्चनैर्** इति । यदि तावत् **पृच्छेद्** इति क्रियासंबन्धात् करणम् उच्यते, तद् अनुपपन्नम् । शब्दो हि तत्र करणम्, नार्थः । 
 
 <u>नैष दोषः</u> । यथा गवादीनि प्रश्नकरणत्वं प्रतिपद्यन्ते तथा व्याख्येयम् । **पातकैर्** इत्य् उभयशेषो विज्ञेयः- **गोबीजकाञ्चनैः पातकैर्** इति । तेनायम् अर्थो भवति । गोबीजकाञ्चनविषयैः पातकप्रदर्शनैः पृच्छेद् इति । "गां हृत्वा हत्वा वा यत् पातकं तद् भवति तव मिथ्या वदतः" इति प्रश्नवाक्यं पठितव्यम् । एवं वक्ष्यमाणैः पातकैः शूद्रं पृच्छेत् । पातकशब्दस् तु पातकप्रदर्शनार्थेष्व्[^३१०] अभिधानेषु द्रष्टव्यो मुख्यानां प्रश्नकरणत्वाभावाद् इत्य् उक्तम् ॥ ८.८८ ॥
+
+[^३१०]:
+     M G DK (1: 612; 5: 1192): vetyādiniścaye
+
+[^३०९]:
+     All editions read "sarvais," but it is clear that Medhātithi's reading was "ebhis", as is evident from his commentary: "vakṣyamāṇaiḥ pātakaiḥ", and the reading "śūdram ebhis tu pātakaiḥ" given at 8.99.
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -45,6 +48,16 @@ address thus:—‘*Thy kine and gold shall yield thee no fruit*”;—the Śūd
 
 *Nārada* (1.198).—‘He shall cause the Brāhmaṇa to swear by truth, the
 Kṣatriya by his conveyances and weapons, the Vaiśya by his cows, grain or gold; and the Śūdra by all sorts of crimes.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ब्रूहीत्येवं शब्दमुच्चार्य ब्राह्मणं पृच्छेत् । सत्यं ब्रूहीति पार्थिवं क्षत्रियं पृच्छेत् । गोवीजसुवर्णापहारे यत्पापं तद्भवतोऽनृताभिधाने स्यादित्येवं वैश्यम् । शुद्रं पुनः सवै क्ष्यमाणपापैः सम्बध्यसे यदि मृषा वदसीति पृच्छेत् ॥८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रूहीति** । **गोबीजकाञ्चनैर् वैश्यं शूद्रं सर्वैस् तु पातकैः **। **ब्रूहीत्य्** एवं शब्दम् उच्चार्य ब्राह्मणं पृच्छेत् । सत्यम् इत्य् एवम् अभिधाय क्षत्रियम् । गोबीजसुवर्णापहारे यत् पातकं तवानृतवदने स्याद् इत्य् एवं वैश्यम् । शूद्रं वक्ष्यमाणैः पापप्रतिपादकैः शब्दैः पृच्छेत् ॥ ८.८८ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

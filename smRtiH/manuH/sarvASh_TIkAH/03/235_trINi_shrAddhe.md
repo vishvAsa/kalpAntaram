@@ -36,11 +36,20 @@ This verse is quoted in *Aparārka* (p. 474).
 See Comparative notes for [Verse 3.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्तान्येव त्रीणि दौहित्रादीनि श्राद्धे पवित्राणीति ज्ञाप्यन्ते । त्रीणि च शौचादीनि प्रशंसन्ति ॥२३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **त्रीणीति** । **दौहित्रा**दीनि **त्रीणि श्राद्धे पवित्राणि त्रीणि चैव **वस्तूनि शौचाक्रोधविश्रम्भाख्यानि श्राद्धे अतिशयेनेच्छन्ति ॥ ३.२३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 235	There are three means of sanctification, (to be used) at a Sraddha, a daughter's son, a Nepal blanket, and sesamum grains; and they recommend three (other things) for it, cleanliness, suppression of anger, and absence of haste.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -47,11 +47,20 @@ house’.
 See Comparative notes for [Verse 3.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि वैश्यशूद्रावपि ब्राह्मणस्य कुटुम्बे गृहे प्राप्तौ ग्रामान्तरादागतत्वादतिथिधर्मशालिनौ तदा तावपि क्षत्रियभोजनकालात्परतो दम्पतोभोजनात्पूर्वं दासभोजनकाले अनुकम्पामाश्रयन्भोजयेत् ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्यशूद्राव्** इति । **वैश्यशूद्राव्** अपाथेयाव् अतिथिरूपौ गृहे प्राप्तौ तदा कारुण्यात् सहभोजनीयौ ॥ ३.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

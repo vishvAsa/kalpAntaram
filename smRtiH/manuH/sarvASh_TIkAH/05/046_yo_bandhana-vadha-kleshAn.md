@@ -35,11 +35,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 539).
 See Comparative notes for [Verse 5.42].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो बन्धनमारणक्लेशादीन्प्राणिनां कर्तुं नेच्छति, स सर्वहितानन्तसुखं प्राप्नोति ॥४६॥अन्यच्च–
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यो बन्धनवधक्लेशान्** इति । **यो बन्धनवध**त्रासादीन् **प्राणिनां **कर्तुं नेच्छति **स सर्वस्य **हितप्रापणेच्छाशिलो ऽनन्तं **सुखं** प्राप्नोति ॥ ५.४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 046	He who does not seek to cause the sufferings of bonds and death to living creatures, (but) desires the good of all (beings), obtains endless bliss.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

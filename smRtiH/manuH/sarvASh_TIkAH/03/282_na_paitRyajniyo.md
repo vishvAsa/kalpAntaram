@@ -107,11 +107,20 @@ Smārta rites in the marriage-fire, or in the fire kindled at the time of inheri
 Do. (1(?).236).—‘When going to pour the oblation into the fire, he shall take up the food overflowing with butter, and being permitted to go on with the offering, shall pour the oblation into the fire, in the manner of the Pitṛyajña.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**“अग्नेः सोमयमाभ्यां च”** ( म. स्मृ. ३-२११ ) इत्यनेन विहितपितृयज्ञाङ्गभूतो होमो न लौकिके श्रौतस्मार्तव्यतिरिक्ताग्नौ शास्त्रेण विधीयते । तस्मान्न लौकिकाग्नावग्नौकरणहोमः कर्तव्यः । निरग्निना तु **“अग्न्यभावे तु विप्रस्य पाणौ”** ( म. स्मृ. ३ - २१२ ) इत्यभिधानाद्विप्रपाण्यादौ करणीयः। आहिताग्नेर्द्विजस्य नामावास्याव्यतिरेकेण कृष्णपक्षे दशम्यादौ श्राद्धं विधीयते । मृताहश्राद्धं तु नियतत्वात्कृष्णपक्षेऽपि तिथ्यन्तरे न निषिध्यते ॥ २८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न पैत्र्ययज्ञिको होम** इति । अग्नेः सोमयमाभ्याम् इत्य् एवं पितृयज्ञाङ्गभूतो **होमः लौकिके **श्रौतस्मार्तव्यतिरिक्ते ऽग्नौ शास्त्रेण न चोद्यते । **आहिताग्नेश् **च द्विजाग्नेः अमावास्यकर्मणा विना कृष्णपक्षदशम्यादौ **श्राद्धं न **विधीयते । मृताहश्राद्धादेस् तु अनिषेधः, तस्य नैयमिकत्वेन चोदितत्वात् ॥ ३.२८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 282	The burnt-oblation, offered at a sacrifice to the manes, must not be made in a common fire; a Brahmana who keeps a sacred fire (shall) not (perform) a funeral sacrifice except on the new-moon day.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

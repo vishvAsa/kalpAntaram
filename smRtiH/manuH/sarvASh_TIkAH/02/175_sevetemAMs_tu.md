@@ -15,19 +15,11 @@ With a view to enhancing his own piety, the Rreligious Student should, while liv
 
 - **सेवेत** अनुतिष्ठेत । **इमान्** वक्ष्यमाणान् । बुद्धौ संनिहितत्वाद् इदमा निर्दिश्यन्ते । **गुरौ वसन्** गुरुसमीपे विद्याध्ययनार्थं वसन् इति नित्यसंनिधानम् आह[^४३०] । **संनियम्येन्द्रियग्रामं** प्रागुक्तेन मार्गेण । **तपोवृद्ध्यर्थम्** अध्ययनविध्यनुष्ठानजन्यात्मसंस्कारार्थम्[^४३१] ॥ २.१७५ ॥
 
-
 [^४३१]:
      M G 1st ed.: adhyāyavidhy-
 
-
 [^४३०]:
      M G 1st ed.: vasan | niyamān āha |
-
-_तानीदानीं पूर्वेण प्रतिज्ञातान् नियमान्_[^४३२]_ आह ।_
-
-
-[^४३२]:
-     M G 1st ed.: pratijñātān pūrveṇa niyamān; G 2nd ed: niyamān pūrveṇa pratijñātān
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -99,11 +91,20 @@ house, ever calm and collected; on a sacred day, having pronounced the Praṇava
 attend diligently on his Teacher; the same conduct has to be observed by him towards the Teacher’s wife and son. He shall preserve chastity and beg alms, lying on a low couch and using no ornaments. He shall go to rest after, and rise before, all persons in the Teacher’s house. He shall never come or stay without his Teacher’s bidding; his Teacher’s call he must obey without hesitation, when he is able to do so. He shall read at the proper time, when his Teacher is not averse to it, sitting on a lower seat than his Teacher, by his side, or on a bench and paying attention to what he says. Science, like the current of a stream, is constantly advancing towards the plain; therefore one studying science should be humble towards his Teacher. His Teacher shall correct him, if he is not obedient, scolding him or chastising him with a rope or with a small shoot of cane. The Teacher shall not strike him a heavy blow; nor on the head or on the chest; and he must encourage him after having chastised him. Otherwise the king shall punish the Teacher. After having completed his studies, he shall give the customary present to his Teacher and return home. Thus should be the conduct of the Student.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मचारी गुरुसमीपे वसन्निन्द्रियसंयमं कृत्वाऽनुगतादृष्टवृद्ध्यर्थमिमान्नियमाननुविष्ठेत ॥१७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सेवेतेति** । **ब्रह्मचारी **गुरुकुले **वसन् इन्द्रियग्रामम्** इन्द्रियसमूहं **नियम्य आतमस् तपोवृद्ध्यर्थं इमान् **यम**नियमान् **अनुतिष्ठेत् ॥ २.१७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 175	But a student who resides with his teacher must observe the following restrictive rules, duly controlling all his organs, in order to increase his spiritual merit.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

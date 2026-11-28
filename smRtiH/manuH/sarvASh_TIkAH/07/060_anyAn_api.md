@@ -48,6 +48,16 @@ look after the following: tolls, fines, weights and measures, landmarks and boun
 appointed:—gold, granary, trade, forestry, armoury, weights and measures, measurements of time and surveying, customs and tolls, spinning and weaving, agriculture, excise, slaughterhouse, courtesans, navy, cattle, horse, elephant, chariot, infantry, army-command, coinage, pasture-land, collection of revenues, espionage, city-administration.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्यानष्यर्थदातादिना शुचीन्,प्रज्ञाशालिनः, सम्यग्धनार्जनशीलान्धर्मादिना परीक्षितान्कर्मसचिदान्कुर्यात् ॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्यान्** इति । **अन्यान् अपि **भृत्यान् अर्थादिशुद्धान् प्रज्ञावतः स्थिरानुचारादिद्वारेण कृतार्थादिशुद्धिपरीक्षान् आकरस्थानेभ्यः सम्यग् अर्थोत्पादनशीलान् अर्थाधिगतान् कुर्यात् ॥ ७.६० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 मन्त्रिगुणयुक्तान् एतान् अपि कुर्यात् सर्वोपधाभिदृष्टतया च **सुपरीक्षितान्** । **अर्थसअमाहर्तॄन्** संनिधातॄन् [सप्ताष्टौ] वा संख्यानियमापवादो ऽयं राजसहायानाम् उच्यते ॥ ७.६० ॥

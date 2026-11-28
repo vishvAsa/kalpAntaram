@@ -56,6 +56,16 @@ improper conversation and laughing go to disgrace women of noble families.’
 conversing with other men and associating with wicked ascetics and others; should never go to the house of strangers, to the public road or road-crossings or lanes, or to the abode of ascetics; should avoid standing on the path to the wells and roaming in the morning and in the evening; she should never think of using the bed, seat, clothes and ornaments belonging to others, until they have been cleansed and repaired, etc., etc., etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मद्यपानं, असत्पुरुषसंसर्गः, भर्त्रा सह विरहः, इतस्ततश्च भ्रमणं, अकालस्वापः, परगृहनिवासः इत्येतानि षट् स्त्रिया व्यभिचाराख्यदोषजनकानि ।तस्मादेतेभ्य एता रक्षणीयाः॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पानम्** इति । मद्यपानदुर्जनसंसर्गो ऽसत्पुरुषेण सहाधिवासः, भर्तृवियोगः, इतरगृहे वासः सर्वथैव नारीणाम् इत्येतानि षट् दूषणानि साधुप्रकृतेर् अपि नार्याः व्यभिचाराख्यदोषजननानि, तस्माद् एभ्य एताः परिरक्षणीयाः ॥ ९.१३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 परिवर्जनार्थ एषाम् उपदेशस् तत्पुरुषाणाम् । यतश् च पानादिव्यभिचारकरणेषु वर्तमानाः ॥ ९.१३ ॥

@@ -59,11 +59,20 @@ and as description of ‘*adharma*’ they quote Manu 3.150-152.
 It is quoted in *Saṃskāramayūkha* (p. 75);—and in *Smṛticandrikā* (Saṃskāra, p. 205).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुलमुत्कर्षं नेतुमिच्छन्विद्याचारजन्मादिभिरुत्कृष्टैःसह सर्वदा कन्यादानादिसम्बन्धानाचरेत् ।अपकृष्टांस्तु सम्बन्धांसत्यजेत् ।उत्तमविधानादेवाधनपरित्यागे सिद्धे यत्पुनरधमांस्त्यजेदित्यभिधानांतदुत्तमासम्भवे स्वतुल्याद्यनुज्ञानार्थम् ॥२४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्तमर् उत्तमैर् सार्धम्** इति । कुलम् उत्कृष्टतां नेतुम् इच्छन् श्रुताभिजनाद्युत्कृष्टैः सह अनवरतं कन्यादानादिसम्बन्धान् आचरेत् । अपकृष्टान् तत्सम्बन्धेषु परिहरेत् । उत्तमविधानाद् एवाधर्मव्यावृत्तिसिद्धये पृथग्वचनम् उत्तमाभावे समाभ्यनुज्ञानार्थम् ॥ ४.२४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

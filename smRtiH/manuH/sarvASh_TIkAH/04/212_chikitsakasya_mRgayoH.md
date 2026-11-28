@@ -75,11 +75,30 @@ physician, the fowler, the cruel man, and those who live upon leavings.’
 of the multitude, of people accused of crimes, and of those who make a living by acting or by women.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चिकित्साजीविनः, मृगयोर्मांसविक्रयार्थं मृगादिपशुहन्तुः क्रूरस्यानृजप्रकृतेः निषिद्धोच्छिष्टभोक्तुरन्नं न भुञ्जीत । उग्रो दारुणकर्मा तस्यान्नम् ।
+
+**गोविन्दराजो मञ्जर्यामुग्रं राजानमुक्तवान् ।**
+
+**मनुवृत्तौ च शूद्रायां क्षत्रियोत्पन्नमभ्यधात् ॥**
+
+**भेदाक्तेर्याज्ञवल्कीयेनाग्रोराजेति वावदत् ।**
+
+**आश्चर्यमिदमेतस्य स्वकीयहृदि भूषणम् ॥**
+
+सूतिकान्नं सूतिकामुद्दिश्य यत्क्रियते तदन्नं तत्कुलजैरपि न भोक्तव्यम् । एकपङ्क्तिस्थानन्यानवमन्य यत्रान्ने भुज्यमाने केनचदाचमनं क्रियते तत्पर्याचान्तम् ।अनिर्देशं सूतकान्नं वक्ष्यमाणत्वान्न भुञ्जीत ॥२१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चिकित्सकस्येति । **वैद्यस्य चिकित्साजीविनः । तथा लुभकानार्जवप्रकृत्युच्छिष्टादीनाम् उग्रस्य क्षत्रियेण शूद्रायाम् उत्पन्नस्य सूतिकोद्देशेन अनाशौचिभिर् अपि यत् कृतं कृतान्तराचमनं च तथा अनिर्गतदशाहिकं **सूतिकान्नं** प्रेतान्नस्य वक्ष्यमाणत्वात् न भुञ्जीत । _अन्ये_ तु उग्रं राजानम् आहुः । _तद् असत्_, याज्ञवल्क्येनोभयपाठात् ॥ ४.२१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 212	Nor (the food given) by a physician, a hunter, a cruel man, one who eats the fragments (of another's meal), nor the food of an Ugra, nor that prepared for a woman in childbed, nor that (given at a dinner) where (a guest rises) prematurely (and) sips water, nor that (given by a woman) whose ten days of impurity have not elapsed,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

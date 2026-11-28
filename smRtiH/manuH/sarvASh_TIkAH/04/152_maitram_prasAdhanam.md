@@ -55,11 +55,20 @@ duly purified and with due care, he shall perform the duty towards gods in the f
 Do. (Do., 161.25).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मित्रदेवताकत्वान्मैत्रः पायुस्तद्भवत्वान्मैत्रं पुरीषोत्सर्गम् । तथा देहप्रसाधनं प्रातःस्नानदन्तधावनाञ्जन-देवार्चनादि पूर्वाह्णएव कुर्यात् । पूर्वाह्णशब्देन रात्रिशेषदिनपूर्वभागाविह विवक्षितौ । पदार्थमात्रविधिपर-त्वाच्चास्य पाठक्रमोऽपि नादरणीयः । नहि स्नानानन्तरं दन्तधावनम् ॥१५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मैत्रम्** इति । **मैत्रं** पायुर् इति पश्वङ्गसंस्तवे पायौ मित्रदेवताकथनश्रवणाद् इहाप्य् अभेदोपचारेण **मैत्रः **पायुः । तत्र भवः उत्सर्गे सति शौचं तथानुलेपनादिशरीरसंस्कारनित्यस्नानदन्तधावनाञ्जनदेवार्चनानि **पूर्वाह्ण एव कुर्वीत **॥ ४.१५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 152	Early in the morning only let him void faeces, decorate (his body), bathe, clean his teeth, apply collyrium to his eyes, and worship the gods.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -32,6 +32,16 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 199);—in
 See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माच्छुभाशुभकर्मप्रतिष्ठ आत्मैवात्मनः शरणं, तस्मादेवं स्वमात्मानं नराणां मादुत्तमं साक्षिणं मृषाऽभिधाने नावज्ञासीः ॥८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अत्मेति** । यस्मात् शुभाशुभकर्मप्रवृत्तस्यात्मनः चात्मैव साक्षी तथात्मैवात्मनः शरणं तस्माद् एनं स्वम् आत्मानं नराणां मध्याद् उत्तरं साक्षिणम् असत्याभिधानेन भावज्ञासीः केन ममैतद् दृष्टमित्य् एवं बुद्धिं कृत्वा, यत आत्मा तवात्र सर्वसाक्ष्य् उत्तमः साक्षी विद्यते एकस्यैवात्मनः कर्मकर्तव्यापदेशो ऽसत्यनिवृत्त्यर्थः ॥ ८.८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 084	'The Soul itself is the witness of the Soul, and the Soul is the refuge of the Soul; despise not thy own Soul, the supreme witness of men.

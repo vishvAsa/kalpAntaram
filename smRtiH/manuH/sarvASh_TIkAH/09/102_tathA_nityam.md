@@ -12,19 +12,11 @@ Man and wife, after they have passed through the rites, should always so exert t
 
 **यतेयातां** प्रयत्नवन्तौ **तथा** स्यातां **यथेतरेतरं** परस्परं **नातिचरेताम्** । अतिचारो ऽतिक्रमः, धर्मार्थकामेष्व् असहभावः । **कृतक्रियौ** कृतविवाहादिसंस्कारौ, अवियुक्तौ[^२६१] ततः परम् । उपसंहारश्लोको[^२६२] ऽयं नानुक्तार्थोपदेशकः ॥ ९.१०२ ॥
 
-
 [^२६२]:
      M G: tataḥ paropasaṃhāraḥ śloko; J: tataḥ paropasaṃhāraśloko
 
-
 [^२६१]:
      M G J: niyuktau
-
-_पूर्वोत्तरप्रकरणयोः_[^२६३] _संबन्धश्लोको ऽयम् ।_
-
-
-[^२६३]:
-     M G J: pūrvoktaprakaraṇayoḥ (see DK 1: 1127)
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,6 +31,11 @@ This verse is meant to be a summing up of what has gone before, and not the inju
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Vivādaratnākara* (p. 421).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीपुंसौ कृतविवाहौ तथा सदा यत्नं कुर्यातां, यथा धर्मार्थकामाविषये वियुक्तौपरस्परं न व्यभिचरेताम् ॥ १०२ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

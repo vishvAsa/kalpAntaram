@@ -48,6 +48,11 @@ in cow-pens, at sacrifices, near Brāhmaṇas, during the twilights, at meeting 
 ‘*Devāgāre gavūm madhye brāhmaṇānām kriyāpathe*.’\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अग्न्यागार** इति । अग्निशालायां **गवां गोष्ठे **निवासे ब्राह्मणसमीपे स्वाध्यायभोजनकालयोः **दक्षिणं पाणिम्** आ बाहोर् वासस **उद्धरेत्** ॥ ४.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.

@@ -62,6 +62,26 @@ or unrighteous persons.’
 extending from five to twenty years—for him the expiation has been prescribed to be two *cāndrāyaṇas*.—If in an assembly, one comes into contact with a Mleccha, he shall bathe with his clothes on and go without food for one day. If a Brāhmaṇa has lived in the dwelling of a Mleccha for one, two, three or four years (he shall perform an expiatory rite).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ न कृतघ्नैरनुद्युक्तैर्न महापातकान्वितैः ।**
+
+**न दस्युभिर्नाशुचिभिर्नामित्रैश्च कदाचन ॥५॥ \]**
+
+पतितादिभिर्ग्रामान्तरवासिभिरपि सह न संवसेत् । एकतरुच्छायादौ न समीपे वसेत् । अतो **“नाधार्मिके वसेद् ग्रामे”** (म. स्मृ. ४-६७) इत्यतो भेदः ।निषादाच्छूद्रायां जातः पुल्कसः । वक्ष्यति च—
+
+जातो निषादाच्छूद्रायां जात्या भवति पुलकसः । (म. स्मृ. १०-१८) इति ।
+
+अवलिप्ता धनादिमदगर्विताः । अन्त्या अन्त्यजा रजकादयः । अन्त्यावसायिनो निषादस्त्रियां चाण्डालाजाताः । वक्ष्यति च—
+
+निषादस्त्री तु चण्डालात्पुत्रमन्त्यावसायिनम् । (म. स्मृ. १०-३९) ॥७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न संवशेद्** इति । पतितचाण्डालपुल्कसाल्पबुद्धिगर्हितान्त्यावसायिभिः ग्रामन्तरनिवासिभिर् अपि कार्त्यार्थम् एकप्रदेशे मुहूर्तम् अपि नासीतेति । “नाधर्मिके वसेद् ग्रामे” इत्यादिभ्यो भेदः । पतितादयश् च दशमैकादशाध्याये वक्ष्यन्ते ॥ ४.७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.

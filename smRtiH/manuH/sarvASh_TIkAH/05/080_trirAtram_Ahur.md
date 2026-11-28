@@ -66,11 +66,20 @@ nights, on the death of the maternal grand-father, the Teacher and the Vedic sch
 father-in-law, the friend, the *guru*, the *guru’s* wives,—the impurity lasts for one night along with the preceding and following days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचाय मृते सति शिष्यस्य त्रिरात्रमाशौचं वदन्ति । तत्पुत्रपत्न्योश्च मृतयोरहोरात्रमित्येषा शास्त्रमर्यादा ॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिरात्रम्** इति । **आचार्ये** प्रेते **त्रिरात्रम् आशौचम्** आहुस् तत्पुत्रपत्न्योश् चाहोरात्रम् इति शास्त्रमर्यादा ॥ ५.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 080	They declare that, when the teacher (akarya) has died, the impurity (lasts) three days; if the (teacher's) son or wife (is dead, it lasts) a day and a night; that is a settled (rule).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

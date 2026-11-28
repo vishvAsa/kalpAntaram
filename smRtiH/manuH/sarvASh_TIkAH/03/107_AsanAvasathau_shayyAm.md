@@ -62,11 +62,20 @@ retire to sleep on being permitted by him, rise before him, and follow him when 
 warm welcome and honour him with the offering of water and seat and also with washing of feet, shall offer food with respect and sweet-worded enquiries, and shall follow him when he leaves; by these he shall win his good will.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आसन पीठं चर्म वा, आवसथो विश्रामस्थानम्, शय्या खट्वादि, अनुव्रज्या गच्छतोऽनुगमनम्, उपासना परिचर्या । एतत्सर्वं बहुष्वतिथिषु युगपदुपस्थितेष्वितरेतरापेक्षयोत्कृष्टशप-कृष्टमध्यभं कुर्यान पुनः सर्वेषां समम् ॥१०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसनावसथाव्** इति । युगपदनेकातिथ्यवस्थाने सति ह्य् आसनस्थानविश्रामस्थानश्रद्धादि-शयनानुगमनपरिचरणं इतरेतरापेक्षयोत्कृष्टमध्यमेषु उत्कृष्टापकृष्टम् अमध्यमं कुर्यात् । अन्नं पुनस् तुल्यम् एव, तत्र विशेषाश्रवणात् ॥ ३.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

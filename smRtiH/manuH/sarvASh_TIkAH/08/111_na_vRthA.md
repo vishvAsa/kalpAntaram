@@ -41,6 +41,16 @@ This verse is quoted in *Smṛtitattva* (II, p. 229),—in
 punishment, an ordeal cannot take place. An ordeal shall be administered to litigants when there is reason for it, not otherwise. Therefore an intelligent, virtuous, righteous and wise king (or judge) should abstain from administering any one of the five ordeals, unless both parties consent to it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वल्पेऽपि कार्ये न वृथा शपथं पण्डितः कुर्यात् । वृथा शपथं कुर्वन्परलोक इह लोके नरकप्राप्तया अकीर्तिप्राप्त्या च नाशं प्राप्नोति ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । स्वल्पे ऽपि कार्ये विद्वान् मिथ्याशपथं न कुर्यात् । मिथ्याशपथं कुर्वन् इहलोकपरलोकयोर् अकीर्तिः, नरकावाप्त्या च नश्यति ॥ ८.१११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 इयं च मिथ्याशपथनिन्दा प्रत्यवायदर्शनेन प्रतिषिद्धवर्जनार्थापि सती सत्यशपथप्रशंसार्था सम्पद्यत इत्य् अविपर्ययः । सामर्थ्याद् अस्य मिथ्याशपथस्य सर्वत्र प्रत्यवायहेतुत्वे प्राप्ते; यत्र तन् नेष्यते प्रत्यवायहेतुत्वम् अस्य, तत्रेदं तद् अपवादार्थम् आरभ्यते ॥ ८.११२ ॥

@@ -56,11 +56,20 @@ the oilsman, the clothes-washer, the woman in her courses, and of the man who ha
 *Yājñavalkya* (1.163, 164).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आखेटकाद्यर्थं शुनः पोषकाणां, मद्यविक्रयिणां, वस्त्रधावकस्य, कुसुम्भादिना वस्त्ररागकृतः, निर्देयस्य, यस्य चोपपतिर्गृहे जारश्च यस्याज्ञानतो गृहे स्थितस्तस्य गेहे नाद्यात् ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+श्वक्रीडिमद्यविक्रयिवस्त्रधावनपटरागकृन्निष्ठुराणां जायाजारश् च यस्याविज्ञातो गृहे ऽस्ति तेषाम् अन्नं न भक्षयेत् ॥ ४.२१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

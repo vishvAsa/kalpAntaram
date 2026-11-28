@@ -59,6 +59,11 @@ This verse is quoted in *Vivādaratnākara* (p. 527), which adds that ‘*ekayon
 See Comparative notes for [Verse 9.145].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+समानजातीयासु भार्यासुएकेन भर्त्रा जातानामेव विभागविधिर्बोद्धव्यः। इदानीं नानाजातीयास स्त्रीषु बह्वीषूत्पन्नानां पुत्राणां विभागं शृणुत॥ १४८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 वक्ष्यमाणप्रकरणौपन्यासिकः श्लोकः ॥ ९.१४८ ॥

@@ -52,11 +52,19 @@ hereditarily connected, firm and pure.’
 king frightens his people; and inflicting light ones, he ceases to be feared. That king deserves praise who deals out punishment proportionate to the offence.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अर्थादिशौचयुक्तेन सत्यप्रतिज्ञेन यथाशास्त्रव्यवहारिणाशोभनसहायेन तत्त्वज्ञेन कर्तुंशक्यत इति पूर्वोक्तदोषप्रतिपक्षे गुणा अनेन श्लोकेनोक्ताः॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शुचिनेति** । अर्थादिशौचयुक्तेन जितेन्द्रियत्वात् सत्यप्रतिज्ञेन शास्त्रान्ततिक्रमवर्तिना सहायेन प्रज्ञावतेय् एवं पूर्वोक्तदोषप्रतिपक्षभूतगुणयुक्तेन राज्ञा सम्यक् दण्डः कर्तुं शक्यते ॥ ७.३१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **शुचिना** जितेन्द्रियेण, **सत्यसंधेन** प्रकरणाद् अलुब्धेन, **यथाशस्त्रानुसारिणा** अमूढेन, **सुसहायेन** नासहायेन मूर्खसहायेन वा, **धीमता** कृतशास्त्रप्रज्ञेन स्मृतिमता वा ॥ ७.३१ ॥
-
-_एवंविधश् च सन् राजा-_
 </details>
 
 <details><summary>Bühler</summary>

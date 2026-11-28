@@ -53,6 +53,16 @@ been ordained; being unable to maintain himself by that, he shall become a trade
 \[See under 121-122 below.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रः द्विजातिशुश्रूषां कर्तुमक्षमः क्षुदवसन्नपुत्रकलत्रःसूपकारादिकर्मभर्जीवेत्॥ १९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अशक्नुवन्न्** इति । शूद्रो द्विजातिशुश्रूषया अजीवन् क्षुदवसन्नात्मकलत्रः सूपकारकर्मभिर् जीवेत् ॥ १०.९९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतस्माच् च विज्ञायते शूद्रकर्मन्भ्यः कारुकमर्माण्य् अत्यन्तनिकृष्टानि, वर्नापशदानां वृत्तिः ॥ १०.९९ ॥

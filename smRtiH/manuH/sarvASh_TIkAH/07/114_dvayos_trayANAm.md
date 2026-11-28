@@ -35,6 +35,16 @@ Or ‘*Saṅgraha*’ may be taken as standing for the place for collecting of m
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 248), which supplies the following explanation:—In the midst of two hundred, or three hundred, of five hundred villages, he should establish an outpost, containing a detachment of infantry and others;—if we read ‘*rāṣṭrasya saṅgraham*’ (in place of ‘*rāṣṭrasya guptaye*) the meaning would be that he should establish a *saṅgraha*, *i.e*., a ‘guard’ consisting of a ‘*gulma*’ an outpost, and ‘*avasthita*’ supervised by honest officers.—The option regarding the extent of each charge is based upon the diversity in the strength of robbers and other mischief-makers in varying areas.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्वयार्ग्रामयोर्मध्ये त्रयाणां वा ग्रामाणां पञ्चानां वा ग्रामशतानां गुल्मं रक्षितृपुरुषसमूहं सत्यप्रधानपुरुषाधिष्ठितं राष्ट्रस्य संग्रहं रक्षास्थानं कुर्यात् । अस्य लाघवगौरवापेक्षश्चोक्तविकल्पः ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**द्वयोर्** इति । **द्वयोर्** ग्रामयोर् **मधे त्रयाणां पञ्चानां **बहूनां वा **ग्रामशतानां** देशकालाद्यपेक्षया आत्त(आप्त)पुरुष्**आधिष्ठितं** **राष्ट्रस्य सङ्ग्रहं** रक्षाभूतं स्थानकं **कुर्यात्** ग्रामदोषाद्यवबोधार्थं करादिग्रहणार्थं च ॥ ७.११४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 राजभाव्यसंग्रहार्थं रक्षार्थं च ॥ ७.११३–१४ ॥

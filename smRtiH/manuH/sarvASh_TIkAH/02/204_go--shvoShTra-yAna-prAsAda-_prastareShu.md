@@ -54,11 +54,26 @@ Teacher on a boat, or a stone-slab, or an elephant, or the roof of a house, or a
 Teacher;—except on a stone-slab, a boat, or a conveyance.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्येकमभिसम्बन्। बलीवर्ददाने, घोटकयुक्त याने, उट्युतयाने, रथका-
+
+ष्ठादौ, प्रासादोपरि, स्रस्तरे, कटे च तृणादिकृते वीरणादिनिर्मिते, शिलायां, फलके च दारु-घटितदीर्धासने, नौकायां च गुरुणा सह आसीत ॥२०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गोश्वोष्ट्रयानप्रासादप्रस्तरेष्व्** इति । **गोश्वोष्ट्रयाने **युक्ते सति **प्रासादे** धवलगृहे तृण**प्रस्तरे कटे च **नटादिकृते कुलाले **शिलाफलकनौषु च गुरुणा सहासीत** । 
+
+> शय्यासने ऽध्याचरिते श्रेयसा च समाचरेत् ।
+
+इति प्रतिषेधस्यायं प्रतिप्रसवः ॥ २.२०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 204	He may sit with his teacher in a carriage drawn by oxen, horses, or camels, on a terrace, on a bed of grass or leaves, on a mat, on a rock, on a wooden bench, or in a boat.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

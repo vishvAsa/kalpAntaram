@@ -43,6 +43,16 @@ incompatible with Vedic Study; nor from here and there; nor by recourse to what 
 greatest importance to Dharma.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रसज्यते यत्र पुरुषः स प्रसङ्गो गीतवादित्रादिस्तेनार्थान्नार्जयेत् । नापि शास्त्रनिषिद्धेन कर्मणाऽयाज्ययाजनादिना च । न च विद्यमानेषु धनेषु । न चाप्यविद्यमानेष्वपि प्रकारान्तरसम्भवे यतस्ततःपतितादिभ्योऽपि ॥१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न कल्पमानेष्व् अर्थेष्व्** इति । गीतादिना अर्थान् नार्जयेत् । नाप्य् अयाज्ययाजनादिना । न चावश्यकर्तव्यसमर्थेषु धनेषु सत्सु । नाप्य् आत्मकुटुम्बधर्मावसादे ऽपि उपायान्तरसम्भवे सति जातिकर्मदुष्टान् उपायान्तराभावे च आपद्य् असत्प्रतिग्रहं वक्ष्यति ॥ ४.१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 015	Whether he be rich or even in distress, let him not seek wealth through pursuits to which men cleave, nor by forbidden occupations, nor (let him accept presents) from any (giver whosoever he may be).

@@ -38,6 +38,16 @@ gives land and money to Brāhmaṇas, according to their deserts, gains imperish
 any Brāhmaṇa in his realm to perish from want, nor any other loading a pious life. He shall bestow landed property upon Brāhmaṇas. He shall present the Brāhmaṇas with gifts of every kind.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजा नानाप्रकारान्बहुदक्षिणानश्रमेधादियज्ञान्कुर्यात्। ब्राह्मणेभ्यश्च स्त्रीगृहशय्यादीन्भोगान्सुवर्णवस्त्रादीनि धनानि दद्यात्॥७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यजेतेति** । राजाश्वमेधपुण्डरीकादीन् नानाप्रकारान् पर्याप्तदक्षिणान् यज्ञान् कुर्यात् । ब्राह्मणेभ्यः स्वीयान् गृहशय्यादीन् **भोगान् धनानि च **सुवर्णादीनि **धर्मार्थं** **दद्याद्** इतीदम् अधिकं राज्ञो दानयागम् अवश्यकर्तव्यम् उच्यते ॥ ७.७९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 इमे अधिके यागदाने राज्ञो विधीयेते । नित्यवद् एवानयोर् अप्य् अकरणे प्रत्यवाय एव ॥ ७.७९ ॥

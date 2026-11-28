@@ -40,6 +40,20 @@ called because of the act of *destroying in secret* (‘*rahasi kṣaṇana*’)
 ‘*The manner of their birth*’—*i.e*., they are *viviparous, oviparous* and the like; going to be described in the following verses.—(42)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+येषां पुनर्यादृशंकर्म इह संसारे पूर्वाचार्यैः कथितम्। यथा—
+
+**"ओषध्यःफलपाकान्ता बहुपुष्पफलोपगाः।” ( म. स्मृ. १- ४६ )**
+
+ब्राह्मणादीनां चाध्ययनादिकर्म, तत्तथव वो युष्माकं वक्ष्यामि जन्मादिकमयोगं च॥४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येषाम्** इति । **येषां **भूतानां यथारूपं **कर्म तत् तहैवेह** शास्त्रे **कीर्तितम् **एव । युष्माकं यतो नामनिर्देशाद् एव, देवताद्योतनात् द्युतिस्थानाद् वा देवताः, यक्षणाद् यक्षाः इत्य् एवमादिकर्मप्रतिपत्तिः । इदानीं येन कर्मसम्बन्धेन जायन्ते तं वक्ष्यामीति _केचित्_ । अथ वा **येषां यादृशं कर्म इह **संसारे पूर्वैर् अपि कथितं यथा ओषध्यः फलपाकान्ता इत्य् एवमादि **तत् तथा अभिधास्यामि **यथा **क्रमयोगं चेति** ॥ १.४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.

@@ -29,6 +29,16 @@ and continuously recite it. He shall recite the *Saṃhitā* of his Veda twelve 
 Sāmaveda, or thrice recites one of these three Vedas, and fasts,—that is the most efficient means of purification.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋक्संहितां मन्त्रब्राह्मणात्मिकां नतु मन्त्रमात्रात्मिकाम् अनन्तरम् "वेदे त्रिवृति" इति प्रत्यवमर्शात्। यजुषांवा मन्त्रब्राह्मणानां संहितां साम्नां वा ब्राह्मणोपनिषत्संहितां वारत्रयमभ्यस्य सर्वपापैः प्रमुक्तो भवति॥२६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋक्संहिताम्** इति । ऋग्वेदसंहितां यजुर्वेदसंहितां वा साम्नां वा सारण्यकाधीतसामसंहितानां सामसामार्चिकं त्रीन् वारान् संयमवान् आवर्त्य सर्वपापान्य् अपहन्ति ॥ ११.२६१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अस्येयं स्तुतिः प्रवृत्त्यर्था ॥ ११.२५९ ॥

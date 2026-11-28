@@ -55,11 +55,22 @@ long life.’
 not touch any one in his vitals.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रथमं धनार्थमुद्यमे कृते तत्र धनानामसम्पत्तिभिर्मन्दभाग्योऽहमिति नात्मानमवजानी-
+
+यात् । किन्तु मरणपर्यन्तं श्रीसिद्ध्यर्थमुद्यमं कुर्यात् । न त्विमां दुर्लभां बुध्येत् ॥१३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नात्मानम्** इति । प्रथमोत्पन्नाभिर् असम्पद्धिः **आत्मानं **नावजानीयात् । अपि तु **आ मृत्योः **श्र्यर्थम् उद्यमं कुर्यात्, **न दुर्लभा** श्रीर् इति बुध्येत ॥ ४.१३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -67,6 +67,16 @@ shall obtain their permission and scatter the food on the ground and pour water 
 completed?), he shall gather all the food that has been used and having taken out of it just what may be needed for the *Sthālīpāka* and *Piṇḍa* offerings, the rest he shall hand over.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तृप्तान्ब्राह्मणान्बुध्वा स्वदितमिति पृष्ट्वा तेषामाचमनं कारयेत् । कृताचमनांश्च भो इति सम्बोध्याभिरम्यतामिति ब्रूयात् । अभित इति पाठे अभित उभयत इह वा स्वगृहे वास्यतामित्यर्थः ॥२५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पृष्ट्वा स्वदितम् इत्य् एवम्** इति । तान् ब्राह्मणान् तृप्तान् वृद्ध्या **स्वदितम् इत्य् एवं पृष्ट्वा** तत उपस्पर्शयेत् । कृताचमनांश् च इह वा स्वगृहे वास्यताम् इत्य् एवम् अनुज्ञातव्य्ः ॥ ३.२५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'

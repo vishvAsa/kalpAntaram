@@ -62,6 +62,11 @@ In this case, the epithet ‘*fired by the heat of wealth*’ (*i*. *e*., bribed
 punishment ordained for the judge who takes bribes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये व्यवहारावेक्षणादिषु कार्येषु राज्ञा नियुक्ता उत्कोचधनतेजसा विकार भजन्तः स्वाम्यादीनां कार्यं नाशयेयुस्तान्गृहीतसर्वस्वान् राजा कारयेत्॥ २३१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धनोष्मणा कस्यचिद् व्यवहारतः साहाय्यं कुर्वन्ति । ते निःस्वाः कार्याः । अथ वा अधिकृताः सन्तो धनं गृहीत्वा ये ऽन्यथा कार्याणि कुर्युः ते निःस्वाः कार्या इति ॥ ९.२३१ ॥

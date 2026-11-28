@@ -33,11 +33,19 @@ This verse is quoted in *Vivādaratnākara* (p. 416);—in *Parāśaramādhava* 
 by force, they should be employed in such work as will not leave them time for thinking of other men;—thus would they be guarded against evil;—in *Madanapārijāta* (p. 192);—in *Nṛsiṃhaprasāda* (Vyavahāra, 32a);—and in *Vīramitrodaya* (Vyavahāra, 158b), which explains ‘*prasahya*’ as ‘by force, by keeping cooped up’; it adds that what is meant is that even though by forcible detention you can guard her body from misbehaviour, yet that cannot guard against the uṅcleanliness of her mind.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+काश्चद्वलात्संरोधादिनाऽपि स्नियो रक्षितुं न शक्तः, तत्रापि व्यभिचारदर्शनात् । किन्त्वे तैवेक्ष्या रक्षणोपायप्रयोगैस्ता रक्षयितुं समर्थाः ॥ १० ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं रक्षणियम् उपदिष्टे कथं रक्ष्या इत्य् अत आह **न कश्चिद्** इति । न कश्चिद् बलाद् अन्त[नि]रोधादिना स्त्रियो रक्षितुं (पारयति?) अनयोर् मनोव्यभिचारत्वे ऽरक्ष्यत्वाद् वक्ष्यमाणै रक्षणोपययोगैस् तु शक्यास् ताः परिरक्षितुम् ॥ ९.१० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पूर्वापरविरोधः शास्त्रे न न्याय्यो भिन्नप्रकरणे ऽपि, किं पुनर् एकप्रकरणे । यत एव[ं न कश्चिद्] योषितः शक्तः प्रसह्य परिरक्षितुम् इतीदं वक्ष्यमाणोपय(?)स्तुत्यर्थम् । एवं च पूर्वं स्त्रीसंरक्षणोपदेशो न विरुध्यते ॥ ९.१० ॥
-
-_के पुनस् तद्रक्षणोपायाः । यतस् तान् दर्शयति ।_
 </details>
 
 <details><summary>Bühler</summary>

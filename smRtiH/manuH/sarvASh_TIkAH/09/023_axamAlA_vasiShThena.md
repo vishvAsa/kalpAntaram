@@ -29,9 +29,14 @@ Thus it is that even low-born women, belonging to the lower castes, came to be h
 This verse is quoted in *Vivādaratnākara* (p. 416), which reads ‘*śārṅgī*’, with Medhātithi.
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_यस्माच् च ।_
+अक्षमालाख्या निकृष्टयोनिजा वसिष्टेन परिणीता, तथा चटका मन्दपालाख्येन ऋषिणा सङ्गता पूज्यतां गता ॥ २३ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत दृष्टान्तम् आह **अक्षमालेति** । **शार्ङ्गेति **च । अक्षमालाख्या चण्डाली परिणीता वसिष्ठेन चाटविका शार्ङ्गी च मन्दपालाख्येन ऊढा सती पूयतां प्राप्ता ॥ ९.२३ ॥
 </details>
 
 <details><summary>Bühler</summary>

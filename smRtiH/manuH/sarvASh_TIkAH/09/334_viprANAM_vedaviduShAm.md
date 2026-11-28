@@ -32,6 +32,11 @@ This verse is quoted in *Madanapārijāta* (p. 230);—in *Parāśaramādhava* (
 See Comparative notes for [Verse 9.333].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रस्य पुनवंदविदां गृहस्थानां स्वधर्मानुष्ठानेन यशोयुक्तानां ब्राह्मणानां या परिचर्या सैव प्रकृष्टस्वर्गादिश्रेयोहेतुर्धर्मः॥ ३३४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 शूद्रो विशेषतः इत्थंभूतगुणवतां ब्राह्मणानां [शुश्रूषया निःश्रेयसं लभते] ॥ ९.३३४ ॥

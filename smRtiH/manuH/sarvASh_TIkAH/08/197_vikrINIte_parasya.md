@@ -49,6 +49,16 @@ deposit, stolen property, a pledge, or what has been borrowed for use;—when an
 sealed or open, or anything stolen from another,—if any of these is sold by a man, it is a case of *sale without ownership*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्वामी यः स्वामिना चाननुमतः परकीयं द्रव्यं विक्रीणीते, वस्तुतश्चौरमचौरमात्मानं मन्यमानं तं साक्षित्वं न कारयेत् । न कुत्रचिदपि प्रमाणीकुर्यादित्यर्थः ॥१९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विक्रीणीत** इति । यो ऽस्वामी स्वामिनाननुज्ञातः परकीयं द्रव्यं विक्रीणीते तम् अचौरम् आत्मानं श्रुतचौरं प्राड्विवाकः साक्षिकं न कारयेद् इति साक्षिकर्मनिषेधद्वारेण तस्यापकारित्वप्रतिपादनं क्रियान्तरेष्व् अप्य् अयोग्यत्वप्रतिपादनार्थम् ॥ ८.१९७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 न तं नयेत साक्ष्यम् इत्य् अस्य प्रदर्शनार्थत्वात् सर्वाप्रामाण्याद् एव तं निवर्तयति ॥ ८.१९६ ॥

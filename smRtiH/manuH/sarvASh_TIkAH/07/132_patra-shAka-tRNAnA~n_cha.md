@@ -41,6 +41,11 @@ perfumes, flowers, fruits, roots, liquids and condiments, wood, leaves, skins, e
 medicinal herbs, liquids and condiments, flowers, roots, fruits, leaves, vegetables, grasses, skins, bamboo-articles, vessels, and all articles of stone,—a sixth part should be taken.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्रुशब्दोऽत्र वृक्षवाचकः ।वृक्षादीनां सप्तदशानामश्ममयान्तानां षष्ठो भगो लाभाद् ग्रहीतव्यः ॥१३१॥१३२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथोक्तानां द्रुमादीनां लाभात् षड्भागादानम् ॥ ७.१३१–३२ ॥

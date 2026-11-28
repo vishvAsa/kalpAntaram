@@ -44,6 +44,16 @@ be performed; for striking him, the *Atikṛcchra*; and for fetching blood from 
 blood, the *Kṛcchrātikṛcchra*; for inflicting such hurt as keeps the blood within the skin, the *Kṛcchra* should be performed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य हननेच्छया दण्डाद्युद्यमने कृच्छ्रं कुर्यात्। दण्डादिप्रहारेदत्तेऽतिकृच्छ्रंवक्ष्यमाणं चरेत्। रुधिरमुत्पाद्य कृच्छ्रातिकृच्छ्रौकुर्वीत॥२०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अवगूर्येति** । ब्राह्मणस्य दण्डाद्य् उद्यम्य प्राजापत्यं कृच्छ्रं कुर्यात् । दण्डादिप्रहारं दत्वातिकृच्छ्रं वक्ष्यमाणं चरेत् । रुधिरम् उत्पाद्य कृच्छ्रातिकृच्छ्रौ कुर्यात् ॥ ११.२०७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सर्वो ब्राह्मणादिवर्णः । "ब्राह्मणस्य रुजःकृत्यम्" इति चैतज् जातिभ्रंशकरमध उपदिष्टम् । यतः तदीयेन प्रायश्चित्तेन कृच्छ्रातिकृच्छ्रौ विकल्पितौ स्याताम् ॥ ११.२०७ ॥

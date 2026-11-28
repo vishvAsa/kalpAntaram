@@ -65,11 +65,21 @@ accomplishment of the Śrāddha:—Those that are devoted to the Vedic duties, t
 1172).—\[Reproduce Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अमावस्याश्राद्धस्य प्रकृतत्वात्तद्विषयोऽयमपराह्णकालः, **“प्रातर्वृद्धिनिमित्तकम्”**इत्यादिना वृद्धिश्राद्धादौ स्मृत्यन्तरे प्रातःकालादिविधानात् । विष्टराद्यर्था दर्भाः, गोमयादिना
+श्राद्धदेशसंशोधनं, तिलाश्च विकिरणाद्यर्थाः, सृष्टिरकार्पण्येनान्नादिविसर्गः, सृष्टिरन्नादेश्व संस्कारविशेषः, पङ्क्तिपावनादयश्च ब्राह्मणाः, एताः श्राद्धे सम्पत्तय इत्यभिधानादङ्गान्तरापेक्षं प्रकृष्टत्वमेषां बोधितम् ॥२५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपराह्णस् तथा दर्भा** इति । **अपराह्णः** विष्टरार्थं **दर्भाः वास्तुसम्पादनं **सुधागोमयादिना गृहसंशोधनम्, **तिलाश्** चान्तर्भूविकरणाद्यर्थाः, **सृष्टिः **अकार्पण्येनान्नविसर्गः । **मृष्टिः** अन्नसम्स्कारः, **अग्र्या ब्राह्मणाः** इत्य् एताः **श्राद्धे सम्पदः** इत्य् अङ्गान्तरेभ्यः एषां प्रशस्यत्वज्ञापनार्थम् एतत् ॥ ३.२५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

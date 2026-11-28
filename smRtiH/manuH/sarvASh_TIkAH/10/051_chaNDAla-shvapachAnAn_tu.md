@@ -49,6 +49,11 @@ road-crossings, crematoriums, hills and trees; and shall wear iron-ornaments.’
 sentenced to death. Caṇḍālas should live out of the town and their clothes should consist of the mantles of the deceased.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**चण्डालश्वपचानां** इति । **वासांसीति** । चण्डालश्वपाकानां ग्रामाद् बहिर् निवासः स्यात् । पात्रबहिष्कृताश् च कर्तव्याः यतः तद् उक्तम्, लोहादिपात्रं संस्कारेणापि न शुध्यति । धनं चैषां श्वखरं नान्यत्, वासांसि च शववस्त्राणि । खण्डशरावादिषु च भोजनम् । आयसं च अलङ्कारणम् । सर्वदा नैकत्रावस्थानम् ॥ १०.५१–५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	But the dwellings of Kandalas and Svapakas shall be outside the village, they must be made Apapatras, and their wealth (shall be) dogs and donkeys.

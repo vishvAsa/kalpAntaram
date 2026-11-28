@@ -31,6 +31,16 @@ This verse is quoted in *Parāśaramādhava*, (Vyavahāra, p. 82);—and in
 See Comparative notes for [Verse 8.118].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां लोभादीनां मध्यादन्यतममस्मिन्निमित्ते सति यो मिथ्या साक्ष्यं कथ्येत्तस्य दण्डविशेषाणि क्रमशो वदिष्यामि ॥११९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषाम्** इति । एषां लोभादीनाम् अन्यतमस्मिन् निमित्ते सति यो ऽसत्यं साक्ष्यं ब्रूयात् तस्य दण्डविशेषात् क्रमेण वक्ष्यामि ॥ ८.११९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	I will propound in (due) order the particular punishments for him who gives false evidence from any one of these motives.

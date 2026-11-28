@@ -15,11 +15,8 @@ The seizing of desirable property is productive of displeasure, and the giving o
 
 आदेयस्याप्रतिपादनं नवस्य राज्ञो ऽन्यस्य **वाप्रियकरम्** अप्रीतेः कारणं हेतुः । **दानं च** प्रतिदानं **प्रियकारकम्** एतद् उभयं बहुश एवं प्रसिद्धम् अपि क्रियमाणम् अभिमतानाम् अर्थानां सुखावहं भवेद् अन्यथा च दुःखयतीत्य् अर्थः[^२९१] । **कालयुक्तं** कालोपपन्नं **प्रशस्यते** । यस्माद् अपि क्वचित् काले किंचन प्रीतिं जनयति तदापि नाल्पम् अशोभनं वा प्रीतिम् उत्पादयति । तस्मात् कालम् अपेक्ष्य दानादाने कार्ये इति ॥ ७.२०४ ॥
 
-
 [^२९१]:
      M G place after kālopapannam the phrase: kriyamāṇam abhimatānām arthānāṃ sukhāvahaṃ bhaved anyathā ca duḥkhayatīty arthaḥ.
-
-_यत्किंचिद् अतिक्रान्तं वक्ष्यमाणं किंचन तत् ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -34,6 +31,16 @@ All that has gone before and what is going to be described below,—all this is 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Vīramitrodaya*, (Rājanīti, p. 410), which adds the following notes:—‘*Abhīpsitānām*,’ ‘required by, the king selected from among the family of the late king, and by his ministers,’—‘*arthānām*,’ ‘of things,’—‘*ādānam*,’ ‘the taking away,’—which is ‘*apriyakaram*,’—‘disagreeable,’—and ‘*dānam*’, ‘giving away’—which is ‘*priyakārakam*’ to them;—in as much as it is only if he were fully equipped with the necessary elephants, horses and wealth that the new king could hope to be safe against other kings, the presentation of such things at the time of installation is ‘*kāle yuktam*,’ ‘highly opportune,’—and hence ‘*praśasyate*,’ ‘is commended.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यद्यप्यभिलषितानां द्रव्याणां ग्रहणमप्रियकरं, दानं च प्रियकारकमित्युत्सर्गस्तथापि समयविशेषे दानमादानं च प्रशस्यते । तस्मात्तस्मिन्काल एवं पूजयेत् ॥२०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आदानम्** इति । ये अभिलषितानाम् अर्थानाम् एव हरणम् अप्रियकरं दानं च तेषां प्रियजनकं इत्य् उत्सर्गं तथा कालवशेन दानम् अपि वा प्रशस्यते तस्मात् तस्मिन् काले एनं पूजयेत् ॥ ७.२०४ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -11,19 +11,14 @@ Having initiated the pupil, the Teacher should, first of all, teach him cleanlin
 
 **शिक्षयेद्** व्युत्पादयेच् **छौचम् आदितः** । **आदित** इति वचनेनाचारादिभ्यः प्राग् उपदेशः शौचस्य नेष्यते[^२३९] । किं तर्हि, अनियतक्रमकाः परस्परम् एते । केवलम् उपनयनानन्तरं व्रतादेशनं वक्ष्यति । आदिष्टवेदव्रतस्य च वेदाध्ययनम् । अतो ऽग्नीन्धनसंध्योपासनयोः समन्त्रकत्वाद् अकृते व्रतादेशे मन्त्रोच्चारणम् अप्राप्तं विधीयते । शौचं चानियतकालम्, तद् अवश्यं[^२४०] तदहर् एवोपदेष्टव्यम् । एवम् आचारो ऽपि । अत इदम् **आदित** इति वचनम् आदरार्थं न प्रथमोपदेश्यतां शौचस्य विधत्ते । शौचम् "एका लिङ्गे" इत्याद्याचमनान्तम् (म्ध् ५.१३६–१४५) । **आचारो** गुर्वादीनां प्रत्युत्थानासनदानाभिवादनादिः[^२४१] । **अग्निकार्यम्** अग्न्याधानकार्यं समित्समिन्धनम् । संध्यायाम् आदित्यस्योपासनं तत्स्वरूपभावनं **संध्याया उपासनम्** । एवं वा "पूर्वां संध्याम्" (य्ध् १.१०१) इत्यादि । एष व्रतधर्मः ॥ २.६९ ॥
 
-
 [^२४१]:
      M G: -vādanādibhiḥ; J: -vādanādi (mine is a conjectural emendation)
-
 
 [^२४०]:
      G 1st ed.: tadavaśiṣṭaṃ
 
-
 [^२३९]:
      M G 1st ed.: śaucasyeṣyate
-
-_अध्ययनधर्मान् इदानीम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -67,11 +62,20 @@ sacrament, for one who is seeking after knowledge; for that purpose one should s
 Bathing, Living on alms, Attending on the Teacher till death, and in his absence, on his son or on a fellow-student.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरुः शिष्यमुपनीय प्रथमम् "एका लिङ्गे गुदे तिस्रः" ( म० स्मृ० ५-१३६ ) इत्यादि वक्ष्यमाणं शौचं, स्नानाचमनाद्याचारम्, अग्नौ सायम्प्रातः समिद्धोमानुष्ठानं समन्त्रकसंध्योपासनविधिं च शिक्षयेत् ॥६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपनीयेति** । **गुरुः **शिष्योपनयनं क्र्त्वा **आदौ **प्रथमत एव **शौचं शिक्षयेत्** । अशुद्धस्य सर्वत्रानधिकारात् । तत् **आचारं **प्रत्युत्थानादि, **अग्निकार्यं च **सायम्प्रातरग्निप्रक्षेपादि सान्ध्यकर्मानुष्ठानं च शिक्षयेत् ॥ २.६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

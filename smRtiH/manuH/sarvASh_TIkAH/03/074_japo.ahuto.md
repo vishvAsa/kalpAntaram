@@ -41,11 +41,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392);—and in
 See Comparative notes for [Verse 3.73].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अहुतशब्देन ब्रह्मयज्ञाख्यो जप उच्यते । हुतशब्देन देवयज्ञाख्यो होमः । प्रहुतशब्देन भूतयज्ञाख्यो भूतबलिः । ब्राह्मयहुतशब्देन मनुष्ययज्ञाख्या ब्राह्मण श्रेष्टस्यार्चा \। प्राशितश- ब्देन पितृयज्ञाख्यं नित्यश्राद्धम् ॥७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जप** इति । **अहुत**शब्देन **जपो** ब्रह्मयज्ञाख्यः स्मृतः । **हुतश्** च **होमो** देवयज्ञः **प्रहुतश्** च **भौतिको बलिः **भूतयज्ञः **ब्राह्मं हुतं द्विजाग्र्यस्य **ब्राह्मणस्य्**आर्चा **अतिथियज्ञः **प्राशितं **च **पितृतर्पणम्** पितृयज्ञः । यदि कथञ्चित् सकलमहायज्ञमहानुष्ठानासम्पत्तिस् तदा ॥ ३.७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 074	Ahuta (not offered in the fire) is the muttering (of Vedic texts), Huta the burnt oblation (offered to the gods), Prahuta (offered by scattering it on the ground) the Bali offering given to the Bhutas, Brahmya-huta (offered in the digestive fire of Brahmanas), the respectful reception of Brahmana (guests), and Prasita (eaten) the (daily oblation to the manes, called) Tarpana.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

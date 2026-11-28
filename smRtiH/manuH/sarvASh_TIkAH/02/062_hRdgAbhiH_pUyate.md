@@ -83,11 +83,20 @@ teeth*.’
 *Pracetas*—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणो हृदयगामिनीभिः, क्षत्रियः कण्ठगामिनीभिः, वैश्योऽन्तरास्यप्रविष्टाभिः कण्ठमप्राप्ताभिरपि, शूद्रो जिद्दौष्ठान्सेनापि स्पृष्टाभिरद्भिः पूतो भवति । अन्तत इति तृतीयार्थे तसिः ॥६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किम्प्रमाणा आपः आचामेद् इत्य् आह **हृद्गाभिर्** इति । हृदयप्राप्ताभिर् अद्भिर् **विप्रः **शुध्यति । कण्ठप्राप्ताभिः **क्षत्रियः, वैश्यः प्राशिताभिः **तालुगताभिः, “हृत्कण्ठतालुगाभिः” इति याज्ञवल्क्यस्मरणात् । **शुद्रो ऽन्ततः,** आचमनस्य प्रकृतत्वात् जिह्वौष्ठास्यान्ते स्पृष्टाभिः॥ २.६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 062	A Brahmana is purified by water that reaches his heart, a Kshatriya by water reaching his throat, a Vaisya by water taken into his mouth, (and) a Sudra by water touched with the extremity (of his lips).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

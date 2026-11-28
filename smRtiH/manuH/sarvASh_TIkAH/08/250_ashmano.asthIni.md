@@ -61,6 +61,11 @@ It is quoted in *Mitākṣarā* (2.151);—and in *Vivādacintāmaṇi* (p. 93).
 See Comparative notes for [Verse 8.245].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अश्मन** इति । **यानीति** । पाषाणास्थिगोवालतुषभस्मखर्परिकाशुष्कगोमयपक्वेष्टकाङ्गार-दृषत्कणिका सिकता अन्यान्य् अप्य् एवंविधानि खदिरसारिकाकालाञ्जनादीन् तानि ग्रामसन्धिषु प्रच्छन्नानि स्थापयेत् ॥ ८.२५०–२५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 250	Stones, bones, cow's hair, chaff, ashes, potsherds, dry cowdung, bricks, cinders, pebbles, and sand,

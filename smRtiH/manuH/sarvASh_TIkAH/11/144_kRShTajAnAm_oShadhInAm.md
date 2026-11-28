@@ -28,6 +28,16 @@ cultivation, or such as rise spontaneously in the woods,—he must wait on a cow
 *Yājñavalkya* (3.276).—(See under 142.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कर्षणपूर्वकजातानामोषधीनां षष्टिकादीनां वने च स्वयमुत्पन्नानां नीवारादीनां निःप्रयोजनच्छेदने क्षीराहारः। एष्वेकमहो गोरनुगमनं कुर्यात्॥ १४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृष्टजानाम्** इति । कर्षणपूर्वं जातानाम् औषधीनां षष्टिकादीनां वने च स्वयम् उत्पन्नानां नीवारादीनां निष्प्रयोजने छेदे क्षीराहारः सन्न् एकम् अहो गोर् अनुगमनं कुर्यात् ॥ ११.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	If a man destroys for no good purpose plants produced by cultivation, or such as spontaneously spring up in the forest, he shall attend a cow during one day, subsisting on milk alone.

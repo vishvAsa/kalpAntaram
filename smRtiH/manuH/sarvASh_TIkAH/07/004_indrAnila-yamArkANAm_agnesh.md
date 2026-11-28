@@ -99,6 +99,16 @@ physician,—in a place where these five are nor present, one should not take up
 Indra, Vāyu, Yama, Surya (Sūrya), Agni, Varuṇa, Chandra, and Kuvera; he is the lord of both the moveable and immoveable worlds.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इन्द्रवातयमसूर्याग्निवरुणचन्द्रकुबेराणां मात्रा अंशान्सारभूतानाकृष्य राजानमसृजत्॥४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+कथम् असृजद् इत्य् आह **इन्द्रानिलयमार्काणाम्** इति । इन्द्रवायुयमादित्याग्निवरुणचन्द्र-वैश्रवणानां सम्बन्धिनो ऽंशान् सारभूतान् निष्कृष्य राजानम् असृजत् ॥ ७.४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 "बालो ऽपि नावमन्तव्यः" (म्ध् ७.८) इत्य् अस्य विधेर् वक्ष्यमाणस्येमे दश श्लोकाः शेषतया विज्ञेयाः । एवम् इन्रादीनां स्वविषये येन चेष्टाः करोति तेन तेषां मात्राभ्यो निर्मित इत्य् उच्यते ॥ ७.४ ॥

@@ -27,11 +27,15 @@ title = "031 यज्ञाय जग्धिर्"
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds the following notes:—‘*yajñāya*’ means ‘for purposes of sacrifice’,—‘*yagdhi*’ means ‘eating’,—‘*atonyathā*’ means ‘elsewhere than at a sacrifice’;—and in *Hemādri* (Śrāddha, p. 582).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यज्ञायेति **। यज्ञसम्पत्त्यर्थं तदङ्गभूतं यन् मांसभक्षणम् एतद् देवोचितम् अनुष्ठानम् । अत एव यत्नतः कार्यम् । एतद्व्यतिरिक्तप्रकारेण पुनर् मांसभक्षणप्रवृत्तिः रक्षःसमुचितम् आचरणं मन्वादिभिर् उच्यते । तस्माद् एतन् न कार्यम् इति प्रोक्षितभक्षणनियमाद् अनुवादार्थः ॥ ५.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	'The consumption of meat (is befitting) for sacrifices,' that is declared to be a rule made by the gods; but to persist (in using it) on other (occasions) is said to be a proceeding worthy of Rakshasas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

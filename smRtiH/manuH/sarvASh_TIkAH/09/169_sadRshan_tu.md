@@ -62,6 +62,11 @@ the appointer independently of others.’
 *Arthaśāstra* (p. 41).—‘The appointed son is one who is made a son.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यं पुनः समानजातीयपित्रोः पारलौकिकश्राद्धादिकरणाकरणाभ्यां गुणदोषौ भवत इत्येवमादिज्ञं, पुत्रगुणैश्च मातापित्रोराराधनादियुक्तं पुत्रं कुर्यास्स कृत्रिमाख्यः पुत्रो वाच्यः॥ १६९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कृत्रिमो ऽपि सवर्ण एव पितृमातृविहीनश् च ॥ ९.१६९ ॥

@@ -49,11 +49,15 @@ This verse is quoted in Hemādri—Pariśeṣa—Kāla, p. 657;—and in the Sm�
 See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अन्य** इति । कृतादिषु युगेषु युगानुरूपेण धर्मवैलक्षण्यं मनुष्याणां भवति ॥ १.८५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 085	One set of duties (is prescribed) for men in the Krita age, different ones in the Treta and in the Dvapara, and (again) another (set) in the Kali, in a proportion as (those) ages decrease in length.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

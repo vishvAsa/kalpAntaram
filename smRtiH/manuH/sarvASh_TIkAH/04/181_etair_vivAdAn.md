@@ -34,11 +34,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 573).
 See Comparative notes for [Verse 4.179].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतैर्ऋत्विादिभिः सह विवादान्परित्यज्याज्ञातपापैः प्रमुच्यते । तथैतैर्विवादस्पेक्षितेरिमान्वक्ष्यमाणा-न्सर्वलोकान्गृहस्थो जयति ॥१८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतैर् **इति । एभिः सह **विवादान्** परित्यज्यासौ अतिकृतप्रतनुभिः (?) **सर्वपापैः प्रमुच्यते **। तथैतैर् विवादैः न्यक्कृतैः **इमान् **वक्ष्यमानान्** सर्वान् लोकान् **गृहस्थः स्वीकरोति ॥ ४.१८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

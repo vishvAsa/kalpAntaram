@@ -32,11 +32,20 @@ This verse deprecates begging.
 This verse is quoted in *Madanapārijāta* (p. 14);—and in *Aparārka* (p. 224).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वं पर प्रार्थनाऽऽदिसाध्यं दुःखहेतुः । सर्वमात्माधीनं सुखहेतुः । एतत्सुखदुःखयोः कारण जानीयात् ॥१६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **सर्वम्** इति । यत् परप्रार्थनादिसंसाध्यं तत् सर्वं दुःखहेतु । यच् चात्मैकसाधनं तत् सर्वं सुखनिमित्तम् इत्य् एतत् सङ्क्षेपतः **सुखदुःखलक्षणं **जानीयात् ॥ ४.१६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 160	Everything that depends on others (gives) pain, everything that depends on oneself (gives) pleasure; know that this is the short definition of pleasure and pain.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

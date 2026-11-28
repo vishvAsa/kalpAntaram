@@ -47,11 +47,15 @@ fire-portents, there shall be no reading in the village.’
 meteor-shower, or earthquake, or fire-calamity till the same time next day;—during running, while the accused or the outcast is looking on, and during a wonderful phenomenon, it is unfit for study during the time.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**चौरैर्** इति । **चौरैर् उपप्लुते ग्रामे **अग्निदाहकृते च भये दिव्यान्तरिक्षभौमेषु चाश्वर्यरूपेषु उत्पातेषु रुधिरवर्षणादिषु **आकालिकम् अनध्यायं** जानीयात् ॥ ४.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	When the village has been beset by robbers, and when an alarm has been raised by fire, let him know that (the Veda-study must be) interrupted until the same hour (on the next day), and on (the occurrence of) all portents.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

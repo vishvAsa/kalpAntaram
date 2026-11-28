@@ -36,11 +36,24 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 155), which explains ‘*r
 See Comparative notes for [Verse 4.19].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ शास्त्रस्य पारं गत्वा तु भूयो भूयस्तदभ्यसेत् ।**
+
+**तच्छास्त्रं शबलं कुर्यान्न चाधीत्य त्यजेत्पुनः ॥२॥ \]**
+
+यस्माद्यथा यथा पुरुषः शास्त्रं सम्यगभ्यस्यति तथा तथा विशेषेण जानाति । शास्त्रान्तरविषयमपि चास्य विज्ञानं रोचत उज्ज्वलं भवति । दीप्त्यर्थत्वाद्रुचेरभिलाषार्थत्वाभावात् “रुच्यर्थानां प्रीयमाणः” (पा. सू. १ ।४ ।३३) इति न सम्प्रदानसंज्ञा ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । यस्मात् यावत् पुरुषः **शास्त्रं **सम्यक् विविनक्ति तावत् तत् तद् विशेषेण **जानाति **शास्त्रान्तरविषयम् अपि चास्य **विज्ञानम्** उज्ज्वलं भवति ॥ ४.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

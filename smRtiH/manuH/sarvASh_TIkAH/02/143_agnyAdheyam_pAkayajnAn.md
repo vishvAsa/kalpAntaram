@@ -50,11 +50,20 @@ him he should know as the *Ṛtvik*.’
 purposes of the obligatory rites, (3) the *Viśesavṛta, i.e*., one who is appointed at the subsequent sacrifices.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहवनीयाद्यन्युत्पादकं कर्माग्न्याथेयं, अष्टकादीन्पाकयज्ञान्, अग्निष्टोमादीन्यज्ञान्कृतवरणो यस्य करोति स तस्यत्विगिह शास्त्रेऽभिधीयते । ब्रह्मचारिधर्मेष्वनुपयुक्तमप्यृत्वि ग्लक्षणमाचार्याविहत्विजोऽपि मान्यत्वं दर्शयितुं प्रसङ्गादुक्तम् ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्न्याधेयम्** इति । आधानदर्शपूर्णमासाग्निष्टोमादिसोमयागान् यस्य कृतशास्त्रीयाचरणः सन् **यः करोति स तस्येह **शास्त्रे** ऋत्विग् उच्यते ** । तस्यापि मान्यत्वाद् इहोपदेशः, तद् उक्तं श्वशुरादि ऋत्विजो गुरून् इति ॥ १.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

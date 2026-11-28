@@ -55,6 +55,20 @@ Then again, it has already been explained that the term ‘friend’ in the pres
 See Comparative notes for [Verse 3.139].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मनुष्यः सङ्गतानि मित्रभावं शास्त्रानभिज्ञतया श्राद्धेन कुरुते श्राद्धमेव मित्रलाभहेतुत्वान्मित्रं यस्य स श्राद्धमित्रो द्विजापसदः स स्वर्गलोकाच्च्यवते, तं न प्राप्नोतीत्यर्थः । श्राद्धस्यापि स्वर्गफलत्वमाह याज्ञवल्क्यः—
+
+**आयुः प्रजां धनं विद्यां स्वर्गं मोक्षं सुखानि च ।**
+
+**प्रयच्छन्ति तथा राज्यं प्रीता नृृणां पितामहाः” ( या. रूट. १ /२७७ )॥१४०॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । “श्राद्धदानेनानेन सह मैत्री मे भविष्यति” इति एवं यो मनुष्यः शास्त्रानभिज्ञतया **श्राद्धेन **मित्रभावं कुरुते स मित्रहेतुत्वात् श्राद्धं मित्रम् अस्येति **श्राद्धमित्रो** द्विजापसदः कर्मान्तरार्जितेनापि स्वर्लोके न सम्बध्यत इति ॥ ३.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.

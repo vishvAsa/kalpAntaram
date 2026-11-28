@@ -42,11 +42,30 @@ welcomed the Brāhmaṇas that have come and have rinsed their mouth, he, with c
 character, and excellent conduct, who may have arrived at the same time and have washed their feet and rinsed their mouths,—these he shall seat, as if they were his forefathers, with faces turned towards the north.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तत्र च देशे आसनेषु पृथक्पृथग्विन्यस्तेषु सकुशेषु प्रागामन्त्रितब्राह्मणान्सम्यक्कृतस्नानाचमना-नुपवेशयेत् । अत्र देवब्राह्मणासने कुशद्वयम्, पित्रासनेषु च प्रत्येकं दक्षिणाग्रएकः कुशदेयः । तदाह देवलः—
+
+**"येचात्र विश्वेदेवानां विप्राः पूर्वनिमन्त्रिताः ।**
+
+**प्राङ्मुखान्यासनान्येषां द्विदर्भोपहितानि च ॥**
+
+**दक्षिणामुखयुक्तानि पितॄणामासनानि च ।**
+
+**दक्षिणाग्रैकदर्भाणि प्रोक्षितानि तिलोदकैः ॥”**
+
+दक्षिणामुखयुक्तानि दक्षिणाग्राणि । अग्रं काण्डमूलापेक्षया ॥२०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसनेष्व्** इति । **आसनेषु **संसर्भेषु **पृथक् पृथक्** विन्यस्तेषु **सम्यक् **कृतस्नानाचमनान् **तान् **पूर्वं निमन्त्रितान् **उपवेशयेत् **॥ ३.२०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

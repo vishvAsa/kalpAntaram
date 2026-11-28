@@ -12,7 +12,6 @@ Even though reduced (in circumstances), the King shall not take what ought not t
 
 करदण्डशुल्कादि शास्त्रविहितं वर्जयित्वान्यत् पौरधनम् **अनादेयं** राज्ञः[^५२८] क्षीणकोशस्यापि । यत् तु शास्त्रन्यायागतं रक्षानिर्वेशधनं तत् **सूक्ष्मं** कार्षापणमात्रम् **अपि न** त्यजेत् । तद् उक्तम्-
 
-
 [^५२८]:
      M G: rājñā
 
@@ -46,9 +45,14 @@ manner, either lines or taxes, or tolls or share of agricultural produce, he inc
 rules the entire earth, even though his strength may not be great.’
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_येन । _
+क्षीणधनोऽपि राजा नाग्राह्यमर्थं गृह्णीयात् \। समृद्धोऽपि स्वल्पमपि ग्राह्यं धनं न त्यजेत् ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनादेयम्** इति । क्षीणकोशो ऽपि राजा अग्राह्यं न गृह्णीयात् । समृद्धो ऽपि अल्पम् अपि ग्राह्यम् अर्थं न परित्यजेत् ॥ ८.१७० ॥
 </details>
 
 <details><summary>Bühler</summary>

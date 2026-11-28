@@ -56,6 +56,11 @@ road-crossings.’
 *Pāraskara* (2.11.16).—\[See above.\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाधीयीतेति** । “श्मश्ने सर्वतः शम्याप्रासान् नाधीयीत” इत्य् आपस्तम्बस्मरणात् तथाविधश्मशानसमीपगोष्ठयोश् च स्त्रीसम्प्रयोगप्रावृतं च **वासः **प्रावृत्य श्राद्धार्थं (चा) कृतान्नाद्यर्थं प्रतिगृह्य **नाधीयीत** ॥ ४.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	Let him not study near a burial-ground, nor near a village, nor in a cow-pen, nor dressed in a garment which he wore during conjugal intercourse, nor after receiving a present at a funeral sacrifice.

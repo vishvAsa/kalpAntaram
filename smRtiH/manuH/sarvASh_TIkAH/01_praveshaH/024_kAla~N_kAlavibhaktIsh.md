@@ -41,11 +41,20 @@ This verse is quoted in the *Gadādharapaddhati* — *Kālasāra*, p. 5, as desc
 reads ‘*vibhaktim*’ for ‘*vibhaktiḥ*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अत्र ससर्जेत्युत्तरश्लोकवर्तिनी क्रिया सम्बध्यते। आदित्यादिक्रियाप्रचयरूपं कालं काल-विभक्तीर्मासर्त्वयनाद्याःनक्षत्राणि कृत्तिकादीनि ग्रहान्सूर्यादीन् सरितो नदीः सागरान्समुद्रान् शैलान्पर्वतान् समानि समस्थानानि विषमाणि उच्चनीचरूपाणि॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कालम्** इति । आदित्यादिगतिप्रतिबन्धप्रवृत्तिमान् **कालः **। **कालविभक्तयो** मासाद्याः । **नक्षत्राणि** अश्वयुक्प्रभृतीनि । **ग्रहाः** अर्कादयः । नदीसमुद्रपर्वतसमविषमस्थानानि च । अत्र ससर्जेत्य् वक्ष्यमाणक्रिया ॥ १.२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

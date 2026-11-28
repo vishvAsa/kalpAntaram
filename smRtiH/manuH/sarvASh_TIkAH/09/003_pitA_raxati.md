@@ -110,6 +110,16 @@ families, become ruined by independence; that is why Prajāpati has ordained tha
 widow is without a son, the members of her husband’s family shall be her masters; they shall take it upon themselves to protect and support her. If the husband's family has perished, and not a single member of it is left, her father’s family shall be her master. When there is no one left in either of the two families, the King becomes her lord and protector; it is for him to protect her and punish her if she deviates from the right path.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पिता विवाहात्पूर्वंस्त्रियं रक्षेत्पश्चाभर्तातदभावे पुत्राः ।तस्मान्न स्त्री कस्यांचिदप्यवस्थायां स्वातन्त्र्यं भजेत् । भत रक्षति यौवने इत्यादि प्रायिकम्, अभर्तृपुत्रायाः संनिहितायाः पित्रादिभिरपि रक्षणात् ॥ ३ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पितेति** । प्राग् विवाहात् पिता स्त्रियं रक्षति । तद् अनु भर्ता, तदभावे पुत्राः, अत एभिर् न कदाचित् स्वतन्त्राः कार्याः । भर्तृपुत्रयौवनवार्धक्यग्रहणं व्यवस्थार्थम् अपि त्व् औचित्यात् प्राप्तानुवादो ऽयम् ॥ ९.३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति [न] राजनि भर्तर्य् एव वासाम् अस्वातन्त्र्यम्, किं तर्हि यथावयः पित्रादिषु । तत्संरक्षणपरे च वाक्ये न पित्रादयो वयोविभागाश्रयेण हित्रादिस्त्रीणां रक्षितारो नियम्यन्ते । एवं च सति सर्वदा सर्वेषां तद्रक्षणोपदेशो ऽयं सामर्थ्याद् विज्ञेयः । सर्वत्र लड् द्रष्टव्यो विध्यर्थे रक्षेद् इत्य् एवं छान्दसत्वाविशेषात् । स्मृतेर् युक्तं तल्लक्षणम् अत्र । यतश् चैतद् एवम् अतः ॥ ९.३ ॥

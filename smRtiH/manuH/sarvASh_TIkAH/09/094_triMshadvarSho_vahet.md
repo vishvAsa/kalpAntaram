@@ -62,6 +62,11 @@ years old, before she has attained puberty; and one twenty-one years old, a girl
 eighteen years of age shall marry her; a maiden eight years old is called *Gaurī*, conducive to richness of sons and grandsons; and she shall be married by a man twenty-five years old; a girl nine years old is called *Rohiṇī* conducive to richness of wealth; a wise man shall wed her for the accomplishment of all his desires; a girl over ten years age, until she has her courses, is called *Gāndhārī*; and she shall be married by a man desirous of living long.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+त्रिशद्वषः पुमान् द्वादशवर्षवयस्कां मनाहारिणींकन्यामुद्वहेत्।चतुर्विंशतिवर्षो वाऽष्टवर्षीगार्हस्थ्यधर्मऽवसाद गच्छति त्वरावान् \। एतच्च योग्यकालप्रदर्शनपरं न तु । नियमार्थं, प्रायेणैतावता कालेन गृहीतवेदो भवति, त्रिभागवयस्का च कन्या । वोढुर्यृनॊयोग्या, इतिगृहीतवेदश्चॊपकुर्वाणको गृहस्थाश्रमं प्रति न विलम्बेतेति सत्वर इत्यस्यार्थः ॥ ९४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 गुरुणानुमत् इयता कालेन यवीयसीम् उद्वहेत् कन्याम् ॥ ९.९४ ॥

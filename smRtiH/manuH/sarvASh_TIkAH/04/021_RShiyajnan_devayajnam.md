@@ -54,11 +54,20 @@ five great *Sattras*—the sacrifice to Gods, the sacrifice to Pitṛs, the sacr
 perform the five sacrifices.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वाध्यायादीन्पञ्चयज्ञान्यथाशक्ति न त्यजेत् । तृतीयाध्यायविहितानामपि पचयज्ञानामिह निर्देश उत्तरत्र विशेषविधानार्थः स्नातकव्रतत्वबोधनार्थश्च ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋषियज्ञम्** इति । स्वाध्यायादीन् **यथाशक्ति **न परित्यजेद् इति उक्तपञ्चयज्ञाभिधानं वक्ष्यमाणेन्दिर्यसम्पाद्यत्वकथनार्थम् ॥ ४.२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 021	Let him never, if he is able (to perform them), neglect the sacrifices to the sages, to the gods, to the Bhutas, to men, and to the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

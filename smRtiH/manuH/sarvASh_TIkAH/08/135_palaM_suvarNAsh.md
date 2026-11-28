@@ -55,6 +55,11 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
 See Comparative notes for [Verse 8.131].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चत्वारः सुवर्णा पलं स्यात् । दश पलानि धरणम् । कृष्णलद्वयं समं कृत्वा तुलया धृर्तरूप्यमाषको बोद्धव्यः ॥१३५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Four suvarnas are one pala, and ten palas one dharana; two krishnalas (of silver), weighed together, must be considered one mashaka of silver.

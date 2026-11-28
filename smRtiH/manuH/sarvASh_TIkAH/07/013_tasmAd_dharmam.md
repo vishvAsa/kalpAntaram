@@ -59,6 +59,16 @@ This verse is quoted also in *Rājanītiratnākara* (p. 42b).
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यतः सर्वतेजोमयो नृपतिस्तस्मादपेक्षितेषु यमिष्टं शास्त्रानुष्टेयंशास्त्राविरुद्धं निश्चित्य व्यवस्थापयत्यनपेक्षितेषु चानिष्टं, तं नियमं नातिक्रामेत्॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवं **तस्माद्** **धर्मम् इष्टेषु वर्तयेत् तं नराधिप** इति । **तस्मान् **नरेश्वर आत्मवल्लभेषु शास्त्रविरुद्धायां दृष्टार्थायां व्यवस्थाम् इष्टानाम् एषां वर्तितव्यम् इति निश्चिनुयात् । एवम् अप्रियेष्व् अपि यच् छास्त्राविरुद्धं बहिष्करणीयादींश् चैतां व्यवस्थां नातिक्रमेत् ॥ ७.१३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 न हि राजा वर्णाश्रम-धर्म-प्रवृत्तौ हेतुः,  
@@ -70,8 +80,6 @@ See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/man
 यतः प्रकरणाद् राज-स्तुति-परम् एतत् प्रत्यवगन्तव्यम् ।  
 लौकिक-धर्मापेक्षया वेद-विज्ञेयं शास्त्रम् ।  
 समाप्ता राजोत्पत्तिः ॥ ७.१३ ॥
-
-_अधुना तत्सहकारी दण्डो व्याक्रियते-_
 </details>
 
 <details><summary>Bühler</summary>

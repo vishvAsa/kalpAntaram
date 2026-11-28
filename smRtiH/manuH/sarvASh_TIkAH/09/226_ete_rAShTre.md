@@ -31,6 +31,11 @@ This verse is quoted in *Vivādaratnākara* (p. 315), which explains ‘*praccha
 See Comparative notes for [Verse 9.225].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते कितवादयो गुढचौरा राष्ट्रे वसन्ता नित्यं वञ्चनात्मकक्रिया सज्जनान्पीडयन्ति २२३
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यस्माद् एते राजधान्याम् अवस्थिताः महतो ऽनर्थाय राज्ञः । अतश् चैषां राष्ट्राद् अपि निर्वासनम् उच्यते ॥ ९.२२६ ॥

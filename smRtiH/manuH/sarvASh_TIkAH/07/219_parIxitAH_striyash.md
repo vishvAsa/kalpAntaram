@@ -40,6 +40,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161);—and in
 harem, whose honesty has been commended by the virtuous, and who are skilful in guard-duty, should guard him, with weapons ready for use.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रियश्चगूढचारद्वारेण कृतपरीक्षा गुप्तायुधग्रहणविषलिप्ताभरणधारणशङ्कयानिरूपितवेषाभरणा अनन्यमनसः चामरस्नानपानाद्युदकधूपनैरेनंराजानं परिवरेयुः ॥२१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परीक्षिता** इति । **स्त्रियश् च** दास्यो धर्मार्थकामोभयविषये चारप्रयोगादिद्वारेण कृतपरीक्षाः गूडायुधग्रहणविषलिप्ताभरणधारणाशङ्कया संशुद्धवेषालङ्करणाः अनन्यमनस्काश् चामरस्नानाद्युदकधूपैर् एनं राजानं परिचरेयुः ॥ ७.२१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 219	Well-tried females whose toilet and ornaments have been examined, shall attentively serve him with fans, water, and perfumes.

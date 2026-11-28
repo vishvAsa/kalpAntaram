@@ -60,11 +60,20 @@ wipe his mouth; he shall never wipe it either with the finger-tips or with the b
 (See also the texts under 2.60, above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देहस्य शुद्धिमिच्छन्प्रथमं वारत्रयमपो भक्षयेत् । ततो द्विर्मुखं परिमृज्यात् । स्त्रीशूद्रश्चैकवारमाचमनार्थमुदकं भक्षयेत् ॥१३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **त्रिर्** इति । शरीरशुद्धिम् इच्छन् त्रीन् वारान् प्रथमम् अप आचामेत् ततो द्वौ वारौ ओष्ठदेशे मुखं परिमृज्यात् । स्त्रीशूद्रं पुनर् एकवारं आचमनार्थम् अपो भक्षयेत् ॥ ५.१३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 139	Let him who desires bodily purity first sip water three times, and then twice wipe his mouth; but a woman and a Sudra (shall perform each act) once (only).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

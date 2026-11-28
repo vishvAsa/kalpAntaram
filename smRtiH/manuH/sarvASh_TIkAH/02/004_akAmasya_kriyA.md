@@ -11,15 +11,11 @@ No action is ever found in this world to be done by a man entirely without desir
 
 पूर्वेण शास्त्रीये प्रवृत्तिनिवृत्ती संकल्पाधीने व्याख्याते । अनेन लौकिकेषु कर्मसु तदधीनतोच्यत इति विशेषः । **नेह** लोके **कर्हिचित्** कदाचिद् अपि जाग्रदवस्थायां क्रिया[^१४] काचिद्[^१५] अनुष्ठेयत्वेनानिच्छतः संभवति । यत् किंचिल् लौकिकं वैदिकं वा कुरुते कर्म विहितं प्रतिषिद्धं च तत् सर्वं **कामस्य चेष्टितम्** । ॥ २.४ ॥
 
-
 [^१५]:
      M G 1st ed.: kiṃcid
 
-
 [^१४]:
      M G 1st ed. omit kriyā
-
-_हेतुत्वाच् चेष्टितं कामस्यैवेत्य् उक्तम् । तद् इदम् अतिसंकटम्, कामात्मता न प्रशस्ता, न चानया विना किंचिद् अनुष्ठानम् अस्ति । अत्र प्रतिविधत्ते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,11 +35,15 @@ Thus the position becomes extremely difficult: ‘It is not right to be absorbed
 actions, one should perform that which he wishes.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+अत्रैव लौकिकं दृष्टान्तम् आह – **अकामस्येति** । बुद्धिपूर्वकारिभाव्या या **काचित् क्रिया** दृष्टार्था सा अनिच्छतो **न** कदाचिद् **दृश्यते** । तस्माद् **यत् किञ्चित् कुरुते **कर्म **तत्** सर्वं **कामस्य चेष्टितम्** इच्छाकार्यम् इत्य् अर्थः ॥ २.४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

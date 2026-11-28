@@ -127,11 +127,20 @@ perforin the Kṛcchra. But for the sake of the Brāhmaṇas, he may eat as much
 *Visṇu* (Do.).—(Same as Manu 36.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतद् द्विजातीनां भक्ष्याभक्ष्यमुक्तम् । अत ऊर्ध्वं मांसस्य भक्षणे वर्जने च विधानं निःशेषं वक्ष्यामि ॥२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+द्विजातीनाम् एतत् **भक्ष्याभक्ष्यं** निःशेषेणोक्तम्, अत ऊर्ध्वं** मांसस्य भक्षणे वर्जने **च विधिः** विधानं **वक्ष्यामि** ॥ ५.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	Thus has the food, allowed and forbidden to twice-born men, been fully described; I will now propound the rules for eating and avoiding meat.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

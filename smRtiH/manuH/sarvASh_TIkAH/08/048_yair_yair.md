@@ -47,6 +47,16 @@ This verse is quoted in *Vivādaratnākara* (p. 67), which explains ‘*Saṅg�
 admitted the loan should be made to pay by such methods as are conciliatory and so forth; also by such means as force, confinement in the house and the rest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यैर्वक्ष्यमाणैरुपायैः संप्रयुक्तमर्थमुत्तमर्णो लभते तैस्तैरुपायैर्वशीकृत्य तमर्थं दापयेत ॥४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यैर् यैर्** इति । उत्तमर्णो **यैर् यैर् उपायैः** स्वधनं लभते **तैस् तैर् उपायैः** अधमर्णं निगृह्य तम् अर्थं **दापयेत्** ॥ ८.४८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रतिपन्नार्थम् अधमर्णं सान्त्वनादिभिर् उपायैर् उत्तमर्णचोदितो दापयेत् । नास्य तन्त्रोत्सादनं कुर्याद् इत्य् एवम् अर्थम् उपायनिर्देशः । धर्मः प्रथमः । एवं चोभयोर् अप्य् अविरोधाद् राज्ञानुग्रहो ऽनुष्ठितो भवति । ते च सामान्यत उक्ताः दापनोपाया विशेषतो निर्दिश्यन्ते ॥ ८.४८ ॥

@@ -12,11 +12,8 @@ Having departed from his house, fully equipped with the sacred things, he shall 
 
 **पवित्रैर्** मन्त्रजपैर् दर्भकमण्डलुकृष्णाजिनैर् **उपचितो** युक्तः । अथ वा पावनैः कृच्छ्रैः । **मुनिर्** अकिंचिद्वादी । **समुपोढेषु** उपहृतेषु[^१६] केनचित् **कामेषु** स्पृहणीयेषु मृष्टभोजनादिषु यदृच्छातो गीतादिशब्देषु संनिहितेषु पुत्रादिषु वा समुपस्थितेषु **निरपेक्षो** भवेत् । नैतांश् चिरं स्निग्धेन चक्षुषा पश्येन् नाकर्णयेन् न तैः सहासीत ॥ ६.४१ ॥
 
-
 [^१६]:
      M G 1st ed. omit: upahṛteṣu
-
-_यत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -52,6 +49,18 @@ shall go forth alone.’
 
 *Arthaśāstra* (p. 30).—‘For the Renunciate—keeping senses under control,
 desisting from activities, having no possessions, abandoning of attachment, alms-begging in several places, living in the forest, internal and external purity.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+गृहान्निर्गतः पवित्रैदण्डकमण्डल्वादिभिर्युक्तो मुनिर्मैनी समुपोढेषु कामेषु केनचित्सम्यक्समीपं प्रापितेषु स्वाद्वन्नादिषु विगतस्पृहः परिव्रजेत्।[^87]मेधातिथिस्तु “पवित्रैर्मन्त्रजपैरथवा पावनैः कृच्छ्रैर्युक्तः" इति व्याचष्टे॥४२॥
+
+[^87]: पवित्रेर्मन्त्रजपैदर्भकमण्डलुकृष्णाजिनैरुपचितो युक्तः । अथवा पावनैः कृच्छ्रैः।
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अगाराद्** इति । गृहान् निर्गतः पवित्रैर् दर्भाजिनदण्डकमण्डल्वादिभिर् युक्ता संयतवाक् केनचिद् वोपहृतेषु स्वाद्वन्नादिष्व् अपगतस्पृहः व्रजेत् ॥ ६.४१ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

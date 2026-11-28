@@ -48,6 +48,18 @@ proclaiming his deed; whether the King kills him with it, or dismisses him unhur
 over a club to the King, proclaiming his deed; whether killed, or let off, by the King, he becomes pure, if he does not report it to the King, he shall he purified by performing the penance laid down for the drinker of wine;—or he must give away to the Brāhmaṇa his own weight in gold.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**अपहृत्य सुवर्णं तु ब्राह्मणस्य यतः स्वयम्।**
+
+इति शातातपस्मरणाद्ब्राह्मणसुवर्णेचौरोब्राह्मणा राजानं गत्वा ब्राह्मणसुवर्णापहारं स्त्रीयंकर्म कथयन्मम निग्रहं करोत्विति ब्रूयात्। ब्राह्मणप्रहणं मनुष्यमात्रप्रदर्शनार्थम्। "प्रायश्चित्तीयते, नरः" (म.स्मृ. ११-४४) इति प्रकृतत्वत्क्षत्रियादीनां च प्रायश्चित्तान्तरानभिधानात्॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुवर्णस्तेयकृद्** इति । “ब्राह्मणसुवर्णहारी तु” इति याज्ञवल्क्यस्मरणाद् ब्राह्मणसुवर्णहारी राजानं गत्वा सुवर्णापहारं कर्म प्रकाशीकुर्वन् निग्रहं कुर्व् इति ब्रूयात् ॥ ११.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	A Brahmana who has stolen the gold (of a Brahmana) shall go to the king and, confessing his deed, say, 'Lord, punish me!'

@@ -162,6 +162,11 @@ teaching, officiating at sacrifices, and receiving of gifts, he shall live by th
 the Kṣatriya; in the absence of this latter also, the occupation of the Vaiśya.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अबाधितस्थानेषु पथि वा क्षेत्रेषु वाप्रतिहृतावकाशेषु **“यत्र यत्रौषधयो विद्यन्ते तत्र तत्राङ्गुलिभ्यामेकैकं कणं समुच्चयित्वा”** इति बौधायनदर्शनात् एकैकधान्यादिगुडकोच्चयनमुञ्छः। मञ्जर्यात्मकानेकधान्योच्चयनं शिलः, उञ्छश्च शिलश्चेत्येकवद्भावः । तत्सत्यसमानफलत्वादृतमित्युच्यते । अयाचितोपस्थितममृतमिव सुखहेतुत्वादमृतम् । प्रार्थिते पुनर्भैक्षं भिक्षासमूहरूपं मरणसमपीडाजननान्मृतम् । एतच्च साग्नेर्गृहस्थस्यभैक्षमपक्वतण्डुलादिरूपं न तु सिद्धान्नं, पराग्निपक्वेन स्वाग्नौ होमाभावात् । कर्षणं च भूमिगतप्रचुरप्राणिमरणनिमित्तत्वाद्बहुदुःखफलकं प्रकर्षेण मृतमिव प्रमृतम् ॥५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 005	By Rita shall be understood the gleaning of corn; by Amrita, what is given unasked; by Mrita, food obtained by begging and agriculture is declared to be Pramrita.

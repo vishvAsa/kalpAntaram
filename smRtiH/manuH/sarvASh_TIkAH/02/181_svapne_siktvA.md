@@ -53,11 +53,20 @@ semen during a dream shall bathe, look at the Sun and repeat the Gāyatrī a hun
 *Viṣṇu* (28.53)—(reproduces Manu’s words).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मचारी स्वप्नादावनिच्छया रेतः सिक्त्वा कृतस्नानश्चन्दनाद्यनुलेपनपुष्पधूपादिभिः सूर्यमभ्यर्च्य “पुनर्मामैत्विन्द्रियम्" इत्येतामृचं वारत्रयं पठेत् । इदमन्त्र प्रायश्चित्तम् ॥१८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वप्न** इति । (यत्) **द्विजो ब्रह्मचारी **अबुद्धिपूर्वं **स्व्प्ने **रेत उत्सृज्य **स्नात्वार्कं **पुष्पादिना **अर्जयित्वा **त्रीन् वारान् “**पुनर् माम् एत्व् इन्द्रियं”** इत्य् एताम् **ऋचं जपेत्** । अस्य प्रायश्चित्तस्य प्रकरणोत्कर्षो रेतःसंरक्षणनियमान्तरेभ्यो ब्रह्मचारिणो गुरुत्वप्रख्यापनार्थः ॥ २.१८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

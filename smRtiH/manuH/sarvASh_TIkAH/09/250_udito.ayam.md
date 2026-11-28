@@ -23,6 +23,11 @@ This verse sums up the entire section on *Law-suits*.—(250)
 This verse is quoted in *Vivādaratnākara* (p. 618).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अष्टादशसु ऋणादानादिषु व्यवहारपदेषु परस्परं विवदमानयोरर्थिप्रत्यर्थिनोः कार्यनिर्णयोऽयं विस्तरेणोक्तः॥ २५०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सर्वव्यवहारोपसंहरार्थश्लोकः ॥ ९.२५० ॥

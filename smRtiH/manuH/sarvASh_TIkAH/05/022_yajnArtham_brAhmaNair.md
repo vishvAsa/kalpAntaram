@@ -52,11 +52,20 @@ terrible hell for as many years as there are hairs on the body of the animal.’
 sake; if he cooks it for the sake of gods and Brāhmaṇas, he incurs no sin,’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादिभिर्या गार्थं प्रशस्ताः शास्त्रविहिता मृगपक्षिणो वव्याः ।भृत्यानां वावश्यभरणीयानां वृद्ध-मातापित्रादीनां संवर्धनार्थम् ।यस्मादगस्त्यो मुनिः पूर्व तथा कृतवान् ।प्रकृतिरूपोऽयमनुवादः ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यागार्थं ब्राह्मणादिभिः कृतैः **प्रशस्ता **ये चोदिताः श्रुतौ **मृगपक्षिणः **ते **वध्या** इति श्रुत्युक्तानुवादः । **भृत्यानां चैवेत्य्** एतद् विधित्सितम् । स्वाम्याद् आपनार्थं (?) **भृत्यानाम्** अवश्यभरणीयानां वृद्धमात्रादीनां स्थित्यर्थं च वध्याः । **अगस्त्यो **यस्मात् पूर्वम् एवं कृतवान् इति चोपसंहारात् ॥ ५.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	Beasts and birds recommended (for consumption) may be slain by Brahmanas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

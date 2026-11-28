@@ -84,6 +84,16 @@ disappointed, his Pitṛs do not partake of anything in that house for fifteen y
 day after day, the Vedas and the subsidiaries, if he honours not his guest, all study becomes futile. He who honours not the guest arrived after the Viśvadeva offering, immediately becomes a Caṇḍāla. If a man turns out a guest from his house, arrived at the right time and place, he becomes an outcast at that very moment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लूनकेदारशेषधान्यानि शिलास्तानप्युच्चिन्वतो वृत्तिसंयमान्वितस्य, त्रेता, आवसथ्यः, सभ्यश्चेति पञ्चाग्नयः । सभ्यो नामाग्निः शीतापनोदाद्यर्थं यस्तत्र प्रगीयते । पञ्चस्त्रनिषु होमं कुर्वाणस्यापि सर्ववृत्तिसङ्कोचेन पञ्चाग्निहोमार्जितपुण्यमनर्चितोऽतिथिर्वसन्गृह्णाति । अनया च निन्दयाऽतिथ्यर्चनस्य नित्यताऽवगम्यते ॥१००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शिलान् अप्य् उञ्छतो नित्यम्** इति । अतिदौर्गत्या वृत्तिसंयमातिशयार्थितया शिलान् क्षेत्रफलदोषान् अप्य् उच्चिन्वतः सभ्यावसथ्याभ्यां सह त्रेतया पञ्चस्व् अप्य् अग्निषु होमं वा कुर्वाणस्य सर्ववृत्तिसङ्कोचाग्निहोमार्जितं पुण्यं अनर्चितो ऽतिथिर् वसन् स्वीकरोति । अदानदोषकथनेन नियमान् आह सभ्यो नामाग्निः महासाधन इति । सीताद्यपनुत्त्यर्थं यस् तत्र तत्र विहीयते ॥ ३.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.

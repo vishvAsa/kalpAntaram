@@ -24,6 +24,16 @@ This verse is indicative of what is going to be expounded.
 By the King and his ‘servants’—*i.e*., his assistants—whatever has to be done for the protection of his people, that is now going to be described.—(36).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वक्ष्यमाणावतारार्थोऽयं श्लोकः। तेन राज्ञा प्रजारक्षणं कुर्वता सामात्येन यद्यत्कर्तव्यं तत्तत्समग्रं युष्माकमभिधास्यामि॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेनेति** । तेन राज्ञा प्रजां पालयता अमात्यसहितेन यत् कर्तव्यं तत् कृत्स्नं क्रमेण युष्माकम् अहं कथयिष्यामि ॥ ७.३६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 श्रोतॄणाम् अवधानार्थः श्लोकः ॥ ७.३६ ॥

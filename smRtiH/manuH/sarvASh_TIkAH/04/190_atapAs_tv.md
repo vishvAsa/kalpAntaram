@@ -45,11 +45,20 @@ This verse is quoted in *Hemādri* (Dāna, p. 60).
 learning and austerities; if he does accept it, he drags down himself as well as the giver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्तपोविद्याशून्यः प्रतिग्रहेच्छुः ब्राह्मणो भवति स प्रतिग्रहाविनाभावाद् बुद्धिस्थेन तेन इति परामृष्टेनैव दात्रैवानर्हप्रतिग्रहादानपापयुक्तेन सह नरके मज्जति । यथा पाषाणमयेनोडुपेनाम्भस्तरस्तेनैव सहाम्भसिमनो भवति ॥१९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अतपास् त्व् अनधीयान** इति । यस् तपःस्वाध्यायशून्यः प्रतिग्रहे ऽभिलाषुको भवति तदात्रैवानर्हप्रतिग्रहदानपापयुक्तेन सह पाषाणमयेन नावादिन तरन् उदक इव नरके ऽन्तर्धीयते । दाता ह्य् अत्र प्रतिग्रहसम्बन्धाद् अज्ञौ दातृप्रतीच्छकाव् इति वक्ष्यमाणदर्शनात् तेनेति परामृश्यते ॥ ४.१९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

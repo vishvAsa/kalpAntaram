@@ -28,11 +28,20 @@ This is mere praise, not an injunction; hence we have the word ‘*deserves*’.
 This verse is quoted in the *Aparārka* (p. 282) as indicating that the learned Brāhmaṇa is the owner of all things.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्किंचिज्जगद्वर्ति धनं तद् ब्राह्मणस्य स्वमिति स्तुत्योच्यते। स्वमिव स्वं न तु स्वमेव, ब्राह्मणस्यापि मनुनाऽस्ते यस्य वक्ष्यमाणत्वात्। तस्माद् ब्रह्ममुखोद्भवत्वेनाभिजनेन श्रेष्ठतया सर्वं ब्राह्मणोऽर्हति सर्वग्रहणयोग्यो भवत्येव। वै अवधारणे॥१००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वं स्वम्** इति । वक्ष्यमाणस्तेयादिशास्त्रविरोधात् अस्य च श्रुतिप्रधानत्वात् **सर्वं** जगद्गतं द्रव्यजातं **ब्राह्मणस्वम्** इव स्तुत्योच्यते । तत्र स्वयम् एव यस्मात् **श्रैष्ठेनाभिजनेन** मुखोद्भवत्वेन **सर्वं ब्राह्मणो **योग्यो भवति स्वीकर्तुं तस्मात् तस्येयं सर्वं स्वम् एव ॥ १.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -26,6 +26,16 @@ title = "083 सत्येन पूयते"
 See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्सत्येन पूर्वार्जितादवि पापात्साक्षी मुच्यते, धर्मश्चास्य सत्याभिधानेन वृध्दिमतस्मात्सर्ववर्णविषये साक्षिभिः सत्यं वक्तव्यम् ॥८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सत्येनेति** । यस्मात् सत्येनान्यस्माद् अपि पापकर्मणः साक्षी मुच्यते । धर्मश् चास्य सत्याभिधानेन वृद्धिम् एति । तस्मात् सर्ववर्णविषये साक्षिभिः सत्यं वक्तव्यम् ॥ ८.८३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 येन —

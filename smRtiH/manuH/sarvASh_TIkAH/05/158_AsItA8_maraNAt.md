@@ -40,11 +40,20 @@ This verse is quoted in *Mitākṣarā*, (on, 2.127) as forbidding the widow hav
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्षमायुक्ता नियमवती एकभर्तृकाणां यो धर्मः प्रकृष्टतमस्तमिच्छन्ती मधुमांसमैथुनवर्जनात्मकब्रह्मचर्यशालिनी मरणपर्यन्तं तिष्ठेत् । अपुत्रापि पुत्रार्थं न परपुरुषं सेवेत ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं च **आसीतेति** । एकभर्तृकाणां यो **धर्मस् तं** सर्वधर्मोत्कृष्टम् अभिलषन्ती **आ मरणात्** क्षुद्दुःखं सहमानान्यमनस्का पुंसः प्रयोगं वर्जयेत् । न चापत्यार्थम् अपि प्रीतिमयेनान्तरेण तिष्ठेत् ॥ ५.१५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 158	Until death let her be patient (of hardships), self-controlled, and chaste, and strive (to fulfil) that most excellent duty which (is prescribed) for wives who have one husband only.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

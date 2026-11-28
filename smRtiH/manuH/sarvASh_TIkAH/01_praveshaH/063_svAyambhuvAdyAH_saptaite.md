@@ -23,11 +23,30 @@ Others explain the term ‘*antara*’ as denoting a particular time-period, jus
 But this is not right; it is only when the term ‘*antara*’ occurs along with the term ‘Manu’ (*i.e*., in the compound ‘*Manvantara*’) that it becomes expressive of a time-period,—*i.e*., the time-period known ns ‘*Manvantara*,’—and not when it stands by itself (as it does in the text).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वायंभुवप्रमुखाः सप्तामी मनवः स्वीयस्वीयाधिकारकाले इदं स्थावरजङ्गममुत्पाद्य पालितवन्तः॥६३॥
+
+इदानीमुक्तमन्वन्तरसृष्टिप्रलयादिकालपरिमाणपरिज्ञानायाह—
+
+**\[ कालप्रमाणं वक्ष्यामि यथावत्तन्निबोधत। \]**
+
+**निमेषा दश चाष्टौ च काष्ठा त्रिंशत्तु ताः कला।**
+
+**त्रिंशत्कला मुहूर्तः स्यादहोरात्रं तु तावतः॥६४॥**
+
+अक्षिपक्ष्मणोः स्वाभाविकस्य कम्पस्य उन्मेषस्य सहकारी निमेषः। तेऽष्टादश काष्ठ नाम कालः।त्रिंशच्चकाष्ठाः कलासंज्ञकः कालः। त्रिंशत्कलाः मुहूर्ताख्यः कालः। ताव त्रिंशन्मुहुर्तान् अहोरात्रं कालं विद्यात्। तावत इति द्वितीया- निर्देशाद्विद्यादित्यध्याहारः॥६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वायम्भुवाद् या** इति । अनन्तरोक्ताः षट् स्वायम्भुवश् च एवं **सप्त** । **एते **स्वायम्भुवप्रमुखाः **मनवो **बहुतेजसः । आत्मीयात्मीयाधिकारकाले **इदं** जङ्गमस्थावरम् **उत्पाद्य आपुः **प्रजाः पालितवन्तः ॥ १.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

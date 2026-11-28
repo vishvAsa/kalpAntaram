@@ -47,6 +47,16 @@ effect that the non-investigation of cases as well as the wrong investigation of
 See Comparative notes for [Verse 8.127].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजा दण्डानर्हान्धनलोभादिना दण्डयन्, दण्डार्होश्चानुराधादिनोत्सृजन्महतीमख्यातिं प्राप्नोति, नरकं च व्रजति ॥१२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अदण्ड्यान्** इति । राजा दण्डानर्हान् दण्डयन् दण्डार्हश् चोत्स्ञ्य महद् अयशः प्राप्नोति नरक्ं च गच्छति ॥ ८.१२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 128	A king who punishes those who do not deserve it, and punishes not those who deserve it, brings great infamy on himself and (after death) sinks into hell.

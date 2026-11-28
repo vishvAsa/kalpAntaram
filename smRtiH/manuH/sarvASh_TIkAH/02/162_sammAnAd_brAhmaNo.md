@@ -39,11 +39,20 @@ Further, the Religious Student may accept even such food as is offered with disr
 when arrogant, he transgresses Dharma; and transgression of Dharma leads to hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणःसंमानाद्विषादिव सर्वदोद्विजेत संमाने प्रीति न कुर्यात् । अमृतस्येव सर्वस्मा-ल्लोकादवमानमाकाङ्क्षेत् । अवमाने परेण कृतेऽपि क्षमावांस्तत्र खेदं न कुर्यात् । मानावमान द्वन्द्वसहिष्णुत्वमनेन विधीयते ॥१६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्मानाद्** इति । पूजातो **ब्राह्मणः **यावज्जीवं **विषाद् इव **खिद्येत । अमृतम् इव चावज्ञां **सर्वदा** काङ्क्षेत् ॥ २.१६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

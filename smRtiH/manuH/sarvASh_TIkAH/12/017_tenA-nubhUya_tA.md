@@ -31,6 +31,16 @@ After the man has ‘*experienced*’ these torments, through the said body of f
 “According to Nandana the meaning of the verse is—‘The individual souls, having suffered by means of that body the torments of Yama, are dissolved, on the termination of those sufferings in those very five elements according to the proportion of their works’.”—Buhler.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेन निर्गतेन शरीरेण ता यमकारिता यातना दुष्कृतिनो जीवाः सूक्ष्मानुभूतस्थूलशरीरनाशे तेष्वेवारम्भकभूतभागेषु यथास्वं प्रलीयन्ते। तत्संयोगिनो भूत्वा अवतिष्ठन्त इत्यर्थः॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेनेति** । तेन शरीरेण ता यमसम्बन्धिन्यो यातना दुष्कृतिवतानुभूता न भवन्ति । तच् छरीरारम्भकाणि पृथिव्यादीनि भूतानि तेष्व् एव भूतभागेषु तन्मात्राख्येषु यथा स्वं प्रलीयन्ते ॥ १२.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	When (the evil-doers) by means of that body have suffered there the torments imposed by Yama, (its constituent parts) are united, each according to its class, with those very elements (from which they were taken).

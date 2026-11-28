@@ -28,11 +28,22 @@ differs from the former in being curved in the form of a bow;—‘*Meteors*,’
 ‘*Rohita*’—This is the name of the *violet* -coloured pillar of light that appears in the sky, in the manner of rainbows, generally attached to the solar disc, but sometimes in other parts of the sky also. Another name for it, according to Govindarāja, is ‘*śastrotpāta*’. Buhler says it is an imperfect
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मेघेषु दृश्यं दीर्घाकारं ज्योतिर्विद्युत्।मेघादेव यज्ज्योतिर्वृक्षादिविनाशकं तदशनिः। मेघाः प्रसिद्धाः। रोहितं दण्डाकारम्। नानावर्णं दिवि दृश्यते यज्ज्योतिस्तदेव वक्रमिन्द्रधनुः। उल्का रेखाकारमन्तरिक्षात्पतज्ज्योतिः। निर्घातो भुम्यन्तरिक्षगत उत्पातध्वनिः। केतवः शिखावन्ति ज्योतींषि उत्पातरूपाणि। अन्यानि ज्योतींषि ध्रुवागस्त्यादीनि नानाप्रकाराणि॥३८॥
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विद्युत **इति । रोहितं शस्त्रोत्पात इत् प्रसिद्धम् । नानावर्ण धनूरूपं इन्द्रधनुः । **उल्का **रेखाकारम् अन्तरिक्षात् पतत् ज्योतिः कदाचिद् रात्रौ दृश्यते । **निर्घातः** क्षित्यर्तर्गतः उत्पातध्वनिः । **केतवो **दण्डाद्याकाराणि ज्योतींषि । अन्यान्य् अपि **ज्योतींषि **उत्कृष्टापकृष्टानि ॥ १.३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

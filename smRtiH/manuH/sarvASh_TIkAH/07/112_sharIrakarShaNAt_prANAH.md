@@ -32,6 +32,21 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 409);—and in
 See Comparative notes for [Verse 7.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा प्राणभृतामाहारनिरोधादिना शरीरशापणात्प्राणाः क्षीयन्ते, एवं राज्ञामपि राष्ट्रपीडनात्प्रकृतिकोपादिना प्राणा विनश्यन्ति । तस्मात्स्वशरीरवद्राज्ञा राष्ट्रं रक्षणीयमित्युक्तम् ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शरीरकर्षणाद्** इति । यथा प्राणभृतां दीर्घाध्वगमनादिना **प्राणाः क्षीयन्ते **एव तथा राज्ञाम् अपि राष्ट्रोपपीडनात् प्रकृतिकोपे सति प्राणाः विनाशम् उपयान्ति ॥ ७.११२ ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+राष्ट्रं हि तस्य शरीरम् इति । यतश् चैतद् एवम् अतस् तद्दोषपर्युदासाय ॥ ७.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	As the lives of living creatures are destroyed by tormenting their bodies, even so the lives of kings are destroyed by their oppressing their kingdoms.

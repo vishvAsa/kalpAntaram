@@ -12,11 +12,13 @@ Manu Svāyambhuva has named ten places for punishment, where it should be inflic
 
 **स्थान**शब्दो विषयपर्यायः । एतैः प्रदेशैः पीडयितव्यः प्रयपराधम्[^१४४] । शब्देन ब्राह्मणस्य धनदण्डविधानाद् **अक्षत**त्वोपदेशः शरीरपीडापरिहारार्थः कल्पते, सत्य् अपि धनस्य दशसंख्यानर्भावे । 
 
-
 [^१४४]:
      M G DK (1: 577): prayaparādha-
 
 वयं तु ब्रूमः "समग्रधनम् अक्षतम्" (म्ध् ८.३८०) इत्य् अत्र धनपीडापि निषिद्धैव ब्राह्मणस्य । तस्माद् यः सकृत् कथंचिद् अपराद्धः श्रुतशीलाभिजनयुक्तस् तस्य धनदण्डो ऽपि नास्ति । तथा च गौतमस् तादृशम् एव ब्राह्मणम् अधिकृत्य "द्वौ लोके धृतव्रतौ"[^१४५] (ग्ध् ८.१) इत्य् उपक्रम्य, "षड्भिः परिहार्यश् च" (ग्ध् ८.१२) इत्यादि ॥ ८.१२४ ॥
+
+[^१४५]:
+     J DK (4: 1343 – but not 1.1957) omit: caśabdavaśāt
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -71,6 +73,16 @@ of punishment which should be selected in punishing the lower castes; a Brāhma�
 
 *Bṛhaspati* (27.9-10).—‘Both hands, both feet, the male organ, the eye,
 the tongue, the ears, the nose, the neck, the half of the foot, the thumb and the index finger, the forehead, the lips, the hind part and the hips;—these fourteen spots of punishment have been indicated. For a Brāhmaṇa, branding on the forehead is the only kind of punishment. A Brāhmaṇa, though a mortal sinner, shall not suffer capital punishment; the King shall banish him and cause him to be branded and shaved.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+हैरण्यगर्भो मनुर्दश दण्डस्थानान्युक्तवान् । यानि क्षत्रियादिवर्णत्रयविषये भवन्ति । ब्राह्मणः पुनर्महत्यपराधेऽक्षतशरीरो देशान्निस्सार्यते॥१२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दशेति ** । हैरण्यगर्भो मनुर् दशदण्डस्याश्रमयान् उक्तवान् । ये क्षत्रियादिवर्णत्रयविषये भवन्ति ब्राह्मणं पुनर् महत्य् अपि अपराधे अक्षतशरीरं देशान् निर्वासयेत् ॥ ८.१२४ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

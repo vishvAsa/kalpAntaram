@@ -55,11 +55,21 @@ trees,—he shall pass by in such a manner as to leave them to his right.’
 trees he shall salute; and he shall pass by all auspicious objects in such a way as to leave them to his right.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रस्थितः सन् सम्मुखावस्थितानुद्धृतमृत्तिकागोपाषाणादिदेवताब्राह्मणघृतक्षौद्रचतुष्पथ- महाप्रमाणज्ञातवृक्षान्दक्षिणहस्तमार्गेण     कुर्यात् ।    
+प्रदक्षिणानीति **“नपुंसकमनपुंसकेनैकचच्चास्यान्यतरस्याम्”** (पा. सू. १।२।६९ ) इति नपुंसकत्वम् ॥३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मृदम्** इति । प्रस्थितः सन् सम्मुखोपरिस्थान् उद्धृतमृद्गोपाषाणादिकृतदेवताब्राह्मणघृत-माक्षिकचतुष्पथाश्वत्थादिध्यातवृक्षान् दक्षिणहस्तमार्गेण कुर्यात् ॥ ४.३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 039	Let him pass by (a mound of) earth, a cow, an idol, a Brahmana, clarified butter, honey, a crossway, and well-known trees, turning his right hand towards them.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -64,6 +64,11 @@ alive, he shall not have his religious acts done by another; and among several w
 should have his religious acts, such as the tending of the Sacrificial Fire, done by one who belongs to the same caste as himself; if there are several of the same caste as himself, then by the eldest among them, if she is not defective; or by one who has given birth to a heroic son and is most obedient to him, skilful, sweet-speaking and pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि द्विजातयः स्वजातीया विजातीयाश्चॊद्वहेयुस्तदा तासां द्विजातिक्रमेण वाक्समानदायविभागोत्कर्षार्थं ज्येष्टत्वं पूजा च वस्त्रालंकारादिदानेन गृहं च प्रधानं स्यात् ॥ ८६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 "इमाः स्युः क्रमशो ऽपराः" इत्य् एतत्क्रमेणैव दारकर्मोक्तम् । इह तूत्सृज्येति क्रमेणाद्यूढानां वर्णक्रमेणैव ज्यैष्ठ्यादि स्यात् । प्रयोजनम् अस्य दायविभागः । पूजा चैतेनैव च सवर्णानाम् अनुक्रमेणैव ज्यैष्ठ्यं विज्ञेयम्, न तु जन्मना ॥ ९.८५ ॥

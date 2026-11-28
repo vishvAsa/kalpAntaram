@@ -53,6 +53,16 @@ This verse is quoted in *Mitākṣarā* (3.295) to the effect that the outcast s
 See Comparative notes for [Verse 11.182].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्मात्पतितात्सपिण्डादीनां सम्भाषणमेकासनोपवेशनं च तस्मै ऋक्थप्रदानं सांवत्सरिकादौ निमन्त्रणादिरूपोलोकव्यवहार एतानि निवर्तेरन्॥१८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निवर्तेरन्न्** इति । **दायाद्यस्य प्रदानं च यात्राम् एव च लौकिकीम्** । तेन च पतितेन सह सम्भाषणसहावस्थाने न कर्तव्ये न च तस्मै रिथदेयं नाप्य् उत्सवादौ निमन्त्रणादि तस्य लोकव्यवहारः कार्यः ॥ ११.१८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 185	But thenceforward it shall be forbidden to converse with him, to sit with him, to give him a share of the inheritance, and to hold with him such intercourse as is usual among men;

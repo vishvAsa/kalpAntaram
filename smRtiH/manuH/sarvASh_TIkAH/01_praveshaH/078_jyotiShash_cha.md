@@ -47,11 +47,24 @@ of the Egg’ (Nandana).
 See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[परस्परानुप्रवेशाद्धारयन्ति परस्परम्।**
+
+**गुणं पूर्वस्य पूर्वस्य धारयन्त्युत्तरोत्तरम्॥८॥ \]**
+
+तेजस आप उत्पद्यन्ते। ताश्च रसगुणयुक्ताः। अद्भ्यो गन्धगुणयुक्ता भूमिरित्येषा महाप्रलयानन्तरं सृष्ट्यादौ भूतसृष्टिः।तैरव भूतरवान्तरप्रलयानन्तरमपि भूरादिलोकत्रय निर्माणम्॥७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्योतिष** इति । तेजसः पूर्ववत् । **आपः **रसाख्यगुणयुक्ता जायन्त इति **स्मृताः **मन्वादिभिः । **अद्भ्यश् **च गन्धाख्यगुणयुक्ता **भूमिर्** जायते । इत्य् एषा अन्तरालप्रलयानन्तरं प्रथमतः **सृष्टिः** ॥ १.७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

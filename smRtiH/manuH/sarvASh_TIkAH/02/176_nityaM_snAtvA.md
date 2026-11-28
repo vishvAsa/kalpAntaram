@@ -126,11 +126,20 @@ repetition of the *Gāyatrī*.,—daily.’
 self under control, he shall avoid sleeping and sitting on the couch, and the cleansing of the teeth; he shall sleep alone on kuśa-gass, and shall never emit his semen anywhere.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्यहं स्नात्वा देवर्षिपितृभ्य उदकदानं, प्रतिमादिषु हरिहरादिदेवपूजनं, सायं प्रातश्च समिद्धोमं कुर्यात् । यस्तु गौतमीये स्नाननिषेधो ब्रह्मचारिणः स सुखस्नान विषयः । अत एव बौधायनः —"नाप्सु लाघमानः स्नायात्” ।विष्णुनाऽत्र "कालद्वयमभिषेकाग्निकार्यकरणमप्सु ।दण्डवन्मज्जनम्” इति ब्रुवाणेन वारद्वयं स्नानमुपदिष्टम् ॥१७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम्** इति । प्रत्यहं **स्नात्वा शुचिः **देवानां महेश्वरादीनाम् अङ्गिरःप्रभृतीनाम् ऋषीणां च प्रमीतानां च पित्रादीनाम् उदकदानं कुर्यात् । तथा देवतानां हरादीनां पुष्पादिनार्चनं सायम्प्रातर् अग्नि**समिदाधानं** च **कुर्यात्** ॥ २.१७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

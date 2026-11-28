@@ -56,6 +56,16 @@ shall he gamble with dice.’
 *Gobhila* (3.5.12).—‘He shall not carry his own shoes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्लहं विना कदाचिदपि परिहासेनापि नाक्षादिभिः क्रीडेत् । स्वयमित्यभिधानादात्मोपानहौपादव्यतिरिक्तेन हस्तादिना देशान्तरं न नयेत् । शय्याद्यवस्थितश्च न भुञ्जीत । हस्ते च प्रभूतमन्नं कृत्वा क्रमेण न खादेत् । आसने भोजनपात्रं निधाय न भुञ्जीत ॥७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाक्षैर् **इति । अक्षादिभिः केल्यर्थम् अपि न क्रीडेत । आत्मना **चोपानहौ **पादव्यतिरेकेण न गृह्णीयात् । खट्वाव्यवस्थितश् च **न भुञ्जीत** । नापि पात्राव्यवहितहस्तम् अन्नम् आसने च पात्रम् अवस्थाय भुञ्जीत ॥ ४.७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 074	Let him never play with dice, nor himself take off his shoes; let him not eat, lying on a bed, nor what has been placed in his hand or on a seat.

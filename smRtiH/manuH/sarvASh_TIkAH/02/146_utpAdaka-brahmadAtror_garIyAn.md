@@ -52,11 +52,20 @@ imparting the Veda.’
 the physical body.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जनकाचार्यौद्वावपि पितरौ, जन्मदातृत्वात् । तयोराचार्यः पिता गुरुतरः । यस्माद्विप्रस्य ब्रह्मग्रहणार्थं जन्मोपनयनजन्मसंस्काररूपं परलोके इहलोके च शाश्वतं नित्य-इ, ब्रह्मप्राप्तिफलकत्वात् ॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उत्पादकेति **। संस्कारादिकरणरहितोत्पादकाचार्ययोः पित्रोः आचार्याख्यः **पिता** प्रशस्ततरः । यस्माद् ब्रह्मग्रहणार्थं यज् जन्म उपनयनाख्यं विप्रस्य तद् **इह** लोके **शाश्वतं** नित्यं पारम्पर्येण मुक्तिनिमित्तत्वात् । अतश् च जनकमातृपित्राचार्यसन्निधाव् आचार्य एवादौ पूजनीयः । विप्रग्रहणं द्विजप्रदर्शनाच् च त्रयाणां प्रकृतत्वाच् च ॥ २.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	Of him who gives natural birth and him who gives (the knowledge of) the Veda, the giver of the Veda is the more venerable father; for the birth for the sake of the Veda (ensures) eternal (rewards) both in this (life) and after death.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

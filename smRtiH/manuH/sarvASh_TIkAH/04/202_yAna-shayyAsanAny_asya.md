@@ -40,11 +40,20 @@ This verse is quoted in *Aparārka* (p. 237).
 conveyances belonging to others, unless they are offered to him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्येति प्रकृतः पुनः परामृश्यते । परस्य यानादीन्यदत्तान्युपयुञ्जानस्तदीयपापचतुर्थभागभागो भवति । अदत्तानीति परस्यानुमत्यभावश्च विवक्षितः । तेन सर्वार्थोत्सृष्टमठकूपादा बुपयोगार्थात्मस्नानादौ न विरोधः ॥२०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानशय्यासनानीति **। **यानशय्यासनानि **रथखट्वामञ्चकादीनि कूपारामगृहाणि च परस्य सम्बन्धीनि **अदत्तान्य् उपयुञ्जानः **तत्पापस्य चुतुर्भागं प्राप्नोति । अत्र च परकीयग्रहणात् अदत्तग्रहणाच् च सर्वार्थोत्सृष्टानुज्ञातस्नाने नास्ति दोषः ॥ ४.२०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

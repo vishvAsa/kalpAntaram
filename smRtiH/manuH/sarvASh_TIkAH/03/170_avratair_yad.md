@@ -44,11 +44,20 @@ This verse is quoted in *Hemādri* (Śrāddha, pp. 471 and 493).
 See Comparative notes for [Verse 3.170].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदग्रहणार्थं व्रतरहितैस्तथा परिवेत्रादिभिरन्यैश्चापाङ्क्तेयैः स्तेनादिभिर्यद्धव्यं कव्यं भुक्तं रुद्रक्षांसि भुञ्जते । निष्फलं तच्छ्राद्धं भवतीत्यर्थः ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+वेदग्रहणार्थं सावित्रादिव्रतरहितैः तथा **परिवेत्त्रादिभिर् अन्यैश् च **स्तेनादिभिर् अपाङ्क्तेयैः यत् देवपित्रर्थं **भुक्तं** तत् सुकृतलेशवशेन **रक्षांसि भुञ्जते **न दात्रभिमतफलाय भवति । अव्रतानां च निषिद्धमध्यापठितानां अप्य् अस्माद् एव निषेधो बोध्यः ॥ ३.१७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -35,6 +35,16 @@ If on the other hand he practises vice for the most part, and virtue only in a s
 Our answer is that the man has no *material body*,—and yet there can be no ‘torments’ for one devoid of a body; so that the bodies of men here referred to are of an entirely distinct kind; and when the man is described as ‘*deserted by the substances*,’ the *substances* meant are those of peculiar character, such as are productive of exceptionally soft and smooth and delicate bodies; and ‘*deserted*’ means that he has expiated for his sins by the pain suffered; and what he is deserted by are those bodies with which people become invested in Heaven.—(21)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि पुनः स जीवो मानुषदशायां बाहुल्येन पापमनुतिष्ठति अल्पंच पुण्यं तदा तैरेव भूतैर्मानुषदेहरूपतया परिणतैस्त्यक्तो मृतः सन्ननन्तरं पञ्चभ्य एवमात्राभ्यइत्युक्तरीत्या यातनानुभवोचितसंपातकठिनदेहो यामीःपीडा अनुभवति॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । यदि पुनर् असौ क्षेत्रज्ञो बाहुल्येनाधर्मम् अनुतिष्ठति स्वल्पं धर्मं तदा तैर् ऐहिकशरीरारम्भकैर् भूतैः परित्यक्तः पञ्चभ्य एव मात्राभ्य इत्याद्युक्तनीत्या कठिनशरीरो याम्या यातनाः प्राप्नोति । एतेनैतद् उक्तं भवति । अधर्मबाहुल्येन याम्या यातना अनुभवति । अधर्मबाहुल्येन पुनर् धर्मफलं परलोके ऽनुभूयाधर्मफलम् इहलोके एवोपभुङ्क्त इति ॥ १२.२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अधर्मभूयस्त्वात् ।

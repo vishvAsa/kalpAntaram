@@ -30,6 +30,16 @@ Thus has been indicated to you the entire manner in which results proceed from a
 The results proceeding from such acts as have been forbidden have been duly described; hence one should avoid such acts. Inasmuch as sensual pleasures are conducive to suffering, one should desist from them, and one should remain fixed in that course of action which is conducive to Liberation, and which is described under the coming section on ‘Knowledge.’ This is what we are going to expound now.—(82)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एष युष्माकं विहितप्रतिषिद्धानां कर्मणां सर्वः फलोदय उक्तः इदानीं ब्राह्मणस्य निःश्रेयसाय मोक्षाय हितं कर्मानुष्ठानमिदं शृणुत॥४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । **नैःश्रेयसं कर्मविधिं विप्रस्येमं निबोधत** । एषा शुभाशुभानां कर्मणाम् अखिला उत्पत्तिर् युष्माकम् उक्ता । इदानीं ब्राह्मणस्य स्वर्गमोक्षाद्यर्थं कर्मानुष्ठानम् इदं वक्ष्यमाणं शृणुत ॥ १२.८२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **एष सर्वः समुद्दिष्टः कर्मणां वः फलोदयः ।**

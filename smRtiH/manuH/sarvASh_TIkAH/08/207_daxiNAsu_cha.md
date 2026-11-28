@@ -50,6 +50,16 @@ appointed, if the sacrificer appoint another, the fee shall be paid to the forme
 another priest shall officiate for him, and receive from him his part of the fee. Where an officiating priest forsakes a sacrificer, who is no offender and is free from guilt,—or when a sacrificer forsakes a faultless priest,—they shall both be punished. There are three sorts of officiating priests: hereditary, appointed by the sacrificer himself, and one who performs the priestly functions of his own accord, through friendship; the above law applies to the hereditary and appointed priests; no sin attaches to the forsaking of the priest acting of his own accord.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+माध्यंदिनसवनादौ दक्षिणाकाले दक्षिणासु दत्तासु व्याध्यादिना कर्म परित्यजन्न तु शाक्ष्यात्स कृत्स्नमेव दक्षिणाभागं लभेत । कर्मशेषं प्रकृतमन्येन कारयेत् ॥२०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दक्षिणास्व्** इति । दक्षिणासु च माध्यन्दिने सवने दक्षिणानयन्तीत्य् एवमादिदक्षिणाकाले दत्तासु दैवात् स्वसाध्यं कर्म परित्यजन् कृत्स्नम् एव दक्षिणाकर्मशेषं चान्येनासौ प्रकृत ऋत्विक् कारयेत् ॥ ८.२०७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दक्षिनादानाद् ऊर्ध्वं तेषां स्वकर्माकुर्वतां कारणान्तरतो न प्रत्याहरणीया दक्षिणास् तेभ्यः । अकुर्व[तां यान्]य् औपर्तिष्टानि कर्माणि अन्येनैव च कारयेत् तानि तत्पुरुषेण वान्येन वा, परिशिष्टकर्मानुरूपं यत् किंचिद् दत्त्वा, इतरथा ह्य् अपरिजितं दक्षिणया तत्कर्मयजमानार्थं न स्यात् । इदम् एव शास्त्रं परिशिष्टकर्मानुष्ठातुर् दक्षिणादाने विज्ञेयम् । अनेन च प्रसङ्गेनेदम् अपरं तद्गतम् एवोच्यते ॥ ८.२०६ ॥

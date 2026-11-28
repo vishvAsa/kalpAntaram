@@ -54,11 +54,20 @@ three births; the third ‘birth’ belongs to only that twice-born person who i
 and the Vaiśya are born from their mother; for the second time, out of the girdle-tying Rite (of Upanayana); it is for this reason that they have been declared to be *twice-born*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातुः सकाशादादौ पुरुषस्य जन्म । द्वितीयं मौञ्जिबन्धने उपनयने । "ड्यापोः संज्ञाछन्दसोर्बहुलम्" ( पा० सू० ६ / ३ / ६३ ) इति स्वः । तृतीयं ज्योतिष्टोमादियज्ञदीक्षायां वेदश्रवणात् । तथा च श्रुतिः - "पुनर्वा यहत्विजो यज्ञियं कुर्वन्ति यहीक्षयन्ति" इति । प्रथमद्वितीयतृतीय जन्मकथनं चेदं द्वितीयजन्मस्तुत्यर्थं, द्विजस्यैव यज्ञदीक्षायामप्यधिकारात् ॥१६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं वेदाध्ययनम् एव तस्करणस्तुतिद्वारेण स्रोतम् इदम् आह **मातुर् अग्रे ऽधिजननम्** इति । **मातुः** सकाशात् प्रथमं पुरुषस्य जन्म । **द्वितीयं** मेखलानिबन्धनम् । **तृतीयं **यागार्थं **दीक्षा**काले **द्विजस्य **सतः, “पुनर् वा एतम् ऋत्विजो गर्भं कुर्वन्ति यद् दीक्षयन्ति” इत्य् एवं श्रुतिचोदनात् ॥ २.१६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

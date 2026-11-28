@@ -21,11 +21,20 @@ title = "050 न भक्षयति"
 *Cf*. The Mahābhārata 13.114.12.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उक्तविधिव्यतिरेकेण यो न मांसं भक्षयति । पिशाचवदिति यथा पिशाचोभक्षयति तथा नेति व्यतिरेके दृष्टान्तः । स लोकस्य प्रियो भवति रोगैश्च न बाध्यते । तस्मादुवैधमांसभक्षणाद्व्याधयो भवन्तीति दर्शितम् ॥५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किम् उताविहितमांसभक्षणाद् इत्य् अविहितमांसभक्षणनिन्दार्थम् आह **न भक्षयतीति । यो **देवाद्यर्चनादिविधिपरित्यागेन पिशाचवन् मांसं **न भक्षयति स **सर्वलोकप्रियो भवति । **व्याधिभिश् च न पीड्यते **॥ ५.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	He who, disregarding the rule (given above), does not eat meat like a Pisaka, becomes dear to men, and will not be tormented by diseases.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

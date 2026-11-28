@@ -54,11 +54,24 @@ others for sipping, are considered to be equal to waters springing from the eart
 *Yājñavalkya* (1.195).—(See above, under 139.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ दन्तवद्दन्तलग्नेषु जिह्वास्पर्शेषु चेन्नतु ।**
+
+**परिच्युतेषु तत्स्थानान्निगिरन्नेव तच्छुचिः ॥१९॥ \]**
+
+अन्येषामाचमनार्थं जलं ददतां ये बिन्दवः पादौ स्पृशन्ति न जङ्घादि विशुद्धभूमिष्टोदकस्तुल्यास्तेन नाचमनार्हो भवति । तदा तत्र च्यवनावस्थैरकृताचमनः शुद्धयति, द्रव्यं च शुद्ध्यति ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्पृशन्तीति ।** **भौमिकैस् ते समा ज्ञेया न तैर् अप्रयतो भवेत् **। अन्येषाम् आचमनं ददतो ये बिन्दवः पादाव् एव स्पृशन्ति न जङ्घादि ते त्व् अपहतभूम्यवस्थैः शुद्धैर् उदकबिन्दुभिः तुल्या ज्ञेयास् ततस् तैर् नाचमनार्हो भवति ॥ ५.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	Drops which trickle on the feet of him who offers water for sipping to others, must be considered as equal to (water collected on the ground; they render him not impure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

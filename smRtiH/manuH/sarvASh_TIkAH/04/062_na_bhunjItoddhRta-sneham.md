@@ -92,6 +92,11 @@ indigestion,... nor during the twilights, or at midday or at midnight.’
 *Brahmapurāṇa* (Do., p. 478).—‘One shall not eat at an improper time.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न भुञ्ज्तेति** । **उद्धृतस्नेहं** पिण्याकादि **न भुञ्जीत** । तृप्तिं च नाचरेत् । अतिप्रातः दिनान्ते न भुञ्जीत । सायं प्रातश् च न तृप्तः स्यात् । अपि तु एकस्मिन् काले तृप्तो ऽपरस्मिन् साकाङ्क्षम् अश्नीयात् ॥ ४.६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 062	Let him not eat anything from which the oil has been extracted; let him not be a glutton; let him not eat very early (in the morning), nor very late (in the evening), nor (take any food) in the evening, if he has eaten (his fill) in the morning.

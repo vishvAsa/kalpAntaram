@@ -58,6 +58,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 536);—in
 Brāhmaṇa arrives, the reader should offer him water etc., and then having obtained his permission, he should proceed with his study’;—and in *Gadādharapaddhati* (Kāla, p. 196).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अतिथिम्** इति । **अतिथिः** अधीष्वेत्य् एवं यावद् अननुज्ञापितः, वायौ चाध्ययनश्रमेणातिकुप्यति **रुधिरे च **श्रीरात् **स्रुते, शस्त्रेण** चारुधिरोत्पादितापि **क्ष्ते** उत्पन्ने नाधीयीत ॥ ४.१२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 122	Nor without receiving permission from a guest (who stays in his house), nor while the wind blows vehemently, nor while blood flows from his body, nor when he is wounded by a weapon.

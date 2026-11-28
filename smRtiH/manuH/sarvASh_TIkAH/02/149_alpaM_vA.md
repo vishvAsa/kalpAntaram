@@ -58,11 +58,20 @@ a *Guru* who, having performed the rite, imparts to him the Veda.’
 *Hārīta* (see under 142).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रुतस्य श्रुतेनेत्यर्थः । उपाध्यायो यस्य शिष्यस्याल्पं वा बहु वा कृत्वा श्रुतेनोपकरोते तमपीह शास्त्रे तस्य गुरुं जानीयात् । श्रुतमेवोपक्रिया तया श्रुतोपक्रियया ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अपरं गुरुलक्षणम् आह पूजार्थम् **अल्पम्** इति । **यस्य **कस्यचित् **श्रुतस्याल्पं बहु वा **यो बोधयति **तम् अपीह **पूजाप्रकरणे तेन श्रुतोपकारेण जानीयात् ॥ २.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	(The pupil) must know that that man also who benefits him by (instruction in) the Veda, be it little or much, is called in these (Institutes) his Guru, in consequence of that benefit (conferred by instruction in) the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

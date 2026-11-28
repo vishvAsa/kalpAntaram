@@ -12,15 +12,11 @@ In the case of the conveyance, its rider and its owner, they lay down ten exclus
 
 सत्याम् अपि हिंसायां क्वचिद् दोषो नास्तीत्य् एतद् अनेन प्रकरणेन प्रदर्श्यते । **यानं** गन्त्र्यादि यादारुह्य यान्ति पन्थानम् । तच् च गन्त्र्यादि बलीवर्दगर्दभमहिषादिवाह्यम् । त एव वा गर्दभादयः पृष्टारोह्या **यानानि** । **याता** तदारूढः सारथ्यादिः । **यानस्वामी** यस्य तत्स्वयानम् । तत्रैषां चक्रवेगादिभी रथाकर्षणयुक्तैर् वाश्वादिभिः कस्यचिद् द्रव्यस्य नाशो वा मरणम् । तत्र पशुस्वामिपालव्यतिक्रमन्याये[^२५२] प्राप्ते कदाचिद् यातुर् दोषः कदाचित् स्वामिनः कदाचिद् उभयोः कदाचिन् न कस्यचिद् अपीति यो विशेषस् तत्र नोक्त इहैवेष्यते, स उच्यते । **अतिवर्तनानि**,[^२५३] अतिक्रम्य हिंसादण्डं वर्तते, नात्र दण्डो ऽस्ति, दण्डनिमित्तानि न भवन्तीति यावत् । **शेषे दण्ड** उक्तेभ्यो निमित्तेभ्यः । अन्यत्र तान्य् अपि वक्ष्यन्ते ॥ ८.२९० ॥
 
-
 [^२५३]:
      M G omit: ativartanāni
 
-
 [^२५२]:
      M G: paśusvāmiyāna-
-
-_यत्र नास्ति दोषस् तानि तावद् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -54,6 +50,16 @@ This verse is quoted in *Vivādaratnākara* (p. 280), which adds the following n
 
 *Yājñavalkya* (297-299).—‘In the cases of injury caused through
 quadrupeds, or through wood and bricks, or through stones, beasts of burden or conveyances, there is no offence, if the man operating calls out—*Move* *out* *of the* *way*;—nor does any offence attach to the owner of the conveyance, if the injury caused by it has been due, either to the snapping of the nose-string, or to the breaking of the yoke, or to the cart moving backwards. In the case of tusked and horned animals committing havoc, if the owner, though able to do so, does not check them, he should be made to pay the first amercement; and double of this when the man about to be injured has cried for help.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यानस्य स्थादेर्यातुः सास्थ्यादेर्यानस्वामिनश्च यस्य तद्यानं तेषां छिन्ननास्यादीनि दश निमित्तानि दण्डमतिक्रम्य वर्तन्ते । एषु निमित्तेषु सत्सु प्राणिमारणे द्रव्यनाशे च प्रकृते यानस्वामिनां दण्डो न भवतीति मन्वादय आहुः । एतद्व्यतिरिक्तनिमित्ते च पुनर्दण्डोऽनुष्ठीयते ॥२९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानस्येति** । यानस्य गन्त्र्यादेर् यातुश् च सारथ्यादेर् यानस्वामिनः यत्सम्बन्धियानं तेषां छिन्ननासास्यत्वादीनि वक्ष्यमाणानि निमित्तादीनि अतिवर्तनानि दण्डं चातिक्रम्य वर्तन्ते । तेषु सत्सु यानेन प्राणिहिंसाद्रव्यविनाशयोर् अपि कृतयोर् यानस्वाम्यादीनां सारथ्ये इत्य् एवं सारथ्यादिसम्बन्धिवाग्दाने सति यानेन प्राणिहिंसाद्रव्यविनाशयोः सारथ्यादेः दण्डो न भवतीति मन्वादय आहुस् तन् न, निमितव्यतिरेकेषु पुनर् दण्डः क्रियते ॥ ८.२९० ॥
 </details>
 
 <details><summary>भारुचिः</summary>

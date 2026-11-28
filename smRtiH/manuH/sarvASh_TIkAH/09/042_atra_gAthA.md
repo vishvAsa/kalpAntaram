@@ -43,6 +43,16 @@ The term ‘*gāthā*’ is the name of a particular metre; as has been declared
 See Comparative notes for [Verse 9.31].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अतीतकालज्ञा अस्मिन्नथवायुप्रोक्ता गाथाश्छन्दोविशेषयुक्तानि वाक्यानि कथयन्ति । यथा परपुरुषेण परपत्न्यां बीजंन वप्तव्यामति ॥ ४२ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अत्रेति **। अस्मिन्न् अर्थे वायुप्रोक्ता गाथाः छन्दोविशेषयुक्तानि वाक्यानि नीतिकालज्ञाः कथयन्ति यथा परभार्यायां बीजं मनुष्येण न वप्तव्यम् इति ॥ ९.४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 042	With respect to this (matter), those acquainted with the past recite some stanzas, sung by Vayu (the Wind, to show) that seed must not be sown by (any) man on that which belongs to another.

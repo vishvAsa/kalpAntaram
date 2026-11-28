@@ -27,9 +27,17 @@ The plural number throughout is denotative of the species.—(39)
 See Comparative notes for [Verse 9.31].
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_तथा च दर्शयति ।_
+व्रीहयः षष्टिकाः, शालयः कलमाद्याः, तथा मुद्गादयो बीजस्वभावानतिक्रमेण नानारूपा जायन्ते ॥ ३९ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**व्रीहय** इति । शूकधान्येषु मध्यादीयत्शूका व्रीहयः षष्टिकाद्यानि दीर्घशूकाः शालयो रक्ता शाल्यादयस् ते तथा मुद्गादयो बीजत्वभावान्नतिक्रमेनैव विचित्रा जायन्ते ॥ ९.३९ ॥
+</details>
+
+<details><summary>भारुचिः</summary>
 
 एवं च सति प्रत्यक्षतः ।
 </details>

@@ -30,6 +30,11 @@ What are referred to here are such things as Musical Sounds and the like which t
 This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads ‘*saktim*’, and explains ‘*viṣayeṣu aprasaktim*’ as ‘control, of the senses;’ and in the *Nṛsiṃhaprasāda*, *Saṃskāra*, p. 73*b*.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रजानाम्** इति । **इज्या** यागः । **विषयेषु **स्त्र्यादिगतरूपादिषु । अत्यन्तम् एव परिहारः । **समासतः **सङ्क्षेपेण ॥ १.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;

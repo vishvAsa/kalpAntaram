@@ -45,11 +45,20 @@ gives food to one who is seeking for alms.’
 highest reward: by worshipping him, he attains heaven; neither by Vedic Study, nor by Agnihotra, nor by sacrifices and Purāṇas does the Householder attain those regions which he attains by the honouring of the guest; shelter, bed, oiling of the feet and light, by giving to the guest each one of these, one obtains the same reward that one does by giving a cow.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरवे गां दत्त्वा विधिवत्स्वर्णवङ्गिकादिविधानेन यत्फलं प्राप्नोति तद् गृहस्थो विधिना मिक्षादानात्प्राप्नोति ॥९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् पुण्यफलम्** इति । “अल्पगुर् हेमश्ट्ङ्गी” इत्य् आदियाज्ञवल्क्योक्तविधिना गां दत्वा यत् पुण्यफलं “गोदो ब्रध्नस्य विष्टपम्” इति प्राप्नोति तद् एव द्विजगृहस्थः भिक्षां दत्वा प्राप्नोति ॥ ३.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	A twice-born householder gains, by giving alms, the same reward for his meritorious act which (a student) obtains for presenting, in accordance with the rule, a cow to his teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

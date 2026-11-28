@@ -62,11 +62,24 @@ bathing.’
 sleeping at sunset, after bad dreams, or touching a wicked man, one shall only bathe.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अनृतौ तु मृदा शौचं कार्यं मूत्रपुरीषवत् ।**
+
+**ऋतौ तु गर्भं शङ्कित्वा स्नानं मैथुनिनः स्मृतम् ॥२०॥ \]**
+
+कृतवमनः संजातविरेकः स्नात्वा घृतप्राशनं कुर्यात् । “दशविरेकान्विरिक्तः” इति गोविन्दराजः । यदि भुक्त्वा अनन्तरमेव वमति तदा आचमनमेव कुर्यान्न स्नानघृतप्राशने ।मैथुनं च कृत्वा स्नायात् । इदं त्वृतुमतीविषयम् ॥१४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वान्त** इति । “कृतवमनो दशैव तु द्विगुणाविरक्तः” इत्य् आयुर्वेददर्शनाद् दशविरेकान् विरक्तः स्नात्वा घृतप्राशनम् आचरेत् । भुक्त्वान्नं पुनर् यदि समन्तरम् एव वमति तद् आचामेद् एव, न स्नानघृतप्राशने कुर्यात् । मौथुनं च कृतवतः स्नानं स्मृतम् ॥ ५.१४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 144	He who has vomited or purged shall bathe, and afterwards eat clarified butter; but if (the attack comes on) after he has eaten, let him only sip water; bathing is prescribed for him who has had intercourse with a woman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

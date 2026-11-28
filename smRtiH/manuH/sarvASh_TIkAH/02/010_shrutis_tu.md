@@ -167,11 +167,20 @@ Bauddhas, Cārväkas
 See Comparative notes for [Verse 2.6 (Sources of Knowledge of Dharma)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लोकप्रसिद्धसंज्ञासंज्ञिसंबन्धानुवादोऽयं श्रुतिस्मृत्योः प्रतिकूलतकणामीमांस्यत्वविधानार्थं, स्मृतेः श्रुतितुल्यत्वबोधनेनाचारादिभ्यो बलवत्त्व प्रतिपादनार्थं च । तेन स्मृतिविरुद्वाचारो हेय इत्यस्य फलम् । श्रुतिर्वेदः, मन्वादिशास्त्रंस्मृतिः, ते उभे प्रतिकूलतर्कैर्न विचारयितव्ये । यतस्ताभ्यां निःशेषेण धर्मो बभौ प्रकाशतां गतः ॥१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिर्** इति । मन्दबुद्धिव्युत्पादनार्थं मीमांसाप्रतिषेधादिव्यवहारफलं लोकसिद्धपदार्थकथनम् । श्रुतिर् वेदो धर्मशास्त्रं स्मृतिर् इति । स्मृतिग्रहणं शीलादेर् अपि समरणप्रभेदत्वात् प्रदर्शनार्थम् । ते श्रुतिस्मृती **सर्वार्थेषु **आशुनरकफलसुरापानाद्यात्मकेषु कुतर्कविकल्पैः न विचारयितव्ये । कथम् एतत् स्याद् इति यतः प्रमाणान्तरागोचरो **धर्मः ताभ्यां निर्बभौ **प्रकाशतां गतः ॥ २.१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

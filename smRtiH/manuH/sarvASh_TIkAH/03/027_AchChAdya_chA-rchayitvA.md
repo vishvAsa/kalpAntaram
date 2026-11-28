@@ -137,6 +137,16 @@ girl adorned with gold, before she has reached puberty.’
 bridegroom, you give the girl, with proper faith and confidence, after having adorned her to the best of your power and endowed her with wealth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आच्छादनमात्रस्यैवौचित्यप्राप्तत्वात्सविशेषवाससा कन्यावरावाच्छाद्य अलङ्कारादिना च पूजयित्वा विद्याचारवन्तमप्रार्थकवरमानीय तस्मै कन्यादानं ब्राह्मो विवाहो मन्त्रादिभिरुक्तः ॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आच्छाद्य चार्चयैत्वेति **। वासोविशेषैः कन्याम् **आच्छाद्या**लङ्कारादिभिश् **चार्हयित्वा श्रुता**चारवन्तं वरं याच्ञारहितं **स्वयम्** आनीय यत् तस्मै **कन्यादानं** स **ब्राह्मो** विवाहो मन्वादिभिः **स्मृतः** ॥ ३.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.

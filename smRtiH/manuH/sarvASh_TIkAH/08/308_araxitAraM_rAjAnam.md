@@ -35,6 +35,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 255).
 See Comparative notes for [Verse 8.308].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो राजा न रक्षति, अथ च धान्यादिषड्भागं बलिरूपं गृह्णाति, तं सर्वलोकानां सकलपापहारिणं मन्वादय आहुः ॥३०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अरक्षितारम्** इति । यो राजा न रक्षति अन्यच् च दान्यादिषड्भागं बलिरूपं गृह्णाति तं सकललोकसम्बन्धिसर्वपापस्वीकारिणं मन्वाद्या आहुः ॥ ८.३०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 308	They declare that a king who affords no protection, (yet) receives the sixth part of the produce, takes upon himself all the foulness of his whole people.

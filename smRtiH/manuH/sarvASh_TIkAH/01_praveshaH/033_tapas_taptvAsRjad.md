@@ -27,11 +27,20 @@ Poets are not ashamed of describing the nobility of their own birth, even though
 ‘*O best of Brāhmaṇas*’—is the form of address; ‘*best*’ ** means *most perfect*, most superior.—(33)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स विराट् तपो विधाय यं निर्मितवान् तं मां मनुं जानीत अस्य सर्वस्य जगतः स्रष्टारं भोद्विजसत्तमाः। एतेन स्वजन्मोत्कर्षसामर्थ्यातिशयावभिहितवान् लोकानां प्रत्ययितप्रत्ययार्थम्॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तप **इति । **स **अनन्तरोक्तो **विराट् तपः **कृत्वा **यं स्वयं **सृष्ट्वान् **तं मां **जानीत । एतस्य सर्वस्योत्पादयितारम् । हे द्विजश्रेष्ठतमाः ॥ १.३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

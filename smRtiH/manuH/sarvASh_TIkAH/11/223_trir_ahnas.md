@@ -47,6 +47,16 @@ and consecrate the food-morsels with the *Gāyatrī*.’
 *Vaśiṣṭha* (24.5).—‘He shall avoid speaking to women and Śūdras.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अहनि रात्रावादिमध्यावसानेषु स्नानार्थं सचैलो नद्यादिजलं प्रविशेत्। एतच्च पिपीलिकामध्ययवमध्यचान्द्रायणेतरचान्द्रायणविषयम्। तयोः "उपस्पृशंस्त्रिषवणम्” (म. स्मृ. ६-२४) इत्युक्तत्वात्। स्त्रीशूद्रपतितैश्च सह यावद् व्रतं कदाचित्संभाषणं न कुर्यात्॥२२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिर् अह्नस् त्रिर् निशायाम्** इति । अह्नो रात्रेश् चारम्भमध्यावसानेषु स्नानार्थं सचैलो नद्यादौ प्रविशेद् एतच् च पिपीलिकामध्यचान्द्रायणवर्जं तत्रोपस्पृशंस् त्रिषवणम् इत्य् उक्तत्वात् स्त्रीशूद्रपतितैश् च सहसं भाषणं न कदाचिद् यावद् व्रतं कुर्यात् ॥ ११.२२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	Let him bathe three times each day and thrice each night, dressed in his clothes; let him on no account talk to women, Sudras, and outcasts.

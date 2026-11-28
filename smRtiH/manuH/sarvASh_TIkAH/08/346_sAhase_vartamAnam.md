@@ -28,9 +28,14 @@ He who condones the man addicted to violence—the causal affix in ‘*marṣaya
 See Comparative notes for [Verse 8.345].
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_एवं च सति ।_
+यो राजा साहसे वर्तमानं क्षमते, स पापकृतामुपेक्षणादधर्मबुद्ध्या विनश्यति।अपक्रियमाणराष्ट्रतया जनविद्वेषं च गच्छति ॥ ३४६ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**साहस** इति । साहसे प्रवृत्तस्य यः क्षमते सो ऽतिमात्रं प्रसङ्गात् साहसकारिभिः क्षिप्रम् एव विनाश्यते द्वेष्यतां च लोके प्राप्नोति ॥ ८.३४६ ॥
 </details>
 
 <details><summary>Bühler</summary>

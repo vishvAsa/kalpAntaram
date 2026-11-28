@@ -35,6 +35,16 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 94).
 See Comparative notes for [Verse 2.225].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यो वेदान्तोदितस्य ब्रह्मणः परमात्मनो मूर्तिः शरीरं, पिता हिरण्यगर्भस्य, माता च धारणात्पृथिवीमूर्तिः, भ्राता च स्वः सगर्भः क्षेत्रज्ञ (ज) स्य ।तस्माद्देवतारूपा एतां नावमन्तव्याः ॥२२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यो ब्रह्मणो मूर्तिर्** इति । ब्रह्मोपदेशोत्पादनसाधारणैकोदरनिवासालम्बनम् एतद् एषां ब्रह्मादिशरीरत्वाभिधानं प्रकृतविध्यर्थवादार्थं ब्रह्माप्रजापती परमात्महिरण्यगर्भो **स्वः **सोदर्यः ॥ २.२२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.

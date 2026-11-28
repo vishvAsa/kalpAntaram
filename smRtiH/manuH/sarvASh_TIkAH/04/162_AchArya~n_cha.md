@@ -77,11 +77,20 @@ parents.’
 from whom he acquires any knowledge, temporal or scriptural or spiritual...... one who fills the ears with truth...... him one shall regard as Father and as Mother, and shall never bear ill-will towards him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यमुपनयनपूर्वकवेदाध्यापकं, प्रवक्तारं वेदार्थव्याख्यातारं, गुरुम् “अल्पं वा बहु वा यस्य” ( म. स्मृ**.**२-१४९ ) इत्युक्तम् ।आचार्यादींस्तु न हिंस्यात् । प्रतिकूलाचरणेऽत्र हिंसाशब्दः । गोविन्दराजस्तु सामान्येन हिंसानिषेधादाततायिनोऽप्येतान्न हिंस्यादिति व्याज्यातवांस्तदयुक्तम्, “गुरुं वा बालवृद्धौ वा” ( म. स्मृ. ८-३५० ) इत्यनेन विरोधात् ॥१६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यं चेति** । **आचार्यम्** अध्यापयितारं चोपनयनमात्रकारिणं लोकवत् **पितरं मातरं गुरुम्** “अल्पं वा बहु वा यस्य” (२.१४९) इत्य् उक्तम् गोब्राह्मणतपोनिष्ठांश् च आततायिनो ऽपि **न हिंस्यात्** । अन्यथा सामान्यहिंसानिषेधे सति इदं पृथग्वचनम् अनर्थकं स्यात् ॥ ४.१६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -82,6 +82,20 @@ reproductive organs, through the feet, through the arms, through the mind, throu
 Twilight have their sins removed;... whatever sin is committed during the day, by act, mind and word, all that one destroys by means of the Evening Prayers and by Breath-control; whatever sin is committed during the night, all that one destroys by means of the Morning Prayers and by Breath-control.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वसंध्यायां तिष्ठन् जपं कुर्वाणो निशासंचितं पापं नाशयति । पश्चिमसंध्यायां तूपविष्टो जपं कुर्वन्दिवार्जितं पापं निहन्ति । तत्रापि जपात्फलमुक्तम् । एतच्चाज्ञानादिकृतपापविषयम् । अत एव याज्ञवल्क्यः—
+
+**"दिवा वा यदि वा रात्रौ यदज्ञानकृतं भवेत् ।**
+
+**त्रिकालसंध्याकरणात्तत्सर्वं विप्रणश्यति ॥१०२॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूर्वाम्** इति । **पूर्वां सन्ध्यां तिष्ठन् **सावित्रीं **जपन्** सञ्चितं प्रतनु रात्र्युत्पन्नं पापम् अपनुदति सर्वापनोदने प्रायश्चित्तकाण्डानर्थक्यात् । एवं **पश्चिम**सन्ध्यायाम् उपविष्टो जपन् **दिवाकृत**पापम् **अपहन्ति** ॥ २.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.

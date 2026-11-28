@@ -75,11 +75,20 @@ intercourse during the day, eating of Śūdra’s food,—all these sins are rem
 Study beginning with the Praṇava; thus does he fulfil the Brahmic Sacrifice;—Vedic Study constituting the Brahmic Sacrifice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मयज्ञरूपमिदम् । बहुवेदाध्ययनाशक्तौ सावित्रीमात्राध्ययनमपि विधीयते । अरण्यादिनिर्जनदेशं गत्वा नद्यारिजलसमीपे नियतेन्द्रियः समाहितोऽनन्यमना नैत्यकं विधि ब्रह्मयज्ञरुपमास्थितोऽनुतिष्ठासुः सावित्रीमपि प्रणवव्याहृतित्रययुतां यथोक्तामधीयीत ॥१०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ब्रह्मयज्ञविध्यर्थं ब्रह्मचारिणाम् अनुदिनम् आह **अपाम्** इति । ग्रामाद् बहिर् विविक्तं प्रदेशं गत्वा **नियतः **शुचिः **समाहितः** संयतमनाः नित्यो ऽयं ब्रह्मयज्ञविधिर् इत्य् एवम् **आस्थितः** उत्पन्नास्थः **अपां समीपे** मन्त्रान्तरपाठात् **सावित्रीम् अपि **जपेत् ॥ २.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

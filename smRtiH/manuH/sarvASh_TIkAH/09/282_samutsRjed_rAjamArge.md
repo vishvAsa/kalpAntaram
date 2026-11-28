@@ -46,6 +46,11 @@ water, he shall be fined a hundred *Paṇas*; and he must remove the filth.’
 substance, a tank or a garden or a watering place, he should be made to remove the filth and pay the first amercement.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनार्तः सन्यो राजपथेषु पुरीषं कुर्यात्स कार्षापणद्वयंदण्डं दद्यात्स चामेध्यंशीघ्रमेवापसारयेत्॥ २८२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कार्षापणपरिमाणं व्याख्यातम् ॥ ९.२८२ ॥

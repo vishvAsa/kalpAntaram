@@ -47,6 +47,11 @@ battle. But chariots and riding animals belong to the king, also a preferential 
 ??ng (King?) in the battle, and having won the booty from Kṣatriyas killed in battle, if the soldier does not take to himself any of the booty, he goes to heaven. If the king who having conquered a kingdom but desisting from taking any booty therefrom, happen to be killed, be goes to heaven.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**रथाश्वम्** इति । रथाश्वहस्तिध्वजहिरण्यधान्यपशुदास्यात्मकं सर्वाणि गुडलवणादीनि **कुप्यं** ताम्रलोहादि **यो यत्** परान् अवजित्य हरति **तस्यैव तत्** भवति न राज्ञः ॥ ७.९६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स्वामित्वाद् राजग्रहणनिवृत्त्यर्थो नियमः ॥ ७.९६ ॥

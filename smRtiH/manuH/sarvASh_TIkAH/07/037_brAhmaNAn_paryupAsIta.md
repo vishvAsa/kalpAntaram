@@ -52,6 +52,16 @@ the Brāhmaṇas.’
 as checks upon himself; as these would save him from improper positions and would regulate his activities by indicating the passage of time by means of shadows or time-sticks. Kingship is dependent upon assistant; a chariot never moves on a single wheel; therefore the king shall appoint ministers and listen to their opinions.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्यहं प्रातरुत्थाय ब्राह्मणानृग्यजुःसामाख्यवि यात्रयग्रन्थार्थाभिज्ञान्विदुष इति नीतिशास्त्राभिज्ञान्से वेत तदाज्ञां कुर्यात्॥ ३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणान्** इति । अहर् अहः प्रातर् उत्थाय ब्राह्मणान् ऋग्यजुःसामाख्यविद्यात्रयग्रन्थार्थ-पारगान् विदुषो वक्ष्यमाणान् वीक्षिकीदण्डनीत्याभिज्ञान् सेवेत तदाज्ञां चानुतिष्ठेत् ॥ ७.३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 त्रयो ऽवयवा अस्येति त्रयी । तस्यां ग्रन्थार्थयोर् वृद्धास् ते **त्रैविद्यवृद्धाः**, तान् । अथ वा त्रैविद्याध्यायिनस् त्रैविद्यवृद्धाश् च वयस्थप्रज्ञया च त्रैविद्यवृद्धा, ये आन्वीक्षिक्यां दण्डनीत्यां च स्वभिविनीतास् ते विद्वांसः तान् **विदुषः प्रातर् उत्थायोपासीता**नन्यचित्तः । यच् च ते ब्रूयुस् तच् चाविशङ्कितं कुर्यान् न हि ते किंचिद् अहितं राज्ञो वक्ष्यन्ति परमधार्मिकत्वात् ॥ ७.३७ ॥

@@ -68,11 +68,26 @@ The second half of this verse is quoted in *Smṛtitattva* (p. 802) in support o
 perform the sixteen Śrāddhas; and all these should be performed by the unitary process.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मर्यादायामाङ् नाभिविधौ । सपिण्डीकरणश्राद्धपर्यन्तमचिरमृतस्य द्विजातेश्च वैश्वदेवब्राह्मण-भोजनरहितं श्राद्धार्थमन्नं ब्राह्मणं भोजयेत् एकं च पिण्डं दद्यात् । अस्य च श्राद्धानुष्ठानम्—
+
+**“एकोद्दिष्टंदैवहीनमेकार्धैकपवित्रकम् ।**
+
+**आवाहनाग्नौकरणरहितं ह्यपसव्यवत्" ॥ ( या. स्मृ. १ २५१ )**
+
+इति याज्ञवल्क्यादिस्मृतिष्ववगन्तव्यम् ॥२४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसपिण्डक्रियाकर्मेति । **अचिरमृतस्य द्विज्तेर् एकादशाहादाव् आसपिण्डक्रियाधिष्ठानं कर्तव्यम् । नामावास्यावत् पूर्वाभ्यां सहपिण्डदानं कार्यम् । किं तर्हि । वैश्वदेवब्राह्मणभोजनरहितं श्राद्धार्थम् अन्नं ब्राह्मणं च भोजयेत् । एकं पिण्डं तस्मा एव दद्यात् । तस्मात् यावद् ब्राह्मणं भोजयेत् । साधितं चैतत् सविस्तरं स्मृतिमञ्जर्यां (?) ऋजुपञ्जिकायां च** **। इह तु ग्रन्थभारभयान् न प्रतार्यते ॥ ३.२४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 247	But before the performance of the Sapindikarana, one must feed at the funeral sacrifice in honour of a (recently-) deceased Aryan (one Brahmana) without (making an offering) to the gods, and give one cake only.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

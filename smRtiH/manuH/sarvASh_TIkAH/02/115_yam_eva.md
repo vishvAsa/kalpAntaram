@@ -51,11 +51,15 @@ This verse is quoted in *Madanapārijāta* (p. 103) also in
 See Comparative notes for [Verse 2.114].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यमेव पुनः शिष्यं शुचिं नियतेन्द्रियं ब्रह्मचारिणं जानासि तस्मै विद्यारूपनिधिरक्षकाय प्रमादरहिताय मां वद ॥११५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

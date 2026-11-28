@@ -80,11 +80,20 @@ attains Heaven.
 remain firm in their own duties.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वं शास्त्रजातं वेदार्थावगमोचितं ज्ञानं मीमांसाव्याकरणादिकज्ञानमेव चक्षुस्तेननिखिलं तद्विशेषेण पर्यालोच्य वेदप्रामाण्येनानुष्ठेयमवगम्य स्वधर्मेऽवतिष्ठेत ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वम्** इति । यावत् किञ्चिच् छास्त्रजातं तत् **सर्वं विज्ञाना**ख्येन **चक्षुषा निखिलं **निःशेषं कृत्वा पर्यालोच्य वेदप्रामाण्येनैव शास्त्रज्ञः **स्वधर्मे** ऽवतिष्ठेत । वेदस्यैव धर्मं प्रति प्रामाण्यात् न वेदब्राह्मणशास्त्रप्रामाण्येन, ज्ञानं चक्षुर् इव प्रमेयपरिच्छेदात् ॥ २.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

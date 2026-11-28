@@ -64,6 +64,11 @@ having defeated the armies of the enemy, shall protect the earth according to la
 of the people is the highest duty of kings. The king is the protector of all castes and orders; he should protect his people and direct them to devote themselves to their own respective duties.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मम्** इति । वेदाधिगमार्थम् उपनयनार्थं स्नानपर्यन्तं यथाशास्त्रं संस्कारं प्राप्तवता क्षत्रियेण सर्वस्यास्य जगतः शास्त्रमर्यादान् अतिक्रमेण नियमतो रक्षणं कर्तव्यम्, वृत्त्यर्थत्वे ऽपि “तपः क्षत्रस्य रक्षणम्” इति अदृष्टार्थत्वेनापि रक्षणोपदेशात् ॥ ७.२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ब्रह्मणे ब्रह्मणो वा संस्कारो **ब्राह्मम्** उपनयनादिः स्नानान्तस्, तं **प्राप्तेन क्षत्रियेण**, नान्यवर्णेन । **यथाविधि** यथाशस्त्रम् । **सर्वस्यास्येत्य्** अनेनाभिनयेन वर्णाश्रमौ निर्दिशति । **यथान्यायं** यथोपदेशं **कर्तव्यं परिरक्षणम्** इति अन्यवृत्तिपरिसंख्येयं नियमो वा ।

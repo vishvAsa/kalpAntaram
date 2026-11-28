@@ -30,6 +30,16 @@ These ‘inverse’ castes, defined above, are mentioned here, for the purpose o
 See Comparative notes for [Verse 10.6].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते षटुक्तलक्षणाः सूतादय उत्तरार्थमनूद्यन्ते॥ २६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सूत** इति । सूतादय उक्तलक्षणा उत्तरार्थम् अनूद्यम् ॥ १०.२६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उत्तरविवक्षार्थम् एषां पुनर्ग्रहणम् । तद् इदम् उच्यते ॥ १०.२६ ॥

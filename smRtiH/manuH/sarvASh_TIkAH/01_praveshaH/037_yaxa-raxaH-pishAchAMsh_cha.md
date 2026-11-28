@@ -28,11 +28,24 @@ the life of living beings, and by some invisible power they bring about diseases
 ‘*Pitṛṇām gaṇān*’—The ‘*pitṛs*’ are not actually the ‘fathers,’ as is clear from the present text; they are a particular class of divine beings, though it is from these that human beings are descended. See III, 194—199.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतेऽसृजन्निति पूर्वस्यवात्रानुषङ्गः उत्तरत्र (१)[^58] श्लोकत्रये च। (२)[^59] यक्षा वैश्रवणादयस्तदनुचराश्चरक्षांसि रावणादीनि। पिशाचास्तेभ्योऽपकृष्टा अशुचिमरुदेशनिवासिनः। गन्धर्वाश्चित्ररयादयः। अप्सरस उर्वश्याद्याः। असुरा विरोचनादयः। नागा वासुक्यादयः। सर्पास्ततोऽपकृष्टा अलगर्दादयः।सुपर्णा गरुडादयः। पितॄणामाज्यपादीनां गणः समूहः। एषां च भेद इति-हासादिप्रसिद्धो नाध्यक्षादिगोचरः॥३७॥
+
+[^58]: " 'श्लोकद्वये' ख०।"
+
+[^59]: "यक्षेवैश्रवणः ख.।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यक्षरक्षःपिशाचांश् चेति** । **यक्षाः **वैश्रवणामात्याः ।** रक्षांसि **रावणादीनि । **पिशाचाः **मरुभूम्यादिवासिनः प्राणिविशेषाः । **गन्दर्वाः **चित्रसेनादयः । **अप्सरसः **मेनकाद्याः, **असुरा **विरोचनादयः । **नागाः **तक्षकाद्याः **सर्पा **अहयः **सुपर्णा **गरुत्मन्तः **पितॄणां **सोमपादीनां स्वस्थानसमूहान् असृजन् इति वर्तते । एवम् उत्तरत्रापि ॥ १.३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

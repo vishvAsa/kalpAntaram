@@ -56,11 +56,20 @@ The Brāhmaṇa also, if he happen to be a *non-expounder*,—*i.e*., if he is n
 See Comparative notes for [Verse 2.241].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्यन्तिकं वासं यावज्जीविकं ब्रह्मचर्यं क्षत्रियादिके गुरौ ब्राह्मणे साङ्गवेदानध्येतरि अनुत्त मां गतिं मोक्षलक्षणामिच्छन् शिष्यो नावतिष्ठेत ॥२४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं वक्ष्यमाणस्य नैष्ठिकस्यापि अब्राह्मणाद् अध्ययनाद् यावज्जीवं तद् अगृहवासप्राप्तौ इदं तन्निषेधार्थम् आह **नेति **। नैष्ठिकः **शिष्यो ऽब्राह्मण**गुरुगृहे अध्यपनाचाराभिजनशून्यब्राह्मणगृहे वा सर्वोत्कृष्टां गतिम् इच्छन् यावज्जीविकं **वासं **न कुर्यात् ॥ २.२४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 242	He who desires incomparable bliss (in heaven) shall not dwell during his whole life in (the house of) a non-Brahmanical teacher, nor with a Brahmana who does not know the whole Veda and the Angas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

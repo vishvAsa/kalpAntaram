@@ -58,6 +58,16 @@ This verse is quoted in *Parāsaramādhava* (Prāyaścitta, p. 454).
 been committed, and the knowledge of the Veda is retained, the fire of the Veda destroys all the guilt of the man, just as fire consumes fuel. As a fire burning strongly consumes even green trees, even so the fire of the Veda destroys one’s guilt caused by evil deeds.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथाग्निः काष्ठान्यासन्नानि क्षणेनैव तेजसा निःशेषं करोति तथाज्ञानाग्निना पापंसर्वं वेदार्थज्ञो ब्राह्मणो नाशयति। इत्येतत्परमार्थज्ञानस्येतत्पापक्षयोत्कर्षज्ञापनार्थमेतत्॥२४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथैधांस् तेजसा वह्निः प्राप्तान्** इति । यथाग्निः काष्ठानि प्राप्य क्षणेनैव तेजसा निःशेषेण दहति तथा ज्ञानाग्निना पापं सर्वं दहति वेदार्थज्ञः आत्मज्ञानस्य पापापक्षपणहेतुत्वज्ञापनार्थम् एतत् ॥ ११.२४५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 न केवलं वेदाभ्यासः, किं तर्हि तद्विज्ञानम् अपि । शुद्धये वेदार्थविदाम् । इतरथा हि- प्रायश्चित्तप्रकरणे स्तुतिर् अस्यानर्थिका स्यात् । अपरे तु प्रायश्चित्तानुष्ठानविज्ञानस्तुतिम् एतां मन्यन्ते । तद् अयुक्तम्, अर्थगृहीतत्वात् प्रयोगविज्ञानस्य । यतो ऽन्यद् देवतादिसतत्त्वविज्ञानम् इदं विज्ञेयम् । तथा चोक्तम्, **कृत्स्नं दहति वेदविद्** इति । तद् इदानीं रहस्यप्रायश्चित्तम् उपदिश्यते ॥ ११.२४४ ॥

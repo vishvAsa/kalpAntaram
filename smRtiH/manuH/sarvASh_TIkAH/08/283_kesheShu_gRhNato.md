@@ -57,6 +57,16 @@ unhesitatingly cause his hands to be out off; likewise if he seizes him by the f
 or hands,—there shall be a fine of 10 *Paṇas*; for causing pain, dragging, binding with cloth and striking with the feet, the fine shall be a hundred.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दर्पादित्यनुवर्तते । अहंकारेण केशेषु ब्राह्मणं गृहृतः शूद्रस्य पीडाऽस्य जाता न जाता वेत्यविचारयन्हस्तौ छेदयेत् । पादयोः श्मश्रुणि च ग्रीवायां वृषणे च हिसार्थां गृहृतो हस्तद्वयच्छेदमेव कुर्यात् ॥२८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**केशेष्व्** इति । केशपादश्मश्रुग्रीवावृषणानां चान्यतमस्माद् ब्राह्मणं शूद्रस्य हस्ताभ्याम् आकर्षयतो हस्ताविलम्बमानो राजा छेदयेत् ॥ ८.२८३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति न मारणम् एव हिंसा, किं तर्हि अनेकोपायसाध्यं च परदुःख्[ओत्पादनम्, द्वि]जातीनाम् एवान्योन्यव्यतिक्रमे धनदण्ड उच्यते, पूर्वदण्डस्य वैकल्पिकः, एतेषाम् अप्रत्ययापराधापेक्षया ॥ ८.२८२ ॥

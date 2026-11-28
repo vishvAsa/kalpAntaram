@@ -36,11 +36,22 @@ accrue to the Son.
 This verse is quoted in *Vīramitrodaya* (Paribhāṣā, p. 68)—which adds ‘*Kṛtodharmaḥ*’ should be construed as ‘*Kṛtaḥ adharma*’, as the context deals with *Adharma*,—‘*na* *niṣphalaḥ*,’ *i.e*., unless it is expiated.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि स्वयं कर्तृर्देहधनादिनाशं फलं न जनयति, तदा तत्पुत्रेषु, नोचेत्पौत्रेषु जनयति, न तु निष्फल एव भवति ।
+
+ननु अन्यकृतस्य कर्मणः कथमन्यत्र फलजनकत्वम् ? उच्यते, पुत्रादिनाशस्य पितुः क्लेशहेतुत्वा-च्छास्त्रीयत्वाच्चास्यार्थस्य नाविश्वासः ॥१७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति । यदि **स्वशरीरव्याध्युत्पादनद्वारेणाधर्मो न फलति तदा पुत्रपौत्ररोगाद्युद्भवमुखेन फलति । न त्व् असौ कृतः कदाचित् **कर्तुर् निष्फलो भवति** यैश् च दुष्कृतवशेन व्याध्याद्युपेतैर् भवितव्यं तथाविधाः तस्यात्मदुष्कृतबलात् तद्विपत्त्यादिदर्शनपीडानुभवार्थं पुत्रपौत्रा इह जन्मनि जन्मान्तरे वा जायन्ते ॥ ४.१७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -117,11 +117,24 @@ shown the moon; O King, the taking out of the house should be done on the twelft
 during the third fortnight.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्थे मासे बालस्य जन्मगृहान्निष्क्रमणमादित्यदर्शनार्थं कार्यम् । अन्नप्राशनं च षष्ठे मासे । अथवा कुलधर्मत्वेन यन्मङ्गलमिष्टं तत्कर्तव्यं तेनोक्तकालादन्यकालेऽपि निष्क्रमणम् । तया च यमः—
+
+**ततस्तृतीये कर्तव्यं मासि सूर्यस्य दर्शनम् ।**
+
+सकलसंस्कारशेषश्चायम् । तेन नाम्नां शर्मादिकमप्युपपदं कुलाचारेण कर्तव्यम् ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर्थ** इति । **चतुर्थे मासि **बालस्य **गृहान् निष्क्रमणं** कर्तव्यम् । **षष्ठे चान्नप्राशनम्** । यथाकुलधर्मत्वेन **मङ्गलम् इष्टम्**, यया नाम्या स्वाम्याद्युपपदपरिग्रहः तथा कर्तव्यं पूर्वोक्तं च ॥ २.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

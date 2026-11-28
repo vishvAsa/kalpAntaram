@@ -52,6 +52,16 @@ dealers in bamboos and weapons.’
 the maleless woman;—of multitudes, of villages, of the accused and of those who make a living by the stage or by women.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कर्मारस्य लोहकारस्य, निषादस्य दशमाध्यायोक्तस्य नटगायनव्यतिरिकस्य, रङ्गावतरणजीविनः, सुवर्णकारस्य, वेणोर्भेदनेन यो जीवति, बुरुड इति विश्वरूपः । शस्त्र लोहः तद्विक्रयश्चान्नं न भुञ्जीत ॥२१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कर्मारस्येति** । **कर्मारस्य **निषादवेणयोश् च दशमाध्यायवक्ष्यमाणयोः नटगायनव्यतिरिक्तस्यापि च **रङ्गावतरणजीविनः **सुवर्णकारशस्त्रविक्रयिणोश् चान्नं नाश्नीयात् ॥ ४.२१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 215	By a blacksmith, a Nishada, a stage-player, a goldsmith, a basket-maker, or a dealer in weapons,

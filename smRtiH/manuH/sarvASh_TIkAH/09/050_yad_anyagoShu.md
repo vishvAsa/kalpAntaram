@@ -46,6 +46,16 @@ This verse is quoted in *Vivādaratnākara* (p. 579).
 See Comparative notes for [Verse 9.48].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदन्यदीयगवीपु वृषभो वत्सशतमपि जनयेत्सर्वे ते वत्साः स्त्रीगवीस्वामिनो भवन्त्येव न वृषभस्वामिनः \। वृषभस्य यच्छुक्रसेचनं तद् वृषभस्वामिनो निष्फलमेव भवति। "यथा गोश्चॊष्ट्र्” ( म. स्मृ. ९ - ४८) इत्यनेनोत्पादकस्यप्रजाभागीत्वं न भवतीत्येतत्परत्वेन दृष्टान्त उक्तः, अयं तु क्षेत्रस्वामिनः प्रजाभागित्वं भवतीत्येतत्परत्येन। अतो न पुनरुक्तिः ॥ २२ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद्** इति । **स्वामिनाम्** इति । यद्य् अन्यसम्बन्धिनीषु गोस्त्रीषु परकीयो वृषभः शतम् अपि वत्सानां जनयेत् तदा ते सर्ववत्सा गोस्वामिनाम् एव, तं नैको ऽपि बीजस्वामिनो वृषभसम्बन्धीयकः शुक्रो वृषभस्वामिनो निष्फल एव ॥ ९.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	If (one man's) bull were to beget a hundred calves on another man's cows, they would belong to the owner of the cows; in vain would the bull have spent his strength.

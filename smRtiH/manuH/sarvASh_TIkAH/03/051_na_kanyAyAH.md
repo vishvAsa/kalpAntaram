@@ -41,11 +41,20 @@ their daughters for a consideration, are soul-sellers, sinful and grave sinners,
 to the girl’s guardian has been prescribed with a view to securing a special end, and for a righteous purpose; therefore one should present to the girl’s guardian a chariot and a hundred cows; which present joins the couple in wedlock; the applying of the name *selling* to such giving of the girl is a mere declamation; because the acceptance of the present is for a righteous purpose.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्यायाः पिता धनग्रहणशेषज्ञोपमपि धनं कन्यादाननिमित्तकं न गृह्णीयात् । यस्माल्लोभेन तद् गृह्णन्नपत्यविक्रयी भवति ॥११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । **कन्यायाः पिता** धनग्रहणदोषज्ञः स्वल्पम् अपि कन्यादानविनिमयरूपधनं **न गृह्णीयात्** । यस्माल् **लोभेन **तद् **गृह्णन् अपत्यविक्रयी **भवेत् ॥ ३.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

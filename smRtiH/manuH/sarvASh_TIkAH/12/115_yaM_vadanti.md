@@ -28,6 +28,16 @@ and unacquainted with the sacred Law, declare to be Dharma, falls, increased a h
 *Parāśara* (8.13).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तमोगुणबहुला मुर्खाः धर्मप्रमाणवेदार्थानभिज्ञा अतएव प्रश्नविषयधर्माविदः प्रायश्चित्तादिधर्मं यं पुरुषं प्रत्युपदिशन्ति तदीयं पापं शतगुणं भूत्वा वाचकान्बहुन्भजेत्॥११५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यम्** इति । ये मूढा विवेकाभावात् तमोरूपा धर्मानभिज्ञाः सन्तः पापकारिणो यत् प्रायश्चित्तम् उपदिशन्ति तत् प्रायश्चित्तनिमित्तभूतं पापं शतगुणं भूत्वा तेषां प्रायश्चित्तदातॄणां भवति ॥ १२.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	The sin of him whom dunces, incarnations of Darkness, and unacquainted with the law, instruct (in his duty), falls, increased a hundredfold, on those who propound it.

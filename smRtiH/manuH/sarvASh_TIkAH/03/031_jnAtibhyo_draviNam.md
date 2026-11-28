@@ -64,6 +64,16 @@ away the girl, selling her for a fee, it is ṭhe Āsura form.’
 by other people, of hypocrisy and deceit,—it is the Āsura form.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्याया ज्ञातिभ्यः पित्रादिभ्यः कन्यायै यद्यथाशक्ति धनं दत्त्वा कन्याया आप्रदानमादानं स्वीकारः स्वाच्छन्द्यात्स्वेच्छया न त्वार्ष इव शास्त्रीयधनजातिपरिमाणनियमेन, स आसुरो विवाह उच्यते ॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्ञातिभ्य** इति । **कन्यायै **कन्या**ज्ञातिभ्यः **यथाशक्ति धनं **दत्वा **यत् **कन्यायाश् चाप्रदानं** आदानं स्वीकारं स्वेच्छातो नार्षवद् धनजातिपरिमाणानियमेन **आसुरो **विवाह **उच्यते **॥ ३.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.

@@ -11,8 +11,6 @@ He shall shun the ten ruinous vices springing from love of plea sure, as also th
 <details><summary>मेधातिथिः</summary>
 
 इदम् अपरम् इन्द्रियजयोपदेशस्य प्रयोजनम् । अजितेन्द्रियस्य दुष्परिहराणि व्यसनानि । **दुरन्तानि**, दुःखकरः अन्तः अवसानं येषाम् । प्रथमं प्राप्तिकाले सुखयन्ति व्यसनानि, पश्चात् तु वैरस्यं जनयन्ति । ततो **दुरन्तान्य्** उच्यन्ते । अथ वा दुष्प्रापः अन्तः एषाम् । न हि व्यसनिनस् ततो निवर्तितुं शक्नुवन्ति । कामाद् धेतोः समुत्थानं जन्म येषाम् ॥ ७.४५ ॥
-
-_एषाम् वर्जने प्रयोजनम् आह, गुरुलघुबावं च ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -73,6 +71,18 @@ vices, specially the seven root ones. He shall protect himself against enemies, 
 
 *Arthaśāstra* (p. 39).—‘By subjugating the six-fold group of enemies he
 shall acquire sense-control; by associating with elders, he shall acquire wisdom; through the spy, he shall obtain vision; by action, security of life and property; by controlling the activities of people, he shall secure attention to the special functions of each man: by the teaching of sciences, discipline; by the proper use of wealth, prosperity, Having acquired sense-control, he shall shun others’ women, others’ wealth and also injury to beings; also over-addiction to sleep, fickleness, untruthfulness, too showy appearance, and misuse of wealth; also all improper and illegal proceedings.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+दश कामसंभवानि अष्टौ क्रोधजानि वक्ष्यमाणव्यसनानि यत्नतस्त्यजेत्। दुरन्तानि दुःखावसानान्यादौ सुखयन्ति अन्ते दुःखानि कुर्वन्ति। यद्वा दुर्लभोऽन्तोयेषां तानि
+
+दुरन्तानि, नहि व्यसनिनस्ततो निवर्तयितुं शक्यते॥४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दशेति** । दश कामोद्भवानि वक्ष्यमाणानि नित्यव्यअनानि, क्रोधजानि चाष्टौ दुःखावसानानि यत्नतः परिहरेत् ॥ ७.४५ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

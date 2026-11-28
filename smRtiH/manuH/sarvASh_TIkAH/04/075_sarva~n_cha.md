@@ -44,6 +44,17 @@ sesamum.’
 shall not bathe naked; he shall not sleep naked; he shall not look at a naked woman, except......’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्किञ्चित्तिलसंमिश्रं कृसरमोदकादि तस्तमितेऽर्के नाद्यात् । उपस्थाच्छादनवासोरहितो  
+नेह लोके सुप्यात् । उच्छिष्टस्तु नान्यतो गच्छेत् ॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वम्** इति । यत् किञ्चित् तिलसंयुक्तं कृसरादि तद् **अस्तम् इते **ऽर्के **नाद्यात् **। कौपीनाच्छादनरहितश् चास्मिन् लोके न सुप्यात् । **उच्छिष्टश् **च **क्वचिद् **यायात् ॥ ४.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).

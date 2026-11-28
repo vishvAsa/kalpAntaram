@@ -44,6 +44,16 @@ It is quoted in *Mitākṣarā* (2.151), whereon *Bālambhaṭṭī* has the fol
 See Comparative notes for [Verse 8.245].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुल्मान्, प्रकाण्डरहितान्वेणूंश्च प्रचुरकण्टकत्वाल्पकण्टकत्वादिभेदेन नानाप्रकारान्सामावृक्षान्, वल्लीर्लताः, स्थानानि कृत्रिमोन्नतभूभागान्, शरान्, कुूब्जकगुल्मांश्च प्रचुराल्पभोगत्वेनादरार्थं पृथङ् निर्दिष्टान्सीमालिङ्गभूतान्कुर्यात् । एवं कृते सीमा न नश्यति ॥२४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुल्मान्** इति । अप्रकाण्डाः स्मृता इति काण्डाभिधानात् गुल्मान् वृक्षान् विविधान् वेणूंश् च वेणुकीचकवेण्वादीन् नानाप्रकारान् शम्याख्यान् मल्लिकादिविचित्रान् उप्तान् भूभागान् शरान् कुब्जकसम्बन्धिनो गुल्मान् अचिरोपभोगत्वेन पृथक् विनिष्टत्वात् ॥ ८.२४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 247	By clustering shrubs, bamboos of different kinds, Samis, creepers and raised mounds, reeds, thickets of Kubgaka; thus the boundary will not be forgotten.

@@ -56,11 +56,20 @@ told to do so; she shall never go out without her upper garment; shall not walk 
 the means of realising the three ends of Merit, Wealth and Pleasure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वदा भर्तरि विरुद्वेऽपि प्रसन्नवदनतया गृह कर्मणि चतुरया सुशोधितकुण्डकटाहादिगृहभाण्डया व्यये चाबहुप्रदया स्त्रिया भवितव्यम् ॥१५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सदेति** । सर्वदा भर्तरि क्रुद्धे ऽपि प्रसन्नवदनया गृहकर्मणि चतुरया सुसंस्पृष्टकुण्डकटाहादिभाण्डया व्यये चानुदारया भवितव्यम् ॥ ५.१५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 150	She must always be cheerful, clever in (the management of her) household affairs, careful in cleaning her utensils, and economical in expenditure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

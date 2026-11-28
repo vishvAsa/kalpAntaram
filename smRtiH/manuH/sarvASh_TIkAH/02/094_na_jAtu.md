@@ -49,11 +49,15 @@ This verso only describes the true state of things. It has been thus described�
 See Comparative notes for [Verse 2.93].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+अथोपभोगतृष्णया किम् इन्द्रियाणां विषयनिवृत्तिर् नोच्यते, किं सक्तिनिषेधेनोच्यते इत्य् अत आह **न जात्व्** इति । न कदाचिद् अभिलाषः काम्यमानानाम् अर्थानाम् **उपसेवनेन निवर्तते **। प्रत्य् उत आज्यादिनाग्निर् इवाधिकतरं वृद्धिम् एति ॥ २.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

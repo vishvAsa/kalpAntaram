@@ -38,11 +38,20 @@ with his eyes, nor with his limbs; such should be the conduct of the cultured.�
 *Gautama* (1.50).—(See under 175, above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पाण्यादिचापलं त्यजेत् । अनुपयुक्तवस्तूपादानादि पाणिचापलम् ।निष्प्रयोजनं भ्रमणादि पादचापलम् ।परस्त्री प्रेक्षणादि नेत्रचापलम्। बहुगाह्यँवादिता वाक्चापलम् ।अनृजुः कुटिलो न स्यात् । परद्रोहो हिंसा तदर्थं चेष्टां धियं च न कुर्यात् ॥१७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न पाणिपादचपल** इति । हस्तपादचक्षुर्वाग्व्यापारान् निष्प्रयोजनान् न कुर्यात् अनृजुश् च क्रूरकृत् परोपघातकम् अयुक्तबुद्धिश् च न स्याद् इति । पुनर् वचनम् उक्तप्रयोजनम् ॥ ४.१७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

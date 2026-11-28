@@ -41,11 +41,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 492), which explains ‘*�
 *Hemādri* (Śrāddha, p. 785).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्य शूद्रस्य कुलशीलादिभिर्यादृश आत्मा स्वरूपं, यच्चास्य कर्म कतुरीप्सितं यथा चानेन सेवा कर्तव्या तेन प्रकारेणात्मानं कथयेत् ॥२५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यथा आत्मनिवेदनं तेन कार्यं तथाह **यादृश **इति । **यादृशो ऽस्य भवेद् आत्मा **कुलशीलादिभिर् **यादृशं **दृष्टार्थम् अदृष्टातिशयार्थं चोपचरणं कर्तुम् इष्टं येन वा प्रकारेण मृदुदकाद्याहरणादिनिमित्तं ब्राह्मणं सेवेत अनेन प्रकारेण्**आत्मानं** **निवेदयेत्** ॥ ४.२५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 254	As his character is, as the work is which he desires to perform, and as the manner is in which he means to serve, even so (a voluntary slave) must offer himself.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

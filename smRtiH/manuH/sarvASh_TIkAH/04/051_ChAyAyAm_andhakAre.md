@@ -34,6 +34,11 @@ that the freedom herein set forth is meant only for occasions when one is unable
 See Comparative notes for [Verse 3.50].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**छायायाम्** इति । **रात्राव् अहनि वा छायायां रात्राव् अन्धकारे अहनि वा **नीहाराद्यन्धकारे एतेषु, दिङ्मोहे सति तथा च वाय्वादिकृतप्राणविनाशसंशयेषु यथेष्टमुखो मूत्रपुरीषे कुर्यात् ॥ ४.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.

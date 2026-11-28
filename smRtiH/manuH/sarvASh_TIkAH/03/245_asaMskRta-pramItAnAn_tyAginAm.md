@@ -68,6 +68,16 @@ before the performance of their sacramental rites,—Manu has laid down the shar
 pronouncing the syllable *svasti*, he shall throw on each of the spots sesamum and washed rice, and then scatter food also, for those of his Pitṛs who may have died without, sacraments.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“नास्य कार्योऽग्निसंस्कार" ( म.स्मृ. ५ / ६९ ) इति निषेधात्संस्कारानर्हबालानां तथा कुलस्त्रीणामदृष्टदोषाणां ये त्यक्तारस्तेषां पात्रस्थमुच्छिष्टं दर्भेषु च यो विकिरः स भागः स्यात् । अन्ये तु त्यागिनामिति गुर्वादित्यागिनां, कुलयोषितामिति स्वातन्त्रेणकुलयोषितामनूढकन्यानामिति व्याचक्षते । गोविन्दराजस्तु त्यागिनां कुल्योषितामिति सामान्योपक्रमादिदं विशेषाभिधानं "संस्कृतंभक्षाः” ( पा० सू० ४ / २ / १६ ) इतिवत् । ततः स्वकलं त्यक्त्वा गतानां कुलस्त्रीणामित्याह ॥२४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**असंस्कृतप्रमीतानाम् **इति । “नास्य कार्यो ऽग्निसंस्कारः” [५.६९] इत्यादिना निषिद्धाग्निकार्याणां मृतानां कुलस्त्रीणां च कुलं त्यक्त्वा गतानां पात्रस्थम् **उच्छिष्टं धर्भेषु यो विकिरः** स भागः स्यात् । **कुलयोषिताम् **इति विशेषाभिधानं संस्कृतं भैक्षम् इत्य्वत् ॥ ३.२४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.

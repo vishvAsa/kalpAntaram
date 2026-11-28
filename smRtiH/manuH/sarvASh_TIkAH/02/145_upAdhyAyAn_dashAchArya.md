@@ -16,12 +16,6 @@ In veneration, the Preceptor excels ten Sub-teachers; the Father a hundred prece
 - <u>ननु</u> चानन्तरम् एव वक्ष्यति "गरीयान् ब्रह्मदः पिता" इति, इह चाचार्यात् पितुर् आधिक्यम् उच्यते तद् इतरेतरव्याहतम् । <u>नैष दोषः</u> । इहाचार्यो नैरुक्तदर्शनेनाध्यापकः, संस्कारमात्रेणाचारोपदेशमात्रेण चाभिप्रेतः- आचार्य आचारं ग्राहयतीति । न चैष नियमः स्वशास्त्रसिद्धाभिर् एव संज्ञाभिर् व्यवहारः । गुरुशब्दो ह्य् अत्र पितरि परिभाषितः, आचार्ये च तत्र तत्र प्रयुज्यते । तेन स्वल्पोपकाराद् उपनयनमात्रकराद् आचारग्राहकाद् अध्यापनरहिताद् इदं पितुर् ज्यायस्त्वम् । 
 
 - अस्मिंश् च क्रमे विवक्षिते समवाय एतेषां माता प्रथमं वन्द्या ततः पिता तत आचार्यस् तत उपाध्यायः ॥ २.१४५ ॥
-
-_मुख्याचार्यसंनिधौ पितरि च संस्कर्तरि संनिहिते कः_[^४००]_ क्रमः । अत आह । _
-
-
-[^४००]:
-     M G: tatra
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -87,11 +81,20 @@ man: the Father and the Mother; between these two, the Father is superior, then 
 suffering from shooting pains, then she gives him birth, being rendered unconscious in the process; devoted to her son, she regards him as superior even to her very life; who can recompense her even in a hundred years?’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दशोपाध्यायानपेक्ष्य आचार्यः, आचार्यशतमपेक्ष्य पिता, सहस्रं पितृृनपेक्ष्य माता गौरबेणातिरिक्ता भवति । अत्रोपनयनपूर्वकसावित्रीमात्राध्यापयिता आचार्योऽभिप्रेतस्तमपेक्ष्य पेतुरुत्कर्षः । “उत्पादकब्रह्मदात्रोः" ( अ० २ श्लो० १४६ ) इत्यनेन मुख्याचार्यस्य पितरमक्ष्योत्कर्षं वक्ष्यतीत्यविरोधः ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपाध्यायान्** इति । दशभ्य उपाध्यायेभ्य आचार्यो **गौरवेण** हेतुभूतेनाधिकी भवति । उपाध्यायपूजातः दशगुणा आचार्यस्य पूजा कार्येत्य् अर्थः । एवम् **आचार्याणां शतं पिता गौरवेण्**आधिको भवति यः सकलसंस्कारादिकर्ता । जनकमात्रपितृसहस्रात् सकलसंस्कारादिकारयित्री **माता गौरवेणा**धिकी भवति ॥ २.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	The teacher (akarya) is ten times more venerable than a sub-teacher (upadhyaya), the father a hundred times more than the teacher, but the mother a thousand times more than the father.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -80,6 +80,19 @@ sisters or daughters, wife or sons,—becomes an irreproachable bridge to heaven
 supported by rich persons:—father, mother, teacher, wife, children, a poor man seeking shelter, guest and fire; also relations that are poor, an orphan seeking shelter. He shall make presents to learned men......... The supporting of one’s dependants is the way to heaven, and the harassing of them is the way to hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ वृद्धौ च मातापितरौ साध्वी भार्या शिशुः सुतः।  
+अप्यकार्यशतं कृत्वा भर्तव्या मनुरब्रवीत्॥ १॥ \]**
+
+पुत्रदाराद्यवश्यभर्तव्यपीडनेन यत्पारलौकिकधर्मबुद्धया दानादि करोति तस्य दातुर्जीवतो मृतस्य च तद्दानं दुःखफलं भवतीति पूर्वं कीर्त्यादिदृष्टार्थदानप्रतिषेधः। अयं त्वदृष्टार्थदानप्रतिषेधः॥ १०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भृत्यानाम् **इति । पुत्रदाराद्यवश्यभर्तव्योपपीडने यत् पारलौकिकं दानादि करोति तस्य जीवतो मृतस्य वासुखफलं भवति ॥ ११.९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 मातापितरौ पुत्रदारं च **भृत्याः** । तथा चोक्तम् "गुरून् भृत्यांश् चोज्जिहीर्षन्" इति । एवं च स्मृत्यन्तरम्-

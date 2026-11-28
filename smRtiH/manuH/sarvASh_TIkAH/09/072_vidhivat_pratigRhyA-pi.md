@@ -104,6 +104,13 @@ Do. (Vīramitrodaya-Saṃskāra, p. 745).—‘One shall not find fault with a f
 defects, or asks for her hand, he shall not obtain her, even though she may have been betrothed to him. In the same manner if the girl is subsequently found to have defects, the giver of her shall be punished.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"अद्भिरेव द्विजाग्र्याणाम्” ( म. स्मृ. ३-३५ ) इत्येवमादिविधिना प्रतिगृह्यापि कन्यां
+
+वैधव्यलक्षाणॊपेतांरोगिणीं, क्षतयोनित्वाद्यभिशापवतीमधिकाङ्गादिगापनच्छ द्मोपपादितां सप्तदीकरणाप्राग्ज्ञातां त्यजेत् । ततश्च तत्त्यागे दोषाभाव इत्येतदर्थं, न तु त्यागार्थम् ॥७२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रतिगृ]हीतापि सत्य् एव निमित्ते त्याजा (?) नान्यत्र "निष्क्रयविसर्गाभ्याम्" इति वचनात् । अतो ऽस्याः त्यागनिमित्तैर् विना यथाकामं न त्यागो ऽस्ति, यथोच्छिष्टद्रव्याणाम् ॥ ९.७२ ॥

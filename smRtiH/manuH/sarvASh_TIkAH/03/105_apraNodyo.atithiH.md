@@ -56,11 +56,26 @@ Vaiśvadeva offerings, or in the evening, should be honoured as a god,—he bein
 master and mistress of the house shall not refuse him; if there is no food, they should offer place, water, grasses and sweet words.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सूर्येऽस्तमिते गृहस्थेनातिथिनं प्रत्याख्येयः, सूर्येणोढः प्रापितो रात्रौ स्वगृहगमनाशक्तेः ।द्वितीयवैश्वदेवकाले प्राप्तः । अकाले वा सायंभोजने निवृत्तेऽपि । नास्य गृहेऽतिथिरनश्नन्वसेदवश्यमस्मै भोजनं देयम् । प्रत्याख्याने प्रायश्चित्तगौरवार्थोऽयमारम्भः । अत एव विष्णुपुराणे-
+
+**दिवाऽतिथौ तु विमुखे गते यत्पातकं नृप ।**
+
+**तदेवाष्टगुणं प्रोक्तंसूर्योढे विमुखे गते ॥**
+
+गोविन्दराजस्तु प्रतिषिद्धातिथिप्रतिप्रसवार्थत्वमस्याह ॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अप्रणोद्य** इति । यस्माद् अयम् आदित्येनास्तं गच्छता प्रापितो ऽतिथिः, तदानीं स्वगृहगमनाशक्तेः, स **गृहमेधिना** गृहानुष्ठेयपञ्चयज्ञवता गृहस्थेन न प्रत्याख्येयः । स च चैश्वदेवकाले प्राप्तः तदुत्तरकाले वा नास्य गृहस्थस्य अन्नम् **अनश्नन् गृहे वसेत्** । अवश्यम् अस्याशनं देयम्, अयं च प्रतिषिद्धातिथिप्रतिप्रसवार्थम् आरम्भः, अन्यथा “वैश्वदेवं हि नामैतत् सायं प्रातर् विधीयते” (म्ध् ३.१२१) इति वक्षमाणेनैव सायम् अतिथिदानसिद्धौ अनारम्भः स्यात् ॥ ३.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	A guest who is sent by the (setting) sun in the evening, must not be driven away by a householder; whether he have come at (supper-) time or at an inopportune moment, he must not stay in the house without entertainment.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

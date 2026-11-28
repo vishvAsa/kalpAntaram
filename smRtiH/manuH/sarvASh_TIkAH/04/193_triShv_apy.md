@@ -26,11 +26,20 @@ Such giving becomes a source of trouble to both the giver and the receiver in th
 This verse is quoted in *Aparārka*, (p. 285), which explains ‘*anarthe*’ as ‘sin’;—and in *Parāśaramādhava* (Ācāra p. 174).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतषु त्रिष्वपि बैडालव्रतिकादिषु न्यायार्जितमपि धनं दत्तं दातुः प्रतिग्रहीतुश्च परलोके नरकहेतुत्वादनर्थाय भवति ॥१९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिष्व्** इति । न्याय्पार्जितं **धनं **बैडालव्रतिकादिषु **त्रिष्व् अपि दत्तं **दातृप्रतिग्रहीत्रोः परलोके नरकपातहेतुत्वात् **अनर्थाय **सम्पद्यते ॥ ४.१९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 193	For property, though earned in accordance with prescribed rules, which is given to these three (persons), causes in the next world misery both to the giver and to the recipient.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

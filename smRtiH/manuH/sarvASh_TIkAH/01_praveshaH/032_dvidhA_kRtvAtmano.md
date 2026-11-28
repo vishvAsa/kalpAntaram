@@ -29,11 +29,20 @@ This mention of the bifurcation of Prajāpati’s body is based upon the fact th
 The ‘Virāṭ’ whose birth is here described is, according to some, the same as,—and according to others, different from—the ‘Brahmā’ described above, in verse 9. That Medhātithi leans towards the latter view is indicated by his assertion that what happened was that ‘the body of Brahmā (described in verse 9) now took the form of the Hermaphrodite,’—or as he adds later, ‘the Female form was separated from His own Male form.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स ब्रह्मा निजदेहं द्विखण्डं कृत्वा अर्धेन पुरुषो जातः, अर्धेन स्त्री, तस्यां मथुनधमण विराट्संज्ञं पुरुषं निर्मितवान्। श्रुतिश्च – “ततो विराडजायत" इति॥३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**द्विधेति** । स ब्रह्मा शरीरं द्विभागं **कृत्वा **एकेन्**आर्धेन **पुमान् सम्पन्नः । अपरेण स्त्री **स** तस्याश् च सकाशात् विराजाख्यं पुरुषं सृष्टवान् ॥ १.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -56,6 +56,16 @@ prajām*’ and ‘*śriyamāpnoti*’ for ‘*dhanamakṣayyam*.’)
 longevity; by right conduct he acquires prosperity; by right conduct he acquires fame, here as well as after death.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचाराद्वेदोक्तमायुर्लभते, अभिमताश्च प्रजाः पुत्रपौत्रदुहित्रात्मिकाः प्रभुतं च धनं, अशुभफलसूचकं च देहस्थमलक्षणमाचारो निष्फलयति, आचाराख्यधमणालक्षणसूचितारिष्टनाशात् ॥१५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यद् अर्थम् आचारस्य पुनर् वचनं तद् आह **आचाराद्** इति । **आयुर्**इष्टापत्य्**आक्षयधना**न्य् **आचारात्** तदनुष्ठानाल् **लभते **। दुष्टलक्षणं च प्रियभार्याविनाशसंसूचकं तिलकाद्य्**आचारो **निष्फलीकरोतीत्य् आचारफलकथनम् । न चानित्यताआपत्तिः, “सावित्रीमात्रसारो ऽपि” (२.११८) इत्यादिना नित्यत्वस्य समर्पितत्वात् ॥ ४.१५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 156	Through virtuous conduct he obtains long life, through virtuous conduct desirable offspring, through virtuous conduct imperishable wealth; virtuous conduct destroys (the effect of) inauspicious marks.

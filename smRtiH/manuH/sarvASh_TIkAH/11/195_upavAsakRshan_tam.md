@@ -43,6 +43,16 @@ This verse is quoted in *Smṛtitattva* (p. 473).
 seated among his kinsmen, shall offer grass to the cows; and when he has been honoured by the cows, the association of others follows.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केवलक्षीराहारेण इतरभोजनव्यावृत्त्या कृशदेहं गोष्ठात्प्रत्यागतं प्रणतं नम्रीभूतं किमस्माभिः सह साम्यमिच्छसि पुनरसत्प्रतिग्रहं न करीष्यसोत्येवं धर्मं ब्राह्मणाः परिपृच्छेयुः॥१९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपवासकृतम्** इति । केवलं क्षीराहारेणाशनान्तरनिवृत्त्या तम् अपवितशरीअं गोष्ठात् प्रत्यागतं प्रह्वीभूतं हे साधो किं अस्माभिः सह सामान्यम् इच्छति पुनर् असत्प्रतिग्रहेअ न त्वं प्रवर्तस इत्य् एवं धर्मं ब्राह्मणाः परिपृच्छेयुः ॥ ११.१९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 196	But when he returns from the cow-house, emaciated with his fast, and reverently salutes, (the Brahmanas) shall ask him, 'Friend, dost thou desire to become our equal?'

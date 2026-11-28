@@ -40,11 +40,20 @@ explains ‘*pretaniryātakaḥ*’ as ‘one who carries dead bodies on payment
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मेषमहिषजीवनः, परपूर्वा पुनर्भूस्तस्याः पतिः, प्रेतनिरको धनग्रहणेन, न तु धर्मार्थम्, “एतद्वै परसं तपो यत्प्रेतमरण्यं हरन्ति" इत्यवश्यश्रुत्या विहितत्वात् ॥१६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**औरभ्रिकः** मेषमहिषजीवी पुनर्भुवो भर्ता मूल्येन प्रेतानां निर्हारकः न धर्मार्थम्, “एतद् वै परमं तपो यं प्रेतम् अरण्यं हरन्ति” इति श्रुत्या नोदितत्वात् । एते यत्नत उभयत्र वर्जनीयाः ॥ ३.१६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

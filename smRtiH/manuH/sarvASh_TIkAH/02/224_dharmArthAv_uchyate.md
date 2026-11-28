@@ -69,11 +69,20 @@ he shall not make devoid of merit, wealth and pleasure;—from among these he sh
 wealth follows.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मार्थौश्रेयोऽभिधीयते कामहेतुत्वादिति केचिदाचार्या मन्यन्ते । अन्ये त्वर्थकामौ सुखहेतुत्वाच्छ्रेयोऽभिधीयते । धर्म एवेत्यपरे, अर्थकामयोरप्युपायत्वात् । अर्थ एवेह लोके श्रेय इत्यन्ये, धर्मकामयारपि साधनत्वात् । सम्प्रति स्वमतमाह - धर्मार्थकामात्मकः पररूपराविरुद्धस्त्रिवर्ग एव पुरुषार्थतया श्रेय इति विनिश्चयः । एवं च बुभुक्षून्प्रत्युपदेशो न मुसुक्षून् । मुमुक्षूणां तु मोक्ष एव श्रेय इति षष्ठे वक्ष्यते ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“श्रेय आचरेद्” इत्य् उक्तम्, किं तच् छ्रेय इत्य् अत आह **धर्मार्थाव्** इति । **धर्मार्थौ श्रेय** इति कैश्चिद् **उच्यते **। परलोकेहलोकयोः यथाक्रमं तयोः कर्मनिमित्तत्वात् । **कर्मार्थाव्** इत्य् परैः कथ्यते, प्रत्यक्षतः तयोर् एव पुरुषार्थसाधकत्वोपलभ्यात् **धर्म एवे**त्य् अन्यैः भाष्यते अर्थकामयोस् तन्मूलत्वश्रवणात् । अर्थ एवेहलोके श्रेय इत्य् अन्यैः अभिधीयते । तत एव धर्मकामसिद्धेः । एवं मतान्तराण्य् उक्त्वा स्थितपक्षम् आह **त्रिवर्ग इति तु स्थितिर् इति** । धर्मार्थकामरूपत्र्यात्मको वर्गः श्रेय इत्य् उच्यते । इत्य् एष निश्चयः । परस्पराविरोधेन त्रयाणाम् अपि पुरुषार्थसाधकत्वात् । न च ब्रह्मचारिणः कामसेवनम् अतो नोपदिश्यते श्रेयःपदार्थनिरूपणपरत्वात् ॥ २.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	(Some declare that) the chief good consists in (the acquisition of) spiritual merit and wealth, (others place it) in (the gratification of) desire and (the acquisition of) wealth, (others) in (the acquisition of) spiritual merit alone, and (others say that the acquisition of) wealth alone is the chief good here (below); but the (correct) decision is that it consists of the aggregate of (those) three.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

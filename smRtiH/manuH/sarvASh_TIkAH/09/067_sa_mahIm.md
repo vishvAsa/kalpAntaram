@@ -40,6 +40,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 738 and in Vyavahāra,
 See Comparative notes for [Verse 9.60].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स वेनो महीं समग्रां पूर्व पालयन्नत एव राजपिश्रेष्टा, व तु धार्मिकत्वात्,कालोपहतवद्धिर्भ्रातृभार्यागमनरूपं वर्णसंकरं प्रावतैयत् ॥ १७ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स** इति । स वेनः पूर्वं समग्रां पृथिवीं पालयन् तत एव राजर्षिश्रेष्ठो न तु धार्मिकः, ततो ब्राह्मणानुज्ञयैतद् भ्रातृभार्यागमनलक्षणं वर्णसङ्करं वर्तितवान् ॥ ९.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	That chief of royal sages who formerly possessed the whole world, caused a confusion of the castes (varna), his intellect being destroyed by lust.

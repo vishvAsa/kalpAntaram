@@ -104,6 +104,11 @@ If there are ten cows, the Brāhmaṇa son shall receive four cows the Śūdra o
 See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि ब्राह्मणो द्विजातिस्त्रीषु सर्वासु विद्यमानपुत्रः स्यादविद्यमानपुत्रो वा, तथापि शुद्रापुत्रायानन्तराधिकारी यस्तेषु दशमभागादधिकं धर्मतो न दद्यात् । अयं च शुद्रापुत्रविषये निषेधस्तस्मादविद्यमानसजातिपुत्रस्य क्षत्रियावैश्यापुत्रौ सर्वरिक्थहरौः स्याताम् ॥ १५४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सन्तः पुत्रा [द्विजात]यो यस्य सो ऽयं सत्पुत्रः । यद्य् अपुत्रो ऽपि वा भवेत् तद् अभावे केवलः शूद्रापुत्रः । एवम् अपि नाधिकं दशभागात् तस्मै देयम्, अन्यत् सपिण्डा हरेयुः । तदभावे तद्धनस्य [त एवाधिकारिणः स्युः] । एतस्माद् एव लिङ्गत् क्षत्रियस्याताम् । इतरथा हि शूद्रप्रतिषेधो ऽनर्थकः स्यात् ॥ ९.१५४ ॥

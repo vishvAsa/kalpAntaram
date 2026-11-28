@@ -62,6 +62,16 @@ as what is desired is offered, and so long as the offerer does not say
 each such dishes as he may relish; they should be fed till they are fully satisfied; and he shall not selfishly keep back any food.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यद्विप्राणामीप्सितमन्नव्यञ्जनादि तत्तदुमत्सरो दद्यात् । परमात्मनिरूपणपराः कथाश्च कुर्यात् । यतः पितॄणामेतदपेक्षितम् ॥२३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद्** इति । **ब्रह्मोद्याश् चेति** । **यद् यद् **अन्नं व्यञ्जनादि भवति **तत् तद्** अदुष्टः सन् **दद्यात् **। तथा परमात्मनिरूपणं पुण्यकथास्तोत्रं कुर्यात् यद् **एतत्** **पितॄणाम् **अभिप्रेतम् ॥ ३.२३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.

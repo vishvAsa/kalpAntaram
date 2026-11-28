@@ -34,11 +34,20 @@ This verse is quoted in *Aparārka* (p. 232);—in *Hemādri* (Vrata, p. 14);—
 See Comparative notes for [Verse 4.241].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद्धर्मेण सहायेन दुस्तरं तमो नरकादिदुःखं तरति, तस्माद्धर्मं सहायभावेन सततं शनैरनुतिष्ठेत् ॥२४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्माद्** इति । यस्माद् धर्मेण सहायेन सता दुस्तरनरकादिदुःखं तरति तस्मात् धर्मं सहायार्थं सर्वदा शनैर् जयेत् ॥ ४.२४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

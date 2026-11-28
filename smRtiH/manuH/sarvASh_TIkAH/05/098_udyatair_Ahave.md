@@ -47,11 +47,20 @@ sacrificial performances, in times of public disturbance, and under great distre
 orbit—the mendicant firm in Yoga and one killed in the battle-front.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उद्यतैः शस्त्रैःखड्गादिभिर्न तु लगुडपाषाणादिभिरपराङ्मुखत्वा दिक्षत्रियधर्मयुक्तसंग्रामे इतस्य तत्क्षणादेव ज्योतिष्टोमादियज्ञः संतिष्ठते समाप्तिमेति, तत्पुण्येन युज्यत इत्यर्थः। तथाऽऽशौचमपि तत्क्षणादेव समाप्तिमेति, इयं शास्त्रे मर्यादा ॥९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उद्यतैर्** इति । सङ्ग्राम उद्यतैः खड्गादिभिः अपराङ्मुखत्वादिक्षत्रियधर्मयुक्तस्य हतस्य तत्क्षणाद् एव यज्ञसमाप्तिस् तत्कालम् एव यज्ञफलसम्बन्धात् तथाशौचम् अपि तत्क्षणाद् एव समाप्तिम् एतीत्य् एवं शास्त्रमर्यादा ॥ ५.९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 098	By him who is slain in battle with brandished weapons according to the law of the Kshatriyas, a (Srauta) sacrifice is instantly completed, and so is the period of impurity (caused by his death); that is a settled rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

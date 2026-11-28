@@ -62,11 +62,20 @@ his own reading being ‘*purātanāḥ*’ explained as ‘the ancient sages’
 persons as are free from anger, not fickle, tolerant, self-controlled, with senses suppressed, and benevolent towards all beings.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्रोधशून्यान्सुप्रसादान्प्रसन्नमुखान्प्रवाहानादितया पुरातनान् “अग्नौप्रास्ताहुतिः” ( म. स्मृ. ३ / ७६ ) इति न्यायेन लोकवृद्धय उद्युक्तान्श्राद्धपात्रभुतान्मन्वादयो वदन्ति । तस्माद्देवतुल्यत्वाच्छ्राद्धं ब्राह्मणस्य हस्ते दातव्यमिति पूर्वविध्यनुवादः ॥२१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अक्रोधनान् ** इति । **अक्रोधनान्** क्रोधशून्यान् स्वाराधनादीन् “अग्नौ प्रास्ताहुतिर्” इति न्यायेन लोकवृद्ध्युपादानात् श्राद्धसम्प्रदानभूतान् एतान् ब्राह्मणान् मन्वादयो वदन्ति । तस्मात् देवतुल्यत्वात् तद्धस्ते पूर्वविध्यर्थवादः ॥ ३.२१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

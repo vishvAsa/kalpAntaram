@@ -40,11 +40,20 @@ This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 688);�
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हस्तिगवाश्वोष्ट्राणां विनेता, नक्षत्रशब्देन ज्योतिःशास्त्रमुपलक्ष्यते तेन यो वर्तते, पक्षिणां पञ्जरस्थानां क्रोडाद्यर्थं विक्रयार्थं वा पोषकः, युद्धार्थमायुधविद्योपदेशकः ॥१६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हस्तिगोऽश्वोष्ट्रदमक** इति । हस्तिगवाश्वोष्ट्राणां विनेता, ज्यितिःशास्त्रेण जीवनः पक्षिणां वार्तनपूर्वकं क्रीडार्थं पोषयति युद्धशिक्षयिता एते उभयत्र परिहर्तव्याः ॥ ३.१६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 162	A trainer of elephants, oxen, horses, or camels, he who subsists by astrology, a bird-fancier, and he who teaches the use of arms,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

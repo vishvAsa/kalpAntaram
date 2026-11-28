@@ -52,6 +52,16 @@ killed children, or with ungrateful persons, or with those who have tilled a wom
 protection, or a child or a woman, or those who are ungrateful,—with these one should not associate, even though they may have performed the requisite penances.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बालं यो हतवान्, कृतोपकारमपकाराचरणेन यो विनाशितवान्, प्राणरक्षार्थमागतं यो हतवान्,स्त्रियं च योव्यापादितवानेतान्यथावत्कृतप्रायश्चित्तानपि संसर्गितया न परिवसत्॥१९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बालघ्नान्** इति । बालं यो हतवान् यश् च कृतम् उपकाराचरणेन नाशितवान् यश् च त्राणार्थिनम् आगतं हतवान् स्त्रियं च यो हतवान् तान् प्रायश्चित्ततपसोत्पन्नशुद्धिकान् अपि सहवासं परिहरेत् ॥ ११.१८९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 संपर्कापवादार्थो ऽस्यारंभः । अथ वा प्रत्यवायातिशयज्ञापनार्थः ॥ ११.१८९ ॥

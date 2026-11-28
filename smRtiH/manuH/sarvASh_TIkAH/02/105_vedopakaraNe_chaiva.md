@@ -79,11 +79,20 @@ forbidden for the Obligatory Rites, nor in the offering of Twilight Prayers, nor
 for the study of the Subsidiary Sciences, or of Itihāsas and Purāṇas, or of the Dharmaśāstras. But these should be avoided on the *Parva* days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदोपकरणे वेदाङ्गे शिक्षादौ नैत्यके नित्यानुष्ठेये च स्वाध्याये ब्रह्मयज्ञरूपे होममन्त्रेषु चानध्यायादरो नास्ति ॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+स्वाध्यायविधिवत् प्रकरणान्तरेणानध्यायाम्नानात् वेदवेदाङ्गोच्चारणधर्मत्वात् (शङ्कायां) ब्रह्मयज्ञादाव् अप्य् अनध्यायप्राप्ताव् आह **वेदोपकरण** इति । वेदोपकारके निरुक्तादाव् अङ्गे, नित्यभवे च **स्वाध्याये** ब्रह्मयज्ञाख्ये होमार्थं मन्त्रोच्चारणे वानध्यायानुरोधो नास्ति । वेदोपकरणादीनां प्रसङ्गाच् च लाघवार्थम्(अन्)अभिधानम् । **हि**शब्दः आगमप्रसूचकः ॥ २.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	Both when (one studies) the supplementary treatises of the Veda, and when (one recites) the daily portion of the Veda, no regard need be paid to forbidden days, likewise when (one repeats) the sacred texts required for a burnt oblation.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

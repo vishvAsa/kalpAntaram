@@ -24,6 +24,16 @@ Inevitable decrepitude, the pangs of sickness, various forms of afflictions and 
 The meaning of these two verses is clear.—(79-80)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जरां चाविद्यमानप्रतीकारां व्याधिभिश्चोपपीडनं क्षुत्पिपासादिना च नानाप्रकारान् क्लेशान्मृत्युं च दुर्वारं प्राप्नुवन्ति॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जराम्** इति । जरां चाप्रतिबन्धां व्याधिभिश् च पीडनम् अनेकप्रकारांश् च क्षुत्पिपासादिना तांश् तान् उपतापान् मृत्युं चानपासनीयम् आसादयन्ति ॥ १२.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 080	Old age against which there is no remedy, the pangs of diseases, afflictions of many various kinds, and (finally) unconquerable death.

@@ -66,11 +66,15 @@ evening.’
 *Gobhila-Gṛhyasūtra*, 2.10.42.—‘After this he goes about begging alms.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिगृह्येति** । आप्तुम् इष्टं संस्कृतं **दण्डं** गृहीत्वा आदित्यं चाभिध्याय अग्निं प्रदक्षिणीकृत्य **भक्षं** यथाशस्त्रं **चरेत् **॥ २.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	Having taken a staff according to his choice, having worshipped the sun and walked round the fire, turning his right hand towards it, (the student) should beg alms according to the prescribed rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

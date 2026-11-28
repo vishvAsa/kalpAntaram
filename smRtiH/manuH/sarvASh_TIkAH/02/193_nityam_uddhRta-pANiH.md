@@ -48,11 +48,20 @@ This verse is quoted in *Madanapārijāta* (p. 100);—in *Aparārka* (p. 56);�
 teacher’s right, facing either the east or the north.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सततमुत्तरीयाद्वहिष्कृतदक्षिणबाहुः, शोभनाचारः वस्त्रावृतदेहः आस्यतामिति गुरुणोक्तः सन् गुरोरभिमुखं यथा भवति तथा आसीत ॥१९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम्** इति । यावज्जीवं गुरुसन्निधौ वसेद् उद्धृतबाहुः सदाचारयुक्तो ऽनलसः स्यात् । गुरुणा उपविश्यताम् इति **चोक्तः सन्** **गुरोः** सम्मुखम् उपविशेत् ॥ २.१९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 193	Let him always keep his right arm uncovered, behave decently and keep his body well covered, and when he is addressed (with the words), 'Be seated,' he shall sit down, facing his teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

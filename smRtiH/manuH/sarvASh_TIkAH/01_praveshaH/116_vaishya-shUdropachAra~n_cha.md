@@ -56,6 +56,16 @@ their respective duties. All this is dealt with in Discourse IX.
 ‘*The method of expiation*,’—is dealt with in Discourse XI.—(113-116)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वैश्यशूद्रोपचारं स्वधर्मानुष्ठानम् । एतन्नवसे । एवं संकीर्णानामनुलोमप्रतिलोमजानामुत्पत्तिम्, आपदि च जीविकोपदेशम् आपद्धर्मम् । एतद्दशमे । प्रायश्चित्तविधिमेकादशे ॥११६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्यशूद्रोपचारम् **इति ॥ १.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,

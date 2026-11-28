@@ -39,11 +39,20 @@ connection with the higher castes;—it explains ‘*Yathāyogam*’ as ‘in th
 towards the village.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अमाङ्गलिकत्वादत्यन्तापकृष्टशूद्रक्रमेणाभिवानम् ।शुद्धं भृतं दक्षिरपुरद्वारे निर्हरेत् । द्विजातीन्पुनर्यथायोगं यथायुक्त्याऽपष्टवैश्यक्षत्रियविप्रक्रमेणैव पश्चिमोत्तरपूर्वद्वारेण निर्हरेत् ॥९२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दक्षिणेनेति** । शूद्रं मृतं दक्षिणदिग्वर्तिना नगरादिद्वारेण निर्हरेत् । पश्चिमोत्तरपूर्वदिग्वर्तिभिः पुरद्वारैर् यथाक्रमं वैश्यक्षत्रियब्राह्मणान् निर्हरेत् । अमङ्गलत्वाच् छूद्रादिप्रक्रमेणात्र धर्माभिधानम् ॥ ५.९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 092	Let him carry out a dead Sudra by the southern gate of the town, but (the corpses of) twice-born men, as is proper, by the western, northern, or eastern (gates).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

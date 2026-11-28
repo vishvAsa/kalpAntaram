@@ -91,6 +91,11 @@ It is quoted in *Nṛsiṃhaprasāda* (Vyavahāra 35b);—in
 See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुरो भागान्ब्राह्मणो गृह्णीयात् \। त्रीन्क्षत्रियापुत्रः द्वौ वैश्यापुत्रः एकं शुद्राजः \। अत्रापि ब्राह्मणीक्षत्रियापुत्रसद्भावे सप्तधा धने कृते चत्वारो भागा ब्राह्मणस्य, त्रयः क्षत्रियापुत्रस्य \। एवं ब्राह्मणीवैश्यापुत्रादौ द्विबहुपुत्रेषु च कल्पना कार्या ॥ १५३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थांशकल्पना । अत्रापि पूर्ववत् समविषमसंख्येषु विभागो विज्ञेयः ॥ ९.१५३ ॥

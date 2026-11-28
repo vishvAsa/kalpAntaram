@@ -50,6 +50,16 @@ evening; nor alone; nor with Śūdras.’
 wicked conveyance; nor shall he go under the shadow cast by a river-bank; one shall not go alone into a desolate forest; nor shall he enter an empty house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उषःसमये प्रदोषे च दिवा सम्पूर्णप्रहरद्वये च अज्ञातकुलशीलेन पुरुषेण शूद्रैश्च सह न गच्छेत् । "नैकः प्रपद्येताध्वानम्” ( म. समृ. ४-६० ) इत्युके प्रतिषेवेऽपि पुननेक ।इति प्रतिषेधः स्नातकव्रतलोपप्रायश्चित्तगौरवार्थः ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नातिकल्यम्** इति । उषःप्रदोषयोः मध्याह्ने च जाते **अविज्ञातेन **पुरुषेण शूद्रैश् चाध्वानं न **गच्छेत्** । “नैकः प्रपद्येताध्वानम्” इत्य् उक्ते ऽपीह एक इत् पुनर्वचनं प्रायश्चित्तविशेषार्थम् ॥ ४.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.

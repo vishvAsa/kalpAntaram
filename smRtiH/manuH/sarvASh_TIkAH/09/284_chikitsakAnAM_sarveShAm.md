@@ -47,6 +47,13 @@ This verse is quoted in *Smṛtitattva* (p. 535).
 the case of a patient of high rank should pay the highest amercement;—the middle amercement in the case of an ordinary patient;—and the lowest amercement in the case of an animal.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+२८ म०
+
+सर्वेषां कायशल्यादिभिषजां दुश्चिकित्सां कुर्वतां दण्डः कर्तव्यः। तत्र गवास्रादिविषये दुश्चिकित्सायां प्रथमसाहसदण्डो मानुषविषये पुनर्मध्यमसाहसः॥ २८४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रथममध्यमौ साहसोत्तरपदाव् एतौ द्रष्टव्यौ । विना शास्त्रेण । [अथ]वा सति शास्त्राध्ययने मिथ्या ये चिकित्सायां वर्तन्ते मानुषामानुषेषु तेषाम् एष दमः ॥ ९.२८४ ॥

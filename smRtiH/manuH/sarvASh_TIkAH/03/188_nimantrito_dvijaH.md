@@ -61,11 +61,20 @@ things: the second meal, journeying, carrying loads, study, sexual intercourse, 
 Brāhmaṇa accept a gift, or if he eat at the Śrāddha after having taken his food, then all his merit becomes destroyed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्राद्धे निमन्त्रितो ब्राह्मणो निमन्त्रणादारभ्य श्राद्धाहोरात्रंयावन्मैथुननिवृत्तिसंयमनियमवान्स्यात् । अवश्यकर्तव्यजपादिवर्जं वेदाध्ययनं च न कुर्यात् । श्राद्धकर्ताऽपि तथैव स्यात् ॥१८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निमन्त्रित** इति । श्राद्धे ब्राह्मणो **निमन्त्रितः **स्त्रीनिवृत्तियमनियमानुष्ठानवान् **सदा** निमन्त्रणात् प्रभृति श्राद्धाहोरात्रं यावत् स्यात् । वेदांश् च जपाद्यवश्यकर्तव्यव्यतिरेकेण **नाधीयीत** **।** श्राद्धकृच् च तद्वद् एव स्यात् ॥ ३.१८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -25,6 +25,11 @@ For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; a
 This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support of *Parāśara*, verse 63;—and in the *Vīramitrodaya*—*Paribhāṣā* (p. 45), which explains ‘*Vaṇikpatham*’ as ‘trade’ and ‘*Kusīdam*’ as ‘lending money on interest’.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**वणिक्पथं** स्थपथवारिपथादिना वाणिज्यायै गमनम् । **कुसीदं **वृद्ध्यर्थं धनप्रयोगः ॥ १.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	The Vaisya to tend cattle, to bestow gifts, to offer sacrifices, to study (the Veda), to trade, to lend money, and to cultivate land.

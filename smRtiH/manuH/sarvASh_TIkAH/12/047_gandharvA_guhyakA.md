@@ -33,6 +33,16 @@ This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p. 694);
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गन्धर्वाः, गुह्यकाः, यक्षा जातिविशेषाः पुराणादिप्रसिद्धाः, ये च देवानुयायिनो विद्याधरादयः, अप्सरसश्च देवगणिकाः सर्वा इत्येषा राजसीमध्य उत्कृष्टा गतिः॥४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गन्धर्वा **इति । गन्धर्वा गुह्यका यक्षा जातिविशेषा ये देवानुयायिनो विद्याधरादयो ऽप्सरसश् च देवगणिका उदकोद्भवा अन्याश् चेत्य् एषां राजसेषु मनुष्येषूत्कृष्टा गतिः ॥ १२.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	The Gandharvas, the Guhyakas, and the servants of the gods, likewise the Apsarases, (belong all to) the highest (rank of) conditions produced by Activity.

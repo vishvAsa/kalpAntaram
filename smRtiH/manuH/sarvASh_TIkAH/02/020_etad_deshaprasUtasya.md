@@ -34,11 +34,20 @@ This is quoted in the *Vīramitrodaya*, *Paribhāṣā* (p. 56) which says that 
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुरुक्षेत्रादिदेशजातस्य ब्राह्मणस्य सकाशात्सर्वमनुष्या आत्मीयमात्मीयमाचारं शिक्षेरन् ॥२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्देशप्रसूतस्येति** । कुरुक्षेत्रादिदेशजातस्य **ब्राह्मणस्य सकाशात् स्वं स्वम् **आचारं **पृथिव्यां **सर्वे मनुष्याः **शिक्षेरन् **॥ २.२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 020	From a Brahmana, born in that country, let all men on earth learn their several usages.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

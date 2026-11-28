@@ -100,6 +100,16 @@ All this we shall show under the verse ‘coveting the property of others, etc.,
 See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202132.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवं शुभाशुभानां कर्मणांपरलोक इष्टानिष्टफलं मनसा विचार्य मनोवाक्कायैःशुभमेव सर्वं कर्म कुर्यात्, इष्टफलत्वात्। नाशुभं, नरकादिदुःखहेतुत्वात्॥२३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम् **इति । एवं शुभाशुभानां कर्मणां परलोक इष्टफलोत्पत्तिं मनसा विचार्य मनोवाक्कायैः शुभम् एव कर्म कुर्यात् । इष्टफल्त्वान् नाशुभम् अकृतप्रायश्चित्तानाम् अदृष्टोत्पादनत्वात् प्रायश्चित्तकरणस्यापि च दुःखरूपत्वात् ॥ ११.२३० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उभयम् अपि निवृत्तिं प्रायश्चित्तं च, येनैकत्रानुत्पत्तिर् एव पापस्य, अन्यत्रोत्पन्नस्य विनाशः । यतश् चैतद् एवम् अतः ॥ ११.२२९ ॥

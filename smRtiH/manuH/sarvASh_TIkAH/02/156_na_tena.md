@@ -24,11 +24,20 @@ He who, ‘*though young*’—is of young age—and yet carries on his study,�
 *Gautama* (see under 154).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न तेन वृद्धो भवति येनास्य शुक्नुकेशं शिरः, किंतु युवाऽपि सन्विद्वांस्त देवाः स्थविरं जानन्ति ॥१५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येन **कारणेन वयोभूयिष्ठ्याख्येन **अस्य पलित**युक्तं **शिरः न तेन वृद्धो भवति **। यस् तरुणो ऽपि सन् अधीतवेदो भवति **तं देवाः **वृद्धं मन्यन्ते इत्य् अभिधानं प्रकृतदार्ढ्यार्थम् ॥ २.१५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

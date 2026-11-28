@@ -107,11 +107,20 @@ extends up to ten years; among members of the same Vedic sect, up to five years 
 his *friend*; a citizen who is senior by ten years; an artisan, who is senior by five years; a Vedic scholar of the same Vedic sect, who is senior by three years.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दश अब्दा आख्या यस्य तद्दशाब्दाख्यं पौरसख्यम् । अयमर्थः —एकपुरवासिनां वक्ष्य-माणविद्यादिगुणरहितानामेकस्य दशभिरब्दैज्येष्ठत्वे सत्यपि सख्यमाख्यायते । पुरग्रहणं प्रदर्शनार्थं, तेनैकग्रामादिनिवासिनामपि स्यात् । गीतादिकलाभिज्ञानां पञ्चवर्षपर्यन्तं सख्यं, श्रोत्रियाणां त्रब्दपर्यन्तं, सपिण्डेष्वत्यन्ताल्पेनैव कालेन सह सख्यम् । अपिरेवार्थे । सर्वत्रोक्तकालादूर्ध्वं ज्येष्ठव्यवहारः ॥१३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दशाब्दाख्यम्** इति । एकपुरनिवासिना निर्गुणानाम् एकस्य **दशभिर् वर्षैः** ज्येष्ठे सत्य् अपि सख्यम् आख्यायते । ततश् चासौ “भो भवत् इति वयस्यः” [ग्ध् ६.१४] इत्य् एवं गौतमस्मरणाद् वाच्यः । एवं **कलाभृतां **गीतज्ञानां **पञ्चभिर् अब्दैः** सख्यम् आख्यायते वेदाध्यायिनां **त्र्यब्दपूर्वं **त्र्यब्दाधिकं त्रिवर्षज्येष्ठेन सख्यम् । ज्ञातिषु पुनर् अप्य् **अल्पेनैव **कालेन । यत्र वर्षव्यवहारो नास्ति तेन सख्यम् अन्यथा सर्वत्रात्र ज्येष्थत्वव्यवहारः ॥ २.१३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 134	Fellow-citizens are called friends (and equals though one be) ten years (older than the other), men practising (the same) fine art (though one be) five years (older than the other), Srotriyas (though) three years (intervene between their ages), but blood-relations only (if the) difference of age be very small.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

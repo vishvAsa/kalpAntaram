@@ -7,6 +7,11 @@ title = "097 वेदास् त्यागश्"
 The Vedas, Renunciation, Sacrifices, Restraints and Austerities never attain fulfilment for one whose disposition is vitiated.—(97)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**वेदा** इति । जपदानस्नानयागादिकृच्छ्रादीनि दुष्टचित्तस्य न कदाचित् सम्पन्नानि भवन्तीति ॥ २.९७ ॥
+</details>
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 सिद्धिं न गच्छन्तीत्य् एतावता फलशून्यता नो च्यते - अपूर्णतैव।  
@@ -14,7 +19,6 @@ The Vedas, Renunciation, Sacrifices, Restraints and Austerities never attain ful
 
 "Become ineffective" is a misunderstanding. Ganganath Jha translated correctly - "never attain fulfilment". Reduced effectiveness/ fruit as even BG attests.
 </details>
-
 
 <details><summary>मेधातिथिः</summary>
 
@@ -63,7 +67,6 @@ observances;—transgression thereof leads to the trickling away of Knowledge an
 
 097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

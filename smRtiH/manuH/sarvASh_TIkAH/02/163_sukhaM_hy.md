@@ -33,11 +33,20 @@ That person however who has done the scorning perishes by that very sin.—(163)
 See Comparative notes for [Verse 2.162].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादवमाने परेण कृते तत्र खेदमकुर्वाणः सुखं निद्राति । अन्यथाऽवमानदुःखेन दह्यमानः कथं निद्रां लभते । कथं च सुखं प्रतिबुध्यते । प्रतिबुद्धश्च कथं सुखं कार्येषु चरति । अवमानकर्ता तेन पापेन विनश्यति ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुखम्** इति । यो वावज्ञातः स **सुखं** स्वपिति न ययावमन्तुः “अयुक्तं मया कृतम्” इति चित्तसम्क्षोभो भवति । एवं स च **सुखं **निद्रां जहाति । **सुखं लोके** व्यवहरति । न पुनर् अवमानकृत् सो ऽसाधु मया कृतम् इतीह लोके परलोके चापुण्याद् **विनश्यति** ॥ २.१६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 163	For he who is scorned (nevertheless may) sleep with an easy mind, awake with an easy mind, and with an easy mind walk here among men; but the scorner utterly perishes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

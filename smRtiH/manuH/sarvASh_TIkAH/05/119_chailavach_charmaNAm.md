@@ -81,11 +81,20 @@ water; as also ropes and bamboo-chips. If ropes and other things are very much d
 grains should be sprinkled with water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्पृश्यपशुचर्मणां वंशादिदलनिर्मितानां च वस्त्रवच्छुद्धिर्भवति । शाकमूलफलानां च धान्यवच्छुद्धिः ॥११९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चैलवद्** इति । स्पृश्य**चर्मणां** **वैदलानां च** तरुत्वगादिनिर्मितानां वस्त्रवच् **छुद्धिः** । **शाकमूलफलानां** पुनः पक्वापक्वभेदेनावहतानवहतशुद्धाशुद्ध**धान्यवच्** **छुद्धिर् इष्यते** । **चैलवद्** इति सिद्धे **धान्यवद्** इत्य् आरम्भात् ॥ ५.११९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	Skins and (objects) made of split cane must be cleaned like clothes; vegetables, roots, and fruit like grain;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

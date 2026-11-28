@@ -161,6 +161,16 @@ should be offered into the right hand of the Brāhmaṇa. That is regarded as th
 Iṣṭi, and the unitary Śrāddha; at the first four of these, the man with the fire shall offer oblations into the fire; and at the latter four, in the hands of the Brāhmaṇas invited for the sake of the Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अग्न्यभावे पुनर्ब्राह्मणहस्त एवोक्ताहुतित्रयं दद्यात् । यस्माद्य एवाग्निः स एव ब्राह्मण इति वेदविद्भिर्ब्राह्मणैरुचः । अग्न्यभावश्चानुपनीतस्य सम्भवति । उपनीतस्य समावृत्तस्य च पाणिग्रहणात्पूर्वं, मृतभार्यस्य वा ॥२१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्न्यभाव** इति । अनग्निकस्य अनुपनीतोपनीतासमावृत्ताकृतदारमृतभार्यादेर् मृताहादिश्राद्धे विधानाद् औपासनाग्न्यभावे ब्राह्मणहस्त एतदाहुतित्रयं दद्यात्, यस्मात् य एवाग्निः स एव ब्राह्मण इति वेदविद्भिः ब्राह्मणैर् उच्यते ॥ ३.२१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'

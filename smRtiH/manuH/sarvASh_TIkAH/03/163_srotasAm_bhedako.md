@@ -46,11 +46,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), which explains (
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रवहजलानां सेतुभेदादिना देशान्तरनेता, तेषामेवावरणकर्तानिजगतिप्रतिबन्धकः, गृहसन्निवेशोपदेशको वास्तुविद्योपजीवी, दूतो राजग्रामप्रेष्यव्यतिरिक्तोऽपि, वृक्षरोपयिता वेतनग्रहणेन, न तु धर्मार्थी, “पञ्चाम्ररोपी नरकं न याति" इति विधानात ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्रोतसाम्** इति । उदकागमनसेतुबन्धभेदकः भेदादिना देशान्तरनेता च । तेषाम् अवच्छादनकृत्, वास्तुविद्याजीवनः **दूतो** राजप्रेष्यव्यतिरिक्तो ऽपि । वृक्षाणां रोपयिता मूल्येन, न धर्मार्थं “दशाम्रवापी नरकं न याति” इत्यादिनोदनात् ॥ ३.१६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

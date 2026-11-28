@@ -61,11 +61,20 @@ Do. Do. (1.4.22).—‘Should avoid sleep.’
 Do. Do. (1.4.28).—‘One who sleeps after and rises before the teacher is described as *not sleeping*.’ *Viṣṇu* (2.8.13).—‘Rising before the teacher, he should sleep after him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वदा गुरुसमीपे गुर्वपेक्षया त्वपकृष्टान्नवस्त्रप्रसाधनो भवेत् । गुरोश्च प्रथमं रात्रिशेषे शयनादुत्तिष्टेत, प्रदोषे च गुरौ सुप्ते पश्चाच्छयीत ॥१९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हीनान्नवस्त्रवेष** इति । गुर्वपेक्षया संस्कारपरिमाणादिना न्यूनान्नवस्त्रालङ्कारो यावज्जीवं गुरोः सन्निधाने स्यात् । शयनाच् च गुरूत्थानात् प्राग् उत्तिष्ठेत् । तत्स्वप्नानन्तरं शयीत ॥ २.१९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 194	In the presence of his teacher let him always eat less, wear a less valuable dress and ornaments (than the former), and let him rise earlier (from his bed), and go to rest later.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

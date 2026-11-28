@@ -31,11 +31,31 @@ The ‘five sacrifices’ are mentioned as including all duties.—(167).
 End of Discourse V.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां पञ्चमोऽध्यायः॥५॥
+
+  अनेन तृतीयाध्यायाद्युक्तविधिना प्रत्यहं पञ्चयज्ञान्न त्यजेत्। द्वितीयमायुर्भागं कृतदारपरि होऽनेनैव यथोक्तविधिना गृहस्थविहितान्धर्माननुतिष्ठेत्। गृहस्थधर्मत्वेऽपि पञ्चयज्ञानां प्रकृष्टधर्मज्ञापनार्थः पृथङ्निर्देशः॥१६९॥ क्षे. श्लो. २२॥
+
+इति श्रीकुल्लृकभट्टकृतायां मन्वर्थमुक्तावल्यां मनुवृत्तौ पञ्चमोऽध्यायः॥५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । तृतीयाध्यायोक्तविधानेन पञ्चयज्ञाद्य् अजहन् द्वितीयम् आयुर्भागं कृतभार्यो गृहस्थाश्रमम् अनुतिष्ठेत् ॥ ५.१६९ ॥
+
+
+इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां मनुटीकायां  
+मन्वाशयानुसारिण्यां   
+भक्ष्याभक्ष्यसुतकद्रव्यशुद्धिस्त्रीधर्मनिरूपणं  
+नाम पञ्चमो ऽध्यायः  
+षष्ठो ऽध्यायः
+</details>
+
 <details><summary>Bühler</summary>
 
 169	(Living) according to the (preceding) rules, he must never neglect the five (great) sacrifices, and, having taken a wife, he must dwell in (his own) house during the second period of his life.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

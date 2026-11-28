@@ -56,6 +56,16 @@ shed tears at the Śrāddha; nor shall he utter words of grief; he shall not hea
 people should not shed tears, nor converse, nor laugh among themselves, nor wander about, nor be angry, nor be worried; even though there be sufficient cause, one shall not utter words of anger; near the Pitṛs one shall not sit either supported or perspiring.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+रोदनक्रोधमृषाभाषणाति न कुर्यात् । पादेन चान्नं न स्पृशेत् । न चोत्क्षिप्योत्क्षिप्यान्नं पात्रे क्षिपेत् । पुरुषार्थतया प्रतिषिद्धयोरपिक्रोधानृतयोः श्राद्धाङ्गत्वज्ञापनार्थोऽयं निषेधः॥२२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नास्रम्** इति । रोदनक्रोधासत्यभाषणानि न कुर्यात् **पादेन चान्नं न स्पृशेत्** । नाप्य् उत्क्षिप्योत्क्षिप्य सन्त्यजेत् । क्रोधाद् **अनृतं न वदेत् **क्रोधानृतयोर् अपुरुषार्थत्वात् निषिद्धयोः श्राद्धाङ्गत्वार्थं श्राद्धाङ्गत्वार्थम् इहोपदेशः ॥ ३.२२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 229	Let him on no account drop a tear, become angry or utter an untruth, nor let him touch the food with his foot nor violently shake it.

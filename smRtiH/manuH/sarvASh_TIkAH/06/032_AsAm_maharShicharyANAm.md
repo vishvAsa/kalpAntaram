@@ -129,6 +129,16 @@ It is quoted in *Nirṇayasindhu* (p. 398).
 See Comparative notes for [Verse 6.31].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां पूर्वोकानुष्ठानानामन्यतमेनानुष्टानेन शरीरं त्यक्त्वाऽपगतदुःखभयो ब्रह्मैव लोकस्तत्र पूजां लभते, मोक्षमाप्नोतीत्यर्थः। केवलकर्मणो वानप्रस्थस्य कथं मोक्ष इति चेत् ? न,
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसाम्** इति । एषां पूर्वोक्तानाम् अनुष्ठानानां मध्याद् अन्यतमेनानुष्ट्ःआनेन श्रीरं त्यक्त्वा विगतसन्तापो गतभयश् च विप्रो ब्रह्मलोके पूजां लभते सम्यगुक्तमरणाकरणेन वासौ ॥ ६.३२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 032	A Brahmana, having got rid of his body by one of those modes practised by the great sages, is exalted in the world of Brahman, free from sorrow and fear.

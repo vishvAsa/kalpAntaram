@@ -97,11 +97,20 @@ This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 18), which adds 
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृष्णसारो मृगो यत्र स्वभावतो वसति न तु बलादानीतः, स यज्ञार्हो देशो ज्ञातव्यः । अन्यो म्लेच्छदेशो न यज्ञार्ह इत्यर्थः ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृष्णसार** इति । कृष्णः शवलो **मृगो** यस्मिन् देशे **स्वभावतो **निवसति स्वच्छन्दं विहरति, न हठाद् आनीतः, **स **यागार्हो **देशो विज्ञेयः **अतो ऽन्यो अनधिकृतान्ध्रादिम्लेच्छदेशो न यागार्हर्ः । अध्ययन एतद् एव ॥ २.३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

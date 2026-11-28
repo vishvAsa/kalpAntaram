@@ -48,6 +48,16 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 200);—in
 See Comparative notes for [Verse 8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्युलोकपृथिवीजलहृदयस्थजीवचन्द्रादित्याग्नियमवायुरात्रिसंध्याद्वयधर्माः सर्वशरीरिण भाशुभकर्मज्ञाः । दिवादीनां चाधिष्ठातृदेवताऽस्ति, सा च शरीरिण्यैकत्रावस्थापिता ततः जानातीत्यागमप्रामाण्याद्वेदान्तदर्शनं तदङ्गीकृत्येदमुत्तम् ॥८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**द्यैर्** इति । द्युलोके पृथिव्युदकचन्द्रमादित्याग्निवायुरात्रिसन्ध्याधर्माणाम् इतिहासादिदृष्ट्या विग्रहवद् रूपसद्भावा एते हृदयायतनश् चात्मा यमश् च सर्वशरीरिणाम् आचरितं जानन्ति॥ ८.८६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 देवास् ते इत्य् उच्यन्ते —

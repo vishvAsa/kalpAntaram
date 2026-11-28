@@ -114,6 +114,16 @@ It is for this reason that in the sentence ‘*the two look into his merit and d
 ‘*Paśyataḥ*.’—‘Examine’ (Medhātithi and Kullūka);—‘by their presence, cause to be performed’ (Raghavānanda).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तौ महत्परमात्मानौ अनलसौ तस्य जीवस्य धर्मं भुक्तशेषं च पापं सह विचारयतः। याभ्यां धर्माधर्माभ्यां युक्तो जीवः परलोकेहलोकयोः सुखदुःखे प्राप्नोति॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ताव्** इति । तौ महत्परमात्मानाव् एव त्रस्तौ तस्य क्षेत्रज्ञस्य धर्माधर्मौ सह विचारतो याभ्यां युक्तो क्षेत्रज्ञः परलोकेहलोकयोः सुखदुःखं प्राप्नोति ॥ १२.१९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 तौ च तत्कृतां धर्मगतिं दृष्ट्वा ॥ १२.१९ ॥

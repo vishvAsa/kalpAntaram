@@ -204,11 +204,20 @@ starvation, or weapons, or fire or poison, or water (there shall be no offering)
 and such things, for him impurity shall be observed and water-offerings made.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जातशब्दः प्रत्येकमभिसम्बध्यते । वृथाजातानां बाहुल्येन त्यक्तस्वधर्माणां सङ्करजातानां हीनवर्णनोत्कृष्टस्त्रीषूत्पन्नानां वेदबाह्यरक्तपटादिप्रव्रज्यासु वर्तमानानामशास्त्रीयविषोद्वन्धनादिना कामतश्च कृतजीवितत्यागिनामुदकादिक्रिया न कर्तव्या ॥८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वृथासङ्करजातानाम्** इति । वृथाजातानां बाहुल्येनोत्सृष्टस्वधर्माणां सङ्करजातानां वा नियुक्तासुतादीनां व्यतिक्रमसाहचर्याच् च वेदबाह्येषु च व्रतेषु रक्तपटादित्वादिषु वर्तमानानां तथा ॥ ५.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	Libations of water shall not be offered to those who (neglect the prescribed rites and may be said to) have been born in vain, to those born in consequence of an illegal mixture of the castes, to those who are ascetics (of heretical sects), and to those who have committed suicide,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

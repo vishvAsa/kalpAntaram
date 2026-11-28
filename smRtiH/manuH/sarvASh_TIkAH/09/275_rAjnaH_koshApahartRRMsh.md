@@ -51,6 +51,11 @@ seek to obtain the kingdom should be put to death.’
 receiving bribes, decide a case unjustly, those who injure the King’s property, those who live on bribes,—these the King shall banish, after having confiscated all their property.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राज्ञोधनगृहाद्धनापहारिणस्तथा तदाज्ञाव्याघातकारिणः शत्रूणां च राज्ञा सह वैरिवृद्धिकारिणोऽपराधापेक्षया करचरणजिह्वाच्छेदनादिभिर्नानाप्रकारदण्डर्घातयेत् ॥ २७५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अपराधानुरूपतः स्वतन्त्रपीडापेक्षया एषां निग्रहः स्यात् ॥ ९.२७५ ॥

@@ -42,6 +42,11 @@ to him to whom he gives himself,’
 offers himself, or is offered by his kinsmen, as a son to a stranger.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मृतमातापितृकस्त्यागोचितकारणं विना द्वेषादिना ताभ्यांत्यक्तोवाऽऽत्मानं यस्मै ददाति स स्वयंदत्ताख्यस्तस्य पुत्रो मन्वादिभिः स्मृतः॥ १७७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सवर्ण एव स्यात्, न तथेतरः ॥ ९.१७७ ॥

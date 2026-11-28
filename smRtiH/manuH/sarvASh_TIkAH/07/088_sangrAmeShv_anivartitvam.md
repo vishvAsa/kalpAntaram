@@ -32,11 +32,19 @@ than to risk their life in battle.’
 the Brāhmaṇas whatever is obtained in war, and to grant fearlessness to their people.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+युद्धेष्वपराङ्मुखत्वं, प्रजानां च रक्षणं, ब्राह्मणपरिचर्या एतद्राज्ञामतिशयितं स्वर्गादिश्रेयःस्थानम्॥८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सङ्ग्रामेष्व्** इति । युद्धेभ्यो ऽपराङ्मुखत्वम्, प्रजानां पालनम्, ब्राह्मणानां परिचर्येत्य् एतद् राज्ञां प्रकृष्टं स्वर्गादिसाधनम् ॥ ७.८८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथा प्रजापालनब्राह्मणशुश्रूषणे राज्ञां विशिष्टो धर्म, एवं संग्रामेष्व् अनिवर्तित्वम् इत्य् अनिवृत्तिस्तुतिः ॥ ७.८८ ॥
-
-_तथा चाह ।_
 </details>
 
 <details><summary>Bühler</summary>

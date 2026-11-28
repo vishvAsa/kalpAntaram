@@ -93,11 +93,24 @@ food loses his soul, his Veda and his three Fires.’
 strength and vigour.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ चन्द्रसूर्यग्रहे नाद्यादद्यात्स्नात्वा तु मुक्तयोः ।**
+
+**अमुक्तयोरगतयोरद्याञ्चैव परेऽहनि ॥१५॥ \]**
+
+अविशेषेण शूद्रान्नं प्रतिषिद्धं तस्येदानीं विशिष्टविषयतोच्यते । अश्रादिनः श्राद्धादिपञ्चयज्ञशून्यस्य शूद्रस्य शास्त्रविद् द्विजः पक्वान्नं न भुञ्जीत, किन्त्वन्नान्तराभावे सत्येकरात्रनिर्वाहोचितमाममेवान्नमस्माद् गृह्णीयान्न तु पक्कान्नम् ॥२२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाद्याद् **इति । श्राद्धादिक्रियाशून्यस्य सच्**छूद्रस्य** शास्त्रवित् द्विजः **पक्वान्नं **न भुञ्जीत । अपि त्व् अन्नान्तराभावे **आमम् **एव न पक्वम् एकाहोरात्रपर्याप्तं नाधिकम् अस्मात् प्रतिगृह्णीयात् ॥ ४.२२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

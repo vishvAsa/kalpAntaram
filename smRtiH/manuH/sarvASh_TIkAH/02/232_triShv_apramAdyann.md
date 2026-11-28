@@ -29,11 +29,20 @@ The Householder who fails not towards these three would win the three regions, a
 order—‘*Pitṛvṛttyā imam lokam mātṛvṛttyā tathāparam*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतेषु त्रिषु प्रमादमकुर्वन्ब्रह्मचारी तावज्जयत्येव गृहस्थोऽपि त्रील्लोकान्विजयते । संज्ञापूर्वकस्यात्मनेपदविधेरनित्यत्वान्न “विपराभ्यां जेः” (पा. सू. १ / ३ /१९ ) इत्यात्मनेपदम् । त्रीलोकान्विजयेदिति त्रिष्वाधिपत्यं प्राप्नोति । तथा स्ववपुषा प्रकाशमानः सूर्यादिदेववद्दिविहृष्टो मवात ॥२३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिष्व्** इति । **एतेषु त्रिषु** शुश्रूषायाम् अस्खलन् **त्रीन् लोकान् **वक्ष्यमाणान् जयेत् **गृही **आधिपत्येन स्वीकुर्यात् । ततः स्वदेहेन कान्तियुक्तेन ज्वलनादित्यादिदेववत् सुखं द्युलोके भवति । गृहस्थस्याप्य् अयं धर्मः इति दर्शयितुं गृहीत्य् उक्तम् ॥ २.२३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 232	He who neglects not those three, (even after he has become) a householder, will conquer the three worlds and, radiant in body like a god, he will enjoy bliss in heaven.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

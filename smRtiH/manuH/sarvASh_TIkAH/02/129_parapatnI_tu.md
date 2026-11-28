@@ -60,11 +60,20 @@ p. 101) as laying down the mode of addressing ladies.
 should be addressed as *sister*, or *daughter*, or *mother*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या स्त्री परपत्नी भवति, असम्बन्धा च योनित इति स्वस्त्रादिर्न भवति तामनुपयुक्तसंभाषणकाले भवति, सुभगे, भगिनीति वा वदेत् । परपत्नीग्रहणात्कन्यायां नैष विधिः। स्वसुः कन्यादेस्त्वायुष्मतीत्यादिपदैरभिभाषणम् ॥१२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+परस्य पत्नी या भवति सा चात्मनो यदि मातृपितृभ्यो योनिसम्बद्धा न भवेत्, तदा तां कार्यार्थं **भवति** इत्य् अनेन शब्देन ब्रूयात् **सुभगे भगिनि** इत्येवमाद्यन्तेन “भवति सुभगे” “भवति मातः” इत्येवं ब्रूयात् । आनुरूप्येण भगिनीति चेति इतिशब्दस्य प्रकारार्थत्वात् ॥ २.१२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

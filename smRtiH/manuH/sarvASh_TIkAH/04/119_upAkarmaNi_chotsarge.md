@@ -53,11 +53,15 @@ Do. (2.11.2).—‘On eating at a Śrāddha...... at the juncture of the seasons
 and Āṣāḍha.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उपाकर्मणीति** । उपाकर्मोत्सर्गाख्ययोः गृह्योक्तकर्मणोः कृतयोः **त्रिरात्रम् स्मृतम्** । तत्रोत्सर्गे पक्षिण्य् अहोरात्राभ्याम् उक्ताभ्यां सह अनेन विकल्पः । ऊर्ध्वम् आग्रहायण्याः कृष्णपक्षाष्टमीषु तिसृषु चतसृषु वा अहोरात्रम् अनध्यायः । अष्टमीषु पुनः यावद् अष्टमीत्य् एवम् अर्थम् । तथा च तत्र “अष्टकासु नाधीयीत” इत्य् उक्तम् । इह पुनः “अष्टकासु त्व् अहोरात्रम्” इति यत् तु पुनर्वचनं नित्यार्थम् इत्य् आहुस् तद् असत् । तत्रापि “अमावास्या गुरुं हन्ति” इत्य् अर्थवादेन नित्यत्वस्य समर्थितत्वात् ऋत्वन्तरेषु चाहोरात्रम् अनध्यायः ॥ ४.११९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

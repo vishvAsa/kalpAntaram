@@ -88,11 +88,15 @@ adherence, the heavenly regions.’
 the highest position of Prajāpati.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+अत्र परिहारम् आह – **तेष्व् **इति । नात्रेच्छा निषिध्यते । अपि तु यथाश्रुतं तत् तथैवानुष्ठेयम् इतीयं **सम्यग्**वृत्तिः तत्र **तेषु** कर्मसु फलाभिलाषत्यागेन प्र**वर्तमानो** बन्धात्मकत्वाभावात् **अमरलोकतां **अमरधर्मत्वं मोक्षं प्राप्नोति । **इह** संसारे आत्मज्ञानाभ्यासेनाष्टगुणैश्वर्ययोगात् यथाभिलषितान् **सर्वान् **अर्थान् **समश्नुते **॥ २.५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 005	He who persists in discharging these (prescribed duties) in the right manner, reaches the deathless state and even in this (life) obtains (the fulfilment of) all the desires that he may have conceived.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

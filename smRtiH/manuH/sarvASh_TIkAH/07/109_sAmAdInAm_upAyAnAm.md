@@ -32,11 +32,19 @@ dissension, gifts, force, ignoring, guile and magic are the seven expedients. Co
 the benefits conferred by the other party, pointing out the mutual bonds of relationship, sweet speech, and describing future possibilities.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्णामपि सामादीनामुपायानां मध्यात्सामदण्डावेव राष्ट्रवृद्ध्यर्थं पण्डिताः प्रशंसन्ति, नान्निप्रयासधनव्ययसैन्यक्षयादिदोषाभावात्, दण्डे तु तत्सद्भावेऽपि कार्यसिध्यतिशयात् ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सामादीनाम्** इति । **सामादीनां चतुर्णाम् अप्य् उपायानां **मध्यात् सामदण्डौ राष्ट्रविवृद्ध्यर्थं प्रशस्तौ नित्यं विद्वांसो मन्यन्ते । साम्नि क्षयव्ययासानाम् अभावाद् दण्डे च युद्धाद्यनर्योत्पादे च सिद्ध्यतिशयात् ॥ ७.१०९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सामप्रयोगे क्षयव्ययायासा न भवन्ति, दण्डे तु सर्वसिद्धिर् एव तत्प्रतापाद्, अतस् ताव् अत्र प्रशस्तौ ॥ ७.११० ॥
-
-_अस्य दृष्टान्तः ।_
 </details>
 
 <details><summary>Bühler</summary>

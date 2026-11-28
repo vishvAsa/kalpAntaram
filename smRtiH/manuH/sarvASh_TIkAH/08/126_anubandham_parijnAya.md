@@ -74,6 +74,16 @@ the offence, the place and time, and after examining the ability of the offender
 the King should inflict on him, reprimand, reproach or corporal chastisement, or one of the four grades of fines. He shall inflict gentle reprimand when the offence is very light; harsh reproach for a crime of the first degree; a fine for a crime of the middlemost degree, and arrest in the case of high treason. Banishment also may be resorted to by a king desirous of promoting his own welfare;...... and all the various forms of punishment should be combined in the case of one who has committed a mortal sin. The King should punish elders, domestic priests and persons commanding respect, with admonition only; other litigants he should punish with fine, when they are found guilty; and on the perpetrators of a heavy crime, he should inflict corporal punishment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुनः पुनरिच्छातोऽपराधकरणमवेक्ष्य ग्रामारण्यादिचापराधिस्थानं रात्र्यादिकं वाऽपराधस्यापेक्ष्य सारं चापगधकारिणो धनशरीरादिसामर्थ्यमपराधं च गुरुलघुभावेन चालोक्य दण्डनीयेषु दण्डं कुर्यात् । एतञ्चाभिहिताभिधास्यमानदण्डशेषभूतम् ॥१२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनुबन्धम्** इति । पुनः पुनर् इच्छातो ऽपराधकारणम् अवलोक्य ग्रामारण्यादि चापराधस्थानम् दिवारात्र्यादिकं चापराधकालं सम्यग् अवेक्ष्य सारं चापराधिनो धनशरीरादि सामर्थ्यम् अपराधं च गुरुलघुभावेनालोक्य दण्डनीयेषु दण्डं कुर्यात् इतीदम् उक्तानुक्तदण्डशेषभूतम् ॥ ८.१२६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **अनुबन्धं परिज्ञायेति** । केचित् अत्र व्यतिक्रमानुष्ठानस्य पौनःपुन्यं क्रियानुष्ठानाभ्यासलक्षणम् आहुः । वयं पुनर् **अनुबन्धम्** अपराधकारणम् आचक्ष्महे । कथम् अनुबध्यते ऽनेनेत्य् **अनुबन्धो**, लोभादिपदार्थः । किं तत्, अपराधश् चौर्यादिः । तं परिज्ञाय किम् अयं चौर्यादिर् अपराधो ऽस्य् कामात् उत क्रोधात् अथ लोभान् मोहाद् वा । अथात्मकुटुम्बस्थित्यै धर्मतन्त्रानुग्रहाय वेत्य् एवम् । अस्य चापराधहेतोर् अनुबन्धस्व विज्ञाने प्रयोजनम्, तद्भेदाद् दण्डविशेषो यथा स्याद् इति । देशकालौ च तत्त्वतः परिज्ञायेति वर्तते । तत्र गृहरथ्याखलक्षेत्रस्वविषयपरविषयादिनिर्देशो ऽपराधे ऽपेक्षितव्यः । क्वायम् अपराधः तथा कालः, सुभिक्षदुर्भिक्षाकुलानाकुलवयोऽवस्थादिः । सारं चापराधस्य द्रव्याद्भिजनादिः, तद्विपर्ययं चासारं निदर्शनार्थत्वात् सारग्रहणस्य । अपराधं चावेक्ष्य गुरुलघुत्वेन ज्ञानाज्ञानकृतं वस्त्रहिरण्यादिकृतं वा दण्डं दण्ड्येषु पातयेत् देशादीन् अवेक्ष्य, यस्माद् अन्यथा हि तस्य — ॥ ८.१२७ ॥

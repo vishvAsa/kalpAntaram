@@ -48,6 +48,16 @@ stock has been contributed by a partner, in the same proportion shall he defray 
 jointly, will have the earnings according to the amount of their share, greater, equal or less. Whatever portion has been stipulated beforehand,—equal, less or greater,—that shall he accepted. Expenditure he shall pay and do the labour also proportionately, and take the profit also in the same manner.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मिलित्वा गृहनिर्माणादीनि स्वकर्माणि लोके स्थपतिसुत्रधार्यादिभिश्च मनुष्यः कुवद्भिरनेन यज्ञदक्षिणाविधिनाश्रयणेन विज्ञानव्यापाराद्यपेक्षया भागकल्पना कार्या ॥२११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्भूयेति** । एकीभूय गृहनिर्वर्तनादीनि स्वकार्याणि स्थपतिवर्धकिसूत्रधारादिभिः मनुष्यैः सम्पादयद्भिर् अनेकम् उक्तविधानाश्रयेण विज्ञानव्यापाराद्यपेक्षया भागकल्पना कार्या ॥ ८.२११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एकस्मिन् गृहकरणादौ सूत्रकारवधकिस्थपत्यादीनां गुरुलघुताम् अवक्ष्यानवेक्ष्य वा यथास्मरणं **कर्तव्यांशप्रकल्पना** । न ह्य् अशिल्पेषु व्यवहारेषु वा मनुष्याणां तुल्यता शक्या ग्रहीतुम् । अदत्तानपकर्म[वर्]णार्थम् इदम् आह — ॥ ८.२१० ॥

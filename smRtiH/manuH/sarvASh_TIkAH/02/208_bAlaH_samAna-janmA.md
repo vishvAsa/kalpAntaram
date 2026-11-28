@@ -69,11 +69,20 @@ expounder of the Veda, one should behave similarly, with the exception of eating
 son should be like that towards the teacher himself,—with the exception of eating the leavings.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कनिष्ठः सवया वा ज्येष्ठोऽपि वा शिष्योऽध्यापयन्नध्यापनसमर्थः गृहीतवेद इत्यर्थः । स यज्ञकर्मणि ऋत्विगनृत्विग्वा यज्ञदर्शनार्थमागतो गुरुवपूजामर्हति ॥२०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बाल** इति । ब्रह्मचारिणः कनीयान् समः यज्ञविद्यादौ वा शिष्यः तथा अध्यापयन् गुरुसुतो गुरुवत् पूजाम् अर्हति । न त्व् अध्यापयितृत्वाद् एवास्य गुरुवृत्तिः सैद्धैव विद्यागुरुष्व् एवम् एवम् इति । न च कनीयस्त्वापेक्षया शैशवाख्या(प)नस्य दर्शितत्वात् । सत्यम् । किं तु “शिष्यो वा यज्ञकर्मणि” इत्य् उक्तो ऽध्यापयतो (व्य) ऽर्थशिष्यत्वात् अप्राप्ताशङ्कायाम् इदं वचनम् । इदम् एव ज्ञापकं ग्रन्थगुरोर् अर्थगुरुर् गरीयान् ॥ २.२०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 208	The son of the teacher who imparts instruction (in his father's stead), whether younger or of equal age, or a student of (the science of) sacrifices (or of other Angas), deserves the same honour as the teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

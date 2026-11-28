@@ -35,6 +35,16 @@ This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p. 402).
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इतिशब्दः स्वरूपविवक्षार्थः । मरुद्भ्यो नमः इति द्वारे बलिं दद्यात्, जलेऽद्भ्य इति । मुसलोलूखल इति द्वन्द्वनिर्देशात्सहयुक्तयोरन्यतरत्र वनस्पतिभ्य इति बलिं दद्यात् । गुणानुरोधेन प्रधानबलिकर्मावृत्तेरन्याय्यत्वात् ॥८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मरुद्भ्य इति द्वारि हरेद्** इति । **मरुद्भ्य** इत्य् एवं द्वारप्रदेशे **अद्भ्य** इत्य् एतद् अपां मध्ये **वनस्पतिभ्य इत्य् एवं मुसलोलूखले **द्वन्द्वैकवद्भावात् विकल्पेनान्यत्र बलिं दद्यात् ॥ ३.८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'

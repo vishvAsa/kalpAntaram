@@ -90,6 +90,16 @@ milch cow, which has golden horns and silvered hoofs, and is quiet and adorned w
 (Do.) (1.210).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वस्त्रदश्चन्द्रसमानलोकान्प्राप्नोति चन्द्रलोके चन्द्रसमविभूतिर्वसति,एवमेवाश्विलोक घोटकदः, बलीवर्दस्य दाता प्रचुरां श्रियं, स्त्रीगवीप्रदः सूर्यलोकं प्राप्नोति ॥२३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वासोद** इति । वस्तरदश् चन्द्रेण सह समानलोकतां छन्द्र्लोकं **अश्वदः **अश्विभ्यां समानलोकतां वृषप्रदः महतीं श्रियं गोप्रदः आदित्यलोकं प्राप्नोति ॥ ४.२३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 231	A giver of a garment a place in the world of the moon, a giver of a horse (asva) a place in the world of the Asvins, a giver of a draught-ox great good fortune, a giver of a cow the world of the sun;

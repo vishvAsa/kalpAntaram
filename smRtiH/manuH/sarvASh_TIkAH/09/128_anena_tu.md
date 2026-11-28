@@ -34,6 +34,11 @@ This verse is quoted in *Vyavahāra-Bālambhaṭṭī* (p. 654), and in
 See Comparative notes for [Verse 9.127].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दक्षः प्रजापतिः पुत्रोत्पादनविधिज्ञः स्ववंशवृत्यर्थमनेनोक्तविधानेन कृत्स्ना दुहितरः पूर्वं पुत्रिकाः स्वयं कृतवान्। कार्त्स्न्येऽथशब्दः॥ १२८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रजापतिर् हि प्रजाविधिज्ञः । यतः स एवोदाहृतः ॥ ९.१२८ ॥

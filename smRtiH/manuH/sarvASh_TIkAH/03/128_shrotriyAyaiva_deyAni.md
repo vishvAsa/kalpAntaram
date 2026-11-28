@@ -57,11 +57,20 @@ Brāhmaṇa who is devoid of cleanliness, fallen from his vows, and ignorant of 
 arrives at the right time and place, suffering from hunger, thirst and fatigue.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+छन्दोमात्राध्यायी श्रोत्रियस्तस्मै दैवपित्र्यान्नानि यत्नतो देयानि ।अर्हत्तमाया श्रुताचाराभिजनादिभिः पूज्यतमाय तस्मदत्तं महाफलं भवति ॥१२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रोत्रियायेति **। दैवपित्र्यादीन्य् अन्नानि छन्दोमात्राध्यायिनि **देयानि** । छन्दोमात्राध्यायिनि श्रोत्रियशब्दप्रयोगान् नात्यन्तापायेन नियमः । सम्भवे पुनः समस्तशाखाध्यायिने दानम् । “यत्नेन भोजयेच् छ्राद्धं बह्वृचम्” इत्यादिनिमये सति पुनः श्रोत्रियत्वे सति श्रुतवृत्ताभिजनादियोगे च पूज्यतमाय **विप्राय** देयानि यतस् तस्मै दत्वा पितृतृप्तिद्वारेणातिशयेनोपकारकं भवति ॥ ३.१२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 128	Oblations to the gods and manes must be presented by the givers to a Srotriya alone; what is given to such a most worthy Brahmana yields great reward.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

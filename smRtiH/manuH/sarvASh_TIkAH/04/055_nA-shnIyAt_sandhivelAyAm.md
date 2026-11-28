@@ -50,6 +50,11 @@ The first quarter of this verse is quoted in *Mitākṣarā* (on 3.290).
 *Viṣṇu* (71.55).—‘He shall not remove his own garland.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्नीयाद् **इति । सन्ध्याकाले अशनगमनस्वापान् न कुर्यात्, **भूमिं **सर्वदा नखादिना **न लिखेत् **। मालां च शिरसः स्वयं नापनयेत् ॥ ४.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.

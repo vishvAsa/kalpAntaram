@@ -47,11 +47,20 @@ body of one who is not his *sapiṇḍa*, he becomes pure the same day by bathin
 or cremating a dead body; one who carries it, and applies fire to it, becomes pure after bathing.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+असपिण्डं ब्राह्मणं मृतं ब्राह्मणो बन्धुवत्स्नेहानुबन्धेन, न त्वदृष्टबुद्ध्येत्यर्थादुक्तम् । मातुश्चाप्तान्सन्निकृष्टान्सहोदरातृभगिन्यादीन्बान्धवान्निर्हृत्य त्रिरात्रेण शुद्धो भवति ॥१०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**असपिण्डम्** इति । असपिण्डं मृतं ब्राह्मणं ब्राह्मणो बन्धुवत् स्नेहेन निर्हृत्य मातुश् च सन्निकृष्टान् बान्धवान् मातुलादीन् निर्हृत्य त्रिरात्रेण शुध्यति ॥ ५.१०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 101	A Brahmana, having carried out a dead Brahmana who is not a Sapinda, as (if he were) a (near) relative, or a near relative of his mother, becomes pure after three days;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

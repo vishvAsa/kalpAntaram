@@ -49,11 +49,20 @@ unequals.’
 one who serves as the priest of many persons, or by one who initiates many persons.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनधीतवेदेनोपक्रान्ते यज्ञेऽग्नीषोमीयादूर्ध्वमपि भोजनयोग्यसमये ब्राह्मणो न भुञ्जीत । तथा बहूनां याजकेन ऋत्विजा स्त्रिया नपुंसकेन च यत्र यज्ञे हूयते तत्र कदाचिन्न भुञ्जीत ॥२०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्रोत्रियतत** इति । अनधीतवेदेन प्रारब्धे यज्ञे अग्नीषोमीयाद् ऊर्ध्वम् अपि **ब्राह्मणो न भुञ्जीत **। अर्थात् (पुनः) [पूर्वम्] अग्नीषोमीयात् “दीक्षितस्य कदर्यस्य” [४.२१०] इत्य् अनेनैव प्रतिषेधसिद्धेः । सूत्रकारेण अग्नीषोमीयावधिकं दीक्षितस्याभोज्यान्नत्वम् उक्तम् । अतो “दीक्षितस्य कदर्यस्य” इत्य् अयं प्रतिषेधस् तदवधिक एव । सदा बहूनां याजकेन ऋत्विजा **स्त्रिया **वा नपुंसकेन वा यत्र गृहे वैश्वदेवादिहोमः कृतः **न** तत्र कदाचिद् अपि **ब्राःमणो भुञ्जीत** ॥ ४.२०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 205	A Brahmana must never eat (a dinner given) at a sacrifice that is offered by one who is not a Srotriya, by one who sacrifices for a multitude of men, by a woman, or by a eunuch.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -41,6 +41,11 @@ This Verse is quoted in *Vivādaratnākara* (p. 532);—and in *Smṛtitattva* I
 See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रस्य पुनः समानजातीयैव भार्योपदिश्यते नोत्कृष्टावकृष्टा वा। तस्यां च ये जातास्ते यदि पुत्रशतमपि तदा समभागा एव भवेयुः, तेनोद्धारः कस्यचिन्न देयः॥ १५७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 शूद्रायां शुद्धायाम् इदम् उच्यते । अन्यासूत्कृष्टापकृष्टासु धर्माधर्मापेक्षेया (?) विभागः कल्पयितव्यः ॥ ९.१५७ ॥

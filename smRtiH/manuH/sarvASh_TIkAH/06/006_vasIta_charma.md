@@ -64,11 +64,20 @@ suffer the hairs of his head, of his heard and of his body and his nails to grow
 *Yājñavalkya* (3.46).—(See under 5.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मृगादिचर्म वृक्षवल्कलं वा आच्छादयेत्। हारीतेन तु —“वल्कलशाणचर्मचीरकुशमुञ्जफलकवासाः”इति विदधता वल्कलादिकमण्यनुज्ञातम्। सायंप्रातः स्नायात्। जटाश्मश्रुलोमनखानि नित्यं धारयेत्॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“वसीत चर्म चीरं वा मार्गं वा चार्क्षम् एव वा” इति । मृगादिचर्म वस्त्रखण्डं वा वृक्षवल्कलं वा आच्छदयेत् । **सायं** प्रातश् च **स्नायात्** । **श्मश्रुलोमनखांश् च नित्यं** धरयेत् ॥ ६.६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 006	Let him wear a skin or a tattered garment; let him bathe in the evening or in the morning; and let him always wear (his hair in) braids, the hair on his body, his beard, and his nails (being unclipped).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -38,6 +38,16 @@ The *Preta* feeds upon vomitings; and its mouth keeps flaming like a fire-brand.
 This verse is quoted in *Mitākṣarā* (3.220), in the sense that the man neglecting his duties suffers the same tortures as the *Ulkāmukha* and the rest.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणः स्वकर्मभ्रष्टश्छर्दितभुक् ज्वालामुखः प्रेतविशेषोजायते। क्षत्रियः पुनर्नष्टकर्मापुरीषशवभोजी कटपूतनाख्यः प्रेतविशेषो भवति॥७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वान्ताशीति** । ब्राह्मणः भ्रष्टस्वकर्माग्निपिशाचो नाम भूतविशेषो ज्वालामुखः छर्दिभुग् भवति । क्षत्रियः पुनः भ्रष्टकर्मा पूतनाख्यः पिशाचविशेषो गन्धघोणपुरीषसर्वभुक् जायते ॥ १२.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	A Brahmana who has fallen off from his duty (becomes) an Ulkamukha Preta, who feeds on what has been vomited; and a Kshatriya, a Kataputana (Preta), who eats impure substances and corpses.

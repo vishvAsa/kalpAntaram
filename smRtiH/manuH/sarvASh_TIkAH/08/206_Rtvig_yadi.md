@@ -81,6 +81,16 @@ common work, if one happen to die, his share of the work should be done by a rel
 should happen to die, what should be done is that his work should be completed by his *Sagotra* or by his pupil; if he has no relations, then the sacrificer should appoint another Priest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यज्ञे कृतवरण ऋत्विक् यदि किञ्चित्कर्म कृत्वा व्याध्यादिना कर्म त्यजति, तदा तस्येतरर्त्विग्भिः पर्यालोच्य कृतानुसारेण दक्षिणांशो देयः ॥२०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+सम्भूय च समुत्थानम् आह **ऋत्विग्** इति । प्रधानऋत्विक् होमादिश्रौतकरणेन कृतकरणो ज्योतिष्टोमादौ यदि व्याधिना स्वं कर्म परित्यजेत् तदा तस्य तद् अनुयाचितमित्रावरुणादिभिः तस्य कृतकर्मानुसारेण दक्षिणा दातव्याः ॥ ८.२०६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रधानर्त्विक् प्रक्रान्तकर्मा यदि **परिहापयेत् स्वकर्म** देशान्तरगमनापाटवादिभिर् अर्थलक्षणैः **तस्य कर्मानुरूप्येण** दक्षिणांशः स्यात् । कथम् । कर्मण[श् चतुर्थे कृते दक्षिणा]या अपि चतुर्भागः । एवं त्रिभागादिष्व् अपि योज्यम् । सह कर्तृभिर् इति [प्रति]प्रस्थातृप्रभृतींस् तत्पुतुषान् आह । अस्यापवादः — ॥ ८.२०५ ॥

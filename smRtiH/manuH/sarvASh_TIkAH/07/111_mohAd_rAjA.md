@@ -36,6 +36,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 409);—and in
 See Comparative notes for [Verse 7.110].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो राजा अनवेक्षया दुष्टशिष्टाज्ञानेन सर्वानेव स्वराष्ट्रीयजनानशास्त्रीयवनग्रहणमारणादिकष्टेन पीडयति, स शीघ्रमेव जनपदवैराख्यप्रकृतिकोपाधर्मैःराजा राज्याज्जीविताच्च पुत्रादिसहितो भ्रश्यते ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मोहाद्** इति । यो राजा हिताहिताविवेकेन प्रजाः पीडयति स क्षिप्रं प्रकृतिलोपादिनाधर्मभूयस्त्वेन राज्याज् जीविताच् च बन्धुसहितो नश्यत्य् अचिरात् ॥ ७.१११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	That king who through folly rashly oppresses his kingdom, (will), together with his relatives, ere long be deprived of his life and of his kingdom.

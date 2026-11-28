@@ -63,6 +63,16 @@ sacred law, practise the duties of his office and follow the rule of inflicting 
 and by punishing those who are already submissive, kings and ministers incur sin.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जीवतः ख्यातिर्यशः, मृतस्य ख्यातिः कीर्तिः, यस्मादनुबन्धद्यनपेक्ष्य दण्डनमिहलोके यशोनाशनं, मृतस्य च कीर्तिनाशनं, परलोके च धर्मान्तरार्जितस्वर्गप्रतिबन्धकं, तस्मात्तत्परित्यजेत् ॥१२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधर्मदण्डनम्** इति । यस्माद् अनुबन्धाद्य् अनपेक्ष्य दण्डनम् इह लोके यशसो जीवनख्यातेर् नाशम् अनृतस्य च परलोके समनन्तरकपातात् कर्मान्तरार्जितस्वर्गप्रतिबन्धकं तस्मात् तत् परिहरेत् ॥ ८.१२७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 देशाद्यपेक्षया दण्डं विदध्याद् यत्नतः । एवं च सति तस्यायं प्रयोगक्रमविधिः शिष्यते ॥ ८.१२८ ॥

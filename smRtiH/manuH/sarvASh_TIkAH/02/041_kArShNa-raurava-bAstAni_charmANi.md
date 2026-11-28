@@ -162,11 +162,20 @@ black deer; for the Kṣatriya, of the spotted deer; for the Vaiśya of the goat
 The size of the ‘skin’ to be worn has been prescribed by Śākala (Vīramitrodaya-Saṃskāra, p. 414)—as ‘48 *aṅgulas* long and 4 *aṅgulas* broad.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कार्ष्ण इति विशेषानभिधानेऽपि मृगविशेषरुरुसाहचर्यात् "हारिणसैणेयं वा कार्ष्णं वा ब्राह्मणस्य" इत्यापस्तम्बवचनाच्च कृष्णमृगो गृह्यते । कृष्णमृगरुरुच्छागचर्माणि ब्रह्मचारिण उत्तरीयाणि वसीरन् । “चर्माण्युत्तरीयाणि” इति वचनात् । तथा शणक्षुमामेषलोमभवान्यधोवसनानि ब्राह्मणादयः क्रमेण परिधीरन्॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कार्ष्णरौरवबास्तानीति **। **कार्ष्ण** इति सामान्याभिधाने ऽपि रुर्वाख्यमृगसम्बन्धात् कृष्णमृगरुरुछागचर्माणि **ब्रह्मचारिणः** उत्तरीयाणि **वसीरन् **। “चर्माणि उत्तरीयानि” इति गृह्यवचनाच् च । शाणक्षुमोर्णामयानि अर्थात् परिधानीयानि वासांशि **वसीरन्** । आनुपूर्व्यग्रहणं क्रमार्थम् । “शाणं क्षौमं चाब्राह्मणस्य” इति गृह्यदर्शनात् एतयोर् ब्राह्मणगतत्वाभ्रान्त्या विषमसङ्ख्यत्वे सति यथाक्रमसम्बन्धात् ॥ २.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

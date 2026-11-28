@@ -103,11 +103,20 @@ obtaining a girl of the same caste as himself, the Brāhmaṇa may beget, a son 
 wife, there are three wives, in the descending order of the castes; for the Śūdra girl, there are (apart from the Śūdra husband), three husbands in the ascending order of the castes; for the Kṣatriya there are two wives, in addition to the one of his own caste; for the Vaiśya only one; for the Vaiśya girl there are two husbands and for the Kṣatriya, one only—in addition to that of her own caste.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रियवैश्यानां प्रथमे विवाहे कर्तव्ये सवर्णा श्रेष्ठा भवति । कामतः पुनर्विवाहे प्रवृत्तानामेता वक्ष्यमाणा आनुलोम्येन श्रेष्ठा भवेयुः ॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सवर्णेति । द्विजातीनाम्** आदौ पाणिग्रहणे समानजातीया युक्तेत्य् उक्तम् । **कामात् **पुनर् दारकर्मणि **प्रवृत्तानां इमाः **वक्ष्यमाणवर्णक्रमेण श्रेष्ठाः **स्युः** ॥ ३.१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 012	For the first marriage of twice-born men (wives) of equal caste are recommended; but for those who through desire proceed (to marry again) the following females, (chosen) according to the (direct) order (of the castes), are most approved.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

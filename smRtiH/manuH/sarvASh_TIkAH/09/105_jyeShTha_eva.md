@@ -57,6 +57,11 @@ eldest son shall carry on the business of the estate, hut never without the fath
 *Mantra* (Parāśaramādhava—Ācāra, p. 501).—‘(Same as Vaśiṣṭha.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्येष्ठ एव पितृसम्बन्धि धनं गृह्णीयात्। कनिष्ठाः पुनर्ज्येष्ठं भक्ताच्छादनार्थं पितरमिवोपजीवेयुः। एवं सर्वेषां सहैवावस्थादम्॥ १०५॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एष कारणतः पाक्षिको ऽविभागो विज्ञेयः । [यदि तत् कार]णं न स्यात् तदा ज्येष्ठमध्यमकनिष्ठानां विभागम् अनेकप्रकारं वक्ष्यति । ज्येष्ठग्रहणपक्षे चायम् अर्थवादो भवति ॥ ९.१०५ ॥

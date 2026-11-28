@@ -103,11 +103,24 @@ the Sindhu and the Vaitariṇī and to the place where the sun rises, or where t
 four castes should be known as the *mleccha deśa*; other than this is Āryāvarta.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ विरुद्धा च विगीता च दृष्टार्थादिष्टकारणे ।**
+
+**स्मृतिर्न श्रुतिमूला स्याद्या चैषा संभवश्रुतिः ॥५॥ \]**
+
+तस्मिन्देशे प्रायेण शिष्टानां सम्भवात्तेषां ब्राह्मणादिवर्णानां संकीर्णजातिपर्यन्तानां आचारः पारंपर्यक्रमागतो न त्विदानींतनः, स सदाचारोऽभिधीयते ॥१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्मिन्न्** इति । **तस्मिन् देशे** प्रायेण सदाचारस्य सम्भवात् यो ब्राह्मणादीनाम् अन्तरप्रभावानां **पारम्पर्यक्रमागतः **प्रबन्धतो ऽविच्छेदेनागतः न साम्प्रतीको य आचारः **स सदाचार** उच्यते ॥ २.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	The custom handed down in regular succession (since time immemorial) among the (four chief) castes (varna) and the mixed (races) of that country, is called the conduct of virtuous men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

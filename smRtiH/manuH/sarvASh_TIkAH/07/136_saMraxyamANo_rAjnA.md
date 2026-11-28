@@ -34,6 +34,16 @@ and charitable works.’
 are Brāhmaṇas who recite the Veda at the first and the last parts of the night, shines and prospers, on that account, along with his kingdom, with Brahmanic glory. If the king, by chance, commit any sin, the Brāhmaṇas residing in his realm, allay it by their recitations. livery morning on rising, the king shall honour the Brāhmaṇas; it is by virtue of the favour of Brāhmaṇas that, the gods remain in heaven. The glory of Brāhmaṇas is endless; therefore shall the king regularly offer obeisance to Brāhmaṇas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स च श्रोत्रियो राज्ञा सम्यग्रक्ष्यमाणो यं धर्मं प्रत्यहं करोति तेन राज्ञ आयुर्धनराष्ट्राणि वर्धन्ते ॥१३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**संरक्ष्यमाण** इति । स च ब्राह्मणो **राज्ञा** **रक्ष्यमाणो धर्मम् अन्वहं कुरुते**, **तेन** **राज्ञ** आयुर् वर्धते, राष्ट्राणि वर्धन्ते ॥ ७.१३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 श्रोत्रियस्याधिकक्षेमप्रयोजनार्थास् त्रयः श्लोकाः ॥ ७.१३४–३६ ॥

@@ -34,6 +34,11 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 151).
 See Comparative notes for [Verse 9.313].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये स्वर्गादिलोकान्परानन्यांश्च लोकपालान्सृजन्तीति सम्भाव्यते। देवांश्च शापेन मानुषादीन्कुर्वन्ति तान्पीडयन् कः समृद्धिंप्राप्नुयात्॥ ३१५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 315	Who could prosper, while he injures those (men) who provoked to anger, could create other worlds and other guardians of the world, and deprive the gods of their divine station?

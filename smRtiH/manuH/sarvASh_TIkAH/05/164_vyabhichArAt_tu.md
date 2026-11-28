@@ -33,11 +33,20 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 30);—in
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परपुरुषोपभोगेन स्त्री इह लोके गर्हणीयतां लभते, मृता च शृगाली भवति, कुष्ठादिरोगौश्चपीडयते॥१६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+नरान्तरसम्पर्कात् तु स्त्री इहलोके गर्ह्यतां जन्मान्तरे च सृगालयोनिं प्राप्नोति । अत्यन्तक्रूरैश् च कुष्टादिरोगैः सम्पीड्यते ॥ ५.१६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 164	By violating her duty towards her husband, a wife is disgraced in this world, (after death) she enters the womb of a jackal, and is tormented by diseases (the punishment of) her sin.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

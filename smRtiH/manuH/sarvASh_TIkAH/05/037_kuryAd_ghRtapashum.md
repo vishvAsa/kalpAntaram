@@ -106,11 +106,20 @@ one should offer an animal made either of butter or of flour;
 —and then the one given by Medhātithi, remarking that this last is in agreement with *Kalpataru*,—It then goes on to describe another explanation, by which ‘*Saṅge*’ means ‘at a sacrifice’ and this is explained as laying down an alternative to the killing of animals at the well-known sacrifices, *Agnīṣṭomīya* and the rest.—This last explanation, the author rejects, on the ground (1) that there is no authority for taking the word ‘*saṅge*’ in the sense of *sacrifice*, and (2) that it would not be right for a *Smṛti* to lay down an alternative to a detail that has been laid down in the original Vedic injunction of the sacrifices. 
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सङ्ग आसक्तौ पशुभक्षणानुरागेण घृतमयीं पिष्टमयीं वा पशुप्रतिकृति कृत्वा खादयेन्न पुनवताहुद्देशं विनैव पशुत्कदाचिदपि हन्तुमिच्छेत् ॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+॥ ५.३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 037	If he has a strong desire (for meat) he may make an animal of clarified butter or one of flour, (and eat that); but let him never seek to destroy an animal without a (lawful) reason.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

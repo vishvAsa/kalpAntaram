@@ -52,6 +52,11 @@ Or, the verse may be construed in the following manner:—‘The Pitṛs that ar
 This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अनग्निदग्धान्** इति । **अनग्निदग्धाग्निदग्धकाव्यबर्हिषदः अग्निष्वात्तसौमा**ख्यान् अपरान् पितॄन् **विप्राणाम् एव** जानीयत् । वेदे पुराणेषु च एवन्नाम(कं) पितॄणां प्रसिद्धम् ॥ ३.१९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 199	One should know that (other classes), the Agnidagdhas, the Anagnidagdhas, the Kavyas, the Barhishads, the Agnishvattas, and the Saumyas, are (the manes) of the Brahmanas alone.

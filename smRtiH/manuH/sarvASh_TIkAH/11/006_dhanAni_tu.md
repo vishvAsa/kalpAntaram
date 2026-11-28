@@ -45,6 +45,11 @@ shall perform the Soma-sacrifice;—he shall perform the Soma-sacrifice once a y
 which is more than what he shall need for three years, should perform the Soma-sacrifice;—and one who has food enough for one year should perform the rites preliminary to the Soma-sacrifice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धनानि गोभूहिरण्यादीनि शक्त्यनतिक्रमेण ब्राह्मणेषु वेदज्ञेषु विविक्तेषु पुत्रकलत्राद्यवसक्तेषु प्रतिपादयेतद्वशाच्च स्वर्गप्राप्तिर्भवतीति॥ ६॥
+</details>
+
 <details><summary>Bühler</summary>
 
 006	One should give, according to one's ability, wealth to Brahmanas learned in the Veda and living alone; (thus) one obtains after death heavenly bliss.

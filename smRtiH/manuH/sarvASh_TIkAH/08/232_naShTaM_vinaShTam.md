@@ -67,11 +67,19 @@ wages leaves the cattle in the desolate forest and roams about in the village, h
 care, allows them to perish, or loses them through his negligence, he shall make them good to the owners.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नष्टं दृष्टिपथातोतं, कृमिभिर्नाशितं, श्वभिः खादितं हतं, विवारादिपातमृतम् । प्रदर्शनं चैतत् । पालसम्बन्धिरक्षकाख्यपुरुषव्यापाररहितं मृतं पलायितं गवादि, पशुपाल एव तु स्वामिने दद्यात् ॥२३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नष्टम्** इति । पालसम्बन्धिरक्षणाद् यः साक्षात् पुरुषव्यापारेण शून्यं सन्तं नष्टं द्रष्टिगोचरातीतं कृमिभिः भक्षितं श्वभ्रादिमृतं पाल एव स्वामिनं दद्यात् ॥ ८.२३२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 गोपप्रमादेन ॥ ८.२३१ ॥
-
-_अस्यापवादः_ ।
 </details>
 
 <details><summary>Bühler</summary>

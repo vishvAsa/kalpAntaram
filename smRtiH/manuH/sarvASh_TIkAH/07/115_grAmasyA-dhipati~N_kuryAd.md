@@ -44,6 +44,16 @@ he shall appoint high-horn, pure and truthful men for the protection of the peop
 of one *kroṣa* and whose yield is 1,000 silver *karṣas*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकग्रामदशग्रामाद्यधिपतीन्कुर्यात् ॥११५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ग्रामस्येति** । ग्रामदशग्रामाध्यक्षं कुर्यात् ॥ ७.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	Let him appoint a lord over (each) village, as well as lords of ten villages, lords of twenty, lords of a hundred, and lords of a thousand.

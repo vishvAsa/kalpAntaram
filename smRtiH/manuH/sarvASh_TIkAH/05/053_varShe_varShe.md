@@ -64,6 +64,11 @@ after month, and if one eats not. meat, the two are equal. If one were to perfor
 *Yājñavalkya* (1.181).—(See above, under 47.)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+इदानीम् अशिष्टाप्रतिषिद्धमांसनिवृत्तिर् धर्मायेत्य् एतत् प्रतिपादयितुम् आह **वर्षे वर्ष** इति । प्रतिवर्षं **अश्वमेधेन यजेत **। तथा यो यावज्जीवं मांसं नाश्नाति तयोर् अश्वमेधमांसत्यागजनितस्य पुण्यस्य सम्बन्धि स्वर्गादिफलं तुल्यम् ॥ ५.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	He who during a hundred years annually offers a horse-sacrifice, and he who entirely abstains from meat, obtain the same reward for their meritorious (conduct).

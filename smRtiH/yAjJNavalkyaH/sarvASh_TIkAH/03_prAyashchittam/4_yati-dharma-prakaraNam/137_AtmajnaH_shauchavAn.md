@@ -1,6 +1,7 @@
 +++
 title = "137 आत्मज्ञः शौचवान्"
 +++
+
 <details><summary>मूलम्</summary>
 
 आत्मज्ञः शौचवान् दान्तस्  
@@ -26,11 +27,11 @@ _सत्त्वगुणातिशययोगात् पुनः ।_
  
 
 > **आत्मज्ञः शौचवान् दान्तस् तपस्वी नियतेन्द्रियः ।**  
-> **धर्मकृद् वेदविद् याति**[१२]** सात्त्विको देवयोनिषु ॥ ३.१३७ ॥**
+> **धर्मकृद् वेदविद् याति**[^१२]** सात्त्विको देवयोनिषु ॥ ३.१३७ ॥**
+
+[^१२]: Even though the printed text of Viśva reads- _vedavidyābhiḥ sāttviko_, the commentary itself clearly shows the reading _yāti_- _vedavic ca yaḥ sa sātviko devayoniṣu yāti_. The reading of the edition is probably a typo.
 
  
 
 आत्मज्ञः शौचादिनिष्ठो वेदविच् च यः स सात्त्विको देवयोनिषु याति कर्मणा देवत्वं प्राप्नोतीत्य् अर्थः ॥ १३७ ॥
-
-[१२]: Even though the printed text of Viśva reads- _vedavidyābhiḥ sāttviko_, the commentary itself clearly shows the reading _yāti_- _vedavic ca yaḥ sa sātviko devayoniṣu yāti_. The reading of the edition is probably a typo.
 </details>

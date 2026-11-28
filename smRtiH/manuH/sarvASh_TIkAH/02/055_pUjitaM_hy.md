@@ -40,11 +40,20 @@ This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where ‘*p
 See Comparative notes for [Verse 2.54].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्पूजितमन्न सामर्थ्यंवीर्यं च ददाति । अपूजितं पुनरेतदुभयं नाशयति । तस्मात्सर्वदाऽन्नं पूजयेदिति पूर्वेणैकवाक्यतापन्नमिदं फलश्रवणम् ।स्तुत्यर्थसंध्यावन्दनादावुपात्तदुरितक्षयवन्नित्यं कामनाविषयत्वेनापि नित्यश्रुतिरविता । नित्यश्रुतिविरोधात् फलश्रवणं स्तुत्यर्थमिति तु मेधातिथि-गोविन्दराजौ ॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूजितम्** इति । यामात् **पूजितम् **अन्नं सामर्थ्यं वीर्यं च ददाति, **अपूजितं च तद् भुक्तं उभयं **नाशयति तस्मात् पूजितम् अद्याद् इति प्रकृतस्तुतिः फलार्थत्वे (न नि) नित्यतापत्तेः ॥ २.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

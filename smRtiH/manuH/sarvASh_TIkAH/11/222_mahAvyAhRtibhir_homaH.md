@@ -56,6 +56,19 @@ Do. (27.5-7).—‘He shall offer libations of water and oblations of clarified 
 clothes and speaking the truth, he shall enter the fire-house... Heaping fuel on the fire... he offers oblations... to Agni... to Agni Sviṣṭakṛt...... Having drunk water, he offers additional oblations...... gives a cow as the fee and worships the sun.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**महाव्याहृतिभिर्भूर्भुवःस्वरेताभिः**  
+**आज्यं हविरनादेशे जुहोतिषु विधीयते।**
+
+इति परिशिष्टवचनादाज्येन प्रत्यहं होमं कुर्यात्। अहिंसासत्याक्रोधाकौटिल्यानि चानुतिष्ठेत्। यद्यप्येतानि पुरुषार्थतया विहितानि तथापि व्रताङ्गतयायमुपदेशः॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**महाव्याहृतिभिर्** इति । महाव्याहृतिभिर् भूर् भुवः स्वर् इत्य् एताभिः “आज्ये हविर् अनादेश” इति सूत्रकारवचनात् आज्येन स्वयं प्रत्यहं होमं कुर्यात् । अहिंसा सत्यम् अक्रोधाकौटिल्यानि पुरुषार्थयोक्तान्य् अपि व्रताङ्गतयानुतिष्ठेत् ॥ ११.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 223	Burnt oblations, accompanied by (the recitation of) the Mahavyahritis, must daily be made (by the penitent) himself, and he must abstain from injuring (sentient creatures), speak the truth, and keep himself free from anger and from dishonesty.

@@ -31,6 +31,16 @@ This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 321;—in
 herself not a maiden;—in *Aparārka* (p. 859), which says *strī* meant here is ‘other than a maiden’, the ‘maiden’ having been already dealt with in the preceding verse;—in *Mitākṣarā* (2.288), which, explains ‘*strī*’as ‘a grown up experienced woman’;—and in *Vīramitrodaya* (Vyavahāra, 157a), which explains ‘*prakuryāt*’ as ‘causes penetration.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या पुनः कन्यामङ्गुलिप्रक्षेपेण स्त्री नाशयेत्सा तत्क्षणादेव शिरोमुण्डनं अनुबन्धापेक्षयाङ्गुल्योरेव छेदनं, गर्दभेण च राजमार्गे वहनमर्हति ॥ ३७७ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येति** । या पुनः स्त्री कन्यां नाशयेत् सा तत्क्षणाद् एव शिरोमुण्डनसानुबन्धापेक्षया अङ्गुल्योर् एव छेदनम् अर्हति । तथा खरेण राजमार्गे वहनम् अर्हति इदं चात्र पूर्वाभ्यां विकल्पिताभ्यां समन्वितम् ॥ ८.३७० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 मौण्ड्या]ङ्गुलिच्छेदयोर् विकल्पः ॥ ८.३६९ ॥

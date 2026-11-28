@@ -41,11 +41,20 @@ the ‘Śrāddha-oflferings,’ the things offered; as the ‘*Śrāddha*’ its
 father and to the grand-father.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा जीवत्पिता भोज्यस्तथा पितामहोऽपि पितामहब्राह्मणस्थाने भोज्यः । पितृप्रपितासहयोश्च ब्राह्मणभोजनं पिण्डदानं च कुर्यात् । यथा वा जीवता पितामहेन त्वमेव यथारुचि कुर्विति दत्तानुज्ञः स्वरुच्या पितामहं वा भोजयेत् । पितृप्रपितामहयोर्वा श्राद्धद्वयं कुर्यादिति विष्णुवचनात्पितृप्रपितामहवृद्धप्रपितामहानां श्राद्धत्रयं कुर्यात् ॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पितामह** इति । पितामहविप्रस्थाने पितामहं वा भोजयेत् । पितृप्रपितामहयोः पिण्डदानं ब्राह्मणभोजनं च कुर्यात् । अथ वा पित्रा पितामहेन वा जीवता अहं न भुञ्जे यथेच्छम् एव (कुर्विति) **अनुज्ञातः** **स्वयम् एव** यथारुचि **समाचरेत्** । उक्तपक्षेभ्यः पक्षान्तरं यथा गृह्ये उक्तम्- “जीवत्पितृकस्यानारम्भः कर्माणीति होमान्तः” ॥ ३.२२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

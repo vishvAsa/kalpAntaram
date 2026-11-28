@@ -51,6 +51,16 @@ This verse is quoted in *Aparārka* (p. 933);—in *Mitākṣarā* (3.39), to th
 See Comparative notes for [Verse 10.85].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भोजनाभ्यङ्गदानव्यतिरिक्तं यदन्यन्निषिद्धं विक्रयादि तिलानां कुरुते, तेन पितृभिः सह कृमित्वं प्राप्तः कुक्कुरपुरीषे मज्जति॥ ११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भोजनाभ्यञ्जनाद्** इति । भोजनाभ्यञ्जनदानव्यतिरिक्तम् अन्वयाद् अन्नविक्रयादि यदि तिलानां कुरुते तदा पितृभिः सह कृमित्वं प्राप्तः श्वपुरीषे निमज्जतीति पूर्वव्यक्तिक्रमफलकथनम् ॥ १०.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	If he applies sesamum to any other purpose but food, anointing, and charitable gifts, he will be born (again) as a worm and, together with his ancestors, be plunged into the ordure of dogs.

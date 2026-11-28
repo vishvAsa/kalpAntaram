@@ -12,15 +12,11 @@ He shall arrange everything in such a manner that his allies or neutrals or enem
 
 **यथा न** तैस् तैः प्रयोगैर् **अभिसंदध्युस् तथा** कुर्याद् अर्जितैर् इतरैर् वोपायैर्[^२३४] इत्य् **एष** संक्षेपिको न्याय इत्य् उपसंहारः षाड्गुण्यस्य । अतिसंधानविरोधश् चैवं न[^२३५] भवति । कृत्यानाम् उपजापरक्षणात्, व्यसनेषु प्रतिकारात्, स्वमण्डलसंग्रहात्, गुणोपायानां सम्यक्प्रयोगात्, कर्मस्व् अभ्युत्थानम् इत्य् एवं द्रष्टव्यम् ॥ ७.१८० ॥
 
-
 [^२३५]:
      DK 4: 2202 suggests deleting na.
 
-
 [^२३४]:
      M G J: itarair ivopāyair (I follow DK 4: 2200)
-
-_इदानीम् अभियास्यतः कर्माह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -33,6 +29,16 @@ In the manner shown above there is no inconsistency in the employment of the ‘
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यथैनं राजानं मित्रादय उक्ता न बाधेरंस्तथा सर्वसंविधानं कुर्यात् । इत्येष सांक्षेपिको नयो नीतिः ॥१८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति । यथैनं **राजानं मित्रादय उक्ता न वञ्चयेयुः तथा सर्वं सविधानं कुर्यात् । इत्य् एवं साङ्क्षेपिको नयो नीतिः ॥ ७.१८० ॥
 </details>
 
 <details><summary>भारुचिः</summary>

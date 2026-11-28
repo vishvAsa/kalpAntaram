@@ -44,11 +44,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305);—in
 See Comparative notes for [Verse 2.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न बहुभिर्वर्यैः न केशलोमभिः शुक्लैःन बहुना धनेन, न पितृव्यत्वादिभिर्बन्धुभावैः । समुदितैरप्येतैर्न महत्त्वं भवति, किंतु ऋषय इमं धर्मं कृतवन्तः – यः साङ्गवेदाध्येता सोऽस्माकंमहान् संमतः ॥१५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अतश् च **न हायनैर् **इति । न वयो भूयः शिरः पाण्दुर्यधनबन्धुभिः ज्यायस्त्वम् । अपि तु यो ऽध्यापनसमर्थः स श्रेष्ठ इत्य् अस्माकं मतम् इत्य् एवम् **ऋषयो धर्मं** व्यवस्थापितवन्तः ॥ २.१५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 154	Neither through years, nor through white (hairs), nor through wealth, nor through (powerful) kinsmen (comes greatness). The sages have made this law, 'He who has learnt the Veda together with the Angas (Anukana) is (considered) great by us.'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

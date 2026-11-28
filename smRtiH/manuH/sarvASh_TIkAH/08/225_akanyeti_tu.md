@@ -19,6 +19,9 @@ If a man, through malice, speaks of a maiden as ‘not a virgin’ he should rec
 - <u>उच्यते</u> । स इदंवादी पृच्छ्यते- "कथम् इयम् अकन्या" इति । स चेद् ब्रूयात् "निर्लज्जा नृशंसाश्लीलवादिनी, नैष कन्यानां धर्मः" । एतच् च न साधयेत् । तदायं दण्डः कन्यागुणनिषेध उक्ते सति । 
 
 <u>अथ वा</u> कन्याशब्दं प्रथमवयोवचनम् आश्रित्य परोक्षे प्रार्थयमानस्य ब्रूयात्- "किं तावन् नासौ कन्या अतिस्वल्पा वृद्धा वा," तत्र कन्या दत्ता यदि राजानं ज्ञापयेद् अभिरूपतमा कन्या मदीया प्रार्थ्यमानानेन तस्याम् अभिलाषः, एवम् उक्त्वाथ[^७५] पराजितः, तत्र प्राप्तकालायां यद्य् एवम् उक्तं तदा पराजितस्यायं दण्डः ॥ ८.२२५ ॥
+
+[^७५]:
+     M G: apekṣā
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -48,6 +51,16 @@ when a blemish is subsequently discovered in her.’
 Do. (12.31).—‘Let no man calumniate a faultless maiden; neither must one calumniate a faultless suitor. When however, there is an actual defect, it is no offence if they dissolve their mutual agreement.’
 
 Do. (12.34-36).—‘When a man, from hatred, declares a maiden to have lost her virginity, he shall pay 100 *Paṇas* as tine, unless he is able to give proofs of her disgrace. When a man, after having plighted his faith to a maiden, abandons her although she is faultless, he shall be fined and made to marry the maiden, even against his will. Affliction with a chronic or hateful disease, deformity, loss of virginity,—these are declared to be the defects of a maiden.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+नेयं कन्या, क्षतयोनिरियमिति यो मनुष्यो द्वेषेण ब्रूयात्तस्या उक्तदोषमविभावयन्पणशतं राजा दण्डंप्रकल्पयेत् ॥२२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस् त्व्** इति ॥ **अकन्येति** । नेयं कन्या क्षतयोनिर् इयम् इत्य् एवं यो मनुष्यो द्वेषेण कन्यायाः कुर्यात् स तस्याः तं दोषम् अविभावयन् पणशतं दण्डं प्राप्नुयात् । उक्तस्याप्य् अतिक्रमकारित्वाद् दण्डः ॥ ८.२२५ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

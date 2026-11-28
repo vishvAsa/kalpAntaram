@@ -51,11 +51,14 @@ The sense of the verse is that the man who is possessed of any intelligence shou
 See Comparative notes for [Verse 9.31].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं क्षेत्रपाधान्यम् आह **तद्** इति । तद् बीजं प्रज्ञावता नीतियुक्तेन लोकशास्त्रव्यवहारज्ञेन ईदृशम् अनायुष्यम् इत्य् उक्तत्वाद् आयुर् इच्छता न कदाचित् परभार्यायां वप्तव्यं निष्फलत्वात् । तथा च वक्ष्यति (९.४३) “तथा नश्यति तत् क्षिप्तं बीजं परपरिग्रहे” इति ॥ ९.४१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 क्षेत्रप्राधान्यात्, मा भूत् परक्षेत्रे बीजापहारः । [अनादिपरंपरासिद्धं च यतः परक्षेत्रजातं न] बीजिनो ऽपत्यम् ॥ ९.४१ ॥
-
-_एवं च ।_
 </details>
 
 <details><summary>Bühler</summary>

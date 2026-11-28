@@ -83,11 +83,20 @@ Praṇava, the seven Vyāhṛtis, and the three-footed Gāyatrī has no fear any
 Sāvitrī verse,—these constitute the *Sāvitra*, whereby one becomes absolved from sins; by hundred repetitions, from sins of thought; by thousand repetitions, from sins of word; and by ten thousand repetitions, from all sins, and has his soul perfectly pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ओंकारपूर्विकास्तिस्रोव्याहृतयो भूर्भुवःस्वरित्येता अक्षरब्रह्मावासप्तिफलत्वेनाव्ययाः त्रिपदा च सावित्री ब्रह्मणो वेदस्य मुखमाद्यम्, तत्पूर्वकवेदाध्ययनारम्भात् । अथवा ब्रह्मणः परमात्मनः प्राप्तेर्द्वारमेतत्, अध्ययनजपादिना निष्पापस्य ब्रह्मज्ञानप्रकर्षेण मोक्षावाप्तेः ॥८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ओङ्कारपूर्विका** इति । **ओङ्कारपूर्विकास् तिस्र** एताः भूराद्या **महाव्याहृतयः अव्ययाः **अविनाशिन्यः तत्फल्स्य दीर्घकालत्वात् पादत्रयम् उक्ता चैषा “तत् सवितुर् वरण्यम्” इति **सावित्री ब्रह्मणो मुखं** वेदप्राप्तिद्वारं **विज्ञेयम् **। अतः स्वाध्यायादाव् एतद् अध्येयम् इति प्रकृतार्थस्तुतिः ॥ २.८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 081	Know that the three imperishable Mahavyahritis, preceded by the syllable Om, and (followed) by the three-footed Savitri are the portal of the Veda and the gate leading (to union with) Brahman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

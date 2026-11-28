@@ -74,6 +74,16 @@ old landmarks, chaff of grain, coal, potsherds, wells, sanctuaries, trees,—obj
 at the time of foundation, and it should be marked by visible and invisible signs, so as to dispel all doubt. Wells, tanks, pools, large trees, gardens, temples, mounds, channels, the course of a river, sands, shrubs, or piles of stones;—by such visible signs as these a boundary line should always be marked; also by other marks deposited underground, which the earth is not likely to destroy;—such as dry cowdung, bones, chaff, charcoal, stones, potsherds, sand, bricks, cow’s tails, cotton-seeds and ashes; after having placed these substances in vessels one should deposit them there underground at the extremities of the boundary.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्वयोर्ग्रामयोर्मर्यादां प्रति विप्रतिपत्तावुत्पन्नायां ज्येष्ठे मासि ग्रीष्मरवितापसंशुष्कनृगत्वात्प्रकटीभूतेषु सीमालिङ्गेषु राजा सीमां निश्चिनुयात् ॥२४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सीमाम्** इति । द्वयोर् ग्राममर्यादाविषयायां विप्रतिपत्तौ उत्पन्नायां ज्येष्ठे मासि ग्रीष्मे तापसंशुष्कतृणत्वात् प्रकटीभूतेषु सीमालिङ्गेषु राजा सीमां निश्चिनुयात् । सीमापरिज्ञाने सर्वदा लोके जनानां भ्रान्तिं दृष्ट्वोक्तानि गृह्यानि वक्ष्यमाणानि सीमा चिह्नानि कारयेत् ॥ ८.२४५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपन्यासश् चित्तप्रणिधानार्थः । **ज्येष्ठमासे** सेतवः, सीमाव्यवच्छेदहेतवः, सुविज्ञाता भवन्ति ॥ ८.२४४ ॥

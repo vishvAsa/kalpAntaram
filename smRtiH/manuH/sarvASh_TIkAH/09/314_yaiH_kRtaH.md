@@ -35,6 +35,11 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 151), which explains �
 See Comparative notes for [Verse 9.313].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यैर्ब्राह्मणैरभिशापेन सर्वभक्ष्योऽग्निः कृतः, समुद्रश्यापेयजलः, चन्द्रश्चपश्चात्पुरितस्तान्कोपयित्वा को न नश्येत्॥ ३१४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 किं च,

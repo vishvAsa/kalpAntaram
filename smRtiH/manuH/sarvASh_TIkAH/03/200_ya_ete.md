@@ -33,6 +33,16 @@ The singular number in ‘*putrapautrakam*’ is in accordance with Pāṇini 2.
 This verse is quoted in *Hemādri*, (Śrāddha, p. 48).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+य एते प्रधानभूताः पितृगणा उक्तास्तेषामपीह जगति पितर एव पुत्रपौत्र अनन्ता विज्ञेयाः । पुत्रपौत्रमिति "गवाश्वप्रभृतीनि च” ( पा. सू. २ / ४ / ११ ) इत्येकवद्भावः । एतच्छलोकसूचिता एव "वरो वरेण्यः" इत्यादयोऽन्येऽपि पितृगणा मार्कण्डेयादिपुराणादिषु श्रूयन्ते ॥२००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति** । य एते **सोमपादयः प्रधानभूताः पितृगणा उक्ताः **तेषाम् अपीह** संसारे पितर एव पुत्रपौत्रा विज्ञेयाः ॥ ३.२०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.

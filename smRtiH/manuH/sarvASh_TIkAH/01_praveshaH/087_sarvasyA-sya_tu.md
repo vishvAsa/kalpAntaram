@@ -21,11 +21,15 @@ The divisions of time have been described. The qualifications of the Brāhmaṇa
 ‘*Of this entire creation*,’—*i.e*., of all beings,—‘*with a view to the protection*’—for the purpose of their safety;—the Resplendent One, Prajāpati,—‘*ordained*,’—distributed—‘*the functions*,’—*i.e*., actions, leading to perceptible as well as imperceptible results,—of the Brāhmaṇa and other castes, that sprang from his mouth and other limbs. (87).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वस्येति **। स महादीप्तिर् ब्रह्मा **अस्य सर्वस्य** जगतः “अग्नौ प्रास्ताहुतिः” इत्यादिन्यायेन रक्षार्थं **मुखा**दिजातानां ब्राह्मणादीनां **पृथक्** पृथक् **कर्माणि **अदृष्टार्थानि वृत्त्यर्थानि च कल्पितवान् । एतानि सृष्टिशेषत्वेनेहाभिधीयन्ते । तथा च **सर्वस्यास्य तु सर्गस्य गुप्त्यर्थम्** इत्य् उक्तम् । विधिस् त्व् एषाम् अस्यार्थवादप्रकरणत्वाद् उत्तरत्र भविष्यति ॥ १.८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 087	But in order to protect this universe He, the most resplendent one, assigned separate (duties and) occupations to those who sprang from his mouth, arms, thighs, and feet.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -29,6 +29,16 @@ This verse is quoted in *Mitākṣarā* (on 1.342), in support of the view that 
 403).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दुर्गाश्रयमदुर्गाश्रयं वा रिपुमयुध्यमानमप्यावेष्ट्यासीत । अस्य च देशमुत्सादयेत् । तथा घासान्नोदकेन्धनानि सर्वदाऽस्यापद्रव्यसंमिश्रणादिना दूषयेत् ॥१९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपरुध्येति** । दुर्गापाश्रितम् अपि युध्यमानम् अरिं दुर्गवेष्टनद्वारेणावेष्ट्यासीत । अस्य च रात्रौ दुर्गाद् बहिर्देशं लुण्ठनादिनोपपीडयेत् । घासान्नोदकेन्धनानि वास्य सर्वदापद्द्रव्यसम्मिश्रणादिना दूषयेत् ॥ ७.१९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 195	When he has shut up his foe (in a town), let him sit encamped, harass his kingdom, and continually spoil his grass, food, fuel, and water.

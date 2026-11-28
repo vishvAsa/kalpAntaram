@@ -70,6 +70,16 @@ morning, he should cleanse his teeth, bathe, pour libations into fire; then the 
 bed; he should never teach on the bed whereupon he sleeps.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अध्ययनं करिष्यमाणं शिष्यं सर्वदा अनलसो गुरुरधीष्व भो इति प्रथमं वदेत् । शेषे विरामोऽ-स्त्वित्यभिधाय विरमेन्निवर्तेत ॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अध्येष्यमाणम्** इति । प्रत्यासन्नाध्ययनं शिष्यम् अनलसो **गुरुः **सर्वकालम् **अधीष्व भो इति ब्रूयत् । विरामो ऽस्त्व् इति** चोक्त्वा अनन्तरम् अध्यापनान् निवर्तेत ॥ २.७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!

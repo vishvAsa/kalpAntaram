@@ -47,11 +47,20 @@ epilepsy.’
 their Teacher, by speech, mind and deed,—are as useless to them, as they are to the Teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यमानदोषस्याभिधानं परीवादः, अविद्यमानदोषाभिधानं निन्दा ।यत्र देशे गुरोः परीवादो निन्दा च वर्तते तत्र स्थितेन शिष्येण कर्णौहस्तादिना तिरोधातव्यौ । तस्माद्वा देशाद्देशान्तरं गन्तव्यम् ॥२००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरोर्** इति । यस्मिन् देशे गुरोः सदोषाभिधानम् असद्दोषकथनं वा केचन कुर्वन्ति **कर्णौ तत्रा**च्छादनीयौ तस्मात् प्रदेशाद् अन्यत्र **गन्तव्यम्** । न चात्मना परीवादादि कर्तव्यम् ॥ २.२०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

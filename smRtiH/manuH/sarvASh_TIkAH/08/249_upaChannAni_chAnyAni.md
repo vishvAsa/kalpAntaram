@@ -36,6 +36,16 @@ It is quoted in *Vivādaratnākara* (p. 203), which explains ‘*Upacchannāni*�
 See Comparative notes for [Verse 8.245].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सीमानिर्णये सर्वदाऽस्मिंल्लोके मनुष्याणां विभ्रममज्ञानं दृष्ट्वाऽभिहितव्यतिरिक्तानि गुढानि वक्ष्यमाणानि सीमाचिह्नानि कारयेत् ॥२४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपच्छन्नानीति** । सीमापरिज्ञाने सर्वदा लोके जनानां भ्रान्तिं दृष्ट्वा अदुष्टानि गुह्यानि वक्ष्यमाणानि सीमाचिह्नानि कारयेत् ॥ ८.२४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 249	And as he will see that through men's ignorance of the boundaries trespasses constantly occur in the world, let him cause to be made other hidden marks for boundaries,

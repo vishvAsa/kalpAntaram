@@ -12,19 +12,14 @@ On the separation of loved ones and the meeting of hated persons; on being beset
 
 **अवेक्षेतेति** क्रियापदसंभवात् द्वितीया । **प्रियाः** पुत्रादयो बान्धवास् तैर् **वियोगो** ऽप्राप्तकाले मृतैः । **अप्रियैः** शत्रुभिः **संयोगः** संग्रामादिभिः[^२१] **संयोगः** । **जरया** । चतुर्थे वयस्य् अवस्थाविशेषो जरा, तयाभिभवनं शरीराकारनाशः, अशक्तिः, इन्द्रियवैकल्यम्,[^२२] कासश्वासादिव्याधिबाहुल्यम्, सर्वेषाम् अकाम्यता, उपहास्यतेत्यादिभिर्[^२३] जराभिभवः । **व्याधिभिः** प्राग् अपि जरस **उपपीडनं** केषांचित् ॥ ६.६२ ॥
 
-
 [^२३]:
      M G: -ādir
-
 
 [^२२]:
      M G: -vaikalya-
 
-
 [^२१]:
      M G: śatrusaṃgrahagamanādibhiḥ
-
-_अथ महती तृष्णा एवंस्थितस्यापि भवति । एवं तर्हि इदम् अप्रतीकारम् अनिच्छतो ऽप्य् उत्पद्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -55,6 +50,16 @@ This verse is quoted in *Aparārka* (p. 968);—and in *Yatidharmasaṅgraha* (p
 by old age,—and upon the pain arising from diseases—bodily, mental, or due to excesses,—and upon that arising from the five naturally inherent affections; on the union of those whom we hate, and the separation from those whom we love.’
 
 *Yājñavalkya* (3.63.64).—(See under 61.)
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+इष्टपुत्रादिवियोगम्, अनिष्टहिंसकादियोगं, जराभिभवनं, व्याध्यादिभिश्च पीडनं कर्मदोषसमुद्भवमनुचिन्तयेत्॥६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विप्रयोगम्** इति । इष्टवियोगानिष्टसंयोगजरजाभिभवव्याध्युपपीडनानि कर्मदोषोद्भवानि पर्यालोचयेत् ॥ ६.६२ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

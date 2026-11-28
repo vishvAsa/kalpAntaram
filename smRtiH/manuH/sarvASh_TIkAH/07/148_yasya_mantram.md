@@ -33,9 +33,14 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 308);—and in
 See Comparative notes for [Verse 7.148].
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_एवं च सति संरक्षणार्थम् ।_
+यस्य राज्ञो मन्त्रिभ्यः पृथगन्ये जना मिलित्वाऽस्य मन्त्रं न जानन्ति स क्षीणकोशोऽपि सर्वां पृथिवीं भुनक्ति ॥१४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्येति** । यस्य राज्ञो मन्त्रिव्यतिरिक्ताः जनाः सम्मील्याभ्यूह्य मन्त्रं **न जानन्ति** स **क्षीणकोशो ऽपि** समग्रां **पृथिवीं भुनक्ति** ॥ ७.१४८ ॥
 </details>
 
 <details><summary>Bühler</summary>

@@ -24,6 +24,16 @@ These two verses (57 and 58) describe the actual state of things, for the purpos
 ‘*Elder*’—one born before;—‘*younger*’—one born after; junior in age.—(57)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्येष्ठस्य भ्रातुर्या भार्या सा कनिष्ठस्य भ्रातुर्गुरुपत्नी भवति । कनिष्ठस्य च भ्रातुर्या भार्या सा ज्येष्ठभ्रातुः स्नुषा मुनिभिः स्मृता ॥ १७ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रातुर्** इति । **यवीयसस् तु या भार्या स्नुषा ज्येष्ठस्य सा स्मृता** । ज्येष्ठभ्रातृपत्नी अनुजस्य गुरुभार्यया तुल्या । कनीयसः पत्नी पुनर् ज्येष्ठस्य स्नुषा प्रचक्षते ॥ ९.५७
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतस्यां च व्यवस्थायां सत्याम् ।

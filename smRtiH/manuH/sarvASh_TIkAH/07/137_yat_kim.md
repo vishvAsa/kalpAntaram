@@ -28,6 +28,16 @@ The King shall make the other people living by business p ay during the year som
 rivers, dry grass, forests, places of combustion and mountains;—or, those who derive subsistence from these may pay something.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजा स्वदेशेशाकपर्णादिस्वल्पमुल्यवस्तुक्रयविक्रयादिना जीवन्तं निकृष्टजनं स्वल्पमपि कराख्यं वर्षेण दापयेत् ॥१३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् किञ्चिद्** इति । तद्राष्ट्रे क्रयविक्रयादिजीवितम् आपूपिकादिकं निकृष्टजनं **यत् किञ्चित्** स्वल्पम् अपि कराख्यं वर्षे **राजा** दापयेत् ॥ ७.१३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ब्राह्मणाद् अन्यः **पृथग्जनः** । स्वल्पेनापि व्यवहारेण जीवन् दापयितव्यः करः ॥ ७.१३७ ॥

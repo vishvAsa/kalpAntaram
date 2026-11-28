@@ -25,11 +25,20 @@ The addition of the term, ‘*Brāhmaṇa*,’ indicates that the observances la
 ‘*Praiseworthy*’—excellent. All this is mere praise.—(259)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयमध्मायार्थोपसंहारः । एषा ऋतादिवृत्तिर्गृहस्थस्य ब्राह्मगस्योक्ताशञ्चितानित्या। आपदि त्वनित्या वक्ष्यते । स्नातकव्रतविधिश्व सत्त्वगुगस्य वृद्धिकरणे प्रशस्त उक्तः॥२५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषेति** । एषा ऋतादिका जीविका नित्या अनित्याया आपदि विधानात् **गृहस्थस्य **ब्राह्मणस्योक्ता । तथा **स्नातकव्रत**विधिश् च **सत्त्वा**ख्यगुण**वृद्धिकरः** प्रशस्तस्यैवोक्तः ॥ ४.२५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 259	Thus have been declared the means by which a Brahmana householder must always subsist, and the summary of the ordinances for a Snataka, which cause an increase of holiness and are praiseworthy.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

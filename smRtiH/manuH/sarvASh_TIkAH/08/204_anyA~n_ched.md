@@ -55,6 +55,18 @@ without mentioning her defects, he should be fined the highest amercement.’
 marriage, without mentioning the defect, he should be punished by the King with the first amercement; the defects of a girl being presence of chronic and loathsome disease, shortness of limbs, loss of virginity, immodesty, attachment to another man.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शुल्कदेयां शुल्कव्यवस्थाकाले निरवद्यां दर्शयित्वा यदि सावद्या वराय दीयते, तदा द्वे
+
+अपि कन्ये तेनैवैकेन शुल्केनासौ वरः परिणयेदिति मनुराह। शुल्कग्रहणपूर्वककन्याया दानस्य विक्रयरूपत्वा दर्थक्रय विक्रयसाधम्येंणास्यात्राभिधानम् ॥२०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्याम्** इति । शुल्कदेयां कन्यां शुल्कवृद्ध्येच्छाकाले निरवद्यां दर्शयित्वा यदि सावद्या वरस्य दीयते तदा द्वे अपि कन्ये तेन एकेनैव शुल्कदानेन हरेत् । इति विक्रयसाधर्म्येणास्येहाभिधानम् ॥ ८.२०४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निरवद्यां कन्यां दर्शयित्वा यः सा[वद्यां ददा]ति तस्य उभे अपि **ते एकशुल्केन**इव वहनीये ॥ ८.२०३ ॥

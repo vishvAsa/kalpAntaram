@@ -35,11 +35,15 @@ Because all that is meant by the text is that one should not wear the badge of o
 jāyate*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रेत्येहेति श्लोकद्वयम् । प्रथमं सुबोधम् ।अब्रह्मचारी यो ब्राह्मणो ब्रह्मचार्यादिलिङ्ग मेखलाजिनदण्डादिवेषोपलक्षितस्तद्वृत्त्या भिक्षाभ्रमणादिना जीवति स ब्रह्मचार्यादीनां यत्पापं तदात्मन्याहरति । कुक्कुरादितिर्यग्योनौ चोत्पद्यते । तस्मादेतन्न कर्तव्यमिति निषेधः कल्प्यते ॥१९९॥२००॥
+</details>
+
 <details><summary>Bühler</summary>
 
 200	He who, without being a student, gains his livelihood by (wearing) the dress of a student, takes upon himself the guilt of (all) students and is born again in the womb of an animal.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -37,6 +37,16 @@ Having occupied it, he shall wed a wife of the same caste as himself, who is equ
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 407).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तद्गृहमाश्रित्य समानवर्णोशुभसूचकलक्षणोपेतां महाकुलप्रसूतां मनोहारिणीं सुरूपां गुणवर्ती भार्यामुद्वहेत्॥७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तद्** इति । **तद्** गृहम् अधिष्ठाय समानवर्णां प्रशस्तलेखातिलकादिलक्षणोपेतां महाकुलीनां मनोरमां स्वाकृतिम् आचारादिसम्पन्नां **भार्याम्** उपयच्छेत् ॥ ७.७७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 राज्यतन्त्रसहायार्थं महतः कुलाद् इत्य् एतत्संबन्धेन सवर्णादीनाम् उक्तानाम् अनुवादः ॥ ७.७७ ॥

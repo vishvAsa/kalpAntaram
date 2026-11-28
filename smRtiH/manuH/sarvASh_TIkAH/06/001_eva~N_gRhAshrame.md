@@ -90,11 +90,24 @@ Householder, the Hermit and the Renunciate; a man who has studied one, two or th
 hair, to perform Agnihotra, to sleep on the bare ground, to wear black deer-skin, to live in solitary places, to sustain himself on water, succulent roots, Nīvāra corn and fruits, to refuse alms, to bathe thrice, to observe vows and to adore gods and guests.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[अतःपरं प्रवक्ष्यामि धर्मं वैखानसाश्रमम्।**
+
+**वन्यमूलफलानां च विधिं ग्रहणमोक्षणे॥२॥ \]**
+
+आश्रमसमुच्चयपक्षाश्रितो द्विजातिः कृतसमावर्तन उक्तप्रकारेण यथाशास्त्रं गृहाश्रममनुष्ठाय नियतः कृतनिश्चयो यथाविधानं वक्ष्यमाणधर्मेण यथाहँ विशेषेण जितेन्द्रियः। परिपक्व कषाय इत्यर्थः। वानप्रस्थाश्रममनुतिष्ठेत्॥१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । कृतसमावर्तनो द्विज उक्तप्रक्रियो यथाशास्त्रं गृहाश्रमम् अनुष्ठाय ततो नियतः कृतनिश्चयो विशेषेण यतेन्द्रियः सन् यथा वक्ष्यमाणप्रकारेण यथार्हति तथा वानप्रस्थाश्रमम् अनुतिष्ठेत् ॥ ६.१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 001	A twice-born Snataka, who has thus lived according to the law in the order of householders, may, taking a firm resolution and keeping his organs in subjection, dwell in the forest, duly (observing the rules given below).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

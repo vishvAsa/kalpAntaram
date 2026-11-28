@@ -27,11 +27,19 @@ On the other hand, those who are disciplined never lose their kingdom, after hav
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 119).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+करितुरगकोशादिपरिच्छदयुक्ता अपि राजानो विनयरहिता नष्टाः। बहवश्व वनस्था निष्परिच्छदा अपि विनयेन राज्यं प्राप्नुवन्॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बहव** इति । बहवो राजानो हस्त्यश्वकोशादिप्रच्छदयुक्ता अपि अविनीततया नष्टाः, अन्ये पुनर् वनवासिनो ऽपरिच्छदा अपि विनयत्वेन राज्यानि प्राप्तवन्तः ॥ ७.४० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उभयतोपदेशो हि विनयाधानादरार्थः ॥ ७.४० ॥
-
-_तानिदानीं (?) दर्शयति-_
 </details>
 
 <details><summary>Bühler</summary>

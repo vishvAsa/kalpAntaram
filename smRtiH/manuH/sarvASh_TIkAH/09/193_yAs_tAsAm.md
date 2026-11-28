@@ -35,6 +35,11 @@ property should be given to her grand-daughters;—in *Vivādacintāmaṇi* (Cal
 See Comparative notes for [Verse 9.192].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तासां दुहितॄणां या अनूढा दुहितरस्ताभ्योऽपि मातामहीधनाद्यथा तासां पूजा भवति तथा प्रीत्या किचिंद्दातव्यम्॥ १९३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ऊढानाम् अनूढानां चेति कृतविचारम् एतत् । **प्रीतिपूर्वकम्** इति वचनान् न नियतं दानम् इदं विज्ञायते ॥ ९.१९३ ॥

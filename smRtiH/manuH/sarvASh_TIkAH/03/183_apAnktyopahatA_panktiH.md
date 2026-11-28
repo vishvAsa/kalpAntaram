@@ -34,11 +34,20 @@ regarded as *sanctifiers of company*; these I am going to describe with reasons 
 that is why they are called the *sanctifiers of company*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकपङ्क्त्युपविष्टस्तेनादिदूषिता पङ्क्तियैर्ब्राह्मणैः पवित्रीक्रियते तान्पवित्रीकारकान्ब्राह्मणानशेषेण शृणुत ।निषेधादेकर्षाङ्क्तिभोजनासम्भवेऽपि स्तेनादीनां रहस्यकृताज्ञातदोषविषयत्वेन साधकताऽस्य वचनस्य ॥१८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपाङ्क्त्योपहतेति ।** स्तेनादिभिः पङ्क्त्युपविष्टैः दूषिता **पङ्क्तिः यैर्** ब्राह्मणैः पवित्रीक्रियते **तान् **पङ्क्तिपवित्रीकरणात् ब्राह्मणान् साकल्येन शृणुत । यद्य् अप्य् अस्य पङ्क्तिनिषेधात् स्तेनादीनां स्तेनादीनां श्राद्धदानासम्भवे ऽपि सति पङ्क्तिपावनवचनम् अनर्थकम्, तथापि परीक्षायां कृतायाम् अपि रहस्यविज्ञानदोषसम्भवात् इदं तन्निवृत्त्यर्थम् अर्थवद् भवति ॥ ३.१८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 183	Now hear by what chief of twice-born men a company defiled by (the presence of) unworthy (guests) is purified, and the full (description of) the Brahmanas who sanctify a company.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

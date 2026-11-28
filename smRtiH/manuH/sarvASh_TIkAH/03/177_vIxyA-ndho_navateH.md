@@ -33,11 +33,20 @@ It is the *leper* that is called ‘*śvitrī*.’
 This verse is quoted in *Aparārka* (p. 454), which adds that what is meant is that ‘if a blind man remains in a place from where a man with eyes could see the Brāhmaṇas eating,—then he destroys the merit that would result from the feeding of ninety men’;—and in *Hemādri* (Śrāddha, p. 499).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्धस्य वीक्षणासम्भवाद्वीक्षणयोग्यदेशसंनिहितोऽसौ पाङ्क्त्यानां नवतेर्भोजनफलं नाशयति, एवं काणः षष्टेः, श्वेतकुष्ठी शतस्य, पापरोगी रोगराजोपहतः सहस्रस्येत्यन्धादिसन्निधिनिरासार्थं वचनम् । गुरुलघुसंख्याऽभिधानं चेह संख्योपचये दोषगौरवं तत्र च प्रायश्चित्तगौरवमिति दर्शयितुम् ॥१७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अन्धादीनां विशेषम् आह **वीक्ष्येति** । अन्धस्य दर्शनाभावात् तत्र सन्निहितो ऽसौ पाङ्क्त्यानां **नवतेः** सम्बन्धिभोजनफलं नाशयति । एवं **काणः षष्टेः श्वित्री शतस्य कुष्ठी सहस्रस्य **इत्य् अन्धादिसन्निधिफलकथनम् । सङ्ख्यावैचित्र्याद् एवेदम् अप्य् अवसीयते यत् अथ चेन् मन्त्रवियुक्त इत्य् उक्तं च शष्टिदर्शनावष्टम्भेन काणादीन् भोजयिष्यतः पूर्वपूर्वम् अपचितसङ्ख्या निन्दितप्रवृत्तिः । तदकामे ऽधिकनिनिदिते इति ॥ ३.१७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

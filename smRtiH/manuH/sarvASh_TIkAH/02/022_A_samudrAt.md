@@ -44,11 +44,20 @@ Himāvat and the Vindhya;—and in the *Vīramitrodaya* (Paribhāṣā, p. 56).
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आ पूर्वसमुद्रात् आपश्चिमसमुद्राद्धिमवद्विन्ध्ययोश्च यन्मध्यं तमार्यावर्तदेशं पण्डिता जानन्ति । मर्यादायामयमाङ्, नाभिविधौ । तेन समुद्रमध्यद्वीपानां नार्यावर्तता । आर्या अत्रावर्तन्ते पुनःपुनरुद्भवन्तीत्यार्यावर्तः ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आ समुद्राद्** इति । **पूर्वपश्चिमसमुद्रयोः **पुनर् अर्वाग्वर्ति यन् मध्यं **तयोश् च **हिमवद्विन्ध्ययोश् चोत्तरदक्षिणादिगवलम्बिनोः पर्वतयोः यन् मध्यं **आर्यावर्ता**ख्यं देशं विद्वांसो मन्यन्ते ॥ २.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

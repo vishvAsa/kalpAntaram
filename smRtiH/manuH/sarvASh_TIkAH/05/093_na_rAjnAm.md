@@ -98,11 +98,20 @@ ascetic, the artist, the initiated person, during a sacrifice or marriage or a s
 in connection with a sacrificial performance, if a cause for impurity arises, it dues not apply to him. So also for the person who has been initiated for a sacrifice, till the Final Bath. Nor is there any impurity for the calm ascetic firm in Vedānta, etc., etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राज्ञामभिषिक्तक्षत्रियाणां सपिण्डमरणादावशोचदोषो नास्ति । यतो राजान ऐन्द्रं स्थानं राज्याभिषेकाख्यमाधिपत्यकारणं प्राप्ताः । व्रतिनो ब्रह्मचारिणश्चान्द्रायणादिव्रतकारिणश्च, सत्रिणो गवामयनादि-यागप्रवृत्ताः यतो ब्रह्मभृतास्ते ब्रह्मेव निष्पापाः । अशौचाभावश्चायं कर्मविशेषे । तदाह विष्णुः—"अशौचं न राज्ञां राजकर्मणि न व्रतिनांव्रतेन सत्रिणांसत्रे”। राजकर्मणि व्यवहारदर्शनशान्तिहोमादिकर्मणि ॥९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न राज्ञाम्** इति । यतो राजान ऐन्द्रं स्थानम् आधिपत्यपदम् आश्रिता ब्रह्मचारिणः चान्द्रायणादिव्रतप्रवृत्ताः सत्त्रिणश् च गवामयनादिस्था ब्रह्मत्वप्राप्त्यभिमुखा अतस् तेषां स्वकर्मण्य् आशौचाख्यो दोषो न भवति । तथा च विष्णुः- “न राज्ञां राजकर्मणि न व्रतिनां व्रते न सत्रिणां सत्त्रे च” इति एवं च ॥ ५.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	The taint of impurity does not fall on kings, and those engaged in the performance of a vow, or of a Sattra; for the (first are) seated on the throne of Indra, and the (last two are) ever pure like Brahman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

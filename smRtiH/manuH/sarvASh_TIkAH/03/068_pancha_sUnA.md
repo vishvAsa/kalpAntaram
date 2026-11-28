@@ -80,11 +80,20 @@ beings*; these are of five kinds: The first *slaughtering* is done by people hur
 *slaughterings*, t he source of sin, which people do day by day.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पशुवधस्थानं सूना। सूना इव सूना हिंसास्थानगुणयोगाच्चुल्ल्यादयः पञ्च गृहस्थस्य हिंसाबीजानि हिंसास्थानानि । चुल्ली उद्वाहनी, पेषणी दृषदुपलात्मिका, उपस्करो गृहोपकरणकुण्डसंमार्जन्यादिः, कण्डनी उलूखलमुसले, उदकुम्भो जलाधारकलशः । याः स्वकार्ये योज- यन्यापेन सम्बध्यते ॥६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्च सूनेति** । पचनदृषत्शूर्पोलूखलाद्याः **पञ्च गृहस्थस्य सूना** इव घातनस्थानानि यानि स्वकार्ये योजयन् पापेन सम्बध्यते । एवं चास्मात् सूनावचनात् तासां निष्कृत्यर्थम् इति च निष्कृतिवचनात् सूनादोषैर् न लिप्यत इति तद्दोषाभिधानात् अधर्महेतुत्वम् आसां तन्निष्कृत्यर्थत्वं महायज्ञानाम् इत्य् अवसीयते, शास्त्रैकगोचरत्वात् धर्माधर्मयोः । न चैवं सति महायज्ञानाम् अनित्यतापत्तिः देवतातिथिभृत्यानां ऋषयः पितरो देवता इत्य् एवमादिभिर् एषां नित्यत्वप्रतिपादनात् सन्ध्योपासनवद् उभयार्थत्वम् एषाम् ॥ ३.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -9,9 +9,13 @@ One should not converse with the wives of other men, when forbidden. If, on bein
 </details>
 
 <details><summary>मेधातिथिः</summary>
+
 <u>केचिद्</u> भिक्षुकादीनां निवारितानां संभाषणे दण्डो ऽयम् इति मन्यन्ते । 
 
 <u>तद् असत्</u> । नैव ते निवार्या इत्य् उक्तम् । कुतश् च भिक्षुकाणां सुवर्णो दण्डः । तस्मात् को ऽपि प्रकाशम् अनाक्षारितो ऽपि कथंचिन् निषिद्धः स्वामिना[^२३५] समाचरन् सुवर्णं दण्ड्यः ॥ ८.३६१ ॥
+
+[^२३५]:
+     J: bandhyo
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -37,6 +41,16 @@ forbidden to do so, the woman shall be fined one hundred, and the man, two hundr
 
 *Matsyapurāṇa* (Aparārka, p. 856).—‘A mendicant male or female, a
 player,—if these enter the residence of women, after being forbidden, they shall be fined two hundred; and the man who may have admitted them, or who affords them the opportunity for entering, shall be punished like an adulterer.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स्वामिना निषिद्धः स्त्रीभिः संभाषणं न कुर्यात् । प्रतिषिद्धः संभाषणमाचरन्त्राज्ञः षोडशमाषात्मकसुवर्णैदानयोग्यो भवति ॥३६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न सम्भाषं सह स्त्रीभिर्** इति । स्वामिना निषिद्धः सन् स्त्रीभिः सम्भाषणं न कुर्यत् । निषिद्धः सम्भाषमाणस् तु राज्ञः सुवर्णं दण्डं ददाति ॥ ८.३६१ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

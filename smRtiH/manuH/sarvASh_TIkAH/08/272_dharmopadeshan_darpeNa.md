@@ -59,6 +59,16 @@ Brāhmaṇas regarding their duty, the King shall order hot oil to he poured int
 uttering the words of the Veda, or insulting a Brāhmaṇa, shall he punished by cutting out his tongue.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कथंचिद्धर्मलेशमवगम्य **‘अयं ते धर्मोऽनुष्ठेयः’** इति ब्राह्मणस्याहंकारादुपदिशतोऽस्य शूद्रस्य मुखे कर्णयोश्च ज्वलत्तैलं राजा प्रक्षेपयेत् ॥२७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धर्मोपदेशम्** इति । छद्मना कृतश्चिद् धर्मलेशं बुद्ध्वा अयं ते स्वधर्म इत्य् एवम् अहङ्कारेण ब्राह्मणानां शूद्रस्योपदिशतः आस्ये कर्णयोश् च ज्वलत् तैलं राजा प्रक्षेपयेत्॥ ८.२७२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धर्मोपदेशसामर्थ्यं चैतच्छूद्रस्यार्थाद् विज्ञेयम् । एवं च सति नेदं लिङ्गं शूद्रस्य शास्त्रप्राप्तेर् भवति ॥ ८.२७१ ॥

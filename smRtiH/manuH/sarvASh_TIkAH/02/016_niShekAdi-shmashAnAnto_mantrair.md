@@ -107,6 +107,16 @@ It is quoted also in the *Vīramitrodaya* (Saṃskāra, p. 512) to the same effe
 svādyāyādhyayanavidhināca*.’ Here both the *Bhāṭṭa* and the *Prābhākara* views of *Śāstrārambha* are accepted by the writer.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गर्भाधाना दिरन्त्येष्टिपर्यन्तो यस्य वर्णस्य मन्त्रैरनुष्ठानकलाप उक्तो द्विजातेरित्यर्थः । तस्यास्मिन्मान-वधर्मशास्त्रेऽध्ययने श्रवणेऽधिकारः न त्वन्यस्य कस्यचिच्छूद्रादेः । एतच्छास्वानुष्ठानां च यथाधिकारं सर्वैरेव कर्तव्यं, प्रवचनं त्वख्याध्यापर्ने व्याख्यानरूपं ब्राह्मणकर्तृकमेवेति विदुषा ब्राह्मणेनेत्यत्र व्याख्यातम् ॥१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निषेकादीति **। गर्भाधानाद्यन्त्येष्टिपर्यन्तो **यस्य** **मन्त्रैर् **युक्तो ऽनुष्ठानकल्पः उक्तः स च द्विजातेर् उक्तः । अतस् **तस्य अस्मिन् **स्मृति**शास्त्रे **अध्ययनश्रवण्**आधिकारो **बोद्धव्यः न तु शूद्रादेः अर्थानुष्ठानं पुनः प्रतिलोमपर्यन्तान् प्रत्य् अपि चोदितत्वान् नानेन निषेध्यते । प्रवचनं त्व् अत्र ब्राह्मणस्येत्य् उक्तम् । विदिषेत्य् अत्र धर्मप्रमाणानि परिभाषाश् चोक्ताः ॥ २.१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.

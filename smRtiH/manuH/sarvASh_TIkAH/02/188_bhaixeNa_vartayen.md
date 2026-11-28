@@ -73,11 +73,36 @@ which says that this refers to *normal* times, not to abnormal times of distress
 times of distress, habitually eat food given by a single person; at a Śrāddha the Brāhmana may eat when he likes, without injuring his vow.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ न भैक्ष्यं परपाकः स्यान्न च भैक्ष्यंप्रतिग्रहः ।**
+
+**सोमपानसमं भैक्ष्यं तस्माद् भैक्षेण वर्तयेत् ॥९॥**
+
+**भैक्षस्यागमशुद्धस्य प्रोक्षितस्य हुतस्यच ।**
+
+**यांस्तस्य ग्रसते ग्रासान्स्ते तस्य क्रतुभिः समाः ॥१०॥ \]**
+
+ब्रह्मचारी न एकान्नमद्यात्किंतु बहुगृहाहृतभिक्षासमूहेन प्रत्यहंजीवेत् । यस्माद्भिक्षास मूहेन ब्रह्मचारिणो वृत्तिरूपवासतुल्या मुनिभिः स्मृता ॥१८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भक्षेणेति** । ब्रह्मचारी **भक्षेण **यावद् ब्रह्मचर्यं प्राणयात्रां कुर्यात् । न त्व् एकसम्बन्धि अन्नम् अश्नीयात् । यस्माद् अस्य **भक्षेण वृत्तिः उपवास**तुल्यफलेति । एतन् नियमफलाभिधानार्थं च भैक्षेण वर्तयेद् इत्य् उक्तसङ्कीर्तनम् । न चानित्यत्वाशङ्क, प्रायश्चित्तस्योक्तत्वात् । 
+
+> न भक्षं परपरकः स्यान् न च भक्षं प्रतिग्रहः । 
+
+> सोमपानसमं भैक्षं तस्माद् भैक्षेण वर्तयेत् ॥
+
+> भैक्षस्यागमशुद्धस्य प्रोक्षितस्य हुतस्य च ।
+
+> यस् तस्य ग्रसते ग्रासान् तत् तस्य क्रतुभिः समाः ॥ २.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 188	He who performs the vow (of studentship) shall constantly subsist on alms, (but) not eat the food of one (person only); the subsistence of a student on begged food is declared to be equal (in merit) to fasting.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

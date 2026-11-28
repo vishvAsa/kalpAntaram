@@ -74,11 +74,20 @@ sister, the maternal uncle, the father-in-law, the mother-in-law, the
 officiates,—purification is obtained in three days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदशास्त्राध्यायिन्युसंपन्ने मैत्रादिना तत्समीपवर्तिनितद्गृहवासिनोत्यर्थः । तस्मिन्मृते त्रिरात्रेण शुद्धो भवति । मातुलर्त्विक्शिव्यादिषुपक्षिणीरात्रिं व्याप्याशौचम् । द्वे अहनी पूर्वोत्तरे पक्षावित्र यस्याः सा पक्षिणी ॥८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रोत्रिय** इति । वेदाध्यायिनि केनापि मैत्र्यादिना निमित्तेन निकटवर्तिश् च सब्रह्मचारिण्य् अपि प्रेते त्रिरात्रम् आशौचवान् भवति । मातुलशिष्यर्विग्भागिनेयादिषु उभयतो ऽहर्द्वयं पक्षद्वयम् इव । यस्यास् तां रात्रिम् आशौचं बान्धवत्वे ऽपि मातुलस्य पुनर्वचनं मातुलेयादीनां विकल्पार्थम् ॥ ५.८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 081	For a Srotriya who resides with (him out of affection), a man shall be impure for three days; for a maternal uncle, a pupil, an officiating priest, or a maternal relative, for one night together with the preceding and following days.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -44,11 +44,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574);—and in
 See Comparative notes for [Verse 4.182].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वदासवर्गश्च नित्यानुगतत्वादात्मच्छायेव न विवादार्हः। दुाहता च परं कृपापात्रं तस्मादेतैरधिक्षिप्तः सन् असन्तापः सहेत, न तु विवदेत् ॥१८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**छायेति । स्वो दासवर्गः **नीचैर् गामित्वात् आत्मछायेव । अतो नासौ विवादास्पदम्, **दुहिता** च **कृपणं** कृपापात्रम् अत **एतैर् **आक्रुष्टो ऽसम्तप्तः सर्वदा क्षमेत् ॥ ४.१८५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 185	One's slaves as one's shadow, one's daughter as the highest object of tenderness; hence if one is offended by (any one of) these, one must bear it without resentment.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

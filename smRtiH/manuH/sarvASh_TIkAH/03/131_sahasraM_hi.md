@@ -55,11 +55,20 @@ This verse is quoted in *Madanapārijāta* (p. 556) without comment;—and in *H
 pure character, learned in the Veda, knowing Brahman, youthful, endowed with learning and humility,—is the proper recipient; one who is learned in Vedanta, superior in Sāman, free from avarice, devoted to the Veda, should be employed in rites sacred to Pitṛs and Gods; whatever is offered to such a one is imperishable without doubt.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्र श्राद्धे ब्राह्मणानामवेदविदां दशलक्षाणि भुञ्जते तत्रैको वेदवियोजनेन परितुष्टो धर्मतो धर्मोत्पादनेन तान् सर्वानर्हति स्वीकर्तुं योग्यो भवति । तद्भोजनजन्यं फलं जनयतीत्यर्थः । छान्दसत्वादे-कवचनम् । अथवा बहुवचनानां स्थाने सहस्रमिति मनोरभिमतम् । गोविन्दराजस्त्वाह–"सहस्रं गच्छन्तु भूतानि” इति वेदे ॥१३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सहस्रम्** इति । **यत्र **दैवपित्र्यादौ अनृग्विदां ब्राह्मणानां दशलक्षाणि **भुञ्जते **तत्रैको वेदवित् भुक्त्वा **प्रीतस्** तुष्टः धर्मतो धर्मोत्पादनेन **तान् सर्वान् अर्हति** स्वीकर्तुं योग्यो भवति, तद्भोजनजन्यधर्मान् उत्पादयतीत्य् अर्थः । इति विद्वद्ब्राह्मणभोजनस्तुतिः ॥ ३.१३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

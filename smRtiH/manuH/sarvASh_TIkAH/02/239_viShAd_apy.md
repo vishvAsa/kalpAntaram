@@ -59,11 +59,22 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 514) along with the pr
 *Mahābhārata* (12.165.30-31).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विषं यद्यमृतसंयुक्तं भवति तदा विषमपसार्य तस्मादमृतं ग्राह्यम् । बालादपि हित-
+
+वचनं ग्राह्यं, शत्रुतोऽपि सज्जनवृत्तं, अमेध्यादपि सुवर्णादिकं ग्रहीतव्यम् ॥२३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विषाद्** इति । **विषाद् अपि** तत्साधनकरसायनादिकरणेन **अमृतं ग्राह्यम्** । ग्रामादिप्रस्थितेन प्रशस्तवाक्यं **बालो**दीरितम् अपि अभीष्टार्थसंसिद्धेः सूचकत्वेन ग्राह्यम् । **अमेध्य**पतितम् अपि अकृतसंस्कारम् अपि **काञ्चनं ग्राह्यम् **॥ २.२३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

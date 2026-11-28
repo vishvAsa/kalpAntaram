@@ -58,11 +58,15 @@ till the same time next day; also when there is fall of meteors, earthquake or c
 appearance of lightning, thunder and rain, out of season, three days shall he regarded as unfit for study; only till such time as rain-water remains on the ground, say some; if there are untimely clouds, if there are halos round the sun or the moon, if the rainbow appears, or when there is a rotting smell in the wind,—so long as these last, it will be unfit for study.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**विद्युत्स्तनितवर्षेष्व् **इति । विद्युद्गर्जितवर्षेषु युगपदुपस्थितेषु महतां च दिव्यज्योतिर्विशेषेण पुनः स्थानतश् च पाते सति एतेषु निमित्तकालाद् आरब्यापरेद्युयावत् स एव कालः तावत् प्रकृतासु वर्षासु **अनध्यायं मनुर्** आह ॥ ४.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	Manu has stated, that when lightning, thunder, and rain (are observed together), or when large fiery meteors fall on all sides, the recitation must be interrupted until the same hour (on the next day, counting from the occurrence of the event).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

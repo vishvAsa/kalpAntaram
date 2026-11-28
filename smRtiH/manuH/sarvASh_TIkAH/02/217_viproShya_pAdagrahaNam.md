@@ -43,11 +43,20 @@ journey.’
 *Viṣṇu* (32.15).—\[Reproduces Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रवासादागत्य सव्येन सत्र्यं दक्षिणेन चदक्षिणमित्युकविविना पादग्रहगं, प्रत्यहं भूमावभिवादनं च गुरुपत्नीषु युवा कुर्यात् । शिष्टानामयमाचार इति जानन्तु ॥२१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विप्रोष्येति** । प्रवासप्रत्यागतः **पादो**पसं**ग्रहणं **प्रत्यहं पुनर् अभिवादनमात्रं गुरुभार्यासु कुर्यात् । एष एव साध्वाचार इति सञ्चिन्तयन् ॥ २.२१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -43,11 +43,20 @@ This verse is quoted in *Śrāddhakriyākaumudī* (p. 326);—and in *Hemādri* 
 *svadhaiṣāmastu*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अल्पिकेत्यल्पान्नमात्रा अवयवभागाः पिण्डेषूल्पन्नानलपभागान्पिण्डक्रमेणैव गृहीत्वा तेनैव पित्रादि-ब्राह्मणान्भोजनकाले भोजनात्पूर्वं भोजयेत् । विधिवत्पिण्डानुष्ठानवत्पितरमुद्दिश्य यः पिण्डो दत्तस्तदवयवं पितृब्राह्मणं भोजयेत् । एवं पितामहप्रपितामहपिण्डयोरपि॥२१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पिण्डेभ्य** इति । **पिण्डेभ्यः **अत्यन्ताल्पभागं पितृपिण्डक्रमेण गृहीत्वा तान् एव पित्राद्यर्थोपवेशितान् विप्रान् विधिवत् नयेच् च । आनुपूर्व्यां भोजनकाले अन्यभाजनात् पूर्वं भोजयेत् ॥ ३.२१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 219	But taking successively very small portions from the cakes, he shall make those seated Brahmana eat them, in accordance with the rule, before (their dinner).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

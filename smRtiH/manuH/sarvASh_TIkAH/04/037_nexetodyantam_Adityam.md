@@ -57,6 +57,16 @@ naked woman; nor the rising or setting sun and moon.’
 *Mahābhārata* (13.104, 17-18).—\[Same as Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उद्यन्तमस्तं यन्तं सूर्यबिम्बं सम्पूर्णं नेक्षेत् । उपसृष्टं ग्रहोपरकंवक्राद्युपसर्गयुक्तं च, वारिस्थं जलप्रतिबिम्बितं, नभोमध्यगतं मध्यन्दिनसमये ॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । उदयास्तमनराहुग्रस्तोदकप्रतिबिम्बमध्याह्नवर्तिनम् आदित्यं कस्मिंश्चिद् अपि **नेक्षेत **॥ ४.३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.

@@ -45,6 +45,11 @@ This should be understood to be the highest duty of man and wife, stated in brie
 This verse is quoted in *Aparārka* (p. 110), which adds that fidelity to each other is an obligatory duty, the transgression of which necessitates expiation;—and in *Vivādaratnākara* (p. 421).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भार्यापत्योर्मरणान्तं यावद्धर्मार्थकामेषु परस्पराव्यभिचारः स्यादित्येव संक्षेपतः स्त्रीपुंसयोः प्रकृष्टो धर्मो ज्ञातव्यः ॥ १०१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अव्यभिचारो ऽन्योपगमपरित्यागः स्त्रियाः । न तु पुरुषस्य स्त्रीवद् अन्योपगमप्रतिषेधः । "तस्माद् एकस्य बह्व्यो जाया भवन्ति नैकस्या बहवः सह पतयः" इति स्रुतिः । स्त्रियास् तु पुरुषान्तरसंकल्पेनापि व्यभिचार इत्य् उतं च । एवं सति ॥ ९.१०१ ॥

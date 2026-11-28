@@ -44,11 +44,20 @@ sacrifice to the gods, refuses meat, shall go to hell, etc.’
 to a Śrāddha, does not eat meat, one goes to hell...’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्राद्धे मधुपर्के च यथाशास्त्रं नियुक्तः सन् यो मनुष्यो मांसं न खादति स मृतः सन्नेकविंशतिजन्मानि पशुर्भवति । “यथाविधि नियुक्तस्तु" ( स. स्मृ. ५-२७ ) इत्येतन्नियमातिक्रमफलविधानमिदम् ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नियुक्तस् तु यथावद् यो मांसं नाश्नाति मानवः **इति । श्राद्धमधुपर्कयोः शास्त्रमर्यादानतिक्रमेण **नियुक्तः **सन् **यो** मनुष्यो **मांसं** नाश्नाति स मृतः सन् एकविंशतिजन्मानि **पशुत्वं **प्राप्नोति । इति यथाविधिनियुक्तस् त्व् इति एतन्नियमव्यतिक्रमफलकथनम् ॥ ५.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	But a man who, being duly engaged (to officiate or to dine at a sacred rite), refuses to eat meat, becomes after death an animal during twenty-one existences.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

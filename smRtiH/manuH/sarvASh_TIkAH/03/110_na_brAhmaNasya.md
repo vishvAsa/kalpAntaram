@@ -51,11 +51,22 @@ be fed); if a Śūdra happen to arrive, he should be directed to do some work, a
 be, out of that he shall make the Vaiśvadeva offerings, and then entertain, to the best of his power, the Brāhmaṇa, the Kṣatriya, the Vaiśya and the Śūdra that may happen to arrive; but when the Śūdra arrives, he should be directed to do some work.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य क्षत्रियादयोऽतिथयो न भवन्ति, क्षत्रियादीनां ब्राह्मणस्योत्कृष्टजातित्वात् ।मित्रज्ञातीनामात्मसम्बन्धाद् गुरोः प्रभुत्वात् । अनेनैव न्यायेन क्षत्रियस्य उत्कृष्टो ब्राह्मणः
+
+सजातीयश्च क्षत्रियोऽतिथिःस्यान्नापकृष्टौ वैश्यशूद्र । एवं वैश्यस्यापि द्विजातयोऽतिथयो नशुद्धः ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न ब्राह्मणस्य त्व् अतिथिर्** इति । ब्राह्मणगृहे गुरुमित्रबन्धुक्षत्रियवैश्यशूद्रा नातिथयो भवन्ति । गुरोः प्रभुत्वात् मित्रबन्धूनाम् आत्मसमत्वात् क्षत्रियादेश् च हीनजातित्वात् क्षत्रियस्योत्कृष्टः ब्राह्मणः स्यात् । ब्राह्मणक्षत्रियाव् उत्कृष्टजातीयौ स्याताम् एवं वैश्यस्यापि ॥ ३.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	But a Kshatriya (who comes) to the house of a Brahmana is not called a guest (atithi), nor a Vaisya, nor a Sudra, nor a personal friend, nor a relative, nor the teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

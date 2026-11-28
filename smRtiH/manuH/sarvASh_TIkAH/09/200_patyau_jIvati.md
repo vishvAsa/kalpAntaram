@@ -46,6 +46,11 @@ the heirs, the ornaments and the nuptial presents of the mother shall be taken b
 presents made to the mother, the daughter shall take.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भर्तरि जीवति तत्सम्मताभिर्योऽलंकारः स्त्रीभिर्धृतस्तस्मिन्मृते विभागकाले तं पुत्रादयो न भजेरन्। भजमानाः पापिनो भवन्ति॥ २०७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दायादानाम् अयं प्रतिषेधः । आत्मीयानां त्व् औरसपुत्राणाम् अनुज्ञातो विभागः ॥ ९.२०० ॥

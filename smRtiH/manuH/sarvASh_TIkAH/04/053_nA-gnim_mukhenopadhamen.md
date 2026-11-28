@@ -74,6 +74,11 @@ shall not blow the fire with the hand, or with the winnowing basket or with the 
 with water.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाग्निम्** इति । मुखवायुनाग्निं न धमेत् । **न नग्नां **परयोषितम् **ईक्षेत **गौतमस्मरणात् । मूत्रादि **अग्नौ न निक्षिपेत् पादौ न **तत्र **प्रतापयेत् **॥ ४.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.

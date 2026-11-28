@@ -30,6 +30,11 @@ found in possession of the stolen goods, if his crime has been established by ev
 seized, the King should examine, when they have been arrested on suspicion; their fear having been excited, they shall depose truthfully regarding the facts of the case. When questions are put to them their face changes colour, or the voice falters,...... when they are found to have been previously convicted of larceny, or when there is documentary evidence against them; it is by all these means that they should be convicted as thieves, and not merely by being in possession of the stolen goods.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धार्मिको राजा हृतद्रव्यसंधिच्छेदोपकरणव्यतिरेकेणानिश्चितचौरभावंन घातयेत्किन्तु हृतद्रव्येण चौर्योपकरणेन च निश्चितचौरभावमविचारयन्घातयेत् ॥ २७७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 होढो [लोप्त्रम् । सह] तेन ग्रस्तः स्यात्, नान्यथा । यदि तावल् लोप्त्रं दर्शनविचार्यमानं प्रमाणतः शुद्धं भवति । एवम् उपकरणं विवरसाधनादि विज्ञेयम् ॥ ९.२७० ॥

@@ -23,11 +23,24 @@ title = "040 कृमि-कीट-पतङ्गांश् च"
 The copulative compounds in the singular are in accordance with Pāṇini’s Sutra 2.1.8, by which copulative compounds formed of the names of small living beings take the singular ending.—(10)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ यथाकर्म यथाकालं यथाप्रज्ञंयथाश्रुतम्।**
+
+**यथायुगं यथादेशं यथावृत्ति यथाक्रमम्॥७॥ \]**
+
+कीटाःकृमिभ्यः किञ्चित्स्थूलाः। पतङ्गाः शलभाः।यूकादयः प्रसिद्धाः। “क्षुव्रजन्तवः” (पा. सू. २ / ४ /८) इत्यनेन एकवद्भावः। स्थावरं वृक्षलतादिभेदेन विविधप्रकारम्॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृमिकीटपतङ्गान्** इति । **कृमयो **भूमिशरणाः । **कीटाः** कृमिभ्यः किञ्चित्स्थूलाः । **पतङ्गाः **शलभाः । **स्थावरं **वृक्षवनस्पत्यादिभेदेन नानाप्रकारम् ॥ १.४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

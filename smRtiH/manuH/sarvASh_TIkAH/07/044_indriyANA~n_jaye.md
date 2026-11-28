@@ -44,11 +44,19 @@ who follows the Nītiśāstra, prosperity is in the ascendant and fame reaches t
 injustice, having subdued his mind already powerless through the subjugation of the senses, should exert himself for realising his own good.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चक्षुरादीनाभिन्द्रियाणां विषयासक्तिवारणे सर्वकालं यत्नं कुर्यात्। यस्माजितेन्द्रियः प्रजा नियन्तुं शक्नोति, न तु विषयोपभोगव्यग्रः। ब्रह्मचारिधर्मेषु सर्वपुरुषार्थोपादेयतयाऽभिहितोऽपीन्द्रियजयो राजधर्मेषु मुख्यत्वज्ञानार्थमनन्तरवक्ष्यमाणव्यसननिवृत्तिहेतुत्वाच्च पुनरुक्तः॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इन्द्रियाणाम् **इति । चक्षुरादीनाम् इन्द्रियाणां विषयशक्तिपरिहारे । नित्यकालम् अभियोगं कुर्यात् । स जितेन्द्रियः प्रजाः वशीकर्तुं शक्नोति ॥ ७.४४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 श्रोत्रादीनां शब्दादिषु यथाशास्त्रं प्रवृत्तिर् इन्द्रियजयः । स च वर्णधर्मेषूक्तो [मुख्यो विनय इति पुनर् इहोपदिष्टः] ॥ ७.४४ ॥
-
-_कथं नामायं जितेन्द्रियः ।_
 </details>
 
 <details><summary>Bühler</summary>

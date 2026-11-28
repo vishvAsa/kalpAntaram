@@ -46,6 +46,16 @@ person;—for disciplinary purposes, he shall beat his pupil, on the back, eithe
 *Yājñavalkya* (1.155).—‘He shall beat his son and his pupil.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परस्य हननार्थं क्रुद्धः सन्दण्डादि नोत्क्षिपेत् । न च परमात्रे निपातयेत्पुत्रशिष्यभार्यादासादेरन्यत्र । कृतापराधानेताननुशासनार्थं"रज्ज्वा वेणुदुलेन वा” ( म. स्मृ. ८-२९९ ) इत्यादिवक्ष्यमाणप्रकारेण ताडयेत् ॥१६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परस्येति । परस्य **दण्डादि नोद्गुर्येत् **क्रुद्धश्** च सन् आत्मनः पुत्रशिष्यभार्याकनीयान्सोदर्यभ्रातृदासान् वक्ष्यमानान् वर्जयित्वा न प्रहारेण । तान् पुनर् अनुशासनार्थं “रज्ज्वा वेणुदलेन वा” इत्यादिप्रकारेण **ताडयेत्** ॥ ४.१६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.

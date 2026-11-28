@@ -48,6 +48,16 @@ than this that what he obtains by war he gives away to Brāhmaṇas and the gift
 commercial traffic, entrenchment of strongholds for soldiers in the capital, construction of dams and bridges across rivers, erection of enclosures for elephants, working of mines and quarries, felling and selling of timber and the peopling of uninhabited tracts,—these eightfold sources of revenue, the king should ever enhance; his officers looking up to him for livelihood should also do so, for maintaining themselves.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजा सक्तैरमात्यैर्वर्षप्राह्यंधान्यादिभागमानाययेत्, लोके च करादिग्रहणेशास्त्रनिष्ठःस्यात्, स्वदेशवासिषु नरेषु पितृवस्नेहादिना वर्तेत॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सांवत्सरिकम्** इति । **आप्तैर्** हितकारिभिर् उक्तगुणैः अमात्यैर् वार्षिकं वक्ष्यमाणं धान्यादिकं **राष्ट्राद्** आनाययेत् । शास्त्रप्रधानश् च **लोके** करशुल्कादिषु स्यात् राष्ट्रीयेषु **पितृवत्** स्नेहादिना **वर्तेत** ॥ ७.८० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथोक्तेभ्य आयस्थानेभ्य आम्नायप्रामाण्येन षष्ठाष्टमभागग्रहणादिना **बलिम् आहारयेत्** । [करदेष्व् अन्येषु च **पितृवत्**] स्यात् ।

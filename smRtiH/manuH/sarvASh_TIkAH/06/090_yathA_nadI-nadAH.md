@@ -46,6 +46,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 563);—and in
 place in the ocean, even so men of all orders find protection with Householders. As all creatures exist through the protection afforded by their mothers, even so all mendicants subsist through the protection afforded by Householders.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा सर्वेनदीनदा गङ्गाशोणाद्याः समुद्रेऽवस्थितिं लभन्ते, एवं गृहस्थादपरे सर्वाश्रमिणस्तदधीनजीवनत्वाद् गृहस्थसमीपेऽवस्थितिं लभन्ते॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति **। यथा गङ्गाशोषाद्याः सर्वे नदीनदाः समुद्रे ऽवस्थानं प्राप्नुवन्ति । एवं सर्व एव ब्रह्मचार्यादय आश्रमिणो अन्नादिलाभार्थं गृहस्थविषये ऽवस्थितिं प्राप्नुवन्ति ॥ ६.९० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथा च गौतमः- "ऐकाश्रम्यं त्व् आचार्याः" इत्य् एवमादि । त्रयो ऽपि चैते, आश्रमाणां विकल्पाद् अस्मिन् पक्षे वेदस्मृतिशास्त्राविरोधेन यथाधिकारं व्याख्येयाः । एकान्तग्रहणस् त्व् आचार्यः शास्त्रविरोधाद् विज्ञेयः ॥ ६.९० ॥

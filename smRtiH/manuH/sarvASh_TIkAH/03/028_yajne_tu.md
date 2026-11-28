@@ -68,11 +68,20 @@ called *Daiva*.’
 the altar, to the bridegroom after having presented to him a pair (of cow and bull), this is the *Daiva* marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्योतिष्टोमादियज्ञे प्रारब्धे यथाविधि ऋत्विजे कर्मकत्रे अलंकृत्य कन्यादानं दैव विवाह मुनयो ब्रुवते ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यज्ञ** इति । ज्योतिष्टोमादियागे प्रारब्धे अर्थवहर्त्विज प्रचरति यद् **अलङ्कृत्य** कन्यादानं क्रियते तं **दैवं** विवाहं मन्वादय आचक्षते ॥ ३.२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 028	The gift of a daughter who has been decked with ornaments, to a priest who duly officiates at a sacrifice, during the course of its performance, they call the Daiva rite.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -48,11 +48,20 @@ hair-dressing, feet-washing, shampooing and feet-clasping.’
 applying of collyrium, dressing of hair, or touching the feet and such like acts.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तैलादिना देहाभ्यङ्गः, स्नापनं, गात्राणां चोद्वर्तनं, केशानां च मालादिना प्रसाधनमेतानि गुरुपत्न्या न कर्तव्यानि ।केशानामिति प्रदर्शनमात्रार्थं देहस्यापि चन्दनादिना प्रसाधनं न कुर्यात् ॥२११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभ्यञ्जनम्** इति । अभ्यङ्गस्नापनोद्वर्तनकेशरचा गुरुभार्याया **न कार्याः** ॥ २.२११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

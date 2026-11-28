@@ -159,11 +159,20 @@ who is asleep, unconscious or mad, or in distress,—is the Paiśāca, the eight
 the girl is won by the employment of women, drinks, wine, and presents.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निद्राऽभिभूतां मद्यमदविह्वलां शीलसंरक्षणेन रहितां विजनदेशे यत्र विवाहो मैथुनधर्मेण प्रवर्तते स पापहेतुर्विवाहानां मध्येऽधमः पैशाचः ख्यातः ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुप्ताम् **इति । **सुप्तां **निद्रोपेतां **क्षीबां** शीलरक्षणानिबर्हणां निर्जने प्रदेशे यस्मिन् विवाहे उपगच्छति स पापहेतुः **विवाहानां** मध्ये **पैशाचो** ऽष्टमः ख्यातः ॥ ३.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	When (a man) by stealth seduces a girl who is sleeping, intoxicated, or disordered in intellect, that is the eighth, the most base and sinful rite of the Pisakas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

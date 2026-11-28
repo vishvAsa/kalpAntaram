@@ -61,6 +61,16 @@ of majesty, deals out punishment, equitable towards all creatures, he is called 
 felonies, there is no fixed time; these should he adjudicated at once.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वाधिपत्यलक्षणं पदं ख्याति चाविनाशिनीमनुपक्षयां चातिशयेन प्राप्तुमिच्छव्राजा बलेन गृहदाहधनग्रहणकारिणं मनुष्यं क्षणमपि नोपेक्षेत ॥३४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानींसाहसम् आह । **ऐन्द्रम्** इति । सर्वाधिपत्यलक्षणं पदं चाविनाशनम् अनपचयं ख्यातिं चाभिमुख्येनेच्छन् राजा साहसेन बलवशेनापि अग्निदाहवस्त्रपाटनादिकारिणं मनुष्यं क्षणम् अपि नोपेक्षेत ॥ ८.३४४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 साहसोपन्यासार्थः श्लोकः ॥ ८.३४३ ॥

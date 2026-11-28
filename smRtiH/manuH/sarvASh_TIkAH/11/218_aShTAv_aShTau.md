@@ -43,6 +43,16 @@ month, at mid-day, eight mouthfuls of sacrificial food, he performs the
 the penance called *Yati-Cāndrāyaṇa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यतिचान्द्रायणमनुतिष्ठन् शुक्लपक्षात्कृष्णपक्षाद्वाऽऽरभ्यमासमेकं संयतेन्द्रियः प्रत्यहमष्टावष्टौग्रासान्मध्यंदिने भुञ्जीत। मध्यंदिन इति गृहस्थब्रह्मचारिणोःसायंभोजननिवृत्त्यर्थम्॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अष्टाव् **इति । **नियतात्मा हव्ष्यास्येति** । यतिचान्द्रायणाख्यं चान्द्रायणं कुर्वन् विगतान्नगन्धो हविष्यस्य ओदनादेर् अष्टाव् अष्टौ ग्रासान् मध्याह्नकाले समश्नीयात् ॥ ११.२१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 219	He who performs the lunar penance of ascetics, shall eat (during a month) daily at midday eight mouthfuls, controlling himself and consuming sacrificial food (only).

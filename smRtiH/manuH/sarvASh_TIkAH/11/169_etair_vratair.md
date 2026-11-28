@@ -18,6 +18,16 @@ By means of these penances, the twice-born man shall remove the sin caused by th
 The meaning of this verse is quite clear.—(169)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतैरुक्तैःप्रायश्चित्तैः स्तेयजनितपापं द्विजातिरपानुदेत्। अगम्यागमननिमित्तं पुनरेभिर्वक्ष्यमाणैर्व्रतैनिर्हरेत्॥ १६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतैर्** इति । एतैर् उक्तैः प्रायश्चित्तैः चौर्यजनितं पापं द्विजातिर् अपनुदेत् । अगम्यागमननिमित्तं पुनर् एभिर् वक्ष्यमाणैः प्रायश्चित्तैर् निर्हरेत् ॥ ११.१६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 170	By means of these penances, a twice-born man may remove the guilt of theft; but the guilt of approaching women who ought not to be approached (agamya), he may expiate by (the following) penances.

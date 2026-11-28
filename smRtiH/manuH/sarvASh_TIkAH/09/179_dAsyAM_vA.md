@@ -55,6 +55,11 @@ This verse is quoted in *Vivādaratnākara* (p. 537), which adds the note that t
 may inherit his property, by the desire of his father; on the death of the father, his brothers may allot to him one-half share;—if there are no brothers, nor sons of the father’s daughter born of his married wife, then he shall take the whole property.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ध्वजाहृताद्युक्तलक्षणायां दास्यां दाससंबन्धिन्यां वा दास्यां शुद्रस्य यःपुत्रोजायते स पित्रानुज्ञातः परिणीतापुत्रैः समांशभागो भवान्भवत्वित्यनुज्ञातस्तुल्यभागंलभत इति शास्त्रव्यवस्था नियता॥ १७९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 शूद्रं प्रति पितुर् अनुज्ञावचनाद् ब्राह्मणादीनां स्नेहाद् रागाद् वा दायं प्रत्य् अनुज्ञानं नास्ति ॥ ९.१७९ ॥

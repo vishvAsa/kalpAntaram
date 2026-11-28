@@ -45,6 +45,11 @@ This verse is quoted in *Aparārka* (p. 100), which adds that the qualification 
 See Comparative notes for [Verse 9.77].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या पुनर्व्याधिता सती पत्युरनुकूला भवति, शीलवता च स्यात्ताननुज्ञाप्यान्योविवाहः कार्यः । कदाचिच्चासौ नावमाननीया॥ ८२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अस्याश् चावमानप्रतिषेधाद् इतरा न केवलम् अधिवेद्याः, किं तर्हि शिष्ट्यर्थम् परिभाष्याश् च ॥ ९.८२ ॥

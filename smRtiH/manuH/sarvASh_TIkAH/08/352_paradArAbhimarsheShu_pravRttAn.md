@@ -68,13 +68,19 @@ middling and highest fines shall be inflicted respectively; it may be higher in 
 strictly to their own wives and to their own functions;—by whatever limb one commits an offence, that limb shall be cut off, or a fine of 8,000 shall be inflicted.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परदारसंभोगाय प्रवृत्तान्मनुष्यगणानुद्वेज त्करदण्डैर्नासोष्ठकर्तनादिभिरङ्कयित्वा देशान्निः सारयेत् ॥३५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+स्त्रीसङ्ग्रहणम् इदानीम् आह । **परदाराभिमर्शेष्व् **इति । उद्वेजनकरैर् दण्डैश् चिह्नयित्वा प्रवासयेत् । परदारसम्भोगेषु बहुषु प्रवृत्तान् मनुष्यान् पीडाकरैर् दण्डैर् नासौष्ठकर्तनादिभिर् अङ्कयित्वा राजा देशाद् निर्वासयेत् ॥ ८.३५२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
-_अधुना द्रमप्राप्तं स्त्रीसंग्रहणम् उच्यते ।_
-
 ये तु बहुशो ऽपि वार्यमाणा नावतिष्ठेरन् तत्र तेषाम् अयं प्रवासनविधि सचिह्नः । तथा चोक्तम् अपराधसमुच्चये- "वाग्दण्डं प्रथमं कुर्यात्" इत्य् एवमादि ॥ ८.३५१ ॥
-
-_यस्मात्_ ।
 </details>
 
 <details><summary>Bühler</summary>

@@ -20,6 +20,16 @@ Thus has the law relating to the penances for the eating of improper food been s
 Next follows the law relating to those penances that remove the sin of theft—(161)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभक्ष्यभक्षणे यानि प्रायश्चित्तानि तेषामेतन्नानाप्रकारविधानमुक्तम्। स्तेयपापहारिणंविधानमधुना श्रूयताम्॥ १६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । अभक्ष्यभक्षणे यानि प्रायश्चित्तानि तेषाम् एतन् नानाप्रकारं विधानम् उक्तम् । अधुना चौर्यपापापहारिणां प्रायश्चित्तानां विधानं श्रूयताम् ॥ ११.१६० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ११.१६० ॥

@@ -119,11 +119,20 @@ Teacher, except upon rafts and boats.’
 fire-tending during the twilights, Vedic study, service of the Teacher, these the Religious Student shall observe.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सायंप्रातः समिद्धोमं भिक्षासमुहाहरणमखट्वाशयनरूपामधःशय्यां न तु स्थाण्डिलशायित्वमेव ।गुरोरुदककुम्भाद्याहरणरूपं हितं कृतोपनयनो ब्रह्मचारी समावर्तनपर्यन्तं कुर्यात् ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्नीन्धनम्** इति । अग्निसमिदाधानभैक्षचरणखट्वाद्यशनगुरुगृहोपलेपनाद्यात्मक-गुरुहितानि समावर्तनाख्यव्रतकालं यावत् उपनयनकालोत्तरकालं **द्विजः कुर्यात् **। प्रधानानुपयायित्वेनाङ्गानां यावद् ब्रह्मचर्यम् एषाम् अनुवृत्तिसिद्ध्यर्थं पुनर्वचनं नियमाय भवन्तीत्य् एतावन्त्य् एव समावर्तने निवर्तन्ते । अन्यानि पुनः सन्ध्योपासनादीनि आश्रमान्तराविरुद्धानि यावज्जीवं भवन्तीति । यथा च गौतमः- “उत्तरेषां चैतद् अविरोधि” [ग्ध् ३.१०] इति । अत एव चैतानि आ समावर्तनात् कुर्यात् । यानि पुनर् अर्वाग् अपि निवर्तन्ते इत्य् एवं विधिविपरीतनियमो न भवति प्रधानानुवर्तिन्यायावाधप्रसङ्गाच् च ॥ २.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	Let an Aryan who has been initiated, (daily) offer fuel in the sacred fire, beg food, sleep on the ground and do what is beneficial to this teacher, until (he performs the ceremony of) Samavartana (on returning home).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

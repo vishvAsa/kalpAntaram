@@ -31,6 +31,16 @@ The addition of the term ‘*together*’ shows that if they are allowed to roam
 This verse is quoted in *Vivādaratnākara* (p. 175), which explains ‘*mithaḥ*’ as ‘herded together’,—‘*tatra*’ *i.e*., on the death of the cow;—in *Parāśaramādhava* (Vyavahāra, p. 265), which explains ‘*avaruddhānām*’ as ‘herded together by the keeper’ and in *Aparārka* (p. 773).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तासामजाविकानां पालेन नियमितानां संधीभूय वनेचरन्तीनां यत्नाद्यदि कश्चित्कुतश्चिदुत्प्लुत्यालक्षितो यां काञ्चिद्धन्यान्न पालस्तत्र दोषभाक् ॥२३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तासाम्** इति । यदि तासाम् अजाविकानां पालेनैव श्वानुगतश् चावरुद्धगमनानां संहतीभूय वने चरन्तीनां मध्यात् कंश्चित् कुतस्चित् वनादेर् उत्पत्य शृगालादि हन्यात् न तत्र पालो दोषभाक् ॥ ८.२३६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अशक्यत्वाद् अटव्यां बहुवृक्षक्षुपगर्तायां तत्संरक्षणस्य मिथश् चरन्तीनां न पालापराधः । एतेन गोमहिष्यादि व्याख्यातम् । उक्तो गोसंरक्षणविधिः । पशुपीडापशुसंहारार्थम् इदम् उच्य[ते] ॥ ८.२३५ ॥

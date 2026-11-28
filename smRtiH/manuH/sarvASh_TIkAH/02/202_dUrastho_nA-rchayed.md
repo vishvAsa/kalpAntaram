@@ -87,6 +87,16 @@ water-jar, or flowers, or food or such things, one should not offer salutation; 
 repeating Mantras, or attending a sacrificial session, or carrying fuel, flowers, kuśa, fire, water-jar or food should not be saluted.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दूरस्थः शिष्योऽन्यं नियुज्य माल्यवस्त्रादिना गुरुं नार्चयेत् । स्वयं गमनाशक्तौ त्वदोषः । क्रुद्धः कामिनीसमीपे च स्थितं स्वयमपि नार्चयेत् । यानासनस्थश्च शिष्यो यानासनादवतीर्य गुरुममिवादयेत् । यानासनस्थश्चैवैनं प्रत्युत्थायेत्यनेन यानासनादुत्थानं विहितमनेन तु यानासनत्याग इत्यपुनरुक्तिः ॥२०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दूरस्थ** इति । **दूरस्थः** सन् परहस्तपुष्पप्रेषणेनाचार्यं नार्चयेत्, नाप्य् एनं प्रत्युपजातक्रोधम्, न च भार्याणां समीपस्थम् **अर्चयेत् **। **यानासनस्थश् च** यदा भवति तदा अवतीर्यैनम् **अभिवादयेत्** । यानासनस्थास् चैवैनं प्रत्युत्थायाभिवादयेत् । अनेन चावरुह्याभिवादयेत् । तत्र नीचयानासनात् अनुत्थायाप्य् अवरोहणं सम्भवति एतद् उक्तं प्रत्युत्थायाभिवादयेत् । गन्त्रीगवादियानासनस्थस्यापि चोत्थानं सम्भवति अत उक्तम् **अवरुह्याभिवादयेद्** इति ॥ २.२०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 202	He must not serve the (teacher by the intervention of another) while he himself stands aloof, nor when he (himself) is angry, nor when a woman is near; if he is seated in a carriage or on a (raised) seat, he must descend and afterwards salute his (teacher).

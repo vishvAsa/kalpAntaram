@@ -67,11 +67,20 @@ and mustard; heavy woolens by being rubbed with oil, flour, and
 *Kulmāṣa* grains.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृमिकोशोद्भवस्थ वस्त्रस्य, मेषादिलोमप्रभवस्य कम्बलादेः, ऊषैः क्षारमृत्तिकाभिः, कुतपानां नेपालकम्बलानाम् अरिष्टकैररिष्टचूर्णैः, अंशुपट्टानां पट्टशाटकानां बिल्वफलैः, क्षौमाणां दुकूलानां क्षुमावल्कलभवानां वस्त्राणां तु पिष्टश्वेतसर्षपप्रक्षालनाच्छुद्धिः ॥१२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कौशेयाविकयोर् ऊषैर्** इति । कोशनिवृत्तस्य पट्टविशेषस्योर्णामयस्य च “सोषरोदकगोमूत्रैः” (य्ध् १.१८६) इति याज्ञवल्क्यादिदर्शनाद् उदकसहितैर् ऊषैः मृद्विशेषैर् एवं कुतपानाम् (?) आजलोमनिर्मितानां सोदकेनारिष्टकचूर्णेन । अंशुपट्टानां वल्कलतनुकृतानां पट्टानां सोदकबिल्वचूर्णेन क्षुमादिकृतानां सोदकेन गौरसर्षपचूर्णेन शुद्धिर् इष्यते ॥ ५.१२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 120	Silk and woollen stuffs with alkaline earth; blankets with pounded Arishta (fruit); Amsupattas with Bel fruit; linen cloth with (a paste of) yellow mustard.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

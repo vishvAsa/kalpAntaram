@@ -64,11 +64,15 @@ consist of Kuśa, Ashman taka and Balvaja.’
 be made triplicated; turned round three times; its knots should he three or five or seven.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**मुञ्जालाभ** इति । त्रयाणां ब्रह्मचारिणां प्रकृतत्वाद् अभावस्य तुल्यत्वात् कौशादीनां बह्वीनाम् उपादानं **मुञ्जालाभे **मुञ्जाद्यलाभ इति व्याचक्षते । मुञ्जाद्यभावे कुशादिभिः यथाक्रमं ब्राह्मणादिभिः कर्तव्याः कुशादयस् तृणविशेषाः । एताश् च त्रिगुणेन **ग्रन्थिनैकेन त्रिभिर् वा पञ्चभिर् वा** कार्याः । **वा**शब्दात् ग्रन्थीनां विप्रादिभिः क्रमसम्बन्धाभावः, ग्रन्थिभेदश् चायं मुख्यास्व् अपि भवति, “वित्तस्य समो ऽसि दैव्यो ग्रन्थिर् असि मा विश्रंस” इति ग्रन्थिं कृत्वा इति लौगाक्षिणा मुख्यासु ग्रन्थ्याम्नानात् । ग्रन्थिसङ्ख्याभेदं च त्रैविद्यविदः स्मरन्ति ॥ २.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	If Munga grass (and so forth) be not procurable, (the girdles) may be made of Kusa, Asmantaka, and Balbaga (fibres), with a single threefold knot, or with three or five (knots according to the custom of the family).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

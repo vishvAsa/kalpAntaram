@@ -86,6 +86,21 @@ Do. (53.1),—‘One who has had illicit sexual intercourse must perform the
 a uterine sister, with women of the lowest castes, with women of the same *gotra*, with a daughter-in-law,—is declared to be as heinous as that of violating the Guru’s bed. A man who has intercourse with his father’s sister, or mother's sister, or maternal aunt, or daughter-in-law, or step-mother, or sister, or his preceptor’s daughter, or his preceptor’s wife, or his own daughter,—is *a violator of the Guru’s bed*; he should have his organ cut off and killed; so also the woman who fell in love with him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वयोनिषु सोदर्यभगिनोषु तथा मित्रभार्यासु, पुत्रपत्नीषु कुमारीषु, चाण्डालीषु, प्रत्येकरेतः सिक्त्वा गुरुदारगमनप्रायश्चित्तं कुर्यात्। अत्रापि ज्ञानाभ्यासाद्यनुबन्धापेक्षया मरणान्तिकम्। अत एव—
+
+**रेतः सिक्त्वा कुमारीषु चाण्डालीष्वन्त्यजासु च।  
+सपिण्डापत्यदारेषु प्राणत्यागा विधीयते॥**
+
+इति यमेन मरणान्तिकमुपदिष्टमज्ञानात्तद् व्रतम्॥ १७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुतल्पव्रतम्** इति । भगिनीषु सोदर्यासु च मित्रभार्यासु स्नुषाकुमारीषु चाण्डालाद्यन्त्यजासु चोपगमनं कृत्वा गुरुदारगमनप्रायश्चित्तं कुर्यात् । अभ्यासाद्यपेक्षया तत्र तत्र गुरुतल्पप्रायश्चित्तं विज्ञेयम् । रेतःसेकः स्वयोनिष्व् इति अनेनास्य पौनरुक्त्यं तत्र वोक्तपरिहारार्थम् ॥ ११.१६९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अकुमारीष्व् अपि चण्डालादिस्त्रीषु चान्यद् अपि प्रायश्चित्तम् वक्ष्यति । "चण्डालान्त्यस्त्रियो गत्वा" इत्य् एवमादि ॥ ११.१६८–१६९ ॥

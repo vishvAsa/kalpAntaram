@@ -36,11 +36,20 @@ chance at the things mentioned.
 touching a horse, or blood or hairs, or fire or cows or Brāhmaṇas or a woman; or on going over a long journey, or on touching an unclean thing, or a man unawares, or on wearing the loin-cloth,—he shall touch water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतान्गवादीनशुचिः सन्स्पृष्ट्वा कृताचमनः पाणिना गृहीताभिरद्भिः प्राणांश्चक्षुरादीनीन्द्रियाणि शिरः स्कन्धजानुपादान्नाभिं च स्पृशेत् । अप्रकरणे चेदं प्रायश्चित्ताभिधानं लाघवार्थं तत्र प्रकरणे गवादिग्रहणमपि कर्तव्यं स्यात् ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्पृट्वेति । अशुचिः** सन् गवादीन् **स्पृष्ट्वा अद्भिः** प्राणायतनानि चक्षुरादीन्य् अङ्गानि च **सर्वाणि स्पृशेत्** “नाभिम् अद्भिर् हस्तमध्येन स्पृशेत्” इति प्रकरणपठितं प्रायश्चित्तं लाघवार्थम् । तत्र हि क्रियमाणे गवादिस्पर्शे कर्तव्यं स्यात् ॥ ४.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

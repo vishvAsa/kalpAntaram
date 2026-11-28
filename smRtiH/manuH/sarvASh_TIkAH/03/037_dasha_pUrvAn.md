@@ -54,11 +54,20 @@ past and twelve future venerations on both sides.’
 away in the Brāhma form of marriage, the son born of her purifies twelve past and twelve future generations both on his maternal and his paternal sides.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दश पूर्वान्पित्रादीन्वंश्यान्, परान्पुत्रादीन्दश, आत्मानं चैकविंशकं ब्राह्मविवाहोढापुत्रो यदि सुकृतद्भवति तदा पापान्मोचयति पित्रादीन्नरकादुद्धरति । पुत्रादयश्च तस्य कुले निष्पापा जायन्त इति विमोचनार्थः, तेषामनुत्पत्तेः पापप्रध्वंसस्याशक्यत्वात् ॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दश पूर्वान् परान् **इति ब्राह्मविवाहोढ**पुत्रः** यदि **सुकृतकृद्** भवति तदा **दश् पूर्वान् **पित्रादीन् अन्वयिनो मृतान् **दश् चापरान् **पुत्रादीन् **आत्मानं चैकविंशकं** पापान् मोचयति । न चाकृताभ्याम् अकृतविप्रणाशाव् अत्र नोदनीयौ । श्राद्धादिवत् वचनगम्यत्वाद् अमुष्यार्थस्य पुत्रादीनां चापापाचाराणाम् उत्पत्तिमात्रेणैवैषां विमोक्षस् तदानीम् अनुत्पन्नत्वात् ॥ ३.३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

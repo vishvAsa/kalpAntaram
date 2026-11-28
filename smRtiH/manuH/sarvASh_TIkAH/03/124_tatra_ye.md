@@ -46,11 +46,20 @@ subject, the reader is referred to the *Prābhakara School of Pūrva Mīmāṃs�
 This verse is quoted in *Hemādri* (Śrāddha, p. 377).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्मिन् श्राद्धे ये भोजनीया ये चत्याज्या यत्संख्याका यैश्चान्नैस्तत्सर्वं प्रवक्ष्यामि ॥१२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत्रेति **। तस्मिन् श्राद्धे **भोजनीया ये च **वर्जनीयाः यथासङ्ख्याकाश् च **यैश् चान्नैस्** तत् कर्तव्यं तत् सर्वं **प्रवक्ष्यामि **॥ ३.१२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

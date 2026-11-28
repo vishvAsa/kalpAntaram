@@ -35,6 +35,16 @@ This verse is quoted in *Aparārka*, (p. 936), to the effect that even when taki
 See Comparative notes for [Verse 10.81].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणः क्षत्रियोऽपि वा वैश्यवृत्त्यापि जीवन्भूमिष्ठजन्तुहिंसाबहुलां बलीवर्दादिपराधीनकृषिंयत्नतस्त्यजेत्। अतः पशुपालनाद्यभावे कृषिः कार्येति द्रष्टव्यम्। क्षत्रियोऽपि वा इत्युपादानोत्क्षत्रियस्याप्यात्मीयवृत्त्यभावे, वश्यवृत्तिरस्तीत्यभिगम्यते॥ ८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+बलाबलम् अधुना कृष्यादेः प्राह **वैश्यवृत्त्येति** । ब्राह्मणः क्षत्रियो वा वैश्यवृत्त्यापि जीवेत् । भूमिं भूमिशयांश् च हन्तीति वक्ष्यमाणया नीत्या हिंसाबहुलां बलीवर्दाद्यायत्तां कृषिं यत्नतः परिहरेत् । अतः गोरक्षाभाव इयं कार्येति गम्यते । क्षत्रियो ऽपि चेत्य् उपादानात् क्षत्रियस्यापि स्ववृत्त्यभावे वैश्यवृत्तिर् अस्तीति गम्यते ॥ १०.८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 083	But a Brahmana, or a Kshatriya, living by a Vaisya's mode of subsistence, shall carefully avoid (the pursuit of) agriculture, (which causes) injury to many beings and depends on others.

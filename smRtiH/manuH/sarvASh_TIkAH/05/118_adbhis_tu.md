@@ -72,11 +72,24 @@ sprinkling water;—so also grain, skins, ropes, woven cloth, things made of bam
 *Yājñavalkya* (1.184).—(See under 116.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ त्र्यहकृतशौचानां तु वायसी शुद्धिरिष्यते ।**
+
+**पर्युक्षणाद्धूपनाद्वा मलिनामतिधावनात्॥१५॥ \]**
+
+बहूनां धान्यानां वस्त्राणां च चाण्डालाद्युपघाते जलेन प्रोक्षणाच्छुद्धिः ।बहुत्वं चपुरुषभारहार्याधिकत्वमिति व्याचक्षते । तदल्पानां तु प्रक्षालनाच्छुद्धिर्मन्वादिभिरुपदिश्यते॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अद्भिर्** इति । “अनेकोद्धार्ये दारुशिले भूमिसमे” इति बोधायनीयाद्यनेकोद्धार्यस्य द्रव्यान्तरस्थाल्पशौचत्वदर्शनात् पुरुषाभावाद् ऊर्ध्वं धान्यवस्त्राणां चाण्डालादिर् अभ्युक्षणम् । तदल्पानां पुनर् अद्भिः प्रक्षालनं विधीयते ॥ ५.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	The manner of purifying large quantities of grain and of cloth is to sprinkle them with water; but the purification of small quantities is prescribed (to take place) by washing them.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

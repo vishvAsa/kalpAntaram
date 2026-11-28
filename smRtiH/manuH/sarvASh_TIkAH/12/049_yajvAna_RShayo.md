@@ -54,6 +54,16 @@ This verse is quoted in *Aparārka* (p. 999);—in *Madanapārijāta* (p. 694), 
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यागशीलाः, तथर्षयः, देवाः, वेदाभिमानिन्यश्च देवता विग्रहवत्य इतिहासप्रसिद्धाः, ज्योतींषि ध्रुवादीनि, वत्सरा इतिहासदृष्ट्या विग्रहवन्तः, पितरः सोमपादयः, साध्याश्च देवयोनिविशेषा इत्येषा सत्त्वनिमित्ता मध्यमा गतिः॥४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यज्वान** इति । यागशीला र्षयो देवा वेदाभिमानिनश् च देवताविग्रहवत्यो यथेतिहासेषु ब्रह्मसभायां वर्ण्यन्ते ते ज्योतींषि ध्रुवादीनि संवत्सरा इतिहासदृष्ट्या विग्रहवन्तः । सोमपादयः पितरः साध्याश् च देवविशेषा इत्य् एषा सत्त्वनिमित्ता मध्यमा गतिः ॥ १२.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	Sacrificers, the sages, the gods, the Vedas, the heavenly lights, the years, the manes, and the Sadhyas (constitute) the second order of existences, caused by Goodness.

@@ -40,6 +40,16 @@ people, this and the preceding two verses are to be addressed to witnesses of th
 \[See the texts under [79 *et seq*.]\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः सभां प्राप्तोऽर्थस्य तत्त्वार्थस्य वैकल्यमयथार्थाभिप्रायमप्रत्यक्षमनुपलब्धमुत्कोचादिसुखलेशेन कथयति, सनरोऽन्ध इव सकण्टकान्मत्स्यान्भक्षयति, सुखबुद्धया प्रवृत्तो दुःखमेव महल्लभते ॥९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्ध** इति । यः सभां प्राप्तः तत् त्व् अस्य विप्रलब्धं मुखलेखभ्रान्त्या चादृष्टं भाषते सो ऽन्ध इव सकण्टकान् मत्स्यान् भक्षयति सः । सुखहेतोर् वर्तमानो दुःखम् एवातिशयं तद् उपार्जयति ॥ ८.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	'That man who in a court (of justice) gives an untrue account of a transaction (or asserts a fact) of which he was not an eye-witness, resembles a blind man who swallows fish with the bones.

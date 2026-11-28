@@ -35,11 +35,20 @@ others take it in the sense of the ordinary year; *Cf*. [Śatapatha Brāhmaṇa 
 broke, not because the indwelling Brahmā willed it, hut because of its full *development*; and this coincided with Brahma’s wish to come out.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्मिन् पूर्वोक्तेऽण्डे स ब्रह्मा वक्ष्यमाणब्रह्ममानेन संवत्सरमुषित्वा स्थित्वा आत्मनैवाण्डं द्विधा भवत्वित्यात्मगतध्यानमात्रेण तदण्डं द्विखण्डं कृतवान्॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तस्मिन्न्** इति । पूर्वोक्ते **अण्डे स **ब्रह्मा यदृच्छया **संवत्सरम् **आसित्वा, **आत्मनः** आत्मगतेन **ध्यायेन्**ऐव **तद् अण्डं **द्विखण्डं कृतवान् ॥ १.१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

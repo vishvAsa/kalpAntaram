@@ -45,6 +45,16 @@ and kindness towards living beings.’
 one with contempt. Should one man chop his one arm with an axe, and another sprinkle his other arm with sandal, he must neither curse the one in his mind, nor bless the other.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अतिक्रमवादान्परोक्तान्सहेत। न कञ्चित्परिभवेत्। नेमं देहमस्थिरं व्याध्यायतनमाश्रित्य तदर्थं केनचित्सह वैरं कुर्यात्॥४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अतिवादान्** इति । सामर्षवादान् क्षमेत न कञ्चन परिभवेत् । न चेदं शरीरम् आश्रित्य व्याध्यायतनभूतं विद्युदुद्द्योत इव विनश्वरं एतन्निमित्तकं स्वर्गापवर्गपरिपन्थि केनचिद् अपि सह चैरं न कुर्यत् ॥ ६.४७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **अतिवादांस् तितिक्षेत**

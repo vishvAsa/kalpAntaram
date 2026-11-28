@@ -47,6 +47,11 @@ It is quoted in *Vivādaratnākara*, (p. 487), which adds the following notes:�
 See Comparative notes for [Verse 9.201].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वेषामेषां क्लीबादीनां शास्त्रज्ञेन रिक्थहारिणा यावज्जीवं स्वशक्त्या ग्रासाच्छादनं देयम्। अददत्पापी स्यात्॥ २१२
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रकरणात् क्लीबादीनाम् इदम् उच्यते ग्रासाच्छादनदानं यावज्जीवम् ॥ ९.२०२ ॥

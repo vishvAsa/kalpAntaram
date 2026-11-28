@@ -46,11 +46,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 307) as eulogising Ved
 See Comparative notes for [Verse 2.165].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्र नियमानामङ्गत्वमुक्तं तत्कृत्स्नस्वाध्यायाध्ययनमने न विधत्ते । तपस्तप्स्यं वरिष्यन्द्रिजो वेदमेव ग्रहणार्थमावर्तयेत् । तस्माद्वेदाभ्यास एव विप्रादेरिह लोके प्रष्ट तपो मुनिभिरभिधीयते ॥ १६६ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+प्रसङ्गात् यावज्जीवम् अध्ययनधर्मम् आह **वेदम्** इति । **तपः **यमनियमादि कर्तुम् इच्छन् ब्राह्मणः **वेदम् एव **यावज्जीवम् **अभ्यस्येत् **। यस्माद् **वेदाभ्यासः **तस्य तपो ऽन्तरेभ्यः प्रकृष्टं **तपः **शास्त्रे उच्यते । द्विजोत्तमस्य ग्रहणं (द्विजपर्दर्शनार्थम्) त्रयाणां प्रदर्शनार्थम् । प्रकृतत्वाद् एवार्थवादः ॥ २.१६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

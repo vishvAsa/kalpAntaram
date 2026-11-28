@@ -138,6 +138,16 @@ According to Nārāyaṇa and Nandana, ‘the king’ is the agent to be underst
 when engaged in a rite enjoined by the secred texts, one may take money from a Śūdra,—or from a man rich in small cattle who neglects his religious duties, though he does not belong to the Śūdra caste,—or from the owner of a hundred cows who has not laid the fire;—or from the owner of a thousand cows who does not drink *Soma*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्षत्रियादेर्यजमानस्य विशेषतो ब्राह्मणस्य यदि यज्ञ इतराङ्गसम्पत्तौ सत्यामेकेनाङ्गेनासंपूर्णः स्यात्तदा यो वैश्या बहुपश्चादिधनः पाकयज्ञादिरहितोऽसोमयाजी तस्य गृहात्तदङ्गोचितं द्रव्यं बलेन चौर्येण वाऽऽहरेत्। एतच्च धर्मप्रधाने सति राजनि कार्यम्। स हि शास्त्रार्थमनुतिष्ठन्तं न निगृह्णाति॥ ११॥ १२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यज्ञ** इति । **य** इति । क्षत्रियादेर् यजमानस्य यदि यज्ञेज्यायज्ञसम्पत्तौ सत्याम् एकेनाङ्गेन विना न निरुद्धाह् स्यात् तदा यो वैश्यो बहुपश्वादिधनः प्राक् यज्ञसिद्ध्यर्थं चौर्येणाहरेत् । एतच् च धर्मप्रधाने राजनि सति कार्यं स हि शास्त्रम् अनुतिष्ठन्तम् उपेक्षते ॥ ११.१०–११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 हीनक्रतुश् च बहुपशुः स्यात् । हीनकर्मा । अहीनक्रतुर् अपि यद्य् असोमपो भवति, ततः कुटुम्बात् तस्य तद् द्रव्यम् आहरेत् । तद् असंभवे च ॥ ११.११ ॥

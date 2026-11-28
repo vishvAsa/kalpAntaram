@@ -64,11 +64,20 @@ The verse is also quoted in *Parāśaramādhava* (Prāyaścitta, p. 116), in sup
 evils of one’s deeds,—all these Renunciation burns up.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मलाद्यपहतं शोधनीयं मृज्जलैः शोभ्यते । नदीप्रवाहश्च श्लेष्माद्यशुचिदूषितो वेगेन शुद्ध्यति । स्त्री च परपुरुषमैथुनसंकल्पादिदुषितमानसा प्रतिमासार्तवेन तस्मात्पापाच्छुदा भवति । ब्राह्मणश्च संन्यासेन षष्टाध्यायाभिधेयेन पापाच्छुध्यति ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मृत्तोयैर्** इति । **मृत्तोयैः शुध्यते **शोधनीयं तावन् मृद्वारि चादेयम् इति वक्ष्यमाणेन प्रकारेण । नदी च निदाघादाव् अत्यल्पप्रवाहतया शुध्यत्य् उपहतपुलिनदेशा सती वर्षादिजनितेनोदकवेगेनावक्षालितपारावारतया शुध्यति । सकृत् स्त्री च कथञ्चिन् मनसा परपुरुषसङ्कल्पा आर्तवेन शुध्यति । ब्राह्मणाश् च **सन्न्यासेन** षष्टाध्यायवक्ष्यमाणेन शुध्यन्ति ॥ ५.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	By earth and water is purified what ought to be made pure, a river by its current, a woman whose thoughts have been impure by the menstrual secretion, a Brahmana by abandoning the world (samnyasa).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

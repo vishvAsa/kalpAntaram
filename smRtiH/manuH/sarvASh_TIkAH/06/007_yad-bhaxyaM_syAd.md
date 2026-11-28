@@ -54,6 +54,16 @@ oblations, sustain his life, feed his guests, and prepare his clothes with mater
 alms of roots and fruits.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्भुञ्जीत ततो यथाशक्ति बलिं भिक्षां च दद्यात्। बलिमिति तु वैश्वदेवनित्यश्राद्धयोरुपलक्षणम्, “एतानेव महायज्ञान्” (म. स्मृ. ६-५) इति विहितत्वात्। आश्रमागताञ्जलफल्मुलभिक्षादानेन पूजयेत्॥७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद्भक्ष** इति । यद्भक्षं भुञ्जीत ततस् तस्मात् पूर्वोक्तवत् **बलिं भिक्षां च** दद्यात् । आश्रमागतांश् च उदकमूलफलभिक्षादानेन पूजयेत् ॥ ६.७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 007	Let him perform the Bali-offering with such food as he eats, and give alms according to his ability; let him honour those who come to his hermitage with alms consisting of water, roots, and fruit.

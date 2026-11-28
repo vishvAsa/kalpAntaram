@@ -43,6 +43,16 @@ cooked food; or, according to some, only smell it;—he shall then sprinkle wate
 sandal, flowers, garlands, incense, lamp, cloth and unguents, he should pour ṭhe water on the balls.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पिण्डदानात्पूर्वं पिण्डाधारदेशदत्तोदकशेषमुदकपात्रस्थं प्रतिपिण्डसमीपदेशे क्रमेण पुनरुत्सृजेत् । तांश्च पिण्डान्यथान्युप्तान्येनैव क्रमेण दत्तांस्तेनैवक्रमेणावजिघ्रेत् । समाहितोऽनन्यमनाः ॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उदकम्** इति । पिण्डाधारदर्भदत्तोदक**शेषम् उदकं पिण्ड**समीपे **पुनः **उत्तरयोत्सृजेत् । **तांश् च पिण्डान्** येनैव क्रमेण दत्तान् तेनैव क्रमेण अनन्यमना **जिघ्रेत्** ॥ ३.२१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 218	Let him gently pour out the remainder of the water near the cakes, and, with fixed attention, smell those cakes, in the order in which they were placed (on the ground).

@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 574), as setting forth
 ‘*indralokesya*’ for ‘*indralokeśaḥ*’—‘*vaiśvadeve tu jñātayaḥ*’ for ‘*vaiśvadeve tu bāndhavāḥ*,’—‘*bāndharā dikṣu*’ for ‘*no yapām loke*,’—‘*bṛddhabālāturakṛśāstvākāśe prabhaviṣṇavaḥ*’ for ‘*ākāśeśāstu vijñeyā bālabṛddhakṛśāturāḥ*,’—and ‘*sahenni-tyamasañjvaraḥ*’ for ‘*sahetāsañjvaraḥ sadā*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यो ब्रह्मलोकस्य प्रभुः तेन सह विवादपरित्यागेन तत्संतुष्टया तु ब्रह्मलोकप्राप्तेर्गौणं ब्रह्मलोकेशत्वम् । एवं प्राजापत्यलोकेशः प्राजापत्ये पिता चप्रभुः । अतिथिरिन्द्रलोकेशः देवलोकस्य च ऋत्विजः । एवमुत्तस्त्रापि तत्तल्लोकेशत्वं बोद्धव्यम् ॥१८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्य** इति । यत आचार्यादयो दृष्ट्या शक्त्या ब्रह्मप्रजापतीन्द्रदेवलोकानां प्रभवः अतः परिहृततद्विवादस्य गृहस्थस्यैतान् लोकान् वदन्ति । तद्विवादपरित्यागेन ब्रह्मलोकादि प्राप्यत इत्य् एतद् अनया भङ्ग्या उक्तम् एव (एवं) उत्तरत्रापि विज्ञेयम् ॥ ४.१८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.

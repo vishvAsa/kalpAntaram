@@ -33,6 +33,16 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as enumerating th
 and by the rejection of Veda, the family ceases to be a family; also by the ill-treating of the Brāhmaṇa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आसुरादिविवाहैर्यथावर्णनिषिद्धैर्जातकर्मादिक्रियालोपैवंदापाठेन ब्राह्मणापूजनेन प्रख्यात कुलान्यपकर्षं गच्छन्ति ॥६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुविवाहैर्** इति । आसुरादिविवाहसंस्काराभाववेदानध्ययनब्राह्मणापूजनैः प्रख्यातकुलान्य् अपकर्षं यान्ति । तस्माद् एतत् परिहरणीयम् ॥ ३.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.

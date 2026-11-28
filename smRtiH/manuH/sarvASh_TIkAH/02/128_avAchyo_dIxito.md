@@ -45,11 +45,20 @@ It is quoted also in *Madanapārijāta* (p. 28) in support of the view that even
 Soma) \[should be addressed as Sir\].’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रत्यभिवादनकाले अन्यदा च दीक्षणीयातःप्रभृत्यावभृथस्त्रानात्कनिष्टोऽपि दीक्षितो नाम्ना न वाच्यः, किंतु भोभवच्छब्दपूर्वकं दीक्षितादिशब्दैरुत्कर्षाभिधायिभिरेव धार्मिकोऽभिभाषेत । भो दीक्षित, इदं कुरु, भवता यजमानेन इदं क्रियतामिति ॥१२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अवाच** इति । यागार्थं कृतदीक्षः प्रत्यभिवादनार्थं कार्यान्तरार्थं वा **नाम्ना** कनीयान् अपि न वाच्यः । किं तर्हि । भो दीक्षित भवता यजमानेन इत्य् एवं **भोभवच्**छब्द**पूर्वं** यौगिकं शब्दैः **एनं **धर्मज्ञो **ऽभिभाषेत **॥ २.१२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 128	He who has been initiated (to perform a Srauta sacrifice) must not be addressed by his name, even though he be a younger man; he who knows the sacred law must use in speaking to such (a man the particle) bhoh and (the pronoun) bhavat (your worship).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -38,11 +38,20 @@ dwells in hell for as many days as there are hairs on the animal’s body.’
 *Mahābhārata* (13.93.121).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवताद्युद्देशमन्तरेणात्मार्थं यः पशून्हन्ति स वृथापशुघ्नोमृतः सन् यावत्संख्यानि पशुरोमाणि तावत्संख्याभूतं जन्मनि जन्मनि मारणं प्राप्नोति । तस्माया पशुं न हन्यात 'तावत्कृत्व' इति वत्त्वन्तात्क्रियाभ्यावृत्तिगणने कृत्वसुच् प्रत्ययः । इह हशब्दः आगमप्रसिद्धिसूचनार्थः ॥३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् **यावन्ति पशुरोमाणीति । वृथा **उद्देशम् अन्तरेण यः पशुं हन्ति स मृतः सन् तस्य हतस्य पशोः सकाशात् [यावत्सङ्ख्यानि पशुरोमाणि] तत्सङ्ख्याकान् वारान् **जन्मनि जन्मनि मारणं प्राप्नोति** तस्माद् वृथा पशुं न हन्यात् । हशब्द आगमसूचकः ॥ ५.३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 038	As many hairs as the slain beast has, so often indeed will he who killed it without a (lawful) reason suffer a violent death in future births.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

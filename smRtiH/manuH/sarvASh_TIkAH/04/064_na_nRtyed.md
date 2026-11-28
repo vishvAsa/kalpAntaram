@@ -65,6 +65,11 @@ avoided).’
 singing or playing of musical instruments. Singing he may do; but being captivated by the singing of some one else is a totally different thing.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न नृत्येद्** इति । अशास्त्रीयाणि नृत्यगीतवाद्यानि न कुर्यात् । पाणिना बाहुं नाभिहन्यात् । अव्यक्तदन्तध्वनिं न कुर्यात् च हर्षितः सन् खरविरावं न कुर्यात् ॥ ४.६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 064	Let him not dance, nor sing, nor play musical instruments, nor slap (his limbs), nor grind his teeth, nor let him make uncouth noises, though he be in a passion.

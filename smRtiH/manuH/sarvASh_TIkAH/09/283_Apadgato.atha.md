@@ -54,6 +54,11 @@ This verse is quoted in *Aparārka* (p. 765), which explains ‘*paribhāṣaṇ
 See Comparative notes for [Verse 9.282](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201672.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+व्याधितवृद्धगर्भिणीबाला न दण्डनीयाः किंतु ते पुनः किं कृतमिति परिभाषणीयाः। तच्चामेध्यं शोधनाया इतिशास्त्रमर्यादा॥ २८३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **आप्**[**अद्गत** इति सहोप]देशाद् अत्यन्त**वृद्धो**, **गर्भिणी**, **बालो** वेदितव्यः ॥ ९.२८३ ॥

@@ -50,6 +50,16 @@ been promised to him verbally and by a libation of water,—but before she was m
 become lost after betrothal, the girl shall wait for three menstrual periods and then marry another person.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्याः कन्याया वाग्दाने कृते सति भर्ता म्रियेत तामनेन वक्ष्यमाणेनानुष्ठानेन भर्तुःसोदरभ्राता परिणयेत् ॥ ६९ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+नियोगप्रकारकत्वात् कन्यागतम् इदम् आह **यस्या** इति । वाग्दत्तायाः कन्यायाः भर्ता म्रियेत ताम् अनेन विधिना भर्तुः सोदर्यो भ्राता उद्वहेत् ॥ ९.६९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **विधानं** विधिर् विवाहो यथोक्तः, **विन्देतेति** वचनात् । इतरथा ह्य् अनूढाम् उपगच्छतः कन्यादूषणम् उपपतं स्यात् । निय्मार्थश् चैवम् आरम्भः । एतस्माद् एव च लिङ्गात् प्राग् विवाहात् वाक्प्रदानम् अस्ति, यस्मिन् निर्वृत्ते मृते भर्तरि सान्यस्मै दीयेत ॥ ९.६९ ॥

@@ -46,11 +46,20 @@ says that the Śūdra should not keep long hair,—or it may stand for the
 sipping water as for their masters; besides the *Śūdra* cooks shall daily have shaved the hair of their heads, of their beards, on their bodies, and also their nails; and they shall bathe with clothes on; or they may trim their hair and nails on the eighth day of each month, or on the Full moon and Moonless days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्राणां कार्यमिति "कृत्यानां कर्तरि वा" ( पा. सू. २ / ३ / ७१ ) इति कर्तरि षष्ठी । यथाशास्त्रव्यवहारिभिजिशुश्रूषकैः शूद्रैर्मासि मासि मुण्डनं कार्यं, वैश्यवच्च मृत सूतकादौ शौचकल्पोऽनुष्ठातव्यः, द्विजोच्छिष्टं च भोजनम् । भुज्यत इति भोजनं कार्यमिति ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्राणाम्** इति । शास्त्रमर्यादानुवर्तिनो द्विजात्याश्रितानां शूद्राणाम् आश्रयभूतद्विजातीनां मासि मासि मुण्डनं वैश्यवच् च “एका लिङ्गे” इत्याद्याचमनपर्यन्तशौचविधिः कार्यः, द्विजोच्छिष्टभोजनप्रकृतत्वाद् आत्मसम्बन्धे दातव्यम् ॥ ५.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	Sudras who live according to the law, shall each month shave (their heads); their mode of purification (shall be) the same as that of Vaisyas, and their food the fragments of an Aryan's meal.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

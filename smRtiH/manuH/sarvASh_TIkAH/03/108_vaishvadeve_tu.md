@@ -40,11 +40,20 @@ the Vaiśvadeva offering has been made and the Honouring of the guest also done,
 either *Vrīhi* or *Yava* cooked for him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्यशब्दनिर्देशादतिथिभोजनपर्यन्तं वैश्वदेवे कृते यद्यपरोऽतिथिरागच्छेत्तदा तदर्थं पुनः पार्कं कृत्वा तस्यान्नं दद्यात् । बलिहरणं ततो नात्रकुर्यात् । बलिनिषेधादन्नसंस्काराभावो वैश्वदेवस्यावगम्यते । अन्नसंस्कारपक्षे कथमसंस्कृतान्न भोजनमानुजानीयात् ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्वदेव** इति । कृते ऽतिथिभोजनपर्यन्ते **वैश्वदेवे यद्य् **अपरो **ऽतिथिर् आव्रजेत्** तस्मै तदा च्**आन्नं यथाशक्ति **पुनः पक्त्वा **प्रदद्यात्** । बलिहरणं च ततो ऽन्नान् न कुर्यात् । बलिहरणनिषेधाद् आत्मसंस्कारार्थता वैश्वदेवस्याभिप्रेतेत्य् अवसीयते । अन्नसंस्कारपक्षे कथम् असंस्कृतान्नभोजनम् अनुजानीयात् ॥ ३.१०८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -50,11 +50,20 @@ acts are not defective, for them, Upanayana, Vedic study, Fire-laying are all ef
 Brāhmaṇa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+औपनायनिक इत्यनुशतिकादित्वादुभयपदवृद्धिः । अयं द्विजातीनामुपनयनसम्बन्धो कर्मकलाप उक्त उत्पतेर्द्वितीयजन्मनो व्यञ्जकः ॥६८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । **एष द्विजातीनाम्** उपनयनभवो **विधिर्** उक्तः **उत्पत्तेर् व्यञ्जकः** प्रकाशकः जातस्याप्य् अनुपनीतस्याजा(ज्ञा)तसमत्वात् पुण्यहेतुत्वात् **पुण्यः** । इदानीम् उपनीतस्योपनयनकर्मणि सम्बन्धः तच् छृणुत ॥ २.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	Thus has been described the rule for the initiation of the twice-born, which indicates a (new) birth, and sanctifies; learn (now) to what duties they must afterwards apply themselves.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

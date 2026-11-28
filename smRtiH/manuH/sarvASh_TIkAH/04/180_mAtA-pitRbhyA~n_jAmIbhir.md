@@ -53,6 +53,11 @@ vīmucya saṃvādān*’ for ‘*etairvivādān santyajya* and ‘*jitaḥ*.’
 quarrels with his mother, father, brother, female relations, relations by marriage, maternal uncle, aged persons, boys, sick persons, his teacher, doctors, dependants and relations, his priest, the officiating priest, his own children, wife, slaves and paternal relations.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋत्विगादिभिर्वाक्कलहं न कुर्यात् । शान्त्यादिकर्ता पुरोहितः । संश्रिता अनुजीविनः । ज्ञातयः पितृपक्षाः । सम्बन्धिनो जामातृश्यालकादयः । बान्धवा मातृपक्षाः ।जामयो भगिनीस्नुषाद्या॥१७९॥१८०॥
+</details>
+
 <details><summary>Bühler</summary>
 
 180	With his father and his mother, with female relatives, with a brother, with his son and his wife, with his daughter and with his slaves, let him not have quarrels.

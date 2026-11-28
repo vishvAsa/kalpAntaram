@@ -11,8 +11,6 @@ By the force of austerities and the seed they attain higher or lower rank among 
 <details><summary>मेधातिथिः</summary>
 
 **त** एते ऽनन्तरजाः **तपः**सामर्थ्येन **बीज**सामर्थ्येन **युगे युगे** जन्मनि जन्मनि **उत्कर्षम् अपकर्षं च गच्छन्ति** । तद् वक्ष्यामः "शूद्रायां ब्राह्मणाज् जातः" (म्ध् १०.६४) इत्य् अत्र ॥ १०.४२ ॥
-
-_यद् उक्तम् "स्वकर्मणां त्यागेन" _(म्ध् १०.२४)_ इति तस्यैवायं प्रपञ्चः ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -40,6 +38,16 @@ caste, being either raised to a higher one or degraded to a lower one. The vener
 
 *Āpastamba* (2, 11.10-11).—‘In successive births, men of the lower
 castes are born in the next higher one, if they have fulfilled their duties. In successive births, men of the higher castes are born in the next lower one, if they have neglected their duties.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+सजातिजानन्तरजाः तपःप्रभावेण विश्वामित्रवत्, बीजप्रभावेण ऋष्यशृङ्गादिवत्, कृतत्रेतादौ मनुष्यमध्ये जात्युत्कर्षंगच्छन्ति। अपकर्षं च वक्ष्यमाणहेतुना यान्ति॥ ४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तपोबीजप्रभावेन ते गच्छन्ति युगे युगे **इति । **ते स्वजातिजा** इति । अनन्तरजाः तपःप्रभावेण हेतुना जातितो गच्छन्ति ॥ १०.४२ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -31,6 +31,11 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 232), which says tha
 See Comparative notes for [Verse 9.98].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वकल्पेष्वप्येतद् वृत्तमिति कदाचिद्वयं न श्रुतवन्तः, यच्छुल्काभिधानेन मूल्येन कश्चित्साधुगूढं दुहितृविक्रयमकार्षीदिति शुल्कनिषेधार्थवादः ॥ १० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति शुल्कदोषान् नियोगो ऽपि सपिण्डे नास्ति । अतो देवराभावपक्षे नियतः प्रजनविभागः ॥ ९.१०० ॥

@@ -52,6 +52,16 @@ and food, by their husbands, brothers, fathers, parental relations, mothers-in-l
 fondled by their fathers, brothers, fathers-in-law and brothers-in-law—if these are desirous of their own welfare.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न केवलं विवाहकाले वरेण दत्तं धनं समर्पणीयं, किन्तु तदुत्तरकालमपि पित्रादिभिरध्येत भोजनादिना पूजयितव्या वस्त्रालङ्कारादिना भूषयितव्याश्च बहुधनादिसम्पदंप्राप्तका भैः॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पितृभिर्** इति । पितृभ्रातृभर्तृभिः बह्वीं सम्पदम् आप्तुकामैः स्त्रियः **पूज्याः **अलङ्कर्तव्याश् च ॥ ३.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	Women must be honoured and adorned by their fathers, brothers, husbands, and brothers-in-law, who desire (their own) welfare.

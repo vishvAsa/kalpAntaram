@@ -28,6 +28,16 @@ This should be understood to be in brief the characteristic of these three quali
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां सत्त्वादीनां त्रयाणामपि गुणानां त्रिषु कालेषु भूतभविष्यद्वर्तमानेषुविद्यमानानामिदं वक्ष्यमाणसाक्षेपिकांक्रमेण गुणलक्षणं ज्ञातव्यम्॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रयाणाम्** इति । एषां सत्त्वादीनां त्रयाणाम् अपि गुणानां त्रिषु कालेषु भूतभव्यभविष्यद्वर्तमानेषु वर्तमानानाम् इदं वक्ष्यमाणसापेक्षिकं क्रमेण गुणलक्षणं विज्ञेयम् ॥ १२.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	Know, moreover, the following to be a brief description of the three qualities, each in its order, as they appear in the three (times, the present, past, and future).

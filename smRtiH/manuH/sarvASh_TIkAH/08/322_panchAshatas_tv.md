@@ -40,6 +40,16 @@ more than fifty *māṣas*, shall lose both hands; he who steals a less amount t
 Do. (Vivādaratnākara, p. 323).—‘For the stealing of things sold by weight, grains and nuts, and other things more valuable than wood and the vest, the fine shall be ten times the value of the article stolen.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्तानां पञ्चाशदूर्ध्वं शतं यावदपहारे कृते हस्तच्छेदनं मन्वादिभिरभिहितम् । शेषेष्वेकपलादारभ्य पञ्चाशत्पलपर्यन्तापहारे अपहृतगुणादेकादशगुणं दण्डं दाप्यः ॥३२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चाशत** इति । एषां पूर्वनिर्दिष्टानां पञ्चाशत ऊर्ध्वं शतस्य यावद् अपहृते चैतत् हस्तच्छेदनं मन्वादिभिर् उच्यते । पञ्चाशतः पञ्चाशतः यावद् अपहृते तन्मूल्याद् एकादशगुणं राजा दण्डं कुर्यात् ॥ ८.३२२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अधिके पञ्चाशतो हस्तच्छेदः । ऊने ऽप्य् एकादशगुणो दण्डः ॥ ८.३२१ ॥

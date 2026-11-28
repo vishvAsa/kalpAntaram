@@ -77,6 +77,16 @@ everything may he given away, in consonance with the interests of the family; if
 gift, he shall not give it if the recipient is found to be unrighteous.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+येन यागादिकर्मार्थं कस्मैचिद्याचमानाय धनं दत्तं प्रतिश्रुतं वा, पश्चाच्च तद्धतमसौ यागार्थं न विनियुञ्जीत, तदा तद्दत्तमपि धनं ग्राह्यं प्रतिश्रुतं च न देयम् । यदाह गौतमः— **“प्रतिश्रुत्याऽयधर्मसंयुक्ताय न दद्यात्”** ॥२१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धर्मार्थम्** इति । येअन् यागाद्यर्थं भिक्षमाणाय कस्मैचिद् धनं दत्तं प्रतिज्ञातं च स्यात् पश्चात् तद्धनसमौ यागार्थं यदि न युञ्जीत तदास्य प्रतिश्रुतं न देयम्, दत्तं वा प्रत्याहरणीयम् ॥ ८.२१२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स्वनिगदोपवर्णितः श्लोकः ॥ ८.२११ ॥

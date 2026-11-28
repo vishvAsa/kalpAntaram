@@ -47,6 +47,16 @@ seated; while the teacher is standing, he should not answer him without standing
 should be seated^; if he is seated, he should stand; if he is standing, he should be moving; if he is moving, he should be running.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आसनोपविष्टस्य गुरोराज्ञां ददतः स्वयमासनादुत्थितः तिष्ठतो गुरोरादिशसस्तदभिमुखं कतिचित्पदानि गत्वा यथा गुरुरागच्छति तथाप्यभिमुखं गत्वा, यदा तु गुरुर्धवन्नादिशति तदा तस्य पश्चाद्धावन्प्रतिश्श्रवणसंभाषे कुर्यात् ॥१९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+कथं तर्हि । **आसीनस्येति** । **पराङ्मुखस्येति** । उपविष्टस्याज्ञां ददतः उत्थितः प्रतिश्रवणसम्भाषे कुर्यात् । उत्थितस्य च तदभिमुखं गत्वा, वेगेन गच्छतः तस्य पश्चाद् वेगेन गच्छन् । परावृत्तस्य अवस्थितस्य च **अभिमुखो **भूत्वा **दूरावस्थितस्य** समीपम् आगत्य, शयानस्य प्रह्वो भूत्वा निकटे च देशे **तिष्ठतः **॥ २.१९६–९७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;

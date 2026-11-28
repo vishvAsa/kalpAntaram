@@ -67,11 +67,20 @@ leper, the outcast, the embryo-killer, one of doubtful birth, relatives of outca
 Śrāddha, those who renounce the Veda are called *naked*; the thief, the cruel man should not he seen, all other wicked men should he avoided.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चाण्डालग्राम्यसूकरकुक्कुटकुक्कुरोदक्यानपुंसको यथा ब्राह्मणान्भोजनकाले न पश्येयुस्तथा कार्यम् ॥२३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा च कार्यं यथा **चण्डालश् च वराहश् च कुक्कुट** इति । चण्डालवराहग्रामसूकरकुक्कुटश् चोदक्यानपुंसकानि द्विजभोजनकाले ततो ऽपसारयेत् ॥ ३.२३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

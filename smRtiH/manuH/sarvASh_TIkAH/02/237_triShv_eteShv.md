@@ -30,11 +30,20 @@ The prohibition of disregarding them,—the injunction of doing what is pleasing
 This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इतिशब्दः कात्स्न्ये। हिशब्दो हेतौ । यस्मादेतेषु त्रिषु शुश्रूपिनेषु पुस्य सर्वं श्रोतं स्मार्तं कर्तव्यं सम्पूर्णमनुष्ठितं भवति, तत्फलावाप्तेः । तस्मादेष श्रेष्ठो धर्मः साक्षात्सर्वपुरुषार्थसाधनः । अन्यस्त्वग्निहोत्रादिप्रतिनियतस्वर्गादिहेतुरूपवर्मा जवन्यधर्म इति शुश्रूषास्तुतिः ॥२३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रिष्व्** इति । यस्मान् मात्रादिष्व् आराधितेषु यावत् किञ्चिद् यागादिकर्तव्यं तत् सर्वं **पुरुषस्य **परिपूर्णं भवति । यस्माद् **एष साक्षात् **प्रकृष्टो **धमः **अग्निहोत्रादिः गौण इति मन्वादिभिर् **उच्यते** इति प्रकृतविध्यर्थवादः ॥ २.२३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

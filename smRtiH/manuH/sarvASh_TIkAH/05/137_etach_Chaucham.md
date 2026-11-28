@@ -35,11 +35,20 @@ it is double this for students, treble for hermits, but quadruple for ascetics.�
 is double for students, treble for hermits and quadruple for ascetics.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“एका लिङ्गे” इत्यादि यच्छौचमुक्तं तद् गृहस्थानामेव, ब्रह्मचारिणां द्विगुणं, वानप्रस्थानां त्रिगुणं, यतीनां पुनश्चतुर्गुणम् ॥१३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** इति । यद् **एतद्** “एका लिङ्गे” इत्यादि शौचम् एतद् उक्तं **गृहस्थानाम्** एव ब्रह्मचारि-वानप्रस्थभिक्षूणाम् एतद् एव द्वित्रिचतुर्गुणम् ॥ ५.१३७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 137	Such is the purification ordained for householders; (it shall be) double for students, treble for hermits, but quadruple for ascetics.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

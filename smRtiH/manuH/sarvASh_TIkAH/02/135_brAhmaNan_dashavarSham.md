@@ -56,11 +56,20 @@ never be saluted by the Brāhmaṇa, even though they be endowed with knowledge 
 Brāhmaṇa, ten years old, should he regarded as father and son; of the two, the Brāhmaṇa being the superior.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दशवर्षं ब्राह्मणं शतवर्षं पुनः क्षत्रियं पितापुत्रौ जानीयात् । तयोर्मध्ये दशवर्षोऽपि ब्राह्मण एव क्षत्रियस्य शतवर्षस्यापि पिता ।तस्मात्पितृवदसौ तस्य मान्यः ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणम्** इति । ब्राह्मणक्षत्रिययोः दशवर्षशतवर्षवयसयोः अभिवादनादौ पितापुत्रव्यवहारः स्यात् । तयोर् मध्यात् पुनः ब्राह्मणः पितृस्थानीयः ॥ १.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

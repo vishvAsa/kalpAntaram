@@ -82,11 +82,20 @@ kuśa-blades, with the mantra *atra pitaro mādayadhvam*
 at the root-end of the kuśa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विधिपूर्वकं स्वगृह्योक्तविधिना दर्भेषु तान्पिन्डान्दत्त्वा "दुर्भमूलेषु करावघर्षणम्" इति विष्णुवचनाच्च तेषु दर्भेषु मूलदेगे हस्तं निर्लेपं कुर्यात्प्रपितामहपित्रादीनां त्रयाणां लेपभुजां तृप्तये ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न्य्प्येति** । **तान् पिण्डान् **पिण्डेषु अञ्जनाभ्यञ्जनवासो दद्यात् इत्य् एवमादिसूत्रकारोक्त**विधिपूर्वकं** दत्वा ततः **तेषु **पिण्डाधारभूतेषु **दर्भेषु** करावघर्षणं इति वैष्णवस्मरणात् । दर्भमूलेषु **तं हस्तं **प्रपितामहात् पूर्वेषां त्रयाणां **लेपभागिनां **हस्तसंश्लिष्टान्नावयवभागितृप्तये समर्पितलेपं कुर्यात् ॥ ३.२१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 216	Having offered those cakes according to the (prescribed) rule, being pure, let him wipe the same hand with (the roots of) those blades of Kusa grass for the sake of the (three ancestors) who partake of the wipings (lepa).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

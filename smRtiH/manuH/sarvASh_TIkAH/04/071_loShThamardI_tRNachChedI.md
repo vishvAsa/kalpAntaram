@@ -47,6 +47,16 @@ This verse is quoted in *Aparārka* (p. 183),—and again on (p. 253), as lendin
 See Comparative notes for [Verse 4.70].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लोष्ठमर्दयिता, तृणच्छेत्ता, नखखादिता च यो मनुष्यस्तथा सूचकः खलोयः परस्यदोषानसतः सतो वा ख्यापयति, बाह्याभ्यन्तरशौचरहितः शीघ्रमेते देहधनादिना विनश्यन्ति ॥७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**लोष्टमर्दीति** । लोष्टतृणनखानां मर्दनछेदनखादनकृत् **सूचको ऽशुचिश् च **मनुष्यो **विनाशं **क्षिप्रं **याति **। तस्माद् एतानि न कर्तव्यानि । भक्षणाशुचित्वयोर् अत एव निषेधः ॥ ४.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.

@@ -78,11 +78,20 @@ of all instruct him regarding cleanliness, course of conduct, fire-tending, the 
 *Guru* who having performed all the rites, imparts to him the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादस्य माणवकस्य "समिधमाधेहि " ( गृ० सु० १ / २२ / ६ ) “दिवा मा स्वाप्सीः" ( गृ० सू० १ / २२ / २ ) इत्यादिव्रतादेशनं वेदस्याध्ययनं मन्त्रब्राह्मणक्रमेण “अध्येष्यमाणस्त्वाचान्तः” (अ० २ श्लो० ७०) इत्यादिविधिपूर्वकमुपनीतस्योपदिश्यते, तस्मादुपनयनास्पूर्वं न वेदमुदाहरेत् ॥१७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृतोपनयनसेति **। उपनीतस्य सतो ऽस्य आदौ स्वशास्त्राचोदितसावित्रादिव्रतोपदेश **इष्यते** । तत उक्तरूपवेदाध्ययनं स्वशाखागतमन्त्रब्राह्मणाध्ययनं क्रमेणोक्तं प्राणायामादिपूर्वकम् ॥ २.१७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

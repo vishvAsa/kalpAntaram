@@ -41,6 +41,16 @@ The words clearly mean ‘From out of Ākāśa, undergoing modifications, procee
 See Comparative notes for [Verse 1.75 (Ākāśa produced out of ‘Mind’)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आकाशात्तु विकारजनकात्सुरभ्यसुरभिगन्धवहः पवित्रो बलवांश्च वायुरुत्पद्यते। स च स्वाक्यगुणवान्मन्वादीनां संमतः॥७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आकाशात् त्व्** इति । **आकाशात् **स्व(स)विकारजननोन्मुखीभूतात् **वायुः **सुरभ्यसुरभि**गन्धवहः शुचिः** पवित्रो **बलवांश् **च **जायते । स** च **स्पर्शगुण**युक्तः ऋषीणां **मतः** ॥ १.७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.

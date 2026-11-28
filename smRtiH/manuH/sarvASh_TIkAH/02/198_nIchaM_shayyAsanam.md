@@ -57,6 +57,16 @@ sit as he likes.’
 seat with the teacher, except on a stone-slab, or on a boat, or on a conveyance.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरुसमीपे चास्य गुरुशय्यासनापेक्षया नीचे एव शय्यासने नित्यं स्याताम् । यत्र च देशे समासीनं गुरुः पश्यति न तत्र यथेष्टचेष्टां चरणप्रसारादिकां कुर्यात् ॥१९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथैव **नीचं शय्यासनम्** इति । गुरुशय्याद्यपेक्षया ह्रस्वशय्यासनं यावज्जीवं गुरुसन्निधौ स्यात् । तथा **गुरोश् चक्षुर्विषये न यथेष्टासनः** स्यात् ॥ २.१९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.

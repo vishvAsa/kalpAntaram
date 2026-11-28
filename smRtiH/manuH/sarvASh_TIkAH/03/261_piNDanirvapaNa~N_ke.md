@@ -59,11 +59,20 @@ are performed before the Amalgamating Rite, while at this Rite itself as well as
 See Comparative notes for [Verse 3.260].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पिण्डप्रदानं केचिदाचार्या ब्राह्मणभोजनानन्तरं कुर्वते, अन्ये पक्षिभिः पिण्डान्खादयन्ति । इयं पक्षिभोजनरूपा प्रतिपत्तिरग्न्युदकप्रक्षेपयोर्वैकल्पिकीति दर्शयितुमुक्तयोरप्यभिधानम् ॥२६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पिण्डनिर्वपणम्** इति । पिण्डदानं **केचिद्** आचार्याः ब्राह्मणभोजनाद् अर्वाक् कुर्वते । **अन्ये** पक्षिभिः **खादयन्ति** । इदं पूर्वप्रतिपत्तिवैकल्पिकम् । अप्य् **अन्ये** अग्न्युदकप्रक्षेपं पक्षिभक्षणं वैकल्पिकम् इच्छन्ति ॥ ३.२६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

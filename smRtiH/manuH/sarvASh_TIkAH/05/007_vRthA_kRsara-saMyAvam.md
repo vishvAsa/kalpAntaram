@@ -130,11 +130,24 @@ sugar-wheat, rice-milk, cakes, breads fried in butter, food of the gods and sacr
 meat, rice-sesamum or butter-sugar-wheat, or milk-rice or flour-cakes or wheaten bread fried in butter,—needlessly cooked.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवताद्यनुद्देशेनात्मार्थं यत्पच्यते तद् वृथा । कृसरस्तिलेन सह सिद्ध ओनः । तथा च छन्दोगपरिशिष्टम्—
+
+**तिलतण्डुलसंपक्वःकुसरः सोऽभिधीयते ।**
+
+संयावो घृतक्षीरगुडगोधूमचूर्णसिद्धस्तकरिकेति प्रसिद्धः । क्षीरतण्डुलमिश्रः पायसः । अपूपः पिष्टकः । एतान्वृथापक्वान्विवर्जयेत् । पशुयागादौ मन्त्रबहुलेन पशोः स्पर्शनमुपाकरणं तद्रहितः पशुरनुपाकृतस्तस्य मांसानि ।देवान्नानि नैवेद्यार्थमन्नानि प्राङ् निवेदनातू, हवींषि पुरोडाशादीनि होमात्प्राग्वर्जयेत् । अनुपाकृतमांसानीत्येतद्विशेषनिषेधदर्शनात् "अनचितं वृथामांसम्” इति सामान्यनिषेधो गोबलीवर्दन्यायेनानुपाकृतमांसेतरश्राद्धाद्यनुद्देश्यमांसभक्षणे पर्यवस्यति ॥७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वृथाकृसरसंयावम्** इति । कृसरं तिलमुद्गसिद्धम् ओदनम्, संवायं घृतगुडक्षीरादिकृतं पुष्करिकेति प्रसिद्धम्, **पायसम् अपूपं च **वास्तुयज्ञादिविशिष्टदेवतायागोद्देशम् अन्तरेण कृतम् । कृतान्वाहिकवैश्वदेवकार्यम् अपि न भक्षयेत् । तथा उपाकरणाख्यश्रौतसंस्कारविशेषार्हणां गोऽव्यजानां यान्य् अनुपाकृतानि मांसानि तानि कल्पयता न भक्षयेत् । अतिथ्यादेस् तु “अनर्चितं वृथामांसम्” इत्य् उक्त्वा **देवान्नानि च **नेवेदकादीनि **हवींषि च** प्राग्घोमात् वर्जयेत् । हविःशेषस्य हि भक्ष्यत्वं वक्ष्यति ॥ ५.७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 007	Rice boiled with sesamum, wheat mixed with butter, milk and sugar, milk-rice and flour-cakes which are not prepared for a sacrifice, meat which has not been sprinkled with water while sacred texts were recited, food offered to the gods and sacrificial viands,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

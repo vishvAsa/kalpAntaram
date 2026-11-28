@@ -63,11 +63,22 @@ The ‘seven’ are made up of—
 The name ‘*puruṣa*’ has been applied to the Tattvas, Principles,—because ‘they serve the purposes of the, soul’ (Medhātithi),—or because ‘they are produced by the Puruṣa, Ātman,’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां पूर्वप्रकृतीनां महदहंकारतन्मात्राणां सप्तसंख्यानां पुरुषादात्मन उत्पन्नत्वात्तद्वृत्ति ग्राह्यत्वाच्च पुरुषाणां महौजसां स्वकार्यसंपादनेन वीर्यवतां सूक्ष्मा या मूर्तिमात्राः शरीरसंपाद (१)[^45] कभागास्ताभ्य इदं जगन्नश्चरं संभवत्यनश्वराद्यत्कार्यं तद्विनाशि स्वकारणे लीयते । कारणं तु कार्यापेक्षया स्थिरम् । परमकारणं तु ब्रह्म नित्यमुपासनीयमित्येतदर्शयितुमयमनुवादः ॥१९॥
+
+[^45]: "'संपादका, भागाः' क०"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । पूर्वप्रकृतत्वात् तन्मात्राहङ्काराणां पूर्वतरप्रस्तुतत्वाच् च महतः एवं **तेषां सप्तानां** पुरुषोत्पन्नत्वात् **पुरुषाणां** **सूक्ष्माभ्यो मूरिमात्राभ्यः** शरीरसम्पादकेभ्यो भागेभ्यः इदं जगत् नश्वरं सम्भवति **अव्ययात्** अनश्वरात् यद् यत् कार्यं तत् तद् अस्थिरं यद् यद् उत्पत्तिकारणं तत् तत् कार्यापक्षया स्थिरम् इत्य् एतत् प्रतिपादनार्थः शेषो ऽनुवादः ॥ १.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

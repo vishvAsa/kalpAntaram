@@ -81,11 +81,20 @@ on the coming day, he shall invite the Brāhmaṇas;... if that be not possible,
 approach the Brāhmaṇas after they have taken their evening meal and invite them, on behalf of his father.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्राद्धकर्मणि प्राप्ते श्राद्धाहापूर्वदिने तहसम्भवे श्राद्धदिन एवोक्तलक्षणान्ब्राह्मणान्सम्यगतिसत्कृत्य निमन्त्रयेत् ।त्रयोऽवरा न्यूना येषां ते त्र्यवराः, न तु तावत एव. एकैकमपीत्युक्तेः ॥१८७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पूर्वेद्युर्** इति । श्राद्धे कर्मणि प्राप्ते स्त्रीप्रयोगाशङ्कायां श्राद्धदिवसात् पूर्वस्मिन्न् अहनि परस्मिन्न् एव असति सम्भवे यद्य् अत्यन्तन्यूनान् ततस् त्रीन् न तु त्रीन् एव, एकैकविधेर् अप्य् उक्तत्वात् । प्रश्रयपूर्वं वा यथोक्तान् विप्रान् **निमन्त्रयेत्** ॥ ३.१८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 187	On the day before the Sraddha-rite is performed, or on the day when it takes place, let him invite with due respect at least three Brahmanas, such as have been mentioned above.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

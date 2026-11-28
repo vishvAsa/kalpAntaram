@@ -44,6 +44,16 @@ This verse is quoted in *Vivādaratnākara* (p. 87), whieh adds the following ex
 the deposit to his next of kin of his own accord, he must not be harassed, either by the King or by the relations of the depositor.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निक्षेप्तुर्म्रुतस्य निक्षेपधारी तद्धनाधिकारिणि पुत्रादौ तदनभ्यर्थितः स्वयमेव यः समर्पयति, स राज्ञा निक्षेप्तुः पुत्रादिभिर्वाऽन्यदपि त्वयि निक्षिप्तमस्तीति नाक्षेप्तव्यः ॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वयम्** इति । निक्षेप्तुः मृतस्य यो ऽज्ञातं निक्षिप्तं स्वयम् एव तद्धनार्हे पुत्रादौ दद्यात्, न राज्ञा निक्षेप्तुः पुत्रादिभिर् बन्धुभिः (न) नियोक्तव्यः ॥ ८.१८६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अविदितनिक्षेपं स्वयं प्रयच्छतो नास्त्य् अभियोगः । अथ तूद्भावकः कश्चिद् अत्रार्थं दर्षयेद् (?) अधिकम्, ततः— ॥ ८.१८५ ॥

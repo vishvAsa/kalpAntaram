@@ -51,6 +51,11 @@ The *cutting off of the root* indicates total annihilation. Just as when the roo
 taken as an example *per* similarity, then it means ‘earth’,—the earth does not produce the harvest immediately after sowing of seeds; if it is taken as ‘cow’, then it is an example *per* dissimilarity, the meaning being ‘the cow gives its products, in the shape of milk &c. immediately, not so *sin*, which takes time to fructify.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रेणानियमितकालपरिपाकत्वाच्छुभाशुभकर्मणां नाधर्मोऽनुतिष्ठतः तत्काल एवं फलति । गौरिवेह भूमिपक्षे साधर्म्यदृष्टान्तः । यथा भूमिरुप्तबीजमात्रा तदैव प्रचुरपचेलिमफलव्रीहिस्तबकसंव-लिता न भवति किंतु नियमफलपाकसमयमासाद्य ।पशुपक्षे वैधर्म्यदृष्टान्तः । यथा गौः पशुर्वाहदोह्नाभ्यां सद्यः फलति नैवमधर्मः, किंतु क्रमेणावर्तमानः फलोन्मुखीभवन्नधर्मकर्तुर्मूलानि छिनत्ति ।मूलच्छेदेन सर्वनाशो लक्ष्यते । देहधनाद्यन्वितो नश्यति ॥१७२॥
+</details>
+
 <details><summary>Bühler</summary>
 
 172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.

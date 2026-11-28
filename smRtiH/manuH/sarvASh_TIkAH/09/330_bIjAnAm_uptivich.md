@@ -49,6 +49,11 @@ This verse is quoted in *Madanapārijāta* (p. 227);—and in
 See Comparative notes for [Verse 9.326].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बीजानां सर्वेषां वपनविधिज्ञः स्यात्। इदं बीजमस्मिन्काले तत्र संहतं चोप्तंप्ररोहत्यस्मिन्नेत्येवं तथैदलूपरमिदं सस्यप्रदमित्यादि क्षेत्रदोषगुणज्ञश्चस्यात्। मानापायांश्च प्रस्यद्रोणादीन् तुलोपायांश्चसर्वान् तत्त्वतो जानीयात्। यथाऽन्यो न वञ्चयति॥ ३३॥
+</details>
+
 <details><summary>Bühler</summary>
 
 330	He must be acquainted with the (manner of) sowing of seeds, and of the good and bad qualities of fields, and he must perfectly know all measures and weights.

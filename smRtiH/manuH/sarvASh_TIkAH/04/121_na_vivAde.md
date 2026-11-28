@@ -81,11 +81,15 @@ there is sound of dancing or of musical instruments or of weeping or of high win
 arrive, he shall not proceed with his study; but he may go on, on being permitted by him.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न विवाद** इति । व्याक्रोशायां प्रवृत्तायां दण्डादण्डि वा यदोत्पन्नं भवति अप्रवृत्तयुद्धायां वा **सेनायां** प्रवृत्तयुद्धे वा स्थितः भोजनसमनन्तरं च “यावद् आर्द्रपाणिः” इति वसिष्ठस्मरणात् । अपरेद्युश् **चाजीर्णे वमित्वा** चान्नानि **शुक्तके **वोद्गारे नाधीयीत॥ ४.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

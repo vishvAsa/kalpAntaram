@@ -49,6 +49,16 @@ spade. If he has killed emasculated cattle or birds, he must give a load of stra
 bar; for killing a eunuch, lead and tin; for killing a boar, a jar of clarified butter; for killing a camel, gold weighing one *Ratti*: and for killing a horse, a cloth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्पं हत्वा ब्राह्मणाय तीक्ष्णाग्रंलोहदण्डं दद्यात्। नपुंसकं हत्वा पलालभारं सीसकं च माषकं ब्राह्मणाय दद्यात्॥ १३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभ्रिम्** इति । पलालभारकं षण्ढे सीसकं चैव माषकम् ॥ ११.१३२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पलालेनास्य माषकस्य च समुच्चय आनन्तर्यसामर्थ्याद् विज्ञेयः । नाभ्र्या । पलालं चार्थात् गवे गोपतये वा ब्राह्मणाय ॥ ११.१३२ ॥

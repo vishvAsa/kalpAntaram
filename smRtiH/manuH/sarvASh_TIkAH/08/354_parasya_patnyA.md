@@ -66,6 +66,16 @@ place, and to sit, converse or dally with her,—these are the three grades of A
 clothes,—and conversing with her in secret,—is considered an adulterous act of the second degree.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तत्स्त्रीप्रार्थनादिदोषैः पूर्वमुत्पन्नाभिरपवादप्रार्थनाभिशापादिभिः पुरुषः उचितकारणञ्चतिरेकेण परभार्यया संभाषणं कुर्वन्प्रथमसाहसं दण्डं प्राप्नुयात् ॥३५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परस्य पत्न्या पुरुषः सम्भाषां योजयेत् सहेति** । परदारगमनपूर्वदोषैः पूर्वम् उत्पन्नाभिशापः परभार्यया सह सम्भाषणं कुर्यात् सः । प्रथमसाहसं दण्डं प्राप्नुयात् ॥ ८.३५४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आक्षारितः आशङ्क्यमानदोषः । संव्यवहारार्थम् अपि न संभाषेत ॥ ८.३५३ ॥

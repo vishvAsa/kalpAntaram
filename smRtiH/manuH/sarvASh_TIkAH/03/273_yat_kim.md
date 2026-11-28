@@ -53,6 +53,11 @@ hope that he would offer Śrāddha to them with honey, meat, vegetables, milk an
 Śrāddha with a red goat during the rains, during the asterism of Maghā, on the thirteenth day of the month.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यत् किञ्चिन् मधुसंयुक्तम्** इति । **यत् किञ्चिद्** अप्रतिषिद्धं **मधुसंयुक्तं **वर्षाकाले मघात्रयोदश्यां हस्तिसम्बन्धिनी छाया यस्मिन् प्रदेशे प्राचीं दिशं गता तत्र तस्यां छायायां मधुसंयुक्तं पायसं **दद्यात् **॥ ३.२७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 273	Whatever (food), mixed with honey, one gives on the thirteenth lunar day in the rainy season under the asterism of Maghah, that also procures endless (satisfaction).

@@ -69,6 +69,16 @@ hell, if they see a maiden in puberty.’
 give her away in time,—or if the husband does not approach her during her periods,—or if the son does not supply his mother with food,—all these three become legally reprehensible and deserving of punishment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रदानकाले पिता तामददन्गर्ह्योभवति । "प्रदानं प्रागृतोः" इति गौतमवचनादृतोः प्रोक्प्रदानकालः ।पतिश्च ऋतुकाले पत्नीमगच्छन्गर्हणीयो भवति । पत्यौ मृते मातरमरक्षन्पुत्रो निन्द्यःस्यात् ॥ ४ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**काल** इति । “प्रदानं पार्ग् ऋतोर्” इति गौतमस्मरणम् । अस्मिन् काले पिता कन्याद् अदन् गर्ह्यः । ऋतुकाले ऽगच्छन् भर्ता निन्द्यः । पतौ पुनर् मृते मातरम् अरक्षन् पुत्रो गर्हणीयः ॥ ९.४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सर्वदा तत्संरक्षणम् अकुर्वन्तः कन्यादानादि च यथासंभवं वाच्या वचनीयाः स्युः । यत एतद्दोषपरिहारार्थम् एभिः ॥ ९.४ ॥

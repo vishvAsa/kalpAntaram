@@ -47,6 +47,16 @@ qualities of the dishes, he shall feed the Brāhmaṇas slowly, and shall deligh
 *Yama* (Do.).—\[Repeats the second line of Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वयं हृष्टो भूत्वा प्रियवचनादिभिर्ब्राह्मणान्परितोषयेत् ।अन्नं चात्वरया भोजयेत् । मिष्टान्नैः पायसादिभिः “पायसमिदं स्वादु, मोदकोऽयं हृद्यो गृह्यताम्" इत्यादिगुणाभिधानैः पुनर्ब्राह्मणान्प्रेरयेत् ॥२३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हर्षयेद् ब्राह्मणान् हृष्टो भोजयेच् चाशनं शनैः । अन्न्द्येनासकृच् चैनान् गुणैश् च परिशोधयेत् ॥** हृष्टो भूत्वा तैस् तैः प्रियवचनादिभिः **ब्राह्मणान् **तोषयेत् अन्नं चात्वरया **भोजयेत्** पायसादिना घृतपूरादिभिः **एतान् **ब्राह्मणान् इदं गृह्यताम् इत्य् एवं पुनः पुनः प्रबोधयेत् ॥ ३.२३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.

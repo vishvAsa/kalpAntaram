@@ -55,6 +55,16 @@ from the buyer and the seller. The regions of the duty arc the market-place, str
 rates after deducting the expenses incurred:—Half of gold, one-third of silver, one-fourth of copper, one-sixth of zinc and iron, half of gems, half of glass and lead. He should realise one-third, one-fifth, one-seventh, one-tenth and one-twentieth from the collectors of grasses and foods. He should have one-eighth of the increase of goats, sheep, cows, buffaloes and horses, and one-sixteenth of the milk of buffaloes, she-goats, and ewes. Artists and artisans he shall make work for him one day in the fortnight. If the people start new industries or cultivate new lands, dig tanks, canals or wells, etc., the king should not demand anything from them until they have realised a profit double the amount spent by them. Having determined the land-revenue for each village, the king should receive it in advance from one rich man, or a guarantee of monthly or periodical payments. He should realise the one-thirty-second portion of the income of the money-lender. He should receive rents from houses and cultivated lands; also land-tax from shopkeepers; for the preservation and repairs of streets, he should realise dues from the users.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मुलादधिकयोः पशुहिरण्ययोः पञ्चाशद्भागो राज्ञा ग्रहीतव्यः । एवं धान्यानां षष्ठोऽष्टमे द्वादशो वा भागो राज्ञा ग्राह्यः ।भूम्युत्कर्षापकर्षापेक्षया कर्षणादिक्लेशलाघवगौरवापेश्चा बह्वल्पग्रहणविकल्पः ॥१३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चाशद्भाग** इति । मूलाधिकयोः **पशुहिरण्ययोः** पञ्चाशत्तमो भागो **राज्ञा** ग्राह्यः । एवं **धान्यानां** **षष्ठो ऽष्टमो द्वादशो वा** कर्षकक्लेशापेक्षया ग्राह्यः ॥ ७.१३० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 मूल्याधिकयोः पशुहिरण्ययोः **पञ्चाशद्भागो** ग्राह्यः । धान्यानां भागविशेषः सुकरापक्षया कल्प्यः ॥ ७.१३० ॥

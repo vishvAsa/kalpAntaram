@@ -76,11 +76,22 @@ The term ‘*dharma*’, as Burnell rightly remarks, stands for a man’s whole 
 The other ‘*Dvandvas*’ are *Kāma* (Desire)—*Krodha* (Anger)—*Rāga* (Attachment)—*Dveṣa* (Hatred)—‘*Kṣut* (Hunger) —*Pipāsā* (Thirst)—*Harṣa* (joy)—*Viṣāda* (Sorrow)’ and so forth.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मो यज्ञादिः स च कर्तव्यः, अधर्मो ब्रह्मवधादिः स न कर्तव्यः इति कर्मणां विभागाय धर्माधर्मौव्यवेचयत्पृथक्त्वेनाभ्यधात्। धर्मस्य फलं सुखम्, अधर्मस्य फलं दुःखम्। धर्माधर्मफलभूतर्द्वन्द्वःपरस्परविरुद्धः सुखदुःखादिभिरिमाः प्रजा योजितवान्। आदिग्रहणात्कामक्रो-घरामXXXXXXXXXXXXXदिभिः॥२६॥
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कर्मणाम्** इति । अयं **धर्मः** अतस् तत्साधकं दानादिकर्म कर्तव्यम्, अयं पुनर् **अधर्मः** अतस् तत्सम्पादकं चौर्यादि न कार्यम् इत्य् एवं दानचौर्यादिकर्मणां विभागाय **धर्माधर्मौ **पृथक् पृथक् कृतवान् । धर्माधर्मफलभूतैश् च **द्वन्द्वैः** परस्परविरुद्धैः पुत्रोत्पत्तिविनाशादिभिः **सुखदुःखैः**, **आदि**शब्दात् क्षुत्सौहित्यादिभिश् **चेमाः प्रजा** योजितवान् ॥ १.२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

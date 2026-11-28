@@ -31,11 +31,20 @@ The term ‘*anṛce*’ is with the Locative ending; and the term ‘*ṛk*’ 
 germinate and the sower does not reap even a part of the seed, so also the Śrāddha partaken of by undeserving persons confers no benefits either here or elsewhere.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ईरिणमूषरदेशो यत्र बीजमुप्तंन प्ररोहति तत्र यथा बीजमुप्त्वा कर्षको न फलं प्राप्नोत्येवमविदुषे श्राद्धदानफलं दाता न प्राप्नोतीति ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । **यथा **ऊषरे भूप्रदेशे धान्यान्य् उप्त्वा कर्षकः **फलं न **प्राप्नोति एवम् अश्रोत्रियाय श्राद्धादि दत्वा **दाता न फलं **प्राप्नोति । श्रोत्रियदाने वैफल्यकथनार्थम् एतत् ॥ ३.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

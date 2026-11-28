@@ -13,21 +13,16 @@ For the accomplishment of bare maintenance, one shall accumulate wealth by means
 
 - नित्यकर्मनिवृत्तिर् आत्मस्थिताव् एवान्तर्भूतानि ह्य् अकुर्वत न आत्मस्थितिः[^४] । आह च "न निर्वपति पञ्चानाम् उच्छ्वसन् न स जीवति" (म्ध् ३.६२) । अथ वा[^५] सत्य् अपि शास्त्रीयत्वे यत्र लोको[^६] गर्हते तद् वर्ज्यम् एव । यथा नरस्य महाकुलीनस्य भुक्तविभवस्य निकृष्टकुलात् प्राप्तश्रीकात् समानजातीयाद् अपि प्रतिग्रहादिना केनचिद् उपायेन जीवनम् । 
 
-
 [^६]:
      M G 1st ed.: loke
 
-
 [^५]:
      DK (5: 1160) suggests omitting: atha vā
-
 
 [^४]:
      M G: na hy akurvata ātmasthitiḥ
 
 - **अक्लेशेन शरीरस्य** । सेवावाणिज्ये महाक्लेशे दूराध्वगमनादिना । तादृशे न कर्तव्ये । **संचयो** राशीकृतपरिरक्षणम् ॥ ४.३ ॥
-
-_तानीदानीं कर्माणि नामतस् तावद् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -45,11 +40,20 @@ Or, what is meant is that, even though a certain means of accumulating wealth ma
 ‘*Accumulation*.’—Collecting and keeping.—(3).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यात्रा प्राणस्थितिः शास्त्रीयकुटुम्बसंवर्धननित्यकर्मानुष्ठानपूर्वकप्राणस्थितिमात्रार्थं, न तु भोगार्थं स्वसंबन्धितया शास्त्रविहितार्जनरूपैः कर्मभिर्ऋतादिवक्ष्यमाणैः कायक्लेशं विनाऽर्थसङ्ग्रहं कुर्यात् ॥३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यात्रामात्रप्रसिद्ध्यर्थम्** इति । शास्त्रोक्तैः **कर्मभिः** वक्ष्यमाणैः ऋतादिभिर् अनिन्दितैः शरीरक्लेशपरिहारेण भार्याभरणनित्यानुष्ठानपूर्वकं प्राणवृत्तिसमाप्तिपरिमाणम् अर्थसङ्ग्रहं **कुर्वीत**, नाधिकम् इति नियमः ॥ ४.३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 003	For the purpose of gaining bare subsistence, let him accumulate property by (following those) irreproachable occupations (which are prescribed for) his (caste), without (unduly) fatiguing his body.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

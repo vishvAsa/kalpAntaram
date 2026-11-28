@@ -92,6 +92,16 @@ a renunciate, or remain abroad for twenty years,—that debt shall be discharged
 invalid, even though alive,—or if he has been away from the country for twenty years,—the debts contracted by him should be paid by his sons. The debt contracted by the family, either during illness, or during a calamity, or in connection with the daughter’s marriage, or a Śrāddha, should be paid by the head of the family.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋणग्रहीता यदि मृतः स्यात्तेन पूर्वविभक्ताविभक्तसर्वभ्रातृकुटुम्बसम्वधनार्थं तद्दणव्ययः कृतः, तदा तदृणं विभक्तैरविभक्तैश्च स्वधनाद्दातव्यम् ॥१६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ग्रहीतेति** । अविभक्तो विभक्तो वा भ्रात्रादिसाधारणकुटुम्बव्ययार्थं विभक्तभातृकुटुम्बव्ययार्थं च ऋणं गृहीत्वा कुटुम्बव्ययकृत् मृतो बाधितो वा तदा तद् ऋणं अविभक्तैर् विभक्तैर् वा ऋक्थिभिः स्वधनाद् दातव्यम् ॥ ८.१६६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थ एव श्लोकः ॥ ८.१६५ ॥

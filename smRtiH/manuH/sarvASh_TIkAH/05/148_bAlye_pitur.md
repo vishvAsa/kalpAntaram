@@ -52,11 +52,26 @@ unmarried; her husband, when she has been married; her sons in her old age; in t
 side, the king is the supporter and master of the woman; he shall support her and chastise her, if she deviates from the right path.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+किंतु बाल्ये पितुर्वशे तिष्ठेत् । यौवने भर्तुः । भर्तरि मृते पुत्राणाम् । तदभावे
+
+**तत्सपिण्डेषु चासत्सु पितृपक्षः प्रभुः स्त्रियः ।**
+
+**पक्षद्वयावसाने तु राजा भर्ता स्त्रिया मतः ॥**
+
+इति नारदेवचनाज्ज्ञातिराजादीनामायत्ता स्यात्कदाचिन्नः स्वतन्त्रा भवेत् ॥१४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं तर्हि **बाल्य** इति । **पुत्राणां भर्तरि प्रेते न भजेत् स्त्री स्वतन्त्रताम् **। बाल्ययौवनभर्तृप्रमीतेषु पितृभर्तृपुत्राणाम् आयत्ता भवेत् तदभावे ऽपि ज्ञातिराजायत्ता स्यात् । न तु कदाचित् स्वातन्त्र्यम् आश्रयेत् ॥ ५.१४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 148	In childhood a female must be subject to her father, in youth to her husband, when her lord is dead to her sons; a woman must never be independent.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

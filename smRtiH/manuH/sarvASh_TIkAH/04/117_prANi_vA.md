@@ -38,6 +38,11 @@ connected with the Śrāddha,—on the acceptance of all this, it becomes unfit 
 Śrāddha, the rest of the day becomes unfit for study;—after eating, till digestion; the Brāhmaṇa has his hands for his mouth. In this connection they cite the following:—There is no difference between what is eaten and what is received in gift.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+गोहिरण्यादि **यत् किञ्चित्** श्राद्धार्थं तत् स्पृष्ट्वाप्य् अनध्यायः । किम् उत प्रतिगृह्य । यस्मात् पाणिर् एवास्यम् अस्येति **पाण्यास्यो **ब्राह्मणः ॥ ४.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.

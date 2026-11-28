@@ -47,6 +47,16 @@ articles of food,—‘*bhūmau*’ as ‘not on the feeding-dish itself *i*.
 *Yama*.—(Do.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुणान्व्यञ्जनानि, अन्नापेक्षयाऽप्राधान्याद् गुणयुक्तान्वा सुपशाकाद्यान्प्रयतः शुचिः समाहितः अनन्यमनाः सम्यक् यथा न विशीयन्ति तथा भूमावेव स्वपात्रस्थाने स्थापयेन्न दारूफलकादौ ॥२२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुणान्** इति । सूपादीनि व्यञ्जनानि क्षीरादीनि चोपसेचनानि प्राधान्यात् पृथक् पृथक् यथोपदिष्टानि **प्रयतः **शुचिः **समाहितः** अनन्यमनाः सन् यथा न विशीर्यन्ते तथा **भूमाव् एव **नान्यत्र स्थापयेत् ॥ ३.२२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,

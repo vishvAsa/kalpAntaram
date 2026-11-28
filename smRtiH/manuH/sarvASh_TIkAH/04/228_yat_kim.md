@@ -34,11 +34,20 @@ This verse is quoted in *Aparārka* (p. 385);—and in *Hemādri* (Dāna, p. 7).
 some trouble or for the maintenance of his family,—he shall give what is asked for, after due investigation. Such is the law relating to all gifts.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रार्थितेन परगुणामत्सरेणान्नमपि यथाशक्ति दातव्यम् ।यस्मात्सर्वदा दानशीलस्य कदाचित्तादृशं पात्रमागमिष्यति तत्सर्वस्मान्नरकहेतोर्माचयिष्यति ॥२२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् किञ्चिद्** इति । प्रार्थितेन अकृतदोषविचारेण स्वल्पम् अपि यथासम्भवं दातव्यम् । यस्माद् अनवरतं दानप्रवृत्तस्य कदाचिद् अवश्यं तथाविधं पात्रम् आगमिष्यति यत् दृष्टादृष्टदोषेभ्यो मोचयति ॥ ४.२२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 228	If he is asked, let him always give something, be it ever so little, without grudging; for a worthy recipient will (perhaps) be found who saves him from all (guilt).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

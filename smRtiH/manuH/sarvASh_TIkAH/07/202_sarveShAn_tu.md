@@ -38,6 +38,16 @@ should invest a prince of the royal race of that country with the royal dignity.
 have been wicked, the conqueror should not destroy the Kingdom.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+येषां शत्रुनृपामात्यानां सर्वेषामेव संक्षेपतोऽभिप्रायं ज्ञात्वा तस्मिन्राष्ट्रे बलनिहतराजवंश्यमेव राज्येऽभिषेचयेत् । इदं कार्यं त्वया, इदं नेति तस्य तदमात्यानां च नियमं कुर्यात् ॥२०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वेषाम्** इति । तेषां परकीयानां सर्वेषां सङ्क्षेपतो ऽभिलषितं ज्ञात्वा तस्मिन् जितराष्ट्रे जितराजान्वयिनम् अभिषेचयेत् । राज्ये इदं त्वया कार्यम् इदं नेत्य् एवं तस्य तदमात्यादीनां परिभाषणं च कुर्यात् ॥ ७.२०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 202	But having fully ascertained the wishes of all the (conquered), let him place there a relative of the (vanquished ruler on the throne), and let him impose his conditions.

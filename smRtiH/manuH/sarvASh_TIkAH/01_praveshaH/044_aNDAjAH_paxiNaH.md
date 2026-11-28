@@ -23,6 +23,16 @@ Birds, snakes, crocodiles and tortoises form another group and born from eggs, j
 ‘*Crocodiles*’—includes the Porpoise and the rest;—‘*Kacchapāḥ*’ are the Tortoises;—‘*other animals of similar kinds’—i.e*., wizards (lizards?) and the like, which are ‘*terrestrial*,’ born on land, and such others of similar kinds as are ‘*aquatic*’ born in water; such, for instance, as conches and the rest.—(44)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अण्ड आदौ संभवन्ति ततो जायन्त इति एषां जन्मक्रमः।नक्राः कुम्भीराः। स्थलजानि कृकलासादीनि। औदकानि शादीनि॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अण्डजा** इति । अण्डे आदौ सम्भवन्ति । ततो जायन्ते **नक्रः **शिशुमाराख्यः प्राणी । **कच्छपः **कूर्मः । **स्थलजानि **कृकलासादीनि । **औदकानि च** शङ्खादीनि ॥ १.४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 044	From eggs are born birds, snakes, crocodiles, fishes, tortoises, as well as similar terrestrial and aquatic (animals).

@@ -35,6 +35,16 @@ This verse is quoted in *Aparārka* (p. 223.)
 unfit for heaven for a hundred years.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्विजातिरपि ब्राह्मणस्य हननार्थं दण्डादिकमुद्यम्यव न तु निपात्य वर्षशतं तामिस्रादिनरके परिश्रमति ॥१६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणायेति । द्विजातिर् **अपि हननेच्छया ब्राह्मणस्य दण्डाद्युद्यम्यैव वर्षशतं तामिस्राख्ये नरके परिभ्राम्यति ॥ ४.१६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.

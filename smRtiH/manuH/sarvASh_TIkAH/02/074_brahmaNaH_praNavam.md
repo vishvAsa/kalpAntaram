@@ -58,11 +58,20 @@ Heaven; therefore when going to read the Veda, one should begin with it.’
 *Viṣṇu-Smṛti*, 30,33.—‘The Praṇava should be pronounced.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मणो वेदस्याध्ययनारम्भे अध्ययनसमाप्तौ च ॐकारं कुर्यात् । यस्मात्पूर्वं यस्योङ्कारो न कृतस्तत्स्र-वति शनैः शनैर्नश्यति । यस्य पुरस्तान्न कृतस्तद्विशीर्यति अवस्थितिमेव न लभते ॥७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मण** इति । वेदपाठस्यारम्भान्तयोः ओङ्कारं **सर्वदा **ग्रहणार्थाध्यापनकालात् कालान्तरे ऽपि कुर्यात् । यस्माद् यस्य ब्रह्मणः **पूर्वम् अनोङ्कृतः **तत् **स्रवति **गृहीतम् अपि विस्मृत्य गच्छति । **परस्ताच् च विशीर्यते **। यस्य न कृतः तद् विशीर्यते नैव गृह्यते ॥ २.७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

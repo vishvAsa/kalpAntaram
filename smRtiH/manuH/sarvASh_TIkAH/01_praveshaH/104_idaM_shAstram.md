@@ -28,11 +28,20 @@ Knowing these Institutes, the Brāhmaṇa, comes to ‘*discharge all prescribed
 This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 10) which reads ‘*saṃśita*’ for ‘*śaṃsita*’ and adds that the term here stands for ‘twice-born’ persons.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इदं शास्त्रं पठन्नेतदीयमर्थं ज्ञात्वा शंसितव्रतोऽनुष्ठितव्रतः मनोवाक्कायसंभवैः पापैर्न संबध्यते॥१०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इदम्** इति । **इदं शास्त्रं **पठन् **ब्राह्मणः **एतदर्थावबोधेन **शंसितव्रतः **अविकलयमनियमः सन् **मनोवाक्कायजैर्** विहिताकरणप्रतिषेधसेवनजनितैः पापैः न सम्बध्यते ॥ १.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

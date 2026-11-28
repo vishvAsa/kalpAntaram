@@ -60,11 +60,20 @@ unknown or one which has the same *Ṛṣis*. The first six are to ho avoided be
 for sacrificial performances; and one in which the Veda is unknown is to be avoided, because it would he unfit, for divine rites; one having the same *Ṛṣis* as the man himself is to he avoided because it is the same family. For these reasons one should examine seven generations on the father’s side and live on the mother’s side and then select as his wife a girl who has not attained puberty, is endowed with superior qualities and has a brother. He shall always select one who is fully qualified as regards family, the asterism under which she has been born, and learning and wisdom.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उत्कृष्टान्यपि गवादिभिः समुद्धान्यपि इमानि दश कुलानि विवाहे त्यजेत् ॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**महान्तीति ।** इमानि **दश** वक्ष्यमाणानि **कुलानि **उत्कृष्टान्य् अपि **वर्जयेत् **। तथा गोछागाविमहिषीधान्यैः **समृद्धान्य् अपि** तच्छीलप्रजोत्पत्तिव्याधिसङ्क्रान्तिपरिहारार्थं शास्त्रनोदनासामर्थाद् अदृष्टदोषपरिहारार्थं च दारसम्बन्धीति **वर्जयेत्** ॥ ३.६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 006	In connecting himself with a wife, let him carefully avoid the ten following families, be they ever so great, or rich in kine, horses, sheep, grain, or (other) property,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

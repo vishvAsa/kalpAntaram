@@ -30,6 +30,11 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 172);—and in
 trees, even so does the fire of the Veda destroy one’s guilt caused by one's deeds.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति **। यथातिप्रवृद्धो ऽग्निः आर्द्रान् अपि वृक्षान् दहति एवं वेदज्ञानसामर्थ्यात् शिष्टाकरणनिषिद्धसेवनजं पापम् आत्मनो नाशयतीत्य् एवं च न केवलं वेददृष्टप्राप्तिहेतुर् यावद् अनिष्टनिवृत्तिर् अपि ॥ १२.१०१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतस्मात् कारणात्,

@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 167);—and in
 elephants, horses, chariots, cattle, servants, officers, provisions and soldiers; preserving and maintaining the lit and discarding the unfit.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतालङ्कारः सन्नायुधजीविनं, वाहनानि हस्त्यश्वादीनि, सर्वाणि च शस्त्राणि खड्गादीनि, अलङ्काररचनादीनि च पश्येत् ॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अलङ्कृत** इति । **अलङ्क्र्तश् च **सन्न् आयुधजीविनं **पुनर् जनं** **वाहनानि** चाश्वादीनि **सर्वाणि** खड्गादीनि च शस्त्राण्य् अलङ्करणानि च **सम्पश्येत्** ॥ ७.२२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 222	Adorned (with his robes of state), let him again inspect his fighting men, all his chariots and beasts of burden, the weapons and accoutrements.

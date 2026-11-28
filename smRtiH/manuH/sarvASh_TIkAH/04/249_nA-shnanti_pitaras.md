@@ -41,11 +41,28 @@ This verse is quoted in *Aparārka* (p. 407);—and in *Hemādri* (Dāna, p. 56)
 *Viṣṇu* (57.12).—(Do.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ चिकित्सककृतघ्नानां शिल्पकर्तुश्च वार्धुषेः ।**
+
+**षण्ढस्य कुलटायाश्च उद्यतामपि वर्जयेत् ॥१८॥**
+
+**न विद्यमानमेवं वै प्रतिग्राह्यं विजानता ।**
+
+**विकल्प्याविद्यमाने तु धर्महीनः प्रकीर्तितः ॥१९॥ \]**
+
+तनापकल्पितं श्राद्धेषु कव्यं पञ्चदश वर्षाणि पितरो न भुञ्जते । न च यज्ञेषु तेन दत्तं पुरोडाशादि हव्यमग्निर्वहति देवान्प्रापयति, यस्तां भिक्षां न स्वीकरोति ॥२४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नाश्नन्तीति **। तदीयं कव्यं **पञ्चदशवर्षाणि पितरो **नादन्ति **हव्यं च **पुरोडाशादि देवान् प्रति **अग्निः **न प्रापयति **यस् तां **भिक्षां प्रत्याचष्टे ॥ ४.२४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

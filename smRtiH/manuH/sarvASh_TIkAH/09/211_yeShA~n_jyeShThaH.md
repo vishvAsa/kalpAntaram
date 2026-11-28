@@ -66,6 +66,18 @@ issue, should renounce the world, or die,—the remaining brothers shall divide 
 be taken by re-united co-parceners; those of brothers living separately by those living separately;—in both cases, if there is no wife or other heir.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+येषां भ्रातॄणां मध्ये कश्चिद्विभागकालेप्रव्रज्यादिगा ल्वांश +++++++++भागो न लुप्यते ॥ २११ ॥
+
+किन्तु—
+
+**सोदर्या विभजेरंस्तं ++++++सहिताः समम्।  
+भ्रातरो ये चसंसा +++++++++++++++++॥**
+
+सोदर्या भ्रातरः समागम्य सहिताः भगिन्यश्च++++++++++समं कृत्वा विभजेत्सोदर्याणां सापत्न्यानमपि मध्याद्ये मिश्रीकृतधनत्वेनैकयोगक्षॆमान्ते विभजेयुः समं ..... सोदर्या सापत्न्या वा । एतच्च पुत्रपत्नी+++++++++भगिन्यश्च न्याय सोयी कर्म करका विमनरल्लोकर्याणां सापत्न्यानामपि मध्याचे योगक्षेमालते विजेतले सर्व लोकक
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रोषितस्य मृतस्य वा भागम् उद्धृत्य ॥ ९.२११ ॥

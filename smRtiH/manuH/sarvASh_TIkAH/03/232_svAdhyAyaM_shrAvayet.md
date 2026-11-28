@@ -65,6 +65,16 @@ with *svadhā* and the *Madhu-ṛks*—these should be recited to the eaters.’
 mantras.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वाध्यायं वेदं, मानवादीनि धर्मशास्त्राणि, आख्यानानि सौपर्णमैत्रावरुणादीनि, इतिहासान्महाभारतादीन्, पुराणानि ब्रह्मपुराणादीनि, खिलानि श्रीसूक्तशिवसङ्कल्पादीनि श्राद्धे ब्राह्मणान्श्रावयेत् ॥२३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वाध्यायं श्रावयेत् पित्र्यम्** इति । वेदमानवादिशास्त्राणि **आख्यानानि **सौपर्णमैत्रावरुणादीनि पृथक् वेदोदितानि भारतादीनि वाय्वादिप्रोक्तानि शिवसङ्कल्पादीनि श्राद्धे ब्राह्मणान् **श्रावयेत्** ॥ ३.२३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 232	At a (sacrifice in honour) of the manes, he must let (his guests) hear the Veda, the Institutes of the sacred law, legends, tales, Puranas, and Khilas.

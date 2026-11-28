@@ -19,11 +19,15 @@ This verse recapitulates what has been said before.
 By means of his own ‘*waking and sleeping*,’ he produces and destroys the world consisting of *moveable and immoveable* beings, *i.e*., vegetables and animals. ‘*Imperishable*’—Indestructible.—(57).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **स** ब्रह्मा अनेन प्रकारेण आत्मीयाभ्यां **जाग्रत्स्वप्नाभ्यां** जङ्गमस्थावरम् **अजस्रं **अनवरतं **जीवयति** मारयति चानश्वरः ॥ १.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

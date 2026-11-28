@@ -42,11 +42,20 @@ Dharma, its gift is superior to all gifts; he who makes a gift of it obtains the
 gifts*;—*viz*., of cows, land and Veda; these three bring about the salvation of the giver through recitation, sowing and milking.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदकान्नधेनुभूमिवस्त्रतिलसुवर्णघृतादीनां सर्वेषामेव यानि दानानि तेषां मध्यात् वेददान विशिष्यते प्रकृष्टफलदं भवति ॥२३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वेषाम् **इति । जलान्नगोभूवस्त्रतिलसुवर्णघृतादीनां सर्वेषां यानि दानानि तेषां मध्याद् वेददानं फलाधिक्यात् **विशिष्यते** ॥ ४.२३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

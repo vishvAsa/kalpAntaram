@@ -12,15 +12,11 @@ If the Brāhmaṇa is unable to subsist by his own occupation as described above
 
 यदास्य शरीरकुटुम्बनित्यकर्मावसादो भवति, न तेभ्यः पर्याप्तं[^१६३] धनं भवति, तदायम् **अजीवन्न्** इत्य् उच्यते । **यथोक्तेन** अध्यापनादिना । तदा क्षत्रियवत् ग्रामनगररक्षादिना शस्त्रास्त्रधारणेन, सति संभवे सर्वाधिपत्येन **जीवेत्** । जीवतिर् व्याख्यातार्थः शरीरमात्रसंधारणे न वर्तते । किं तर्हि, कुटुम्बस्य कर्माणि नित्यकर्मावस्थितिम्[^१६४] अपि लक्षयति । **स ह्य् अस्य प्रत्यनन्तरः** । अनन्तर एव प्रत्यनन्तरः । हेतुवचनाद् व्यवहितनिवृत्तिः पापकारी । ॥ १०.८१ ॥
 
-
 [^१६४]:
      M G: kuṭumbasvakarmanityakarmāvasthitam; J: kuṭumbasvakarmāṇi nityakarmāvasthitām
 
-
 [^१६३]:
      M G: prāptaṃ
-
-_स्ववृत्तिपरित्यागे ऽपि नैवं मन्तव्यं शास्त्रातिक्रमकृतस् तत्र न विशेषो वैश्यशूदेष्व् अपीति । तथा चाह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -63,6 +59,16 @@ himself by the occupation of the Kṣatriya, or by that of the Vaiśya; but havi
 
 *Nārada* (1.56-60).—‘In times of distress, a Brāhmaṇa is allowed to gain
 his subsistence in the mode prescribed for the caste next to him in rank; or he may gain his subsistence like a Vaiśya. But he must never resort to the mode of livelihood prescribed for the lowest caste. At no time should a Brāhmaṇa follow the occupations of a man of vile caste, or a vile man the occupations of a Brāhmaṇa; in either case, expulsion from caste would be the immediate consequence... When a Brāhmaṇa has lived through the times of distress, with the wealth acquired by following the occupations of the Kṣatriya, he must perform a penance and relinquish those occupations. When a Brāhmaṇa takes delight in those occupations and persists in them, he is declared to be a *Kāṇḍapṛṣṭha* and must be expelled from society, because he has swerved from the path of duty.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यथोक्तेनाध्यापनादिस्वकर्मणा ब्राह्मणो नित्यकर्मानुष्ठानकुटुम्बसम्वर्धनपूर्वकमजीवन क्षत्रियकर्मणा ग्रामनगररक्षणादिना जीवेत्। यस्मात्क्षत्रियधर्माऽस्य सन्निकृष्टा वृत्तिः॥ ८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं नैसर्गिकं स्वधर्मम् एषाम् उक्त्वाधुनापद्धर्मम् आह **अजीवन्न्** इति । उक्तरूपेण पुनर् अध्यापनादिना स्वकर्मणा ब्राह्मणकुटुम्बस्थितिनित्यकर्मानुष्ठानपूर्वकम् अजीवन् क्षत्रियकर्मणा ग्रामरक्षणनगरादिना जीवेत्, यस्मात् सो ऽस्य सन्निकृष्टवर्णनोदितत्वात् सन्निकृष्टा वृत्तिः ॥ १०.८१ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

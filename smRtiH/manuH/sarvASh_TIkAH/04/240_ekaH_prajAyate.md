@@ -46,6 +46,16 @@ This verse is quoted in *Aparārka* (p. 232);—and in *Vīramitrodaya* (Paribh�
 he dies, alone by himself does he pass through difficulties, and by himself alone does he fall into misfortune.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एक एव प्राण्युत्पद्यते न बान्धवैः सहितः । एक एव च म्रियते । फलमपि स्वर्गादिकं, दुरितकलं च नरकादिकमेक एव भुङ्क्तेन मात्रादिभिः सह । तस्मान्मात्राद्यपेक्षयाऽपि धर्मं न त्यजेत् ॥२४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एक** इति । **एक **एव सन् प्राणी उत्पद्यते न बान्धवैः सहैव । **एक एव **म्रियते । सुकृतदुष्कृतफले च **एक एव भूक्क्ते** । अतो मात्रादीनां जननमरणदुष्कृतपीडांशभोक्तृत्वाभावात् न तदपेक्षया धर्मं जह्यात् ॥ ४.२४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.

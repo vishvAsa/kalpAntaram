@@ -47,11 +47,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 488); in
 See Comparative notes for [Verse 2.56].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अरोगो रोगाभावस्तस्मै हितमारोग्यम्, आयुषे हितमायुष्यम् । यस्मादतिभोजनमनारोग्यमनायुष्यं च भवति अजीर्णजनकत्वेन रोगमरणहेतुत्वात् । अस्वर्ग्यंच स्वर्गहेतुयागादिविरोधित्वात् । अपुण्यमितरपुण्यप्रतिपक्षत्वा । लोकविद्विष्टं बहुभोजितया लोकैर्निन्दनात् । तस्मात्तन्न कुर्यात् ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनारोग्यम्** इति । यस्माद् रोगहेतुत्वात् **अनारोग्य**कृद् इति च प्राणहरं विष्ठादिकाद्युत्पादाद् अप्य् नायुष्यं च, **अस्वर्ग्यं** च [अ]दृष्टार्थजनकत्वेनापि शास्त्रनोदनासामर्थ्यात् अतिक्रमेण कर्मान्तरार्जितस्वर्गोपभोगप्रतिबन्धत्वात् । **अपुण्यं** च तद्धेतुत्वात्, **लोकविद्विष्टं** च बहुभोजिनम् अवलोक्य गर्हणं तत् परिवर्जयेद् इति सम्भूतदोषकथनेन प्रकृति[त]निन्दार्थवादो विद्वेषणर्थः ॥ २.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Excessive eating is prejudicial to health, to fame, and to (bliss in) heaven; it prevents (the acquisition of) spiritual merit, and is odious among men; one ought, for these reasons, to avoid it carefully.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

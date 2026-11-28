@@ -44,6 +44,11 @@ brothers in common, it shall be shared equally by all. Among sons of the several
 several brothers living together,—in that property all are equal sharers; if each of them has an equal and unequal number of sons, these latter shall take the shares of their respective fathers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भ्रातॄणां पित्रा सहावस्थितानामविभक्तानां यदि सह धनार्जनार्थमु.धानं धानं भवेत्तदाविभागकाले न कस्यचित्पुत्रस्याधिकं पिता कदाचिद्दद्यात् ॥ २१६ \।\।
+</details>
+
 <details><summary>Bühler</summary>
 
 215	If undivided brethren, (living with their father,) together make an exertion (for gain), the father shall on no account give to them unequal shares (on a division of the estate).

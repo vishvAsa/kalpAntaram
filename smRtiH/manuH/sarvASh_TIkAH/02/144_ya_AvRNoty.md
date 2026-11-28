@@ -85,11 +85,20 @@ him.’
 regarded as similar to Viṣṇu.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+य उभौ कर्णौअवितथमिति वर्णस्वरबैगुण्यरहितेन सत्यरूपेण वेदेनापूरयति स माता पिता च ज्ञेयः ।महोपकारकत्वगुणयोगादयमध्यापको माताप्रितृशब्दवाच्यस्तं नापकुर्यात् । कदाचनेति गृहीते वेदे ॥१४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य आवृणोतीति **। आपूरयत्य् **अवितथं** विस्वरादिरहितं कृत्वा वेदेनोभौ कर्णौ **स मातापितृवत् ज्ञेयः** । तस्मै चाध्ययनोत्तरकाले ऽपि द्रोहं न कुर्यात् ॥ २.१४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

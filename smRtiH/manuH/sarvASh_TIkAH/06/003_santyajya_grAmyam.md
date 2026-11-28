@@ -61,11 +61,20 @@ corn,—having gathered these and other sacrificial food, he shall offer these a
 wearing matted locks and skins, performing Agnihotra and Baths, worshipping gods, Pitṛs and guests and living on wild-growing things.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्राम्यं व्रीहियवादिकं भक्ष्यं सर्वं च गवाश्वराय्यादिपरिच्छदं परित्यज्य विद्यमानभार्यश्च वनवासमनिच्छन्तीं भार्यापुत्रेषु समर्प्य इच्छन्त्या सहैव वनं गच्छेत्॥३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सन्त्यज्येति** । ग्रामोद्भवान्नभक्षणं गवाश्वादि च सर्वं त्यक्त्वा भार्या पुत्रेषु समर्प्य सह वा तया वनं गच्छेत् ॥ ६.३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 003	Abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -40,11 +40,20 @@ ground by the Brāhmaṇas should be offered for such honest and hard working sl
 scattered, as also the smearings and water,—should be offered as food for those who may have died young, or for children.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उच्छिष्टं यद् भूमिगतं, तद्दाससमूहस्यावक्रस्यानलसस्याक्कुटिलस्य च पित्र्ये श्राद्धकर्मणि भागधेयं सन्वादयो वदन्ति ॥२४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उच्छेषणम्** इति । भूमिपतितं यद् उच्छिष्टं तत् अकुटिलस्य अनलसस्य दासगणस्य **भागधेयं** भागं मन्वादयः प्राहुः ॥ ३.२४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

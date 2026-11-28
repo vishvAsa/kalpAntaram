@@ -81,6 +81,16 @@ daughter or daughter-in-law is crime of the highest degree. Such criminals of th
 down on a heated iron-bed along with the iron-image of a woman; or cutting out his testicles and holding them he shall give up his body towards the south; or he shall perform the *Prājāpatya* penance for one year, or the *Cāndrāyaṇa* for three months, and shall repeat the Vedic text.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"निषेकादीनि कर्माणि” (म. स्मृ. २-१४२) इत्युक्तत्वाद् गुरुः पिता, तल्पं भार्यां, गुरुतल्पं गुरुभार्यांतद्गामी गुरुभार्यागमनपापं विख्याप्य लोहमये तप्तशयने स्वप्यात्। लोहमयींस्त्रीप्रतिकृतिंकृत्वा ज्वलन्तीमालिङ्ग्यमृत्युना स विशुद्धो भवति॥ १०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुतल्पीति** । गुरुभार्यागमनपापम् अभिभाष्य जवलदायसे शयनं शयीत । “स्त्रीप्रकृतिं वा कार्ष्णायसीं कृताम्” इति संवर्तस्मरणाद् अयोमयीं ज्वलन्तीम् आलिङ्गेद् एवं मरणेनासौ शुध्यति ॥ ११.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	He who has violated his Guru's bed, shall, after confessing his crime, extend himself on a heated iron bed, or embrace the red-hot image (of a woman); by dying he becomes pure;

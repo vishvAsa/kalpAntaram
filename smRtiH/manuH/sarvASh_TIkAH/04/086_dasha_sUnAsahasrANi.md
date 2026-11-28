@@ -10,8 +10,6 @@ A king has been declared to be equal to a butcher who maintains ten thousand sla
 <details><summary>मेधातिथिः</summary>
 
 सूनया चरति **सौनिकः** । **वाहयति** स्वार्थसाधने व्यापारयति । **घोरः** भीषणो ऽयम्, नरकादिहेतुत्वात् ॥ ४.८६ ॥
-
-_अवयुत्यवादेन राजप्रतिग्रहे निन्दा ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -34,11 +32,15 @@ This verse is quoted in *Aparārka* (p. 185).
 Manu.\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं चोक्तकलनया – **दशसूनासहस्राणीति **। **दशसूनासहस्राणियः सौनिकः **स्वार्थे व्यापारयति **तेन तुल्यो राजा** मन्वादिभिः **स्मृतः **। अतस् तत्सम्बन्धी **प्रतिग्रहो **नरकपातहेतुत्वात् भीषनीयः ॥ ४.८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 086	A king is declared to be equal (in wickedness) to a butcher who keeps a hundred thousand slaughter-houses; to accept presents from him is a terrible (crime).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

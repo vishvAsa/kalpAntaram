@@ -46,6 +46,22 @@ This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 205),—and in
 same guilt as in that regarding land; likewise by false evidence regarding criminal intercourse.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[पशुवत्क्षौद्रघृतयेार्यानेषु च तथाश्ववत् ।**
+
+**    गोवद्रजतवस्त्रेषु धान्ये ब्राह्मणवद्विधिः ॥११॥ \]**
+
+तरागकूपग्राह्योदकविषयेऽनृते, स्त्रीणां च मैथुनाख्योपभोगविषये, अब्जेषु च, रत्नेषु च
+
+इत्येतया वरुणदेवताक्या**“आपो हि ष्ठा”** इति तृचेन वाग्देवताकेन जुहुयात् । घृतमग्नाविक्ति सर्वत्रानुषङ्गः ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अप्स्व्** इति । उदकविषये ऽनृते स्त्रीणां भोगेषु विषये अब्जेषु पद्मरागादिषु पाषाणमयेषु च सर्ववैडूर्यदिषु अनृते भूमिवद् दोषं आहुः सर्वं हन्तीति ॥ ८.१०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 100	'They declare (false evidence) concerning water, concerning the carnal enjoyment of women, and concerning all gems, produced in water, or consisting of stones (to be) equally (wicked) as a lie concerning land.

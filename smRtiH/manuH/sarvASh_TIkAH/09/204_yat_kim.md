@@ -94,6 +94,11 @@ property shall receive two shares.’
 acquire property through learning, valour, or other independent effort of his own, a double share must be given to him; the rest shall take equal shares. Whatever has been given to one by the paternal grandfather, or the father, or the mother, all that shall not be taken from him; he shall keep likewise the property acquired by valour, and also the wealth of his wife.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पितरिमृतेसति भ्रातृभिः सहाविभक्तोज्येष्ठःकिंचित्स्वेन पौरुषेण धनं लभते। ततो धनाद्विद्याभ्यासवताम्कनिष्ठभ्रातॄणां भागो भवति, नेतरेषाम्॥ २०४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ज्येष्ठलब्धस्य वैद्याः सन्तो भागिनो यवीयांसः, न तु कनिष्ठलब्धस्य ज्यायान् इत्य् एतद् अर्थाल् [लभ्यते] ॥ ९.२०४ ॥

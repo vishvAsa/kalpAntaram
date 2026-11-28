@@ -39,6 +39,16 @@ ordainer of security in whose kingdom there is no fear of thieves, either in vil
 sin being very much enhanced cuts off the very roots of that king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्य राज्ञोऽमात्यादिसहितस्य पश्यत एव राष्ट्रादाक्रोशन्त्यः प्रजास्तस्करादिमिरपि हियन्ते स मृत एव, न तु जीवति । जीवनकार्याभावाज्जीवनमपि तस्य मरणमेवेत्यर्थः ॥१४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विक्रोशन्य** इति । **यस्य** राज्ञः सभृत्यस्य पश्यत एव **राष्ट्राद्** आक्रन्दन्त्यः **प्रजाः** शत्रुप्रभृतिभिर् अपह्रियन्ते स्वजीवितकार्याभावात् **मृत** एव, **न तु जीवति** ॥ ७.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 143	That (monarch) whose subjects are carried off by robbers (Dasyu) from his kingdom, while they loudly call (for help), and he and his servants are (quietly) looking on, is a dead and not a living (king).

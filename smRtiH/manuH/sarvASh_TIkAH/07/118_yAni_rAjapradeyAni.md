@@ -43,6 +43,16 @@ is to be maintained by three such parts, charity with half such part, entertainm
 village, which is large, prosperous and well-populated. The Lord of a thousand villages enjoys a *Śākhā-nagara*, a sub-city.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यान्यन्नपानेन्धनादीनि ग्रामवासिभिः प्रत्यहं राज्ञे देयानि, न त्वब्दकरें “धान्यानामष्टभो भागः” (म. स्मृ. ७ - १३०) इत्यादिकं, तानि ग्रामाधिपतिर्वृत्यर्थं गृह्णीयात् ॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानीति** । **यानि** ग्रामवासिभिर् अन्नपानादीनि सर्वाणि स्वामिने दातव्यानि तानि ग्रामाधिपतिर् गृह्णीयात् ॥ ७.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	Those (articles) which the villagers ought to furnish daily to the king, such as food, drink, and fuel, the lord of one village shall obtain.

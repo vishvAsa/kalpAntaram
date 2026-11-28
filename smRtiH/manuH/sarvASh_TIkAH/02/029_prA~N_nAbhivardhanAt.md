@@ -263,11 +263,20 @@ p. 440).—‘Gods and Pitṛs come to the house of the twice-born whenever a so
 hence that day is sacred; hence one should give away vessels full of sesamum, along with gold; and having invited Brāhmaṇas, one should make offerings to the Pitṛs; and prior to the cutting of the umbilical cord, they make
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नाभिच्छेदनात्प्राक् पुरुषस्य जातकर्माख्यः संस्कारः क्रियते । तदा चास्य स्वगृह्योक्तमन्त्रैः स्वर्णमधुघृतानां प्राशनम् ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्राङ्नाभीति **। नाभिछेदनात् पूर्वं **पुंसो जातकर्म्**आख्यः संस्कारो विधीयते । अस्य च शिशोः तदानीम् “प्रतिददामि (प्र ते ददामि) मधुनो घृतस्य” इत्य् एवमादिमन्त्रयुक्तं **हिरण्य**माक्षिकघृतानां **प्राशनं **कार्यम् । **पुंसो** ग्रहणं नपुंसकव्यावृत्त्यर्थम् । यद्य् अर्थिता तु दारैः स्यात् क्लीबादीनाम् इति नपुंसकस्य दारदर्शनात् । ये स्तेनाः पतिताः क्लीबा इति च श्रोत्रियत्वे सति श्राद्धभोजनप्राप्तेः प्रतिषेधदर्शनात् । स्त्र्यर्थत्वे तस्य प्रमाणं नास्ति । तथा च “अमन्तर्कासु” इति स्त्रीणाम् अप्राप्तिं वक्ष्यति ॥ २.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

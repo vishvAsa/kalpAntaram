@@ -11,11 +11,8 @@ As the eunuch is useless among women, as the cow is useless among cows, as a gif
 
 **षण्ढो** नपुंसक उभव्यञ्जनो ऽशक्तः स्त्रीगमने, **यथा स्त्रीष्व् अफलः** । **यथा गौर् गवि** स्त्रीगौः स्त्रीगव्याम्[^४०७] एवं **तथा विप्रो ऽनृचो** ऽनधीयानो **ऽफलः** ॥ २.१५८ ॥
 
-
 [^४०७]:
      M G: strīgavyā
-
-_सप्ताष्टश्लोकाः अध्येतृवेदित्रोः प्रशंसार्था अतिक्रान्ताः। इदानीम् अश्रद्धस्य शिष्यस्याधीयानस्येतस् ततश् चित्तं व्याक्षिप्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -45,11 +42,20 @@ Brāhmaṇa.’
 without wings, so is the Brāhmaṇa devoid of *Mantras*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा नपुंसकः स्त्रीषु निष्फलः, यथा च स्त्रीगवी गव्यामेव निष्फला, यथा चाज्ञे दानमफलं, तथा ब्राह्मणोऽप्यनधीयानो निष्फलः श्रौतस्मार्तकर्मानर्हतया तत्फलरहितः ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथा षण्ढ** इति । यथा नपुंसकं **स्त्रीषु **गच्छन्न् अपि (गच्छद् अपि) अपत्यशून्यं यथा च स्त्रीगौः स्त्रीगवि गमनाभावाद् अपत्यफलशून्या यथा **चाज्ञे निष्फलं दानं तथा **वेदरहितो ब्राह्मणः अफलः परमात्मनो दृष्टादृष्टानुपकारित्वात् ॥ २.१५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

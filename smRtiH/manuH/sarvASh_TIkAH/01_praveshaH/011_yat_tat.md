@@ -100,11 +100,20 @@ different interpretation of verses 3-1l.
 > ‘*Viśeṣāḥ*.—Why these are called ‘*viśeṣa*’ is thus explained in the > *Sāṅkhyatattvakaumudī*—pañca mahābhūtāni viśeṣāḥ:—śāntā ghorāśca > mūḍāśca \| yasmādākāśādiṣu sthū?ṣu kecit tattvapradhānatayā śāntā > prakāśā laghavaḥ......... \| te'mī parasparavyāvṛttyā'nubhūyamānā > ‘viśeṣā’ iti ‘sthūlā’ iti co?pante \| tanmātrāṇi tu?smadādinā > parasparavyāvṛttāni nānubhūyante—iti ‘aviśeṣāḥ’ ‘sūkṣmā’ iti cocyante > \|
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्तदितिसर्वनामभ्यां लोकवेदादिसर्वप्रसिद्धं परमात्मानं निर्दिशति। कारणं सर्वोत्पत्तिमताम्। अव्यक्तं बहिरिन्द्रियागोचरम्। नित्यं उत्पत्तिविनाशरहितम्। वेदान्तसिद्धत्वात्सत्स्वभावं प्रत्यक्षाद्यगोचरत्वादसत्स्वभावमिव।अथवा सद् भावजातम्, असद् अभावस्तयोरात्मभूतम्। तथा च श्रुतिः—“ऐतदात्म्यमिदं सर्वम्” इति। तद्विसृष्टस्तेनोत्पादितः स पुरुषः सर्वत्र ब्रह्मेति कीर्त्यते॥११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत् तद्** आत्माख्यम् उक्तं वक्ष्यमाणनीत्या सर्वस्य **कारणं **वेदान्तोक्तयुक्त्यागमगम्यत्वात् सत्स्व् अभावं प्रत्यक्षाद्यगोचरत्वाद् असत्स्वभावम् इव तेनोत्पादितः **स पुरुषस् **तत्र तत्र **ब्रह्म**शब्देन सं**कीर्त्यते **॥ १.११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

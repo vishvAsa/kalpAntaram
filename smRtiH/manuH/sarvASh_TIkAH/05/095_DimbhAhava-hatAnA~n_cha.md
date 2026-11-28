@@ -10,8 +10,6 @@ Also in the case of those killed in a riot or Battle or by lightning or by the k
 <details><summary>मेधातिथिः</summary>
 
 **डिम्बो** बहुजनसंकुलः अशस्त्रकलहो वा । **आहवः** संग्रामो युद्धम् । तत्र **हतानां** सद्यः शौचम् । **विद्युद्** अशनिः एतद् व्याख्यातम् । **पार्थिवः** पृथिव्या ईश्वरश् चातुर्वर्ण्यस्य यः कश्चित् । **ब्राह्मणार्थे गवार्थे च** युद्धाद् अन्यत्रापि जलाग्निदंष्ट्रिहतस्य । **यस्य चेच्छति पार्थिवः** स्वकार्यार्थपरिपालनाधिकृतस्य ॥ ५.९४ ॥
-
-_कुत एतत् । यतो राज्ञां परिपालन एवाशौचनिवृत्तिस् तत्र कुतो ऽन्यस्याविशेषेण तदिच्छया विनिवृत्तिः स्यात् ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -67,11 +65,20 @@ precipice, or by ûre or water, or in battle,—those who die in foreign lands, 
 lightning, or by entering fire or water, by fall from a precipice, or in battle, or in foreign land,—or of embryos, or of infants that have teethed,—are purified in three nights.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+डिम्भाहवो नृपरहितयुद्धं तत्र हतानां, विद्युता वज्रेण, पार्थिवेन वधाहंऽपराधे हते, गोब्राह्मणरक्षणार्थं विनाऽपि युद्धं जलाग्निव्याघ्रादिभिर्हतानां, यस्य पुरोहितादेः स्वकार्याविवातार्थं नृपतिरशौचाभावमिच्छति तस्यापि सद्यःशौचम् ॥१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**डिम्बाहवहतानाम्** इति । डिम्बे जनौघसम्पीडने अशस्त्रकलहे वा हतानां तथा सङ्ग्रामाशनिहतानां राज्ञा वा सङ्ग्रामे ऽपि हतानां गोब्राह्मणपरित्राणार्थम् असङ्ग्रामे ऽपि व्याघ्रादिव्यापादितानां यस्य च पुरोहितादेः स्वकार्यविघातार्थं पृथिवीपतिर् इच्छति तस्यापि सद्यःशौचम् ॥ ५.९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 095	(The same rule applies to the kinsmen) of those who have fallen in a riot or a battle, (of those who have been killed) by lightning or by the king, and (of those who perished fighting) for cows and Brahmanas, and to those whom the king wishes (to be pure).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

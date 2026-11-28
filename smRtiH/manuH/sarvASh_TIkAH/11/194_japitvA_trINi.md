@@ -40,6 +40,16 @@ times, by dwelling in the pasture of cows, by subsisting on milk for a month, on
 improper presents if one dwells in the cow-pen for one month, subsisting on milk and devoted to the repeating of the *Gāyatrī*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+त्रीणि सावित्रीसहस्त्राणि जपित्वा गोष्ठे वा मासं क्षीराहारोऽसत्प्रतिग्रहजनितात्पापान्मुक्तोभवति। शूद्रप्रतिग्रहादावप्येतदेव प्रायश्चित्तम्। द्रव्यदोषेण च दातृदोषेणापि प्रतिग्रहस्य गर्हितत्वाविशेषादिति॥१९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जपित्वेति **। त्रीणि सावित्रीसहस्राणि यत्नवान् जपित्वा सासं च क्षीराहारो गोष्ठनिवास आसीनः सन् असत्प्रतिग्रहजनितं पापम् अपहरति ॥ ११.१९३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **असत्प्रतिग्रहस्य** विशेषविधिः ॥ ११.१९३ ॥

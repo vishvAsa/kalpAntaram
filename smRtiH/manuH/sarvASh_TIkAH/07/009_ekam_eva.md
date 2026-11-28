@@ -45,11 +45,19 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same wo
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+योऽग्नेरतिसमीपमनवहितः सन्नुपसर्पति तं दुरुपसपिंगमेकमेवाग्निर्दहति न तत्पुत्रादिकम्।क्रुद्धो राजाग्निः पुत्रदारभ्रात्रादिरूपं कुलमेव गवाश्वादिपशुसुवर्णादिवनसञ्चयसहितंसापराधं निहन्ति॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । अग्निर् अनुपायसेवितं मनुष्यम् **एकम् एव दहति ।** **राजाग्निः **पुनः पशुधनसमूहसहितम् अपराधिसम्बन्धिबन्धुवर्गम् अपि नाशयति । तस्माद् असौ नवमन्तव्यो राजाग्निर् इव विनाशकत्वान् न च स्नेहातिशयातिदर्शनेन तं प्रत्याश्वसनीयं यस्मात् ॥ ७.९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यस्माद् अकार्यकारिणां तत्सहायानां तदपराधसंबन्धानां च **कुलं दहति** । अतो ऽप्य् असौ नावमन्तव्यः ॥ ७.९॥
-
-_यतश् च-_
 </details>
 
 <details><summary>Bühler</summary>

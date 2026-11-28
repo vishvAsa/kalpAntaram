@@ -44,11 +44,24 @@ fire to Prajāpati’;—and in *Vyavahāra Bālambhaṭṭi* (p. 529).
 It is quoted in *Smṛtitattva*, (p. 130) which adds the following notes:—‘*Svastyayanam*’ stands for the wearing of gold for the purpose of passing a happy life, or for the request to Brāhmaṇas for pronouncing the syllable *svasti*; and the offering ‘to Prajāpati’ is that which is made during marriage to Prajāpati as the deity;—the ‘*svāmyakāraṇa*’ is the ‘giving’, the actual *giving away*, not the mere *betrothal*.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदासां स्वस्त्ययनशान्त्यनुमन्त्रवचनादिरूपं, यश्चासां प्रजापतियागः प्रजापत्युद्देशेनाज्यहोमात्मकं विवाहेषु क्रियते तन्मङ्गलार्थंमभीष्टसंपत्त्यर्थ कर्म । यत्पुनः प्रथमं प्रदानं वाग्दानात्मकं तदेव भर्तुः स्वाम्यजनकम् । ततश्च वाग्दानादारभ्य स्त्री भर्तृपरतन्त्री ।तस्मात्तं श्रयेतेति पूर्वोक्तशेषः । यत्तु अष्टमे वक्ष्यते—
+
+**तेषां निष्ठा तु विज्ञेया विद्वद्भिः सप्तमे पदे । ( म. स्मृ. ८-२२७ )**
+
+इति, तद्भार्यात्वसंस्कारार्थमित्यविरोधः ॥१५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मङ्गलार्थम्** इति । यद् **आसां स्वस्त्ययनं** शान्त्यादिमन्त्रवाचनं हि प्रजापतियागश् च विवाहेषु क्रियते तन् मङ्गलार्थम् अभीष्टार्थं सम्पत्त्यर्थं न तु भर्तुः स्वत्वापादनार्थं यस्मात् प्राग् विवाहात् यद् वाग्दानं तद् भर्तुः स्वाम्यजनकं एवं च वाग्दानतः प्रभृत्य् आसां भर्तृपारतन्त्र्यं न विवाहात् ॥ ५.१५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 152	For the sake of procuring good fortune to (brides), the recitation of benedictory texts (svastyayana), and the sacrifice to the Lord of creatures (Pragapati) are used at weddings; (but) the betrothal (by the father or guardian) is the cause of (the husband's) dominion (over his wife).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -34,11 +34,20 @@ This verse is quoted in *Aparārka* (p. 223).
 nor spill his blood.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्मादवगोरणादिदोषाभिज्ञो ब्राह्मणे दण्डाद्युद्यमननिपातरुधिरस्त्रवणानि नापद्यपि कुर्यादिति पूर्वोक्कक्रियात्रयस्योपसंहारः ॥१६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न कदाचिद्** इति । यत् एवं ब्राह्मणावगोरणादिना भवति तस्मात् शास्त्रविन् न कदाचिद् अपि ब्राह्मणस्य दण्डादि उद्यच्छेत् । नापि तं **तृणेनापि** हन्यात् । न च शरीराद् रुधिरम् उत्पादयेत् ॥ ४.१६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 169	A wise man should therefore never threaten a Brahmana, nor strike him even with a blade of grass, nor cause his blood to flow.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

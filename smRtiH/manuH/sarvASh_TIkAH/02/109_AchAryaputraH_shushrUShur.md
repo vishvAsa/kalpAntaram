@@ -83,11 +83,20 @@ referred to several times. He is either Medhātithi’s teacher, or an older com
 (3) who is exceptionally intelligent, (4) who is clean, (5) who is not jealous, (6) who is gentle, (7) who is competent, (8) a near relative, (9) who imparts knowledge and (10) who gives money;—these should be taught for the sake of merit.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यपुत्रः, परिचारकः, ज्ञानान्तरदाता, धर्मवित्, मृद्वार्यादिषुशुविः, बान्धवः, ग्रहणधारणसमर्थः, धनदाता, हितेच्छुः, ज्ञातिः, दशैते धमणाध्यायाः ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यपुत्र** इति । **आचार्यपुत्रः **परिचर्यापरः विद्याप्रदः धर्मानुष्ठानशीलः मृद्वार्यादिशौचयुक्तः बन्धुः ग्रहणधारणसमर्थः पणपूर्वम् अप्य् अर्थदाता आर्जवोपेतः आत्मना उपनीतः एते **दश **धर्मार्थम् **अध्याप्याः** । **अर्थदः शुश्रूषुः **“ज्ञानाद् अध्यापनाद् अपि धर्मो ऽस्ति नियमादृष्टरूपेण” इति वचनात् ॥ २.१०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

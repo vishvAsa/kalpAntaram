@@ -35,6 +35,16 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 498.)
 eunuch, a hundred; the man suffering from leucoderma, as much as he sees _(;)—in the line of invitees seated in a line.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सद्भिः सबैकपङ्क्त्यांभोजनानर्हः स्तेनादिर्यत्संख्यान्भोजनार्हान्पश्यति तावत्संख्यानां भोजनस्य फलं तत्र श्राद्धे दाता न प्राप्नोति, बालिशोऽज्ञः । अतः स्तेनाहियथा न पश्यति तथा कर्तव्यम् ॥१७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपाङ्क्त्या **इति । पङ्क्तिभुञ्जानानर्हान् तान् अपि । **यावतः** यावत्सङ्ख्याकान् अनर्हा भोजनानर्हा अनुपश्यन्ति तावत्सङ्ख्याकानां सम्बन्धि तत्र श्राद्धादौ **दाता** अज्ञः **नात्र फलम् आप्नुयात्** इति अपाङ्क्त्यदर्शनफलम् उक्तम् ॥ ३.१७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.

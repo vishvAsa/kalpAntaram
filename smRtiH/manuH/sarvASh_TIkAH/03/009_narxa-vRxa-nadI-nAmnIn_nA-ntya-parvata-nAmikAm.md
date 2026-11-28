@@ -59,11 +59,24 @@ verse;’—in *Vīramitrodaya* (Lakṣaṇa, p. 120), where ‘*antya*’ is ex
 See Comparative notes for [Verse 3.8].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ नातिस्थूलां नातिकृशां न दीर्घांनातिवामनाम्।**
+
+**वयोऽधिकां नाङ्गहीनां न सेवेत्कलहप्रियाम्॥१॥ \]**
+
+ऋक्षं नक्षत्रं तन्नामिकाम् आर्द्रारेवतीत्यादिकाम् । एवं तरुनदीम्लेच्छपर्वतपक्षिसर्पदासभ-यानकनामिकां कन्यां नोहेत् ॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । नक्षत्रवृक्षनदीम्लेच्छपर्वतपक्षिसर्पदासभ्यानकनामिकां कन्यां नोद्वहेत्॥ ३.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

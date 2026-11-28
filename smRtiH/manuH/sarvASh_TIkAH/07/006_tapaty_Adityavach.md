@@ -35,11 +35,19 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same wo
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयं च राजा स्वतेजसा सूर्य इव पश्यतां चक्षूंषि मनांसि च सन्तापयति, न चैनं राजानं पृथिव्यां कश्चिदप्याभिमुख्येन द्रष्टुं क्षमते॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तपतीति **। **एष** च राजा पश्यतां स्ववीर्येण **चक्षूंषि मनांसि च** **आदित्यवत्** सन्तापयति, **न चैनं** राजानं वीर्येणातिशययोगात् **कश्चिद् अपि** पृथिव्याम् आभिमुख्येन वीक्षितुं **शक्नोति** । एवं चेन्द्रांशांशोद्भावत्वाद् इति कथनार्थम् ॥ ७.६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 महाराजलिङ्गेन चामरच्छत्रभृङ्गादिना युक्तो दीप्तिमत्त्वाच् **चक्षूंष्य् आदित्यवत् तापयति**, **मनांसि** दण्डपातनाद् । यस्माद् अतो **न कश्चिद् एनं शक्नोत्य् अभिवीक्षितुम्** अपि, किं पुनर् अपकर्तुम् । पूर्ववद् अयम् अपि स्तुत्यै ॥ ७.६ ॥
-
-_एवं च सति तासु तास्व् अवस्थासु कार्यार्थम् ।_
 </details>
 
 <details><summary>Bühler</summary>

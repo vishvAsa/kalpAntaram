@@ -53,6 +53,11 @@ This verse is quoted in *Aparārka* (p. 185);—and in *Prāyaścittaviveka* (pp
 been brought up on gifts from the king becomes a Brahmarākṣasa in the water-less desert, and docs not obtain another birth. The man who, having renounced his Brāhmaṇahood, and deluded by greed for riches and for sensual objects, accepts gifts from the king, his fall into the Raurava hell is certain. Even trees burnt by forest-fíres grow again on the advent of rain; but those that have been burnt by gifts from the king never grow again.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । क्षत्रियस्यापि च कृपणस्य शास्त्रातिक्रमवर्तिनः राज्ञो यः प्रतिग्रहं करोति **स** **इमान्** वक्ष्यमाणान् **नरकान्** यातनास्थानानि क्रमेण प्राप्नोति ॥ ४.८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 087	He who accepts presents from an avaricious king who acts contrary to the Institutes (of the sacred law), will go in succession to the following twenty-one hells:

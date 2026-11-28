@@ -45,11 +45,19 @@ man seeks for fortune, or having an enemy seeks to destroy him,—or seeks for l
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पद्माशब्दः श्रीपर्यायोऽपि महत्त्वविवक्षयाऽत्र प्रयुक्तः। यस्य प्रसादान्महती श्रीर्भवति, अतः श्रीकामेन सेव्यः। यस्य शत्रवः सन्ति तानपि सन्तोषितो हन्ति, तेन च शत्रुवधकामेनाप्याराधनीयः। यस्मै क्रुध्यति तस्य मृत्युं करोति, तस्माज्जीवनार्थिता न क्रोधनीयः। यस्मात्सर्वेषां सूर्याग्निसोमादीनां तेजो बिभति॥११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्येति** । यस्माद् असाव् अग्न्याद्यंशोद्भवत्वाद् अग्न्यादिसर्वतेजोयुक्तस् तस्मात् तद्गतायां प्रसन्नतायां महती **श्रीर्** **वसति **। एवं च श्रीकामेनासौ आराधनीयो वीर्ये तदा ॥ ७.११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अतो न केवलम् असौ भयात् प्रत्यवायपरिहारार्थम् आराध्यः, अभ्युदयो ऽपि हि तस्मात् सम्यग् उपचरिताद् विशिष्टो भवति ॥ ७.११ ॥
-
-_अतश् चैवं च सति-_
 </details>
 
 <details><summary>Bühler</summary>

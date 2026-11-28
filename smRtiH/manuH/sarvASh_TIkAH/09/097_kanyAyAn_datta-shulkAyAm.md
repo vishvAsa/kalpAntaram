@@ -51,6 +51,11 @@ promised to him verbally and by a libation of water,—but before she was marrie
 become lost, after betrothal, the girl shall wait for three menstrual periods and then marry another person. If the betrothed should go away after having paid the nuptial fee and the girl’s dowry, the girl shall be kept unmarried for one year, after which she should be given away in the proper form to another man.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्यायांदत्तशुल्कायां सत्यामसञ्जातविवाहायां यदि शुल्कदो वरो म्रियते, तदा देवरायः पित्रादिभिर्वाऽसौ कन्या दातव्या, यदि सा स्वीकरोति । "यस्या म्रियेत" (म. स्मृ. ९-६९) इति प्रागुक्तंनियोगरूपं, इदं तु शुल्कग्रहणविषयम् ॥ १७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 केनचिद् विशेषेणास्य पुनर् आरम्भः । एवं च सति "यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः" इत्य् उक्तं तद् अदत्तशुल्काया विधानं स्यात् । देवरग्रहणाच् च पुनः सपिण्डनिवृत्तिर् गम्यते । युक्ता च तन्निवृत्तिः । सा हि क्रीतत्वात् तद्द्रव्याभिसंबन्धिन्य् एव देवरे ऽभ्यनुज्ञातुं युक्ता, शुल्कपण्यत्वात् तस्याः ॥ ९.९७ ॥

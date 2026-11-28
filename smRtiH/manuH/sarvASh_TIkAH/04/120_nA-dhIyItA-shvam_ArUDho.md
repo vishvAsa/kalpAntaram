@@ -50,11 +50,15 @@ horse or on a camel or on a boat or on any conveyance.’
 boat,—while seated on these, or on a barren plot of land,...... these are occasions that are unfit for study while they last.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाधीयीतेति **। अश्ववृक्षहस्तिनौखरोष्ट्रारूढः तथोषरप्रदेशस्थः गन्त्र्यादिभिर् यानेन च गच्छन् **नाधीयीत **॥ ४.१२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

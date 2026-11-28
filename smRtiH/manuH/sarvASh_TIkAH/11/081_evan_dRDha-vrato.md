@@ -38,6 +38,11 @@ This verse is quoted in *Mitākṣarā* (3.244) as summing up the ‘twelve year
 See Comparative notes for [Verse 11.72].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । एवम् उक्तरीत्या सर्वदाविचलनियमो ऽस्त्रीसम्प्रयोगः संयतमनाः द्वादशवर्षे समाप्ते ब्रह्महत्यायाः पापम् अपनुदतीत्य् एवं च ब्राह्मणार्थे गवार्थ इत्यादि सर्वं प्रकान्तद्वादशवार्षिकस्य वेदितव्यम् ॥ ११.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 082	He who thus (remains) always firm in his vow, chaste, and of concentrated mind, removes after the lapse of twelve years (the guilt of) slaying a Brahmana.

@@ -64,11 +64,20 @@ has acquired property rightfully, has been devoted to truth and fond of guests, 
 Do. (3. 220).—‘By omitting what has been enjoined, by doing what has been forbidden, and by omitting to control the sense-organs, the man falls.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिप्रेतार्थसिद्धिर्मङ्गलं तद्धेतुत्वेन गोरोचनादिधारणमपि मङ्गलम् ।गुरुसेवादिक्रमाचारस्तत्रोद्युक्तः स्यात् । बाह्याभ्यन्तरशौचोपेतो जितेन्द्रियश्च भवेत् । गायत्र्यादिजपं विहितहोमं च नित्यं कुर्यात् । अत्तन्द्रितोऽनलसः ।अन्नाचारादीनामुक्तानामपि विनिपातनिवृत्यर्थत्वात्पुभिधानम् ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मङ्गलाचारयुक्त** इति । अभिप्रेतसिद्धिरूपमङ्गलहेतुत्वात् गोरोचनाचन्दनादौ मङ्गले प्रत्युत्थानादौ आचारे यत्नवान् शुद्धात्मा वशीकृतजिह्वादीन्द्रियः स्यात्, अनलसश् च सन् जपहोमौ **नित्यं** कुर्यात् । अत्र आचारादीनाम् उक्तानाम् अपि विनिपातविनिवृत्त्यर्थं विवक्षया पुनर् अभिधानम् ॥ ४.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	Let him eagerly follow the (customs which are) auspicious and the rule of good conduct, be careful of purity, and control all his organs, let him mutter (prayers) and, untired, daily offer oblations in the fire.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

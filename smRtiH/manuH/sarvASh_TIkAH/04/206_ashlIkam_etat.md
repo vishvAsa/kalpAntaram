@@ -38,11 +38,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 494), which explains ‘*a
 is suffering from white leprosy, or of one who has married a girl after puberty, or of one who is under the subjection of his wife, or of one who permits his wife’s paramour to live in the house.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्ता बहुयाजकादयो यत्र हामं कुर्वन्ति तत्कर्म शिष्टानामलीकमश्रीकं श्रीब्नम् । रेफख्य स्थाने लकारः । देवानां प्रतिकूलम् । तस्मादेतद्धोमं न कारयेत् ॥२०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अश्लीलम्** इति । यत्र पूर्वोक्ता होमं कुर्वन्ति तत् शिष्टानां तदश्लीकम् अयुक्तं **देवानां** च प्रतिकूलम् । तस्माद् एतान् होमं न कारयेत् ॥ ४.२०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -41,6 +41,16 @@ shoes, umbrellas, garlands, unguents, conveyances, trees, highly desirable objec
 sovereignty over his inner apartments.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+रथादियानस्य शय्यायाश्च दाता भार्याम्, अभयप्रदः प्राणिनामहिंसकः प्रभुत्वं, धान्यदो व्रीहियवमाषमुद्गादिसस्यानां दाता चिरस्थायि सुखित्वं ब्रह्म वेदस्तादो वेदाध्यापको व्याख्याता च ब्रह्मणः सार्ष्टितां समानगतितांतत्तुल्यतां प्राप्नोति ॥२३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यानशय्याप्रद** इति । खट्वादिप्रदो **भार्याम् **आर्तत्राणकृत् प्रभुत्वम्, धान्यप्रदः सार्वकालिकं सुखं वेदप्रदः परं ब्रह्मसमानगतित्वं प्राप्नोति । सर्वत्र चात्र देयद्रव्यसाराल्पत्वभूयस्त्वाद्यपेक्षया दृष्टवत्यल्प(दृष्टफलाल्प)स्याल्पबहुत्वकालादितातम्यं विज्ञेयम् ॥ ४.२३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;

@@ -50,11 +50,19 @@ This verse is quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 2b).
 on the throne of judgment, deals out punishment, equitable towards all creatures, he is called *Vaivasvata* or *Yama*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्माद्यम इव राजा वशीकृतक्रोधो जितेन्द्रियः स्वकीयेऽपि प्रियाप्रिये परित्यज्य यमस्य चेष्टया सर्वत्र साम्यरूपया वर्तेत ॥१७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यतः **तस्माद्** इति । तस्माद् यम इव राजा वशीकृतक्रोधेन्द्रिय आत्मनश् च प्रियाप्रिये परिहृत्य यमसम्बन्धिन्या चेष्टया रिपुमित्रसाम्यत्वेन वर्तते (वर्तेत) ॥ ८.१७३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 समः प्रजासु स्याद् इत्य् अस्य राज्ञो ऽयम् उपमार्थः । तथा च वैषम्यहेतुव्याख्यानम् आह जितक्रोधो जितेन्द्रिय इति ॥ ८.१७२ ॥
-
-_अजितकामक्रोधश् च पुनः पार्थिवः ।_
 </details>
 
 <details><summary>Bühler</summary>

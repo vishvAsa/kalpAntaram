@@ -39,11 +39,20 @@ should salute the Teacher).’
 should grasp his right foot with the right hand and the left foot with the left.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उत्थाय सर्वदा वृद्धाभिवादनशीलस्य बृद्धसेविनश्च आयुःप्रज्ञायशोबलानि चत्वारि सम्यक् प्रकर्षण वर्धन्ते ॥१२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अयं त्व् अपरो ऽत्रैवोपकारदर्शनेन **अभिवादनशीलस्येति **। अभिवादनकरणस्वभावस्य सर्वदा सर्वदा वृद्धेषु परिचर्यारतस्य **आयुःप्रज्ञा**ख्याति**बलानि** चत्वारि वृद्धिम् उपयान्ति॥ २.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

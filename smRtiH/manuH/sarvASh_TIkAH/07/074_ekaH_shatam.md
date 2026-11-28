@@ -31,6 +31,11 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 202);—in
 that even if the attack is made by men ten times the number of the garrison, they are repulsed;—and in *Rājanītiratnākara* (p. 20a).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एक** इति । यस्माद् **एको** धानुष्कः **प्राकारस्थः** परकीयानां **शतं** योद्धुं शक्नोति **तस्माद्** **दुर्गं** कर्तव्यतयोपदिश्यते ॥ ७.७४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रत्यक्षफलत्वं महीदुर्गस्य दर्शयति । एवं च तस्मिन् तस्मिन् दुर्गे गुणो वेदितव्यः ॥ ७.७४ ॥

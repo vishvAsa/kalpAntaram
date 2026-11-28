@@ -41,6 +41,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 417);—and in
 See Comparative notes for [Verse 9.326].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गोपालमहिषपालानामितीदमस्य देयमिति देशकालकर्मानुरूपं वेतनं जानीयात्। गौडदाक्षिणात्यादीनां च मनुष्याणां नानाप्रकारा भाषा विक्रयाद्यर्थं विद्यात्तथेदं द्रव्यमेवं स्थाप्यतेऽनेन च संयुक्तं चिरं तिष्ठतोति बुद्ध्येत, तथेदं द्रव्यमस्सिन्देशे काले चेयता विक्रीयत इत्येतदपि जानीयात्॥ ३३२॥
+</details>
+
 <details><summary>Bühler</summary>
 
 332	He must be acquainted with the (proper), wages of servants, with the various languages of men, with the manner of keeping goods, and (the rules of) purchase and sale.

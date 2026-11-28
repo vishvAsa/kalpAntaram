@@ -43,6 +43,16 @@ The second half of this verse is quoted in *Smṛtitattva* (p. 742);—the entir
 of conquest, in accordance with his own capacity; with those equal, or superior, to himself, he shall make alliance; against those inferior, he shall wage war... If the superior king does not agree to an alliance, he should have recourse to such methods as making presents to him, creating dissension and discontent among the vassals and subjects of that king and so forth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उपजापार्हान् रिपुवंश्यान् राज्यार्थिनः क्षुब्धानमात्यादींश्च भेदयेत् । उपजापेनात्मीयकृतां च तेषां चेष्टां जानीयात् । शुभप्रहदशादिना शुभफलयुक्ते दैत्रेऽवगते निर्भयो जयेप्सुर्युध्येत ॥ १९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपजप्यान्** इति । तदन्वयिनो राज्यार्थिनः क्रुद्धान् भृत्यांश् चोपजापार्हान् उपजपेत् । तत्कृतं च यत् तत्कृत्यं यत् तज् जानीयात् ग्रहसौम्यादिनानुकूले दैवे सति विजयेप्सुर् अपगतभयो युध्येत ॥ ७.१९७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दुर्गाश्रितस्याप्रतियुध्यत उपरोधविधिस् त्रिभिः शोकैः ॥ ७.१९५–९७ ॥

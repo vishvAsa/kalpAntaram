@@ -1,6 +1,7 @@
 +++
 title = "234 गोवधो व्रात्यता"
 +++
+
 <details><summary>मूलम्</summary>
 
 गो-वधो व्रात्यता स्तेयम्  
@@ -12,7 +13,6 @@ title = "234 गोवधो व्रात्यता"
 <details><summary>विज्ञानेश्वरः</summary>
 
 _एवं महापातकानि तत्समानि च पातकानि परिगणय्योपपातकानि परिगणयितुम् आह ।_
-
 
 > **गोवधो व्रात्यता स्तेयम् ऋणानां चानपक्रिया । ३.२३४अब्**  
 > **अनाहिताग्नितापण्यविक्रयः परिदेवनम् ॥ ३.२३४च्द्**  
@@ -73,12 +73,16 @@ _एवं महापातकानि तत्समानि च पात
 
 <u>ननु</u> उपपातकादीनां कथं पातकत्वं पतनहेतुत्वाभावात् । यदि तेषाम् अपि पतनहेतुत्वं तर्हि "मातृपितृयोनिसंबन्ध्ँँआङ्ग्ँँअः" इत्यादिपरिगणनम् अनर्थकम् ।
 
-> <u>अथैवम्</u> उच्यते । यद्य् अपि महापातकतत्समेष्व् इव सद्यःपातित्यहेतुत्वं नास्ति तथाप्य् अभ्यासापेक्षया पातित्यहेतुत्वम् अविरुद्धम् । "निन्दितकर्माभ्यासी[४६]" (ग्ध् २१.१) इति गौतमवचनाद् इति ।  
+> <u>अथैवम्</u> उच्यते । यद्य् अपि महापातकतत्समेष्व् इव सद्यःपातित्यहेतुत्वं नास्ति तथाप्य् अभ्यासापेक्षया पातित्यहेतुत्वम् अविरुद्धम् । "निन्दितकर्माभ्यासी[^४६]" (ग्ध् २१.१) इति गौतमवचनाद् इति ।  
 > <u>मैवम्</u>, अभ्यासस्यानिरूप्यमाणत्वात् । द्विः शतकृत्वो वेति तत्राविशेषे ऽङ्गीक्रियमाणे यो ऽपि द्विर् दिवा स्वपिति यः शतकृत्वो वा गोवधं करोति तयोर् अविशेषेण पातित्यं स्यात् । <u>अत्रोच्यते</u> । यत्रार्थवादे प्रत्यवायविशेषः श्रूयते प्रायश्चित्तबहुत्वं वा तस्मिन् निन्दितकर्मणि यावत्य् अभ्यस्यमाने महापातकतुल्यत्वं भवति तावान् अभ्यासः पातित्यहेतुः । दिवास्वप्नादौ तु सहस्रकृत्वो ऽप्य् अभ्यस्यमाने न महापातकतुल्यत्वं भवतीति न तत्र पातित्यम् । अतो युक्तम् उपपातकादेर् अभ्यासापेक्षया पतनहेतुत्वम् ॥ ३.२३४-२४२ ॥
+
+[^४६]: NSP reads: -ābhyāsād.
 
 **(इत्य् अनाहिताग्निता)**
 
-[४९]तथा अपण्यानां विक्रये च स्मृत्यन्तरे प्रायश्चित्तविशेष उक्तः । यथाह हारीतः- "गुडतिलपुष्पमूलफलपक्वान्नविक्रये सोमपानं सौम्यः कृच्छ्रः । लाक्षालवणमधुमांसतैलक्षीरदधितक्रघृतगन्धचर्मवाससाम् अन्यतमविक्रये चान्द्रायणम् । तथा । ऊर्णाकेशकेसरिभूधेनुवेश्माश्मशस्त्रविक्रये च भक्ष्यमांसस्नाय्वस्थिशृङ्गनखशुक्तिविक्रये तप्तकृच्छ्रः । हिङ्गुगुग्गुलुहरितालमनःशिलाञ्जनगैरिकक्षारलवणमणिमुक्ताप्रवालवैणवमृन्मयेषु च तप्तकृच्छ्रः । आरामतडागोदपानपुष्करिणीसुकृतविक्रये त्रिषवणस्नाय्य् अधःशायी चतुर्थकालाहारो दशसहस्रं जपन् संवत्सरेण पूतो भवति । हीनमानोन्मानसंकरसंकीर्णविक्रये च" इति । एवम् अन्यैर् अपि शङ्खविष्ण्वाद्युक्तवचनैर् यत्र प्रायश्चित्तविशेषो नोक्तस् तत्रानापादि मानवम् उपपातकसाधारणतः प्राप्तं त्रैमासिकम् । आपदि तु याज्ञवल्क्यीयं व्रतचतुष्टयं शक्त्यपेक्षया योज्यम् ॥
+[^४९]तथा अपण्यानां विक्रये च स्मृत्यन्तरे प्रायश्चित्तविशेष उक्तः । यथाह हारीतः- "गुडतिलपुष्पमूलफलपक्वान्नविक्रये सोमपानं सौम्यः कृच्छ्रः । लाक्षालवणमधुमांसतैलक्षीरदधितक्रघृतगन्धचर्मवाससाम् अन्यतमविक्रये चान्द्रायणम् । तथा । ऊर्णाकेशकेसरिभूधेनुवेश्माश्मशस्त्रविक्रये च भक्ष्यमांसस्नाय्वस्थिशृङ्गनखशुक्तिविक्रये तप्तकृच्छ्रः । हिङ्गुगुग्गुलुहरितालमनःशिलाञ्जनगैरिकक्षारलवणमणिमुक्ताप्रवालवैणवमृन्मयेषु च तप्तकृच्छ्रः । आरामतडागोदपानपुष्करिणीसुकृतविक्रये त्रिषवणस्नाय्य् अधःशायी चतुर्थकालाहारो दशसहस्रं जपन् संवत्सरेण पूतो भवति । हीनमानोन्मानसंकरसंकीर्णविक्रये च" इति । एवम् अन्यैर् अपि शङ्खविष्ण्वाद्युक्तवचनैर् यत्र प्रायश्चित्तविशेषो नोक्तस् तत्रानापादि मानवम् उपपातकसाधारणतः प्राप्तं त्रैमासिकम् । आपदि तु याज्ञवल्क्यीयं व्रतचतुष्टयं शक्त्यपेक्षया योज्यम् ॥
+
+[^४९]: Before this the NSP and Pāṇḍeya adds a passage within parentheses that is found in one ms. It is probably an interpolation: (vikraye yad vrataṃ proktaṃ haraṇe dviguṇaṃ hi tat | surāvikraye somye catuṣṭayaṃ lākṣālavaṇamāṃsamadhvājyatilahomānāṃ cāndrāyaṇatrayaṃ payaḥpāyasāpūpadadhīkṣurasaguḍakhaṇḍādisnehapakvādiṣu parākaḥ | siddhānnavikraye prājāpatyaṃ | panasasya tridinaṃ | kadalīnārikerajambīrabījapūrakanāraṅgānāṃ pādakṛcchraṃ | kastūrikāvikraye gandhānāṃ ca kṛcchraṃ | karpūre 'rdhaṃ hiṃgvādivikraye dinam upavāsaḥ | śuklakṛṣṇapītavastravikraye tridinaṃ | ajānām aindavaṃ | kharāśvatarakarabhāṇāṃ parākaḥ | śunāṃ dviguṇaṃ | ekāhād vedavikraye cāndraṃ | aṅgānāṃ parākaḥ | smṛtīnāṃ kṛcchraṃ | itihāsapurāṇānāṃ sāṃtapanaṃ | rahasyānāṃ kṛcchraṃ | gāthānāṃ śiśirātattvavidyānāṃ pādaṃ |)
 
 **(इत्य् अपण्यविक्रयः)**
 
@@ -134,7 +138,9 @@ _एवं महापातकानि तत्समानि च पात
 > शूद्रां गत्वा तु वै विप्र उदकुम्भं द्विजातये ।   
 > दिवसोपोषितो वा स्याद् दद्याद् विप्राय भोजनम् ॥ इति
 
-[५०]इदं प्रायश्चित्तजातं गर्भानुत्पत्तिविषयम् । तदुत्पत्तौ तु यद्विशेषेण यत्प्रायश्चित्तम् उक्तं तद् एव तत्र द्विगुणं कुर्यात्,
+[^५०]इदं प्रायश्चित्तजातं गर्भानुत्पत्तिविषयम् । तदुत्पत्तौ तु यद्विशेषेण यत्प्रायश्चित्तम् उक्तं तद् एव तत्र द्विगुणं कुर्यात्,
+
+[^५०]: Before this NSP and Pāṇḍeya add a passage within parentheses, which is omitted by Seltur. The passage in question is probably an interpolation: (anulomavyavāye garbhe dviguṇaṃ yadi sā atidūṣitā na pratilomagā bhavati tadaiva | anyajātigamane dvaiguṇyaṃ pratilomadūṣitāsu antyāvasāyistrīṣu ca cāṇḍālīgarbhe yathā gurutalpatvaṃ tathā kiṃcin nyūnaṃ tāratamyaṃ kalpyam | cāṇḍālīgamane vārṣikam | garbhe gurutalpatvaṃ tathaiva jñeyam |)
 
 > गमने तु व्रतं यत् स्याद् गर्भे तद्द्विगुणं चरेत् ।
 
@@ -308,12 +314,6 @@ _एवं महापातकानि तत्समानि च पात
 **(इति परिवित्तिप्रकरणम्)**
 
 वार्धुष्यलवणक्रययोस् तु मनुयोगीश्वरोक्तसामान्योपपातकप्रायश्चित्तानि जातिशक्तिगुणाद्यपेक्षया योज्यानि ॥ ३.२६५ ॥
-
-[४६]: NSP reads: -ābhyāsād.
-
-[४९]: Before this the NSP and Pāṇḍeya adds a passage within parentheses that is found in one ms. It is probably an interpolation: (vikraye yad vrataṃ proktaṃ haraṇe dviguṇaṃ hi tat | surāvikraye somye catuṣṭayaṃ lākṣālavaṇamāṃsamadhvājyatilahomānāṃ cāndrāyaṇatrayaṃ payaḥpāyasāpūpadadhīkṣurasaguḍakhaṇḍādisnehapakvādiṣu parākaḥ | siddhānnavikraye prājāpatyaṃ | panasasya tridinaṃ | kadalīnārikerajambīrabījapūrakanāraṅgānāṃ pādakṛcchraṃ | kastūrikāvikraye gandhānāṃ ca kṛcchraṃ | karpūre 'rdhaṃ hiṃgvādivikraye dinam upavāsaḥ | śuklakṛṣṇapītavastravikraye tridinaṃ | ajānām aindavaṃ | kharāśvatarakarabhāṇāṃ parākaḥ | śunāṃ dviguṇaṃ | ekāhād vedavikraye cāndraṃ | aṅgānāṃ parākaḥ | smṛtīnāṃ kṛcchraṃ | itihāsapurāṇānāṃ sāṃtapanaṃ | rahasyānāṃ kṛcchraṃ | gāthānāṃ śiśirātattvavidyānāṃ pādaṃ |)
-
-[५०]: Before this NSP and Pāṇḍeya add a passage within parentheses, which is omitted by Seltur. The passage in question is probably an interpolation: (anulomavyavāye garbhe dviguṇaṃ yadi sā atidūṣitā na pratilomagā bhavati tadaiva | anyajātigamane dvaiguṇyaṃ pratilomadūṣitāsu antyāvasāyistrīṣu ca cāṇḍālīgarbhe yathā gurutalpatvaṃ tathā kiṃcin nyūnaṃ tāratamyaṃ kalpyam | cāṇḍālīgamane vārṣikam | garbhe gurutalpatvaṃ tathaiva jñeyam |)
 </details>
 
 <details><summary>विश्वरूपः</summary>

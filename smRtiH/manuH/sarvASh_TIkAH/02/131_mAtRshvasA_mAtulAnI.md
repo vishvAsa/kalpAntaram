@@ -41,11 +41,20 @@ sister also.’
 done of the mother’s sister, also of the wives of one’s paternal uncle.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातृष्वस्त्रादयो गुरुपत्नीवत्प्रत्युत्थानाभिवादनासनदानादिभिः संपूज्याः ।अभिवादन-प्रकरणादभिवादनमेव संपूजनं विज्ञायत इति समास्ता इत्यवोचत् । गुरुभार्यासमानत्वात्प्रत्युत्थानादिकमपि कार्यमित्यर्थः ॥१३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मातृस्वसेति **। **मातृष्वस्राद्याः गुरुपत्नीवत्** वक्ष्यमाणरूपेण पादोपसङ्ग्रहणादिना **सम्पूज्याः,** यतः ता **गुरुभार्या**तुल्याः ॥ २.१३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

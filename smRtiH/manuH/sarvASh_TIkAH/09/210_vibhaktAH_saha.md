@@ -45,6 +45,11 @@ brothers in common, it shall be shared equally by all.’
 together through affection, and arrange a second partition, the right of primogeniture does not accrue in that case.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्व सोद्धारं निरुद्धारं वा विभक्ता भ्रातरः पश्चादेकीकृत्य धनं सह जीवन्तो यदि पुनविभागंकुर्वन्ति तदा तत्र समो विभागः कार्यः। ज्येष्ठस्योद्धारो न देयः॥ २१०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 संसृष्टानां यो ज्येष्ठः नासौ ज्येष्टांशं गृह्णीयात् । यत्र तु ज्येष्ठः सह ज्येष्ठांशेन संसृज्यते तत्र पुनर् अस्य ज्य्ष्ठांश उद्ध्रियते ॥ ९.२१० ॥

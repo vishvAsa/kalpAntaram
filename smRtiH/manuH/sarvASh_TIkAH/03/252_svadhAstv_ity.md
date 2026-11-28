@@ -30,6 +30,16 @@ he shall sprinkle water.’
 svadhā*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनुज्ञानानन्तरं ब्राह्मणाः श्राद्धकर्तारं स्वधाऽस्तु इति ब्रूयुः । यस्मात्सर्वेषु श्राद्धतर्पणादिपितृकर्मसु स्वधाशब्दोच्चारणं प्रकृष्टा आशीः ॥२५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वधेत्य् एवं वचनं ब्रूयुर्** इति । अनुज्ञानन्तरं दातारं **स्वधेय् एवं ब्राह्मणा ब्रूयुः **यस्मात् सर्वेषु कृतान्नाकृतान्नश्राद्धोदकतर्पणादिषु पितृकर्मसु स्वधाशब्दोच्चारणं प्रकृष्टा **आशीः **॥ ३.२५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.

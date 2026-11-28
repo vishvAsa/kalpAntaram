@@ -68,11 +68,20 @@ accepted, even though it come from a sinner,—except from a loose woman, a eunu
 prostitute, the eunuch, the dancer—gifts of these should be refused, even when presented without asking.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहृतां संप्रदानदेशमानीताम् । अभ्युद्यतामाभिमुख्येन स्थापिताम् ।अप्रचोदितां प्रतिग्रहीत्रास्वयमन्यमुखेन वा पूर्वमयाचितां दात्रा च तुभ्यसिदं ददानीति पूर्वमकथितां हिरण्यादिभिक्षां न तु सिद्धान्नरूपाम् “अन्नमभ्युद्यतं च" इत्युक्तत्वात्पापकारिणोऽपि पतितादिवर्जं ग्राह्या इति विरिञ्चिरमन्यत ॥२४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आहृताभ्युद्यताम्** इति । प्रतिग्रहीतृदेशमानीतां दतुः चोद्यमितां “इदं तुभ्यं दास्यामि” इत्य् एवं पूर्वम् अकथितां गोहिरण्यादिभिक्षां दुष्टकर्मकारिणो ऽपि अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं हिरण्यगर्भो ग्राह्यं मन्यते स्म ॥ ४.२४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

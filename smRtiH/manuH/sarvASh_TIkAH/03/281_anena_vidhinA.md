@@ -30,11 +30,20 @@ It is in view of this text that older people have explained that the rule regard
 This verse is quoted in *Aparārka* (p. 420);—and in *Gadādharapaddhati* (Kāla, p. 467).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**“कुर्यान्मासानुमासिकम्”** ( म. स्मृ. ३-१२२ ) इति प्रतिमासं श्राद्धं विहितं, तदसम्भवे विधिरयं चतुर्भिर्मासैर्ऋतुरेकः एकस्तु ऋतुः संवत्सर इतीमं पक्षमाश्रित्योच्यते । अनेनोक्तविधानेन सम्वत्सरमध्ये त्रीन्वारान्हेमन्तग्रीष्मवर्षासु श्राद्धं कर्तव्यम् । तच्च समयाचारात्कुम्भवृषकन्यास्थेर्के। पञ्चमहायज्ञान्तर्गतं च **“एकमप्याशयेद्विप्रम्”** (म. स्मृ. ३-८३ ) इत्यनेन विहितं प्रत्यहं तु कुर्यादिति पूर्वोक्तदार्ढ्यार्थम् ॥२८१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । **अनेन **उक्तविधानेन संवत्सरस्य मध्ये त्रीन् वारान् हेमन्तग्रीष्मवर्षासु श्राद्धं कुर्वीत । पञ्चयज्ञमहायज्ञमध्यभवं पुनः प्रत्यहं कुर्वीत ॥ ३.२८१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

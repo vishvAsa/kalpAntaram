@@ -37,6 +37,16 @@ Such a question should not be raised. Since the right and lawful course in the c
 ‘*Wages*’— subsistence-allowance; and the ‘*non-misappropriation*’ of this is going to be described. That is, what I am going to describe now is the behaviour by which there is no improper misappropriation of duty on the part of those who work on wages.—(214)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतद्वत्तस्याप्रतिपादनं धर्मादनपेतं तदुक्तम् । अतोऽनन्तरं भृतेरसमर्पणादिकं वक्ष्यामि ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दत्तस्येति** । एतद् अस्य प्रतिपादनं धर्माद् अनपेतं तत्त्वं तद् उक्तम् अतो ऽनन्तरम् अन्यतरद् अपि प्रतिपादनं कथयिष्यामि ॥ ८.२१४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ८.२१४ ॥

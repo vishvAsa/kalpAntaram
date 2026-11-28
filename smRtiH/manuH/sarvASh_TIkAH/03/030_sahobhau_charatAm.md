@@ -55,6 +55,16 @@ the exhortation—*may you both co-operate in the performance of duty*; this pur
 given away on the clearly expressed understanding that the couple is to co-operate in the performance of duty,—this is the Prājāpatya marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सह युवां धर्मं कुरुतमिति सुताप्रदानकाले वचसा पूर्वं नियस्यार्चयित्वा यत्कन्यादान स प्राजापत्यो विवाहः स्मृतः ॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सहेति ।** **सह **युवां **धर्मं **कुरुत इति प्रदानकाले **वाचो**क्त्वा यद् अर्चापूर्वं **कन्यादानं स प्राजापत्यो विधिः स्मृतः **॥ ३.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.

@@ -118,11 +118,21 @@ It is quoted in *Aparārka* (p. 87), which adds that though the verse mentions o
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रिययोर्गार्हस्थ्यमिच्छतोः सर्वथा सवर्णालाभे कस्मिंश्चिदपि वृत्तान्ते इतिहासाख्यानेऽपि शूद्रा भार्या नाभिधीयते । पूर्वसवर्णानुक्रमेणानुलोम्येन विवाहाद्यनुज्ञानादयं निषेधः प्रातिलोम्येन विवाहविषयो बोद्धव्यः । ब्राह्मणक्षत्रियग्रहणं चेदं दोषभूयस्त्वार्थम्
+अनन्तरं 'द्विजातय' इति बहुवचनात् वैश्यगोचरनिषेधस्यापि वक्ष्यमाणत्वात् ॥१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । **ब्राह्मणक्षत्रिययोः **गार्हस्थ्यप्रतिपत्तये सवर्णाम् अलभमानयोः **कस्मिंश्चिद् **अपीतिहासाख्याने **शूद्रा भार्या **नोपवर्ण्यते । एवं च शूद्रानिषेधात् ब्राह्मणक्षत्रिययोः सवर्णालाभे अस्ति क्षत्रियवैश्योद्वाह इति गम्यते । तत्रापि च धनपद्यादौ क्षत्रप्रवृत्तिदर्श्नात् प्रथमं ब्राह्मणस्य क्षत्रियोद्वाहः । तदलाभे वैश्योद्वाहः ॥ ३.१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 014	A Sudra woman is not mentioned even in any (ancient) story as the (first) wife of a Brahmana or of a Kshatriya, though they lived in the (greatest) distress.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

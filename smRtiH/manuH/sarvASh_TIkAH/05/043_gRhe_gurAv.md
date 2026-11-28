@@ -51,11 +51,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 See Comparative notes for [Verse 5.42].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृहाश्रमे, ब्रह्मचर्याश्रमे, वानप्रस्थाश्रमे च प्रशस्तात्मा द्विजो निवसन्नापद्यपि नाशास्त्रीयांहिंसां समाचरेत् ॥४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं चान्यत्र स्वपरोपकारभावात् [-काराभावात्] **गृह** इति । गृहस्थवानप्रस्थब्रह्मचारि-भिक्ष्ववस्थः प्रशस्तात्मो द्विजः **आपद्य् अपि** अशास्त्रीयां **हिंसां **नाचरेत् ॥ ५.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	A twice-born man of virtuous disposition, whether he dwells in (his own) house, with a teacher, or in the forest, must never, even in times of distress, cause an injury (to any creature) which is not sanctioned by the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -35,11 +35,21 @@ described in Verse 22).”
 ‘*Devanikāyān*—‘Classes of gods’ (according to Nandana and Nārāyaṇa);—‘abodes of gods’ (Medhātithi, Kullūka and Rāghavānanda); the last of these suggests also the meaning ‘servants of the gods’.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एते मरीच्यादयो दश भूरितेजसो बहुतेजसोऽन्यान् सप्तापरिमिततेजस्कान् मनून्देवान् ब्रह्मणाऽसृष्टान् देवनिकायान देवनिवासस्थानानि स्वर्गादीन्महर्षीश्च सृष्टवन्तः। मनुशब्दोऽयमधिकारवाची। चतुर्दशसु मन्वन्तरेषु यस्य यत्र सर्गाद्यधिकारः सा तस्मिन्मन्वन्तरे स्वायं-'  
+भुवस्वारोचिषादिनामभिर्मनुरिति व्यपदिश्यते॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एते** इति । **एते** दश बहुतेजस्काः **सप्तान्यान् मनून् **सृष्टवन्तः । तथा **देवान् देवनिकायान् महर्षींश् च **अपरिमिततेजस्कान् । तेषां सर्वेषां मनूनां मन्वन्तरे एकैकस्य सर्गाद्यधिकारः ॥ १.३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

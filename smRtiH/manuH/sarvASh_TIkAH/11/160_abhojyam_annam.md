@@ -60,6 +60,16 @@ This verse is quoted in *Smṛtitattva* (p. 548);—and in
 and eat clarified butter.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्मनः शुद्धिकामेन प्रतिषिद्धमन्नं नादनीयम्। प्रमादात्तुभुक्तंवमितव्यम् तदसंभवेप्रायश्चित्तैः क्षिप्रं शोधनीयम्। वमनपक्षे तु लघुप्रायश्चितं भवत्येव ज्ञानतः पुनःपुर्वोक्तं प्रायश्चित्तम्॥ १६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभोज्यम्** इति । आत्मनः शुद्धिकामेन प्रतिषिद्धम् अन्नं हठान् न भक्षणीयं प्रमादभुक्ते पुनर् वमितव्यं तदसम्भवे प्रायश्चित्तैः क्षिप्रं शोधनीयम् । यत् तु वमनप्रक्षेपे ऽपि लघुप्रायश्चित्तं भवति ॥ ११.१५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 161	He who desires to be pure, must not eat forbidden food, and must vomit up such as he has eaten unintentionally, or quickly atone for it by (various) means of purification.

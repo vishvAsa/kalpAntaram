@@ -39,11 +39,21 @@ councillors, he shall act upon that counsel which is proposed by the highly inte
 *Kātyāyana* (Vīramitrodaya-Rājanīti, p. 178).—(See under 54.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषामेव सर्वेषां सचिवानां मध्यादन्यतमेन धार्मिकत्वादिना विशिष्टेन ब्राह्मणेन सह स–
+
+न्धिविग्रहादिवक्ष्यमाणगुणषट्कोपेतं प्रकृष्टं मन्त्रं निरूपयेत् ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सरेषाम्** इति । एषाम् एव **सर्वेषां** मध्याद् अन्यतमेन गुणातिशयवता अत्यन्तविदुषा **ब्राह्मणेन **सह सन्धिविग्रहादि वक्ष्यमाणगुणषट्कयुक्तं प्रक्षृष्टमन्त्रं राजा विचारेयते ॥ ७.५८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अधिकतरप्रज्ञो हि ब्राह्मणो धार्मिकत्वाच् च निर्दोषतया विश्वसनीयः ॥ ७.५८ ॥
-
-_एवं च सति,_
 </details>
 
 <details><summary>Bühler</summary>

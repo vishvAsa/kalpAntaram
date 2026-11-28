@@ -33,6 +33,16 @@ The verses referred to are the seven beginning with ‘*Indram mitram varuṇama
 The second half of this verse is quoted in *Mitākṣarā* (3.307) as referring to cases of passing urine, semen and such things in water.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एनस्वीत्यविशेषात्सर्वेष्वेव पापेषु "इन्द्रं मित्रं वरुणमग्निम्" इत्येताः सप्त ऋचः षण्मासं जपेत्। अप्रशस्तं मूत्रपुरीषोत्सर्गादिकं जले कृत्वा मासं भैक्षभोजी भवेत्॥२५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अब्दार्थम्** इति । अवशेषितत्वात् सर्वपापानाम् अन्यतमकारी इन्द्रं मित्रम् इत्य् एतत् सप्तकं षण्मासान् जपेत् मैथुनं चोदकमध्ये कृत्वा मासं भैक्षाशी स्यात् ॥ ११.२५५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **अब्दार्धं** षण्मासात् "इन्द्रम् इद्गाथिन्दो बृहद्" इत्य् एतत् **सप्तकं जपेद्** अविसेषात् सर्वस्मिन्न् एनसि । **अप्रशस्तं तु कृत्वाप्सु** मैथुनं मासं न्भैक्षाहारस् तिष्ठेत् ॥ ११.२५२ ॥

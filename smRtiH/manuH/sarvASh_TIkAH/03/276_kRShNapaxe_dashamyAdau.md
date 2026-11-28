@@ -114,11 +114,20 @@ who died through tree-climbing or iron weapons, or lightning or water or poison 
 who has died through weapons should be performed on the fourteenth day of the Mahālaya.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृष्णपक्षे दशमीमारभ्य चतुर्दशीं त्यक्त्वा श्राद्धे यथा तिथयः श्रेष्ठा महाफला न तथैतदन्याः प्रतिपदादयः ॥२७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्ष्णपक्ष** इति । **कृष्णपक्षे दशमी**प्रप्भृति **चतुर्दशीं वर्जयित्वा तथयः श्राद्धे प्रशस्ताः **युक्ताः महाफलाः पवित्राः प्रशस्ता **न तथेतरा** इति ॥ ३.२७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 276	The days of the dark half of the month, beginning with the tenth, but excepting the fourteenth, are recommended for a funeral sacrifice; (it is) not thus (with) the others.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -60,6 +60,16 @@ the house;—in *Vīramitrodaya* (Āhnika, p. 403), where ‘*Śanakaiḥ*’ is
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्यदन्नं पात्रे समुद्धृत्य स्वपतितादिभ्यः शनकैर्यथा रजसा न संगृह्यते तथा भुवि दद्यात् । पापरोगी कुष्ठी क्षयरोगी वा ॥९२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शुनां चेति** । तद् अनु अन्यद् अन्नम् उद्धृत्य **श्वपतितश्वपाककुष्ठ्यादिकाककृमीणां शनकै **रजोवगूण्ठनपरिहारेण **भुवि** निक्षिपेत् ॥ ३.९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.

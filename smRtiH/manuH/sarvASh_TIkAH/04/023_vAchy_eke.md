@@ -37,11 +37,22 @@ that time he offers speech unto breath; while he speaks, he does not breathe; th
 different sacrifice, the Daiva sacrifice; other Yogins have recourse to another sacrifice offered into the fire of Brahman. Others again offer the auditory and other organs into the fire of Restraint; others offer sound and the other objects into the fire of the sense-organs. Others offer all sense-functions and breath-functions into the fire of the Yoga of self-restraint, enkindled by wisdom. Sages fixed in their observances offer the sacrifice of substances, the sacrifice of austerities, the sacrifice of Yoga, the sacrifice of Vedic Study and the sacrifice of Knowledge. They offer the Prāṇa unto the Apāṇa, and the Apāṇa unto Prāṇa; and restraining the function of Prāṇa and Apāṇa, devoted to breath-control, restrained in their food, they offer Prāṇa unto the Prāṇas. All these are persons well-versed in sacrifices and have their sins destroyed by sacrifices. O Suppressor of enemies, the sacrifice of knowledge is superior to the sacrifice of substances; all action, O Pārtha, culminates in knowledge.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एके गृहस्था ब्रह्मविदो वाचि प्राणवायौ च यज्ञनिर्वृत्तिमक्षयफलां जानन्तः सततं वाचि प्राणं च जुह्वति, वाचं च प्राणे ।भाषमाणेन च वाचि प्राणं जुहोतीति, अभाषमाणेनोच्छ्वसता प्राणे वाचं जुहोतीति व्याख्यातव्यमित्यनेन विधीयते । यथा कौषीतकिरहस्यब्राह्मणम्– “यावद्वै पुरुषो भाषते न तावत्प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति यावद्धि पुरुषः प्रा-
+
+णिति न तावद्भाषितुं शक्नोति वाचं तदा प्राणे जुहोति एतेऽनन्ते अमृते आहुती जाग्रत्स्वपंश्च सततंजुहोति । अथवा अन्या आहुतयोऽनन्तरन्यस्ताः कर्ममय्योहि भवन्त्येवं हि तस्यैतत्पूर्वे।विद्वांसोऽग्निहोत्रं जुहवांचक्रुः”इति ॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाचीति** । अन्ये पुनः **वाचि** प्राणाख्ये च वायौ अक्षयफलां यज्ञसम्पत्तिं मन्यमाना अभिधानकामे वागग्नौ तूष्णीम्भावकाद् एव च प्राणाग्नौ वागाहुतिं जुह्वति प्राणाहुतिं जुह्वति । एवम् अनवरतं भावयत्न आसते । तथा च कौषीतकिरहस्यब्राह्मणम्- “यावद् वै पुरुषो भाषते न तावत् प्राणितुं शक्नोति प्राणं तदा वाचि जुहोति । यावद् वै पुरुषः पाणिति न तावद् भाषितुं शक्नोति वाचं तदा प्राणे जुहोति । एते अनन्ते अमृते आहुती जागत् स्वपंश् च सततं जुहोति अथ या अन्या आहुतयो ऽन्नवत्यस् ताः कर्ममय्यो हि भवन्ति, एवं तद्वस्मै तत्पूर्वे विद्वांसो ऽग्निहोत्रं जुहवां चक्रुः” इति ॥ ४.२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

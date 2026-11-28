@@ -79,11 +79,20 @@ This verse is quoted in *Śrāddkakriyākaumudī* (p. 41).
 reach neither the gods nor the Pitṛs.’ *Mahābhārata* (Anuśāsana, 90.42-43).—‘If at one’s offerings to gods and Pitṛs, his friends happen to form the predominant factor, then neither the gods nor the Pitṛs are satisfied; and he goes not to heaven. If one makes friends at the Śrāddha, he goes not by the path of the gods; collecting his friends at Śrāddha, ho falls off from heaven.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मित्रशब्दोऽयं भावप्रधानः ।यस्य मैत्रीप्रधानानि हव्यकव्यानि तस्य पारलौकिकं फलं न भवतीति फलाभावकथनपरमिदम् ।प्रेत्येति परलोक इत्यर्थे शब्दान्तरमव्ययमिङ्गं न तु क्त्वान्तम् ।तेनासमानकर्तृकत्वे कथं क्त्वेति नाशङ्नीयम् ॥१३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्येति** । **यस्य मित्रो**पकारपराणि हव्यकव्यानि तस्य पारलौकिकं **फलं** न भवतीति फलाभावकथनपरम् एतत्, न केवलं पूर्वमित्रस्य श्राद्धादिना देयं यावत् ॥ ३.१३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

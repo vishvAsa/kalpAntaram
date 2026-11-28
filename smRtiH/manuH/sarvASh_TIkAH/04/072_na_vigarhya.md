@@ -52,6 +52,16 @@ unobtrusively.’
 devoid of fragrance or one whose fragrance is very strong, or which is red.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न चाभिनिवेशेन कथां शास्त्रीयेष्वर्थषु लौकिकेषु वा कुर्यात्, केशकलापाद्वहिर्माल्यं न धारयेत् । गवां च पृष्ठेन यानांसर्वथेति प्रवेण्यादिव्यवधानेनाप्यधर्मावहम् ।पृष्ठेनेत्यभिधा नादाकृष्टशकटादिना न दोषः ॥७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नि विगृह्येति** । साभिनिवेशं **कथां न कुर्यात्,** वासश् च **बहिर्माल्यं न धारयेत्** । गोपृष्ठारोहणेन गमनं पर्यटनव्यवधानादिप्रकारेणादिधर्मापहम् ॥ ४.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.

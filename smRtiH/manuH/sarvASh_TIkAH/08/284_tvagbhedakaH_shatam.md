@@ -88,6 +88,16 @@ stones or wooden sticks, the fine is two *Māṣas*; double of this if blood is 
 or ears or any limb of a person of the higher castes, he shall be fined 200 *Purāṇas*; for striking him with the foot, his feet shall be cut off, or he shall he fined 500.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चर्ममात्रभेदकृत्समानजातिर्न शुद्रो ब्राह्मणस्य दण्डलाघवं पणशतं दण्डनीयः । तथा रक्तोत्पादकोऽपि पणशतमेव दण्ड्यः । मांसभेदी षण्निष्कान्दाप्यः । अस्थिभेदकस्तु देशान्निर्वास्यः ॥२८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्वग्भेदक** इति । चर्ममात्रभेदकृत् समानजातिः न तु शूद्रो ब्राह्मणस्य दण्डलाघवात् पणशतं दण्डनीयः । तथा रुधिरोत्पादी शतम् एव दण्ड्यो मांसभेदकृत् षड् निष्कान् दण्ड्यो ऽस्थिभेदी देशान् निर्वास्यः ॥ ८.२८४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यस् त्वचो विकारं दर्शयत्य् अलोहितं स विज्ञेयस् त्वग्भेदकः । ऋज्व् अन्यत् । अस्य तु विशेषः । मनुष्यानां पशूनां चेति ॥ ८.२८३ ॥

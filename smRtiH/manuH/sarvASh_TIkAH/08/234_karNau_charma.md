@@ -44,11 +44,19 @@ It is quoted in *Parāśaramādhava* (Vyavahāra, p. 265), as laying down that i
 care, the herdsman is free from blame, if he can produce the tail, the horns and other things.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वयं मृतेषु पशुषु कर्णचर्मलाङ्गुलप्रवालान्नाभेरधोभागस्नायुरोचनाः स्वामिनां दद्यात् । अन्यानि च चिह्नानि शृङ्गखुरादीनि दर्शयेत् ॥२३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कर्णौ च लोमांश् चेति । पशुस्वाषु दद्यात् तु मृतेष्व् अङ्गांश् च दर्शयेत्** । स्वयम्मृतेषु पशुषु कर्णचर्मलोमबस्त्याख्यमूत्राधाराङ्गविशेषस्नायुगोरोचना उपकारकत्वात् स्वामिने दद्यात् । चिह्नानि वदताकर्णत्वगादीनि प्रत्यभिज्ञानं दर्शयेत् ॥ ९.२३४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 विधिर् अयं] चाविशेषः ॥ ८.२३३ ॥
-
-_[अजा]विकार्थम् इदम् आह ।_
 </details>
 
 <details><summary>Bühler</summary>

@@ -69,6 +69,16 @@ the like—and in *Vīramitrodaya* (Vyavahāra, 40a), which explains ‘*adhyadh
 See Comparative notes for [Verse 8.166].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तद्देशस्थे देशान्तरस्थे वा स्वामिति स्वामिसम्बन्धिकुटुम्बव्ययनिमित्तं दासोऽपि यद् ऋणादानादि कुर्यात्स्वामी तत्तथाप्यनुमन्येत ॥१६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुटुम्बार्थ** इति । कुटुम्बार्थे धनिनो ऽपि व्यवहारं समाचरन् स्वदेशे विदेशे वा गतं सन्तं आगच्छन्तं प्रीक्षयेत् ॥ ८.१६७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **कुटुम्बार्थे ऽध्यधीनो ऽपि व्यवहारं यम् आचरेत् ।**

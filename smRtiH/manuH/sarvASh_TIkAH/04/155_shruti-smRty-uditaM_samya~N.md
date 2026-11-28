@@ -67,11 +67,20 @@ he shall have recourse to that conduct which has been ordained in the Śruti and
 which has been ordained in the Śruti and the Smṛti.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदस्मृतिभ्यां सम्यगुक्तंस्वेषु कर्मस्वध्ययनादिष्वङ्गत्वेन सम्बद्धं धर्मस्य हेतुं साधूनामाचारमनलसः सन्नितान्तं सेवेतेति सामान्येनाचारानुष्ठानोपदेशः फलकथनाय ॥१५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिस्मृत्युदितम्** इति । श्रुतिस्मृतिभ्यां सम्यग् उक्तं स्वेषु चाध्ययनयागादिष्व् अङ्गत्वेन सम्बद्धं धर्मस्य मूलभूतं साध्वाचारम् अनलसः सन् अभीक्ष्णम् अनुतिष्ठेत्॥ ४.१५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 155	Let him, untired, follow the conduct of virtuous men, connected with his occupations, which has been fully declared in the revealed texts and in the sacred tradition (Smriti) and is the root of the sacred law.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

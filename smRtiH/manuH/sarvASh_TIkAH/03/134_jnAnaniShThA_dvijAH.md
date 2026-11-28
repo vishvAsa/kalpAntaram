@@ -78,11 +78,20 @@ the performance of their duties, devoted to austerities, and devoted to parents,
 ‘*Svādhyāyaniṣṭhāḥ-jñānaniṣṭhāḥ-taponiṣṭhāḥ-karmaniṣṭhāḥ*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केचिदात्मज्ञानपरा ब्राह्मणा भवन्ति, अन्ये प्राजापत्यादितपःप्रधानाः, अपरे तपोऽध्ययननिरताः, इतरे यागादिपराः ॥१३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्ञाननिष्ठा** इति । **केचिद् **आत्मज्ञानपरा विप्रा भवन्ति । **अपरे** कृच्छ्रादितपःप्रधानाः । अन्ये तु तपोऽध्ययननिरताः । **अपरे** यागादितत्पराः ॥ ३.१३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 134	Some Brahmanas are devoted to (the pursuit of) knowledge, and others to (the performance of) austerities; some to austerities and to the recitation of the Veda, and others to (the performance of) sacred rites.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

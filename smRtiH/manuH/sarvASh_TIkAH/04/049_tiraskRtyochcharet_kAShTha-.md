@@ -50,6 +50,11 @@ This verse is quoted in *Nityācārapradīpa* (p. 248), which explains ‘*saṃ
 See Comparative notes for [Verse 4.45].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**तिरस्कृत्येति** । काष्ठपत्रलोष्टतृणैः भूमिम् अन्तर्धाय मौनी उच्छिष्टचाण्डालादिस्पर्श-प्रायश्चित्तरहितः आच्छादितगात्रः प्रावृतशिरा मूत्रपुरीषे कुर्यात् ॥ ४.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.

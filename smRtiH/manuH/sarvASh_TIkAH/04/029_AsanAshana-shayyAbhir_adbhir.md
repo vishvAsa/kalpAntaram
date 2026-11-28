@@ -50,11 +50,20 @@ Do. (67.32-33).—‘Never without having given; never without pouring the oblat
 himself alone; one shall not needlessly kill animals;—no Brāhmaṇa should reside in his house, without being honoured and fed. He shall always feed upon *Vighasa* and upon *Amṛta—Amṛta* being the remnant of sacrifices; and the eating of it is like the eating of sacrificial food. He who eats what has been left after all dependents have been fed is said to *feed on Vighasa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथाशक्त्यासनभोजनादिभिरनर्चितोऽतिथिरस्य गृहस्थस्य गृहे न वसेत् । अनेन शक्तितोऽतिथिंपूजयेदित्युक्तमप्युत्तरार्धमनूद्यते ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आसनाशनशय्याभिर्** इति । आसनादनादिभिर् यथाशक्ति अतिथिं पूजयेत् इत्य् उक्त्वा अतिथ्यनुवादो महायज्ञप्रसङ्गेन वक्ष्यमाणः पाखण्ड्यादिनिषेधार्थः ॥ ४.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

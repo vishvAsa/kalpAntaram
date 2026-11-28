@@ -45,6 +45,16 @@ vegetables; he may eat leaves; he may eat roots; or he may eat barley once a for
 rites prescribed by Śruti and Smṛti, he shall perform with oils extracted from fruits.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्थलजलोद्भवशाकान्यरण्ययज्ञियवृक्षोद्भवानि पुष्पमूलफलानीङ्गुद्यादिफलोद्भवांश्च स्नेहानद्यात्॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्थलजौदकशाकानीति** । स्थलोदकोद्भवानि शाकानि अरण्योद्भवानि यज्ञियवृक्षोभवानि च पुष्पमूलफलानि अद्यात् । इङ्गुदा(द्या)दिफलोद्भवांश् च स्नेहानारण्यत्वे ऽपि सति ॥ ६.१३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आरण्यान्य् एवैतानि श्यामाकादीनि गृह्यन्ते ॥ ६.१३ ॥

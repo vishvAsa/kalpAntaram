@@ -90,11 +90,20 @@ gods, ho shall make the offering to elementals; and he shall deposit food on the
 outcasts, as also for birds, one shall offer food outside, on the ground.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विश्वदेवार्थः सर्वदेवार्थो वैश्वदेवस्तस्य पक्वस्यान्नस्यावसथ्याग्नौ स्वगृह्यविहितपर्युक्षणा-दीतिकर्तव्यतापूर्वकमाभ्यो वक्ष्यमाणदेवताभ्यो ब्राह्मणः प्रत्यहं होमंकुर्यात् । ब्राह्मणग्रहणं द्विजातिप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात ॥८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैश्वदेवस्येति **। वैश्वदेवार्थस्यान्नस्य सतो वैवाहिके ऽग्नौ कालान्तराहिते वा परिसमूहनादि गृह्योक्तेतिकर्तव्यतापूर्वकम् **आभ्यो** वक्ष्यमाणाभ्यो **देवताभ्यः** प्रत्यहं **ब्राह्मणो होमं कुर्यात्,** ब्राह्मणग्रहणं द्विजप्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ ३.८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 084	A Brahmana shall offer according to the rule (of his Grihya-sutra a portion) of the cooked food destined for the Vaisvadeva in the sacred domestic fire to the following deities:
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

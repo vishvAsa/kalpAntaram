@@ -28,6 +28,11 @@ What this lays down is the propriety of concentrating oneself upon the idea of t
 It is only when one has got rid of all notions of ‘I’ and ‘mine,’—expressed in such ideas as—‘This is myself,’ ‘this is mine,’ and so forth,—that his notion of *unity* becomes fixed, and he attains ‘Brahman,’ which is of the nature of unsurpassed Highest Bliss. That is, he is saved from all evil and attains that desirable result which has been described in the scriptures.—125
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । एवं सर्वभूतेषु चात्मानम् इत्यादिनोक्तेन प्रकारेण यः सर्वभूतेष्व् अवस्थितम् आत्मानम् आत्मना मन्यते स रागद्वेषहानिं प्राप्य परं स्थानं ब्रह्म प्राप्नोति मुच्यत इत्य् अर्थः ॥ १२.१२५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **एवं यः सर्वभूतेषु**

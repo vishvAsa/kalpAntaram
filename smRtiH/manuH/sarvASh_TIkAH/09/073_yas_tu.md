@@ -26,6 +26,11 @@ The defects of the maiden have been already described. If a man gives her away w
 See Comparative notes for [Verse 9.72].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या पुनर्दोषवतींकन्यां दोषाननभिधाय ददाति तस्य कन्यादातुर्दुरात्मनो दानं तत्प्रत्यर्पणेन व्यर्थंकुर्यात् ॥ एतदपि त्यागे। दोषाभावकथनार्थम् ॥ ७३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 छद्मनोपपादिता त्याज्येत्यस्यायम् अनुवादः कारणतस् त्यागे दोशा(?)भावप्रदर्शनार्थम् ॥ ९.७३ ॥

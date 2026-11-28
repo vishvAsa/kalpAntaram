@@ -27,11 +27,15 @@ verse—in this ‘*order*;’—and ‘*after this they recite the Veda*.’ By
 Though this matter has already been asserted in Discourse II, yet it is repeated here; and this with a view to emphasise the fact, that—‘just as one does not recite the Veda at a time that is unfit for study, so also should he not recite it until he has previously recited *the essence of the three Vedas*.’—(125).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** देवपितृमनुष्यादौ देवत्वं (-त्वात् कथं) वेदत्रयस्य (जानन्तः) नानाशस्त्रज्ञा ऋग्यजुःसामात्मिकायास् त्रय्याः सारभूतं प्रणवव्याहृतिसावित्र्याख्यं प्रत्यहं प्रणवव्याहृतिसावित्र्यात्मकेन द्वितीयाध्यायोक्तक्रमेण प्रथमं **अभ्यस्य पश्चाद् वेदम् अधीयीयते ।** यथानध्यायेषु नाध्ययनं एवं प्रणवाद्यभ्यासं विना नाध्येयम् इत्य् एतद् अस्येह पुनर्वचनम् ॥ ४.१२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 125	Knowing this, the learned daily repeat first in due order the essence of the three (Vedas) and afterwards the (text of the) Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

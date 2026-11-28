@@ -86,11 +86,20 @@ deficient in limbs, astrologers,—these Brāhmaṇas should be avoided at all f
 dam-piercer, keeper of musical time, professional actor, teacher of false religion, professional beggar, who has incurred the liability of expiatory rites, roguish, foolhardy, fowler, gambler, atheist, back-biter, wicked, etc., etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्तेनश्चौरः स च सुवर्णचोरादन्यः, तस्य पतितशब्देनैव ग्रहणात् । पतितो महापातकी,क्लीबो नपुंसकः, नास्तिकवृत्तिर्नास्ति परलोक इत्येवं वृत्तिः प्रवर्तनं यस्य एतान्दैवपितृकृत्ययोरुभयोरेवायोग्यान्मनुरब्रवीदिति । मनुग्रहणं निषेधादरार्थम्, सर्वधर्माणामेव मनुनोक्तत्वात् ॥१५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ये स्तेनाः पतिताः क्लीबा **इति । स्तेनादीन् विप्रान् हव्यकव्ययोर् उभयोर् अप्य् अयोग्यान् **मनुर्** आह । चोरान् ब्राह्मणसुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । **पतितम्** एकादशे वक्षयति सुवर्णाद् अन्यत्र, तस्य पतितत्वेनोपसङ्ग्रहात् । पतितम् एकादशे वक्ष्यति क्लीबो नपुंसकम् । नास्ति परलोककर्मेत्य् एवं वर्तनं येषां ते **नास्तिकवृत्तयः** ॥ ३.१५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 150	Manu has declared that those Brahmanas who are thieves, outcasts, eunuchs, or atheists are unworthy (to partake) of oblations to the gods and manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

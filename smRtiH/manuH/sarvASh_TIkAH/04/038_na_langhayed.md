@@ -52,6 +52,16 @@ Do. (63.42-43).—‘He shall not cross over the rope to which the calf is tied;
 *Gobhila* (3.5.11).—‘He shall not run while it is raining.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वत्सबन्धनरज्जुं न लङ्घयेत् । वर्षति मेघे न धावेत् । न च स्वदेहप्रतिबिम्बं जले निरीक्षेतेति शास्त्रे निश्चयः ॥३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न लङ्घयेद्** इति । वत्सवन्धनरज्जुं **न लङ्घयेत् वर्षति न धावेत् उदके च **स्वप्रतिबिम्बं नेक्षेतेत्य् एवं निश्चयः ॥ ४.३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.

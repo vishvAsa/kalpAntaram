@@ -27,11 +27,20 @@ He who becomes tainted by the setting of the sun,—similarly who becomes tainte
 See Comparative notes for [Verse 2.220].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्सूर्येणाभिनिर्मुक्तोऽभ्युदितश्च निद्राणः प्रायश्चित्तमकुर्वन्महता पापेन युक्तो नरकं गच्छति । तस्माद्यथोक्तप्रायश्चित्तं कुर्यात् ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः । **सूर्येण ह्य् अभिनिम्लुक्त** इति । **सूर्येनाभिनिम्लुक्तः** निम्लोचनेनास्तं गमनेन **शयानः **सन् अभिव्याप्तः अनन्तरोक्तं **प्रायश्चित्तम् अकुर्वाणो महत्** पापेन** युक्तः स्यात्** ॥ २.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

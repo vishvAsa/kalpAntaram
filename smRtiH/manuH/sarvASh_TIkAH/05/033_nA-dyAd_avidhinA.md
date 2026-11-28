@@ -68,11 +68,20 @@ knife used for killing.’
 consecrated with mantras; that however which has been duly consecrated he shall eat, following the eternal law.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मांसभक्षणानुष्ठानदोषज्ञो द्विजातिरनापदि तत्तद्देवाद्यर्चनविधानं विना न मांसंभक्षयेत् । यस्मादविधानेन यो मांसं खादति स मृतः सन् यन्मांसं भक्षितं तैः प्राणिभिः परलेाके स्वरक्षणाक्षमः खाद्यत इति सर्वश्लोकानुवादः ॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नद्याद्** इति । मांसभक्षणप्रकारज्ञो **द्विजो ऽनापदि** देवाद्यर्चनविधानं विना **मांसं** नाश्नीयात् यस्माद् अविधानेन यो मांसम् अश्नाति स मृतः सन् परलोके तैः प्राणिभिः **परवशो** भुज्यते, यन् मांसम् अनेन भक्षितं युक्तम् इति पूर्वार्थवादः ॥ ५.३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 033	A twice-born man who knows the law, must not eat meat except in conformity with the law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

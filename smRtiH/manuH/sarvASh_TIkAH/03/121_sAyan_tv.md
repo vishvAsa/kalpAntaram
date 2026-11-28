@@ -112,11 +112,22 @@ evening, and by the man in the morning.’
 Bali-offering should be made both morning and evening, even though the man himself may not take any food.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दिनान्ते सिद्धस्यान्नस्य पत्नी अमन्त्रं बलिहरणं कुर्यात्, इन्द्राय नम इति मन्त्रपाठवर्जम् । मानसस्तु देवतोद्देशो न निषिध्यते । यत एतद्वैश्वदेवं नामान्नसाध्यं होमबलिदानातिथिभोजनात्मकं तत्साम्प्रातर्गृहस्थस्योपदिश्यते ॥१२१॥
+
+"श्राद्धकल्पं च शाश्वतम्” ( म. स्मृ. १ /११२) इत्यनुक्रमणिकायां प्रतिज्ञातं श्राद्धक-
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सायम्** इति । दिनान्ते **ऽन्नस्य** **सिद्धस्य **“इन्द्राय नमः” इत्य् एवमादिमन्त्रवर्जं मनसोद्देशेन **पत्नी **बलिहरणं भूतयज्ञाख्यं कुर्यात् । यस्माद् एवं नाम यज्ञाद्यात्मभोजनपर्यन्तं एतत् **सायं प्रातः** गृहस्थस्योपदिश्यते ॥ ३.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

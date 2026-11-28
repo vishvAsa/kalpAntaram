@@ -45,11 +45,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 459) as describing the
 See Comparative notes for [Verse 2.243].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+समाप्तिः शरीरस्य जीवनत्यागस्तत्पर्यन्तं यो गुरुं परिचरति स तत्त्वत्तो ब्रह्मणः सद्मरूपमविनाशि पदं प्राप्नोति । ब्रह्मणि लीयत इत्यर्थः ॥२४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अस्य फलम् आह **आ समाप्तेर्** इति । यावच् छरीरं **यो गुरुं** परिचरति **स **ब्रह्मलोकं आ महाप्रलयाद् अनश्वरं** अञ्जसा **स्पष्टेन मार्गेण गत्यन्तराव्यवहितेन **गच्छति **। **विप्र**ग्रहणं प्रदर्शनार्थम्, त्रयाणां प्रकृतत्वात् ॥ २.२४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

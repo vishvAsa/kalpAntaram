@@ -43,11 +43,28 @@ means.’
 service of the Teacher, or by much wealth, or by knowledge (in exchange); there is no fourth means;—the white ants rear up a huge heap by collecting small particles of dust: it is not strength that accomplishes this but only effort; gradually and slowly is learning acquired, gradually and slowly are riches attained, gradually and slowly is the hill ascended, gradually and slowly is the rags-cover made up; and gradually is the journey accomplished.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा कश्चिन्मनुष्यः खनित्रेण भूमिं खनन् जलं प्राप्नोति, एवं मुरौ स्थितां विद्यां गुरुसेवापरः शिष्यः प्राप्नोति ॥२१८॥
+
+ब्रह्मचारिणः प्रकारत्रयमाह—
+
+**मुण्डो वा जटिलो वा स्यादथवा स्याच्छुिखाजटः ।**
+
+**नैनं ग्रामेऽभिनिम्लोचेत्सूर्यो नाभ्युदयात्क्वचित् ॥२१९॥**
+
+मुण्डितमस्तकः, शिरःकेशो जटावान्था, शिखैव वा जटा जाता यस्य, एनं ब्रह्मचारिणं क्वचिद्र ग्रामे निद्राणं, उत्तरत्र शयानमिति दर्शनात्सूर्यो नाभिनिम्लोचेन्नास्तमियात् ॥२१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+युक्तम् एतत् पुत्रदारादिपर्यन्तं गुरुपरिचरणं यस्मात् **यथेति** । यथा कुद्दालादिना **खनित्रेण** महता यत्नेन **खनन् नरः** पातालगतम् उदकं प्राप्नोति एवम् आचार्यस्थां **विद्यां **परिचरणशीलः प्राप्नोति न त्व् आलस्यात् ॥ २.२१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

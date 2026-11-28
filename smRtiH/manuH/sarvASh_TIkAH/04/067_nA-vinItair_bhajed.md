@@ -53,6 +53,11 @@ constantly suffering from their tails or some disease;—nor by such as are defi
 defective conveyances.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नाविनीतैर्** इति । अश्ववृषभादिभिः गन्त्र्यादिधुर्वहनविनियुक्तैर् अदान्तैः बुभुक्षाव्याध्यार्तियुक्तैः भिन्नशृङ्गाक्षिखुरैः छिन्नपुच्छैः न यायात् ॥ ४.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.

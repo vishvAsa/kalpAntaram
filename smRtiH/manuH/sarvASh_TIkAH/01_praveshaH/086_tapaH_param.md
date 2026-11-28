@@ -49,11 +49,15 @@ most important;’—and in the *Kṛtyasārsamuccaya*, p. 80.
 See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+तथा च **तप **इति । **तपः **कृच्छ्रचान्द्रायणादि **कृतयुगे परं **प्रधानतो ऽनुष्ठीयते मनुष्यैः, युगस्वाभाव्यात् । आत्मज्ञानयज्ञदानानाम् अनुषङ्गतः । एवं **त्रेतायां ज्ञानं **परं तपःप्रभृतीनि तु आनुषङ्गिकानि । एवं **द्वापरे यज्ञम् आहुः दानम् कलाव् **इति ॥ १.८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 086	In the Krita age the chief (virtue) is declared to be (the performance of) austerities, in the Treta (divine) knowledge, in the Dvapara (the performance of) sacrifices, in the Kali liberality alone.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -58,11 +58,20 @@ destroys the family up to the seventh generation; neither the Gods nor the Pit�
 or gold or clothing or land or sesamum, he becomes burnt like fuel; if a man has an illiterate person at home and the learned man at a distance, the present should he made to the learned; the supersession of the illiterate is not wrong.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यया उत्कृष्टेभ्यो हव्यानि कव्यानि च देयानि, न मुर्खेभ्यः । अर्थान्तरन्यासो नामालंकारः । न हि रक्तातौ हस्तौ रक्तेनैव विशुद्धौ भवतः किंतु विमलजलेन, एवं मूर्खभोजनेन जनितं दोषं न मूर्ख एव भोजितोऽपहन्ति किंतु विद्वान् ॥१३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्ञानोत्कृष्टायेति** । विद्योत्कृष्टेभ्यो हव्यकव्यानि देयानि नान्येभ्यो यस्मात् यथा रुधिरोपलिप्तौ हस्तौ रुधिरेणैवापगतलेपौ कर्तुं न पार्यते, अपि तूदकेनैव शक्यते, एवं चाज्ञदानमुखेन नात्मा उत्तारयितुं शक्यते अपि तु विद्वद्दानद्वारेणैवेत्य् अविद्वन्निन्दया विद्वद्दानस्तुतिः ॥ ३.१३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

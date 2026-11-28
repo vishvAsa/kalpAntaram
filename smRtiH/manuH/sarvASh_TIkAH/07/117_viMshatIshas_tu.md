@@ -48,6 +48,11 @@ lord of the village shall suppress the evil; if he is unable to do so, he shall 
 district shall report it to the king, if he is himself unable to deal with it; the king shall himself take the necessary measures, and protect the people of the province in every way.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्रामाधिपतिश्चौरादिदोषान्ग्रामे संजातानात्मना प्रतिकर्तुमक्षमोऽनुत्कृष्टतया स्वयं दशग्रामाधिपतये कथयेत् । एवं दशग्रामाधिपतयो विंशतिग्रामस्वाम्यादिभ्यः कथयेयुः । तथा च सति सम्यक् चौरादिकण्टकोद्धारो भवति ॥११६॥११७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आसन्नकार्यज्ञापनार्थं ग्रामादिष्व् अधिपतिक्रियास् त्रिभिः श्लोकैः ॥ ७.११५–१७ ॥

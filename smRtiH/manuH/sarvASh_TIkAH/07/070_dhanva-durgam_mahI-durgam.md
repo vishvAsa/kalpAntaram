@@ -87,6 +87,11 @@ the six kinds of forts.’
 establish a natural fort for purposes of war either in the form of an enclosed island, or high ground surrounded by deep ditches, called the water fort; or of stone, in the shape of caves, called the *hilly fort*; caves, or barren ground devoid of water and grass, called the *Bow fort*; Or of thicket-covered marshy land, called the *Arborial fort*. Of these the Water and Hill forts are for defence and the Bow and Arborial forts are for safety during times of distress.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**धन्वदुर्गम्** इति । **धन्वदुर्गम्** अन्तरुदकं बाह्यतः समन्तात् पञ्चयोजनमात्रमरुभूम्युपेतम् । **महीदुर्गं** दृढं वप्रोपनिहितं विस्ताराद् द्विगुणोच्छ्रायद्वादशहस्ताधिकोच्छ्रितोपरि युद्धार्थगवाक्षादिप्राकारोपेतम् । अम्बुदुर्गं बाह्यतो ऽगाधानाश्रावकोदकपरिवृतम् । वृक्षदुर्गं बहिःसमन्तात् ततो योजनमात्रं व्याप्यास्ति संहतमहावृक्षोपेतम् । मनुष्यदुर्गं समन्ततो ऽवस्थापितहस्त्यश्वपदात्युपेतम्, आयुधाविक्रान्तपुरुषम् । गिरिदुर्गं पर्वतपृष्ठम् अतिदुरारोहम् अतिसङ्कटैर् वा मार्गानुगतम् । अन्तर्नदीप्रस्रवणादि उदकयुक्तम् इत्य् एवम् एतेषु दुर्गेषु मध्याद् अन्यतमं दुर्गम् आश्रित्य पुरं कुर्यात् ॥ ७.७० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्राकारेण वेष्टितं विष्कम्भद्विगुणोत्सेधेनैष्टिकेन शैलेन वा द्वादशहस्त्[आद् ऊर्ध्वम् उ]च्छ्रितेन तालमूलेन कपिशीर्षचिताग्रेण । । । दृढवप्रेण परिष्कृतं **महीदुर्गम्** । अगाधेनानास्रावणीयेन चोदकेन परिवेष्टितम् **अब्दुर्गम्** । समन्ततो ऽर्धयोजनमात्रं घनमहावृक्षचितं **वार्क्षदुर्गम्** । चतुरङ्गबलाधिष्ठितं प्रवरायुधीयपुरुषप्रायं **नृदुर्गम्** । गिरिपृष्टं दुरारोहम् एकमार्गानुगतम् [अन्तर्]नदीप्रस्रवणोदमं **गिरिदुर्गम्** ॥ ७.७० ॥

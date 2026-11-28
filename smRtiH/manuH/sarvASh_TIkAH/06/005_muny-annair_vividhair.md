@@ -43,11 +43,20 @@ he shall maintain, with things obtained without ploughing, the fires, Pitṛs, g
 *Yama* (Aparārka).—(See under 3.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मुन्यन्नैर्नीवारादिभिर्नानाप्रकारैः पवित्रैः शाक्मूलफलैर्वाऽरण्योद्भवैः एतानेव गृहस्थस्य पूर्वोक्तान्महायज्ञान् यथाशास्त्रमनुतिष्ठेत्॥५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मुन्यन्नैर्** इति । **मुन्यन्नैर्** अपरैः पवित्रैः शाकमूलफलैर् वा एतान् एव पूर्वोक्तान् **महायज्ञान्** यथाशास्त्रम् अनुतिष्थेत् ॥ ६.५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 005	Let him offer those five great sacrifices according to the rule, with various kinds of pure food fit for ascetics, or with herbs, roots, and fruit.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

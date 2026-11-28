@@ -53,6 +53,17 @@ It is quoted in *Gadādharapaddhati* (Kāla, p. 536), which supplies the descrip
 See Comparative notes for [Verse 3.269].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**संवत्सरं तु गव्येनेति । संवत्सरं तु** पुनः **गव्येन **क्षीरेण **वार्ध्रीणसस्य **च । 
+
+> त्रिःपिबं त्व् इन्द्रियक्षीणं श्वेतं वृद्धम् अजापितम् । 
+
+> वार्ध्रीणसं तु तं प्राहुः याज्ञिकाः पितृकर्मणि ॥
+
+इत्य् एवं निगमे पठितस्य् **मांसेन द्वादशवार्षिकी तृप्तिर् भवति ** । पिबतः कर्णजिह्वं यस्य जलं स्पृशति सः त्रिपिब इव त्रिपिबः ॥ ३.२७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.

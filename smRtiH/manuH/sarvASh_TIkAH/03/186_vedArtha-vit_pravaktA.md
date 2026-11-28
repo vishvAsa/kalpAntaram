@@ -62,11 +62,20 @@ This verse is quoted in *Madanapārijāta* (p. 557), which explains ‘*pravakt�
 See Comparative notes for [Verse 3.184].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनधीत्यापि वेदाङ्गानि गुरूपदेशाधिगतवेदार्थः, प्रवक्ता वेदार्थस्यैव, ब्रह्मचारी प्रथमाश्रमी, सहस्रद इति देयविशेषानुपादानेऽपि "गावो वै यज्ञस्य मातरः" इत्यादिविशेषप्रवृत्तश्रुतिदर्शनाद्गोसहस्रदाता बहुप्रदो वा । शतायुः शतवर्षवयाः । “श्रोत्रियायैव देयाति" इति नियमात्सति श्रोत्रियत्वे उक्तगुणयोगात्पङ्क्तिपावनत्वम् ॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदार्थविद्** इति । अन्तरेणाप्य् अङ्गानि यो वेदार्थं प्राज्ञतया वेत्ति **प्रवक्ता** अध्यापयिता व्याख्याता धर्मार्थं वेदवेदार्थयोः **ब्रह्मचारी **। “गावो वै यज्ञस्य मातरः” इति वेददर्शनात् इहापि वेदमूलत्वात् गोसहस्रस्य दाता बहुप्रदश् च, एवं शतवर्षश् च इत्य् एते ब्राह्मणाः “श्रोत्रियायैव देयानि” इति नियमात् । सति श्रोत्रियत्वे एतद्गुणयोगे पङ्क्तिपावना बोद्धव्याः ॥ ३.१८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

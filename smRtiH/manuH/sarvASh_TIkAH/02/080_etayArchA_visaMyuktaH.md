@@ -61,11 +61,20 @@ Manu\].
 Morning-prayer before the advent of Dawn, nor the Evening-prayer before the lapse of Eve,—how can these be called Brāhmaṇas? Those Brāhmaṇas who offer? not the? Morning and Evening Prayers, them the king should employ in works fit for the Śūdra.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+संध्यायामन्यन्त्र च समय ऋचैतया सावित्र्या विसंयुक्तस्त्यक्तसावित्रीजपः स्वकीयया क्रियया सायम्प्रातर्होमादिरूपया स्वकाले त्यक्तो ब्राह्मणः क्षत्रियो वैश्योऽपि सज्जनेषु निन्दां गच्छति । तस्मात्स्वकाले सावित्रीजपं स्वक्रियां च न त्यजेत् ॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतयेति **। **एतया ऋचा **सावित्र्या वियुक्तः वेदाध्ययनाभावात् उपनयनकाले चात्मीययोपनयनाख्यक्रियया वियुक्तः **ब्राह्मनक्षत्रियवैश्य**जातीयः निन्द्यतां शिष्टविषये प्राप्नोतीत्य् अनुष्ठाननिन्दाद्वारेण विधित्रयोपनयन्योः स्तुतिः ॥ २.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 080	The Brahmana, the Kshatriya, and the Vaisya who neglect (the recitation of) that Rik-verse and the timely (performance of the) rites (prescribed for) them, will be blamed among virtuous men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

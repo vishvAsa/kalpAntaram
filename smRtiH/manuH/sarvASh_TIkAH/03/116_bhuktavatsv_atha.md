@@ -54,11 +54,20 @@ after the guests and dependents have been fed.’
 rest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विप्रेष्वतिथिषु, स्त्रेषु ज्ञातिषु, भृत्येषु दासादिषु कृतभोजनेषु ततोऽन्नादवशिष्टं भार्यापती पश्चादश्नीयाताम् ॥११६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भुक्तवत्स्व्** इति । अतिथ्यादिज्ञातिसम्बन्धेषु दासेषु कृतभोजनेषु ततो ऽन्नावशिष्टं जायापती पश्चाद् अश्नीयाताम् ॥ ३.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	After the Brahmanas, the kinsmen, and the servants have dined, the householder and his wife may afterwards eat what remains.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

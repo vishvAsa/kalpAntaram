@@ -73,11 +73,20 @@ life-long one.’
 dwarf, the humpbacked, one born blind, the sexless, the lame, the diseased and the invalid.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि तु गुरोः कुले नैष्ठिकब्रह्मचर्यात्मकमात्यन्तिकं वासमिच्छेत्तदा यावजीवनमुद्युक्तो गुरुं शुश्रूषयेत् ॥२४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं नैष्ठिकब्रह्मचर्यविध्यर्थम् आह **यदीति** । **यदि **पुनर् ब्रह्मचारी यावज्जीविकवासं **गुरुगृहे** इच्छेत् तदा यत्नवा भूत्वा **आ** **शरीर**पतनात् गुरुम् आराधयेत् इत्य् एष एव नैष्ठिक उच्यते । तथा च हारीतः**:** “निष्ठां चेद् गच्छति” इति । इतरस् तूपकुर्वाणक उच्यते । अध्यापनार्थं शुश्रूषाकरणं प्रवृत्तत्वात् । न चात्र “यावज्जीवम् अग्निहोत्रं जुहुयाद्” इत्य् एवमादिश्रुत्या बाध आशङ्कनीयः “ब्रह्मचार्य् आचार्यकुलावासी तृतीयो ऽत्यन्तम् आत्मानम् आचार्यकुले ऽवसादयन्” इत्य् अस्याप्य् एतच् छ्रुतिमूलत्वात् ॥ २.२४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 243	But if (a student) desires to pass his whole life in the teacher's house, he must diligently serve him, until he is freed from this body.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

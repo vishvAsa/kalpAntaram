@@ -37,11 +37,20 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 94).
 See Comparative notes for [Verse 2.225].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नृणामपत्यानां सम्भवे गर्भाधाने सति अनन्तरं यं क्लेशं मातापितरौ सहेते तस्य वर्षशतै.' रप्यनेकैरपि जन्मभिरामृण्यं कर्तुमशक्यम् । मातुस्तावत्कुक्षौ धारणदुःखं, प्रसववेदनाऽतिशयो, जातस्य रक्षणवर्धनकष्टं च पितुरधिकान्येव । रक्षा संवर्धन-दुःखम्, उपनयनात्प्रभृति वेदतदसाध्यापनादिक्लेशातिशय इति सर्वसिद्धम् ॥२२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्भवे **गर्भग्रहणे सति तदनन्तरम् एवानवरतं यद् दुःखम् अपत्यानां सम्बन्धि मातापितराव् अनुभवतः । तस्यानेकवर्षशतं प्रत्युपकारकरणेनापि आनृण्यं प्राप्तुं न शक्यते किम् उतैकजन्मनेति ॥ २.२२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

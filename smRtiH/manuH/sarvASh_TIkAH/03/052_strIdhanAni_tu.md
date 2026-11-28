@@ -44,11 +44,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 851), which deduces fr
 ‘*svarṇam yānāni*’ for ‘*nārīyānāni*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कन्यादाननिमित्तकशुल्कग्रहणनिषेधप्रसङ्गान्नवमाध्यायाभित्रेयस्त्रीधनग्रहणनिषेधोऽयम् । ये बान्धवाः पतिपित्रादयः कलत्रदुहिनादिधनानि गृहन्ति । नारी स्त्रो, यानान्यवाहीनि, वस्त्रं चेति प्रदर्शनार्थम् । सर्वमेव धनं ग्राह्यम् । ते गृह्णानाः पापकारिणो नरकं गच्छन्ति ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्त्रीधनानीति** । दुहितृभगिन्¥आसिसम्बन्धीनि हिरण्यानि दासीवाहनवस्त्राणि वा पित्रादय उपभुञ्जते । अतस् ते **पापाः** पाककर्माणो नरकं व्रजन्ति । प्रसङ्गात् स्त्रीधनोपजीवनप्रतिषेधः ॥ ३.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	But those (male) relations who, in their folly, live on the separate property of women, (e.g. appropriate) the beasts of burden, carriages, and clothes of women, commit sin and will sink into hell.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

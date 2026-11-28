@@ -30,11 +30,20 @@ The present text is a commendatory exaggeration: it is not meant that meat shoul
 See Explanatory notes for [Verse 5.48].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शुक्रशोणितपरिणामात्मिकां समुत्पत्तिं घृणाकरीं विज्ञाय प्राणिनां वधवन्धौ च क्रूरकर्मरूपौ निरूप्य विहितमांसभक्षणादपि निवर्तत, किमुतावहितमांसभक्षणादिति अविधिना मांसभक्षपनिन्दाऽनुवादः ॥४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**समुत्पत्तिं चेति **। शुक्रशोणिताभ्यां चिकित्सकोत्पादनाग्रेसराभ्यां **समुत्पत्तिं** मारणकाले च सकलक्रूरकर्माग्रणीभूतौ **वधबन्धौ** पर्यालोच्य विहितमांसभक्षणाद् अपि **निवर्तेत** ॥ ५.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	Having well considered the (disgusting) origin of flesh and the (cruelty of) fettering and slaying corporeal beings, let him entirely abstain from eating flesh.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

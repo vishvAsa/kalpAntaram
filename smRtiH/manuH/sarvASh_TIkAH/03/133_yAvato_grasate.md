@@ -97,11 +97,28 @@ learning,—if they be of base conduct and addicted to wicked deeds,—they are 
 *Low Brāhmaṇas*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्संख्याकान्ग्रासान्हव्यकव्येष्ववेदविद् भुङ्गं तत्संख्याकानेव प्रकृतश्राद्धकर्ता ज्वलितशूलर्ष्ट्या- ख्यायुधलोहपिण्डान्मसते, श्राद्धकर्तुरेवेदमविद्वद्दानफलकथनम् । तथा च व्यासः—
+
+**ग्रसते यावतः पिन्डान्यस्य वै हविषोऽनृचः ।**
+
+**ग्रसते तावतः शूलान्गत्वा वैवस्वतक्षयम् ॥१३३॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यावत** इति । यत्सङ्ख्यकान् ग्रासान् हव्यकव्येष्व् अवेदविद् ग्रसते तत्सङ्ख्याकान् एव प्रस्तुतश्राद्धकर्ता ज्वलितान् स्थूलान् शूलर्ष्ट्याख्यायुधान् अयःपिण्डान् **ग्रसते** इति अविद्वद्दानफलकथनम् । तथा च व्यासो दातुर् एव फलम् आह,
+
+> ग्रसते यावतः पिण्डान् यस्य वै हविषो ऽनृचः ।
+
+> ग्रसते तावतः शूलान् गत्वा वैवस्वतक्षयम् ॥ ३.१३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 133	As many mouthfuls as an ignorant man swallows at a sacrifice to the gods or to the manes, so many red-hot spikes, spears, and iron balls must (the giver of the repast) swallow after death.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

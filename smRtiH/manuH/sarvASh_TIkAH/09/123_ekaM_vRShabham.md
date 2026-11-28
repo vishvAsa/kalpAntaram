@@ -61,6 +61,11 @@ equal in caste and number, but born of different mothers, a legal division may b
 other than that of the father, seniority is determined by their moral character; between twins, by actual birth, *i.e*., that one is senior whose face the father sees first.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वस्यां जातः पूर्वजः। “ड्यापोः संज्ञाछन्दसोबहुलम्" (पा. सू. ६।३।६३ ) इति हृस्वत्वम्। स कनिष्ठोऽप्येकं वृषभमुद्धारं गृह्णीयात्ततः श्रेष्ठवृषभादन्ये ये सन्त्यग्र्याः श्रेष्ठवृषभास्ते तस्माज्ज्जेष्ठिनेयान्मातृत ऊनानां कनिष्ठेयानां प्रत्येकमेकैकशो भवन्तीति मात्रुद्वाहक्रमेण ज्यैष्ठ्यम्॥ १२३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पूर्वस्यां जातः **पूर्वजः** कनीयान् उच्यते न पूर्वजातः । एवं च सत्य् एतद् अत्र समञ्जसं ज्येष्ठग्रहणं भवति । ततो ऽपि **अज्येष्ठ**[**वृषा** एकशः] **तदूनानाम्** । तस्माद् ऊनास् तदूनाः न व्यस्तः, किं तर्हि स्वमातृतः । तथा च सति मातृतो ज्यैष्ठ्यम् अत्र पुत्राणाम्, न जन्मतः॥ ९.१२३ ॥

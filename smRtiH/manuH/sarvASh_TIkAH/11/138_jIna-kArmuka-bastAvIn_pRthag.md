@@ -54,6 +54,19 @@ in name, one should give a leather bag.’
 Kṣatriyā, or Vaiśya, or Śūdra woman, one shall give, for purifying himself, a leather bag, a bow, a goat, or a ram respectively. But for killing a woman not badly behaved he should perform the same penance as that for killing a Śūdra.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ वर्णानामानुपूर्व्येण त्रयाणामविशेषतः।  
+अमत्या च प्रमाप्य स्त्रीं शूद्रहत्याव्रतं चरेत्॥ =॥ \]**
+
+ब्राह्मणादिवर्णस्त्रियो लोभादुत्कृष्टापकृष्टपुरुषव्यभिचारिणीर्हत्वा ब्राह्मणादिक्रमेण चर्मपुटधनुश्छागमेषान् शुद्ध्यर्थं दद्यात्॥ १३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जीनकार्मुकबस्तावीन्** इति । ब्राह्मणादिचातुर्वर्ण्यजातीयाः स्त्रियो नैकोत्कृष्टापकृष्टपुरुषगमनेन पतन्तीभूताः कथञ्चिद् अनिच्छातो हत्वा चर्मपूटधनुच्छागमेषान् यथाक्रमं शुद्ध्यर्थं दद्यात् ॥ ११.१३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **क्रव्यादांस् तु मृगान् हत्वा**

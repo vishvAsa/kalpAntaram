@@ -38,11 +38,15 @@ This verse is quoted in *Aparārka* (p. 33), as laying down the exact form of th
 Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"एतदक्षरमेतां च" ( म० स्मृ० २-७८ ) इति वक्ष्यति तस्यायं शेषः । अकारमुकारं मकारं च प्रणवावयवभूतं ब्रह्मा वेदनयादृग्यजुःसामलक्षणाद्भूर्भुवः स्वरिति व्याहृतित्रयं च क्रमेण निरदुहृदुद्धतवान् ॥७६॥
+</details>
+
 <details><summary>Bühler</summary>
 
 076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

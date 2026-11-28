@@ -64,6 +64,16 @@ of the requisite means, does not repay the debt, through dishonesty, he should b
 party proves it to he so, then the former shall pay to the King a fine equal to the amount of the claim. The man who makes a false claim shall pay to the King a fine equal to double the amount of the claim.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः प्रत्यर्थी यत्परिमाणधनमपनयति, अर्थी वा यत्परिमाणधने मिथ्या वदति तावधार्मिकावपह्नुतमिथ्योक्तधनाद् द्विगुणं दण्डरूपं दापनीयौ । अधर्मज्ञाविति वचनाज्ज्ञानपूर्वापह्नवमिथ्योक्तिविषयमिदम् । । प्रमादादिनाऽऽलाप मिथ्यानियोगेऽपह्नवे द्विगुणमिति शतदशमभागवक्ष्यति ॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । यः प्रत्यर्थी यत्परिमाणं धनम् अपजानीते यत्परिमाणं वा धनम् अर्थी मिथ्या कथयति अधर्मप्रवृत्तौ तस्माद् अपह्नुतान् मिथ्योक्ताच् च धनात् द्विगुणं दण्डार्थं दापनीयः । अधर्मज्ञाव् इति वचनाद् इदम् अत्यन्ताभिनिवेशादिप्रवृत्तविषयम् । अभिनिवेशे त्व् अपह्नवे तद्द्विगुणम् अपि दशकं शतं वक्ष्यति ॥ ८.५९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **यो यावन् निह्नुवीतार्थं मिथ्या यावति वा वदेत् ।**

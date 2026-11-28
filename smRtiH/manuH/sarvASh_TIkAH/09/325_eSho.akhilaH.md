@@ -34,6 +34,11 @@ The first half of this verse sums up the entire section dealing with the Duties 
 See Comparative notes for [Verse 9.323].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतद्राज्ञः कर्मानुष्ठानं पारंपर्यागततया नित्यं समग्रमुक्तम्। इदानींवैश्यशूद्रक्रमेण वक्ष्यमाणमिदं कर्मानुष्ठानं जानीयात्॥ ३२५॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 श्लोकद्वयेन राजधर्मोपसंहारो [वैश्य]शूद्रवृत्तिधर्मोपक्षेपविशेषार्थो विज्ञेयः । तथा च तं विशेषं प्रदर्शयति- यत्कृतो ऽस्य पुनरारम्भः ॥ ९.३२४–२५ ॥

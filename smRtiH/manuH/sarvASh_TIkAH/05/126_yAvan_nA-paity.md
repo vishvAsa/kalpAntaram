@@ -86,11 +86,20 @@ the stain, the grease and the smell, by means of earth, water, cowdung and such 
 substance remains on the defiled object, so long must earth and water be constantly applied, in all purifications of inanimate things.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विष्ठादिलिप्ताद् द्रव्याद्यावत्तत्सम्बन्धिनौ गन्धलेपौ तिष्टतस्तविद् द्रव्यमुद्धत्य मृद्वारि प्रक्षिप्य ग्रहीतव्यम् ।यंत्र च वसामज्जादौ मृदा शुद्धिस्तत्र मृत्सहितं जलग्रहणं कर्तव्यम् । यत्र कर्णमलादौ जलेनैव शुद्धिस्तत्र जलमात्रमित्यवगन्तव्यम् ॥१२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यावन् नापैत्य् अमेध्याक्ताद् गन्धो लेपश् च तत्कृतः** इति । पुरीषादिदग्धाद् यावत् पुरीषादिसम्बन्धिनौ गन्धलेपौ नापगच्छतः तावत् सर्वद्रव्यशुद्धिषु मृद् वारि प्रग्रहीतव्यम् इत्य् अमेध्याक्तद्रव्योक्तानुक्तशुद्धिविशेषविषयम् इदम् ॥ ५.१२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 126	As long as the (foul) smell does not leave an (object) defiled by impure substances, and the stain caused by them (does not disappear), so long must earth and water be applied in cleansing (inanimate) things.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

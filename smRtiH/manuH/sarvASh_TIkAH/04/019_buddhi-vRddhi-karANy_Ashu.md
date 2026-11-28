@@ -65,11 +65,20 @@ which he does not shine, that he should acquire by going to the teacher again.�
 even after settling down in the house, the man shall reside for two months in the year with the Teacher, seeking for further knowledge. This however is forbidden by the scriptures.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाविरुद्धानि शीघ्रं बुद्धिवृद्धिजनकानि व्याकरणमीमांसास्मृतिपुराणन्यायादीनि शास्त्राणि, तथा धन्यानि धनाय हितान्यर्थशास्त्राणि बार्हस्पत्योशनसादीनि, तथा हितानि दृष्टापकारकाणि वैद्यकज्योतिषादीनि, तथा पर्यायकथनेन वेदार्थावबोधकान्निगमाख्यांच ग्रन्थान्नित्यं पर्यालोचयेत् ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बुद्धिवृद्धिकराणीति** । वेदाविरुद्धन्यायशास्त्रादीनि क्षिप्रं बुद्धिपाटवजनकानि धनार्थानि च औशनस्यादीनि **हितानि च **दृष्टोपकारकादीनि आयुर्वेदानीनि अनवगतशब्दार्थपर्यायकथनेन वेदार्थबोधकान् वेदार्थबोधकान् निगमाख्यान् ग्रन्थान् **नित्यं** पर्यालोचयेत् ॥ ४.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -31,11 +31,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 580).
 *Viṣṇu* (51.59).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदविहितमन्त्रवत्प्रोक्षणादिसंस्कारशून्यान्पशुन्विप्रादिः कदाचिन्नाभीयात् । शाश्वतं प्रवाहानादितया नित्यं पशुयागादिविधिमास्थितो मन्त्रसंस्कृतानेवाश्नीयादिति । "प्रोक्षितं भक्षयेन्मांसम्” ( म. स्मृ. ५-२७ ) इत्येत ज्यानुवादार्थमेतत् ॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**असंस्कृतान्** इति । पशुयागादिचोदितप्रोक्षणादिमन्त्रसंस्कारराहितान् गोऽव्यजादि**पशून् **विप्रादिः न कदाचिद् अप्य् **अद्यात्** । किं तर्हि । नैमित्तिकं वैदिकपशुयागादिविधिम् आश्रितः सन् मन्त्रसंस्कृतान् एवाश्नीयाद् इत्य् अनुपाकृतमांसार्थे निरूपणार्थवादम् एतत् [मांसनिराकरणानुवादार्थम् एतत्] ॥ ५.३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 036	A Brahmana must never eat (the flesh of animals unhallowed by Mantras; but, obedient to the primeval law, he may eat it, consecrated with Vedic texts.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

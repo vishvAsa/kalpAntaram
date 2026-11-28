@@ -37,6 +37,13 @@ at the time of partition, and is subsequently discovered, it shall be divided by
 concealed with a fraudulent purpose, the King shall recover it from the cheat by artifice, but not use violence to extort it from him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋणे पित्रादिधार्यमाणे धने च तदीये सर्वस्मिन्यथाशास्त्रंविभक्तेसति श्चात्यत्किञ्चि-
+
+त्पैतृकं ऋणं धनं वा विभागकालेऽज्ञातमुपलभ्येत तत्सर्वंसमं कृत्वा विभजनीयं, नतु शोध्यं ग्राह्यं, न वा ज्येष्ठस्योद्धारो देयः॥ २१८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 द्रष्ट्रा न तद् ग्राह्यम् इत्य् एवमर्थं पुनर् उपदेशः, ज्येष्ठांशप्रतिषेधार्थो वा, द्व्यंशः पूर्वजः इत्य् एवम् उक्तं ज्येष्ठस्य तद् अत्र न स्यात् ॥ ९.२१८ ॥

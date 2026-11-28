@@ -54,11 +54,20 @@ This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 50.
 See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सत्ययुगादन्येषु त्रेतादिषु आगमादधर्मेण धनविद्यादेरर्जनात्तस्यैव पूर्वश्लोके प्रकृतत्वात्। आगमाद्वेदादिति तु गोविन्दराजो मेधातिथिश्च। धर्मो यागादिः यथाक्रमं प्रतियुगं पादम्पादमवरोपितो हीनः कृतस्तथा धनविद्यार्जितोऽपि यो धर्मः प्रचरति सोऽपि चौर्यासत्यच्छद्मभिः प्रतियुगं पादशो ह्रासाद्व्यपगच्छति। त्रेतादियुगः सह चौरिकानृतच्छद्मनां न यथासंख्यम्, सर्वत्र सर्वेषां दर्शनात्॥८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । त्रेतादिषु पुनर् **आगमात् **शास्त्राद् **धर्मो **यागाद्यनुष्ठानं यथाक्रमं प्रतियुगं पादं पादम् **अवरोपितं **हीनं कृतं चौर्यासत्यछद्मभिः नात्र युगैः यथासङ्ख्यं चौर्यादीनां सर्वेषां सर्वयुगेषु दर्शनात् । एवं च **पादशो **ऽनुष्ठाणापगमात् तत्साध्यो ऽप्य् अभ्युदयहेतुः मुख्यो धर्मः पादशो व्यपगच्छति ॥ १.८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 082	In the other (three ages), by reason of (unjust) gains (agama), Dharma is deprived successively of one foot, and through (the prevalence of) theft, falsehood, and fraud the merit (gained by men) is diminished by one fourth (in each).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

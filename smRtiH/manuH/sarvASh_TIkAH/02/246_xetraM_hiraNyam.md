@@ -71,11 +71,28 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 178), which adds tha
 the pupil should with bis permission take the Bath, after having offered to him a cow as his fee.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शक्त्यागुर्वर्थमाहरेत्" (अ. २श्लो. २४५ ) इत्युक्त्तत्वात्क्षेत्रहिरण्यादिकं यथासा -
+
+मर्थ्यं विकल्पितं समुदित वा गुरवे दत्त्वा तत्प्रीतिमर्जयेत् । विकल्पपक्षे चान्ततोऽन्यासम्भवे छत्रोपानहमपि दद्यात् । द्वन्द्वनिर्देशात् समुदितदानम् । प्रदर्शनार्थं चैतत्। सम्भवेऽन्यदपि दद्यात् । अत एव लघुहारीतः—
+
+**एकमप्यक्षरं यस्तु गुरुः शिष्ये निवेदयेत् ।**
+
+**पृथिव्यां नास्ति तद् द्रव्यं, यद् दत्त्वा चानृणी भवेत् ॥**
+
+असम्भवे शाकमपि दद्यात् ॥२४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्षेत्रम्** इति । अतश् च प्रीत्युत्पादनपरत्वात् प्रदर्शनार्थं भूम्यादिग्रहणम् । अन्ततो यद्य् उत्पन्नं किञ्चित् स्यात् तदा छत्रोपानहम् ॥ २.२४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 246	(Viz.) a field, gold, a cow, a horse, a parasol and shoes, a seat, grain, (even) vegetables, (and thus) give pleasure to his teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

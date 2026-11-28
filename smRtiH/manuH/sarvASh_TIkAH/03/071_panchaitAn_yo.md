@@ -45,11 +45,20 @@ Purposes, constant giving of food, worship of the Gods and the Bāhmaṇas, stud
 feeding of children, young girls, old persons, the pregnant woman, the sick and the maidens, as also the guests and dependants.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शक्तित इत्येतद्विधानार्थोऽयमनुवादः । अनुकल्पेनापि यथासम्भवमेते कर्तव्याः ।हापयतीति प्रकृत्यर्थ एव छान्दसत्वाणिणच् । जहातीत्यर्थः ॥७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चेति । एतान् पञ्च महायज्ञान् यो** यथाशक्ति न जहाति स सर्वकालम् **अपि गृहे वसन्** चुल्ल्यादिसूनाजनितैः पापैर् न सम्बध्यते ॥ ३.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

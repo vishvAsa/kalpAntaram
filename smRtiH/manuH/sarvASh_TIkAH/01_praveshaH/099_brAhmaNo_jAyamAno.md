@@ -29,11 +29,20 @@ The *Aparārka* (p. 281) quotes this verse in support of the view that the learn
 See Comparative notes for [Verse 1.94 (Brahmā created the Brāhmaṇas)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद् ब्राह्मणो जायमानः पृथिव्यामधि उपरि भवति श्रेष्ठ इत्यर्थः। सर्वभूतानां धर्मसमूहरक्षायै प्रभुः, ब्राह्मणोपदिष्टत्वात्सर्वधर्माणाम्॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मण् **इति । यस्माद् **ब्राह्मण **उत्पद्यमानः धर्मसञ्चयरक्षणार्थं **सर्वभूतानाम् ईश्वरः **प्रभुः सन् **पृथिव्याम् अध्**इकः एकः श्रेष्ठः शुक्लैः गुणैः **जायते **तस्माद् असौ मूर्तिः धर्मस्य शास्वती पूर्वोक्तहेतुर् अयम् । **कोशो** धनसञ्चयः (न) इहोपचारात् कोशश्ब्दः । तद्गोप्तृत्वं च ब्राह्मणोपदेशकत्वात् सर्वधर्माणाम् ॥ १.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

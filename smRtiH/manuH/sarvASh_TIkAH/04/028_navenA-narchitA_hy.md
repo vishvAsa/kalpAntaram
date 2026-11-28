@@ -21,11 +21,21 @@ By pointing out the evils arising from the omission of the said rites, the text 
 ‘*Greed*.’— ‘Greed’ is excessive *longing*; and one who has this, is called ‘greedy.’ The affix ‘*ini*’ has the force of the possessive.—(28)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मान्नवेन हव्येन पशुवदामेनानर्चिता अकृतयागा अग्नयो नवान्नमांसाभिलाषिणोऽस्याहिताग्नेः  
+   प्राणानेवाग्निहोत्रिणः     खादितुमिच्छन्ति । गर्भोऽभिलाषातिशयः, गृधेर्घञन्तस्य रूपं, सोऽस्यास्तीति गर्धी, मत्वर्थीय इनिः ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नवेनेति** । यस्मान् नवसस्येन पशुयागेन (दानेन) चानिष्ट्वा **अग्नयो **नवान्नमांसानि काङ्क्षिणो ऽस्याग्न्याहितस्य **प्राणान् एव** भक्षयितुम् **इच्छन्ति **। तस्माद् आग्रयणपशुयागौ कर्तव्यौ ॥ ४.२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

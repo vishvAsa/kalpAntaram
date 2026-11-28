@@ -12,11 +12,8 @@ He should reflect upon the conditions of men, arising from the defects of their 
 
 परमार्थभावनाप्रसंख्यानम् इदम् उच्यते दुःखात्मकसंसारस्वरूपनिरूपणम् । कथं नामायं प्रव्रजाभैक्षचर्यादिशरीरक्लेशं[^२०] सुहृत्स्वजनपुत्रदारधनविभवत्यागदुःखहेतुं परिणमय्य विरोधतः स्वच्छन्दतश् चाविगुणम् अनुष्ठास्यति । मनुष्याणां गतयो दुःखबहुलाः, कर्मदोषेभ्यः प्रतिषिद्धसेवनेभ्यो हिंसास्तेयपारदार्यपारुष्यपैशुनानिष्टसंकल्पादिभ्यः समुद्भन्ति । इहैव जीवलोके दारिद्रव्याधिपरिभवाद् वा वैकल्यादयो गतयः फलोपभोगादयः । अमुत्र **निरये** नरके **पतनं** मूत्रपुरीषाद्यमेध्यस्थाने कृमिकीटादिजन्म । **यम**गृहे च **यातनाः** कुम्भीपाकादयः ॥ ६.६१ ॥
 
-
 [^२०]:
      M G: -kleśāṃs tu
-
-_तथेदम् अपरम् अवेक्ष्यम् ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -46,6 +43,11 @@ youth from not obtaining the objects of pleasure, and upon the abode in hells aw
 
 *Yājñavalkya* (3.63, 64).—‘He should reflect upon residence in the womb,
 as also the sufferings brought about by one’s own acts, mental agonies, physical ailments and other troubles, decrepitude, bodily deformities, birth and rebirth during thousands of lives, and vicissitudes of pleasure and pain.’
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुनेन्द्रियजय्पायतया संसारनिषेधम् उपदिशति **अवेक्षेतेति** । शिष्टाकरणप्रतिषिद्धसेवनेनोत्पन्नपापसमुद्भवाः क्षेत्रज्ञानां सर्पकृकलासकृम्यादिशरीरप्राप्तीः यमगृहे ऽपि नरकपतनं यातनाश् च निशिततरकरपत्रविदारात्मकाः शास्त्रदृष्ट्या विलोकयेत् ॥ ६.६१ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

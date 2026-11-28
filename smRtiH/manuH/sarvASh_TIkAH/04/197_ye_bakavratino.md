@@ -25,11 +25,20 @@ This verse is explained by its own words.—(197).
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये बकव्रतं बिडालव्रतं चरन्ति ते ब्राह्मणास्तेन पापहेतुना कर्मणान्धतामिलनान्नि नरके पतन्ति ॥१९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । **ये **ब्राह्मणाः **बकव्रत**बिडालचिह्नयुक्ताः **तेन **पापहेतुना **कर्मणा अन्धतामिस्रा**ख्ये नरके **पतन्ति **॥ ४.१९७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 197	Those Brahmanas who act like herons, and those who display the characteristics of cats, fall in consequence of that wicked mode of acting into (the hell called) Andhatamisra.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

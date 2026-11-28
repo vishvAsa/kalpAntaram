@@ -51,6 +51,16 @@ The motive being—‘by doing this act I shall obtain praise in the world,’�
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इह लोके महतीं श्रियं प्राप्नोतीत्येदर्थमेव यो यत्कर्म करोति न परलोकार्थं नच तत्कर्मफलासंपत्तौ दुःखी भवति तद्रजःकार्यत्वाद्रजोगुणलक्षणं विज्ञेयम्॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**येनेति** । इह लोके महतीं कीर्तिं प्राप्नुयाम् इत्य् एवम् अर्थम् एव यत् कर्म करोति न च परलोकार्थं न च तत्कर्मसम्पत्तौ दुःखी भवति तद् रजःकार्यं विज्ञेयम् ॥ १२.३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 036	But, when (a man) desires (to gain) by an act much fame in this world and feels no sorrow on failing, know that it (bears the mark of the quality of) Activity.

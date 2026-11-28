@@ -52,11 +52,25 @@ semen, marrow, blood,—on touching these one should bathe.’
 human bone, or the shadow cast by the *Caṇḍāla* and the outcast,—on touching these, the twice-born person shall bathe.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषास्थि स्नेहसंयुक्तं स्पृष्ट्वा ब्राह्मणादिः स्नानेन विशुद्धयति । स्नेहशून्यं पुनः स्पृट्ष्वा आचम्य गोस्पर्शार्कावेक्षणयोरन्यतरत्कृत्वा विशुद्धो भवति ॥८७॥
+
+**आदिष्टी नोदकं कुर्यादाव्रतस्य समापनोत् ।**
+
+व्रतादेशनमादिष्टं तदस्यास्तौति आदिष्टी ब्रह्मचारी स प्रेतोदकमाव्रतसमापनान्न कुर्यात् । उदकमिति पूरकपिण्डषोडशश्राद्धादिसकलप्रेतकृत्योपलक्षणम् ।समाप्ते पुनर्ब्रह्मचर्ये प्रेतोदकं कृत्वा त्रिरात्रसशौचं  
+कृत्वा विशुद्धो भवति । एतच्च मातापित्राचार्यव्यतिरिक्तविषयम् । तदाह वसिष्ठः—"ब्रह्मचारिणः शवकर्मणा व्रतान्निवृत्तिरन्यत्र मातापित्रोर्गुरोर्वा " । शवकर्मणेति शवनिमित्तकेन निर्हरणदहनोदकदानपूर्वकपिण्डषोडशश्राद्धादिकर्मणा । वक्ष्यति च—"आचार्यं स्वमुपाध्यायम्” ( म. स्मृ. ५-९१ ) इति ॥८८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नारम्** इति । स्नेहयुक्तं मानुषास्थि स्पृष्ट्वा ब्राह्मणादि स्नात्वा विशुध्यति । स्नेहशून्यं पुनः स्पृष्ट्वोपस्पृश्य गोस्पर्शनादित्येक्षणयोर् अन्यतरत् कृत्वा विशुद्ध्यति ॥ ५.८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 087	A Brahmana who has touched a human bone to which fat adheres, becomes pure by bathing; if it be free from fat, by sipping water and by touching (afterwards) a cow or looking at the sun.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

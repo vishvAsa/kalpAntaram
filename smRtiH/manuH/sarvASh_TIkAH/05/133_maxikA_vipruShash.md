@@ -64,11 +64,26 @@ shadow, cow, elephant, horse, sun-beams, dust, earth, air, fire and cat are alwa
 *Yājñavalkya* (1.193 and other texts —*see under 128*.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मक्षिका अमेव्यरूपर्शिन्यो न्यऽपि, विप्रुषो मुखनिःसृता अल्पाजलकणाः, छाया पतितादेर्हीनस्पर्शस्यापि, गवोदीनि चाग्निपर्यन्तानि चण्डालादिष्टानि स्पर्शे शुत्रीति जानीयात् ॥१३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मक्षिका **इति । **मक्षिका** अमेध्यस्पर्शिन्यो ऽपि तल्लेपरहिताः जलकणाश् च स्पर्शमात्रानुमेयाः छाया चाण्डालादिसम्बन्धिनी गोश् च मुखवर्जम् । तथा बौधायनः- 
+
+> अजाश्वा मुखतो मेध्या गावो मेध्या मुखाद् ऋते ।
+
+> मार्जारनकुलौ स्पर्शौ शुभाश् च मृगपक्षिणः ॥
+
+इत्य् अश्व आदित्यरश्मयो रजो वायुनेरितं भूरथ्यादौ चाण्डालादि स्पृष्ट्वा गमनमात्रेण वाय्वग्नि चेत्यादिस्पर्शे शुचीनीति जानीयात् ॥ ५.१३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 133	Flies, drops of water, a shadow, a cow, a horse, the rays of the sun, dust, earth, the wind, and fire one must know to be pure to the touch.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

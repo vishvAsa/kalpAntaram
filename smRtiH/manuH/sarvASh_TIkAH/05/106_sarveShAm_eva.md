@@ -37,11 +37,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 792);—in
 *Viṣṇu* (22.89).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वेषां मृद्वारिनिमित्तदेहशौचमनश्शौ वादीनां मध्यादर्थशौचमन्यायेन परधनहरणपरिहारेण यद्धनेहा तत् परं प्रकृष्टं मन्वादिभिः स्मृतम् ।यस्माद्योऽर्थे शुद्धः स शुद्धो भवति । यः पुनर्मृद्वारिशुचिरर्थं चाशुद्धः सोऽशुद्ध एव ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वेषाम्** इति । **सर्वेषां** मृद्वारीन्दिर्यमनःशौचादीनां मध्याद् अर्थशौचं परद्रादीच्छापरिहारार्थं प्रकृष्टम् ऋषीभिः **स्मृतम्** । यस्माद् **यो ऽर्थे** शुद्धः **स** शुद्धो बोद्धव्यो **यः** पुनर् **मृद्वारिशुचिर्** अर्थे चाशुद्धेः सो ऽशुद्ध एव ॥ ५.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	Among all modes of purification, purity in (the acquisition of) wealth is declared to be the best; for he is pure who gains wealth with clean hands, not he who purifies himself with earth and water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

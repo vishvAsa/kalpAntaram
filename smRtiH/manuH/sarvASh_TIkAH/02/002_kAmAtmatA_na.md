@@ -123,11 +123,20 @@ due faith, betake themselves to acts prescribed as leading to certain desirable 
 should undertake that which he likes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+फलाभिलाषशीलत्वं पुरुषस्य कामात्मता । सा न प्रशस्ता बन्धहेतुत्वात् । स्वर्गादिफलाभिलाषेण काम्यानि कर्माण्यनुष्ठीयमानानि पुनर्जन्मने कारणं भवन्ति । नित्यनैमित्तिकानि स्वात्मज्ञानसहकारितया मोक्षाय कल्पन्ते । न पुनरिच्छमात्रमनेन निषिध्यते । तदाह—"न चैवेहास्त्यकामता इति । यतो वेदस्वीकरणं वैदिकसकलधर्मसम्बन्धश्वेच्छाविषयावेव ॥२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+परिभाषान्तरम् आह – **कामात्मतेति** । **कामात्मता न प्रशस्ता,** फलाभिलाषशीलत्वम् अयुक्तम् । यतः शास्त्रचोदितकर्माणि फलाद्भिलाषत्यागेनाचर्यमाणान्य् आत्मज्ञानसाचिव्येन मोक्षाय कल्पन्ते । फलेच्छया त्व् अनुष्ठाने तेषां संसारहेतुत्वात् । अस्तु (परन् तु) कामात्मता न प्रशस्तेत्य् अनेनेच्छा निषिद्धा, एतन् मत्वाह – **न चैवेति** । इच्छाम् अन्तरेण **नेह** शास्त्रे प्रवृत्तिर् अस्ति यस्माद् वेदस्वीकरणं वैदिककर्मसम्बन्धश् चाभिलषणीय एव ॥ २.२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 002	To act solely from a desire for rewards is not laudable, yet an exemption from that desire is not (to be found) in this (world): for on (that) desire is grounded the study of the Veda and the performance of the actions, prescribed by the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

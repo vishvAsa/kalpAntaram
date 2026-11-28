@@ -60,11 +60,24 @@ This verse is quoted also in *Madanapārijāta* (p. 37), which also adopts the r
 also there was Upanayana, also the teaching of the Veda and the pronouncing of the Sāvitrī. But she should be taught by her father, uncle or brother, none else. For the girl, alms-begging is to be done in her own home; and she should avoid the skin, the rags and also matted locks.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अग्निहोत्रस्य शुश्रूषा सायमुद्वासमेव च ।**
+
+**कार्यं पत्न्या प्रतिदिनमिति कर्म च वैदिकम् ॥७॥ \]**
+
+विवाहविधिरेव स्त्रीणां वैदिकः संस्कार उपनयनाख्यो मन्वादिभिः स्मृतः । पतिसेवैव गुरुकुले वासो वेदाध्ययनरूपः ।गृहकृत्यमेव सायम्प्रातः समिद्धोमरूपोऽग्निपरिचर्या ।तस्माद्विवाहादेरुपनयनस्थाने विधानादुपनयनादेर्निवृत्तिरिति ॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवम् उपनयने ऽप्य् अमन्त्रके प्राप्ते आह **वैवाहिक** इति । यद् विवाहविधानं तद् एवासां वैदिकसंस्कारः उपनयनस्थाने । **पतिसेवा** च गुरुशुश्रूषास्थाने, **गृहकृत्यं **चाग्निपरिचरणस्थाने ॥ २.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	The nuptial ceremony is stated to be the Vedic sacrament for women (and to be equal to the initiation), serving the husband (equivalent to) the residence in (the house of the) teacher, and the household duties (the same) as the (daily) worship of the sacred fire.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

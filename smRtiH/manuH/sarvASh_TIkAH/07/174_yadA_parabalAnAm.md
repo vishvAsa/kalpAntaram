@@ -31,6 +31,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 attacked by a stronger enemy who refuses to make peace, he shall have recourse to *seeking shelter*, which is the lowest of the methods. When he finds himself devoid of all power, he should seek shelter.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदा तु सैन्यानाममात्यादिप्रकृतिदोषादिनाऽतिशयेन ग्राह्यो भवति, बलं द्वैधं विधाय दुर्गाश्रयणेनापि नात्मरक्षाक्षमस्तदा शीघ्रमेव धार्मिकं बलवन्तं च राजानमाश्रयेत् ॥१७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदेति** । **यदा **शत्रुबलानां प्रकृतिकोपादिनातिशयेन यातव्यो भवति, **तदा क्षिप्रम्** एव **धार्मिकं** परित्राणसमर्थं **नृपम् आश्रयेत्** ॥ ७.१७४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 द्वैधीभावम् अप्य् आश्रितो यद्य् आत्मधारणम् अशक्यं मन्यते ततः प्रागभिभवात् **क्षिप्रम्** एव **बलिनं धार्मिकं** च संश्रयेत् । तदभावे ऽन्यम् अपि गुणवन्तम् ॥ ७.१७४ ॥

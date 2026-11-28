@@ -12,30 +12,23 @@ The king shall take one-twentieth of the price of saleable commodities, that may
 
 येषु प्रदेशेषु शुल्कम् आदीयते तानि **शुल्कस्थानानि**[^३४४] राजभिर् वणिग्भिः[^३४५] स्वप्रतिदेशनियतानि कल्पितानि । तेषु स्थानेषु ये **कुशलाः** शौल्किकाः,[^३४६] ये धूर्तैर् न[^३४७] शक्यन्ते वञ्चयितुम्, तथा सर्वेषां पण्यानाम् आगमक्रयविक्रयक्षयव्ययसारासारादिविधिज्ञा[^३४८] **विचक्षणाः** ते[^३४९] भाण्डस्यागतस्य देशान्तरात्[^३५०] नीयमानस्य **वार्घं कुर्युः** । **ततो विंश**तिभागं राजा गृह्णीयात् । 
 
-
 [^३५०]:
      M G: -āgatasyānyadeśāntarā; J: deśāntare
-
 
 [^३४९]:
      M G: tair
 
-
 [^३४८]:
      M G omit: kṣayavyaya, and read: -sārasādividhi-; DK (1: 1708; but not 4: 2330): āgamakṣayakrayasārāsārādividhijñā
-
 
 [^३४७]:
      M G DK (1: 1708) add: ca
 
-
 [^३४६]:
      M G: śauktikāḥ
 
-
 [^३४५]:
      DK (1: 1708; but no 4: 2330) add: ca
-
 
 [^३४४]:
      M G add: ca
@@ -43,6 +36,18 @@ The king shall take one-twentieth of the price of saleable commodities, that may
 - <u>किं पुनर्</u> अर्घकरणेन । एतावद् एव वक्तव्यं पण्यानां विंश्तिभागम् इति । 
 
 <u>सत्यम्,</u> यदा स्वरूपेण द्रव्यं राजा[^३५१] गृह्णाति । स्वरूपकान्य् उपयुज्यन्ते[^३५२] शाटकादीनि[^३५३] । तत्र विंशतिभागः प्राग् विंशतेर्<sup> </sup>[^३५४] न पाटनम् अन्तरेणोपपद्यत इत्य् एवमर्थम् अर्घकरणम् । अविक्रेयाणाम् आत्मोपयोगिनां नास्ति शुल्क इति ज्ञापितुं यथापण्यम् । एवं कालानुरूप्येण । न सर्वपण्यं सर्वदा विक्रियत एकरूपेणार्घेण । अतो देशकालापेक्षया पण्यानाम् अर्घव्यवस्था, न नियतो ऽर्घ इति ॥ ८.३९८ ॥
+
+[^३५१]:
+     M G J: kācaivādhikādīnām
+
+[^३५२]:
+     M G J: jayo
+
+[^३५३]:
+     M G: yā gantryādisaṃbhāvanā; J: yogakrayādisaṃbhāvanā (we have here three different readings from the three editions; clearly a defective reading here, which the editors attempted to correct)
+
+[^३५४]:
+     M G: prayoge
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -87,6 +92,16 @@ informed of the prices and the demand for commodities got out of the earth and t
 
 *Viṣṇu* (Vivādaratnākara, p. 304),—‘In the case of commodities produced
 in the country itself, the King shall levy a duty in the shape of the tenth part; and in that of those imported from outside, the twentieth part.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+स्थलजलपथव्यवहारतो राजमायो भागः शुल्कम् \। तस्यावस्थानेषु ये कुशलास्तथा सर्वपण्यानां सारासारज्ञास्ते पण्येषु यमर्धंमूल्यमनुरूपं कुर्युस्ततो लाभधनाद्विंशतिभागं राजा गृह्णीयात् ॥ ३९८ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शुल्कस्थानेष्व्** इति । आपणादिव्यवहर्तृभ्यो राजग्राह्यं शुल्कं च स्थाप्यापणस्थलपथजलपथादिषु नियतं लब्धुम् अशक्याः पण्यानां च सारासारादिज्ञास् ते पणे पणे ऽनुरूपम् अर्धं कुर्युस् ततो लाभधनाद् विंशतिभागं शुल्कं राजा दापयेत् ॥ ८.३९८ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

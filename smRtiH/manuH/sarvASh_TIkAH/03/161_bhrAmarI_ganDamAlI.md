@@ -54,11 +54,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688), and on p. 694, t
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपस्मारी, गण्डमालाख्यव्याध्युपेतः, श्वेतकुष्टयुक्तः, दुर्जनः, उन्माइवान्, अचक्षुः, वेदनिन्दाकरः ॥१६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रामरीति** । अपस्मारी, गण्डमालाख्यव्याध्युपेतः, **श्वित्री**, सूचकः, धातुसङ्क्षोभादियुक्तः, **अन्धो** वेदस्य कुत्सकः, इत्य् एते हव्यकव्ययोर् **वर्ज्याः स्युः** ॥ ३.१६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

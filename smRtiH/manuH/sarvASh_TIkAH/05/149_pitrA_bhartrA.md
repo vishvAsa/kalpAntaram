@@ -30,11 +30,20 @@ This verse is quoted in *Vivādaratnākara* (p. 427);—in *Madanapārijāta* (p
 live separate from her father, mother, son, brother, father-in-law, mother-in-law or maternal uncle.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पित्रा पत्या पुत्रैर्वा नात्मनो विरहं कुर्यात् । यस्मादेषां वियोगेन स्त्री बन्धकीभावं गतापि पतिपितृकुले निन्दिते करोति ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पित्रेति** । पितृभर्तृपुत्रैः सर्वदा सर्वैर् यथासम्भवम् आत्मना विरहिता न स्याद् यस्माद् एतद्वियोगेनासती भर्तृपितृकुले निन्दिते करोति ॥ ५.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	She must not seek to separate herself from her father, husband, or sons; by leaving them she would make both (her own and her husband's) families contemptible.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

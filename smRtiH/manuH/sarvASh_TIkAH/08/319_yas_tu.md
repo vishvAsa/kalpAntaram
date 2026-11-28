@@ -35,6 +35,20 @@ This verse is quoted in *Vivādaratnākara* (p. 328), which adds the following n
 ‘*rājjughaṭam*’ and has explained it as a ‘collective copulative compound’;—and in *Vivādacintāmaṇi* (p. 141), which reads ‘*rajjughaṭam*’ and explains it as ‘the rope or the jar’, and explains the rule as that ‘one who steals the rope or the jar should replace it, and he who damages the drinking-booth should be fined a *Māṣa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कूपसमीपे रज्जुघटयोर्जलोद्धारणाय धृतयो रज्जुं घटं वा हरेत् । यो वा पानीयदानगृह वदारयेत्स सौवर्णं मापं दण्डं प्राप्नुयात,
+
+**यन्निर्दिष्टं तु सौवर्णं मापं तत्र प्रकल्पयेत् ।**
+
+इति कात्यायनवचनात् । तच्च रज्ज्वादि तस्मिन्कूपे समर्पयेत् ॥३१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । यः कूपाद् रज्जुघटम् अपहरेत् यो वा उदकदानगृहं विनाशयेत् [विदारेयेत्] सरूप्यं सुवर्णं वा माषं स राज्ञा सकलेशाद्यपेक्षया दण्डं प्राप्नुयात् । तत्र च रज्ज्वादि तस्मिन् कूपे प्रत्यानयेत् ॥ ८.३१९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 माषो मुख्यत्वाद् अविशेषाभिधाने सति हिरण्यस्य स्यात् ॥ ८.३१८ ॥

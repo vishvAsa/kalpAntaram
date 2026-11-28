@@ -40,11 +40,20 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 1005), which adds that the Fat
 should keep pure.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वनियमविधेरयमनुवादः ।यस्मात्तान्ब्राह्मणान्निमन्त्रितानदृश्यरूपेण पितरोऽधितिष्ठन्ति, प्राणवायुवद् गच्छतोऽनुगच्छन्ति, तथोपविष्टेषु तेषु समीप उपविशन्ति, तस्मान्नियता भवेयुः ॥१८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निमन्त्रितान्** इति । यस्तान् **तान् द्विजान् निमन्त्रितान् पितर उपतिष्ठन्ति **अदृश्यरूपेण समीपम् आयान्ति । प्राणवच् च गच्छतो **ऽनुगच्छन्ति** । उपविष्टेषु विप्रेषु समीपे उपविशन्ति तस्मात् नियतात्मना निमन्त्रितेन भाव्यम् इति पूर्वविध्यर्थवादः ॥ ३.१८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 189	For the manes attend the invited Brahmanas, follow them (when they walk) like the wind, and sit near them when they are seated.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

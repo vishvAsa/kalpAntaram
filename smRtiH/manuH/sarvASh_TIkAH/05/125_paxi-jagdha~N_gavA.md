@@ -95,11 +95,20 @@ dogs or crows, should have a handful thrown out, and the rest becomes purified b
 one shall throw about a handful of it, and sprinkling water and scattering ashes over it, again sprinkling water, one may eat it after having obtained the recommendation of Brāhmaṇas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भक्ष्यपक्षिभिर्न तु काकगृधादिभिः कश्चिद्भागो यस्य भक्षितः, गवा यस्य घ्राणं कृतं, पदा चावधूतमुपरि कृतक्षुतं, केशकीटदूषितं, जग्धशब्दलिङ्गादन्नमल्पं मृत्प्रक्षेपेण शुद्ध्यति ॥१२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पक्षिदग्धम्** इति । अत्यन्तानुपहतं शुकादिपक्ष्युच्छिष्टं गो**घ्रातं** **अवधूतं** कृतवासोपरि अवधूननं तस्योपरि (?) क्षुवथुकं केशापहतम् अमेध्यसंसर्पिकृम्युपहतं जग्धशब्दाद् अन्नं **मृप्रक्षेपेण शुध्यति** ॥ ५.१२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 125	(Food) which has been pecked at by birds, smelt at by cows, touched (with the foot), sneezed on, or defiled by hair or insects, becomes pure by scattering earth (over it).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

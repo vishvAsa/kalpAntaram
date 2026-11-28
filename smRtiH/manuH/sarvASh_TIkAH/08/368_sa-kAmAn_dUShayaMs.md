@@ -49,6 +49,16 @@ It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 See Comparative notes for [Verse 8.364](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201297.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+समानजातिरिच्छन्तीं कन्यामङ्गुलिप्रक्षेपमात्रेण नाशयन्नाङ्गुलिच्छेदमाप्नोति। किंत्वतिप्रसक्तिनिवारणायद्विशतं दण्डं दाप्यः ॥ ३६८ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सकामाम्** इति । समानजातिर् इच्छन्तीं कन्याम् अङ्गुलिमात्रप्रक्षेपेण नाशयन् अङ्गुलिच्छेदं न प्राप्नुयात् किं तु पौनःपुन्येन एषः प्रसङ्गान् नावर्तेत तदर्थं शतमयं दण्डं दाप्यः ॥ ८.३६८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 असमास्व् (?) एतत् स्यात् कन्यासूत्तमस्य ॥ ८.३६७ ॥

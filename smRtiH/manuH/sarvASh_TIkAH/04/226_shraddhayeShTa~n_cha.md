@@ -142,11 +142,20 @@ building of these is called *Pūrta*.’
 Iṣṭa. Tanks, ponds, temples, food-stalls, gardens, gifts made during eclipses, and on the day of the sun passing from one sign into another, and on the twelfth day of the fortnight,—these constitute *Pūrta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इष्टमन्तर्वेदि यज्ञादिकर्म, पूर्वं ततोऽन्यत्पुष्करिणीकूपप्रपारामादि, तदेवमनलसःसन्नित्यं काम्यस्वर्गादिफलाहितं श्रद्धयाकुर्यात् । यस्मात्ते इष्टापूर्ते न्यायार्जितवतेन श्रद्धया कृतेऽक्षये मोक्षफले भवतः ॥२२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **श्रद्दयेति** ॥ ४.२२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

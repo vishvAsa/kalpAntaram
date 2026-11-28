@@ -37,6 +37,11 @@ the man whom she takes as husband does not incur any sin in marrying her;—in *
 See Comparative notes for [Verse 9.90].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पित्रादिभिरदीयमाना कुमारी यथोक्तकाले यदि भर्तारं स्वयं वृणुते, तदा सा न किञ्चित्पापंप्राप्नोति, न च तत्पतिः पापं प्राप्नोति ॥ ९१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यं वरं स्वयं कन्याधिगच्छति तस्यादोषार्थं कन्याया अदोषवचनम् ॥ ९.९१ ॥

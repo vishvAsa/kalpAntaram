@@ -49,6 +49,16 @@ This verse is quoted in *Aparārka*, (p. 169);—and in *Madanapārijāta*, (p. 
 See Comparative notes for [Verse 4.7].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां चतुर्णामपि कुसूलधान्यकादीनां ब्राह्मणानां गृहस्थानां मध्ये यो यः शेषे पठितः स श्रेष्ठो ज्ञातव्यः । यतोऽसौ वृत्तिसङ्कोचधर्मेण स्वर्गादिलोकजित्तमो भवति ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर्णाम्** इति । एषां कुसूलधान्यकादीनां **चतुर्णाम् अपि **ब्राःमणानां गृहस्थानां मध्यात् यः पश्चात् पठितः स स प्रशस्ततरो बोद्धव्यः । यतो ऽसौ वृत्तिसङ्कोचसंयमधर्मातिशयेन स्वर्गादिलोकजिद् भवति ॥ ४.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	Moreover, among these four Brahmana householders, each later-(named) must be considered more distinguished, and through his virtue to have conquered the world more completely.

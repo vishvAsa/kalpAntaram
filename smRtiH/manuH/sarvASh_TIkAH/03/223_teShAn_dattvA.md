@@ -33,6 +33,16 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 1476).
 Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"पिण्डेभ्यस्त्वल्पिक मात्राम्” ( म. म. ३ / २१९ ) इति यदुक्तं तस्यायं कालविधिः प्रदेयविधिश्च तेषां ब्राह्मणानां हस्तेषु सदर्भतिलोदकं दत्त्वा तदिति पूर्वनिर्दिष्टं पिण्डाग्रं पित्रे स्वधाऽस्त्वित्येवमादि ब्रुवन्पित्रादिब्राह्मणेभ्यस्त्रिभ्यः क्रमेण दद्यात् ॥२२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । **तेषां** ब्राह्मणानां **हस्तेषु** सदर्भं **तिलोदकं दत्वा** पिण्डेभ्यः स्वल्पिकां मात्राम् इत्य् अनेन यन् निर्दिष्टं तत् **पिण्डाग्रं **पित्रे **स्वधास्तु** इत्य् एवमाइ **ब्रुवन् **क्रमेण दद्यात् ॥ ३.२२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'

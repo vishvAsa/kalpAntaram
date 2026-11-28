@@ -51,6 +51,16 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 86).
 skill in astrology and palmistry, nor by casuistry and expositions, shall he ever seek to obtain alms.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पातचक्षुःस्पन्दादिनिमित्तफलकथनेन, अद्याश्विनी हस्तरेखादेरीदृशं फलमिति ईदृशो नीतिमार्ग इत्थं वर्तितव्यं इत्यनुशासनेन शास्त्रार्थकथनेन च कदाचिमिच्छेत्॥५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न चेति **। भूकम्पाद्युत्पातचक्षुःस्पन्दनादिनिमित्तफलकथनेन अद्याश्विनी, हस्तनखकरलेकालक्षणम् इत्य् एतत् नक्षत्राङ्गविद्यया च तथायं नीतिमर्गम् इच्छन् नान्यं वर्तितुम् इत्य् अनुशासनेन शास्त्रार्थवदनेन कदाचिद् अपि भिक्षां लब्धुम् इच्छेत् ॥ ६.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	Neither by (explaining) prodigies and omens, nor by skill in astrology and palmistry, nor by giving advice and by the exposition (of the Sastras), let him ever seek to obtain alms.

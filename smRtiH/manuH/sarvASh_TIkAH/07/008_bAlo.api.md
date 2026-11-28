@@ -33,11 +33,19 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392);—in the same wo
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ततश्च मनुष्य इति बुद्ध्या बालोऽपि राजा नावमन्तव्यः। यस्मान्नहतीयंकाचिद्देवता मानुषरूपेणावतिष्ठते। एतेन देवतावज्ञायामधर्मादयोऽदृष्टदोषा उक्ताः॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बालो ऽपीति** । भूपतिर् **बालो ऽपि** मनुष्यबुद्ध्या नावज्ञेयो यस्माद् देवांशोद्भवत्वान् **महत्य् एषा देवता** मनुष्यरूपेणास्ते ॥ ७.८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 शक्नोति ह्य् अयं बालो ऽप्य् अमात्यादिभिर् अकार्यकारिणो निवर्तयितुम् ॥ ७.८ ॥
-
-_किं चान्यत् ।_
 </details>
 
 <details><summary>Bühler</summary>

@@ -56,11 +56,20 @@ eaten—the physician, the fowler, the loose woman, the thief, the accused, the 
 sacrifice-seller, of the carpenter, of the leather-dealer, of the loose’woman and of the dyer (the food should not be eaten).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चौरगायनजीविनोस्तथा तक्षवृत्तिजीवनस्य वृद्ध्युपजीविनश्चान्नं न भुञ्जीत । तथायज्ञे दीक्षितस्य प्रागग्नीषोमीयात् । कदर्यस्य कृपणस्य ।निगडस्येति तृतीयायें षष्टी । निगद्वेन बद्धस्य ।गोविन्दराजस्तु बद्धशब्दस्य बन्धनैर्विनाऽध्ययोनिगडैर्निगडितस्य दत्तायोनिगडस्येति व्याख्यातवान् ॥२१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्तेनगायनयोर् **इति । चोरगेयजीवितक्षकवृद्ध्युपजीव्यन्नं न भुञ्जीत । यज्ञार्थे **दीक्षितस्य **प्राग् अग्नीषोमीयात् **बद्धस्य, **बन्दनेन विनाप्य् अयोनिगडैर् निगडितस्य दत्तायोनिगडस्य अबन्धने ऽपि च ॥ ४.२१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

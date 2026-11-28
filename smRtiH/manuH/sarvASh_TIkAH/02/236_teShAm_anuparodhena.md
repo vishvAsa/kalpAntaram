@@ -56,11 +56,20 @@ This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 95), which explains 
 anything until permitted by them.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां शुश्रूषाया अविरोधेन तद्नुज्ञातो यद्यन्मनोवचनकर्मभिःपरलोककलं कर्मानुष्ठितं तन्मयैतदनुष्ठितमिति पश्चात्तेभ्यो निवेदयेत् ॥२३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । तच्छुश्रूषाविरोधेन परलोकार्थं यागार्थं **यद् यद् आचरेत् तत् तद्** एषां तत्फलं स्याद् इत्य् एवं मनोवाक्कायव्यापारेण **तेभ्यो** दद्यात् ॥ २.२३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

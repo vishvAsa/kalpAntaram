@@ -51,11 +51,20 @@ gambling, agriculture, trade, cleft-hoofed cattle, one-hoofed cattle, sons with 
 suitable substances, place and Brāhmaṇas.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दिनशब्दोऽत्र तिथिपरः ।युक्षु युग्मासु तिथिषु द्वितीयाचतुर्थ्यादिषु युग्मनक्षत्रेषु भरणीरोहिण्यादिषु श्राद्धं कुर्वन्सवांभिलषितान्प्राप्नोति । अयुग्मासु तिथिषु प्रतिपत्तृतीयाप्रभृतिषु,अयुग्मेषु च नक्षत्रेष्वश्विनीकृत्तिकादिषु श्राद्धेन पितॄन्पूजयन्पुत्रादिसन्ततिं लभते । पुष्कलां धनविद्यापरिपुष्टाम् ॥२७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**युक्ष्व्** इति । युग्मासु तिथिषु द्वितीयाचतुर्थ्यादिषु युग्मेषु नक्षत्रेषु अश्विनीकृत्तिकादिषु श्राद्धेषु **पितॄन्** पूजयन् श्रुतधनादि**परिपुष्टां** सन्ततिं **प्राप्नोति** ॥ ३.२७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

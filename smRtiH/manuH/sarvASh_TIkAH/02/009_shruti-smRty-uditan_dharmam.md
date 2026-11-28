@@ -54,11 +54,20 @@ partakes of Heaven.’
 and in the Smṛti,—all this should be done by the Housoholder; otherwise, he becomes open to censure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्रुतिस्मृत्युदितं धर्ममनुतिष्ठन्मानव इहलोके धार्मिकत्वेनानुषङ्गिकींकीर्तिं परलोके च धर्मफलमुत्कृष्टं स्वर्गापवर्गादिसुखरूपं प्राप्नोति । अनेन वास्तवगुणकथनेन श्रुतिस्मृत्युदितं धर्ममनुतिष्ठेदिति विधिः कल्प्यते ॥९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुतिस्मृत्युदितम्** इति । **श्रुतिस्मृत्य्**उक्तं **धर्मम् **आचरन् पुरुषः **इह** लोके ख्यातिं परलोके चोत्कृष्टं **सुखं** प्राप्नोतीति सद्भूतगुणाखानेनानुष्ठानस्तुतिः प्ररोचनार्था । न ह्य् अकस्मान् निष्प्रयोजना स्तुतिः प्रवर्तेत इत्य् एवं सर्वत्रेह स्तुतिषु विज्ञेयम् ॥ २.९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

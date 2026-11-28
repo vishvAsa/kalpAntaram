@@ -83,6 +83,16 @@ after having studied the Vedas, performed *japa*, obtained sons, given away food
 activity, to live on begging, to dwell under trees, to refuse all gifts, to avoid injury to living beings, to maintain an attitude of equality towards all, to be neutral to friends and enemies, to be unmoved by joy and grief, to be pure in mind and body, to curb speech, observe vows, to withdraw the senses from their objects, to keep the mind collected, to be absorbed in meditation and to purify his intentions.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+“जायमानो वै ब्राह्मणस्त्रिभिर्ऋणैर्ऋणवान् जायते यज्ञेन देवेभ्यः प्रजया पितृभ्यः स्वाध्यायेन ऋषिभ्यः” इति श्रूयते। अतो यथाशास्त्रं वेदानधीत्य पर्वगमनवर्जनादिधर्मेण च पुत्रानुत्पाद्य यथासामर्थ्यं ज्योतिष्टोमादियज्ञांश्चानुष्ठाय मोक्षान्तरङ्गे चतुर्थाश्रमे मनो नियोजयेत्॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तानि ऋणानि दर्शयति **अधीत्येति** । “त्रिभिर् ऋणैर् ऋणवा जायते मनुष्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः स्वाध्यायेन ऋषिभ्यः” इति ब्रूयात् । यथाशास्त्रं वेदान् अधीत्य पुरांश् च पर्वगमनानृतुरिरंसावर्जम् ऋतुकालादिगमनधर्मेणोत्पाद्य यज्ञैश् च ज्योतिष्टोमादिभिर् यथाशक्तिर् इष्ट्वा ततो मोक्षोपायप्रव्रज्याख्ये मनो नियोजयेत् ॥ ६.३६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 036	Having studied the Vedas in accordance with the rule, having begat sons according to the sacred law, and having offered sacrifices according to his ability, he may direct his mind to (the attainment of) final liberation.

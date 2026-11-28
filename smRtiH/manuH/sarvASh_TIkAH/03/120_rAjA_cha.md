@@ -86,11 +86,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 455) in support of the vie
 See Comparative notes for [Verse 3.119].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजस्नातकौ संवत्सरादूर्द्धमपि यज्ञकर्मण्येव प्राप्तौ मधुपर्केण पुजनीयौ न तु यज्ञव्यतिरेकेण । जामात्रादयस्तु संवत्सरादूर्ध्वं यज्ञं विनाऽपि मधुपर्कार्हाः । संवत्सरमध्येतु सर्वेषां यज्ञविवाहयोरेव मधुपर्कः। तदाह गौतमः —"ऋत्विागाचार्यश्वशुरपितृव्यमातुलादीनामुपस्थाने मधुपर्कः । संवत्सरे पुनर्यज्ञविवाहयोरवक् राज्ञः श्रोत्रियस्य च ॥१२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+राजस्नातयकोः सङ्कोचायेदम् आह **राजेति** । राजस्नातकौ **यज्ञकर्मण्य् एव **सम्प्राप्तौ **मधुपर्केण **पूजनीयौ । **न त्व् अयज्ञे** संवत्सराद् ऊर्ध्वम् अपीति शास्त्रमर्यादा । संवत्सरात् पुनः अर्वाक् यज्ञे ऽपि न पूज्यौ पूर्ववाक्योपरि संवत्सराद् इत्य् उपादाने । अत्र च न तु यज्ञ इत्य् उपादानात् राजस्नातकपूजासङ्कोचार्थत्वम् अस्य प्रतीयते ॥ ३.१२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -246,11 +246,20 @@ Upāvṛt, Sindhu, Sauvīra, these countries are of *mixed origin*.’
 *Viṣṇudharmottara* (Do.).—‘The righteous man should reside at Prabhāsa, at Puṣkara, at Kāśī, at Naimiṣa, at Amarakaṇṭaka, on the Gaṅgā or on the Sarayū.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्यदेशोद्भवा अपि द्विजातयो यज्ञार्यत्वाददृष्टार्थत्वाच्चैतान्देशान्प्रयत्नादाश्रयेरन् । शुद्रस्तु वृत्तिपीडितो वृत्त्यर्थमन्यदेशमप्याश्रयेत् ॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अतः **एतान्** इति । साध्वाचारयागार्हत्वसम्भवात् अदृष्टार्थत्वाच् च्**ऐतान् **एव **देशान् **देशान्तरोद्भूता अपि **द्विजातयो **यत्नतः **आश्रयेरन्** । **शुद्रः **पुनः यदा जीविकाभावपीडितो भवति तदैतद्व्यतिरिक्तदेशे ऽपि **निवसेत् **॥ २.२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

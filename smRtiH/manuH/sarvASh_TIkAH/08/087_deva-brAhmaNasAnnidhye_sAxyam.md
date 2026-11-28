@@ -43,6 +43,16 @@ them down firmly by oath, the Judge shall examine them separately; they should b
 evidence according to truth. After putting off his shoes and his turban, he should stretch out his right hand, and declare the truth, taking in his hands, gold, cowdung or blades of *kuśa* grass.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रतिमादेवताब्राह्मणसन्निधाने शुचीन्द्विजातिप्रभृतीन्प्राङ्मुखानुदङ्मुखान्वा स्वयं स प्राड्विवाकः पूर्वाहे काले याथातथ्यं साक्ष्यं पृच्छेत् ॥८७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवब्राह्मणसान्निध्य **इति । आलेख्यादिविन्यस्तोक्तदेवसन्निधाने ब्राह्मणानां समक्षं सभ्यानां यत्नकरणेन सत्यरूपताम् आपन्नं साक्ष्यं द्विजातीन् प्रयतान् उत्तराभिमुखान् पूर्वाभिमुखान् वा प्रयतः सन् प्राड्विवाकः पूर्वाह्णकाले तु पृच्छेत् ॥ ८.८७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथा च ते प्रष्टव्यास् तथेदं ब्राहणादि(?)जात्याश्रयनियमकारि शास्त्रम् उच्यते ॥ ८.८७ ॥

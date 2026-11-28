@@ -27,11 +27,20 @@ The ablative ending in ‘*adhīyānāt*,’ ‘*from* *one who is, reciting it*
 not acquire knowledge from another person who may be reading with the Teacher;—such acquisition of knowledge constitutes Veda-stealing and leads one to hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः पुनरभ्यासार्थमधीयानादन्यं वा कञ्चिदध्यापयतस्तदनुमतिरहितं वेदं गृह्णाति स वेदस्तेययुक्तो नरकं गच्छति । तस्मादेतन्न कर्तव्यम् ॥११६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मेति** । अन्यान् अव्यापयतः अविस्मरणार्थं चाभ्यस्यतः **अननुज्ञातं ब्रह्म** (यः) शिक्षेत् **स **ब्रह्मचौर्ययुक्ताः **नरकं **व्रजति ॥ २.११६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 116	But he who acquires without permission the Veda from one who recites it, incurs the guilt of stealing the Veda, and shall sink into hell.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

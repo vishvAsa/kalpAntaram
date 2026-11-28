@@ -35,6 +35,16 @@ subsisting by money-lending, telling lies, and serving a Śūdra—are crimes re
 *Baudhāyana* (2.2.6).—‘Serving Śūdras (involves loss of caste).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अप्रतिग्राह्यधनेभ्यः प्रतिग्रहो, वाणिज्यं, शुद्रस्य परिचर्या, अनृताभिधानमित्येतत्प्रत्येकमपात्रीकरणं ज्ञेयम्॥ ६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निन्दितेभ्य** इति । अप्रतिग्राह्येभ्यः प्रतिग्रहो वाणिज्यं शूद्रस्य परिचर्या अव्रताभिधानम् इत्य् एतत् प्रत्येकम् अपात्रीकरणं विज्ञेयम् ॥ ११.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	Accepting presents from blamed men, trading, serving Sudras, and speaking a falsehood, make (the offender) unworthy to receive gifts (Apatra).

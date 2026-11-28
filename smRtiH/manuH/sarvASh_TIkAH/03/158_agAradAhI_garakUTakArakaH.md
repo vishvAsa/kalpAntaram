@@ -58,11 +58,26 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687) without any comme
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृहदाहकः, मरणहेतुत्रव्यस्य दाता, कुण्डस्य वक्ष्यमाणस्य योऽनमश्नाति । प्रदर्शनार्थत्वात्कुण्डस्ये गोलकस्यापि ग्रहणम् । अत एव देवलः—
+
+**अमृते जारजः कुण्डो मृते भर्तरि गोलकः ।**
+
+**यस्तयोरन्नमश्नाति स कुण्डाशीति कथ्यते ॥**
+
+सोमलताविक्रेता, समुद्रे यो वहिनादिना द्वीपान्तरं गच्छति, बन्दी स्तुतिपाठकः, तैलार्थं तिलादिबीजानां पेष्टा, साक्षिवादे कूटस्य मृषावादस्य कर्ता ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अगारदाहीति** । गृहस्य दाहको, मारणद्रव्यदाता कुण्डस्य वक्ष्यमाणस्य यो ऽन्नम् अश्नाति, सोमस्य लतारूपस्य विक्रेता, समुद्रं यो गच्छति, स्तुतीनां पाठकः, तिलादेः पेषकः, लेख्यसाक्ष्यादौ कूटस्य कर्ता इत्य् एत उभयत्र परिहरणीयाः ॥ ३.१५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

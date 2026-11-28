@@ -40,11 +40,20 @@ the woman).’
 (See texts below, under 9.2.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बाल्ये यौवने वार्धके च वर्तमानया किंचित्सूक्ष्ममपि कार्यं भर्त्राद्यननुमत न स्वातन्त्र्येण कर्तव्यमिति ॥१४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बालयेति** । बालयौवनवार्ध्क्यावस्थयापि स्त्रिया सूक्ष्मम् अपि गृहकार्यं स्वेच्छया न किञ्चिद् अपि कर्तव्यम् ॥ ५.१४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 147	By a girl, by a young woman, or even by an aged one, nothing must be done independently, even in her own house.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

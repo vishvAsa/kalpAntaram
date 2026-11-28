@@ -47,6 +47,16 @@ five fires; during the rains, he shall he in an open space; during the winter he
 his frame by the practice of restrictions, observances, *mantras* and fastings, to the best of his capacity; clothed in *kuśa* -grass, rags, hark and skins, wearing his hair in braids, having an upper garment of the skin of the black antelope and observing such rules as sleeping in water, among five fires, or in open space.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्मतपोविवृद्ध्यर्थं ग्रीष्मे चतुर्दिगवस्थितैरग्निभिरूर्ध्वं वाऽऽदित्यतेजसात्मानतापयेत्। वर्षास्वभ्रावकाशमाश्रयेत्।यत्रदेशे देवो वर्षति तत्र छत्राद्यावरणरहितस्तिष्ठेदित्यर्थः। हेमन्ते चार्द्रवासा भवेत्। ऋतुत्रयसम्वत्सरावलम्वेनायं सांवत्सरिक एव नियमः॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ग्रीष्म** इति । शनैः शनैस् तपोविवृद्ध्यर्थं दिक् चतुष्टयोपनिहितैर् उपरिष्टाच् चादित्येन ग्रीष्मे आत्मानं तापयेत् । वर्षासु गलत्सलिलं जलधारागलितं शिरसि धारयेत् । हेमन्ते चार्द्रवस्त्रो भवेत् । त्र्यृतुः संवत्सर इत्य् एतद्दर्शनावष्टम्भेन सकलसंवत्सरापेक्षम् एवैतद् उक्तम् ॥ ६.२३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 023	In summer let him expose himself to the heat of five fires, during the rainy season live under the open sky, and in winter be dressed in wet clothes, (thus) gradually increasing (the rigour of) his austerities.

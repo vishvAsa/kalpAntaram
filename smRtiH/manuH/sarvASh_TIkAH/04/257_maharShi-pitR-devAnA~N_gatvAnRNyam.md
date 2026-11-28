@@ -31,11 +31,20 @@ He shall remain in the house ‘*fixed in neutrality*’—*i.e*., having resign
 What is meant is the^(‘)renunciation’ of only ordinary voluntary acts done for some purpose, and not of all (even obligatory) acts; as we shall show later on.—(257)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गृहस्थस्यैव संन्यासप्रकारोऽयमुच्यते । महर्षीणां स्वाध्यायेन, पितॄणां पुत्रोत्पादनेन, देवतानां यज्ञैर्यथाशास्त्रमानृण्यं गत्वा योग्यपुत्रे सर्वं कुटुम्बचिन्ताभारमारोप्य माध्यस्थमाश्रितः पुत्रदारधनादौ त्यक्तममत्वो ब्रह्मबुद्ध्या सर्वत्र समदर्शनो गृहे एव वसेत् ॥२५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**महर्षिपितृदेवानाम् **इति । **महर्षिपितृदेवानां **स्वाध्यायप्रजायज्ञसम्पादनेन यथाशास्त्रम् ऋणसंशुद्धिं कृत्वा ततः पुत्रे सर्वां गृहधुरं च सन्न्यस्य धनार्जनात् दानदीनाश्रितः सन् “वाच्य् एके जुह्वति प्राणम्” (४.२३) इत्यादिनीत्या ज्ञानबलान् महायज्ञादीन् सम्पादयन् गृह एव क्वचित् कालं वसेत् ॥ ४.२५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 257	When he has paid, according to the law, his debts to the great sages, to the manes, and to the gods, let him make over everything to his son and dwell (in his house), not caring for any worldly concerns.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

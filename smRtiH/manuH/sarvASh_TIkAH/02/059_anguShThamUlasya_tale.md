@@ -70,11 +70,28 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 77), which offers the foll
 See Comparative notes for [Verse 2.58].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अङ्गुष्ठमूलस्याधोभागे ब्राह्मं, कनिष्ठाङ्गुलिमूलेकायंअङ्गुलीनामग्नेदैवं, अङ्गुष्ठप्रदेशिन्योमध्ये पित्र्यंतीर्थं मन्वादयं आहुः । यद्यपि—
+
+**कायमङ्गुलिमूलेऽग्रेदैवं पित्र्यं तयोरधः ।**
+
+इत्यत्र चाङ्गुलिमात्रं श्रुतं तथापि स्मृत्यन्तराद्विशेषपरिग्रहः । तथा च याज्ञवल्क्यः—
+
+**कनिष्ठादेशिन्यङ्गुष्ठमूलान्यग्रं करस्य च ।**
+
+**प्रजापतिपितृब्रह्मदेवतीर्थान्यनुक्रमात् ॥ ( या० स्मृ० १ / १९ ) ॥५९॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अर्थसिद्धत्वाल् लक्षणम् आह – **अङ्गुष्ठमूलस्येति **। “ब्राह्मणस्य दक्षिणहस्ते पञ्चतीर्थानि भवन्ति” इति प्रचेतसः स्मरणात् । दक्षिणहस्ताङ्गुष्ठमूलस्याधोभागे **ब्राह्मं तीर्थं प्रचक्षते । कायम् **अङ्गुलीनां** मूले । अग्रे दैवम्, **अङ्गुलीनाम् एवाग्रशब्दस्य साकाङ्क्षत्वात् । **पित्र्यं तयोर् अधः । **अधस्तयोर् इत्य् अस्यापि साकाङ्क्षत्वात् प्रकृतेनाङ्गुष्ठाङ्गुलिना सम्बन्धः॥ २.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	They call (the part) at the root of the thumb the tirtha sacred to Brahman, that at the root of the (little) finger (the tirtha) sacred to Ka (Pragapati), (that) at the tips (of the fingers, the tirtha) sacred to the gods, and that below (between the index and the thumb, the tirtha) sacred to the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

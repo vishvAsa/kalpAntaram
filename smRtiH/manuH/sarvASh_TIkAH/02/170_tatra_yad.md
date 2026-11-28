@@ -11,11 +11,8 @@ Among these, at that Brahmic birth which is. marked by the tying of the girdle, 
 
 **तत्र** एतेषु त्रिजन्मसु[^४२३] **यद्** एतद् **ब्रह्मजन्म** उपनयनं **मौञ्जीबन्धनचिह्नितं** मेखलाबन्धनेनोपलक्षितम् । **तत्रास्य माता सावित्री** । तया ह्य् अनूक्तया तन्निष्पन्नं भवति । अनेन च सावित्र्यनुवचनम् उपनयने प्रधानं दर्शयति, तदर्थं ह्य् असौ समीपम् आनीयते । **पिताचार्यः** । मातापितृनिर्वर्त्यं जन्म । अतो रूपकभङ्ग्या तत्राप्य् आचार्यसावित्र्यौ मातापितराव् उक्तौ ॥ २.१७० ॥
 
-
 [^४२३]:
      M G: dvijanmasu
-
-_मौञ्जीबन्धनचिह्नितम् इत्य् उक्तम् । तत्र रज्ज्वासञ्जनाद् आचार्यः पितृवन् मान्यः स्यात् तदर्थम् उच्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -50,11 +47,20 @@ the Brāhmaṇa; with the Triṣṭup, the Kṣatriya; with the Jagatī, the Vai
 whereat the Sāvitrī is the *mother*, and the Teacher the *father*
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषु त्रिषु जन्मसु मध्ये यदेतद् ब्रह्म ग्रहणार्थं जन्मोपनयन संस्काररूपं मेखलाबन्धनोपलक्षितं, तत्रास्य माणवकस्य सावित्री माता, आचार्यश्च पिता, मातृपितृसंपाद्यत्वाजन्मनः ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत्रेति** । यस्मिन् जन्मत्रयमध्ये यत् **ब्रह्म**ग्रहणार्थं पुंसो **जन्म** मेखलाबन्धनोपलक्षणार्थं **तस्य माता सावित्री पिता **पुनः **आचार्यः** वक्ष्यते इति रूपकभङ्ग्या जन्म समर्थयते ॥ २.१७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -130,11 +130,15 @@ should be worn on the left shoulder (technically called *Upavīta*); during thos
 men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**कार्पासम्** इति । भाविन्य् **उपवीत**सञ्ज्ञा यस्य विशिष्टन्यासस्य तद् **विप्रा**दीनां कार्पासशणोर्णामयं यथाक्रमं कार्यम् । **त्रिवृत् **त्रिगुणं सत् **ऊर्ध्ववृतं **दक्षिणावर्तचलितम् ॥ २.४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

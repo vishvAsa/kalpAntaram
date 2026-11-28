@@ -47,6 +47,16 @@ Brāhmaṇa or a deposit, are crimes equal to theft of gold.’
 of land, and of cows, or of deposit, these are equal to gold-stealing.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणसुवर्णव्यतिरिक्तनिक्षेपस्य हरणं तथा मनुष्यतुरगरूप्यभूमिहीरकमणीनां हरणं सुवर्णस्तेयतुल्यम्॥ ५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निक्षेपस्येति **। निःक्षेपस्य ब्राह्मणसुवर्णाद् अन्यस्य सम्बन्धिनश् च सुवर्णस्यापहरणं तथा मनुष्याश्वरूप्यभूमिहीरकमणीनां हरणं सुवर्णस्तेयतुल्यम् ॥ ११.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	Stealing a deposit, or men, a horse, and silver, land, diamonds and (other) gems, is declared to be equal to stealing the gold (of a Brahmana).

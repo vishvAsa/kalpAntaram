@@ -30,11 +30,20 @@ are spoken of as ‘*most excellent*.’
 ‘*The highest good*’—It brings about the due knowledge of Actions and Wisdom, which lead to the attainment of bliss unalloyed with pain, such bliss appearing in the form of ‘Heaven’ and ‘Final Release’; and for this reason this treatise constitutes the ‘*highest*,’ most excellent, ‘*good*’—(106).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिप्रेतार्थस्याविनाशः स्वस्ति तस्यायनं प्रापकम् एतच्छास्त्रस्याध्ययनं स्वस्त्ययनं,जपहोमादिबोधकत्वाच्च श्रेष्ठं स्वस्त्ययनान्तरात्प्रकृष्टं, बुद्धिविवर्धनम् एतच्छास्त्राभ्यासेनाशेषविधिनिषेधपरिज्ञानात्।यशसे हितं यशस्यं, विद्वत्तया ख्यातिलाभात्परं प्रकृष्टम्। निःश्रेयसं निःश्रेयसस्य मोक्षस्योपायोपदेशकत्वात्॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं शास्त्रं साक्षात् स्तौति – **इदम्** इति । **इदम्** अन्यस्मात् स्वस्त्ययनकर्मणः **श्रेष्टं **अतिशयेन प्रशस्यम्, **स्वत्ययनं** अविनाशप्रापकम् । विनाशोपशमकर्मावबोधेन, **बुद्धिविवर्धनं** च शास्त्रार्थपरिगणनात्, बुद्धिविकासेन यशोनिमित्तं च सततं सर्वकालं ख्यातिकरत्वात्, परं प्रकृष्टं **निःश्रेयसं **निःश्रेयसस्य मोक्षस्य साधकत्वात् ॥ १.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	(To study) this (work) is the best means of securing welfare, it increases understanding, it procures fame and long life, it (leads to) supreme bliss.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

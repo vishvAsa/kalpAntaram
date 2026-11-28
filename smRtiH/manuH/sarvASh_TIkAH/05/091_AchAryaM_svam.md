@@ -61,11 +61,24 @@ keeping the vows, does not deviate therefrom, if he burns the dead body of his t
 perform such acts as the burning of the dead body; if he does do it, he shall perform the *kṛohchra* penance and go through the initiation again.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्य उपनयनपूर्वकं संपूर्णशाखाऽध्यापयिता, उपाध्यायो वेदैकदेशस्याङ्गस्य वाऽध्यापकः, वेदस्य वेदानां चैकदेशस्यापि व्याख्याता गुरुः । निर्हरणपूर्वकत्वात्प्रेतकृत्यस्य निर्हृत्येति दाहःशाहपिण्डषोडशश्राद्धादिसकलप्रेतकृत्यस्य प्रदर्शनार्थमाचार्यादीन्पञ्च मृतान्निर्हृत्य ब्रह्मचारी न लुप्तव्रतोभवति । एवं चान्यान्निर्हृत्य व्रतलोपो भवतीति गम्यते । आचार्यस्वमित्यभिधानात् ।
+
+**गुरोर्गुरौ सन्निहिते गुरुवद्वृत्तिमाचरेत् ।( म.स्मृ. २-२०५ )**
+
+इति न्यायान्नाचार्याचार्यमपि । स्वमिति सर्वत्र संव्रत्र्यते, तेनोवाध्यायोपाध्यायमवि निर्हृत्य व्रतलोप एव ॥९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचार्यम् **इति । स्वम् आचार्यं न गुरौ सन्निहिते गुरुवृत्तिम् आचरेद् इति न्यायेनाचार्यम् अपि मातृपित्रुपाध्यायम् “अल्पं वा बहु वा यस्य" इत्येवंविधं गुरुं प्रेतान् निर्हृत्य ब्रह्मचारी लुप्तव्रतो न भवति । एवं वा निर्हृत्य भवतीति गम्यते ॥ ५.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	A student does not break his vow by carrying out (to the place of cremation) his own dead teacher (akarya), sub-teacher (upadhyaya), father, mother, or Guru.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

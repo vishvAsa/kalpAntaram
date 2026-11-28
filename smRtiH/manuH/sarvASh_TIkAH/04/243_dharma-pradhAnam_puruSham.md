@@ -38,11 +38,20 @@ context.
 ‘*Clothed in his own body*.’—The Soul being in *its own body*, and not in the body made up of material substances, as ordinary souls are, his body is his own spiritual one; which means that he is us all-pervading us Brahman, the Supreme Spirit.—(243)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मपरं पुरुषं दैवादुपजाते पापे प्राजापत्यादितपोरूपप्रायश्चित्तेन हतपापं दीप्तिमन्तं प्रकृतो धर्म एव शीघ्रं ब्रह्मस्वर्गादिरूपं परलोकं नयति । खंब्रह्मेत्याद्युपनिषत्सु, खशब्दस्य ब्रह्मणि प्रयोगः । खशरीरिणं ब्रह्मस्वरूपमित्यर्थः । यद्यपि लिङ्गशरीरावच्छिन्नो जीव एव गच्छति तथापि ब्रह्मांशत्वाद् ब्रह्मस्वरूपमुपपन्नम् । धर्म एव चेत्परं लोकं नयति, ततो धर्ममनुतिष्ठेत् ।
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धर्मप्रधानम्** इति । धार्मिकं **पुरुषं **कथञ्चित् प्रमादकृते च व्यतिक्रमे प्रायश्चित्तेनापगतपापं स्वतेजःपुञ्जोज्ज्वलितं विचरत्वात् ब्रह्मवद् आकाशात्मकं सन्तं प्रकृतो धर्मः क्षिप्रं **परलोकं नयति** । तस्माद् धर्मं शनैः सञ्चिनुयात् ॥ ४.२४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -30,11 +30,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 562), which explains it to
 See Comparative notes for [Verse 4.40].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तां तु रजस्वलामगच्छतस्तस्य प्रज्ञादयो वर्धन्ते । तस्मात्तां नोपेयात् ॥४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ताम्** इति । **तां** पुनः रजस्वलां न गच्छतः प्रज्ञादीनि वर्धन्ते तस्मात् तां न व्रजेद् इति ॥ ४.४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 042	If he avoids her, while she is in that condition, his wisdom, energy, strength, sight, and vitality will increase.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

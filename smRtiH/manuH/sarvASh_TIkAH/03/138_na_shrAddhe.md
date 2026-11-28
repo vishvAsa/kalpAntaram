@@ -55,11 +55,20 @@ shall not receive a friend; for the purpose of making friends he shall make pres
 Śrāddha.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्राद्धे न मित्रं भोजयेत् । धनान्तरेरस्य मैत्री सम्पादनीया ।न शत्रु न च मित्रं यं जानीयात्तं ब्राह्मणं श्राद्धे भोजयेत् ॥१३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न श्राद्धे भोजयेन् मित्रं धनैः कार्यो ऽस्य सङ्ग्रहः । नारिं न मित्रं यं विद्यात् तं श्राद्धे भोजयेद् द्विजम् ॥ मित्रं श्राद्धे न भोजयेत् ।** किं तर्हि । धनान्तरैर् अस्य मैत्र्यादिस्नेहः कार्यः । **यं** पुनः शत्रुं **न मित्रं **नाभिभर्तुं विज्ञातं ब्राह्मणं श्राद्धे भोजयेत् ॥ ३.१३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 138	Let him not entertain a personal friend at a funeral sacrifice; he may gain his affection by (other) valuable gifts; let him feed at a Sraddha a Brahmana whom he considers neither as a foe nor as a friend.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

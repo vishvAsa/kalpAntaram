@@ -35,6 +35,16 @@ This verse is quoted in *Vivādaratnākara* (p. 647), which explains ‘*svadh�
 punishment renders happy the entire universe of gods, *asuras* and men; otherwise it creates disturbance among them. Illegal punishment is destructive of heaven, fame and popularity; legal punishment brings to the king Heaven, fame and victory.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स दण्डः शास्त्रतः सम्यङ् निरूष्यापराधानुरूपेण देहधनादिषु धृतः सर्वाः प्रजाः सानुरागाः करोति। अविचार्य तु लोभादिना प्रयुक्तः सर्वाणि बााह्यर्थपुत्रादीनि नाशयति। सर्वत इति द्वितीयार्थे तसिः॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**समीक्ष्येति **। स दण्डो देशकालादि विचार्य सम्यक् लोभादिपरित्यागेन कृतः सर्वाः प्रजाः सानुरागाः करोति । अविचार्य पुनः कृतो दृष्टादृष्टेभ्यः कर्तारं नाशयति ॥ ७.१९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 नैतावता मुच्यामहे, असम्यग्धृतः कार्यं न करोतीति । यथैव सम्यग्धृतो **रञ्जयति प्रजाः**, एवम् असम्यग्धृतः सर्वम् एव **विनाशयति** ॥ ७.१९ ॥

@@ -73,11 +73,20 @@ Our answer to the above is that one can always ‘buy’ the meat brought by fow
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), which adds that ‘*svayamutpādya*’ refers to the *Kṣatriya* alone;—in *Smṛtitattva* (p. 449);—in *Hemādri* (Śrāddha, p. 582);—and in *Prāyaścittaviveka* (p. 276).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्रीत्वा आत्मना चोत्पाद्य अन्येन वा केनाप्यानीय दत्तं मांसं देवपितृभ्यो दत्त्वा शेषं भक्षयन्न पापं प्राप्नोति । अतः प्रोक्षितादिचतुष्टयभक्षणवन्नेदं नियतं भक्षणं, न दुष्यतीत्यभिधानात् । “वर्षे वर्षेऽश्चमेधेन” ( म. स्मृ. ५-५३ ) इत्याद्विवक्ष्यमाणमांसवर्जन विधिरप्येतद्विषय एव, अविरोधात् ॥३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्रीत्वेति ** । **क्रीत्वा **आत्मना **चोत्पाद्य । **यथोक्तं “भृत्यानां चैव वृत्त्यर्थम्” इति । अनेन चानीतं यथोक्तम् “धाना मत्स्यान् पयो मांसम्” इति । एवंविधं मांसं देवपितृभ्यो दत्वाश्नन् पापं न प्राप्नोति इत्य् उपाकरणानर्हशशादिमांसविषयम् इदम् उपाकरणार्हगोऽव्यजमांसस्यानुपाकृतस्य देवाद्यर्चनशिष्टस्य “अनुपाकृतमांसादि” इति प्रतिषेधात् ॥ ५.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	He who eats meat, when he honours the gods and manes, commits no sin, whether he has bought it, or himself has killed (the animal), or has received it as a present from others.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

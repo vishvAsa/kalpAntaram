@@ -103,11 +103,20 @@ This verse is quoted in *Mitākṣarā* (on 2.127), to the effect that never for
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वृत्तिसंभवेऽपि पुष्पमूलफलैः पवित्रैश्च देहं क्षपयेदल्पाहारेण क्षीणं कुर्यात् । न च भर्तरि मृते व्यभिचारधिया परपुरुषस्य नामाप्युच्चारयेत् ॥१५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कामं त्व्** इति । **पुष्पमूलफलैः** पवित्रैर् वरं **देहं क्षपयेत्** न वृत्त्यर्थं व्यभिचारबुद्ध्या **परस्य** **नामापि** उच्चरेत् ॥ ५.१५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 157	At her pleasure let her emaciate her body by (living on) pure flowers, roots, and fruit; but she must never even mention the name of another man after her husband has died.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

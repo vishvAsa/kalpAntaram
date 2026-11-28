@@ -61,11 +61,20 @@ laws laid down in the Śruti and the Smṛti, relating to the division of castes
 *Viṣṇupurāṇa* (Do.).—\[Same as Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पाषण्डिनो वेदबाह्यव्रतलिङ्गधारिणः शाक्यभिक्षुकक्षपणकादयः, विकर्मस्थाः प्रतिषिदवृत्तिजीविनः, बैडालव्रतिकबकवृत्ती वक्ष्यमाणलक्षणौ, शठा वेदेष्वश्रद्दधानाः, हैतुका वेदविरोधितर्कव्यवहारिणः, एतानतिथिकालोपस्थितान्वाङ्मात्रेणापि न पूजयेत् । पुजारहितेऽन्नदानमात्रं तु **“शक्तितोऽपचमानेभ्यः”** ( म. स्मृ. ४-३२ ) इत्यनुज्ञातमेव ॥३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **पाखण्डिन** इति । रक्ताम्बरादिलिङ्गधारिणः परवृत्तिजीवनरतान् बिडालवृत्तिकान् बकवृत्तिकान् वक्ष्यमाणलक्षणान् शठान् अश्र्द्दधानान् वेदबाह्यतर्कव्यवहारिणो **वाङ्मात्रेणापि न **पूजयेत् इति पूजापूर्वकान्नदानादिनिषेधो दानमात्रं तु शक्तितो ऽपचमानेभ्यो दातव्यम् इति वक्ष्यति ॥ ४.३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

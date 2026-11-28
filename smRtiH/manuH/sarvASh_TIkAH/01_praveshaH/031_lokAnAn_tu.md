@@ -59,11 +59,20 @@ Or, the description of the Brāhmaṇa coming out of Brahma’s mouth may be due
 It is refreshing to find Medhātithi regarding this account of the castes issuing from the mouth and other parts of the body of the Lord as mere ‘*stuti*’—not to be taken as literally true.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूरादीनां लोकानां बाहुल्यार्थेमुखबाहूरुपादेभ्यो ब्राह्मणक्षत्रियवैश्यशद्वान्यथाक्रमं निर्मितवान्। ब्राह्मणादिभिः सायंप्रातरग्नावाहुतिः प्रक्षिप्ता सूर्यमुपतिष्ठते सूर्यावृष्टिर्वृष्टेरन्नमन्नात्प्रजाबाहुल्यम्। वक्ष्यति च – “अग्नौ प्रास्ताहुतिः सम्यगादित्यम्” ( अ. १ श्लो० ७६ ) इत्यादि। दैव्या च शक्त्या मुखादिभ्यो ब्राह्मणादि निर्माणं ब्रह्मणो न विशङ्खनीयं, श्रुतिसिद्धत्वात्। तथा च श्रुतिः "ब्राह्मणोऽस्य मुखमासीत्" इत्यादि॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**लोकानाम्** इति । अग्नौ प्रास्तेति वक्ष्यमाणन्यायेन पृथिव्यादिलोकबाहुल्यार्थं सुखादिभ्यो यथाक्रमं ब्राह्मणाद्यान् दैव्या शक्त्या निर्मितवान् । तथा च ब्राह्मणो ऽस्य मुखम् आसीद् इत्यादि लिङ्गम् ॥ १.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	But for the sake of the prosperity of the worlds he caused the Brahmana, the Kshatriya, the Vaisya, and the Sudra to proceed from his mouth, his arms, his thighs, and his feet.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

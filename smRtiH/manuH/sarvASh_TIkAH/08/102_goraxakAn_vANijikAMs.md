@@ -39,6 +39,11 @@ This verse is quoted in *Aparārka* (p. 674), and again on p. 681, as indicating
 tend cattle, or live by trade, or are artisans, actors, servants or usurers.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**गोरक्षकान्** इति । गोरक्षकवाणिज्यसूपकारादिकारुकर्मदास्यप्रतिषिद्धजीविनो ब्राह्मणान् साक्षिप्रश्ने शूद्रवत् पृच्छेत् ॥ ८.१०२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रकरणाद् ब्राह्मणशपथानुयोगापवादः । "शूद्रम् एभिस् तु पातकैः" इति वचनात् । एषां गोरक्षकादीनां ब्राःमणानाम् एव सतां शूद्रशपथानुयोगः । एवं च नान्यत्र प्रयोजने शूद्रवद् आचरणम् । इतरथा प्रकरणम् उपरुध्येत ॥ ८.१०३ ॥

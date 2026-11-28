@@ -53,11 +53,20 @@ scriptures and great men.’
 ‘*paranindāñca*’ for ‘*devatānāñca*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नास्ति परलोक इति बुद्धिं, वेदस्य देवतानां च निन्दां, मात्सर्यं, धर्मानुत्साहाभिमानकोपक्रौर्याणि त्यजेत् ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नास्तिक्यम्** इति । **द्वेषं स्तम्भं च मानं च क्रोधं तैक्ष्ण्यं च वर्जयेत् ।** नास्त्य् अदृष्टम् इत्य् एव बुद्धित्वम्, वेददेवतागर्हणं मात्सर्यानम्रत्वादाव् अभिमानक्रोधक्रौर्याणि **वर्जयेत् **॥ ४.१६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 163	Let him avoid atheism, cavilling at the Vedas, contempt of the gods, hatred, want of modesty, pride, anger, and harshness.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -21,6 +21,11 @@ If one who subsists on religion deviates from religious ordinances, he shall pun
 This verse is quoted in *Vivādaratnākara* (p. 625), which adds the following notes:—‘*Samaya*’, scriptural conventions;—‘*dharmajīvanaḥ*’ Brāhmaṇa and the rest;—‘*āploṣet*’, should bum *i.e*., inflict pain;—and in *Vyavahāra-Bālambhaṭṭī* (p. 991).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+याजनप्रतिग्रहादिना परस्ययागदानादिधर्ममुत्पाद्ययो जीवति स धर्मजीवनो ब्राह्मणः सोऽपि यो धर्ममर्यादायाश्च्युतो भवति तमपि स्वधर्मात्परिभ्रष्टंदण्डेनोपतापयेत् ॥ २७३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ब्राह्मणो **धर्मजीवनः** । स ह्य् अनुपकृत्य जीवति । यतस् तस्यापि स्वधर्मस्थापनार्थं दण्डो ऽपराधानुरूपः प्रणेयः ॥ ९.२७३ ॥

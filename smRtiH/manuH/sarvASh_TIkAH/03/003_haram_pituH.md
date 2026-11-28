@@ -103,11 +103,20 @@ seated in his assembly, he shall look upon the assembly,—sitting down, he shal
 Cow-honey-mixture;—as also the Ācārya, the Priest, the Accomplished Student, the King endowed with righteousness.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तं ब्रह्मचारिधर्मानुष्ठानेन ख्यातं, दीयत इति दायः ब्रह्मैव दायो ब्रह्मदायः तं हरतीति ब्रह्मदायहरं पितुः पितृतो गृहीतवेदमित्यर्थः। पितृतोऽध्ययनं मुख्यमुक्तं, पितुरभावे आचार्यादेरप्यधीतवेदं मालयालंकृतं उत्कृष्टशयनोपविष्ट गोसाधनमधुपर्केण पिता आचार्यो वा विवाहात्प्रथमं पूजयेत्॥३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तम्** इति । **तं** कृतब्रह्मचर्यं ब्रह्मचर्यावस्थानोदितधर्मानुष्ठानानुशयेन प्रतिख्यातं “तस्मात् पुत्रम् अनुशिष्टं लोक्यम् आहुः” इति श्रुत्या **पितुः** प्रथमकल्पिकत्वात् पितुः सकाशात् तदभाव आचार्य अधीतवेदं कृतमाल्याद्यलङ्कारं परार्घ्यशयनोपविष्टं पिता तदभावे आचार्यादिः गृह्योक्तस्वरूपगोसाधनकमधुपर्काख्यकर्मणा गार्हपथ्यप्रतिपत्तेः प्राक् पूजयेत् । दियते इति दायः, ब्रह्मैव दायो ब्रह्मदायः, तं हरतीति **ब्रह्मदायहरति **॥ ३.३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

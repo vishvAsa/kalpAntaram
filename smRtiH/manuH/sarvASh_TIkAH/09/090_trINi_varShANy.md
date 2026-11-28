@@ -56,6 +56,11 @@ her, let the maiden approach the King, and let her, with his permission, betake 
 remains unmarried in her father’s house, the guilt of embryo-killing falls upon the father, and the maiden shall choose her own husband.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पित्रादिभिगुणवद्वरायादीयमाना कन्या संजातार्तवा सती त्रीणि वर्षाणि प्रतीक्षेव । वर्षत्रयात्पुनरूर्ध्वमधिकगुणवरालाभे समानजातिगुणं वरं स्वयं वृणीत ॥ १० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कन्याया अयम् उपदेशः । सा च द्वादशवर्षर्तुं पश्यतीति स्मर्यते । यत एतस्मात् कालाद् ऊर्ध्वं वर्षत्रयं स्वयंवरात् ग्रहणं तस्याः । ऊर्ध्वं तु ॥ ९.९० ॥

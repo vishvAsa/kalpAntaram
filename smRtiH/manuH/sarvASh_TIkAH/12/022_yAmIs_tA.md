@@ -28,6 +28,16 @@ The sense of this has been already explained before.
 The purport of these four verses is as follows:—It is only when there is a large amount of vice, that these torments are inflicted by Yama,—and not when there is a small amount of vice (and a larger amount of virtue); in which latter case heavenly happiness is experienced in this world itself.—(22)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स जीवो यमकारितास्ताःपीडास्तेन कठिनदेहेनानुभूय ततो भोगेनापहतपाप्मा तान्पञ्चजरायुजादिशरीरारम्भकान्पृथिव्यादिभूतभागानधितिष्ठति। मानुषादिशरीरं गृह्णातीत्यर्थः॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यामीर्** इति । स क्षेत्रज्ञः ता याम्या यातनास् तेन क्रूरशरीरेणानुभूय ततो ऽपहतपाप्मनान्ये ये जरायुजादिशरीरारम्भकान् पृथिव्यादिभूतभागान् पुनर् अप्य् एत्य् ऐहिकं शरीरं गृह्णातीत्य् अर्थः ॥ १२.२२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पुनर् अस्य कर्मजस्य शरीरस्य प्रतिपत्त्यर्थं ता एव पञ्चभूतमात्रा अब्येति । येन न ताभिर् विना पुरुषस्योपभोगः संभवति ॥ १२.२२ ॥

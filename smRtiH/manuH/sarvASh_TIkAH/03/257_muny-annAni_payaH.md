@@ -49,11 +49,20 @@ This verse is quoted in *Smṛtitattva* (p. 225), which explains ‘*anupaskṛt
 *Gadādharapaddhati* (Kāla, p. 538).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मुनेर्वानप्रस्थस्यान्नानि नीवारादीनि, पयः क्षीरं, सोमलतारसः, अनुपस्कृतमविकृतंप्रतिगन्धादिरहितंमांसम्, अक्षारलवणमकृत्रिमलवणं सैन्धवादि, एतत्स्वभावतो हविर्मन्वादिभिरभिधीयते ॥२५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मुन्यन्नानीति **। आरण्यान्नं क्षीरं **सोमो मांसं **चानतितीक्ष्णं बिडलवणादिवर्जितं लवणं सैन्धवं स्वभावत एवैतद् **धविर्** इति मन्वादिभिर् उच्यते ॥ ३.२५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

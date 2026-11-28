@@ -35,6 +35,11 @@ This verse is quoted in *Smṛtitattva* II (p. 191), to the effect that the son�
 See Comparative notes for [Verse 9.127](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201500.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पौत्रपौत्रिकेययोर्लोके धर्मकृत्ये न कश्चिद्विशेषोऽस्ति। यस्मात्तयोर्मातापितरौ तस्य देहादुत्पन्नाविति पूर्वस्यैवानुवादः॥ १३३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **पौत्रदौहित्रयोर् लोके न विशेषो ऽस्ति धर्मतः ।**

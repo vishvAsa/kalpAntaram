@@ -49,11 +49,24 @@ at the Śrāddha, all the three Vedas, Ṛk, Sāman and Yajuṣ, are present in 
 the offerings to Gods and Pitṛs, he attains endless and imperishable results;—says the Śruti.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां सम्पूर्णशाखाध्यायिनां बह्वृचादीनां मध्यादन्यतमो यस्य सम्यक् पूजितः सन् श्राद्धे
+
+भुङ्क्तेतस्य (१)[^69] पुत्रादिसप्तपुरुषाणां शाश्वती अविच्छिन्ना पितॄणां तृप्तिः स्यात्। 'साप्तपौरुषी' इत्यनुशतिकादित्वादुभयपदवृद्धिः तस्य चाकृतिगणत्वात् ॥१४६॥
+
+[^69]: "सप्तपुरुषाश्च पिण्डभाजस्त्रयः पितृपितामहप्रपितामहाः; लेपभाजश्चतुर्थाद्यास्त्रयश्च, भात्मा सप्तम इत्यन्यत्रोक्ताः । तदाह पुत्रादीति ।पुत्रोऽत्र श्राद्धकर्ता विवक्षित इति ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एषाम्** इति । **एषां **बह्वृचादीनां मध्याद् **अन्यतमो यस्य **त्व् अर्चितमनाः **श्राद्धं भुञ्जीत तस्य **पित्रादिसप्तपुरुषव्यापिनी अनवच्छिन्ना **पितॄणां तृप्तिः स्याद्** इति समस्तशाखाध्यायिभोजनफलकथनम् । अत एव विज्ञायते – यत्र क्वचनावस्थिताः पितरः पुत्राद्युपहृतकव्यैः सुखम् आसते । इतश् च पितृतृप्तिफलम् एतत्, श्राद्धकर्मणि च अकृताभ्यागमकृतविप्रणाशाव् अत्र चोदनीयौ, शास्त्रैकगोचरत्वे वैश्वानरवत् तथैवागमात् ॥ ३.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	If one of these three dines, duly honoured, at a funeral sacrifice, the ancestors of him (who gives the feast), as far as the seventh person, will be satisfied for a very long time.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

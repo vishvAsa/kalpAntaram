@@ -12,7 +12,6 @@ If a hireling, without being ill, does not perform the stipulated work, through 
 
 उद्दिष्टेन मूल्येनोद्दिष्टं कर्म करोति स इह **भृतो** ऽभिप्रेतः । भृत्यकर्मविशेषेण स्वीकृतो भृतः[^५०] । देहि मे पञ्चरूपकाणि, इदं ते कर्म कर्तास्मीयता कालेन" इत्य् आभाष्य प्रविष्टः, स चेत् कर्म न समापयति, **कृष्णलानि** सौवर्णानि ताम्ररजतयोर् वा कर्मस्वरूपम् अनुबन्धादि च ज्ञात्वा दण्ड्यते । तानि च रूपकाणि वेतनार्थं कल्पितानि न लभेत । यद्य् **अनार्तो दर्पान् न** करोति यथोदितं कर्म । व्याध्यादिनापीडितस्य दर्पाद् अकुर्वतो भृतिहानिर् दण्डनं च । अतः स एवं वक्तुं न लभते- "यावन् मया कर्मांशः कृतस् तदानुरूप्येण देहि" इति । 
 
-
 [^५०]:
      J: bhṛtyaḥ
 
@@ -27,8 +26,6 @@ If a hireling, without being ill, does not perform the stipulated work, through 
 - भृतिं गृहीत्वाकुर्वाणो द्विगुणं भृतिम् आवहेत् ॥
 
 - काले ऽपूर्णे त्यजन् कर्म भृतिनाशनम् अर्हति ॥ न्स्म् ६.५–६ ॥ ८.२१५ ॥
-
-_अनार्तस्य दण्ड उक्तो भृतिहरणं च । आर्तस्येदानीम् उच्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -77,6 +74,16 @@ Do. (6.2, 3, 5-9).—‘A master shall regularly pay wages to the servant hired 
 
 *Bṛhaspati* (16.8-20).—‘The servant for gain or pay is declared to be of
 many sorts; another is servant for a share of the grain...—A servant engaged for a day, a month, half-month, a six-month, two months, or a year, must do the work which he promised to do and receive the stipulated wages. A servant for a share of the grain is of two kinds—serving either a husbandman or an owner of cattle; ho shall receive a share of the grain produced, or of the milk; a third or fifth of the produce shall be given to the cultivator of the soil as his share. Let that cultivator to whom food and clothing are given take a fifth part of the crops; and let him who serves in consideration of the profit take a third part of the grain produced. Should a hired servant fail in the performance of ever so small a part of his employer’s work, he forfeits his wages, and may be sued in court for his offence. When a servant does not perform his work after having received his wages, though he is able to work,... he shall be compelled to pay twice as much as his wages as a fine to the King, and to refund the wages to the employer. he who has promised to do work and does not perform it, shall he compelled to do so by forcible means even; and if, through obstinacy, such a servant should still not do it as engaged for, he shall be fined eight *Kṛṣṇalas*, and his wages shall not he given to him. When a servant commanded by his employer does any improper act for the benefit of his employer, the latter shall be held responsible for it. When a master does not pay wages for the labour stipulated, after the work has been performed, he shall be compelled by the King to pay it, and a proportionate fine besides. A man hired for attendance on milch cows shall receive the whole milk every eighth day.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+यो भृतिपरिक्रीतो व्याघ्यपीडितो यथानिरूपितं कर्माहङ्कारान्न कुर्यात्स कर्मानुरूपेण सुर्वणादिकृष्णलान्यष्टौ दण्डनीयः । वेतनं चास्य न देयम् ॥२१५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भृत** इति । यो भृतः परक्रीतो व्याध्याद्यपीडितो यथानिरूपितं कर्म अहङ्कारान् न कुर्यात् स कुर्वाण क्रियोक्तस्वरूपे सुवर्णादिकृष्णलान् अष्टौ दण्ड्यो भृतिश् चास्य कर्मभागाद् अपि न देया ॥ ८.२१५ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

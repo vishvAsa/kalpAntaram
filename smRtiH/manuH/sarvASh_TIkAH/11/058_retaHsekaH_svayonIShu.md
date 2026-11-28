@@ -14,33 +14,25 @@ Carnal intercourse with one’s uterine sister, or with virgins, or with low-bor
 
 - वयं तु ब्रूमः । सत्य् अपि स्त्रीग्रहणेन[^७५] ऊढानूढयोर् विषमसमीकरणस्यान्यायत्वात्[^७६] समत्ववचनम् । एतन् न प्रायश्चित्तनिर्देशार्थम्, किं तर्हि गुरुत्वख्यापनपरम् । अतश् च गुरुतरं प्रायश्चित्तं भवति । तथा चोक्तम् "एनःसु[^७७] गुरूणि गुरूणि लघुनि लघूनि" (ग्ध् १९.१९) । यदि ह्य् एतत् प्रायश्चित्तनिर्देशार्थम् अभविष्यत् प्रायश्चित्तनिदेशप्रकरण[^७८] एव वावक्ष्यत् । कौटसाक्ष्यसुहृद्वधयोश् चेह सुरापानसमीकृतयोर् ब्रह्महत्याप्रायश्चित्तातिदेशम् उपरिष्टान् न कुर्यात् । "गुरोश् चालीकनिर्बन्धः" (म्ध् ११.५४) इत्य् एतस्य चेह ब्रह्महत्यासमीकृतस्य पुनर् उपरिष्टात् ब्रह्महत्याप्रायश्चित्ताभिधानात् । तथा कुमार्याम् इति रेतःसेकस्य गुरुतल्पसमीकृतस्येह पुनस् तत्र गुरुतल्पप्रायश्चित्तविधानाद्, गम्यते नेदं प्रायश्चित्तार्थं समीकरणम् इति । 
 
-
 [^७८]:
      M G: prāyaścittaṃ
-
 
 [^७७]:
      M G J: enasi
 
-
 [^७६]:
      M G: viṣayasamīkaraṇasya nyāyatvāt
-
 
 [^७५]:
      M G omit: strī-
 
 - <u>अन्ये</u> तु मन्यन्ते- भेदेन समीकरणं गुरुत्वभावे ऽपि वक्ष्यते, नान्यय्यम्[^७९] । अतः प्रायश्चित्तार्थम्[^८०] एव सुरापानस्य समीकृतयोश् च कौटसाक्ष्यसुहृद्वध्योर् ब्रह्महत्याप्रायश्चित्तनिर्देशो विकल्पार्थम् सुरापानप्रायश्चित्तेन । अस्य चातिदेश एव श्रूयते । समीकरणे तु विकल्पो नास्ति । यथा "हत्वा गर्भम् अविज्ञातम्" इति (म्ध् ११.८६) ॥ ११.५८ ॥
 
-
 [^८०]:
      M F: -ārthānām
 
-
 [^७९]:
      M G: na tyājyam
-
-_इदानीम् उपपातकान्य् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -97,6 +89,25 @@ Do. (37.6-10, 13-33).—‘Abandoning one’s holy fire, or father, mother, son 
 maiden, with one’s own offsprings, with a Caṇḍāla woman, with one’s
 *Sagotra* woman, with one’s sons’ wives,—is declared to be equal to the
 violating of the *guru’s* bed. Killing cows, apostacy, theft, non-payment of debts, omitting to establish the sacred fires, selling what should not be sold, marrying before the elder brother, learning Veda from a hired teacher, teaching the Veda for payment, adultery, permitting one’s self to be superseded in marriage by the younger brother, usury, manufacturing salt, killing a woman, a Vaiśya, a Śūdra or a Kṣatriya, making a living through reprehensible things, atheism, breaking the vow of celibacy, selling of sons, stealing grains or base metals or cattle, sacrificing for those not entitled to perform sacrifices, abandoning of father, mother or son, selling of tanks or gardens, defiling a maiden, sacrificing for one who has married before his elder brother and giving of girl in marriage to such a person, dishonesty, omitting of the observances and restrictions, undertaking of an act for one’s own benefit, intercourse with a wine-drinking woman, abandoning of Vedic study or of the sacred fires, neglecting one’s sons, forsaking of relatives, cutting trees for fuel, making a living by one’s own wife, or by medicines or by killing, making of murderous machines, being addicted to vicious habits, selling one’s self, serving under a Śūdra, making friendships with low men, intercourse with low-born women, omitting the prescribed life-stages, getting fat with food given by others, studying of evil sciences, superintending mines, selling one’s wife;—each of these is a *minor sin*, an *upapātaka*.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+सोदर्यभगिनीकुमारीचण्डालीसखिपुत्रभार्यासु यो रेतःसेकस्तं गुरुभार्यागमनसमानमाहुः। एतेषां भेदेन समीकरणंयद्येन समीकृतं तस्य तेन प्रायश्चित्तार्थम्। यत्कौटसाक्ष्यसुहृद्वधयोः सुरापानसमीकृतेयोर्ब्रह्महत्याप्रायश्चितं वक्ष्यति तद्विकल्पार्थम् यत्पुनर्गुरोरलीकनिर्बन्धस्य ब्रह्महत्यासमीकृतस्य पुनरुपरिष्टाद् ब्रह्महत्याप्रायश्चित्तनिदशः तत्समीकृतानां न्यूनप्रायश्चित्तं भवतीति ज्ञापनार्थम्। तथा च लोके राजसमः सचिव इत्युक्ते सचिवस्य न्यूनतैव गम्यते। अत्रौपदेशिकप्रायश्चित्तभ्य आलिदेशिकप्रायश्चित्तानां तन्न्यूनं प्रायश्चित्तं समीकृतानां च॥१८॥
+
+इदानीमुपपातकान्याह—
+
+**गोवधोऽयाज्यसंयाज्यपारदार्यात्मविक्रयाः।  
+गुरुमातृपितृत्यागः स्वाध्यायाग्न्योः सुतस्य च॥ ५६॥  
+परिवित्तिताऽनुजेऽनूढे परिवेदनमेव च।  
+तयोर्दानं च कन्यायास्तयोरेव च याजनम्॥ ६०॥  
+कन्याया दूषणं चैव वार्धुष्यं व्रतलोपनम्।  
+तडागारामदाराणामपत्यस्य च विक्रयः॥ ६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**रेतःसेकः स्वयोन्यास्व्** इति । भगिनीकुमारीमित्रभार्यास्नुषासु चाण्डालादिस्त्रीषु च गमनं गुरुभार्यागमनसमानम् आहुः । एषां च भेदेन समीकरणं यद् येन समीकृतं तस्य तदीयप्रायश्चित्तार्थम् । यत् तु कौटसाक्ष्यं सुहृद्वधः ब्रह्महत्याप्रायश्चित्तातिदेशं वक्ष्यति तद् विकल्पार्थम् । यः पुनः गुरोर् अलीकनिर्बन्धस्य ब्रह्महत्यासमीकृतस्य गुरुतल्पप्रायश्चित्तनिर्देशः समीकृतानां न्यूनं प्रायश्चित्तं भवतीति ज्ञापनार्थं यथा च लोके ऽपि “राजसमः सचिवः” इत्य् उक्ते सचिवस्य न्यूनतैव प्रतीयते । अत्र चोपदिशिकेभ्य आदेशिकेभ्य आदेशिकानां न्यूनत्वम् अतिदेशविधानं तेभ्यो ऽपि समीकृतानाम् ॥ ११.५७ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

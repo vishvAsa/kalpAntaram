@@ -46,6 +46,11 @@ Do. (71.56.58).—‘He shall not arouse a sleeping man; he shall not converse w
 shall not arouse a sleeping man.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नैकः स्वप्याद्** इति । उद्वसितगृहे **एको** न शयीत वित्ताद्यभ्यधिकं सुप्तं च **न प्रोबोधयेत् **। रजस्वलया सह सम्भाषणं न कुर्यात् । **यज्ञं** चाकृतवरणं ऋत्विक् **न गच्छेत्** । “दर्शनार्थं तु कामम्” इति गौतमः ॥ ४.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).

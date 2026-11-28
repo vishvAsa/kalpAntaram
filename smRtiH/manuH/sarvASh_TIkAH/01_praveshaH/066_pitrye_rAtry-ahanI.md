@@ -35,6 +35,16 @@ The same work quotes it again on p. 308, in support of the view that ‘from *Pr
 See the comparative notes for [Verse 1.64 (Measures of Time)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषाणां मासः पितॄणामहोरात्रे भवतः। तत्र पक्षद्वयेन विभागः—कर्मानुष्ठानाय पूर्वपक्षोऽहः, स्वापार्थं शुक्लपक्षो रात्रिः॥६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पित्र्ये** इति । मानुष्यो **मासः **पितॄणाम् अहोरात्रम् । तत्र च पक्षाभ्यां विभागः कृष्णः पक्षो ऽहः कर्मोद्यमार्थं शुक्लः पक्षः पुनः स्वापार्थं रात्रिः ॥ १.६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 066	A month is a day and a night of the manes, but the division is according to fortnights. The dark (fortnight) is their day for active exertion, the bright (fortnight) their night for sleep.

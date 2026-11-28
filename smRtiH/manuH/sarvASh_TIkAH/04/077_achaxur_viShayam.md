@@ -68,6 +68,16 @@ not descend into a well; he shall not cross a river with his arms; he shall not 
 fruit-gathering, crossing over difficult places......, these he shall not do.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तरुगुल्मलतागहनत्वेनाचक्षुर्गोचरमरण्यादिदेशं दुर्ग नाक्रामेत्, सर्पचौरादेरन्तर्हितस्य सम्भवात् । पुरीषं मूत्रं च न निरीक्षेत ।बाहुभ्यां च नदींन तरेत् ॥७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अचक्षुर्विषयम्** इति । चक्षुर्गोचरो यो न भवति दुर्गमो देशः तं कदाचिद् अपि न गच्छेत् । मूत्रपुरीषे च नो**दीक्षेत** । **बाहुभ्यां नद्य्**आदि** न तरेत् ॥ ४.७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.

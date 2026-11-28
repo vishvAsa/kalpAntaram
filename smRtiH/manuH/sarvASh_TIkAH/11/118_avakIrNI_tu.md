@@ -95,6 +95,11 @@ rice to Nirṛti. He shall throw the oblations with the mantra—“To Lust
 *Pāraskara-Gṛhyasūtra* (3.12.1-3, 6-8).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अवकीर्णी वक्ष्यमाणः काणेन गर्दभेन रात्रौ चतुप्पथे पाकयज्ञेन तन्त्रेण निर्ऋत्याख्यांदेवतां यजेत् ॥ ११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	But a student who has broken his vow shall offer at night on a crossway to Nirriti a one-eyed ass, according to the rule of the Pakayagnas.

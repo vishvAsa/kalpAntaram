@@ -74,6 +74,16 @@ It is quoted in *Vivādacintāmaṇi* (p. 191), which says:—If the witness lie
 See Comparative notes for [Verse 8.118].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+लोभेन मिथ्याऽभिधाने सति वक्ष्यमाणपणानां सहस्रं दण्ड्यः, मोहेन प्रथमं साहसं वक्ष्यमाणम्, भयेन च वक्ष्यमाणौ मध्यमसाहसौ, मैत्रात्प्रथमसाहसं चतुर्गुणम् ॥१२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**लोभाद्** इति । लोभेनानृताभिधाने सति पणानां वक्ष्यमाणानां सहस्रं दण्ड्यः । मोहेन प्रथमसाहसं वक्ष्यमाणम् । भयेन वक्ष्यमाणसाहसौ द्वौ । मैत्र्यात् प्रथमसाहसं चतुर्गुणम् ॥ ८.१२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 120	(He who commits perjury) through covetousness shall be fined one thousand (panas), (he who does it) through distraction, in the lowest amercement; (if a man does it) through fear, two middling amercements shall be paid as a fine, (if he does it) through friendship, four times the amount of the lowest (amercement).

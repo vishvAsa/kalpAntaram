@@ -58,6 +58,16 @@ through the authority of the professors of each; for the sake of this discipline
 knowledge of the scriptures; knowledge of the scriptures increases humility. A king who is modest under culture never sinks under calamities. A king well-versed in polity, practising self-control, very soon attains to that shining pitch of prosperity that has been attained by other divine kings. The Preceptor is worshipped for the acquisition of learning; learning which has been mastered becomes instrumental in enhancing the prudence of the illustrious; and the habit of acting by prudence leads to prosperity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेनो, नहुषश्च राजा, पिजवनस्य च पुत्रः सुदानामा, सुमुखो निमिश्चाविनयादवश्यन्॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा च **वेन** इति । वेनो नहुषश् चापि पिजवनस्य च पुत्रः सुदानाममुखौ निमिश्चाविनयान् नष्टाः ॥ ७.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	Through a want of humility Vena perished, likewise king Nahusha, Sudas, the son of Pigavana, Sumukha, and Nemi.

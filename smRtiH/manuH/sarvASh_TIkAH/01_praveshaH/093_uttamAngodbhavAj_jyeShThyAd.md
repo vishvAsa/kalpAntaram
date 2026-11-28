@@ -24,11 +24,15 @@ regarding *Dharma*,’—the affix ‘*tasi*’ (in ‘*dharmataḥ*’) being a
 ‘*Dharmataḥ prabhuḥ*’—‘The lord, by law’—according to Nārāyaṇa and Nandana. But Medhātithi takes it to mean that ‘*he is the lord, in matters relating to Dharma*’; *i.e*., he is the person entitled to prescribe the duties of men and as such, is like the lord;—Govindarāja, Kullūka and Rāghavānanda accept the latter explanation.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+ततः किम् अत आह – **उत्तमाङ्गोद्भवाद्** इति । मूर्धोद्भवत्वात् पूर्वोत्पन्नत्वात् प्रवचनादियुक्तत्वात् सातिशयवेदधारणात् **सर्वस्य **जगतो धर्मानुशासने **ब्राह्मणः प्रभुः **॥ १.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

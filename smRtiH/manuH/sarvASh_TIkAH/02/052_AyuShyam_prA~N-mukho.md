@@ -82,11 +82,15 @@ wet feet, facing the East, with his two feet or even one touching the ground.’
 the east, with speech in check, not decrying the food, nor scattering it, with mind concentrated on it: and having eaten he shall sip water.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+काम्यम् इदानीम् आह – **आयुष्यम्** इति । आयुषे हितम् अन्नं प्राङ्मुखो **भ्य्ङ्क्ते** इति लिङर्थो ऽयं द्रष्टव्यः, अन्यथा आनर्थ्यक्यात् । एवं च्**आयुष्य**कामः **प्राङ्मुखो भुङ्क्ते** [इति] उक्तं भवति । एवं यशसे हितं **दक्षिणामुखः**, **श्रियम्** इच्छन् **प्रत्यङ्मुखः** । **ऋतं** सत्यं तत्फलहेतुत्वात् अन्नम् अमृतं **उदङ्मुखो भुङ्क्ते** ॥ २.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

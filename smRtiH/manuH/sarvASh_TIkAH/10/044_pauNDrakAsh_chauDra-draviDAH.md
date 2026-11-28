@@ -50,6 +50,16 @@ All the people here spoken of form the races inhabiting the borders of Āryāvar
 See Comparative notes for [Verse 10.43].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पौण्ड्रादिदेशोद्भवाः सन्तः क्रियालोपादिना शूद्रत्वमापन्नाः॥ ४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पौण्ड्रका** इति । पौण्ड्रकादयः क्षत्रियाः सन्तः क्रियालोपादिना शूद्रत्वम् आपन्नाः ॥ १०.४४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पुण्ड्रकादयो दरदान्राः क्षत्रियाः सन्तः क्रियालोपाच् छूद्रीभूताः ॥ १०.४४ ॥

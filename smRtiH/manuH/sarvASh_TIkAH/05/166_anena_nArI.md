@@ -54,11 +54,20 @@ See Comparative notes for [Verse 5.154].
 well-behaved, with senses under control, attains fame in this world and the supreme state, after death.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनेन स्त्रीधर्मप्रकारेणोक्तेनाचारेण पतिशुश्रूषाभर्त्रव्यभिवारादिना मनोवाक्कायसंयता स्त्रीइह लोके च प्रकृष्टां कीर्तिं परत्रपत्या सहाजितं च स्वर्गादिलोकं प्राप्नोतीति प्रकरणाथोंपसंहारः॥१६६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । मनोवाक्कायसंयतया नार्य् अनेन पूर्वोक्तेनाचारेणेह लोके श्रेष्टां कीर्तिं पतिलोकं च परलोके प्राप्नोतीत्य् उपसंहारार्थम् ॥ ५.१६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 166	In reward of such conduct, a female who controls her thoughts, speech, and actions, gains in this (life) highest renown, and in the next (world) a place near her husband.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

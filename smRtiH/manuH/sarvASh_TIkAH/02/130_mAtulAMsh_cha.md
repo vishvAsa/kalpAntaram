@@ -68,11 +68,20 @@ silently embrace—the priest, the father-in-law, the paternal uncle and the mat
 uncle and the maternal uncle, if these are junior in age—salutation consists in rising to welcome.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातुलादीनागतान्कनिष्ठानासनादुत्थाय नसावहमिति वदेत् नाभिवादयेत् । असाविति स्वनामनिर्देशः । “भूयिष्ठाः खलु गुरवःइत्युपक्रम्य ज्ञानवृद्धतपोवृद्धयोरपि हारीतेन गुरुत्वकीर्तनाक्तयोश्च कनिष्ठयोरपि सम्भवार्त्तद्विषयोऽयं गुरुशब्दः ॥१३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मातुलांश् चेति **। **मातुलादीन् **हीनवयसः **प्रत्युत्थाय **भद्रो ऽहम् इत्य् एवं ब्रूयात् । **ऋत्विक् **वक्ष्यते । **गुरुश्** चात्र मातृश्वस्रपत्यादिः, न विद्यागुरुः शैशवाख्यानस्य वक्ष्यमाणत्वात् ॥२.१३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 130	To his maternal and paternal uncles, fathers-in-law, officiating priests, (and other) venerable persons, he must say, 'I am N. N.,' and rise (to meet them), even though they be younger (than himself).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

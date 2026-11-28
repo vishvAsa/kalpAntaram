@@ -63,6 +63,11 @@ robbers through clever spies conversant with the methods adopted by criminals, t
 Do. (Theft: 61).—‘As governor, the King shall extirpate the evil-doers, after having traced them by the application of cunning stratagems and arrested them.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तानुक्तान्वञ्चकान्सभ्यैः प्रच्छनैस्तत्कर्मकारिभिर्वणिजां स्तेये वणिग्भिरित्येवमादिभिः पुरुषैरेतव्यतिरिक्तैःसप्तमाध्यायोपदिष्टकापटिकादिभिश्चारैरनेकस्थानस्थैर्ज्ञात्वा प्रोत्साद्य स्ववशाकुर्यात्॥ २६१॥
+</details>
+
 <details><summary>Bühler</summary>
 
 261	Having detected them by means of trustworthy persons, who, disguising themselves, (pretend) to follow the same occupations and by means of spies, wearing various disguises, he must cause them to be instigated (to commit offences), and bring them into his power.

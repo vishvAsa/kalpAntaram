@@ -37,11 +37,20 @@ wife, the son, the time, the place, the duty, the act itself, or the word.’
 without a wife.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्विजातिः समानवर्णां यथोक्ताचारयुक्तां पूर्वमृतां श्रौतस्मार्ताग्निभिर्यज्ञपात्रेश्च दाहधर्मज्ञो दाहयेत्॥१६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । धर्मज्ञो द्विजातिर् उक्ताचारां समानजातीयां पूर्वमृतस्त्रियं श्रौतस्मार्ताग्निभिः **यज्ञपात्रैश् च** स्रुक्स्रुवादिभिर् **दाहयेत्** ॥ ५.१६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 167	A twice-born man, versed in the sacred law, shall burn a wife of equal caste who conducts herself thus and dies before him, with (the sacred fires used for) the Agnihotra, and with the sacrificial implements.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

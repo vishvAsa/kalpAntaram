@@ -33,11 +33,20 @@ line reading as ‘*Nāradaḥ prāha dharmātmā niyatam sovasīdati* under 14;
 *Yājñavalkya* (1.181).—(See above, under 47.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादीनां चतुर्णामपि वर्णानां प्रेतेष्वपि पित्रादीनां शुद्धिं ब्राह्मणादिक्रमेण या यस्येति, द्रव्यादीनां च तैजसादीनां शुद्धिमभिधास्यामि ॥५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रेतशुद्धिम्** इति । प्रेतनिमित्तां शुद्धिं द्रव्याणां तैजसादीनां शुद्धिं ब्राह्मणादीनां चतुर्णां कार्त्स्न्येन ब्राह्मणाड्यानुपूर्व्या च प्रवक्ष्यामि ॥ ५.५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 057	I will now in due order explain the purification for the dead and the purification of things as they are prescribed for the four castes (varna).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -38,11 +38,15 @@ the form of going out, speaking and the like,—which are the effects indicative
 animate beings in the state of sleep, intoxication or swoon. \[Which shows that plants have their consciousness lying far deeper within than in animals.\]—(49)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**तमसेति** । सत्त्वरजस्तम आख्या गुणाः । तत्रैते वृक्षादयः पदर्था विविधदुःखोत्पादनरूपेण प्राग्जन्मार्जितदुष्टकर्महेतुना **तमसा **व्याप्ता भवन्ति । यद्य् अपि सर्व एव क्वचिद् अन्तर् एव चेतयन्ते तथाप्य् एते सञ्ज्ञाकार्यस्य व्यवहारादेः बहिरभावाद् **अन्तःसञ्ज्ञा **उच्यते । सत्त्वरजोलेशस्यापि सद्भावान् **सुखदुःखान्विता **अपि भवन्ति ॥ १.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	These (plants) which are surrounded by multiform Darkness, the result of their acts (in former existences), possess internal consciousness and experience pleasure and pain.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

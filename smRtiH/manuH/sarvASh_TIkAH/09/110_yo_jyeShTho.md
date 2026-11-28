@@ -42,6 +42,11 @@ This verse is quoted in *Vivādaratnākara* (p. 457), which adds the following n
 See Comparative notes for [Verse 9.105].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो ज्येष्ठोऽनुजेषु भ्रातृषु पितृवद्वर्तेतस पितेव मातेवागर्हणीयो भवाति। यः पुनस्तथा न वर्ततस मातुलादिबन्धुवदर्चनीयः॥ ११०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 गुरुकार्यनिवृत्त्यर्थम् इदं बन्धुवचनम् । तथा च सति ॥ ९.११० ॥

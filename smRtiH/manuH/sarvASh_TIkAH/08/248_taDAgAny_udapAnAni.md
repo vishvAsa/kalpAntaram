@@ -43,6 +43,16 @@ It is quoted in *Mitākṣarā* (2.151), where *Bālambhaṭṭī* adds the foll
 See Comparative notes for [Verse 8.245].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तडागकूपदीर्घिकाजलनिर्गममार्गदेवगृहाणि सीमारूपेषु ग्रामद्वयसन्धिस्थानेषु कर्तव्यानि । एतेषु सीमानिर्णयाय विख्याप्य कृतेपूदकाद्यथिजना अपि श्रुतिपरम्परया चिरकालेऽपिसाक्षिणो भवन्ति ॥२४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तडागानीति** । तडागकूपपुष्करिण्युदकप्रणीतदेवगृहाणि सीमायां ग्रामद्वयसन्धिस्थानेषूदकाभ्यर्थित्वेन जनसंसर्गे सति साक्षिसम्भावनार्थे कर्तव्यानि ॥ ८.२४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 248	Tanks, wells, cisterns, and fountains should be built where boundaries meet, as well as temples,

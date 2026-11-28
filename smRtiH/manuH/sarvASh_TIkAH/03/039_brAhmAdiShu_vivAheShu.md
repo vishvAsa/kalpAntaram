@@ -67,6 +67,16 @@ Manu.\]
 marrying of a girl by the right form is double in the case of her being given to a Brāhmaṇa; a hundred-thousandfold in that of her being given to a learned Brāhmaṇa; and endless in that of her being given to a thoroughly learned Brāhmaṇa.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिषु चतुर्षु विवाहेषु क्रमावस्थतेषु श्रुताध्ययनसंच त्तिक तेजोयुक्ताः पुत्राः शिष्टप्रिया जायन्ते । प्रियार्थत्वाच्च संमतशब्दस्य “क्तेन च पूजायाम्” (पा. सु. २ / २२ / १२ ) इति न षष्ठीसमासप्रतिषेधः । सम्बन्धसामान्यविषया षष्टीयं समस्यते ॥३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मादिष्व्** इति । **रूपसत्त्वगुणोपेता** इति । **ब्राह्मादिषु विवाहेषु चतुर्षु** क्रमावस्थितेषु अध्ययनादिसम्पत्तेजोयुक्ताः साधुप्रियालावण्येन द्वादशाध्यायवक्ष्यमाणलक्षणेन सत्त्वेन दयादिभिः श्रीगुणैर् युक्ताः धनिनः ख्यातिमन्तः सम्पन्नस्रगनुलेपनादि-भोगानुष्ठातारः पुत्रा जायन्ते शतं वर्षाणां जीवन्ति ॥ ३.३९–४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 039	From the four marriages, (enumerated) successively, which begin with the Brahma rite spring sons, radiant with knowledge of the Veda and honoured by the Sishtas (good men).

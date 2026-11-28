@@ -57,11 +57,20 @@ The whole of the text, describing the question and the answer, is meant to indic
 Our answer is as follows:—The greater seriousness here spoken of refers to *garlic* and such things, in connection with which it is stated that—‘by eating these intentionally the man becomes an outcast’ (5.19); so that the expiation necessary would be that which has been prescribed for outcasts (which is very serious).—(1)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋषयःस्नातकस्यैतान्यथोदितधर्मान्छ्रुत्वा महात्मानं परमार्थपरं भृगुमिदं वचनब्रुवन् । यद्यपि प्रथमाध्याये दशप्रजापतिमध्ये "भृगं नारदमेव च” ( म. स्मृ. १-३५ ) इति भृगुसरष्टरपि मनुत एवोक्ता, तथापि कल्पभेदेनाग्निप्रभवत्वमुच्यते । तथा च श्रुतिः —"तस्य यद्धेतसःप्रथमं देदीप्यते तसावादित्योऽभवद्यद् द्वितीयमासीद् भृगृः" इति । अतएव भ्रष्टाद्रेतस उत्पन्नत्वाद् भृगुः ॥१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रुत्वैतान् **इति । **इदम् ऊचुर् महाभागम्** इति । **एतान्** यथोक्तान् स्नातकधर्मान् **ऋषयः श्रुत्वा **अग्नेर् जातं परोपकारिणं **भृगुं इदं** वक्ष्यमाणम् उक्तवन्तः । प्रथमे ऽध्याये मनुप्रभवत्वं भृतोर् उक्तम् । इह तु श्रौतार्थवाददृष्ट्याग्निप्रभवत्वम् उच्यते । तत्र हि “तस्य यद् रेतसः प्रथमं देदीयते तद् असाव् आदित्यो ऽभवत् । यद् द्वितियम् आसीत् तद् भृगुः” इति श्रूयते । अत एव भ्रष्टाद् रेतस उत्पन्न इत् इभृगुर् इत्य् एवं भवति । एवं च एकस्मिन् जन्मनि तस्यैकं कारणम् अन्यस्मिंश् चापरम् इति न कदाचिद् अनुपपत्तिः ॥ ५.१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 001	The sages, having heard the duties of a Snataka thus declared, spoke to great-souled Bhrigu, who sprang from fire:
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

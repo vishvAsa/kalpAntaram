@@ -34,11 +34,20 @@ He who ‘*steals such speech*’—misrepresents, having said one thing, does s
 This is an *imaginary* statement, deprecatory of *telling a lie*.—(*256*)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वेऽर्थाः शब्देषु नियता वाच्यत्वेन नियताः वाङ्मूलाश्च शब्दास्तेषां प्रतिपत्तौ शब्देभ्य एव प्रतायन्ते प्रतीतिद्वारेण शब्दमुलत्वं शब्देभ्य एवावगम्य चानुष्ठीयन्त इति वाग्विनिर्गता इत्युच्यन्ते । अत एव "वेदशब्देभ्य एवादौ " ( म. स्मृ. १-२१ ) इति ब्रह्मणोऽपि सृष्टिर्वेदशब्दमूलवोक्ता। अतो यस्तां वाचं स्तेनयेत्स्वाथव्यभिचारिणीं वाचयति स नरः सर्वार्थस्तेयकृद्भवति ॥२५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाच्य् अर्था **इति । **सर्वे ऽर्थाः **शब्देषु सम्बद्धाः शब्दार्थसम्बन्धस्य नियतत्वात् शब्दमूलकाश् च यतः शब्देभ्यः प्रतीयन्ते शब्दप्रतीतिपुरःसरं चार्थसंव्यवहारप्रतीतेः शब्दविनियता एव । अतस् तां वाचं यास् चोरयेत्, अन्यद् उक्त्वा अन्यद् अनुतिष्ठेत् **स सर्व**वस्तु**स्तेयकृन् नरो **भवति ॥ ४.२५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -33,11 +33,20 @@ This verse is quoted in *Aparārka* (p. 170), which remarks that in connection w
 *Yājñavalkya* (1.129).—‘He shall ever remain contented.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथासम्भवभृत्यात्मप्राणधारणावश्यकपञ्चयज्ञाद्यनुष्ठानमात्रोचितधनानधिका स्पृहा सन्तोषः तमतिशयितमालम्ब्य प्रचुरधनार्जने संयमं कुर्यात् । यतः सन्तोषहेतुकमिति सुखं, परत्र चाव्यग्रस्य विहितानुष्ठानात्स्वर्गादिसुखं, विपर्ययस्त्वसन्तोषो दुःखमूलं बहुधनार्जनप्रयासेन प्रचुरदुःखादसम्पत्तौ विपत्तौ च क्लेशात् ॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सन्तोषम्** इति । यः समः स्वर्गादिद्षृष्टादृष्ट**सुखार्थी** स्वोपगतविशेषस्पृहः सन् आत्मकुटुम्बनित्यानुष्ठानमात्रपर्याप्तसञ्चय एव धने प्रकृष्टा निवृत्तिम् आश्रित्य धनार्जनं सञ्चयं कुर्यात् यस्मात् **सन्तोष**प्रभवं समस्तस्वर्गादिदृष्टादृष्टसुखम् । असन्तोषः पुनर् दृष्टादृष्टदुःखस्य मूलम् ॥ ४.१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

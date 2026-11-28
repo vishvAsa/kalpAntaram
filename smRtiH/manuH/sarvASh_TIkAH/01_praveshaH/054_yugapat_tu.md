@@ -41,11 +41,15 @@ Intermediate—*Khaṇḍa*—*pralaya*.
 second explanation put forward by Medhātithi;—according to the other explanation, accepted by Govindarāja and Kullūka, the term stands for the Supreme Self of the Vedānta.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं महाप्रलयम् आह – **युगपद्** इति । तुल्यकालम् एव पुनः यस्मिन् काले **तस्मिन्** परमेश्वरे सर्वभूतानि **प्रलीयन्ते **तस्मिन्न् एव काले अयं **सर्वभूतात्म**भूतो **निर्वृतः** निवृत्तजाग्रत्स्वप्न(सुषुप्ति)व्यापारः **सुखं स्वपिति** सुषुप्तिम् अनुभवति । तत्र सुषुप्तावस्था महाप्रलयश् च युगपद् एव भवत इत्य् अर्थः ॥ १.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	When they are absorbed all at once in that great soul, then he who is the soul of all beings sweetly slumbers, free from all care and occupation.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

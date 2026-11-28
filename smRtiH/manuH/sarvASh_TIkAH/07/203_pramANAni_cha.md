@@ -12,11 +12,8 @@ He shall make authoritative all that is declared to have been lawful (in the kin
 
 यत्प्रकारावस्थास् तेषाम् उपचिताः पूर्वप्रवृत्ताः ब्रह्मदेयामरवृत्तिदेवस्वव्यापारादयस् तान् अनुजानीयात् **प्रमाणानि कुर्याद्** एवं ह्य् अस्मिंस् तेषाम् अनुरागो भवति । ये च तत्र प्रधानाः पुरुषास् तत्र प्रतिज्ञास्वजनबहुत्वादिगुणैस् तैः सह राजानम् एनं शस्त्रधनधान्यालङ्कारवाहनछत्रपीठिकादरपट्टबन्धादिभिः[^२८९] **पूजयेत्** ॥ ७.२०३ ॥
 
-
 [^२८९]:
      M G: -ādara-
-
-_कस्मात् पुनः प्रकृतिभ्यो रत्नादिदानम्, उच्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -46,6 +43,17 @@ territory, he should cover the enemy’s vices with his own virtues... by strict
 
 *Kāmandaka* (2.35).—‘A king protecting the Varṇas and Āśramas and living
 according to their usages and knowing their duties, becomes worthy of place in Indra’s heaven.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+तेषां च परकीयानां धर्मादनपेतानाचारान्देशधर्मतया शास्त्रेणाभ्युपेतान्प्रमाणीकुर्यात् । एनं  
+चाभिषिक्तममात्यादिभिः सह रत्नादिदानेन पूजयेत् ॥२०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रमाणानीति **। तेषां परकीयानां ये धर्माद् अनपेता देशधर्मतया शास्त्रेणाभ्युपगता आचारास् तान् प्रमाणीकुर्यात् । एवं चाभिषिक्तं मन्त्र्यादिभिः सह रत्नादिदानेन पूजयेद् यत्नात् ॥ ७.२०३ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

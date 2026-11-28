@@ -80,11 +80,15 @@ food while eating it, with speech in check, not decrying the food.’
 silent, he shall be happy while eating.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**पूजयेद्** इति । सर्वदा अन्नं **पूजयेद्** देवतात्वेन प्राणार्थत्वेन च ध्यायेत् अनिन्दयंश् **चैतद्** अन्नम् **अद्यात्** । **दृष्ट्वा **च तुष्येत् **प्रसीदेच् च **। हेत्वन्तरजम् अपि खेदं जह्यात् । **प्रतिनन्देत्** श्रद्दध्यात् नित्यम् एतन् मे स्याद् इत्य् एवं सर्वशः **सर्वशः** सर्वपर्कारम् ॥ २.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	Let him always worship his food, and eat it without contempt; when he sees it, let him rejoice, show a pleased face, and pray that he may always obtain it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

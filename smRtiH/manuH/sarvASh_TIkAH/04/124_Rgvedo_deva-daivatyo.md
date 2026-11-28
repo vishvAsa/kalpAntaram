@@ -40,11 +40,15 @@ From the context it is clear that this prohibition during Sāma-chant, pertains 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 534), which adds that according to a declaration by Āpastamba, the time, during which the Ṛk and other Vedas are recited, is unfit for the chanting of the Sāman;—in *Smṛticandrikā* (Saṃskāra, p. 160), as stating the reason for what has been declared in the preceding verse;—in *Puruṣārthacintāmaṇi* (p. 443);—and in *Hemādri* (Kāla, p. 768),—in all these to the same effect.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ऋग्वेद** इति । देवा देवता यस्यासौ **देवदैवत्य ऋग्वेदः **। मनुष्यदेवताकत्वात् **यजुर्वेदो मानुषः । सामवेदः **पितृदेवताकः **स्मृतः । **पित्र्यं कर्म कृत्वा आचम्यते । तस्मात् **तस्याशुचिर्** इति **ध्वनिः **। अतस् तस्मिन् श्रूयमाणे ऋग्यजुषी नाध्येये इति पूर्वविध्यर्थवादः ॥ ४.१२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 124	The Rig-veda is declared to be sacred to the gods, the Yagur-veda sacred to men, and the Sama-veda sacred to the manes; hence the sound of the latter is impure (as it were).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

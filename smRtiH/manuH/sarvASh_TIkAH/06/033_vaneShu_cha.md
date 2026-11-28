@@ -114,6 +114,16 @@ off the three debts, being freed from all notions of *I* and *mine*, the Brāhma
 within himself, the *twice-born* man should become a Renunciate.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनियतपरिमाणत्वादायुषस्तृतीयभागस्य दुर्विज्ञानात्तृतीयमायुषो भागमिति रागक्षयावधि-वानप्रस्थकालोपलक्षणार्थम्। अत एव शङ्खलिखितौ —“वनवासादूर्ध्वं शान्तस्य परिगतवयसः पारिव्राज्यम्”इत्याचख्यतुः। एवं वनेषु विहृत्यैवं विधिवद् दुश्चरतपोऽनुष्ठानप्रकारेण वानप्रस्थाश्रमं विषयरागोपशमनाय कञ्चित्कालमनुष्ठाय “चतुर्थमायुषो भागम्” (म० स्मृ० ४ - १) इति शेषायुःकाले सर्वथा विषयसङ्गांस्त्यक्त्वा परिव्राजकाश्रममनुतिष्ठेत्॥३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वनेषु तु विहृत्यैवम् तृतीयं भागम् आयुषः । चतुर्थम् आयुषो भागस् त्यक्तसङ्गः परिव्रजेत्** ॥ एवम् उक्तरीत्या तृतीयम् आयुर्भागं वानप्रस्थानुष्ठानार्थं वने उषित्वा ततश् चतुर्थम् आयुर्भागं पूर्वावस्थानाद् अतिशयेन रागादीन् त्यक्त्वा चतुर्थाश्रमम् अनुतिष्ठेत् वक्ष्यमाणाश्रमसमुच्चयपक्षे ॥ ६.३३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 033	But having thus passed the third part of (a man's natural term of) life in the forest, he may live as an ascetic during the fourth part of his existence, after abandoning all attachment to worldly objects.

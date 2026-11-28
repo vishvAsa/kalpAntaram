@@ -77,11 +77,20 @@ asterism, or after a river, or after a tree is not commended; one should avoid o
 one named after a Veda, or a river, or a mountain or a Gandharva, or an asterism, or a tree, or a creeper.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कपिलकेशां षडङ्गुल्यादिकां नित्यव्याधितामविद्यमानलोमां प्रचुरलोमां बहुपरुषभाषिणीं पिङ्गलाक्षीं कन्यां नोपयच्छेत् ॥८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोद्वहेद्** इति । **कपिलां** षडङ्गुल्या **अधिकां** व्याधिताधिष्ठितां अविद्यमानलोमां बहुभाषिणीं पिङ्गलां वर्णां कन्यां नोपयच्छेत् ॥ ३.८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 008	Let him not marry a maiden (with) reddish (hair), nor one who has a redundant member, nor one who is sickly, nor one either with no hair (on the body) or too much, nor one who is garrulous or has red (eyes),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

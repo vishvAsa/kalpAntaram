@@ -42,6 +42,16 @@ due care.’
 impure, a cow, a Brāhmaṇa, fire or food.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतभोजनः कृतमूत्रपुरीषादिश्चाकृतशौचाचमनो ब्राह्मणो हस्तादिना गोब्राह्मणाग्नीन्न स्पृशेत् । न चाशुचिः सन्ननातुरो दिविस्थान्सूर्यचन्द्रग्रहादिज्योतिर्गणान् पश्येत् ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न स्पृशेद्** इति । आचमनाद्यर्हो ब्राह्मणः गोब्राह्मणाग्नीन् न स्पृशेत् । तथ्**आशुचिः** सन् अनातुरो द्युलोकगतम् आदित्यादिज्योतिःसमूहम् अपि **न पश्येत्** ॥ ४.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.

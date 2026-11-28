@@ -66,11 +66,21 @@ ignores a Brāhmaṇa Student who may happen to be at hand, he destroys his fami
 good character, a Vedic Scholar cognisant of Brahman, young and endowed with learning and modesty is the proper recipient, the best of the twice-born. He who is conversant with the Vedanta, who is Jyeṣṭhasāman, free from avarice, devoted to the Veda, is the person who should be employed with special effort in the rites offered to gods and Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदविद्याव्रतस्नातानिति विद्यास्नातकव्रतस्नातकोभयस्नातकास्त्रयोऽपि गृह्यन्ते । यथाऽऽह  
+हारीतः —“यः समाप्य वेदानसमाप्य व्रतानि समावर्तते स विद्यास्नातकः । यः समाप्य व्रतान्यसमाप्य वेदान्समावर्तते स व्रतस्नातकः ।उभयं समाप्य यः समावर्तते स विद्यावतस्नातकः ।” यद्यपि स्नातकधर्मत्वेनैव स्नातकमात्रप्राप्तिस्तथापि श्रोत्रियत्वं विवक्षितन् ।तान्स्नातकाञ्श्रोत्रियान्हव्यकव्येन पूजयेत्, विपरीतान्पुनर्वर्जयेत् ॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदविद्याव्रतस्नातान् **इति । **वेदविद्याव्रतस्नाताण्** इत्य् अनेन वेदस्नातकव्रस्नातक-विद्याव्रतस्नातकत्वेन त्रिप्रकारा अपि स्नातका गृह्यन्ते । यथा हारीतः**: **“समाप्य वेदं असमाप्य व्रतानि यः स्नाति स वेदस्नातकः, असमाप्य वेदं समाप्य व्रतानि यः स्नाति स व्रतस्नातः । उभयं समाप्य यः स्नाति स विद्याव्रतस्नातकः” इति । तांस् तथा स्नतकग्रहनेन गृहीतान् अप्य् अतिशयार्थित्वेन पृथङ्निर्दिष्टान् **श्रोत्रियान्** गृहस्थान् **हव्यकव्येन पूजयेत्** । एतद्**विपरीतांस्** **तु वर्जयेत्** इतीदं पाखण्ड्यादिनिषेधदार्ढ्यम्, श्रोत्रियादीनां पुनर् अभिधानम्, पूजादिपूर्वकम् अन्तं पाखण्ड्याधिभ्यो न देयम् ॥ ४.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	Those who have become Snatakas after studying the Veda, or after completing their vows, (and) householders, who are Srotriyas, one must worship by (gifts of food) sacred to gods and manes, but one must avoid those who are different.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

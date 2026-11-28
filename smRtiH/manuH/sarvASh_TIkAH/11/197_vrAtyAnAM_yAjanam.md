@@ -114,6 +114,16 @@ Aryan, of calumniating others, of actions contrary to the rules of conduct, of e
 who performs magic rites for encompassing the death of some person, one who misuses the Veda, or one who abandons a person who has sought his protection, should perform three *Kṛcchra* penances and subsist upon barley for one year.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+व्रात्यानाम् "अत ऊर्ध्वं त्रयोऽप्येते” (म. स्मृ. २—३९ ) इत्युक्तानां व्रात्यस्तोमादियाजनं कृत्वा पितृगुर्वादिव्यतिरिक्तानां च निषिद्धौर्ध्वदेहिकदाहश्राद्धादि कृत्वाऽभिचारंच श्येनादिकम्। अभिचारोऽनभिचारणीयस्य। अहीनं यागविशेषः। “अहीनयजनमशुचिकरम्" इति श्रुतेः। त्रिरात्रादि तस्य याजनं कृत्वा त्रिभिः कृच्छ्रैर्विशुध्यति॥१९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**व्रात्यानाम्** इति । व्रात्यानां भ्रष्टोपनयनानाम् अत ऊर्ध्वं त्रयो ऽप्य् एते इत्याद्युक्तानां व्रात्यस्तोमादियजनं कृत्वा पितृगुर्वादिव्यतिरिक्तानां वान्त्येष्टिं कृत्वा वाक्शस्त्रंवै ब्राह्मणस्योक्तत्वात् अनभिचारणीयस्य श्येनादिकर्मभिः चरेत् समं जातमरणहीनं च ऋतुविशेषं द्विरात्रादि कृत्वा त्रिभिः कृच्छ्रैर् विशुध्यति ॥ ११.१९६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 परेषाम् असंबन्धानाम् इत्य् अर्थः । तथा चोक्तम्-

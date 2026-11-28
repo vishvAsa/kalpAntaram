@@ -40,6 +40,22 @@ Do. (13.104.61).—\[Reproduces Manu.\]
 *Viṣṇu* (70.1).—‘He shall not sleep with wet feet.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जलार्द्रपादो भोजनमाचरेत् । नार्द्रपादः सुप्यात् । यस्मादार्द्रपादो भुञ्जानः शतायुर्भवति ॥ ७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आर्द्रपाद** इति । जल्**आर्द्रपादो** भोजनम् उपक्रमेत् । **आर्द्रपादः **पुनः **न **स्वप्यात् । **आर्द्रपादो** ह्य् अश्नन् **दीर्घम् आयुः प्राप्नुयाद्** इति फलकथनम् एतत् । न चानित्यतापत्तिः । 
+
+> पञ्चार्द्रो भोजनं कुर्यात् प्राङ्मुखो मौनम् आस्थितः ।
+
+> न निन्देद् दत्तभक्ष्यांश् च स्याद् स्वादु न कुत्सयेत् ॥
+
+इति व्यासेन नित्यस्मरणात् ॥ ४.७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.

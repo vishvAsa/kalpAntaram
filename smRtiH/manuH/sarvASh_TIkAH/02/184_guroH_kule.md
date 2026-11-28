@@ -54,11 +54,20 @@ into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*�
 Ācārya, or one’s relations, or the Guru; from one’s own family, only in the event of its not being obtained elsewhere,—the succeeding one of these being preferred to the preceding.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यस्य सपिण्डेषु, बन्धुषु, मातुलादिषु च न भिक्षेत । तद्गृहव्यतिरिक्तभिक्षायोग्यगृहाभावे चोकेभ्यः पूर्वं पूर्वं वर्जयेत् । ततश्च प्रथमं बन्धून्मिक्षेत । तत्रालाभे ज्ञातीन् । तत्रालाभे गुरोरपि ज्ञातीत्मिक्षेत ॥१८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरोर्** इति । गुरुगृहे **न भिक्षेत **। तथा आत्मनः पितृमातृगृहेषु । यदि पुनर् एतद्व्यतिरिक्तगृहेभ्यो न लभ्यते **पूर्वं पूर्वं **परिहरेत् । प्रथमं बन्धुगृहे भिक्षेत । तदलाभे गुरुगृहे ॥ २.१८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

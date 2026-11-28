@@ -85,6 +85,17 @@ take up his residence in a country which is suitable for cattle, open, pleasant,
 get inhabited either by importing men from other countries or by overflowings from his own country; the village shall be inhabited mostly by Śūdras and cultivators; consisting of not less than a hundred and not more than five hundred families, with boundaries extending over two or four miles and well marked by trees, hills, etc.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**जाङ्गलं सस्यसम्पन्नम् आर्यप्रायम् अनाकुलम्** इति । 
+
+> अल्पोदकतृणो यस् तु प्रवातः प्रचुरातपः ।
+
+> ज्ञेयः स जाङ्गलो देशः ॥
+
+इति तथाविधं देशं प्रचुरधान्यादिकं बहुधार्मिकजनं रोगमशकाद्युपद्रवानाकुलं फलकुसुमोद्यानादियुतं च चाटविकादिसामन्तनिवासिनं कर्षकादीनां सुखोपजीव्यम् आश्रित्य राजा निवासं कुर्यात् ॥ ७.६९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 जाङ्ल्गलं नानाविधधान्यमूलफलपुष्पतृणेन्धनहेतुम् । **सस्यसंपन्नं** दुर्भिक्षरहितम् । **आर्यप्रायं** ब्राह्मणभूयिष्ठं धर्मादिपरिपालननिमित्तम् । **अनाविलं** श्वापदसरीसृपतस्करदंशमशकादिभिर् अनाकुलम् । **रम्यं** सर्वर्तुकुसुमसमृद्धपादपोद्यानादिभिः । **आनतसामन्तं** प्रह्वीभूतविनतसामन्तम् । **स्वाजीव्यं** प्रसन्नसलिलजलाशयम् अतिविशंकटगृहप्रासादमालिनम् । एभिश् च जाङ्गलादिभिर् अन्यैश् च देशगुणैः संपन्नं **देशम् आवसेत्** ॥ ७.६९ ॥

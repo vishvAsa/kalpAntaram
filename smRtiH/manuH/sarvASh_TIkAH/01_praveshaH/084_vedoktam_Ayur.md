@@ -69,11 +69,15 @@ Medhātithi himself.
 See Comparative notes for [Verse 1.81 (Dharma in the Kṛta-yuga)].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**वेदोक्तम्** इति । “शतायुर् वै पुरुषः” इति । एवं यदि **वेदोक्तम् आयुः कर्मणां** काम्यानां प्रधानानां **प्रभावश् च **समृद्ध्यति । शतयोगो मनुष्याणां युगानुरूपेण फलति ॥ १.८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 084	The life of mortals, mentioned in the Veda, the desired results of sacrificial rites and the (supernatural) power of embodied (spirits) are fruits proportioned among men according to (the character of) the age.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

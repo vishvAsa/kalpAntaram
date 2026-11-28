@@ -43,6 +43,11 @@ This verse is quoted in *Vivādaratnākara* (p. 211), which adds the following n
 See Comparative notes for [Verse 8.253].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सीमाचिह्ननिमित्तं विवदमानानां मनुष्याणां यदि सामन्ता देशवासिनो मिथ्या ब्रूयुस्तदा ते सर्वे प्रत्येकं राज्ञा मध्यमसाहसं दण्डनीयाः । एवं चासामन्तरूपार्णा पूर्वोक्तद्विशतो दमो ज्ञेयः ॥२६३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सीम्साक्षिणाम् अयं विशेषदण्डः ॥ ८.२६२ ॥

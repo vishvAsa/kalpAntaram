@@ -61,6 +61,16 @@ cast in the suit, the judge shall cause him to pay the price to the buyer, a fin
 clandestine sale is viewed in the same light as theft, according to law. The purchaser must not make a secret of the way in which he came by a chattel purchased by him. He becomes free from blame if he can point out the way in which the chattel was acquired by him. In any other case he is equally guilty with the vendor, and shall suffer the punishment of a thief. The vendor shall restore the property to the rightful owner, and shall pay to the buyer the price for which it was sold to him; besides that, he shall pay a fine to the King.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विक्रीयतेऽस्मिन्निति विक्रयदेशो विक्रयः, ततो यत्क्रेयधनं किञ्चिद्वयवहर्तृसमूहसमक्षं कियतेऽनेनेति क्रयो मूल्यं तेन यस्माद् गृह्णीयात् । अतो न्यायत एवास्वामिविक्रेतृसकाशात्क्रयणाद्वशुद्धं धनं लभते ॥२०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विक्रेयाद्** इति । आपणभूमौ (यत्) प्रयच्छेत तद् व्यवहर्तृपुरुषसमक्षं बोद्धव्यम् । किञ्चिन् मौल्येन गृह्णीयात् स यस्मात् प्रकाशोचितः मूल्यकुलसन्निध्यापणस्थानानुष्ठितेन न्यायक्रमेण विशुद्धं तदीयं धनं मूल्यमानाधिकं हस्तान् न लभते ॥ ८.२०१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 न्यायतस् तु क्रयः कुलसंनिधाव् उचितेन मूल्येन संभाव्याच् च पुरुषात् । एतच् च तस्यानभियोगं धनलाभश् च युक्तः । एवं बुद्धिपूर्वव्यवहारयिताय न्यायकारिणः ॥ ८.२०० ॥

@@ -45,6 +45,11 @@ This verse is quoted in *Saṃskāramayūkha* (p. 104), which says that this ref
 See Comparative notes for [Verse 9.98].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतत्पुनः पूर्वे शिष्टा न कदाचित्कृतवन्तः, नाप्यपरे वर्तमानकालाः कुर्वन्ति, यदन्यस्य कन्यामङ्गीकृत्य पुनरन्यस्मै दीयत इति । एतच्च गृहीतशुल्केकन्यामदत्त्वा कस्यचित् कन्यायामिति तु गृहीतशुल्कविषयम् ॥ ९९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अनेन दानम् अन्यत्र नास्ति । प्रकृतापेक्षम् एतत् ॥ ९.९९ ॥

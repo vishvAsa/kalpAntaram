@@ -86,11 +86,20 @@ subsidiary sciences, the *Śīrṣaka*, one who sings the *Jyeṣṭhasāman*, t
 the *Jyeṣṭhasāman*, one who is free from avarice, one who is devoted to the Veda;—such a Brāhmaṇa should be employed at the rites in honour of Gods and Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वेषु वेदेषु चतुर्ष्वप्यग्र्याः श्रेष्ठाः सम्यग्गृहीतवेदा ब्राह्मणा पङ्क्तिपावनाः । अत एव यमः पङ्क्तिपावनगणनायां "चतुवदविदे चैव” इति पठितवान् । तथा प्रकर्षेणैवोच्यते वेदार्थ एभिरिति प्रवचनान्यङ्कानि तेष्वप्यग्र्याः षडङ्गविदस्ते च चतुर्वेदिनोऽपि पङ्गिपावनाः, “न्यायविच्च षडङ्गवित्" इति पङ्क्तिपावनमध्ये यमेन पृथक्पठितत्वात् । तथा “छन्दसां शुद्धदशपुरुष" इत्युशनोवचनाद्दशपुरुषपर्यन्तमविच्छिन्नवेदसम्प्रदायवंशजाः पङ्क्तिपावनाः ॥१८४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अग्र्या** इति । **सर्वेषु वेदेषु** ऋग्वेदादिषु ये अग्रे भवाः (व्याः) वेदपारगत्वे सत्य् अपि वेदं करामलकवत् पश्यन्तीति **अग्र्या **उच्यन्ते, ते **पङ्क्तिपावना **बोद्धव्याः । तथा प्रोच्यते एभिर् वेदार्थम् इति **प्रवचान्य् **अङ्गानि तेषु पूर्ववद् अग्र्याः वेदज्ञत्वाभावे ऽपि पङ्क्तिपावनाः तथा वंशम् अविच्छिन्नवेदाः पङ्क्तिपावनाः । पूर्वं “अश्रोत्रियः पिता यस्य” (१.१३६) इति पितृगतश्रोतियत्वेन भोज्यत्वम् उक्तम् । अनेन तु सकलवंशाविच्छिन्नवेदत्वेन पङ्क्तिपावन उच्यते ॥ ३.१८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 184	Those men must be considered as the sanctifiers of a company who are most learned in all the Vedas and in all the Angas, and who are the descendants of Srotriyas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

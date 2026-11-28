@@ -39,6 +39,16 @@ This verse is quoted in *Mitākṣarā* (on 1.329);—in *Vīramitrodaya* (Rāja
 See Comparative notes for [Verse 7.223].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ततः संध्योपासनं कृत्वा तस्मात्प्रदेशात्कक्षान्तरं विविक्तप्रकोष्टावकाशमन्यद् गत्वा गृहाभ्यन्तरे धृतशस्त्रो रहस्याभिधायिनां चराणां स्वव्यापारं शृणुयात् । ततस्तं चरं संप्रेष्य परिचारिकास्त्रीवृतः पुनर्भोक्तुमन्तःपुरं विशेत्॥२२३ ॥ २२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गत्वेति** । तस्मात् प्रदेशाद् **अन्यद्** विमुक्तं प्रदेशान्तरं **गत्वा** चारजनं सम्प्रेक्ष्य परिचारिकादिभिः **स्त्रीवृतः** सन् **पुनर्** भोक्तुम् **अन्तःपुरं प्रविशेत्** ॥ ७.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	But going to another secret apartment and dismissing those people, he may enter the harem, surrounded by female (servants), in order to dine again.

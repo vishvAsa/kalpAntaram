@@ -33,6 +33,11 @@ It is quoted in *Vyavahāramayūkha* (p. 69), which explains ‘*nirhāra*’ as
 the wife inherits from him she may use as she likes; but during his life-time, she shall save that property or spend it on the family.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भ्रात्रादिबहुसाधारणात्कुटुम्बधनाद्भार्यादिभिः स्त्रीभी रत्नलङ्काराद्यर्थं धनसंचयं न कर्तव्यम्। नापिच मर्तुराज्ञां विना भर्तृधनादपि कार्यम्। ततश्च नेदं स्त्रीधनम्॥ १९९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **निर्हार**प्रतिषेधाच् चैतत् विज्ञायते यदि काचिद् ईशत्वात् तद्धनं निर्हरेत्, ततस् तत्पुनरादाय भ्रातृभिर् विभक्तव्यम् एव ॥ ९.१९९ ॥

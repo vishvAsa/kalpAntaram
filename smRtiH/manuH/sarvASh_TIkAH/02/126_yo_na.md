@@ -62,11 +62,20 @@ constitutes the return-greeting; the last being for the Śūdra.’
 senior, also one of the same age, about his *welfare*; the Kṣatriya about his *freedom from distemper*;—the Vaiśya about *freedom from loss*;—the Śūdra about *freedom from disease*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो विप्रोऽभिवादनस्यानुरूपं प्रत्यभिवादनं न जानात्यसावभिवादनविदुषाऽपि स्वनामोच्चारणायुक्त विधिना शूद्र इव नाभिवाद्यः ।अभिवादयेऽहमिति शब्दोच्चारणमात्रं तु चरणग्रहणादिशून्यमनिषिद्धम्, प्रागुक्तत्वात् ॥१२६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः – **यो न वेत्त्य् अभिवादस्येति **। यथाशास्त्रम् अभिवादनस्य कृतस्य **यः प्रत्यभिवादनं** कर्तुं न जानाति **विप्रो **ऽपि किम् उतान्यः **स विदुषा **शूद्रवन् **नाद्भिवाद्यः** । तस्मात् प्रत्यभिवाद्ये ऽयं यथाशास्त्रं विज्ञाय सम्यक् कर्तव्य इति स्थितिः प्रत्यभिवादस्तुतिः । विध्यर्थत्वे प्रकरणोपरोधः । “नामधेयस्य ये केचिद्” इत्य् एतद्बाधश् च ॥ २.१२६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

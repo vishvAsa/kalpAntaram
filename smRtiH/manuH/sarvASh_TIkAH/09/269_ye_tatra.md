@@ -30,6 +30,11 @@ Those among them who do not come, and those who are careful in their dealings wi
 See Comparative notes for [Verse 9.264-266].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये चौराल्यत्रभक्ष्यभोज्यादौ ........ये च मूले राजनियुक्तपुराणचौरवर्गप्रणिहिताःसावधानभूताः तैः सह सङ्गतिभजन्ते ताश्चौरांस्तेस्यएव ज्ञात्वा तदेकतापन्नमित्रपित्रादिकातिस्वजनसहितान्बलादाक्रम्यराजा हत्यात् ॥ २६९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति ।

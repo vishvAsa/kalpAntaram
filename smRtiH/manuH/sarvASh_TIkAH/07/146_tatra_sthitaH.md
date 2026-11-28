@@ -48,6 +48,16 @@ announced by the gate-keeper, he shall see the Brāhmaṇa, councillors and mini
 in the Court, he shall see the aged men, the ministers and his dependants and also the gods; thereafter he shall listen to the law-scriptures.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्यां सभायां स्थितो दर्शनार्थमागताः प्रजाः सर्वाः संभाषणदर्शनादिभिः प्रतिनन्द्य प्रस्थापयेत् ।ताश्च प्रस्थाप्य मन्त्रिभिः सह संधिविग्रहादि चिन्तयेत् ॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत्रेति** । तस्यां सभायां **स्थितो** दर्शनार्थं सभायाताः **सर्वाः प्रजाः** वाक्चक्षुरादिना परितोष्य **विसर्जयेत्** । ताः विसर्ज्य **मन्त्रिभिः सह** सन्धिविग्रहादीन् चिन्तयेत् ॥ ७.१४६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **मन्त्रि]भिः सह** । नित्यवृत्तं राज्ञः श्लोकद्वयेनोच्यते ॥ ७.१४५–४६ ॥

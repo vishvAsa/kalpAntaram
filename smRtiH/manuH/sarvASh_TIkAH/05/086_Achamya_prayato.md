@@ -50,11 +50,20 @@ or an outcast, a woman in her courses or unclean things, he should look at the r
 look at the stars; on talking to him, one should converse with the Brāhmaṇa; on touching him, he shall bathe.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्राद्धदेवपुजादिसंचिकीर्षुः स्नानाचमनादिना प्रयतः सन्प्रकृतचाण्डालाद्यशुचिदर्शने सति "उदुत्यं जातवेदसम्" इत्यादिसूर्यदैवतमन्त्रान्यथासामर्थ्यं पावमानीश्च शक्त्या जपेत् ॥८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचम्येति** । प्रकृतचण्डालाद्यशुचिदर्शने सर्वदाचम्य शुचिः । स सूर्यदैवत्यान् मन्त्रान् यथासामर्थ्यं पावमानीश् च “स्वादिष्ठये”त्याद्याः शक्त्या जपेत् ॥ ५.८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 086	He who has purified himself by sipping water shall, on seeing any impure (thing or person), always mutter the sacred texts, addressed to Surya, and the Pavamani (verses).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

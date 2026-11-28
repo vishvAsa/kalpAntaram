@@ -46,11 +46,20 @@ This verse is quoted in *Aparārka* (p. 104); which adds that the ‘eleventh’
 See Comparative notes for [Verse 3.45].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तासां पुनः षोडशानां रात्रीणां शोणितदर्शनात्प्रभृति आद्याश्चतस्रो रात्रय एकादशी त्रयोदशी च रात्रिर्गमने निन्दिता । अवशिष्टा दश रात्रयः प्रशस्ता भवेयुः ॥४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तासाम् **इति । **तासां** पुनः षोडशानां रात्रीणां **आद्याश् चतस्रः** ऋतुदर्शनात् प्रभृति **चैकादशीत्रयोदश्यौ च **निन्दिताः । अतस् तासु न गन्तव्यम् । **शिष्टा दश् रात्रयो **गमने **प्रशस्ता स्युः** ॥ ३.४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

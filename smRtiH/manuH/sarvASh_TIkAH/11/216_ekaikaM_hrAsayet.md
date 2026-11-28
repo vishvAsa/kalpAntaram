@@ -71,6 +71,16 @@ mouthfuls of food, unchanged in size; and let him, during the moon's increase, a
 the bright half of the month, one should increase daily, by one, the number of food-morsels, each of which is of the size of the peacock’s egg; and during the dark half, he shall reduce it daily by one.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सायंप्रातर्मध्यान्हेषु स्नानं कुर्वाणः पौर्णमास्यां पञ्चदश ग्रासानशित्वा ततः कृष्णप्रतिपत्क्रमेणैकैकं ग्रासंहासयेत्तथा चतुर्दश्यामेको ग्रासः संपद्यते। ततोऽमावास्यायामुपोष्यशुक्लप्रतिपत्प्रभृतिभिरेकैकं ग्रासं वृद्धिं नयेत्। एवं पौर्णमास्यां पञ्चदश ग्रासाः संपद्यन्ते। एतत्पिपीलिकामध्याख्यं चान्द्रायणं स्मृतम्॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकैकम्** इति । सायम्प्रातर् मध्याह्नेषु स्नानं कुर्यात् । पौर्णमास्यां पञ्चदशग्रासान् “ग्रासप्रमाणं वास्याविकारेण” [ग्ध् २७.१०) इति गौतमोक्तप्रमाणान् अश्नीयात् । ततः कृष्णपक्षे प्रतिपत्प्रभृति एकैकग्रासापचयं कुर्यात् । यावच् च चतुर्दश्याम् एकग्रासम् अश्नीयात्, अमावास्यायां चोपोष्य ततः प्रतिपत्प्रभृति शुक्लपक्ष एकैकं ग्रासं वृद्धिं नयेद् यावत् पौर्णमास्यां पञ्चदशेत्य् एतत् पिपीलिकामध्यं चान्द्रायणं चरेत् ॥ ११.२१५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 217	If one diminishes (one's food daily by) one mouthful during the dark (half of the month) and increases (it in the same manner) during the bright half, and bathes (daily) at the time of three libations (morning, noon, and evening), that is called a lunar penance (Kandrayana).

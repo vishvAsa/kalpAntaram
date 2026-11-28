@@ -61,11 +61,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 495) along with the pr
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वृषलीफेनोऽधररसः स पीतो येन स वृषलीफेनपीतः । “वाहिताग्न्यादिषु" ( पा० सू० २ / २ / ३७ ) इत्यनेन परनिपातः । अनेन शूद्राया अधररसपानं निषिध्यते । निःश्वासोपहतस्य चति तया सदैकशय्यादौ शयननिषेधः । तस्यां जातापत्यस्य शुद्धिर्नोपदिश्यत इत्युतुकालगमननिषेधानुवादः ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वृषलीफेनपीतस्येति** । शूद्रया कृतपरिचुम्बनस्य तयैव च एकपर्यङ्कादौ मुखश्वासापवित्रीकृतस्य तस्याम् एव चोत्पन्नापत्यस्य संशुद्धिः नोप्दिश्यत इति पूर्वोत्तराव् अर्धश्लोकौ अत्यन्तनिषेधात् भृगुमतार्थवादौ ॥ ३.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

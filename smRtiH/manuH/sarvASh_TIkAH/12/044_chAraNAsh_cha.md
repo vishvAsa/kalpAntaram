@@ -56,6 +56,16 @@ This verse is quoted in *Aparārka* (p. 1000), which adds that the variation in 
 See Comparative notes for [Verse 12.32].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चारणा नटादयः, सुपर्णाः पक्षिणः, छद्मना कर्मकारिणः पुरुषाः, राक्षसाः, पिशाचाश्चेत्येषा तामसीषूत्तमा गतिः॥४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चारणा** इति । चारणा नटादयः सुपर्णो गरुत्माख्यः पक्षिविशेषो व्याजधर्मकारिणश् च पुरुषा रक्षःप्रिशाचा इत्य् एषा तामसेषु मुनुष्येषूत्कृष्टा गतिः ॥ १२.४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 044	Karanas, Suparnas and hypocrites, Rakshasas and Pisakas (belong to) the highest (rank of) conditions among those produced by Darkness.

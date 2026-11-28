@@ -1,6 +1,7 @@
 +++
 title = "259 तप्ते ऽयःशयने"
 +++
+
 <details><summary>मूलम्</summary>
 
 तप्ते ऽयः-शयने सार्धम्  
@@ -204,7 +205,9 @@ _इदानीं गुरुतल्पप्रायश्चित्त
  
 
 > **रजकव्याधशैलूषवेणुचर्मोपजीविनः ।**  
-> ब्राह्मण्य् एतान् यदा गच्छेत् कृच्छ्रं चान्द्रायणं चरेत् ॥ ३.२६१ ॥**[१९]
+> ब्राह्मण्य् एतान् यदा गच्छेत् कृच्छ्रं चान्द्रायणं चरेत् ॥ ३.२६१ ॥**[^१९]
+
+[^१९]: Verses 261 and 262 are omitted in the critical edition. I note there that these two verses are probably part of the commentary rather than verses within the root text.
 
  
 
@@ -242,6 +245,4 @@ _इदानीं गुरुतल्पप्रायश्चित्त
 > यत् पुंसः परदारेषु तच् चैनां चारयेद् व्रतम् । (म्ध् ११.१७६)
 
 इति, तत्र चशब्दाद् यच् च स्त्रीणां परपुरुषे ऽभिहितं तत् पुंस इत्य् एवं व्याख्येयम् । ततश् च हारीतोक्तं कृच्छ्रं तेनैव प्रकारेण पुंसो ऽपि भवत्य् एवेत्य् एषा दिक् ॥ २६२ ॥
-
-[१९]: Verses 261 and 262 are omitted in the critical edition. I note there that these two verses are probably part of the commentary rather than verses within the root text.
 </details>

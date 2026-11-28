@@ -46,11 +46,15 @@ This verse is quoted in *Aparārka* (p. 185).
 See Comparative notes for [Verse 4.87].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एतद् **राजप्रतिग्रहफलं शास्त्रज्ञा वेदाध्यायिनः **ब्राह्मणा **जानन्तः परलोकदुःखाभावार्थिनः **राज्ञो** धनं न **प्रतिगृह्णन्ति** ॥ ४.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -65,6 +65,11 @@ shall disinherit, oven though he be the eldest son.’
 deprived of inheritance and funeral offerings and libations.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपतिता अपि ये भ्रातरो द्यूतवेश्यासेवादिविकलंसक्तास्ते रिक्थं नार्हन्ति ।..... विनिष्टेभ्योऽननुकल्प्य ज्येष्ठःसाधारणधनादा++++मार्थमसाधारणधनं कुर्यात् ॥ २१४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ये कुटुम्बकार्य ऽव्युत्पन्नास् ते द्यूतादिना विकर्मस्थाः प्रकरणसामर्थ्याद् विज्ञायते । पतिताना[म् अ]नंशार्हतोक्ता ॥ ९.२१४ ॥

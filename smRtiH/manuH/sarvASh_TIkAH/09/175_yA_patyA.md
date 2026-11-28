@@ -44,6 +44,11 @@ impotent or outcast husband, takes another lord,—the son born from her is call
 *Paunarbhava*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या भर्त्रा परित्यक्ता मृतभर्तृका वा स्वेच्छयान्यस्य पुनर्भार्या भूत्वा यमुत्पादयेत्स उत्पादकस्य पौनर्भवः पुत्र उच्यते॥ १७५॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सवर्णः पौनर्भवो ऽसवर्णो ऽपि वा, असवर्णस् तु गुणतः ॥ ९.१७५ ॥

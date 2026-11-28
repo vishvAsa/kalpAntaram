@@ -31,11 +31,22 @@ states are on the same footing as the state of the Householder. Nor has it been 
 The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya* compound.—(77)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा प्राणाख्यवाय्वाश्रयेग सर्वप्राणितो जीवन्ति तथा गृहस्थाश्रमेण सर्वाश्रमिणो निर्वहन्ति॥७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अपि च –
+
+यथा प्राणवाय्ववलम्बनेन सर्वप्राणिनो जीवन्ति, एवं **गृहस्थाश्रमम् आश्रित्य **अवलम्ब्याश्रमान्तराणि ध्रियन्ते ॥ ३.७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

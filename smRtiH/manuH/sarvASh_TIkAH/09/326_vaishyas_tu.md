@@ -54,6 +54,11 @@ skins, liquids, cattle and horses.’
 constitute the three-fold duty of the Vaiśya; trade, cattle-tending and agriculture are his means of livelihood.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वैश्यः कृतोपनयनपर्यन्तसंस्कारो विवाहादिकं कृत्वा जीविकायां वक्ष्यमाणायां कृष्यादिकार्यार्थंपशुपालने च सदा समायुक्तः स्यात्। पशुरक्षणस्यवार्तात्वेऽपि प्राधान्यख्यापनार्थं पृथग्विधानम्। तथा चोत्तरश्लोकाभ्यां प्राधान्यं दर्शयति॥ ३२६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आनन्तर्यार्थो विशेषार्थश् चायम् उपदेशः । अस्यार्थवादः ॥ ९.३२६ ॥

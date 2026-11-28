@@ -28,6 +28,11 @@ The ‘Virtues’ expounded in the Treatise are here specified in detail. With a
 ‘*The rates relating to sacramental rites*,’ ‘*the method of keeping observances*.’ By ‘sacramental rites’ are meant those connected with ‘Impregnation’ and the rest; the ‘rules’ *i.e*., procedure—relating to these;—*the keeping of ‘observances*’—*i.e*., by the Initiated Student,—of these the ‘*method*,’ the actual performance, the procedure;—this sums up what has been proclaimed in Discourse II.—‘*Final Ablution,’—i.e*. the particular ceremony performed by one who is returning from the house of his Preceptor (after finishing his course of study).—(111)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं शास्त्रस्य महावृत्तान्तोपेतत्वप्रदर्शनार्थम् अनुक्रमणीम् आह – **जगत** इति ॥ १.१११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),

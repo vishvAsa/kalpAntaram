@@ -67,6 +67,11 @@ It is quoted in *Smṛtitattva* II (p. 193).
 See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्विजातीनां समानजातिभार्यासु ये पुत्रा जातास्ते सर्वे ज्येष्ठायोद्वारं दत्त्वाऽवावष्टं समभागंकृत्वा ज्येष्ठेन सहान्ये विभजेरन् ॥ १५६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **समवर्णासु वा जाता** ज्यायसे मानवर्धनं यत् किंचिद् **दत्वा भजेरन्न् इतरे समम्** । हीनजातिगुणवत्तरेष्व् अयं विधिः सामर्थ्याद् विज्ञेयः ॥ ९.१५६ ॥

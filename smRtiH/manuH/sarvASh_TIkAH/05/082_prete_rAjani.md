@@ -72,11 +72,20 @@ that country in which one lives has died; likewise if a man not his
 of the death of the king in whose realm one lives.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्य देशे ब्राह्मणादिः स्थितस्तस्मिन्राजनि कृताभिषेके क्षत्रिये मृते सज्योतिराशौचंस्यात् । सह ज्योतिषा वर्तत इति सज्योतिः ।यदि दिवा मृतस्तदा यावत्सूर्यज्योतिस्तावदाशौचं, यदि रात्रौ मृतस्तदा यावत्तारकाज्योतिस्तावदशौचम् । श्रोत्रिये त्रिरात्रमुक्तम् । अश्रोत्रिये पुनस्तद्गृहे मृते कृत्स्नं दिनमात्रमाशोचं नतु रात्रावपि रात्रौ मृते रात्रावेवेत्यवगन्तव्यम् ।साङ्गवेदाध्यायिति "स्वल्पं वा बहु वा यस्य " ( म. म. २-१४९ ) इत्येतत्रदिष्टे गुरावप्यहमात्रमेव ॥८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रेते राजनि सज्योतिर् यस्य स्याद् विषयेषु चेति** । यत्सम्बन्धिनि देशे ब्राह्मणादिस्थितः तस्मिन् **राजनि प्रेते** सज्योतिषा दिनादित्येन रात्रौ तारकाभिः सह वर्तते इति सज्योतिर् दिवोत्पन्ने दिवैवाशौचं रात्राव् उपजायते रात्राव् एवेति । “श्रोत्रिये सङ्गते त्रिदिवसम्” इत्य् उक्तम् अश्रोत्रिये पुनः सङ्गते ऽहः समग्रं रात्रौ न भवति । रात्राव् उत्पन्ने रात्रिम् एव नाहौ अङ्गादि अवक्तिर् इव (?) “अल्पं वा बहु वा यस्य” इत्य् एवं धर्मके गुराव् एवम् एव ॥ ५.८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 082	If the king in whose realm he resides is dead, (he shall be impure) as long as the light (of the sun or stars shines), but for (an intimate friend) who is not a Srotriya (the impurity lasts) for a whole day, likewise for a Guru who knows the Veda and the Angas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

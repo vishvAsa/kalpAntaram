@@ -46,6 +46,16 @@ It is quoted in *Vyavahāramayūkha* (p. 96), which explains ‘*parīhāra*’ 
 village-people, and in consonance with the extent of land available and the orders of the King, pasture-land for the grazing of cows shall he reserved...... This pasture-land shall he one hundred bow-lengths in extent, and shall he beyond the village and the cultivated holds; it shall he two hundred how-lengths round a market-town, and four hundred bow-lengths round a city.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चतुर्हस्तो धनुः । शम्या यष्टिस्तस्याः पातः प्रक्षेपो ग्रामसमीपे सर्वासु दिक्षु चत्वारि हस्तशतानि, श्रीन्वा यष्टिप्रक्षेपान्यावत्पशुप्रचारार्थं सस्यवपनादिसंरोधपरिहारः कायः । गरसमीपे पुनरयं त्रिगुणः कर्तव्यः ॥२३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धनुःशतम्** इति । चतुर्हस्तं धनुः शम्या यष्टिः तस्याः पातः शम्याप्रक्षेपः ग्रामसमीपे सर्वासु दिक्षु चत्वारि हस्तशतानि त्रीन् वा यष्टिप्रक्षेपान् यावत् सस्यवपनपरिहारः पशुप्रचारार्थं कार्यो नगरसमीपे पुनर् अयं त्रिगुणः कार्यः ॥ ८.२३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यो देशो ग्रामनगरयोः समन्ततो गवां सुखप्रचारस्थानासनार्थम् अनुप्तसस्यकार्यः ॥ ८.२३६ ॥

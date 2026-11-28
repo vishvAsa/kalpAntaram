@@ -39,6 +39,16 @@ This verse is quoted in *Smṛtitattva* (p. 229) without comment;—in
 See Comparative notes for [Verse 3.226].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भक्ष्यं खरविशदमभ्यवहरणीयं मोदकादि, भोज्यं पायसादि, नानाप्रकारफलमूलानि, हृदयस्य प्रियाणि मांसानि, पानानि सुगन्धीनि भूमावेव विन्यसेदिति पूर्वेण सम्बन्धः ॥२२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भक्ष्यं भोज्यं च विविधं सुरसानि फलानि चेति** । तथा **भक्ष्यं **खरविशदं मोदकादि **भोज्यं** पायसादिना यथ्प्रकारं **मूलं फलं च **हृदयस्य प्रियाणि **मांसानि **पानकादीन च **सुरभीणि **भवन्ति** **भूमाव् एव विन्यसेत् ॥ ३.२२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.

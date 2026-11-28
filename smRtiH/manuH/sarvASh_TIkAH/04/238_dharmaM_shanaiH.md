@@ -37,11 +37,20 @@ kind of art’; and explains that this and the following verses are meant to eul
 See Comparative notes for [Verse 4.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वप्राणिनां पीडां परिहरन्परलोकसहायार्थं यथाशक्ति शनैः शनैधैर्ममनुतिष्ठेत् । यथा पुत्तिकाः पिपीलिकाप्रभेदाः शनैः शनैर्महान्तं मृत्तिकाकूटं सञ्चिन्वन्ति ॥२३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**धर्मं शनैर्** इति । सर्वप्राणिपीडां परिहरेत् परलोकोपकारार्थं मृद्राशिं यथा पिपीलिकाः सञ्चिन्वन्ति एवं धर्मं **शनैः** शनैः अर्जयेत् ॥ ४.२३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

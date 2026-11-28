@@ -57,11 +57,24 @@ It is quoted in *Aparārka* (p. 450), which explains that the ‘*Chikitsaka*’
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चिकित्सको भिषक्, देवलः प्रतिमापरिचारका, वर्तनार्थत्वेनैतत्कर्म कुर्वतोऽयं निषेधो न तु धर्मार्थम्,
+
+**देवकोशोपभोजी च नाम्ना देवलको भवेत् ।**
+
+इति देवलवचनात् । मांसविक्रयिणः सकृदपि, "सद्यः पतति मांसेन" ( म. स्मृ. १०/९२ ) इति लिङ्गात् । विपणेनेति । दिपणो वणिज्या तया जीवन्तः ।हव्यकव्ययोरियभिधानाद्दैवेपित्र्ये चैते त्याज्याः ॥१५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चिकित्सका देवलका मांसविक्रयिणस् तथेति । **चिकित्सकादयो हव्यकव्ययोर् उभयोर् अपि वर्जनीया भवेयुः । **चिकित्सको** भिषक्, **देवलकः** प्रतिषेधः न धर्मार्थम्, तत्र विहितत्वात् । **मांसविक्रयिणः **सकृद् अपि । तथा च “सद्यः पतति मांसेन” इति लिङ्गम् । अन्यथा **विपणेन** गतार्थं स्यात्, इह च **जीवन्त** इत्य् उपादानात् मांसेन सकृद् अपि प्रतीयते । **विपणो** वाणिज्यम् ।॥ ३.१५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

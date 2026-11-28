@@ -59,6 +59,16 @@ the author of the *Sūtra* has said is—‘The Āgrayaṇa is to be performed w
 offered it in sacrifice, for him the expiation consists in making the Vaiśvānara offering.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आहिताग्निर्द्विजो दीर्घमायुर्जीवितुमिच्छन्नाग्रयणमकृत्वा नवान्नं न भक्षयेत् । न च पशुयागमकृत्वा मांसमश्नीयात् ॥२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । आहिताग्निर् द्विजो दीर्घायुर् जीवितुम् इच्छुः आग्रयणम् अकृत्वा **नवान्नं **पशुयागं वाकृत्वा **मांसं **नाश्नीयत् ॥ ४.२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 027	A Brahmana, who keeps sacred fires, shall, if he desires to live long, not eat new grain or meat, without having offered the (Agrayana) Ishti with new grain and an animal-(sacrifice).

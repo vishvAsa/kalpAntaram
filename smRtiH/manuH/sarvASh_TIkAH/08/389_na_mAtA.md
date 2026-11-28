@@ -61,6 +61,16 @@ husband and wife, teacher and disciple,—if one forsakes the other, unless he o
 never be forsaken; indeed no Sapiṇḍas possessing good qualities should be forsaken; if one forsakes these arbitrarily, unless they have become outcasts, he should he fined 200. Nor should one misbehave towards the father, mother, or teacher; one who misbehaves towards them shall have his limb cut off.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातृपितृभार्यापुत्रास्त्यागमपोषणशुश्रूषणाद्यकरणात्मकं नार्हन्ति । तस्मादेताम्पातकादिरहितान्परित्यजन्नेकैकपरित्यागे राज्ञा षट् शतानि दण्ड्यः ॥ ३८९ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न मातेति** । मातृपितृभार्यापुत्रत्यागं भरणशुश्रूषाद्य्करणात्मकं नार्हति । अत एतान् पतितान् अपि परित्यजन् अन्योन्यपरित्यागे राज्ञा षट्शतानि दण्ड्यः ॥ ८.३८९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रायश्चित्तप्राप्ताव् अकुर्वन्तस् तानि त्याज्या न तु द्वेषादिना ॥ ८.३८७ ॥

@@ -15,11 +15,8 @@ Withuot knowing the lawful method of receiving gifts, the wise man shall not acc
 
 - को ऽसौ **धर्म्यो विधिः** । धर्म्यं प्रयोजनं विज्ञाय प्रतिग्रहमन्त्रं द्रव्याणां[^२४२] च देवताः "अग्नये हिरण्यं रुद्राय गाम्" इत्यादिः ॥ ४.१८७ ॥
 
-
 [^२४२]:
      M G J: pratigrahamantradravyāṇāṃ (I follow DK 5: 1176)
-
-_अविदुषो द्रव्यविशेषं प्रति प्रतिग्रहे दोषातिशयम् आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,11 +36,20 @@ given in honour of Agni, the cow in honour of Rudra,’ and so forth.—(187)
 method of receiving them, he falls along with the giver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्रव्याणां प्रतिग्रहं धर्माय हितं विधानं ग्राह्यदेवताप्रतिग्रहमन्त्रादिकमज्ञात्वा क्षुधावसादं गच्छन्नपि प्राज्ञो न प्रतिगृह्णीयात्कि पुनरनापदि ॥१८७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न द्रव्याणाम्** इति । प्रतिग्रहमन्त्रद्रव्यदेवतादिकं धर्माद् अनपेतं प्रतिग्रहविधानम् अबुद्ध्वा । **क्षुधा**वसादं गच्छन्न् अपि न **प्राज्ञः प्रतिग्रहं कुर्यात् **किं पुनर् अनापदि ॥ ४.१८७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

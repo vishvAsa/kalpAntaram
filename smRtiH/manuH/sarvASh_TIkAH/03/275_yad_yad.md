@@ -38,11 +38,21 @@ offerings of the faithless. The gods discussed the relative merits of the person
 faith save their forefathers from the most terrible hell; he who performs the Śrāddha with faith becomes freed from the debt owing to the Pitṛs.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यदिति वीप्सायाम्। सर्वमन्नमप्रतिषिद्धं यथाशास्त्रं सम्यग्रूपं श्रद्धायुक्तः पितृभ्यो ददाति  
+सदनन्तकं सर्वकालमक्षयमनपचितं परलोके पितृतृप्तये भवति । अतस्तत्फलार्थिना श्रद्धया देयमिति विधीयते ॥२७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद् यद्** अप्रतिषिद्धं **सम्यक् **रूपश्रद्धायुक्तो यथाशास्त्रं दद्यात् इति तत्र सर्वकालम् अनपचयं परलोके पितॄणां भवति अन्नं च सत्य् अपि द्विमासाद्यनन्तावधि तृप्तिवद् एवं कुर्वन् मासानुमासिकम् इति नोदनात् शास्त्रैकगोचरत्वेन चामुष्यार्थस्य तृप्तानाम् आप्यायनकपुत्रो ऽपहृतकव्यतृप्तिसामर्थ्यात् प्रतिमासम् एतद् अवश्यं कर्तव्यम् ॥ ३.२७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 275	Whatever (a man), full of faith, duly gives according to the prescribed rule, that becomes in the other world a perpetual and imperishable (gratification) for the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

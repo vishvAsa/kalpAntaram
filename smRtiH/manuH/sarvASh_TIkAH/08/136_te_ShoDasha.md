@@ -44,6 +44,11 @@ It is quoted in *Mitākṣarā* (1.364 and 365), to the effect that ‘*dharaṇ
 See Comparative notes for [Verse 8.131].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ते षोडश रूप्यमाषका रौप्यधरणं पुराणश्च राजतो रजतसम्बन्धी स्यात् । कार्षिकस्ताभ्रमयः कार्षापणः पण इति विज्ञेयः । कार्षिकश्च शास्त्रीयपलचतुर्थभागो बोद्धव्यः । अत एव **“पलं कर्षचतुष्टयम्”** (अ.को. २-९-८६ ) इत्याभिधानिकाः ॥१३६॥
+</details>
+
 <details><summary>Bühler</summary>
 
 136	Sixteen of those make a silver dharana, or purana; but know (that) a karsha of copper is a karshapana, or pana.

@@ -70,11 +70,24 @@ flowers, curds, land, flesh, couch, fried barley, and water—these should not b
 tanks and wells, milk in the cow-pen,—these may he accepted even from one whose food is not to be eaten.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+काष्ठजलफलमूलमधूनि अन्नं चाभ्युद्यतमयाचितोपनीतम् ।
+
+अन्यत्र कुलटाषण्ढपतितेभ्यस्तथा द्विषः । ( या. स्मृ. १-२१५ ) ॥
+
+इति याज्ञवल्क्यवचनात्कुलटाऽऽदिवर्जंसर्वतः शूद्रादिभ्योऽपि प्रतिगृह्णीयात् । “आममेवाददीतास्मात्" इत्युक्तत्वादामान्नमेव शूद्वात्प्रतिग्राह्यम् ।अभयं चात्मत्राणात्मकं प्रीतिहेतुत्वाद्दक्षिणातुल्यं चण्डालादिभ्योऽपि स्वीकुर्यात् ॥२४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकोदकम् **इति । काष्ठोदकफलमूलाक्षिकम् अन्नं च अयाचितोपनतम् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् **। तथा अभयं चात्मपरित्राणम् अत्यन्तप्रीतिकरं मत्वा दक्षिणातुल्यम् आत्मभयरक्षणसमर्थम् इति सर्वतश् चण्डालादेर् अप्य् अङ्गीकुर्यात् ॥ ४.२४७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -41,6 +41,16 @@ to austerities, with senses under control, acting righteously, and cognisant wit
 below.)]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाभ्यासः, प्राजापत्याद्यनुष्ठानं, शास्त्रार्थावबोधः, मृद्वार्यादिशौचं, इन्द्रियसंयमः, दानादिधर्मानुष्ठानम्, आत्मध्यानपरता एतत्सत्त्वाख्यगुणस्य कार्यम्॥३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदाभ्यास** इति । वेदाभ्यासकृच्छ्राद्याचरणं शास्त्रावबोधो मृद्वारिशौचम् इन्द्रियसंयमो दानादिधर्मानुष्ठानं चात्मध्यानम् इत्य् एतत् सत्त्वाख्यगुणसम्बन्धिकार्यम् ॥ १२.३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 031	The study of the Vedas, austerity, (the pursuit of) knowledge, purity, control over the organs, the performance of meritorious acts and meditation on the Soul, (are) the marks of the quality of Goodness.

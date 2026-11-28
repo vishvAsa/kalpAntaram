@@ -52,11 +52,15 @@ things connected with Śrāddhas,—on accepting the gift of these, it is unfit 
 *Gobhila* (3.3.25).—‘When one’s own king (is dead).’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिगृह्येति** । शास्त्रविद् ब्राह्मणः नवश्राद्धे च निमन्त्रणम् उररीकृत्य नृपस्य च पुत्रजन्मादौ राहुणा वा अर्केन्दुग्रामे सति **त्र्यहं** वेदं नाधीयीत ॥ ४.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

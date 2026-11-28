@@ -14,8 +14,6 @@ During the day they may go about on business distinguished by royal signs; they 
      M G: caivaṃ
 
 **दिवा** विचरन्ति **कार्यार्थं** क्रयविक्रयस्वकार्यसिद्ध्यर्थम् । राजकार्याय वा चरेयुर् नगरोत्सवप्रेक्षादिनिमित्तम् । तत्रापि च **चिह्निता राजशासनैर्** उपलक्षिता राजादिष्टैर् वज्रादिचिह्नैः, वध्यवधशासनैर् वा परशुकुठारादिभिः स्कन्धारोपितैः ॥ १०.५५ ॥
-
-_तथा चाह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -26,6 +24,16 @@ _तथा चाह ।_
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
 ‘*Chihnitāḥ*’—‘Distinguished—by a thunder-bolt or some such weapon carried on the shoulder’ (Medhātithi),—“by sticks and so forth (Govindarāja),—‘by iron ornaments and peacock’s feathers’ (Nārāyaṇa),—‘branded on the forehead and other parts of the body’ (Rāghavananda).
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+दिवा ग्रामादौ क्रयावक्रयादिकार्यार्थंराजाज्ञया चिह्नाङ्किताः सन्तः पर्यटेयुः । अनाथंच शवं ग्रामान्निर्हरेयुरिति शास्त्रमर्यादा ॥ ५५ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दिवेति** । दिवा ग्रामादौ राजादिष्टक्षूरादिचिह्नाङ्किताः सन्तः सप्रयोजनं पर्यटेयुः । अनाथं शवं ग्रामान् निर्हरेयुर् इति साधुमर्यादा ॥ १०.५५ ॥
 </details>
 
 <details><summary>Bühler</summary>

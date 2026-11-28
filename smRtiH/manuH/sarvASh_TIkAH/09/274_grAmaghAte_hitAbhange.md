@@ -43,6 +43,12 @@ do not give assistance to one calling for help, though they happen to he on the 
 one is being forcibly carried away,—if one, on hearing the cry, does not go forward to help, he shall partake of the crime.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्रामलुण्ठने तस्करादिभिः क्रियमाणे हिताभङ्गे जलसेतुभङ्गेजाते \।
+"क्षेत्रोत्पन्नसस्यनाशनेवृत्तिभङ्गे च" इति मेधातिधथिः। पथिचौरदर्शने तन्निकटवर्तिनो यथाशक्तितो ये रक्षां न कुर्वन्ति ते शय्यागवाचादिपरिच्छदसहिता देशान्निर्वासनीयाः\।\। २७४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आलस्येनानभिधावन्तो निर्वास्याः, ये तु च्रोपक्षेपान् नानुधावन्ति ते चोरवधेन वध्याः ॥ ९.२७४ ॥

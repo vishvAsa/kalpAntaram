@@ -118,6 +118,11 @@ Do. (8.4-5),—‘Minister, Fort, Kingdom, Treasury and Army these five have bee
 Do. (14.1).—‘The constituents, beginning with the Minister and ending with the Ally are said to be the constituents of government. Of all the weaknesses, the gravest is the weakness of the Ruler himself.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वामी राजा, अमात्यो मन्त्र्यादि, पुरं राज्ञः कृतदुर्गनिवासनगरं राष्ट्र्ं देशः, कोशोवित्तनिचयः, दण्डो हस्त्यश्वरथवादातं, मित्रं त्रिविधं सप्तमाध्यायोक्तमित्येतेताः सप्तप्रत्ययोङ्गानि। सप्ताङ्गमिदं राज्यमित्युच्यते॥ २९४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स्वाम्य्-अमात्यौ पुरं राष्ट्रं  

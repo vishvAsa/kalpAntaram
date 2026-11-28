@@ -39,11 +39,20 @@ the teacher’s wife.’
 (by feet-clasping) the youthful sister-in-law or the youthful wife of the teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+युवतिर्गुरुपत्नी पादयोरुपसंगृह्य अभिवादनदोषगुणज्ञेन यूंना नाभिवाद्या पूर्णविंशतिवर्षत्वं यौवनप्रदशनार्थम् । बालस्य पादयोरभिवादनमनिषिद्धम् । यूनस्तु भूमावभिवादनं वक्ष्यति ॥२१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुपतीति** । तरुणी गुरुभार्या यूना कामं सुखदुःखे **जानता** पादोपसङ्ग्रहपूर्वकं **नाभिवाद्या **॥ २.२१२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 212	(A pupil) who is full twenty years old, and knows what is becoming and unbecoming, shall not salute a young wife of his teacher (by clasping) her feet.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

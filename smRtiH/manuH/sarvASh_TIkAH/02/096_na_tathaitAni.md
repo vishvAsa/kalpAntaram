@@ -73,11 +73,15 @@ This verse is quoted in *Bālambhaṭṭi* (Vyāvahāra, p. 606).
 is disgusted with birth, with death and with mental and physical ailments. The impurity of the body, the reversal of pleasure and pain, residence in the womb,—from all this one becomes freed.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एवं तर्हि विषयशून्यदेहावस्थानमात्र उपाय इत्य् अत आह **नेति **। **एतानी**न्दिर्याणि विषयासक्त्या प्रक्ष्टदोषजनकानि **न तथा** रूपादिविषयानुपभोगेन **सम्यक् नियन्तुं शक्यन्ते यथा** विषयगतदोषभावना**विज्ञानेन **नित्यकालं नियन्तुं पार्यते ॥ २.९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

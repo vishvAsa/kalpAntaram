@@ -37,6 +37,16 @@ This verse is quoted in *Vīramitrodaya*, (Rājanīti, p. 134) which explains �
 good and chastise the wicked; such is the duty of kings, who also obtain wealth by this means.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मान्नित्योद्यतदण्डस्य जगदुद्विजेदिति तस्मात्सर्वप्राणिनो दण्डेनैवात्मसाकुर्यात् ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम् उद्यतदण्डस्येति** । यस्मान् नित्योद्यतदण्डात् सर्वं जगद् उद्विजते तस्मात् सर्वाणि भूतानि दण्डेनैव वशीकुर्यात् ॥ ७.१०३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **उद्यतदण्डस्या**यत्नेनैव शत्रूप[नतिर् भवति] ॥ ७.१०३ ॥

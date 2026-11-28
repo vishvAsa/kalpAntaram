@@ -44,6 +44,16 @@ blood, or excreta or wine or bath-water.’
 or spittings or unguent-powder.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उद्वर्तनमभ्यङ्गमलापकर्षणपिष्टकादि, अपस्नानं स्नानोदकं, मूत्रपुरीषे, रुधिरं च श्लेष्माणं, निष्ठ्यूतमश्लेष्मरूपमपि चर्वितपरित्यक्तरूपताम्बूलादि, वान्तं भुक्त्वोद्वार्णभक्तादि एतानि कामतो नाधितिष्ठेत् । अधिष्ठानं तदुपर्यवस्थानम् ॥१३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उद्वर्तनम्** इति । **उद्वर्तनं** स्नानोदकमूत्रपुरीषरुधिर**श्लेष्मवान्तानि **इच्छातो नाक्रामेत् **तिष्ठ्यूतं **च ताम्बूलाद्यं श्लेष्मरूपम् अपि ॥ ४.१३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.

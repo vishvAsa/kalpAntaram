@@ -117,6 +117,11 @@ shares.’
 entitled to inheritance when he belongs to the same caste as his father; so also is the son born of a regularly married wife, even though she may have been of a different caste; but the son of a woman married in the reverse order is not entitled to a share; to him his kinsmen should give food and clothing.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कथंचनेत्यभिधानात्क्लीबादयो विवाहानर्हाइति सूचितम्। यदि कथंचिदेषां विवाहेच्छा भवेत्तदा क्लीबस्य क्षेत्रज उत्पन्नेऽन्येषामुत्पन्नापत्यानामपत्यं धनभाग्भवति॥ २०३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **क्लीबादीनाम्** इति चात्र सामर्थ्यान् न बहुव्रीहौ तद्गुणसंविज्ञानं भवति । एवं च क्लीबाद् अपरे तु गृह्यन्ते । येन धर्मप्रजार्थं दाराणां संग्रहः यतस् तद् अभावात् क्लीबस्य नास्ति संग्रहः । अपुत्रस्यानधिकाराद् आधाने । अथ स्मार्तकर्मापेक्षो दारसंग्रहः । ततः क्लीबस्याप्य् अत्र ग्रहणं युक्तं तद्गुणसंविज्ञानबहुव्रीहिणा ॥ ९.२०३ ॥

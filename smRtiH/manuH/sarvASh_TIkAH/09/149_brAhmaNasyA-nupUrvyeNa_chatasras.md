@@ -66,6 +66,11 @@ Do. (p. 536).—‘The son of the Śūdra wife is entitled to inherit property; 
 the same caste as the father, the other of a wife of the next lower caste,—if the latter happens to be possessed of good qualities, he may obtain the special share of the eldest; or he may even become the master of the entire property.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य यदि क्रमेण ब्राह्मण्याद्याश्चतस्राभार्या भवेयुस्तदा तासां त्रिषूत्पन्नेष्वयंवक्ष्यमाणो विभागविधिर्मन्वादिभिरुक्तः \।\। १४९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **आनुपूर्व्य**ग्रहणम् [अनुवादार्थ]म् । **यदि**ग्रहणं चानित्यार्थम् । तथा चोक्तम् "कामतस् तु प्रवृत्तानाम् इमाः स्युः क्रमशो ऽवराः" इति ॥ ९.१४९ ॥

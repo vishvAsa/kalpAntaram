@@ -29,11 +29,20 @@ of the body equipped with the soul and characteristics, and also Dharma; these h
 to the expression ‘*svapoṣam puṣṭaḥ*,’ ‘reared the rearing by oneself’ (where the rearing qualified by ‘self’ forms the object of the verb ‘reared’, which denotes *rearing* in general).—(25)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तपः प्राजापत्यादि वाचं वाणीं रतिं चेतःपरितोषं काममिच्छां क्रोधं चेतोविकारम् इमामेतच्छ्लोकोक्तां पूर्वश्लोकोक्ताञ्च सृष्टिं चकार। सृज्यत इति सृष्टिः। कर्मणि क्तिन्। इमाः प्रजा वक्ष्यमाणा देवादिकाः कर्तुमिच्छन्॥२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तप **इति । **रतिः **चेतोनिर्वृत्तिः । **इमा **वक्ष्यमाना दैवादिकाः **प्रजाः **एतच्छ्लोकओक्तां पूर्वपठितां च **सृष्टिं** कृतवान् ॥ १.२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

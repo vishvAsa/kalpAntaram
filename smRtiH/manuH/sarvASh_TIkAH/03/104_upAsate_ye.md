@@ -33,11 +33,24 @@ This verse is quoted in *Hemādri* (Śrāddha, p. 769) and in
 the house of others, except when one has been invited; he should avoid fickleness of hands, feet and speech, and also over-eating.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ परपाकान्नपुष्टस्य सततं गृहमेधिनः ।**
+
+**दत्तमिष्टं तपोऽधीतं यस्यान्नं तस्य तद्भवेत् ॥६॥ \]**
+
+अतिथिप्रकरणादातिथ्यलोभेन ये गृहस्थाः ग्रामान्तराणि गत्वा परान्नं सेवन्ते ते निषिद्ध-परान्नदोषानभिज्ञाः तेन परान्नभोजनेन जन्मान्तरे अन्नादिदायिनां पशुतां व्रजन्ति । तस्मादिदं न कुर्यादिति निषेधः कल्प्यते ॥१०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपासत** इति । आतिथेयोद्देशत एव ग्रामान्तराणि गत्वा **ये** **गृहस्थाः **दुर्मेधसः औदरिकतया परान्नं सेवन्ते तेन परान्नभोजनेन ते जन्मान्तरे **अन्नाद्यदायिनां** गृहे **पशुतां व्रजन्ति** इति फलप्रतिपादनपरम् एतत् । अतः परपाकोपसेवनं न कार्यम् ॥ ३.१०४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 104	Those foolish householders who constantly seek (to live on) the food of others, become, in consequence of that (baseness), after death the cattle of those who give them food.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

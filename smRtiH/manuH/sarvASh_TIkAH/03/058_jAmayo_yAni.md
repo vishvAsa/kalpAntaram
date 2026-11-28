@@ -33,11 +33,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 506); in
 down by malignant spirits; such houses neither shine nor prosper; and they are devoid of all prosperity—O king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यानि गेहानि भगिनीपत्नीहितृस्नुषाद्या अपूजिताः सत्योऽभिशपन्ति "इदमनिष्टमेषामस्तु" इति, तान्यभिचारहतानि धनपश्वादिसहितानि नश्यन्ति ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जामय** इति । यानि गृहाणि न नवोढादुहित्राद्याश् च **अपूजिताः **सद्यो ऽभिशपन्ति **तानि **अभिचारविशेषहा=अतानीव सर्वनाशं नश्यन्ति ॥ ३.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

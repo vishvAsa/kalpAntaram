@@ -12,10 +12,8 @@ He who commits violence is to be regarded as the worst offender, as compared to 
 
 अयम् अपरार्थवादो निग्रहविधिस्तुत्यर्थः । वाचा दुष्टो **वाग्दुष्टस्** तस्करश् चौरः[^१६०] । **दण्डेनैव** दण्डपारुष्यकृत्[^१६१] । दण्डः प्रहरणोपलक्षणार्थः । त्रिभ्य एतेभ्यो ऽनन्तरातिक्रान्तेभ्यः पापकारिभ्यो ऽयम् अतिशयेन **पापकृत्तमः** ॥ ८.३४५ ॥
 
-
 [^१६१]:
      M G: daṇḍyaḥ | pāruṣyakṛt
-
 
 [^१६०]:
      M G J: caura-
@@ -43,9 +41,14 @@ In comparison to all these three kinds of offenders, dealt with in the three for
 inflamed with strength is called *Violence*. Manslaughter, robbery, indecent assault on another man’s wife, the two kinds of assault are the four kinds of Violence. Destroying, reviling, disfiguring or otherwise injuring fruits, roots, water and the like, or agricultural implements............ The punishment to be inflicted for Violence shall be proportionate to the heaviness of the crime, but it shall not be less than a hundred.’
 </details>
 
-<details><summary>भारुचिः</summary>
+<details><summary>कुल्लूकः</summary>
 
-_यतश् चैतद् एवम् अतः ।_
+वाक्पारुष्यकृताच्चोराच्च दण्डपारुष्यकारिणश्च मनुष्यात्साहसकृन्मनुष्योऽतिशयेन पापकारी बोद्धव्यः ॥ ३४५ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाग्दुष्टाद् **इति । वाक्पारुष्यकृच् चौरदण्डकारिभ्यः सकाशात् साहसकृन् मनुष्यो ऽतिशयेन पापकृद् बोद्धव्यः ॥ ८.३४५ ॥
 </details>
 
 <details><summary>Bühler</summary>

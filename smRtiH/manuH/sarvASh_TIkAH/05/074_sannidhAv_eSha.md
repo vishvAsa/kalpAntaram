@@ -12,8 +12,6 @@ This rule regarding Impurity due to death has been described in reference to cas
 **संनिधौ** यत्रासौ मृतस् तत्र तत् संनिधीयते । <u>अन्ये</u> तु प्रयाणकाले ये संनिहितास् तेषाम् एवायं विधिर् इत्य् आहुः । **संबन्धिनः** समानोदकाः । **बान्धवाः** सपिण्डाः ।
 
 - <u>अन्ये</u> तु ग्रामान्तरे नगरान्तरे ऽवस्थानम् असंनिधानं मन्यन्ते, ॥ ५.७३ ॥
-
-_तेषां च,_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -66,11 +64,20 @@ the sacred fires dies on a journey, his *Sapiṇḍas* shall again celebrate his
 foreign land, he is not impure either for one day or for three days; he becomes purified immediately by bathing.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मृतस्य सन्निधाबेकस्थानावस्थानादहःपरिज्ञाने शावाशौचस्य विधिरयमुक्तः ।देशान्तरावस्थानादज्ञाने सत्ययं वक्ष्यमाणो विधिः संबन्धिबान्धवैर्ज्ञातव्यः ।संबन्धिनः सपिण्डाः । समानोदका बान्धवाः ॥७४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सन्निधाव् एष** इति । प्रेतदाहावस्थानापरिज्ञानेन सत्य् एष शावाशौचस्य कीर्तितो विधिः कथितो देशाण्तरावस्थानाद् अज्ञाने सत्य् अयं वक्ष्यमाणो विधिः सपिण्डसमानोदकैर् बोद्धव्यः ॥ ५.७४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 074	The above rule regarding impurity on account of a death has been prescribed (for cases where the kinsmen live) near (the deceased); (Sapinda) kinsmen and (Samanodaka) relatives must know the following rule (to refer to cases where deceased lived) at a distance (from them).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

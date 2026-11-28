@@ -31,6 +31,16 @@ True; but they have been only named; it is now that they are going to have their
 ‘*Man*.’—This term is used in order to show that what is spoken of pertains to all castes.—(210)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यैर्हेतुभिर्मनुष्यः पापान्यपनुदति तान्पापनाशहेतून्देवर्षिपितृभिरनुष्ठितान् युष्माकं वक्ष्यामि॥२१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यैर्** इति । यैः साधनैर् मनुष्यः पापान्य् अपनुदति तानि साधनानि देवर्षिपितृभिः पापापनुत्त्यर्थं सेवितानि युष्माकं वक्ष्यामि ॥ ११.२०९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **मानव**ग्रहणं सर्ववर्णार्थम् । **देवादि**ग्रहणं चाधर्मक्षयोपायस्तुत्यर्थम् ॥ ११.२०९ ॥

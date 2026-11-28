@@ -1431,11 +1431,20 @@ those ordained by *Parāśara*.’ This distinction however has never been obser
 From the above we conclude that all the authorities are agreed on the following points—(*a*) The Veda is the first and paramount authority, (*b*) The Smṛti is authoritative only in so far as it is not repugnant to the Veda, to which it owes its authority; but only on matters on which we have no paramount authority, (*c*) Practices or Customs are trustworthy guides, only as they are current among the ‘cultured,’ and then too only those that are not repugnant to Vedic or Smṛti texts. (*d*) The same with regard to Tribal or Family Customs. (*e*) The judgment of the ‘Assembly’ of the learned is to be accepted as authoritative only when it is not repugnant to the Veda, and only when tho judgment is ‘unbiased’ by improper feelings. There is not a single text, or ‘explanation,’ which favours the opinion that Custom is to override original texts,—an opinion that has been upheld by the Privy Council, and endorsed by eminent writers on Anglo-Hindu Law. Neither Vijñāneśvara (*Mitākṣarā*) nor Jīmūtavāhana (*Dharmaratna*) nor Nīlakaṇṭha (*Mayūkha*) countenances any such view; and these three are regarded by our lawyers as the founders of the principal ‘Schools of Law.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेद ऋग्यजुःसामाथर्वलक्षणः, स सर्वो विध्यर्थवादमन्त्रात्मा धर्मे मूलं प्रमाणम् । अर्थवादानामपि विध्येकवाक्यतया स्तावकत्वेन धर्मे प्रामाण्यात् । यदाह जैमिनिः -"विधिनात्वेकवाक्यत्वात्स्तुत्यर्थेन विधीनां स्युः” । मन्त्रार्थवादानामपि विधिवाक्यैकवाक्यतयैव धर्मे प्रामाण्यं, प्रयोगकाले चानुष्टेयस्मार-कत्वं, वेदस्य च धर्मे प्रामाण्यं यथार्थानुभवकरणत्वरूपं न्यायसिद्धम् । स्मृत्यादीनामपि तन्मुलत्वेनैव प्रामाण्यप्रतिपादनार्थमनूद्यते । मन्वादीनां च वेदविदां स्मृति प्रमाणम् । वेदविदामिति विशेषणोपादाना-द्वेदमूलत्वेनैव स्मृत्यादीनां प्रामाण्यमभिमतम् । शीलं ब्रह्मण्यतादिरूपम् । तदाह हारीतः - "ब्रह्मण्यता देवपितृभक्तता सौम्यता अपरोपतापिता अनसूयता मृदुता अपारुष्यं मैत्रता प्रियवादित्वं कृतज्ञता शरण्यता कारुण्यं प्रशान्तिश्चेति त्रयोदशविधं शीलम्" ।गोविन्दराजस्तु शीलं रागद्वेषपरित्याग इत्याह । आचारः कम्बलवल्कलाद्याचरणरूपः, साधूनां धार्मिकाणाम् आत्मतुष्टिश्च वैकल्पिकपदार्थविषया धर्मे प्रमाणम् । तदाह गर्गः – “वैकल्पिके आत्मतुष्टिः प्रमाणम्” ॥६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इदानीं धर्मप्रमाणपरिगणनार्थम् आह – **वेद** इति । **वेदः **ऋग्यजुःसामलक्षणः** अखिलः** समग्रः । अर्थवादादीनाम् अपि विध्येकवाक्यत्वेन श्रवणात् **धर्मस्य मूलं **प्रमाणं मिथाज्ञानसंशयाभावात् निसर्गप्रामाण्याच् च । एतन् न्यायसिद्धम् । एतद् अस्यानूद्यते **स्मृत्य्**आदीनां तन्मूलत्वेन प्रामाण्यप्रतिपादनाय । तथा च मानवादिशास्त्रोपनिबन्धनं वेदविदां कर्तव्याकर्तव्यस्मरणम् **शीलं च** रागद्वेषपरित्यागात्मकम्, **आचारश् च** विवाहादौ कङ्कणबन्धनाद्याचरणरूपः, **साधूनां** धर्मिकाणां **आत्मनस् तुष्टिश् च** अदृष्टार्थाचर्यमाणपदार्थचेतः परितोषरूपा वैकल्पिकपदार्थविषया च धर्मं प्रति प्रमाणम् । एषां सर्वेषां वेदमूलकत्वात् ॥ २.६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

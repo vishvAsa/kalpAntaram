@@ -49,6 +49,16 @@ reason, place themselves under the influence of their enemies...... He shall not
 Do. (139.75).—‘Having done harm to a certain person, he shall not trust him......... By reposing trust upon a person after having injured him, one always falls into trouble.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शत्रुं तन्मन्त्रिणमधर्मशीलं चौरं परदारांश्च न सेवेत ।चौरस्याधार्मिकत्वेऽप्यत्यन्तगर्हितत्वात्पृथनिदेशः ॥१३३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वैरिणम्** इति । शत्रुतन्मित्राधर्मशीलवौरपरदानान् **नोपसेवेत** । चौरस्यात्यन्तकुत्सितत्वात् अधार्मिकात् पृथक्ग्रहणम् । शत्रुसेवनादौ च यद्य् अपि दृष्ट एव दोषः तथापि शास्त्रनिषेधसामर्थ्याद् अदृष्टो ऽपि भवतीत्य् अवसीयते । एवम् अन्यत्रापि विज्ञेयम् ॥ ४.१३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 133	Let him not show particular attention to an enemy, to the friend of an enemy, to a wicked man, to a thief, or to the wife of another man.

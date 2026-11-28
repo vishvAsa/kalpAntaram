@@ -36,6 +36,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 406);—and in
 to the opinion of every one.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वदा तस्मिन्ब्राह्मणे सञ्जातविश्वासो भूत्वा यानि कुर्यात्तानि सर्वकार्याणि समर्पयेत् । तेन सह निश्चित्य सर्वं कर्मारभेत् ॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नित्यम्** इति । **तस्मिन्** ब्राह्मणे सम्यक् निर्विशङ्कः सञ्जातविश्वासो भूत्वा सर्वदा **सर्वकार्याणि **समर्थयेत् (समर्पयेत्?) । यद्य् अपि चात्मना कुर्यात् तद् अपि तेन सह निश्चयीकृत्य ततो ऽनुतिष्ठेत् ॥ ७.५९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 059	Let him, full of confidence, always entrust to that (official) all business; having taken his final resolution with him, let him afterwards begin to act.

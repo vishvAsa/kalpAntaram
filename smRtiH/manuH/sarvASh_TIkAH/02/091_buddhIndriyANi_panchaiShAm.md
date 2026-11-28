@@ -39,11 +39,20 @@ The author now proceeds to describe the functions of the organs, with a view to 
 See Comparative notes for [Verse 2.89].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां दशानां मध्ये श्रोत्रादीनि पञ्च क्रमोक्तानि बुद्धः करणत्वाद् बुद्धीन्द्रियाणि, पाय्वादीनि चोत्सर्गादिकर्मकरणत्वात्कर्मेन्द्रियाणि तद्विदोवदन्ति ॥९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बुद्धीन्द्र्याणीति** । **एषां **मध्यात् **श्रोत्रा**दीनि क्रमेन **पञ्च** बुद्धेः शब्दादिविषयविज्ञानस्य जनकानि, **पण्च पाय्वा**दीनि विसर्गादिकर्मार्थानि मन्वादयः कथयन्तीति कार्यभेदात् वर्गद्वयविभागः ॥ २.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	Five of them, the ear and the rest according to their order, they call organs of sense, and five of them, the anus and the rest, organs of action.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

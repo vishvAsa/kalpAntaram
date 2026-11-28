@@ -90,11 +90,20 @@ three means of effecting purity—if the impurity has not been perceived, if the
 (commended?), or washed with water, or unknown (as defiled) is ever pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केनापि प्रकारेणादृष्टोपघातहेतुसंसर्गंमदृष्टम् । सञ्जातोपघातशय जलेन प्रक्षालितम् । तदाह हारीतः—"यद्यन्मीमांस्यं स्यात्तत्तद॒द्भिः स्पर्शाच्छुद्धंभवति" । उपघातशङ्कायामेव पवित्रं भवत्विति ब्राह्मणवाचा यत्प्रशस्यते तानि त्रीणिपवित्राणि देवाः ब्राह्मणानां कल्पितवन्तः ॥१२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्रीणीति** । यस्य प्रमाणेन केनचिद् अप्य् उपघातसम्बन्धो न परिच्छिन्नो यच् च सङ्घातोपघातशङ्क्यं तद् अद्भिर् निर्णिक्तम् । तथा हारीतः- “यद् यन् मीमांस्यं स्यात् तद् अद्भिः संस्पर्शाच् छुचि भवति” इति । यच् चोपघातसन्देहे सति प्रक्षालनासहं “शुद्धम् भवत्व्” इति ब्राह्मणस्य वाचा प्रशस्यते । तानि त्रीणि पवित्राणि ब्राह्मणानां देवाः कल्पितवन्तः ॥ ५.१२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 127	The gods declared three things (to be) pure to Brahmanas, that (on which) no (taint is) visible, what has been washed with water, and what has been commended (as pure) by the word (of a Brahmana).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

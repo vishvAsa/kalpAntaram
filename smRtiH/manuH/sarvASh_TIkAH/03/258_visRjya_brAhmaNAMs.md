@@ -11,8 +11,6 @@ Having dismissed those Brāhmaṇas, he, with collected mind, controlled in spee
 <details><summary>मेधातिथिः</summary>
 
 प्रासङ्गिकः पूर्वश्लोकः । इदानीं प्रकृतशेषम् एवाह । **विसर्ज्या**नुज्ञाय यथासुखविहारे । **ब्राह्मणांस् तान्** प्रभुक्तवतः । अनन्तरं **दक्षिणां दिशम्** ईक्षमाण **इमान् वरान्** अभिलषितार्थान् **पितॄन् याचेत** स्वपितॄन् प्रार्थयेत् । स्वपितॄन् ध्यायन् "युष्मासु प्रसन्नेष्व् इदं नः संपद्यताम्" इत्य् एवं याचितव्यम् ॥ ३.२४८ ॥
-
-_के पुनस् ते वरा याचितव्या इत्य् अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -44,6 +42,16 @@ The verse is quoted in *Śrāddhakriyākaumudī* (p. 207), which has the followi
 the *imperishable water*; then he shall address the words—*Viśvedevāḥ priyantam*—to those facing the east; and then with joined hands and mind calm and concentrated on them, he shall beg for the following blessings—(Manu, 259 and the following) May we have much food! May we have guests! May there be persons to beg from us! May we not beg of any one!.’
 
 *Yājñavalkya* (1.246).—\[Reproduces Manu 259.\]
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+तान्ब्राह्मणान्विसृज्यानन्यमनाः मौनी पवित्रो दक्षिणां दिशं वीक्षमाण एतान्वक्ष्यमाणानभिलषितानर्थान्पितॄन्प्रार्थयेत् ॥२५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विसृज्येति । तान् ब्राह्मणान् विसृज्य **अनन्यमनाः शुचिः सन् **दक्षिणां दिशम् **ईक्षमाणः **इमान् **वक्ष्यमाणान् अभिलषितार्थान् **पितॄन् **प्रार्थयेत् ॥ ३.२५८ ॥
 </details>
 
 <details><summary>Bühler</summary>

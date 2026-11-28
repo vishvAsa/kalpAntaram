@@ -144,6 +144,16 @@ Further, there might be some justification for having recourse to the several ex
 This verse is quoted in *Hemādri* (Śrāddha, p. 43).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हिरण्यगर्भापत्यस्य मनोर्ये मरीच्यादयः पुत्राः पूर्वमुक्ताः“मरीचिरत्र्यङ्गिरसौ” ( म.स्मृ. १ / ३५) इत्यादिना तेषामृषीणां सर्वेषां सोमपाऽऽदयः पितृगणाः पुत्रा मन्वादिभिः स्मृताः ॥१९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मनोर्** इति । हिरण्यगर्भापत्यस्य **मनोः स्मृताः ये मरीच्यादयः **पुत्राः यथोक्तम् “मरीचिम् अत्र्य् आङ्गिरसम्” इत्यादि । **तेषां **मरीच्यादीनां **सर्वेषाम् ऋषीणाम् **एते ये सोमपादयः पितृमुख्याः मन्वादिभिः **स्मृताः **॥ ३.१९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.

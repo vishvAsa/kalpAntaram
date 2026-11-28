@@ -60,6 +60,16 @@ away of the girl, along with a pair of cow and bull, to a bridegroom, praisewort
 cow and bull, or of a pair of clothes; but in every case ornaments and dowry should be given.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीगवी पुङ्गौश्चगोमिथुनं । तदेकं द्वे वा वराद्धर्मतो धर्मार्थ यागादिसिद्धये कन्यायै वा दातुं न तु शुल्कबुद्ध्यागृहीत्वा यद्यथाशास्त्रंकन्यादानं स आर्षो विवाहो विधीयते ॥२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । गोबलीवर्दम् एकं द्वे वा **वरात् धर्मतः** यागाद्यावशककर्तव्यधर्मनिमित्तं गृहीत्वा यत् कन्याया यथाशास्त्रं **प्रदानं** विधीयते **स आर्षो** विवाह **उच्यते** ॥ ३.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.

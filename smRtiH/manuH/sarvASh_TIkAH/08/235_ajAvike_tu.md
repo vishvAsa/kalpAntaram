@@ -42,6 +42,16 @@ herdsman does not come to their assistance, he shall he responsible for any anim
 or other ferocious animals, and the keeper not going to repel the attack, the blame shall fall upon him; and he shall make good to the owner the value of the cattle that has perished.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अजाश्चाविकाश्चाजाविकं **“गवाश्चप्रभृतीनि च”** (पा. सू. २।४।११ ) इति द्वन्द्वैकवद्भावः । तस्मिन्नजाविके वृकैः परिहृते सति पालेऽनागच्छति यामजामेडकां वा वने वृको हन्यात्सपालस्य दोषः स्यात् ॥२३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अजाविकेष्व्** इति । अजैडके शृगालादिभिः आक्रान्ते भवति तदा पाले ऽनागच्छति यान् अभिभूय वृको हन्यात् स पालस्य दोषः स्यात् । बहुत्वाद् वृकाक्षेपासम्भवे सत्य् अजादिग्रहणम् ॥ ८.२३५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पशुरक्षकस्य सतस् तदसंनि[धाने वा वृको हन्यात् स एव] दद्यात् । यस्माद् अवरुद्धानां संनिहितो न भवति । वृकग्रहणं चान्येषाम् अपि प्रदर्शनार्थम् ॥ ८.२३४ ॥

@@ -35,11 +35,22 @@ while they are impure, will remain impure as long as they.’
 under impurity: nor shall he dwell with them.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निर्हारको यदि तेषां मृतस्य सपिण्डानामाशौचिनामन्नमश्नाति तदा तद्दशाहेनैव शुद्ध्यति न त्रिरात्रेण ।अथ तेषामन्नं नाइनाति
+
+गृहे च तेषां न वसति, निर्हरति च तदाऽहोरात्रेणव शुद्ध्यति । एवं च तद्गृहवासे सति तदन्नाभोजिनो निरकस्य पूर्वोक्तं त्रिरात्रम् ॥१०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । स निर्हारको यदि तेषाम् आशौचिनां सम्बन्ध्यन्नम् अश्नाति तदा दशाहेन शुध्यति, न त्रिरात्रेण । अन्नं पुनस् तत्सम्बन्धि अनश्नन् यदि तत्सम्बन्धिनि गृहे न निवसेत् तदाहोरात्रेणैव, न त्रिरात्रदशरात्राभ्याम् । एवं च निर्हारकस्य निवासान्नभोजनरहितस्याहोरात्रम् अनश्नतस् तत्र वसतः पूर्वोक्तं त्रिरात्रम् अश्नतो वसतश् च दशाहम् ॥ ५.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	But if he eats the food of the (Sapindas of the deceased), he is purified in ten days, (but) in one day, if he does not eat their food nor dwells in their house.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

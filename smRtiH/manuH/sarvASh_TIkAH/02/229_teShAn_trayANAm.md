@@ -50,11 +50,20 @@ nothing until permitted by them.’
 *Mahābhārata* (12.108.5).—(Same as second half of Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां मातापित्राचार्याणां परिचर्या सर्वं तपोमयं श्रेष्ठमित एव सर्वतपः फलप्राप्तेः । यद्यन्यमपि धर्मं कथञ्चित्करोति तदप्येतत्त्रयानुमतिव्यतिरेकेण न कुर्यात् ॥२२९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **तेषाम्** इति । **तेषां** मात्रादीनां **रयाणां** परिचर्या तपोऽन्तरेभ्यः प्रकृष्टं **तपः** मन्वादिभिः कथ्यते । एवं च **तैर् अनुज्ञातः **नित्यनैमित्तकवर्जम् **अन्यं धर्मं **नाचरेत् ॥ २.२२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

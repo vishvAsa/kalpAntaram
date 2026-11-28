@@ -39,6 +39,18 @@ This verse is quoted in *Prāyaścittaviveka* (p. 11).
 See Comparative notes for [Verse 11.228](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202132.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रमादादिच्छातो वा निषिद्धं कर्मकृत्वा तस्मात्पापान्मुक्तिमिच्छन्पुनस्तन्न कुर्यात्। एतच्च पुनः करणे प्रायश्चित्तगौरवार्थम्। अत एव देवलः—
+
+**विधेः प्राथमिकादस्माद्द्वितीये द्विगुणं भवेत्।इति॥२३२॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अज्ञानाद्** इति । प्रमादाद् इच्छातो वा निन्दितं कर्म कृत्वा तत्पापान् मोक्षम् अन्विच्छन् परं दुष्कृतं न कुर्यात् । इति निवृत्त्यर्थवादः ॥ ११.२३१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ज्ञानकृतस्याप्य् अकुशलस्य निवृत्त्या शुद्धिः, किं पुनर् अज्ञानकृतस्येत्य् अनेन दर्शयति ॥ ११.२३० ॥

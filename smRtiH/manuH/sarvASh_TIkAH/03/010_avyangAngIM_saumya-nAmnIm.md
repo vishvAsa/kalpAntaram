@@ -92,11 +92,22 @@ who has the voice of the swan, complexion like the clouds and eyes of the tawny 
 relations, good character, and auspicious marks, and who is free from disease.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अविकलाङ्गी मधुरसुखोद्यनाम्नी हंसगजरुचिरगमनां अनतिस्थूललोमकेशदशनां कोमलाङ्गीं कन्यामुद्द्हेत् ॥१०॥
+
+अत्र विधिनिषेधयोरभिधानमनिषिद्धविंहितकन्यापरिणयनमभ्युदयार्थमिति दर्शयितुमाह
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अव्यङ्गाङ्गीम्** इति । अविकलाङ्गीम् अप्रसन्ननाम्नीं राजहंसगजरुचिरगमनाम् अनतिस्थूलरोमकेशदन्तां कोमलाङ्गीं कन्यां परिणयेत् । विधिनिषेधभयाभिधानं निर्दोषसगुणकन्योपयमने ऽभ्युदयार्थम् ॥ ३.१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 010	Let him wed a female free from bodily defects, who has an agreeable name, the (graceful) gait of a Hamsa or of an elephant, a moderate (quantity of) hair on the body and on the head, small teeth, and soft limbs.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

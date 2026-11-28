@@ -78,11 +78,20 @@ accused, the eunuch, the loose woman, the hypocrite, the physician, the fowler, 
 vegetables, meat and preparations of barley-flour.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+महापातकित्वेन सञ्जातलोकविक्रोशस्य, नपुंसकस्य, पुंश्चल्या व्यभिचारिण्या अगणिकाया अपि, दाम्भिकस्य छद्मना धर्मचारिणो बैडालव्रतिकादेरन्नं न भुञ्जीत । शुक्तं यत्स्वभावतो मधुरं दध्यादिसम्पर्कवशेनोदकादिना चाम्लादिभावं गतम्, पर्युषितं रात्र्यन्तरितम्, शुद्रस्यान्नं न भुञ्जीतेति सम्बन्धः । उच्छिष्टं च भुक्तावशिष्टान्नमविशेषात्कस्यापि न भुञ्जीत ।गुरुच्छिष्टं च विहितत्वायोज्यम् । गोविन्दराजस्तुशुद्रस्योच्छिष्टं तद्भुक्तावशिष्टं च स्थालीस्थमपि न भुञ्जीतेत्याह ॥२११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभिशस्तस्येति **। महापातकित्वेन उत्पन्नाभिशापस्य, अनिश्चितपापस्यापि नपुंसकस्य **पुंश्चल्या** व्यभिचारिण्याः अगणिकाया अपि, **दाम्भिकस्य **व्याजधर्मचारिणः** **अन्नं न भुञ्जीत । तथा **शुक्तं **यत् प्रातः स्वरसं कालान्तरेण उदकादिसंसर्गकालान्तराभ्यां चाम्लीभवति, **पर्युषितं** च रात्र्यन्तरितं **शूद्रस्य चोच्छिष्टं** नाश्नीयात् । शुक्तपर्युषितयोः अभक्षणं पञ्चमे वक्ष्यति । इह तु स्नातकव्रतत्वार्थम् अभिधानम् ॥ ४.२११ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -51,6 +51,11 @@ wife by a *Sagotra* kinsman, or a kinsman not belonging to the same
 the woman’s husband is alive is called *Kṣetraja*; and when begotten after his death is called *Dvyāmuṣyāyaṇa*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मृतस्य नपुंसकस्य प्रसवविरोधिव्यान्युपेतस्यवा भार्यायांवृताक्तत्वादिनियोगधर्मेण गुरुनियुक्तायां जातः स क्षेत्रजः पुत्रो मन्वादिभिः स्मृतः ॥ १६७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ९.१६७ ॥

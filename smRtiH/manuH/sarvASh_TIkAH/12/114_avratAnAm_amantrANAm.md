@@ -38,6 +38,16 @@ have not fulfilled their sacred duties, are unacquainted with the Veda, and subs
 *Parāśara* (8.12).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सावित्र्यादिब्रह्मचारिव्रतरहितानां, मन्त्रवेदाध्ययनरहितानां, ब्राह्मणजातिमात्रधारिणां, बहूनामपिमिलितानां परिषत्वं नास्ति, धर्मनिर्णयसामर्थ्याभावात्॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अव्रतानाम्** इति । सावित्रादिब्रह्मचारिव्रतरहितानां वेदाध्ययनशून्यानां ब्राह्मणजातिमात्रोपजीविनां सहस्राणाम् एकीभूतानां परिषत्त्वं नास्ति धर्मनिर्णयासामर्थ्यात् ॥ १२.११४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Even if thousands of Brahmanas, who have not fulfilled their sacred duties, are unacquainted with the Veda, and subsist only by the name of their caste, meet, they cannot (form) an assembly (for settling the sacred law).

@@ -39,11 +39,20 @@ This verse occurs in *Devalasmṛti* also (quoted in
 *Vīramitrodaya-Saṃskāra*, p. 514).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अत्र स्त्र्यादीनामुक्तानामपि दृष्टान्तत्वेनोपादानम् ।यथा स्त्रयादयो निकृष्टकुलादिभ्यो गृह्यन्ते तथा अन्यान्यपि हितानि चित्रलिखनादीनि सर्वतः प्रतिग्रहीतव्यानि ॥२४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्त्रियो रत्नानीति** । **शिल्पानि चाप्य् अदुष्टानीति** । अत्र **स्त्रीरत्नशौचचित्रकर्माद्य्**अदुष्ट-शिल्पाभिधानार्थः, तथैतानि सदाश्रयाण्य् उपादेयान्य् एवम् ॥ २.२४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 240	Excellent wives, learning, (the knowledge of) the law, (the rules of) purity, good advice, and various arts may be acquired from anybody.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

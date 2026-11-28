@@ -41,11 +41,15 @@ organs get beyond control,—like vicious horses under the charioteer.’
 roaming senses, it deprives him of his wisdom, and it is lost like the boat at sea.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+सकलेन्द्रियविषयस्य संयमे यत्नः कार्यः यस्मात् **इन्द्रियाणाम्** इति । **इन्द्रियाणां** मध्यात् यदि पुनः **एकम् अपीन्द्रियं** यथेच्छं स्वविषये प्रवर्तते तदा स्वेन्द्रियान्तरसंयमविज्ञानम् अपि नश्यति यथा उदकपरिपूर्णाच् चर्मणः एकपादानावरणात् सर्वम् अम्भो निस्ःसरति ॥ २.९९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

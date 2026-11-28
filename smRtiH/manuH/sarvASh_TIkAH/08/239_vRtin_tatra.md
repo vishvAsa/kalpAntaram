@@ -12,7 +12,6 @@ One should set up an enclosure there which the camel cannot see, and shut up eve
 
 कण्टकशाखादीनां प्राकारविन्यासः[^१०७] पशुप्रवेशवारणार्थः क्षेत्रारामादीनां **वृतिर्** उच्यते । या क्वचित् पर्णिकेति प्रसिद्धा। वारणा **वृतिः**। तस्या उन्नतिर् इयती कर्तव्या ययोष्ट्रो नावलोकयति । 
 
-
 [^१०७]:
      M G: prakāra-
 
@@ -25,16 +24,11 @@ One should set up an enclosure there which the camel cannot see, and shut up eve
 <u>महोत्सेधाया</u> द्वितीयपार्श्वस्यादर्शनाद् अदृष्टैव वृतिः ।   
 **छिद्रं च** विवरम् **वारयेत्**[^१०८] **सर्वम्** । **श्वसूकरमुखेन** यद् अनुगम्यते तन् मुखपरिमाणम्[^१०९] । तथा कुर्याद् यथा श्वसुखं न माति । तन्मुखाद् अप्य् अल्पछिद्रम् इत्य् अर्थः ॥ ८.२३९ ॥
 
-
-
 [^१०९]:
      M G: mukhaṃ parimāṇaṃ
 
-
 [^१०८]:
      M G DK: āvārayet
-
-_तथा कृतायां वृतौ ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -66,6 +60,16 @@ fence shall ho made, over which a camel cannot look, nor horses or cattle jump, 
 
 *Śaṅkha-Likhita* (Vivādaratnākara, p. 233).—‘Round a field situated on
 the road-side, an enclosure should he erected which the camel may not look over, nor may horses or boars be able to gain entrance.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+तत्र परिहारस्थाने क्षेत्रे वृतिं कण्टकादिमयीं तथाविधामुच्छ्रितां कुर्यात् । यामपरपार्श्वे उष्ट्रो न विलोकयेत्, तस्यां च यत्किचिछिद्रं श्वसूकरमुखप्रवेशयोग्यं तत्सर्वमावृणुयात् ॥२३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वृतिम्** इति । तस्मिन् परिहारस्थाने क्षेत्रे वृतिं कण्टकादिमयी प्राकाराकृतिं तथाविधाम् ऊर्जितां कुर्यात् वामपरपार्श्वतः यथा उष्ट्रो नावलोकयेत् । तस्यां च यावत् किञ्चिच् छिद्रं श्वसूकरमुखप्रवेशक्षमम् अपि तत् सर्वं स्थगयेयुः ॥ ८.२३९ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

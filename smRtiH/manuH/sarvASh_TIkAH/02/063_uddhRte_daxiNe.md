@@ -70,11 +70,20 @@ over the head, resting the thread on the left shoulder, hanging down the right a
 *wearer of* *the* *Prāchīnāvīta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दक्षिणे पाणावुद्धते वामस्कन्धस्थिते दक्षिणस्कन्धावलम्बे यज्ञसूत्रे वस्त्रे वोपनीती द्विजः कथ्यते । वामपाणावुद्धते दक्षिणस्कन्धस्थिते ग्रामस्कन्धावलम्बे प्राचीनावीती भण्यते । सव्ये प्राचीनआवीतीति छन्दोनुरोधादुक्तम् । तथा च गोभिलः -“दक्षिणबाहुमृद्धृत्यशिरोऽवधाय सव्येंऽसे प्रतिष्ठापयति दक्षिणस्कन्धमवलम्बनं भवत्येवं यज्ञोपत्रीती भवति, सव्यं बाहुमुद्धृत्य शिरोऽवधाय दक्षिणेंऽसे प्रतिष्ठापयति सव्यं कक्षमवलम्बनं भवत्येवं प्राचीनावीती भवति” । निवीती कण्ठसज्जन इति शिरोवधाय दक्षिणपाण्यादावप्यनुद्धृते कण्ठादेव सज्जन ऋजुप्रालम्बे यज्ञसूत्रे वस्त्रे च निवीती भवति ॥६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उपवीत्यादीनाम् अप्रसिद्धत्वात् लक्षणम् आह आचमनावसरे च उपवीतस्याचमनाङ्गत्वार्थम् **उद्धृत** इति । कार्पासम् उपवीतं स्याद् उक्तलक्षणम् । उपवीते **कण्ठसज्जने** कण्ठप्रक्षिप्ते सति **निवीती भवति **। एवं स्थिते सति **उद्धृते दक्षिणे **बाहौ **उपवीती** भवति । वाम उद्धृते** प्राचीनावीती**त्य् एवं लक्षण्द्वयप्रसिद्ध्यर्थम् इह । एवं निवीतलक्षणं मनुष्यकार्यार्थं च “निवीतं मनुष्याणाम्” इति श्रुतेः । प्राचीनावीतीति सञ्ज्ञा । वृत्तानुरोधात् तु **प्राचीन आवीती**त्य् उक्तम् । एतच् च पित्र्ये कर्मणि ॥ २.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	A twice-born man is called upavitin when his right arm is raised (and the sacrificial string or the dress, passed under it, rests on the left shoulder); (when his) left (arm) is raised (and the string, or the dress, passed under it, rests on the right shoulder, he is called) prakinavitin; and nivitin when it hangs down (straight) from the neck.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

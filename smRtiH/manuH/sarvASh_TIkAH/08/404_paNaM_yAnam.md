@@ -70,6 +70,16 @@ river whose width is within an arrow-reach is 8 *māṣas*; for crossing a river
 water, it is one *māṣa*; it is to be one and a half times these in the case of women...... If a man swims a river-crossing, he should he made to pay a sum hundred times of the toll.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"भाण्डपूर्णानि यानानि” ( म स्मृ, ८-४७५ ) इति वक्ष्यति । तेन रिक्तराकटादि यानं तरविषये पणं दाप्यम् । एवं पुरुषभारोऽर्धपणं तरपण्यं दाप्यः।पशुश्च गवादिः पगवतुर्थभागं भाररहितो मनुष्यः पणाष्टभागं दापनीयः ॥ ४०४ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पणम्** इति । भाण्डपूर्णानि यानि तानीति वक्ष्यति अतो रिक्तं गन्त्र्यादितरमूल्यं पणं राजा (राज्ञा?) दाप्यम् । एवं पुरुषवाह्यो भारो ऽर्धपणं दाप्यः । गवादिश् च पशुः स्त्री च पणचतुर्भागं दापनीयो भाण्डरहितो मनुष्यः पणाष्टभागं दापनीयः ॥ ८.४०४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 रिक्तं **यानं** रथादि पणं दद्यात् । पुरुषवाह्यो भारो ऽर्धपणम् । प्रकृतस्य पणस्य **पादं पशुश् च** रिक्तका **योषिच् च** । **पादार्धं रिक्तकः पुमान्** ॥ ८.४०२ ॥

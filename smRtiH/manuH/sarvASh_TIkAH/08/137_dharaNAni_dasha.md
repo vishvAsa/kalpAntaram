@@ -35,6 +35,11 @@ This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava* 
 See Comparative notes for [Verse 8.131].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दश रुप्यधरणानि रौप्यशतमानो ज्ञातव्यः । चतुर्भिः सुवर्णेर्निष्कः प्रमाणेन बोद्धव्यः ॥१३७॥
+</details>
+
 <details><summary>Bühler</summary>
 
 137	Know (that) ten dharanas of silver make one satamana; four suvarnas must be considered (equal) in weight to a nishka.

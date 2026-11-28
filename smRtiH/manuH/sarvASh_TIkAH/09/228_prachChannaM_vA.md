@@ -43,6 +43,11 @@ notes:—‘*Yatheṣṭam*’ *i.e*. after duly examining the nature of the gui
 See Comparative notes for [Verse 9.227].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मनुष्यस्तद् दयूतं गृहं प्रकटं वा कृत्वा सेवेत तस्य यथा नृपतेरिच्छा भवति तथाविधो दण्डो भवति॥ २२८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति येन येन दण्डप्रकारेण द्यूतनिवृत्तः स्यात् तं तं दण्डप्रकारं कल्पयेद् आत्मेच्छया ॥ ९.२२८ ॥

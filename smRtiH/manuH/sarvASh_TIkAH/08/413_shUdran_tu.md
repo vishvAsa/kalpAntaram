@@ -35,11 +35,19 @@ This verse is quoted in *Vivādaratnākara* (p. 154), which explains the meaning
 See Comparative notes for [Verse 8.410].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शुद्रं पुनर्भक्तादिभृतमभृतं वा दास्यंकारयेत् । यस्मादसौ ब्राह्मणस्य दास्यायैव प्रजापतिना सृष्टः ॥ ४१३ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्रम्** इति । शूद्रं पुनर् भक्तादिना भृतम् अभृतं वा दास्यं कारयेत् । यस्माद् असौ ब्राह्मणदासा(-दास्या)र्थम् एव प्रजापतिना सृष्टः ॥ ८.४१३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 भक्तदासक्रीतयोर् अयं कर्तव्यतायां विशेषो नास्ति । ब्राह्मणग्रहणं च द्विजातिप्रदर्शनार्थम् ॥ ८.४११ ॥
-
-_एवं च सति —_
 </details>
 
 <details><summary>Bühler</summary>

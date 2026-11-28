@@ -40,11 +40,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 336) along with verse 
 ‘*dharmaḥ*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्यैते त्रयो मातृपित्राचार्या आदृताः सत्कृतस्तस्य सर्व धर्माः फलदाभवन्ति । यस्तैते त्रयोऽनादृतास्तस्य सर्वाणि श्रौतस्मार्तकर्माणि निष्फलानि भवन्ति ॥२३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्व** इति । **सर्वे **यागादयो **धर्माः तस्य **फलदानोन्मुखा भवन्ति येन मातृपित्राचार्या **आदृताः **आराधिताः । येन पुनस् एते न परितोषिताः **तस्य सर्वा **यागादिक्रिया **निष्फला इति **शुश्रूषाविध्यर्थवादः ॥ २.२३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -47,6 +47,11 @@ to the entire property; the son begotten on one’s wife by another man takes th
 parts, of which two shall go to the father, two to the body-born son, three between the sons begotten on one’s wife by another man and the son of the appointed daughter; and one each to the rest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+औरसः पुत्रः पितृसम्बन्धिदायंविभजन्क्षेत्रस्य षष्ठमंशं पञ्चमं वा दद्यात् । निर्गुणसगुणापेक्षश्चायं विकल्पः ॥ १६४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 क्षेत्रजस्य तृतीयो ऽयं विकल्पो नियुक्तासुतस्य मुख्यत्वात् । षष्टपञ्चमभागविकल्पश् च गुणापेक्षः ॥ ९.१६४ ॥

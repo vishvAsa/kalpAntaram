@@ -33,11 +33,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 862);—and in
 *Hemādri* (Dāna, p. 603).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यपि 'गुणदोषौ च यस्य यौ” ( म. स्मृ. ३ /२२ ) इति गुणाभिधानमपि प्रतिज्ञातमेव तथापि बहूनामर्थानां तत्र वक्तव्यतया प्रतिज्ञातत्वाद्विशेषज्ञापनार्थः पुनरुपन्यासः । एषां विचाहानामिति निर्धारणे षष्ठी । एषां मध्ये यस्य विवाहस्य यो गुणो मनुना कथितस्तत्सर्वं हे विप्राः ! मम कथयतः शृणुत ॥३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । **एषां** विवाहादीनां मध्यात् यस्य विवाहस्य यत् फलं मनुना कथितं तत् सर्वं **मम **यथावत् कथयतो **विप्राः शृणुत** ॥ ३.३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

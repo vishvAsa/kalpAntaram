@@ -33,6 +33,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 413); in
 See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मद्यपानं, अक्षैः क्रीडा, स्त्रीसम्भोगो, मृगया चेति क्रमपठितमेतच्चतूष्कं कामजव्यसनमध्ये बहुदोषत्वादविशयेन दुःखहेतुं जानीयात्॥५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पानम्** इति । मदपर्यन्तं **पानम् **अक्षक्रिडा स्त्रीसम्प्रयोगो मृगया चेत्य् एतत् क्रमपठितं कामजगणं मध्वाधीनेषु व्यसनेषु चतुष्कम् अतिशयेन दुःखहेतुं बहुतरदुःखहेतुत्वाज् जानीयात् ॥ ७.५० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दिवास्वप्नादिभ्यो ऽयं चतुष्को कष्टतर इति प्रसिद्धम् इतीदं व्याख्येयम् ॥ ७.५० ॥

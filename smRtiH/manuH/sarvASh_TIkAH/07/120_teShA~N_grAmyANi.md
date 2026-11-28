@@ -41,6 +41,16 @@ their duties, he shall make divisions and sub-divisions among them; and he shall
 officers appointed in the kingdom, through his spies, the king shall honour the honest and punish the dishonest; those addicted to bribery be shall banish after confiscating their property, and he shall retain the Vedic scholars with due honour and gifts.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां ग्रामनिवासिप्रभृतीनां परस्परविप्रतिपत्तौ यानि ग्रामभवानि कार्याणि, कृताकृतानि च पृथक्कार्याणि, तान्यन्यो राज्ञो हितकृत्तन्नियुक्तोऽनलसः कुर्वीत ॥१२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । एवं ग्रामाधिपतिप्रभृतीनां यानि ग्रामनिवासकार्याणि, तदश्क्यप्रतिसन्धानानि यानि च तेषां सम्बन्धीनि कृताकृतानि वान्यान्य् अपि राज्ञा नियुक्तो ऽनलसो भूत्वावेक्षेत ॥ ७.१२० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अधिपतीनां कर्ता कृतितस् तत्कृताकृतम् अनुपश्येत् ॥ ७.१२० ॥

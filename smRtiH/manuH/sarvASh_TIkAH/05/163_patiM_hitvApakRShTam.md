@@ -7,11 +7,6 @@ title = "163 पतिं हित्वापकृष्टम्"
 She, who, having abandoned her own husband who is inerior, has recourse to another person who is superior, becomes contemptible in this world and is called a ‘remarried woman.’—(161).
 </details>
 
-<details><summary>मेधातिथिः</summary>
-
-_न केवलं निन्दाम् एव येन, _
-</details>
-
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 It is not only Contempt and disgrace that is hers; but something more (described in the next verse).—(161).
@@ -34,11 +29,20 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 30);—and in
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपकृष्ट क्षत्रियादिकं स्वकीयंपतिं त्यक्त्वोत्कृष्टब्राह्मणादिकं या आश्रयति सा लोके गर्हणीयैव भवति । परोऽन्यः पूर्वो भर्ताऽस्या अभूदिति च लोकैरुच्यते ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पतिम्** इति । या क्षत्रियादिका स्वं पतिं परित्यज्य उत्कृष्टं ब्राह्मणादिकम् आश्रयति सा उत्कृष्टसेवनेनापि गर्हणीयैव लोके भवति । परो ऽन्यो भर्ता पूर्वो यस्याश् सा परपूर्वेत्य् एवं च लोके उच्यते ॥ ५.१६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 163	She who cohabits with a man of higher caste, forsaking her own husband who belongs to a lower one, will become contemptible in this world, and is called a remarried woman (parapurva).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

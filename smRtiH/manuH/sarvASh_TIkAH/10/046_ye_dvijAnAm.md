@@ -12,11 +12,8 @@ The base-born sons of the ‘twice-born,’ as also those who have been declared
 
 **अपसदा** अनुलोमाः प्रतिलोमाः, **अपध्वंसजाः,** गोबलीवर्दवद् भेदः । **द्विजानाम्** उपयोगिभिः प्रेष्यकर्मभिर् **वर्तयेयुः** आत्मानम्[^१२३] । **निन्दितैः** प्रेष्यकार्यत्वान् निन्दितानि ॥ १०.४६ ॥
 
-
 [^१२३]:
      M G: ātmāno
-
-_तथा च वक्ष्यते ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,6 +36,16 @@ performances;—*Pukkasas*, by hunting;—*Māgadhas*, by proclaiming the good q
 
 *Śaṅkha* (Aparārka, p. 119).—‘The livelihood of the *Rathakāra* consists
 of training horses, driving chariots, masonry and the teaching of the science of Architecture.’
+</details>
+
+<details><summary>कुल्लूकः</summary>
+
+ये द्विजानामानुलोम्येनोत्पन्नाः “षडेतेऽपसदाः स्मृताः" (म० स्मृ० १०-१० ) इति। तेषामपि पितृतो जघन्यत्वेनापसदशब्देन प्रागभिधानादपध्वंसजास्ते द्विजात्युपकारकैरेव निन्दितैर्वक्ष्यमाणैः कर्मभिर्जीवेयुः॥ ४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । ये द्विजानां प्रातिलोम्येनोत्पन्ना ये च द्विजातिभिर् अपि शूद्रायाम् आनुलोम्येन जातास् ते द्विजात्युपकारकैर् एव अनिन्दितैः कर्मभिः जीवेयुः ॥ १०.४६ ॥
 </details>
 
 <details><summary>भारुचिः</summary>

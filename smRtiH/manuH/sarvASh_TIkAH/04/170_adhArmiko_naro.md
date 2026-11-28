@@ -25,11 +25,22 @@ This is supplementry to the prohibition of Injury in general.
 Such a man does not obtain happiness in this world.—(170).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधर्मेण व्यवहरतीत्यधार्मिकः शास्त्रप्रतिषिद्धागम्यागमनाद्यनुष्ठाता यो मानुषो, यस्य च साक्ष्ये व्यवहारनिर्णयादौ च मिथ्याऽभिधानसेव धनोपायोऽसत्यमभिधायोत्कोचधनं गृह्णाति,
+
+यश्च परहिंसाऽभिरतः, नासाविह लोके सुखयुक्तो वर्तते । तस्मादेतन कर्तव्यमिति निन्दया निषेधः कल्प्यते ॥१७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधार्मिक** इति । यस्माद् **यो नरः **अधर्माचरणशीलो **यस्य **वा असत्यम् एव धनं तत् प्राधान्येन व्यवहाराख्यं सर्वदा हिंसानिरतः स इह लोके ऽपि न सुखं वर्धते । तस्माद् एतन् न कार्यम् ॥ ४.१७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

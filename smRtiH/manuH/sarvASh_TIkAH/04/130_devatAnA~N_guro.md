@@ -54,11 +54,20 @@ priest, an accomplished student, the teacher, the king, and another man’s wife
 shadow of a deity, the twice-born, the teacher, the wise man, the accomplished student, the preceptor and the minister; also of the tawny cow;—nor should he allow his own shadow to be stepped over by a eunuch or an outcast or a Caṇḍāla, or his enemies, or by a diseased person.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवतानां पाषाणादिमयीनां गुरोः पित्रादेः, नृपतेः, स्नातकस्याचार्यस्य च ।गुरुत्वेऽप्याचार्यस्य प्राधान्यविवक्षया पृथङ्निर्देशः । बभ्रुणः कपिलस्य, यज्ञे दीक्षितस्यावभृथस्नानात्पूर्वमिच्छया छायां नाक्रामेत् । चशब्दाचाण्डालादीनामपि ।कामत इत्यभिधानादबुद्धिपूर्वके न दोषः ॥१३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**देवतानाम्** इति । **देवतानां **चित्रपुस्तकादिकृतानां **गुरोः** पित्रादेः नृपतेः **स्नातकाचार्यस्य **च प्राधान्याद् गुरुतः पृथगुपदिष्टस्य कपिलस्य यज्ञार्थं कृतदीक्षस्येच्छातः **छायां नाक्रामेत् **॥ ४.१३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 130	Let him not intentionally step on the shadow of (images of) the gods, of a Guru, of a king, of a Snataka, of his teacher, of a reddish-brown animal, or of one who has been initiated to the performance of a Srauta sacrifice (Dikshita).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

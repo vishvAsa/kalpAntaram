@@ -40,6 +40,16 @@ This is quoted in *Aparārka* (p. 814);—in *Mitākṣarā* (2.215), to the eff
 See Comparative notes for [Verse 8.279].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रहर्तु पाणिं दण्डं वोद्यम्य पाणिच्छेदं लभते । पादेन कोपात्प्रहरणे पादच्छेदं प्राप्नोति ॥२८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पाणिम् उद्यम्येति **। हस्तं दण्डं वावगूर्य हस्तच्छेदनयोग्यो भवति । पादेन क्रोधेन प्रहरन् पादच्छेदनार्हो भवति ॥ ८.२८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 280	He who raises his hand or a stick, shall have his hand cut off; he who in anger kicks with his foot, shall have his foot cut off.

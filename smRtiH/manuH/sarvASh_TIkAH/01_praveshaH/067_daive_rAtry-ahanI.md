@@ -18,6 +18,16 @@ One ‘year’ (of men) forms the ‘Day and Night’ of the Gods; and the divis
 ‘*One year*,’ of men,—*i.e*., twelve months,—‘*forms* *the Day and Night of the Gode*.’—The division of these is by means of the ‘Northern Course’ and the ‘Southern Course’; the six months during which the Sun moves towards the North is the ‘Northern Course,’ ‘*Udagayanam*’; the term ‘*ayana*’ standing for *moving* or *occupying*; the meaning being that during the six months the Sun rises towards that particular quarter. Turning hack from that, there comes the ‘Southern course’; during these six months the Sun abandons the Northern quarters and rises towards the South.—(67)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मानुषाणां वर्षं देवानां शत्रिदिने भवतः। तयोरप्ययं विभागः-नराणामुदगयनं देवानामहः, तत्र प्रायेण दैवकर्मणामनुष्ठानम्। दक्षिणायनं तु रात्रिः॥६७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवे** इति । मानुष्यं **वर्षं **देवानाम् अहोरात्रम् । तत्र चोत्तरायणम् **अहो** **दक्षिणायनं रात्रिर्** इति विभागः ॥ १.६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 067	A year is a day and a night of the gods; their division is (as follows): the half year during which the sun progresses to the north will be the day, that during which it goes southwards the night.

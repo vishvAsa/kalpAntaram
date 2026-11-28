@@ -42,6 +42,16 @@ clarified butter. If he has killed a partridge, he must give a *Droṇa* of sesa
 five *nīla* bulls: for killing a parrot, a calf two years old; for killing an ass, a goat or a ram, he should give a bullock; and for killing the purlew, a calf three years old. For killing a swan, a kite, a monkey, a carnivorous animal, or birds flying in the air or walking on the ground, or a peacock, he shall give a cow; hut only a heifer, for killing a non-carnivorous animal. For killing a partridge, he shall give a *Droṇa* of sesamum.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सूकरे हते घृतपूर्णं घटं ब्राह्मणाय दद्यात्। तित्तिरिसंज्ञिनि पक्षिणि हते चतुराढकपरिमाणं तिलंदद्यात्। शुके हते द्विवर्षं वत्सम्। क्रौञ्चाख्यं पक्षिणं हत्वा त्रिवर्षंवत्सं ब्राह्मणाय दद्यात्॥ १३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**घृतकुम्भम्** इति । शूकरे हते घृतपूर्णं घटं दद्यात् तित्तिराख्ये पक्षिणि हते तिलानां पलशतद्वयं दद्याच् छुके हते द्विवर्षं वत्सम् । क्रौञ्चाख्यं पक्षिणं हत्वा त्रिवर्षं वत्सं दद्यात् ॥ ११.१३३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	For a boar a pot of clarified butter, for a partridge a drona of sesamum-grains, for a parrot a calf two years old, for a crane (a calf) three years old.

@@ -50,6 +50,11 @@ Cāṇḍāla, or one who has committed a heinous crime, or a newly delivered wo
 his wife before she has bathed or when she is ill, or in her courses.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रमत्तः कामार्तोऽपि रजोदशने निषिद्धस्पर्शदिनत्रये स्त्रियं नोपगच्छेत् । स्पर्श निषेधेनैव **“तासामाद्याश्चतस्रः”**इति निषेधसिद्धौ प्रायश्चित्तगौरवार्थं स्नातकव्रतत्वार्थं च पुनरारम्भः । न चागच्छन्नपि तया सहैकशय्यायां सुप्यात ॥४०॥
+</details>
+
 <details><summary>Bühler</summary>
 
 040	Let him, though mad with desire, not approach his wife when her courses appear; nor let him sleep with her in the same bed.

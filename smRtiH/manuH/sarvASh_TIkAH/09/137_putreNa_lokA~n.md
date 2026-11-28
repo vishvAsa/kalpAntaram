@@ -51,6 +51,12 @@ respectively through the son, the grandson and the great-grandson,’
 Sacrifices with hundreds of sacrificial fees,—these are not equal even to the sixteenth part of the birth of the first-born son; for one who has secured sons and grandsons during his life-time and while he is still performing sacrifices without interruption, the heaven is always within grasp.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पुत्रेण जातेन स्वर्गादिलोकान्प्राप्नोतीति। पौत्रेण तेष्वेव
+चिरकालमवतिष्ठते। तदनन्तरंपुत्रस्य पौत्रेणादित्यलोकं प्राप्नोति। अस्य च दायभागप्रकरणेऽभिधानं पितुर्धने पत्न्यादि सद्भावेऽपि पुत्रस्य तदभावे पौत्रस्येत्येवं पुत्रसन्तानाधिकारबोधनार्थम्॥ १३७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दौहित्रप्रशंसार्थः श्लोकः । कथम् । पौत्र एवायं दौहित्र इति कृत्वा स्तूयते मृतस्योपकारविशेषसंबन्धेन । कथम् । पुत्रिणो हि प्रमीताः पितृगणापन्नाः पितृवत् पूजार्हाः पुत्रपौत्रप्रपौत्रैर् विधिसामर्थ्याद् उपहृतस्य कव्यस्य प्रतिग्रहमात्रभोगाद् आ चतुर्थात् पुरुषात् संसारम् आपन्नाः तत्रासत इति । शास्त्रसामर्थ्याद् एतद् गम्यते । एवं हि पुत्रादिभिर् लोकादीञ् जयतीत्य् अयं संस्तव उपपद्यते । तथा च नामधेयनिर्वचनम् अत्र दर्शयति ॥ ९.१३७ ॥

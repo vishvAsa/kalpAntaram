@@ -26,6 +26,16 @@ that by directing him to explain the Law, Manu shows that the Law has come down 
 This Verse is quoted by the Aparārka (p. 4) with a view to show that the writer of a work often quotes himself,—and wherever *manurabravīt* occurs, it is Manu’s own words that are quoted, not those of Bhṛgu, the compiler.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतच्छास्त्रमयं भृगुः युष्माकमखिलं कथयिष्यति। यस्मादेषोऽशेषमेतन्मत्तोऽधीतवान्॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** इति । **अयं भृगुः एतच् छास्त्रं** युष्माकम् **अशेषं श्रावयिष्यति** यस्माद् **एतत् सर्वं** मत्सकाशाद् **एषो ऽखिलं** कृत्वा अधिगतवान् ॥ १.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.

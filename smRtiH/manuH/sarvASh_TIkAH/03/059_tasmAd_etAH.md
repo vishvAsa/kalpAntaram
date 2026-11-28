@@ -34,11 +34,20 @@ This verse is quoted in *Vivādaratnākara* (p. 418);—and in
 they should be respected by the man desiring his own welfare; when loved and fondled, woman becomes the veritable Goddess of Prosperity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादेवं तस्मात्कारणादेता भूषणाच्छादनाशनैर्नित्यं सत्कारेषु कौमुद्यादिषु, उत्सत्रेषुपनयनादिषु आभ्युदयिकेषु समृद्धिका मैर्नृभिः सदा पूजनीयाः ॥५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् एवं **तस्माद् एताः सदा**ब्यर्च्याः इति । **भूतिकामैर् नरैर् नित्यं सङ्करेषूत्सवेषु च** । तस्मात् कारणात् एताः सङ्करेषु कौमिदीमहानवम्यादिषु उपनयनादिषु च सर्वकामैः मनुष्यैः आभरणवस्त्रभोजनैः नित्यम् अभिपूजनीयाः ॥ ३.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	Hence men who seek (their own) welfare, should always honour women on holidays and festivals with (gifts of) ornaments, clothes, and (dainty) food.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

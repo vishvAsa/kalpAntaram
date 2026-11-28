@@ -45,6 +45,16 @@ perform the *Prājāpatya* penance.’
 perform the *Kṛcchra* penance, and then complete the rest of the vows.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो ब्रह्मचारी माक्षिकं मांस वा अनिच्छात आपदि वाऽद्यात्स प्राजापत्यं कृत्वा प्रारब्धब्रह्मचर्य व्रतशेषं समापयेत्॥ १५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**व्रतचारीति **। यो ब्रह्मचारी माक्षिकमांसं वानिच्छात आपदि वाश्नीयात् स प्राजापत्यं कृच्छ्रं कृत्वा ततो ब्रह्मचर्य् अक्रान्तस्य व्रतस्य यद् अशिष्टं तत् समापयेत् ॥ ११.१५७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 श्राद्धे, अन्यत्र वा ॥ ११.१५७ ॥

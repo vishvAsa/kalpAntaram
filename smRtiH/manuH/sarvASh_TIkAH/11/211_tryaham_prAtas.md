@@ -83,6 +83,29 @@ another three days in the morning only; for further three days, food given unsol
 threefold, it is called Prājāpatya. \[ *Pāda-Kṛcchra* being that in which the man eats once only during the day and night on one day, on the next day at night only, on the third day, food got unasked, and on the fourth day he fasts\].’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्राजापत्याख्यं कृच्छ्रमाचरन्द्विजातिराद्यंदिनत्रयं प्रातर्भुञ्जीत।प्रातःशब्दोऽयं भोजनानामौचित्यप्राप्तदिवाकालपरः। अत एव वसिष्टः—"त्र्यहं दिवा भुङ्क्तेनक्तमत्ति च त्र्यहं त्र्यहंअयाचितव्रतं त्र्यहं न भुङ्क्ते" इति च कृच्छ्रः। आपस्तम्बोऽप्याह—"त्र्यहं नक्ताशी दिवाशी च ततस्त्र्यहम्। त्र्यहमयाचितव्रतस्त्र्यहं नाश्नाति किंचन॥” इति कृच्छ्रद्वादशरात्रस्य विधिः। अपरं च दिनत्रयं सायंसंध्यायामतीतायां भुञ्जीत।अन्यद्दिनत्रयमयाचितं तावदन्नं भुञ्जीत। शेषं च दिनत्रयंन किचिदश्नीयात्। अत्र ग्रासहसंख्यापरिमाणापेक्षायांपराशरः—
+
+**सायं द्वात्रिंशतिर्ग्रासाः प्रातः षड्विंशतिस्तथा।  
+अयाचिते चतुर्विंशत्परं चानशनं स्मृतम्॥  
+कुक्कुटाण्डप्रमाणं च यावांश्च प्रविशेन्मुखम्।  
+एतं ग्रासं विजानीयाच्छुद्ध्यर्थं ग्रासशोधनम्॥  
+हविष्यं चान्नमश्नीयाद्यथा रात्रौ तथा दिवा।  
+त्रींस्त्रीण्यहानि शास्त्रीयान्ग्रासान्संख्याकृतान्यथा॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**त्र्यहम्** इति । प्राजापत्याख्यं कृच्छ्रं द्विजातिः कुर्वन् त्र्यहम् आद्यं दिनादाव् अश्नीयाद् अपरं त्र्यहं दिनान्ते भुञ्जीत । अन्यं त्र्यहम् अप्रार्थितम् उपनतम् अद्यात् परं त्र्यहान् न किञ्चिद् भक्षयेत् । अत्र “हविष्यात् प्रातर् असौ [आशान्]” इति [ग्ध् २६.२] गौतमस्मरणाद् धविष्यम् अदितव्यम् । ग्राससङ्ख्या च । 
+
+> सायं च द्वादशग्रासाः प्रातः पञ्चदश स्मृताः ।
+
+> षट्त्रिंशतिर् अयाच्याः स्युः परं निरशनं स्मृतम् ॥
+
+इति पाराशरोक्त्या विज्ञेयम् ॥ ११.२१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 212	A twice-born man who performs (the Krikkhra penance), revealed by Pragapati, shall eat during three days in the morning (only), during (the next) three days in the evening (only), during the (following) three days (food given) unasked, and shall fast during another period of three days.

@@ -50,11 +50,20 @@ This verse is quoted in Mitākṣarā (on 1.130);—in *Aparārka* (p. 170), whi
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधोदृष्टिर्निजविनयख्यापनाय सतततमध एव निरीक्षते । निष्कृतिष्ठुिरता तया चरतीति नैष्कृतिकः ।स्वार्थसाधनतत्परः परार्थखण्डनेन । शठो वक्रः ।मिथ्याविनीतः कपटविनयवान् ।बकव्रतं चरतीति बकव्रतचरः ।बको हि प्रायेण मीनहननरुचितया मिथ्याविनीतः सन्नवंशीलो भवतीति गौणो बकव्रतशब्दः ॥१९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधोदृष्टिर् नैष्कृतिक** इति । **अधोदृष्टिर्** विनीतत्वख्यापनार्थम् । अध एव निरीक्षते । **नैष्कृतिकः **नैष्ठुर्यव्यवहारी **स्वार्थसाधनतत्परः **स्वार्थसाधननिष्ठः** शठः** परान्नस्योपेक्षकः** मिथ्याविनीतः **कपटे प्रश्रयवान् यः स बकवृत्तेन चरति इति **बकव्रतधरो** ब्राह्मणः ॥ ४.१९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 196	That Brahmana, who with downcast look, of a cruel disposition, is solely intent on attaining his own ends, dishonest and falsely gentle, is one who acts like a heron.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -46,11 +46,20 @@ Vedic text, or country or family or name or learning—when a Brāhmaṇa travel
 Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or family.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भोजनलाभार्थे ब्राह्मणः स्वकुलगोत्रे न निवेदयेत् । यस्माद्भोजनार्थं ते कथयन्नुकीर्णाशी ति पण्डितैः कथ्यते ॥१०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+प्रसङ्गात् भोक्तृधर्मम् आह **न भोजनार्थम्** इति । **भोजन**लाभ्**आर्थं विरः स्वे कुलगोत्रे** न कथयेत् यस्मात् **भोजनार्थं ते** कथयन् उद्गीर्णाशीति विद्वद्भिः कथ्यते ॥ ३.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

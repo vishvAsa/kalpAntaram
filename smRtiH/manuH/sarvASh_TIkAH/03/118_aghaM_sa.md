@@ -79,11 +79,24 @@ nor shall he kill animals for himself; one who cooks for the sake of gods and fo
 without having repeated mantras, eats pus and blood; he who eats without having offered Homa, eats insects; and he who eats food without offering it to others, eats poison.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ यद्यदिष्टतमं लोके यच्चास्य दयितं गृहे ।**
+
+**तत्तद् गुणवते देयं तदेवाक्षयमिच्छता ॥७॥ \]**
+
+यस्त्वात्मार्थमेवान्नं पक्त्वा भुङ्क्ते देवादिभ्यो न ददाति स पापहेतुत्वात्पापमेव केवलं भुङ्क्ते नान्नम् । तथा च श्रुतिः —"केवलाघोभवति केवलादी” ।यस्माद्यदेव पाकयज्ञावशिष्टमशनमन्नमन्यत् एतदेव साधूनामन्नमुपदिश्यते इति ॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अघम्** इति । **य** आत्मार्थम् एव **पचति** न देवादिभ्यो ददाति **स **पापहेतुतात् पापम् एव **केवलं भुङ्क्ते** नान्नलेशम् अपि यस्मात् यद् **एतत्** पाकयज्ञशिष्टाशनं साधूनाम् **अन्नम्** उपदिश्यते ॥ ३.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	He who prepares food for himself (alone), eats nothing but sin; for it is ordained that the food which remains after (the performance of) the sacrifices shall be the meal of virtuous men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

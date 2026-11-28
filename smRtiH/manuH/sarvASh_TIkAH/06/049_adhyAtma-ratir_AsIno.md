@@ -41,6 +41,16 @@ pain, the Vedas, this world and the next, he shall seek the Ātman.’
 who constantly dwells in the forest, who has subdued his organs of sensation and action, who has renounced all sensual gratification, whose mind is fixed in meditation on the Supreme Spirit, and who is indifferent (to all things).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ह्याधिकृत्य रतिर्यस्य सोऽध्यात्मरतिः सर्वदा ब्रह्मध्यानपरः, आसीन इति वासननिष्ठः, निरपेक्षो दण्डकमण्डल्वादिष्वपि विशेषापेक्षाशून्यः, निरामिषः स्तदभिलाषरहितः, आत्मनो देहेनैव सहायेन मोक्षसुखार्थी इह संसारे वि—
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अध्यात्मरतिर्** इति । उपनिषदाद्यध्यात्मवृत्तिः सन् दण्डकमण्डल्वादिष्व् अपगताविशेषापेक्षो निःस्पृहो असहायः सण् सुखान्य् अस्मिन् संसारे विचरन् ॥ ६.४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 049	Delighting in what refers to the Soul, sitting (in the postures prescribed by the Yoga), independent (of external help), entirely abstaining from sensual enjoyments, with himself for his only companion, he shall live in this world, desiring the bliss (of final liberation).

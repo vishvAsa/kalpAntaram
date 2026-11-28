@@ -39,6 +39,11 @@ This verse is quoted in *Vivādaratnākara* (p. 658), which adds that the term �
 those who have committed sins and those born of inverse marriages should suffer beating, and not monetary punishment.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीबालादीनां पुनः शिफावेणुदलप्रहाररज्जुबन्धनादिभिर्दमनं राजा कुर्यात्॥ २३७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 विकर्मस्थानाम् एतद् अपराधानुरूपतः शिफादिभिस् ताडनम् । न पातकिनाम् अपि चापलता विज्ञेया ॥ ९.२३० ॥

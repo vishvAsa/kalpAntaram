@@ -48,6 +48,16 @@ from a Śūdra.’
 obtained in alms from a Śūdra, he becomes a *Caṇḍāla*.—If one does not offer away in a sacrifice what he has obtained for that purpose, one becomes a Bhāsa bird or a crow.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यज्ञसिद्धये धनं ब्राह्मणः कदाचिन्न शूद्राद्याचेत। यस्माच्छूद्राद्याचित्या यज्ञं कुर्वाणो मृतश्चण्डालो भवति। अतो याचननिषेधाच्छूद्रादयाचितोपस्थितं यज्ञार्थमन्यविरुद्धम्॥ २४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न यज्ञार्थं धनं शूद्राद् विप्रो भिक्षेत धर्मविद्** इति । धर्मज्ञो ब्राह्मणो ज्योतिष्टोमादियज्ञसम्पत्त्यर्थे शूद्राद् धनं न भिक्षेत । यस्माच् छूद्राद् धनं भिक्षित्वा यो यजते स जन्मान्तरे चाण्डालो जायते ॥ ११.२३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **न यज्ञार्थं धनं शूद्राद् विप्रो भिक्षेत धर्मवित् ।**

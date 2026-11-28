@@ -25,6 +25,16 @@ The prohibition of wandering about at night in villages, and cities is with a vi
 “Govindarāja and Nārāyaṇa take the beginning of the verse differently—Their food shall be given to them by others in a broken vessel.”—Buhler.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्नमेषां परायत्तंकार्यं, साक्षादेभ्यो न देयं किन्तु प्रेष्यर्भिन्नपात्रे दातव्यम् । ते च रात्रौग्रामनगरयोर्न, पर्यटेयुः ॥ १४ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्नम्** इति । अन्नं चैषां परायत्तं न तु स्वतः साधितम् । तच् च भिन्नपात्रे एषां दातव्यम् । ते च रात्रौ ग्रामनगरयोर् न पर्यटेयुः ॥ १०.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	Their food shall be given to them by others (than an Aryan giver) in a broken dish; at night they shall not walk about in villages and in towns.

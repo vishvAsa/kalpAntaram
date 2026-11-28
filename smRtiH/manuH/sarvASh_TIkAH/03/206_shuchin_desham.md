@@ -50,11 +50,20 @@ should avoid a place which is very dry, full of insects, damp, evil-smelling, wh
 which is full of living beings, very dry, burnt by fire, where disagreeable and harsh sounds are heard and which is evil-smelling.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्थ्यङ्काराद्यनुपहत्तं देशं निर्जनं च गोमयेनोपलेपयेत् । दक्षिणादिगवनतं च प्रयत्नतः सम्पादयेत् ॥२०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शुचिम्** इति । अनुपहतं **देशं** जनैर् अनाकीर्णं गोशकृता **उपलेपयेत् **। अथ वा दक्षिणस्यां दिशि अवनतो यदि स्वभावतो न स्यात् तदा प्रयत्नतः तं सम्पादयेत् ॥ ३.२०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 206	Let him smear a pure and secluded place with cowdung, and carefully make it sloping towards the south.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

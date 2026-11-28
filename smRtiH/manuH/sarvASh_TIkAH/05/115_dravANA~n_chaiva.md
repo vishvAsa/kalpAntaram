@@ -96,11 +96,20 @@ heap by sprinkling water; liquids by straining.’
 113.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्रवाणां घृततैलानां काककीटाद्युपहतानां बौधायनादिवचनात्प्रसृतिमात्रप्रमाणानां प्रादेशप्रमाणकुशपत्रद्वयाभ्यामुत्पवनेन शुद्धिः। संहतानां च शय्यादीनामुच्छिष्टाद्युपघाते प्रोक्षणं, दारवाणां चात्यन्तोपघाते तक्षणेन ॥११५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**द्रवाणाम्** इति । **द्रवाणां **घृतादीनां बौधायनाद्यभिहितप्रस्थमात्रप्रमाणानां श्वकाकाद्युच्छिष्टानाम् अमेध्यसंसर्गकोटाद्युपहतानाम् अमेध्यस्पृष्टद्रव्यस्पृष्टानां चोत्प्लवनम् “कुशाग्राभ्यां पवमानः सुवर्जन” इत्य् अनुवाकेनेति स्मृत्यन्तरोक्तो दधिदुग्धप्रक्षेपणपर्यन्तः । समानजातीयद्रव्यसेवनं वा स्मृतम् । संहतानां च शयनादीनाम् उच्छिष्टाद्युपहतानां क्षालितैकदेशानाम् अभ्युक्षणं दारुमयानां चोच्छिष्टलेपाद्युपहतानां तक्षणम् ॥ ५.११५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 115	The purification prescribed for all (sorts of) liquids is by passing two blades of Kusa grass through them, for solid things by sprinkling (them with water), for (objects) made of wood by planing them.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

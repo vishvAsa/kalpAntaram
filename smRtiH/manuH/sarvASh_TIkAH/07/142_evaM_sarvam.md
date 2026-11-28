@@ -59,6 +59,16 @@ listen to reports relating to defence and income and expenditure; during the sec
 women-archers; in the second apartment by eunuchs armoured and turbaned; in the third, by hump-hacks dwarfs and foresters, and in the fourth, by ministers, relatives and porters with spears.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण सर्वमात्मनः कार्यजातं संपाद्योद्युक्तः प्रमादरहित आत्मीयाः प्रज्ञा रक्षेत् ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **एवम्** उक्तरीत्या **सर्वम् आत्मनः** कार्यजातं सम्पाद्य यत्नवान् बुद्ध्यास्खलन्न् आत्मीयाः **प्रजाः परिरक्षेत्** ॥ ७.१४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	Having thus arranged all the affairs (of) his (government), he shall zealously and carefully protect his subjects.

@@ -52,11 +52,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 353), which adds the f
 See Comparative notes for [Verse 3.102].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकग्रामनिवासिनं लोकेषु विचित्रपरिहासकथादिभिः संगत्या वृत्त्यर्थिनं भार्याग्नियुक्तो गृहे देशकालोपस्थितमपि नातिथिं विद्यात् । एतेन भार्याग्निरहितस्य प्रवासिनो नातिथिरिति बोधितम् ॥१०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नैकग्रामीणम्** इति । समानग्रामनिवासिनं यं च सङ्गत्या लोकयात्रया चरितं विचित्रपरिहासकथाजीवनं यस्य स **भार्याग्नयः **तस्मिन्न् एव ग्रामे सम्प्राप्तः तं वैश्वदेवकाले ऽपि सम्प्राप्तम् अतिथिं न विद्यात् ॥ ३.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -47,6 +47,16 @@ The king should explain the duties to them after having at first ‘*pacified th
 This verse is quoted in *Kṛtyakalpataru* (10a), which explains ‘*sāntvena praśamayya*’ as ‘having allayed all anger and ill-feeling by means of conciliatory words;—and in *Vīramitrodaya* (Vyavahāra, 10a).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो यादृशीं पूजामर्हति तं तथा पूजयित्वा अन्यैर्ब्राह्मणैः सह प्रथमं प्रीत्या अपगतकोपं कृत्वा तत एषां यः स्वधर्मस्तं बोधयेत् ॥ ३९१ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं तर्हि **यथार्हम्** इति । यादृशीं यः पूजाम् अर्हति तं तथा पूजयित्वा अन्यैर् ब्राह्मणैः सह राजा प्रथमशास्त्राद् अपगतकोपात् कृत्वा ततस् तेषां यः स्वधर्मः तं बोधयेत् ॥ ८.३९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 391	Having shown them due honor, he should, with (the assistance of) Brahmanas, first soothe them by gentle (speech) and afterwards teach them their duty.

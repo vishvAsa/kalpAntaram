@@ -51,17 +51,25 @@ invalid, the Soma-seller and the carpenter.’
 sacrifice-seller.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पिशुनः परोक्षे परापवादभाषणपरः, अनृतीत्यतिशयेनानृतवादी कूटसाक्ष्यादिः, क्रतुविक्रयिकः मदीययागस्य फलं तव भवत्वित्यभिधाय यो धनं गृह्णाति, शैलूषो नटः, तुन्नवायः सौचिकः, कृतघ्नो यः कृतोपकारस्यापकारे प्रवर्तते तस्यान भुञ्जीत ॥२१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पिशुनानृतिनोश् चेति** । भषकासत्यवादिक्रतुपुण्यविक्रयिनटसौचिकानां उपकृतापकारिणाम् अन्नं नाश्नीयात् ॥ ४.२१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),
 </details>
 
-
 <details><summary>भारुचिः</summary>
 
 **शैलूषो** ऽनर्थप्रयोगदर्शनाद् भारते- "शौलूष इव राजन्" इति । एवं च सति ब्राह्मणादयो ऽपि तत्कर्माणः तथोच्यन्ते गुणतः । भार्यापण्यम् <u>अपरे</u> **शैलूषम्** आचक्षते ।
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

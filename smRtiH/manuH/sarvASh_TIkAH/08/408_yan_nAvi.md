@@ -33,6 +33,16 @@ When a commodity placed on the boat happen, in course of the crossing, to be dam
 This verse is quoted in *Vivādaratnākara* (p. 642), which explains ‘*dāśa*’ (or as it reads ‘*dāsa*’) as ‘the fisherman and others engaged for rowing the ferry.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नौकारूढानां यत्किंचिन्नाविकापरावेन नष्टं द्रव्यं, तन्नाविकैरेव मिलित्वा यथाभागंदातव्यम् ॥ ४०८ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद्** इति । नावारूढैः प्रदेयं तत्समागम्य स्वतो ऽंशतः । यत् किञ्चिद् द्रव्यं नाविकापराधेन विपद्येत यन् नावारूढेः सम्भूय स्वांशाद् दातव्यम् ॥ ८.४०८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यातः श्लोकः ॥ ८.४०७ ॥

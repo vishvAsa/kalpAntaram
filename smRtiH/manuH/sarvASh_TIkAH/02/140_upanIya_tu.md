@@ -113,11 +113,20 @@ is called the *Ācārya*.’
 truthful in speech, steady, expert, kind to all beings, orthodox, devoted to the Veda and pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो ब्राह्मणः शिष्यमुपनीय कल्परहस्यसहितां वेदशाखां सर्वामध्यापयति तमाचार्यं पूर्वं मुनयो वदन्ति । कल्पो यज्ञविद्या, रहस्यमुपनिषत् । वेदत्वेऽप्युपनिषदां प्राधान्यविव क्षया पृथङ् निर्देशः ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+सोपचारत्वाद् आचार्यादिलक्षणं पूर्ववैचित्र्यार्थम् आह **उपनीयेति** । **यः शिष्यं** उपनयनपूर्वकं कल्पसूत्रोपनिषत्सहितं **वेदम् अध्यापयति तम् आचार्यं** मन्वादय आहुः । **रहस्यस्य **वेदशब्देन ग्रहणे सति प्राधान्यात् पृथग् उपदेशः ॥ १.१४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 140	They call that Brahmana who initiates a pupil and teaches him the Veda together with the Kalpa and the Rahasyas, the teacher (akarya, of the latter).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

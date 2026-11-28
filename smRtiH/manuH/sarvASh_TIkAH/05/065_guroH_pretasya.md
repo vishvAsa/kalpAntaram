@@ -47,11 +47,20 @@ the death of the maternal grandfather, the *Ācārya* and the Vedic Scholar.’
 Father-in-law, the friend, the *Guru* and the Guru’s wife, and the maternal grandmother, one is impure for a night along with the clay preceding and following it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरोराचार्यादेरसपिण्डस्य मृतस्य शिष्योऽन्त्येष्टिं कृत्वा प्रेतनिर्हारकैर्गुरुसपिण्डैस्तुल्यो दशरात्रेण शुद्धो भवति ॥६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरोर्** इति । असपिण्डस्याचार्यादेर् गुरोः प्रेतस्यान्त्येष्टिं शिष्यः कृत्वा प्रेतनिर्हारिकैः पूर्वोक्तैस् तुल्यं दशरात्रेण शुद्ध्यति ॥ ५.६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 065	A pupil who performs the Pitrimedha for his deceased teacher, becomes also pure after ten days, just like those who carry the corpse out (to the burial-ground).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

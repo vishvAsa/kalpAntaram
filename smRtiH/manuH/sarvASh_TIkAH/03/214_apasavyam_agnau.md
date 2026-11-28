@@ -53,6 +53,16 @@ This verse is quoted in *Madanapārijāta* (p. 601) without any comment;—and i
 towards the south-east, he shall draw a line with the mantra *Apahata*, etc.; he shall spread *kuśa* over it and then adopting the *Apasavya* form, he shall sprinkle water over it with the mantra *Śundhantām*, etc.; and then upon the kuśa he shall offer the balls.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अग्नौ पर्युक्षणाद्यङ्गमुक्तंअग्नौकरणहोमानुष्ठानक्रममपसव्यं दक्षिणसंस्थंकृत्वा ततोऽपसव्येन दक्षिणहस्तेन पिण्डाधारभूतायां भुव्युदकं क्षिपेत् ॥२१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपसव्यम् **इति । **अग्नौ** यः पर्युक्षणपरिस्तरणाहुतिदानादीनि कर्तव्यताक्रमः तं सर्वम् अपसव्यपितृकर्मवत् दक्षिणासंस्थं कृत्वा तद् एतद् उदक्संस्थं **अपसव्येन **दक्षिणेन **हस्तेन** पितृतीर्थेन पिण्डाधारभूतायां **भुवि उदकं** प्रक्षिपेत् ॥ ३.२१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).

@@ -62,6 +62,11 @@ The term ‘*pūrva*’ in the compound ‘*Jñānapūrvam*’ denotes *preceden
 This verse is quoted in *Aparārka* (p. 1033);—and in *Mitākṣarā* (3.58).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+एतद् एव व्यक्तयितुम् आह **इह चेति **। स्वर्गाद्यैहिकामुत्रफलता कामत्या यत् क्रियते तत् काम्यम् । निष्कामतया ज्ञानपूर्वकं तु तत् संसारनिवृत्तिहेतुत्वान् निवृत्तम् उच्यते ॥ १२.८९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **इह वामुत्र वा काम्यं प्रवृत्तं कर्म कीर्त्यते ।**

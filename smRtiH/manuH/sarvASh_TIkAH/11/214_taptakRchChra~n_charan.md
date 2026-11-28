@@ -47,6 +47,17 @@ during the next three days; after drinking, during another three days, hot clari
 three days, hot clarified butter; and for further three days, not milk, and let him fast for three days. That is the *Taptakṛcchra*.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**तप्तकृच्छम्** इति । तप्तकृच्छ्राख्यकृच्छ्रं ब्राह्मणादि कुर्वन् त्र्यहम् उदकं क्षीरघृतवायून् उष्णान् अपां पिबेत् । 
+
+> त्रिपलं तु ह्य् अपः पीत्वा त्रिपलं तु पयः पिबेत् । 
+
+> सर्पिषः पलम् एकं तु त्रिरात्रं चोष्णमारुतम् ॥
+
+इति पराशरोक्तपरिमाणानाम् एकवारं स्नानं कुर्वन् संयमवान् पिबेत् । उष्णमारुतं उष्णोदकं वा ॥ ११.२१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 215	A Brahmana who performs a Taptakrikkhra (penance) must drink hot water, hot milk, hot clarified butter and (inhale) hot air, each during three days, and bathe once with a concentrated mind.

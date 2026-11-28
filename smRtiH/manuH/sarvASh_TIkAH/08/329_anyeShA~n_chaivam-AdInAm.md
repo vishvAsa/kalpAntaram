@@ -101,6 +101,11 @@ roots, cooked food, vessels of leather, bamboo or earthenware, or other trifling
 animals, clothes and such things, or large objects, the fine shall be not less than 24, or more than 40 *Paṇas*; for stealing vessels made of copper, *vṛtta* (?), bell-metal, glass or ivory, the fine shall be not less than 48 or more than 90 *Paṇas*, *i.e*., the first amercement.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऊर्णादिसूत्रकार्पासिकस्य च किण्वस्य सुराबीजद्रव्यस्य च, सूक्ष्मवेणुखण्डनिर्मितजलाहरणभाण्डादीनां, यदप्यन्यत्पशुसम्भवं च मृगचर्मखड्गशृङ्गादि, अन्येषामव्येवंविधानामसारप्रायाणां मनःशिलादीनां, मद्यानां द्वादशानां, पक्कान्नानामोदनव्यतिरिक्तानामप्यपूपमोदकादीनां च, कार्पासादिशब्दार्थानां प्रसिद्धानां चापहारे कृते मुल्याद् द्विगुणो दण्डः कार्यः ॥३२६॥३२७॥३२८॥ ३२९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अथोक्तानां द्रव्याणां मूल्याद् द्विगुणो दमश् चतुर्भिः श्लोकैर् उच्यते । सूत्रादिश्लोकगणे चात्र यद् भस्मनो मृदश् च ग्रहणं तत्सर्वप्रदर्शनार्थं विज्ञयते । तथा च निगमयति "अन्येषां चैवमादीनाम्" इति ॥ ८.३२५–२८ ॥

@@ -43,6 +43,11 @@ received (along with his mother) while still in the womb.’
 called *Sahoḍha*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+या गर्भवती अज्ञातगर्भा ज्ञातगर्भा वा परिणीयते, स गर्भस्तस्यां जातः परिणेतुः पुत्रो भवति, सहोढइति व्यपदिश्यते॥ १७३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अयम् अपि सहोढो मातृजातीयः ॥ ९.१७३ ॥

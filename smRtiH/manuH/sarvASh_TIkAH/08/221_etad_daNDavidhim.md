@@ -35,6 +35,16 @@ of several castes’:—in *Kṛtyakalpataru* (107a);—and in *Vīramitrodaya* 
 See Comparative notes for [Verse 8.219].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ग्रामेषु ब्राह्मणजातिसमूहेषु संविद्व्यतिक्रमकारिणामेतद्दण्डविधिं धर्मप्रधानो राजानुतिष्ठेत् ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवं** **दण्डविधिम्** इति । धर्मप्रधानो राजा ग्रामेषु ब्राह्मणादिषु व्यतिक्रमिणं एतद् दण्डविधानम् अनुतिष्ठेत् ॥ ८.२२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ८.२२० ॥

@@ -63,11 +63,20 @@ towards the Teacher;—some people hold that no such spreading is reprehensible 
 seat before the Teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शय्या चासनं च शय्यासनं, “जातिरप्राणिनाम्” ( पा. सू. २ / ४ / ६ ) इति द्वन्द्वैकवद्भावः । तस्मिञ्छ्रेयसा विद्याद्यधिकेन गुरुणा चाध्याचरिते साधारण्येन स्वीकृते च तत्कालमपि नासीत स्वयं च शय्यासनस्थो गुरावागते उत्थायाभिवादनं कुर्यात् ॥११९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शय्यासने** इति । **शय्यासनं** यत् गुर्वादिना सेवितं सेव्यमानं वा तत्र नोपविशेत् । **शय्यासनस्थश् चैनम्** आयान्तं दृष्ट्वा ततः **उत्थायाभिवादयेत्** ॥ २.११९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

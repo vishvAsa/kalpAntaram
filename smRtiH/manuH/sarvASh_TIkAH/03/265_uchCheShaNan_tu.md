@@ -61,6 +61,17 @@ leavings shall not he washed.’
 Śrāddha shall not be removed; as from those flow currents of nectar which are drunk by those to whom no water-offerings have been made.—So long as the sun has not set, the leavings shall not be washed.—Manu has declared that the leavings and the remnants form the share of those who have died before the performance of their sacramental rites.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उच्छेषणम्** इति । तत् ब्राह्मणोच्छिष्टं तावन् न मार्ष्टव्यं यावद् ब्राह्मणा न निर्गताः । सम्पन्ने च श्राद्धे वैश्वदेवाद्यन्वाहिकं समग्रं कुर्यात् । यथा व्यासेनोक्तम् ।
+
+> यदा श्राद्धं पितृभ्यस् तु दातुम् इच्छति मानवः ।
+
+> वैश्वदेवं तदा कुर्यात् निर्वृत्ते श्राद्धकर्मणि ॥
+
+इति **धर्मो व्यवस्थितः** ॥ ३.२६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 265	But the remnants shall be left (where they lie) until the Brahmanas have been dismissed; afterwards he shall perform the (daily) domestic Bali-offering; that is a settled (rule of the) sacred law.

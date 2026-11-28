@@ -41,6 +41,16 @@ This verse is quoted in *Aparārka* (p. 674);—in *Parāśaramādhava* (Vyavah�
 \[See the texts under [79 *et seq*.]\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हे शुभाचार ! यत्त्वया जन्मत आरभ्य किंचित्सुकृतं कृतं, तत्सर्वं त्वदीयं कुक्कुरादिकं संक्रामति, यदि त्वमसत्यं ब्रवीषि ॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**जन्मप्रभृतीति** । हे कल्याण बाल जन्मप्रभृति यत् किञ्चित् पुण्यं कृतं तत् सर्वं तव सम्बन्धि शुनः फलदं ब्रूयात् यदि त्वम् असत्यं कथयसे ॥ ८.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	'(The reward) of all meritorious deeds which thou, good man, hast done since thy birth, shall become the share of the dogs, if in thy speech thou departest from the truth.

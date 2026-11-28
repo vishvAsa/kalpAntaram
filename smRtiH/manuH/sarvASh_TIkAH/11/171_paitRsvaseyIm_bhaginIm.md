@@ -46,6 +46,16 @@ above.)]
 See Comparative notes for [Verse 11.170].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पितृष्वसुर्मातृष्वसुश्च दुहितरं भगिनींमातुश्च सोदर्यभ्रातुर्दुहितरं सोदर्यभगिनीमिव निषिद्धद्गमनां गत्वा चान्द्रायणं कुर्यात्। सकृदज्ञानव्यभिचरिताविषयमल्पत्वात्॥ १७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पितृष्वस्रेयीम्** इति । पितृष्वसृमातृश्वसृदुहितरं मातुः स्वभ्रातुः सोदरस्य दुहितरं गत्वा चान्द्रायणं चरेत् ॥ ११.१७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 172	He who has approached the daughter of his father's sister, (who is almost equal to) a sister, (the daughter) of his mother's sister, or of his mother's full brother, shall perform a lunar penance.

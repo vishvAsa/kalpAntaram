@@ -62,6 +62,13 @@ the purpose of perpetuating one’s line,—they being born of one’s own body,
 wife through another man, the son of an Appointed Daughter, the son of the unmarried damsel, the son born of a pregnant bride, the son secretly born, the son of the remarried woman, the son east off, the son adopted, the son bought, the son appointed, the son self-given,—these are the twelve sons. Of these six are kinsmen as well as inheritors, and six are only kinsmen, not inheritors;—the preceding one being senior to the succeeding one.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यान्द्वादश पुत्रान्हैरण्यगर्भो मनुराह, तेषां मध्यादाद्याः षड् बान्धवाः गोत्रदायादाश्च तस्माद् बान्धवत्वेन सपिण्डसमानोदकानां पिण्डोदकदानादि कुर्वन्ति, अनन्तराभावे च गोत्रदायं गृह्णन्ति, पितृरिक्थभाक्त्वस्य "पुना रिक्थहराः पितुः” ( म० स्मृ० ९-१८५ ) इति द्वादशविधपुत्राणामेव वक्ष्यमाणत्वात्। उत्तरे षट्न गोत्रधनहरा भवन्ति। बान्धवास्तु भवन्ति, ततश्चबन्धुकार्यमुदकक्रियादि कुर्वन्ति। मेधातिथिस्तु–[^104] 'षडदायादबान्धवाःइत्याद्युत्तरषट्कस्यादायादत्वमबान्धवत्वं चाह। तन्न, बौधायनेन बन्धुत्वस्याभिहितत्वात्। तदाह-
+
+[^104]: "बन्धुशब्दो बान्धवपर्यायः । गोत्रहरा दायहराश्चषडितरे विपरीताः ।"
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दायविभागप्रकरणापेक्षः पुत्राणाम् अयम् उपदेशो ऽत्र । सूत्रस्थानीयस्येदं भाष्यं तत्स्वरूपनिर्देशार्थं भवति ॥ ९.१५८ ॥

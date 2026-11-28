@@ -41,6 +41,11 @@ in circumstances, he should be made to do work, towards repayment of the debt; b
 he should be brought home and made to work; but the Brāhmaṇa should be made to repay the debt gradually.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्षत्रवैश्यशूद्रजातीयो निर्धनत्वेन दण्डं दातुमसमर्थस्तदुचितकर्मकरणेन दण्डशोधनंकुर्यात्। ब्राह्मणः पुनर्यथालाभं क्रमेण दद्यान्न कर्मकारयितव्यः॥ २२९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यथोक्तं दण्डप्रकारम् अशक्नुवन्तो निर्धनत्वात् क्षत्रियादयो दण्डानुरूपाणि कर्माणि कुर्युः । ब्राह्मणस् तु स्वधर्मानुरोधेन **शनैः शनैर्** दण्डनीयः । तद् एतद् उक्तम् अप्य् अधुना पुनर् उच्यते दण्डविषयार्थम् । पूर्वं तु कुसीदप्रकरणे तद्गतम् ॥ ९.२२९ ॥

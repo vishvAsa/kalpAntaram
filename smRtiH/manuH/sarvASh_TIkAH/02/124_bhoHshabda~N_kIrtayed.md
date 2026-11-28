@@ -48,11 +48,20 @@ This is quoted also in *Nirṇayasindhu* (p. 191);—in *Saṃskāramayūkha* (p
 and at the end the word *bhoḥ*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिवादने यन्नाम प्रयुक्तं तस्यान्ते भोः शब्द कीर्तयेदभिवाद्यसम्बोधनार्थम् । अत एवा ह —नाम्नामिति । भो इत्यस्य यो भावः सत्ता लोऽभिवाद्यनाम्नां स्वरूपभाव ऋषिभिः स्मृतः । तस्मादेवमभिवादनवाक्यम् – “अभिवादये शुभशुर्माहमस्मिभोः" ॥१२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भोशब्दम्** इति । **अभिवादने** यत् स्वं नाम तदन्ते **भोःशब्दं कीर्तयेत्** । स चाभिवाद्यसम्बोधनार्थम्, यत आह **नाम्नाम्** इति । यस्मान् **नाम्नां **या **स्वरूप**सत्ता सैव **भोभागः **भो इत्य् अस्य सत्ता इति मन्वादिभिः **स्मृतः । **अतश् चाभिवाद्यनामस्थानापन्नं तत्सम्बोधनार्थं** भोःशब्दं कीर्तयेत्** । तेनाभिवादयेत् “भद्रनामाहम् अस्मि भो” इत्य् अभिवादनरूपम् ॥ २.१२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

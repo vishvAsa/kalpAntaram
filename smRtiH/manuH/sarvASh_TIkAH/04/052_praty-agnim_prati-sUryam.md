@@ -54,6 +54,11 @@ This is quoted in *Smṛtitattva* (p. 329);—in *Vidhānapārijāta* (II, p. 15
 *Vaśiṣṭha* (6.13).—\[Reproduces Manu.\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रत्यग्निम्** इति । अग्न्यादित्यसोमाम्भोब्राह्मणगोवाय्वभिमुखम् मूत्रपुरीषे कुर्वतः **प्रज्ञा नश्यति**, अत एव तन् न कर्तव्यम् इति वायुअग्निविप्रम् इत्य् अस्य फलकथनं सीमाभिमुखं च, अत एव निषेधसिद्धिः पूर्वत्रापठितत्वात् ॥ ४.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.

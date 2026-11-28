@@ -66,11 +66,20 @@ conformity with his learning, his family, his circumstances and his country.’
 manner, in conformity with his age, intelligence, wealth, speech, dress, learning, family and duties.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वयसः, क्रियायाः, धनस्य, श्रुतस्य, कुलस्यानुरूपेण वैषवाग्वुद्धीराचरल्ँलोकं प्रवर्तेत “यथा यौवने स्रग्गन्धलेपनादिधारणं वार्धकेऽपवर्गानुसारिणी वाग्बुद्धिश्च।एवं कर्मादिष्वप्युन्नेयम् ॥ १८ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वयस** इति । **वयसो **ऽनुष्ठानस्य धनस्य **श्रुतस्य** कुलस्य आनुरूप्येण वेषकथाबुद्धीर् आचरन् लोके व्यवहरेत् । तद् यथा स्नानस्रगनुलेपनादिकरणं त्रिवर्णानुसारिणी च वाङ्मनसीत्य् एवं कर्मादिष्व् अप् योज्यम् ॥ ४.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -47,6 +47,11 @@ This verse is quoted in *Vivādaratnākara* (p. 359), which adds the explanation
 See Comparative notes for [Verse 8.392].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्याचारवांस्तथाविधमेव गुणवन्तं विभवकार्येषु विवाहादिषु प्रकृतत्वात्प्रातिवेश्यानुवेश्यावभोजयन् तदन्नं भोजिताद्द्विगुणमन्नं दाप्यो हिरण्यमाषकं च राज्ञः ॥ ३९३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **श्रोत्रियः श्रोत्रियं साधुं भूतिकृत्येष्व् अभोजयेत् ।**

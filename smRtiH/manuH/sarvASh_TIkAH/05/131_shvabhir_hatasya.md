@@ -45,11 +45,26 @@ and so is that of an animal slain by other carnivorous creatures, or by huntsmen
 carnivorous animals and others is pure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ शुचिरग्निः शुचिर्वायुः प्रवृत्तो हि बहिश्चरः ।**
+
+**जलं शुचि विविक्तस्थं पन्था सञ्चरणे शुचिः ॥१६॥ \]**
+
+कुक्कुरैर्हतस्य मृगादेर्यन्मांसं तच्छुचि मनुरखोचत् । तच्छ्राद्धाद्यतिथिभोजनादावेव द्रष्ट-
+
+व्यम् । अन्यश्चाममांसादिभिर्व्याघ्रश्येनादिभिश्चव्याधादिभिश्व मृगवधजीविमिर्हतस्य ॥१३१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत एवम् अतः **श्वभिर्** इति । **क्रव्याद्भिश् च हस्तस्यान्यश् चाण्डालाद्यैश् च दस्युभिः । श्वभिर् हतस्य** मृगादेर् **यन् मांसं** **शुची**त्य् एवं **मनुर्** अब्यधात् तथान्यैर् अपि चाममांसभक्ष्यैः श्येनादिभिश् चाण्डालपुलिन्दादिभिश् च मृगादिवधजीविभिर् हतस्येति ॥ ५.१३१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 131	Manu has declared that the flesh (of an animal) killed by dogs is pure, likewise (that) of a (beast) slain by carnivorous (animals) or by men of low caste (Dasyu), such as Kandalas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

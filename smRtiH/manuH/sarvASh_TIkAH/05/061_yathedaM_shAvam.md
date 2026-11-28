@@ -7,11 +7,19 @@ title = "061 यथेदं शावम्"
 (न विद्यते मेधातिथिपाठे।)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ उभयत्र दशाहानि कुलस्यान्नं न भुज्यते ।**
+
+**दानं प्रतिग्रहो यज्ञः स्वाध्यायश्च निवर्तते ॥३॥ \]**
+
+यथेदं दशाहादिकं शवनिमित्तमाशौचं कर्मानर्हत्वलक्षणं सपिण्डेषु "दशाहं शावमाशौचम्” ( म० स्मृ० ५-५९ ) इत्यनेन विधीयते, प्रसवेऽपि सम्यक् शुद्धिमिच्छतां सपिण्डानां तादृशमेवाशौचं भवेत् ॥६१॥
+</details>
+
 <details><summary>Bühler</summary>
 
 061	As this impurity on account of a death is prescribed for (all) Sapindas, even so it shall be (held) on a birth by those who desire to be absolutely pure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

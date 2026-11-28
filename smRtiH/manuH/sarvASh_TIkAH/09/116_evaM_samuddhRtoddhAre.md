@@ -42,6 +42,11 @@ equally;—or the eldest may have two shares,—and the rest one each.’
 (see the texts under 312-313).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण समुद्धतविंशद्भागाधिके धने समान्भागान् भ्रातृणां कल्पयेत्। विंशतितमभागादौ पुनरनुद्धत इयं वक्ष्यमाणभागकल्पना भवेत्॥ ११६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं यथोक्तन्यायाविरोधेनोद्धृत्य शिष्टस्य समो विभागः ॥ ९.११६ ॥

@@ -91,11 +91,15 @@ sacrificial wood may be used by any caste.’
 The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as follows:—‘Śamī, Palāśa, Nyagrodha, Plakṣa, Vikaṅkata, Aśvattha, Udumbara, Bilva, Chandana, Sarala, Sālva, Devadāru and Khadira.’ (Vīramitrodaya-Saṃskara, p. 435).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मण** इति । ब्राह्मणस्य बैल्वः “पालाशो वा दण्डः” इत्यादि वसिष्ठस्मरणात्, “प्रतिगृह्येप्सितं दण्डम्” इति चेहैव दर्शनात्, विकल्पेन द्वौ द्वौ दण्डौ बैल्वपालाशवटखदिरपीलूदुम्बराख्यवृक्षाणां **ब्राह्मणा**दयो **ऽर्हन्ति** ॥ २.४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

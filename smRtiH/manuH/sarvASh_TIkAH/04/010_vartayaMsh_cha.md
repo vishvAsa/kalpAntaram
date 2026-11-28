@@ -89,11 +89,20 @@ From all this it follows that the man, whose wife is disabled, is not entitled t
 in the Śruti and in the Smṛti,—every one of these should be carried out in practice by one living in the house; otherwise he becomes open to censure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शिलोञ्छाभ्यां जीवन्धनसाध्यकर्मान्तरानुष्ठानासामर्थ्यादग्निहोत्रनिष्ठएवस्यात् । पार्वायनान्तीयाश्च इष्टीः केवला अनुतिष्ठेत् । पर्व च अयनं च पर्वायने तयोरन्तस्तत्र भवा दर्शपौर्णमासाग्रयणात्मिकाः ॥१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वर्तयन्न्** इति । **शिलोञ्छाभ्यां **जीवन् कर्मान्तरासम्भवे सायम्प्रातर्होमनिष्ठः सन् दर्शपूर्णमासान् पार्वणाख्यान् यागान् केवलान् सर्वकालं कुर्यात् ॥ ४.१० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

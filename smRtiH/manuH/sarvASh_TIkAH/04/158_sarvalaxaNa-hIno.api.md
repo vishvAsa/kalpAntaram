@@ -46,11 +46,20 @@ attain a long life in the world; all living beings shun him and also despise him
 for ‘*Yaḥ sadācāravān*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः सदाचारवाञ्श्रद्धान्वितः परदोषानभिधाता स शुभसूचकलक्षणशून्योऽपि शतायुर्भवति ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सर्वलक्षणहीन** इति । यः सम्यग् आचारवान् **श्रद्दधानो **ऽकुत्सकः स आजानुबाहुत्वादिसर्व-प्रशस्तलक्षणशून्यो ऽपि वर्षशतं **जीवति **। प्रथमे ऽध्याये शास्त्रस्तुत्यर्था आचारस्तुतिः । इह त्व् आचारफलसमर्पणार्थम् एतत् ॥ ४.१५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

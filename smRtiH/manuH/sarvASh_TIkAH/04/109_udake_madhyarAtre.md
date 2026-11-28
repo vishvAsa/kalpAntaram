@@ -68,11 +68,15 @@ during lightning and thunder, after eating while the hands are still wet, in wat
 meteors, on earthquake, at fiery portents, at the junction of two seasons,—there should be no study till the next day; after meals while the hands are wet, in water, or midnight, during the two twilights, while a dead body is lying in the village, and while a Caṇḍāla is in the village.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**उदक** इति । जलमध्ये मधमे च प्रहरद्वये महानिशाख्ये “महानिशा च विज्ञेया मध्यस्थं प्रहरद्वयम्” इति देवलस्मरणात् । मूत्रपुरीषकाले प्राग् आचमनाद् **उच्छिष्टः** **श्राद्धभुक्** निमन्त्रणात् प्रभृति श्राद्धभोजनाद् अहोरात्रं यावत् मनसापि वेदस्य न स्मरेत् ॥ ४.१०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 109	In water, during the middle part of the night, while he voids excrements, or is impure, and after he has partaken of a funeral dinner, a man must not even think in his heart (of the sacred texts).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

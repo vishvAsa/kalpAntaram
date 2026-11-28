@@ -68,11 +68,20 @@ or to a thief or to a singer—if one eats this he should live for seven days on
 (Do.) (1.161.).—‘Food belonging to a miser, a prisoner, a thief, a eunuch, an actor, a dealer in bamboos, one accused of a crime, an usurer, a harlot, a multitude, or the person initiated for a sacrifice.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदन्नं गवाघ्रातं, घुष्टान्नं को भोक्तेत्युपोष्टान्नं सत्रादौ यद्दीयते, विशेषत इति भूरिदोषतया प्रायश्चित्तगौरवार्थम् । गणान्नं शठब्राह्मणसङ्घान्नम्, गणिका वेश्या तस्या अन्नम्, शास्त्रविदा च यद् दुष्टमिति निन्दितं, तच्च न भुञ्जीत ॥२०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गवेति **। **गवाघ्रातं **“को भुङ्क्ते” इति यदाघुष्य दीयते मठब्राह्मणादिसङ्घान्नं च तथा वेश्यान्नं शास्त्रविदा चैतत् कुत्सितम् इति यद् उक्तं तन् नाश्नीयात् **विशेषत** इति प्रायश्चित्तविशेषार्थम् ॥ ४.२०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

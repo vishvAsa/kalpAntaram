@@ -127,11 +127,20 @@ order, the Sacrifice to Elementals, the daily Śrāddha and the honouring of gue
 first is accomplished by the water-libation; the Sacrifice to Gods is accomplished by making offerings into Fire with the Sāvitrī-mantra, and the Sacrifice to Elementals, by the Bali-offering; the Sacrifice to Veda, by repeating Vedic texts; and the Sacrifice to Men, by the honouring of guests.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अध्यापनशब्देनाध्ययनमपि गृह्यते "जपोऽहुतः” (म. स्मृ. ३ / ७४) इति वक्ष्यमाणत्वात् । अ- तोऽध्यापनमध्ययनं च ब्रह्मयज्ञः । “अन्नाद्येनोदकेन वा " ( म.स्मृ. ३ / ८२) इति तर्पणं वक्ष्यति, स पितृयज्ञः । अग्नौ होमो वक्ष्यमाणो देवयज्ञः। भूतबलिर्भूतयज्ञः। अतिथिपूजनं मनुष्ययज्ञः ।अध्यापनादिषु यज्ञशब्दो महच्छब्दश्च स्तुत्यर्थं गौणः ॥७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ते च **अध्यापनम्** इति । ऽजपो ऽहुतऽ इति वक्ष्यमाणः । अध्यापनशब्देनाध्ययनम् अपि गृह्यते । स **ब्रह्मयज्ञः । **पितृ**तर्पणं पितृयज्ञः **। अग्नौ होमो **दैवयज्ञः **। भूत**बलिर्** **भूतयज्ञः** । अतिथिपूजनं मनुष्ययज्ञः । एते वक्ष्यमाणाः कर्तव्यताविशेषा इह स्वरूपमात्रेण निर्दिष्टाः ॥ ३.७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	Teaching (and studying) is the sacrifice (offered) to Brahman, the (offerings of water and food called) Tarpana the sacrifice to the manes, the burnt oblation the sacrifice offered to the gods, the Bali offering that offered to the Bhutas, and the hospitable reception of guests the offering to men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

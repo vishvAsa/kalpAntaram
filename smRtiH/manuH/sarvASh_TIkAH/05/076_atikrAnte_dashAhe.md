@@ -34,11 +34,22 @@ meaning to be that ‘after the lapse of ten days and upto one year, the Sapiṇ
 the full period of impurity.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**नाशौचं प्रसवस्यास्ति व्यतीतेषु दिनेष्वपि ।**
+
+इति देवलवचनान्मरणविषयं वचनमिदम् । सपिण्डमरणे दशाहाशौचे ऽतिक्रान्ते त्रिरात्रमशुद्धो भवति, संवत्सरे पुनस्तीत स्नात्वैव विशुद्धयति । एतच्चाविशेषेणाभिधानाच्चातुर्वर्ण्यविषयम् ॥७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अतिक्रान्त** इति । आशौचातिक्रमे सपिण्डजननं मरणं वा ज्ञात्वा **त्रिरात्रम्** आशौचवान् भवति । संवत्सरे पुनर् अतीते ज्ञात्वा **स्नात्वैव शुध्यति** ॥ ५.७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 076	If the ten days have passed, he shall be impure during three (days and) nights; but if a year has elapsed (since the occurrence of the death), he becomes pure merely by bathing.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

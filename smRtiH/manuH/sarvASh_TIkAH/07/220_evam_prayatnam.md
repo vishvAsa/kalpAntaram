@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (p. 51).
 Do. (7.30).—‘The King shall ride conveyances and vehicles which have either been thoroughly examined by himself, or which have been recommended by his acquaintances He should not pass through narrow and unknown roads.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवंविधपरीक्षादिप्रयत्नं वाहनशय्यासनाशनस्नानानुलेपनेषु सर्गेषु चालङ्करणार्थेषु कुर्यात् ॥ २२०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । एवंविधपरीक्षादिप्रयत्नं वाहनशयनासनभोजनस्नानानुलेपनेषु सर्वालङ्कारार्थेषु कुर्वीत ॥ ७.२२० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 220	In like manner let him be careful about his carriages, bed, seat, bath, toilet, and all his ornaments.

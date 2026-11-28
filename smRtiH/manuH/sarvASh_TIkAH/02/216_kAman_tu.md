@@ -36,6 +36,16 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 30l), as laying down h
 *Viṣṇu* (32-14).—\[Reproduces Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कामं तु गुरुपत्नीनां युवतीनां स्वयमपि युवा यथोक्तविधिना"अभिवादयेऽमुकशर्माहंभोः” इति ब्रुवन्पादग्रहणं विना यथेष्टमभिवादनं कुर्यात् ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कामम्** इति । **गुरुपत्नीनां युवा **वन्दनं **भुवि** व्यत्यस्तपाणिना इति अनेन विधिना **असाव् अहम् इति ब्रुवन्** इत्य् उक्तरूपेनाभिवादनं **कुर्यात्** ॥ २.२१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'

@@ -114,11 +114,20 @@ situated to the left of the thumb, on the line pointing upwards; the
 between the palm and the little index: on the top of the finger tips, the *Daiva*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिसंज्ञेयं शास्त्रे संव्यवहारार्था स्तुत्यर्था च । न तु मुख्यं ब्रह्मदेवताकत्वं संभवति, अयागरूप-त्वात् । तीर्थशब्दोऽपि पावनगुणयोगाद् । ब्राह्मेण तीर्थेन सर्वदा विप्रादिराचामेत् । कः प्रजापतिस्तदीयः, “तस्येदम्” ( पा० सू० ४ / ३ / १२०) इत्यण् इकारश्चान्तादेशः । त्रैदशिको देवस्ताभ्यां वा । पित्र्येण तु तीर्थेन न कदाचिदाचामेत्, अप्रसिद्धत्वात् ॥५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणेति** । **ब्राह्मेण तीर्थेन** प्राजापत्यदैवाभ्यां **वा विप्रो **यावज्जीतम् **उपस्पृशेत् । पित्र्येण** पुनः कदाचिद् इति नित्यानुवादः इतरस्तुत्यर्थः । अविधानाद् एव पित्र्यस्याप्रप्तेः विप्रग्रहणं क्षत्रियादिप्रदर्शनार्थम्, “उपस्पृश्य द्विजो नित्यम्” इति एतयोर् अपि प्रकृतत्वात्॥ २.५८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 058	Let a Brahmana always sip water out of the part of the hand (tirtha) sacred to Brahman, or out of that sacred to Ka (Pragapati), or out of (that) sacred to the gods, never out of that sacred to the manes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

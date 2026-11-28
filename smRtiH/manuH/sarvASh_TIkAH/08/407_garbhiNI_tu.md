@@ -45,6 +45,16 @@ paying toll, and to be conveyed to the other side before others. When engaged in
 or toll from a student or an ascetic or a renunciate, or a pregnant woman, or one going on pilgrimage,—shall he fined 10 Paṇas,—and he shall restore the toll to them.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+संजातगर्भा स्त्री मासयाद्वयादूर्ध्वं, तथा प्रवजितो भिक्षुर्मुनिर्वानप्रस्थ ब्राह्मणाश्च, लिङ्गिनो ब्रह्मचारिणः तरमूल्यं तरे न दाप्याः ॥ ४०७ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गर्भिणीति** । गृहीतगर्भा स्त्री मासद्वयाद् ऊर्ध्वं ब्रह्मचारिणः तरमूल्यं ते न दाप्याः॥ ८.४०७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थः श्लोकः ॥ ८.४०५ ॥

@@ -44,6 +44,16 @@ joined hands, saying “I promise not to injure any living being.” They quote 
 giving a promise of safety from injury to all living beings. They quote the following:—“That Renunciate who wanders about at peace with all creatures, forsooth, has nothing to fear from any living being; hut he who becomes a Renunciate and does not promise safety from injury to all beings, destroys the born and the unborn; and so does a Renunciate who accepts presents.”’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः सर्वेभ्यो भुतारब्धेभ्यः स्थावरजङ्गमेभ्योऽभयं दत्त्वा गृहाश्रमात्प्रव्रजति तस्य ब्रह्मप्रतिपादकोपनिषन्निष्ठस्य सूर्याद्यालोकरहिता हिरण्यगर्भादेर्लोकास्तत्तेजसैव प्रकाशा भवन्ति, तानाप्नोतीत्यर्थः॥३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । **तस्य** ते तैजसा **लोका भवन्ति ब्रह्मवादिनः** । **यः सर्वभूतेभ्यो ऽभयं दत्वा गृहाद्** एव **प्रव्रजति तस्य** ब्रह्मस्वरूपनिरूपणार्थोपनिषदादिशास्त्रनिष्ठस्य नित्यप्रकाशका **लोका भवन्ति** ॥ ६.३९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **यो गत्त्वा दर्वभूतेभ्यः प्रव्रजत्य् अभयं गृहात् ।**  

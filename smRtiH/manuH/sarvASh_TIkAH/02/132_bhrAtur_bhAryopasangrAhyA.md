@@ -36,11 +36,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of the
 mother-in-law, there should be no clasping of the feet.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भ्रातुः सजातीया \। भार्या ज्येष्ठा पूजाप्रकरणादुपसंग्राह्या पादयोरभिवाद्याअहन्यहनि प्रत्यहमेव ।अपिरेवार्थं । ज्ञातयः पितृपक्षाः पितृव्यादयः, सम्बन्धिनो मातृपक्षाः श्वशुरादयश्च तेषां पत्न्यः पुनर्विप्रोष्य प्रवासात्प्रत्यागतेनैवाभिवाद्याः, न तु प्रत्यहं नियमः ॥१३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रातुर् भार्येति **। पूजाप्रकरणात् ज्येष्ठ**भ्रातृभार्या उपसङ्ग्राह्या** पादयोः, “नाभिवाद्येह पादयोः” इति दर्शनात् । **सवर्णा** समानजातीया प्रत्यहम् । **ज्ञतयो** मातृपितृपक्षाः **सम्बन्धिनो** वैवाह्याः तद्भार्याः पुनः प्रवासप्रत्यागतेन्**ओपसङ्ग्राह्याः,** न त्व अहर् अहः ॥ २.१३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

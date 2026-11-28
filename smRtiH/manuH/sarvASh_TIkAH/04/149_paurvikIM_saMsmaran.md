@@ -38,11 +38,20 @@ In view of this question, the Author says—‘*Recollecting his former births, 
 This verse is quoted in *Aparārka* (p. 229);—and in *Vīramitrodaya* (Āhnika, p. 320), which explains ‘*Brahma*’ as ‘Veda,’—and ‘*anantam*’ as ‘to be enjoyed for a long time.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वजातिं स्मरन् । जातिमित्येकत्वमनाकाङ्क्षितत्वादविवक्षितम् । बहूनि जन्मानि स्मरंस्तेषु च गर्भजन्मजरामरणदुःखान्यपि स्मरन्संसारे विरज्यन्ब्रह्मैवाजस्त्रमभ्यस्यति श्रवणमननध्यानैः साक्षात्क-रोति, तेन चानन्तमविनाशि परमानन्दाविर्भावलक्षणं मोक्षसुखं प्राप्नोति ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+ततः किम् अत आह **पौर्विकीम्** इति । पूर्वजातिं स्वां **संस्मरन् **ईदृग् अयं वेदाभ्यासः येन जन्मान्तरं स्मर्यत इति मत्वा अभीक्ष्णं वेदाभ्यासम् एव करोति तेन चानवरतम् आचर्यमाणे वेदार्थावबोधजाते सति ब्रह्मप्राप्तौ परमात्मरूपम् **अक्षयं सुखं **प्राप्नोति ॥ ४.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

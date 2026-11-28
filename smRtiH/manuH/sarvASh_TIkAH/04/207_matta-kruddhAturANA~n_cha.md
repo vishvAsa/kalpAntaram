@@ -56,11 +56,20 @@ sneezed upon;—also that belonging to the intoxicated, the enraged and the dise
 diseased, the enraged, the loose woman, the intoxicated, the enemy, of one who is cruel or of the ‘Ugra,’ the outcast, the apostate, the hypocrite or persons feeding upon leavings;—flesh needlessly prepared and not offered to gods or Pitṛs, what contains hair or insects, food turned sour or kept overnight, touched by the dog or seen by the outcast; or touched by the woman in her courses, or what has been offered publicly or by mistake; what has been smelt by the cow, or partaken of by the dog, or touched by the foot intentionally.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्षीबक्रुद्धव्याधितानामन्नं तथा केशकीटसंसर्गंदुष्टं पादेन चेच्छातः संस्पृष्टमन्नं न भुञ्जीत ॥२०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मत्तक्रुद्धातुराणाम्** इति । क्लीबक्रुद्धव्याधितान्नं केशादिसकलद्वादशकृमिसंसर्गदुष्टं पादेन चेच्छातः **स्पृषाअं न भुञ्जीत** ॥ ४.२०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 207	Let him never eat (food given) by intoxicated, angry, or sick (men), nor that in which hair or insects are found, nor what has been touched intentionally with the foot,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -31,6 +31,16 @@ This verse is quoted in *Mitākṣarā* on (3.59).
 devoted to the well-being of all creatures; calm, carrying three staves and the water-pot, lonely,—and have recourse to the village only for alms.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+रन्यैर्वाब्राह्मणेर्भक्षणशीलैः, पक्षिभिः, कुक्कुरैर्वा व्याप्तंगृहँ भिक्षार्थं न प्र-
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति ।** वानप्रस्थब्राह्मणपक्षिश्वभिर् अन्यैर् भिक्षाटनशीलैर् व्याप्तं गृहं भिक्षार्थं न प्रविशेत् ॥ ६.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	Let him not (in order to beg) go near a house filled with hermits, Brahmanas, birds, dogs, or other mendicants.

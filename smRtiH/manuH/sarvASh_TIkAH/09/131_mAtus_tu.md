@@ -107,6 +107,11 @@ children; her daughter also has a share in it, if she is unmarried; if married, 
 has been declared to belong to her unmarried daughter; if the daughter has been married, she shares it equally with her brothers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातुर्यद्धनं तत्तस्यां मृतायां कुमारीभाग एव स्यान्न पुत्राणां तत्र भागः। कुमारी चानूढाभिप्रेता। तथागोतमः – "स्त्रीधनं दुहितॄणामदत्तानामप्रतिष्ठितानां च अपुत्रस्य च मातामहस्य दौहित्र एव प्रकृतत्वात्पौत्रिकेयः समयं धनं गृह्णीयात् इति॥ १३१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अस्येशिन्य् एव सा । पुत्रिकापुत्रस् त्व् अपुत्रे मातामहे प्रमीते ऽखिलं धनं हरेत्, पुत्रिका वा । यदा पुत्रिकायां कृतायां मातामहस्य तु पुत्रो जायते दैवात् कथंचित्, तदा भ्रात्रंशस्यैव पुत्रिकापुत्र ईशत इति । अथ तु पुत्रिका कृता तथापि प्राक् प्रयाणात् प्तुर् न पितू रिक्थभागिनी ॥ ९.१३१ ॥

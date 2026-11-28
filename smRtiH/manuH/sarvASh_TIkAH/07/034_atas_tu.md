@@ -24,11 +24,19 @@ But for the King who deviates from it having no control over himself, his fame d
 is mad through passions......attachment to sensuous objects......who is not uniform in thought, word and deed......is called *Rājasa* and is born as a low animal.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उक्ताचाराद्विपरीताचारवतो नृपतेरजितेन्द्रियस्य जले घृतबिन्दुरिवकीर्तिः लोके संकोचमेति॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अत **इति । एतस्माद् आचाराद् विपरीताद् आचारतो राज्ञो जितेन्द्रियस्य घृतबिन्धुर् इवोदके ख्यातिः सङ्कोचम् उपयाति ॥ ७.३४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **अतो विपरीतस्य** राष्ट्रम् अपि संकुचति निर्गुणत्वात्, कुतो ऽन्यद् भविष्यति । सैषा दण्डप्रणयनस्तुतिः समाप्ता ॥ ७.३४ ॥
-
-_कस्मात् पुनर् एतद् एवम् । यद्माद् एवंगुण एव-_
 </details>
 
 <details><summary>Bühler</summary>

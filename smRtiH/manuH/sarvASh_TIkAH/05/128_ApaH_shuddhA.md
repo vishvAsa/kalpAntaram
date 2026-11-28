@@ -60,11 +60,20 @@ in a jar, or in a well, or in a water-pot, or in a stone-cup, or in a leather-ba
 purified in ten nights.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्परिमाणास्वप्सु गोः पिपासाविच्छेदो भवति ता आपो गन्धवर्णरसशालिन्यः सत्यः यद्यमेव्यलप्ता न भवन्ति तदा विशुद्धभूमिगता विशुद्धाः स्युः ।'भूमिगता' इति विशुद्धभूमिसम्बन्धप्रदर्शनाय, न त्वन्तरिक्षगतानां निवृत्त्यर्थम् ॥१२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आप** इति । यत्परिमाणास्व् अप्सु गोस् तृष्णाच्छेदो भवति ता आपो गन्धवर्णरसान्वितत्वेन **अमेध्येन** यदि व्याप्ता न भवन्ति तदा भूम्यादिगताः शुद्धा अप्रयतप्रसङ्गासु चित्ताशङ्कायाम् इदं भूमिग्रहणं नान्तरिक्षापां शुद्धत्वव्यावृत्त्यर्थम् ॥ ५.१२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 128	Water, sufficient (in quantity) in order to slake the thirst of a cow, possessing the (proper) smell, colour, and taste, and unmixed with impure substances, is pure, if it is collected on (pure) ground.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

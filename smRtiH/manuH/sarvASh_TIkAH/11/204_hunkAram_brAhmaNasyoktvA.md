@@ -56,6 +56,16 @@ Brāhmaṇa, the expiation ordained is that the man should perform the
 his feet; and for tying a cloth round his neck, the expiation prescribed is that the man shall fast for three days and appease him by falling at his feet. If one falsely calumniates the Brāhmaṇa, or injures him, he shall fast for one day, or for three days, or for six days, according to circumstances.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हुंतूष्णीं स्थीयतामित्याक्षेणं ब्राह्मणस्य कृत्वा त्वङ्कारं च विद्याद्यधिकस्योक्त्वाऽभिवादनकालादारभ्याहःशेषं यावत्स्नात्वा भोजननिवृत्तः पादोपग्रहणेनापगतकोपंकुर्यात्॥२०४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हुङ्कारम्** इति । हुम् इत्य् एवं सरोषं ब्राह्मणस्योक्त्वा त्वम् इत्य् एवं च वित्ताद्यधिकस्योक्त्वैव एतत् एतत्करणकालावशिष्टम् अहर् अभुञ्जानः स्नानं कृत्वा तं पादोपसङ्ग्रहणेन अपगतकोपं कुर्यात् ॥ ११.२०३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 विशिष्टस्नानचोदनेयं नित्यादधिका (?) निमित्तकीति विज्ञेया ॥ ११.२०३ ॥

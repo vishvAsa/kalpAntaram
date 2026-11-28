@@ -47,11 +47,20 @@ river-banks, on streams, on hills, in groves, in forests, in parks.’
 buildings, on river-banks, in Tīrthas, and on one’s own land, in groves near hills, and on mountain-tops.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चोक्षाः स्वभावशुचयोऽरण्यादिप्रदेशास्तेषु नद्यादितीरेषु तथा निर्जनप्रदेशेषु दत्तेन श्राद्धादिना सर्वदा पितरस्तुष्यन्ति ॥२०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अवकाशेष्व्** इति । स्वभावशुचिषु स्थानेषु नद्यादिपुलिनेषु च निर्जनेषु प्रदेशेषु **दत्तेन** श्राद्धादिना **पितरः** सर्वदा तुष्यन्ति तस्मिंश् च देशे ॥ ३.२०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 207	The manes are always pleased with offerings made in open, naturally pure places, on the banks of rivers, and in secluded spots.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -49,6 +49,11 @@ shall he enter anywhere except through the proper gate.’
 that may be grazing in another man’s field; nor shall he point out the calf that may be drinking milk.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न वारयेद्** इति । **गां **पिबन्तीं न निवर्तयेत् । नापि परकीयां क्षीरादि पिबन्तीं तस्य कथयेत् । न च द्युलोके इन्द्रधनुर् **दृष्ट्वा** शास्त्रज्ञो ऽन्यस्य **दर्शयेत् **॥ ४.५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 059	Let him not interrupt a cow who is suckling (her calf), nor tell anybody of it. A wise man, if he sees a rainbow in the sky, must not point it out to anybody.

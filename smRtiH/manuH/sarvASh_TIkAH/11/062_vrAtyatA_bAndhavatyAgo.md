@@ -56,6 +56,16 @@ for ‘*bhṛtyādhyāpana*’,) imparting knowledge in exchange for wages recei
 See Comparative notes for [Verse 11.58].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**सर्वाकरेष्वधीकारो महायन्त्रप्रवर्तनम्।  
+हिंसौषधीनां स्त्र्याजीवोऽभिचारोमुलकर्म च॥ ६३॥  
+इन्धनार्थमशुष्काणां द्रुमाणामवपातनम्।  
+आत्मार्थं च क्रियारम्भो निन्दितान्नादनं तथा॥ ६४॥  
+अनाहिताग्निता स्तेयमृणानामनपक्रिया।  
+असच्छास्त्राधिगमनं कौशीलव्यस्य च क्रिया॥ ६५॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	Living as a Vratya, casting off a relative, teaching (the Veda) for wages, learning (the Veda) from a paid teacher, and selling goods which one ought not to sell,

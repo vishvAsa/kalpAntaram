@@ -70,11 +70,20 @@ actions of the boy.’
 *Vaśiṣṭha* (2)—(reproduces the second half of Manu).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाध्यापनादाचार्यं पितरं मन्वादयो वदन्ति पितृवन्महोपकारफलाहौणं पितृत्वम् । महोपकारमेव दर्शयति–ह्यस्मिन्निति । यस्मादस्मिन्माणवके प्रागुपनयनात्किचित्कर्म श्रौतं स्मार्तं च न सम्बध्यते, न तत्राधिक्रियत इत्यर्थः ॥१७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदप्रदानाद् **इति । **वेदा**ध्यापनाद् **आचार्यं पितरम्** अस्याहुः यस्मात् तस्मिन् उपनयनात् प्राक् किञ्चिद् उत्कर्षहेतुभूतं **कर्म** अध्ययनादि **न युज्यते **। एवं च प्राग् उपनयनाद् अजातसमत्वात् युक्तं **वेदप्रदाने**नार्यजन्मत्वम् ॥ २.१७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

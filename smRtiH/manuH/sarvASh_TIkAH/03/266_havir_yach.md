@@ -69,11 +69,15 @@ Cavya, pomegranate, Vidāryā, Bhucuṇḍa, raisins with honey, Śaktu with sug
 Saindhava and Trapusa are commended at Śrāddha.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**हविर् यच् चिररात्रायेति । यत् पितृभ्यो **यथा च **दत्तं **हव्यकव्यम् अन्नं दीर्घकालतृप्तये सम्यक् प्रतिपद्यते । यच् चान्नं तत् तृप्तये तन्निःशेषेण **वक्ष्यामि** ॥ ३.२६६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 266	I will now fully declare what kind of sacrificial food, given to the manes according to the rule, will serve for a long time or for eternity.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

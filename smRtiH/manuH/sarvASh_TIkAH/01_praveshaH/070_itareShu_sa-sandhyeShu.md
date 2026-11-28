@@ -35,6 +35,16 @@ diminishing in the ‘junctures’ and ‘juncture-ends’ of the Cycles.
 ‘Time-cycle’, ‘*yuga*’, is the name given to a particular aggregate of days; and ‘*Kṛtā*’ and the rest are particular names of the said ‘Time-cycle’.—(70)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्येषु त्रेताद्वापरकलियुगेषु संध्यासंध्यांशसहितेषु एकहान्या सहस्राणि शतानि च भवन्ति। तेनैवं सम्पद्यते– त्रीणि वर्षसहस्राणि त्रेतायुगम् तस्य त्रीणि वर्षशतानि सन्ध्या सन्ध्यांशश्च। एवं द्वेवर्षसहस्रेद्वापरः, तस्य द्वे वर्षशते सन्ध्या सन्ध्यांशश्च। एवं वर्षसहस्रं कलिः, तस्यैकवर्षशतं सन्ध्या सन्ध्यांशश्च॥७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । त्रेतादिषु पुनस् त्रिषु युगेषु सन्ध्यासन्ध्यांशसहितेषु एकैकहान्या **सहस्राणि शतानि च **भवन्ति** **। त्रेता त्रीणि सहस्राणि, तत् सन्ध्यासन्ध्यांशैश् च त्रीणि त्रीणि शतानि । एवं द्वापरकलियुगयोः सम्ध्यासन्ध्यांशसहितयोः पूर्वस्माद् पूर्वस्माद् एकैकसहस्र्शतापायो द्रष्टव्यः ॥ १.७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).

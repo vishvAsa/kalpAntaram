@@ -39,11 +39,20 @@ This verse is quoted in *Hemādri* (Dāna, p. 90).
 See Comparative notes for [Verse 4.234].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चान्द्रायणादितपसा कृतेन कथं ममेदं दुष्करमनुष्ठितमिति विस्मयं न कुर्यात् । यागं व कृत्वा नासत्यं वदेत् । कृतेऽपि पुरुषार्थतयाऽनृतवदननिषेधे क्रत्वर्थोऽयं पुनर्निषेधः । ब्राह्मणैः पीडितोऽपि न तान्निन्दयेत् । गवादिकं च दत्त्वा मयेदं दत्तमिति परस्य न कथयेत् ॥२३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न विस्मयेतेति** । महतापि कृच्छ्रचान्द्रायणादितपसा कृतेन “मया कियत् तपः कृतम्” इत्य् एवम् आश्चर्यं न भजेत । यागं च कृत्वा असत्यं न वदेत् । सत्य् अपि पुरुषार्थत्वेनानृतनिषेधे यागाङ्गत्वार्थः पुनर् उपदेशः । तथा पीडितो ऽपि ब्राह्मणान् न निन्देत् । दानं कृत्वा “इदं मयआ दत्तम्” इति न कथयेत् ॥ ४.२३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

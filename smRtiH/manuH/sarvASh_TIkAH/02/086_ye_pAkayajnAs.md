@@ -60,11 +60,20 @@ Manu\].
 *Bhagavadgītā*.—‘Among sacrifices, I am the Japa-offering.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मयज्ञादन्ये ये पञ्चमहायज्ञान्तर्गता वैश्वदेवहोमबलिकर्म नित्यश्राद्धातिथिभोजनात्मकाश्चत्वारः पाकयज्ञाः ।विधियज्ञा दर्शपौर्णमासादयस्तैः सहिता जपयज्ञस्य षोडशीमपि कलां न प्राप्नुवन्ति । जपयज्ञस्य षोडशांशेनापि न समा इत्यर्थः ॥८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ये पाकयज्ञा**दयश् **चत्वारो **ज्योतिष्टोमादि**विधियज्ञसहिताः ते सर्वे जपयज्ञस्य **षडशभागं मूल्यार्थं न लभन्ते इति श्रौतस्मार्तकर्मनिन्दया इदं आत्मज्ञानवान् (-वतां) प्रकृष्टफलदर्शनेन जपमाहात्म्यकथनं प्रकृतविधिस्तुत्यर्थम् ॥ २.८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 086	The four Pakayagnas and those sacrifices which are enjoined by the rules (of the Veda) are all together not equal in value to a sixteenth part of the sacrifice consisting of muttered prayers.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

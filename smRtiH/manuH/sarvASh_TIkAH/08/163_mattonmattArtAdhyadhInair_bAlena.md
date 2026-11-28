@@ -351,6 +351,16 @@ women, or at night, or outside the village, or inside a house, or at night, shou
 infant, one who has absconded through fear of the King, a bashful person, or one tormented by fear,—is not invalidated (by failure to produce its author).—But as a rule a document executed by a dying person, or enemy, one oppressed with fear, a suffering person, a woman, one intoxicated or distressed by a calamity, or at night, by fraud or by force,—does not hold good.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मद्यादिना मत्तः, उन्मत्तो, व्याध्यादिपीडितोऽपहतोऽस्वतन्त्रबालवृद्धैरस्वतत्रन्त्रत्वेन पितृमातृनियुक्तादिव्यतिरेकेण कृतऋणादानत्र्यवहारो न सिद्ध्यति ॥१६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मत्तोन्मत्तार्तान्य्धीनैर् **इति । क्षीबोन्न्मत्तव्याध्याद्युपहतचित्तगर्भदासबालातिवृद्धैः असम्बद्धेन पितृभ्रातृनियुक्तादिव्यतिरेकेण यो व्यवहारः ऋणदानादि कृतः न सिद्ध्यति ॥ ८.१६३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धर्मव्यवहारा एव मत्तादिभिः कृता न सिध्यन्ति । न केवलं प्रकरणाद् ऋणव्यवहारः । अमत्तादिभिर् अपि प्रयुज्यमानाः सर्वव्यवहारेषु ॥ ८.१६२ ॥

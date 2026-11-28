@@ -32,11 +32,20 @@ This also is quoted along with verses 233 and 234, in *Parāśaramādhava* (Āc�
 what is agreeable and beneficial to them;—he should do nothing without their permission.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ते त्रयो यावज्जीवन्ति तावदन्यं धर्म स्वातन्त्र्येण नानुतिष्ठेत् । तद्नुज्ञया तु धर्मानुष्ठानं प्राग्विहितमेव । किंतु तेष्वेव प्रत्यहं प्रियहितपरः शुश्रूषां कुर्यात् तदथ प्रीतिसाधनं प्रियम् ।भेषजपानादिवदापत्त्यामिष्टसाधनं हितम् ॥२३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+मातृपित्राचार्येषु **जीवत्सु अन्यं धर्मं नाचरेत् **। किं तर्हि । **तेष्व् एव** सर्वदा वर्तमानभविष्यदुपकारतः **कुर्याद्** इति प्रकृतविध्यर्थ्वादः । “तेषां त्रयाणाम्” इत्य् एतत्सिद्धस्यैवस्य पुनर् अभिधानं प्रकृतविधिदार्ढ्यार्थम् ॥ २.२३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

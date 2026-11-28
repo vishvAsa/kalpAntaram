@@ -50,6 +50,16 @@ goods of the depositary, by the act of God or of the King, the depositary is not
 the fault of some one, that person should be made to pay the value of the deposit along with interest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चौरर्मुषितं, उदकेन देशान्तरं प्रापितं, अग्निना वा दुग्धं निक्षेपं निक्षेपधारी न दद्यात् । यदि स्वयं तस्मान्न किञ्चिदव्यपहरति ॥१८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चौरैर्** इति । चौरैर् मुषितम् उदकेन देशान्तरं प्रापितम् अग्निना च दग्धं निक्षेपधारी न दद्यात् । यदि तत्त्वतो निक्षेपात् किञ्चिन् नापहरति ॥ ८.१८९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 चोरादिभ्यो ऽपि नाशे ऽयम् एव समुद्रयानविधिर् व्याख्यात इति । यतः पूर्व एव श्लोकार्थो ज्यायान् ॥ ८.१८८ ॥

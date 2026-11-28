@@ -38,6 +38,16 @@ This verse is quoted in *Mitākṣarā* (2.151) as describing *visible* boundari
 See Comparative notes for [Verse 8.245].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+न्यग्रोधादीन्वृक्षान्क्षीरिण उदुम्बरादींश्चरस्थायित्वात्सीमालिङ्गतान्कुर्वीत ॥२४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सीमावृक्षान्** इति ।सीमालिङ्गभूतान् न्यग्रोधादीन् वृक्षविशेषान् क्षीरिणश् च वृक्षान् उदुम्बरादीन् चिरस्थान् कारयेत् ॥ ८.२४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 246	Let him mark the boundaries (by) trees, (e.g.) Nyagrodhas, Asvatthas, Kimsukas, cotton-trees, Salas, Palmyra palms, and trees with milky juice,

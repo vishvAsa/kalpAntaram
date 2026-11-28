@@ -34,11 +34,20 @@ This verse is quoted in *Aparārka*, (p. 1229).
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पापं कृत्वा प्रायश्चित्तरूपं प्राजापत्यादिव्रतं पापमपनयति तन्नेदं प्रायश्चित्तं किंतु धर्मार्थमहमनुतिष्ठामीति स्त्रीशूद्रमूर्खादिजनमोहनं कुर्वन्नानुतिष्ठेत् ॥१९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न धर्मस्येति** । **पापं कृत्वा **धर्मार्थव्रतख्यापनव्याजेन धार्मिको ऽयम् इति शूद्रादिमूर्खलोकमोहनं कुर्वन् तेन धर्मव्रतव्याजेन **पापम्** अवच्छाद्य प्रायश्चित्तं न कुर्यात् ॥ ४.१९८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

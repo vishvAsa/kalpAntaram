@@ -27,11 +27,20 @@ The text proceeds to point out one such work common to the Manus:—“*They hav
 ‘his own.’—(61)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्रह्मपुत्रस्यास्य मनोः षड्वंशप्रभवा अन्ये मनवः। एककार्यकारिणः स्वस्वकाले सृष्टिपालनादावधिकृताः स्वाः स्वाः प्रजा उत्पादितवन्तः॥६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वायम्भुवस्येति** । अस्योक्तप्रकारेण स्वयम्भूनप्तुर् **मनोः षड् अन्ये मनवः** काले काले सृष्ट्यादौ अधिकृता वंश्याः तत्कुलोद्भूताः तदेककार्याः **स्वाह् स्वाः **प्रजा उत्पादितवन्तः ॥ १.६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

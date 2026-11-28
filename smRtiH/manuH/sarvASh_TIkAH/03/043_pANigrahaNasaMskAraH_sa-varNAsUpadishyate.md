@@ -38,6 +38,16 @@ the hand has to be held.’
 bridegroom, the hand is to be held.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+समानजातीयासु गृह्यमाणासु हस्तग्रहणलक्षणः संस्कारो गृह्यादिशास्त्रेण विधीयते । विजातीयासु पुनरुह्यमानासु विवाहकर्माण पाणिग्रहणस्थानेऽयमनरलके वक्ष्यमाणो विधिज्ञेयः ॥४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पाणिग्रहणसंस्कार** इति । हस्तग्रहणात्मकसंस्कारः गृह्योक्तः समानजातिषु गृह्यमाणासु शास्त्रेणोच्यते असजातिषु पुनः उह्यमानासु विवाहकर्मणि अयं वक्ष्यमाणो विधिः पाणिग्रहणस्थाने विज्ञेयः ॥ ३.४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 043	The ceremony of joining the hands is prescribed for (marriages with) women of equal caste (varna); know that the following rule (applies) to weddings with females of a different caste (varna).

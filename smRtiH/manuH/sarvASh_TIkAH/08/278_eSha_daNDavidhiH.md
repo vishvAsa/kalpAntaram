@@ -31,6 +31,16 @@ This verse serves the purpose of summing up the foregoing section and introducin
 268-270.)]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषोऽनन्तरोक्तो वाक्पारुष्यस्य यथावद्दण्डविधिरुक्तः, अनन्तरं ताडनादेर्दण्डपारुष्यस्यनिर्णयं वक्ष्यामि ॥२७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । एषो ऽनन्तरो वाक्सम्बन्धिनः पारुष्यस्य दण्डप्रकारो यः प्रागुक्तो ऽस्माद् अनन्तरहस्तकाष्ठशस्त्रादिसम्बन्धिनः पारुष्यस्य दुःखोत्पादनहेतोस् ताडनहिंशनादेर् दण्डनिर्णयं वक्ष्यामि ॥ ८.२७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 278	Thus the rules for punishments (applicable to cases) of defamation have been truly declared; I will next propound the decision (of cases) of assault.

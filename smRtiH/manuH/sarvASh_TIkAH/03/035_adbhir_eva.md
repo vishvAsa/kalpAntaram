@@ -54,11 +54,20 @@ According to this explanation, it becomes indicated that the ‘Brahma’ form o
 This verse is quoted in *Smṛtitattva* (II, p. 138), where it is explained as meaning that in the case of Brāhmaṇas, that marriage is considered most commendable in which water is the only substance used as the instrument; while in that of the Kṣatriya and others, it may bo accomplished, even without the pouring of water, simply by mutual consent, the father of the bride agreeing to give, and the bridegroom to receive, the girl. This does not mean, however, that in the latter case water should never be used.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उदकदानपूर्वकमेव ब्राह्मणानां कन्यादानं प्रशस्तम् । क्षत्रियादीनां पुनर्विनाऽप्युदकं परस्परेच्छया वाङ्मात्रेणापि कन्यादानं भवति । उदकपूर्वकमपीत्यनियमः ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अद्भिर् एव द्विजातीनां कन्यादानं प्रशस्यते **इति ब्राह्मणानां उदकदानपूर्वम् एव कन्यादानं प्रशस्तम् इत्य् उच्यते । क्षत्रियादीनां पुनः परस्परेच्छया विनाप्य् उदकं वाङ्मात्रेणापि दानम् इष्यते ॥ ३.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

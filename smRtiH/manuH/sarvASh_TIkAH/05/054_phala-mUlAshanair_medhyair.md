@@ -34,11 +34,20 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds that 
 *Viṣṇu* (51.77.78).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पवित्रफलमूलभक्षणैर्वानप्रस्थभोज्यानां च नीवाराद्यन्नानां भोजनैर्न तत्फलमवाप्नोति, यच्छास्त्रानियमिताप्रतिषिद्धमांसवर्जन ल्लभते ॥५४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**फलमूलाशनैर्** इति । पवित्राणां **फलमूलानां** च भक्षणैः तथा ऋषिसम्बन्धिनाम् अन्नानां नीवारादीनाम् आरण्यानां भोजने तथाविधं फलं नाप्नोति ॥ ५.५४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 054	By subsisting on pure fruit and roots, and by eating food fit for ascetics (in the forest), one does not gain (so great) a reward as by entirely avoiding (the use of) flesh.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

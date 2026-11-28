@@ -55,11 +55,20 @@ towards him should be like that towards the Teacher;—until permitted by the te
 behaviour towards him is prescribed to be like that towards the Teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यस्याचार्ये सन्निहिते आचार्य इव तस्मिन्नप्यभिवादनादिकां वृत्तिमनुतिष्ठेत् । तथा गुरुगृहे वसन् शिष्य आचार्येणानियुक्तो न स्वान्गुरून्मातृपितृ यादीनभिवादयेत् ॥२०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरोर्** इति । आचार्यगुरुर् यदा शिष्यस्य **सन्निहितो **भवति तदा तस्याप्य् आचार्यवत् वर्तेत । तथा आचार्यगृहे ऽवस्थितः तेनाननुज्ञातः स्वयोनि**गुरून्** **अभिवादयेत्** ॥ २.२०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

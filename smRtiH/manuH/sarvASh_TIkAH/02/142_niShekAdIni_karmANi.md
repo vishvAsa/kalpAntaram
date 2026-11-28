@@ -75,11 +75,20 @@ equipped with knowledge of the Veda, has excellent character, with senses under 
 paternal uncle, father-in-law are *gurus*; the elder brother, the Accomplished Student and the Ṛtvik are to be inspected like the *guru*. The mother’s sister, the maternal aunt, the mother-in-law, the nurse, the father’s sister, the paternal grandmother, the paternal aunt and the teacher’s wife are to be treated as the mother.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निषेको गर्भाधानं तेन पितुरयं गुरुत्वोपदेशः । गर्भाधानादीनि संस्कारकर्माणि पितुरुपदिष्टानि यथाशास्त्रंयः करोति, अन्नेन च संवर्धयति स विप्रो गुरुरुच्यते ॥१४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निषेकादीनीति** । गर्भाधानादिकर्माणि यथाशास्त्रं **यः करोति अन्नेन च सम्भावयति** वर्धयति **स विप्रो गुरुर् उच्यते** । एवं च पितायं गुरुः निषेकग्रहणात् ॥ १.१४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

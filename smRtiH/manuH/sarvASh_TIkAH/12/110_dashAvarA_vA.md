@@ -12,19 +12,11 @@ When an assembly consisting of at least ten men,—or of at least three men firm
 
 दश अवरे यस्या **दशावरा**[^३७२] । यदि बहवो न संनिधीयन्ते दशावश्यं संनिधातव्याः । तदभावे **त्र्यवरा**[^३७३] । **वृत्तथेति** । यद् उक्तम् "अर्थकामेष्व् असक्तानाम्" (म्ध् २.१३) इति, तस्यैवायम् अनुवादः । न चैषा पुरुषसंख्या, अपि तु गुणसंख्या । तथा च वक्ष्यति "एको ऽपि वेदवित्" (म्ध् १२.११३) इति । एकस्य यतो गुणसमूहस्य बाहुल्येनासंभवात् पुरुषप्रधानतया संख्याया निर्देशः कृतः ॥ १२.११० ॥
 
-
 [^३७३]:
      M G J: tryavarāḥ
 
-
 [^३७२]:
      M G J: daśāvarāḥ
-
-_तानीदानीं परिषत्त्वहेतुगुणान्_[^३७४]_ दर्शयति ।_
-
-
-[^३७४]:
-     M G: -hetur guṇān
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -54,6 +46,11 @@ consist of at least the ten following—four men who have completely studied the
 
 *Baudhāyana* (1.1.7, 9).—‘On failure of the *śiṣṭas*, an assembly
 consisting of at least ten members shall decide disputed points of Law.’
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दशावरेति** । यद्य् उत्पन्नयूनास् तदा दश वक्ष्यमाणविद्वांसो यस्यां परिषदि तदभावे त्रयो वा यस्यां साध्वाचारं धर्मं निश्चिनुयात् तद्धर्मत्वेन प्रतिपाद्यम् ॥ १२.११० ॥
 </details>
 
 <details><summary>भारुचिः</summary>

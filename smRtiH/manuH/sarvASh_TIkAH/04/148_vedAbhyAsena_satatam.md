@@ -31,6 +31,16 @@ The four acts mentioned bring about their result in the form of the remembrance 
 This verse is quoted in *Aparārka* (p. 229), where ‘*jātī*’ is explained as ‘birth’;—and in *Vīramitrodaya* (Āhnika, p. 320).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सततवेदाभ्यासशौचतपोऽहिंसाभिः पूर्वभवस्य जातिं स्मरति ॥१४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+उक्तस्यापि वेदाभ्यासस्य यद् अर्थं पुनर् अभिधानं तद् आह **वेदाभ्यासेनेति** । नित्यं वेदाभ्यासशौचतपोऽहिंसाभिः** **पूर्वभवस्य जन्म **स्मरति** ॥ ४.१४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.

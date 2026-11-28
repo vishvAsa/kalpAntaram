@@ -69,11 +69,20 @@ There is no force in the objection. The mention of the ‘sense-organs’ simply
 Prāṇas, to be made by the Śālīna, the Yāyāvara and the Ātmayājin.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एके गृहस्था बाह्यान्तरयज्ञानुष्ठानशास्त्रज्ञाएतान्पञ्चमहायज्ञान् ब्रह्मज्ञानप्रकर्षाद्वहिरचेष्टमानाः पञ्चसु बुद्धीन्द्रियेष्वेव पञ्चरूपज्ञानादिसंयमं कुर्वन्तः सम्पादयन्ति । यज्ञानां होमत्वानुपपत्तेः सम्पादनार्थो जुहोतिः ॥२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतान्** इति । बाह्याभ्यन्तरयज्ञोपदेशकशास्त्रज्ञाः केचिन् मनुष्याः ज्ञानबलान् नित्यानुष्ठानार्थम् उपरतधनचेष्टा एतान् महायज्ञान् **इन्द्रियेष्व् एव **सर्वकालं सम्पादयन्ति । इन्द्रियाणि अग्न्यातिथ्यादिरूपतया तत्संयमं वाग्बाहुल्यादिरूपत्वेन भावयन्ति । एतान् सम्पादयन्ति ॥ ४.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	Some men who know the ordinances for sacrificial rites, always offer these great sacrifices in their organs (of sensation), without any (external) effort.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

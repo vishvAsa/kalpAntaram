@@ -63,11 +63,22 @@ slaughter-house and dried flesh (should not be eaten). Among five-nailed animals
 should not be eaten: the cow, the camel, the ass, the horse, the elephant, the lion, the leopard, the bear, the *Śarubha*, serpents and boa constrictors, the rat, the mouse, the cat, the mongoose, the village-hog, the dog, the jackal, the tiger, the black-faced monkey, the man and the monkey.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये एकाकिनः प्रायेण चरन्ति सर्पादयस्तानेकचरान् तथा ये अभियुक्तैरपि नामजातिभेदेनावधार्य विभागतश्च मृगपक्षिणो न ज्ञायन्ते तान् ।भक्ष्येष्वपि समुद्दिष्टानिति सामान्यविशेषनिषेधाभावेन भक्ष्यपक्षनिक्षिप्तान्भक्ष्यत्वेन समुद्दिष्टांश्च तथा सर्वान्पञ्चनखान्वानरादीन्न भक्षयेत् ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भक्ष्येष्व् अपि समुद्दिष्टान् सर्वान् पञ्चनखांस् तथा ॥ ५.१७ ॥** 
+
+**न भक्षयेद्** इति । ये एककाः प्रायेणाटन्ति सर्पादयः तांस् तथा अभियुक्तैर् अपि नामजातिभिः ये मृगपक्षिणो न ज्ञायन्ते तान् विशेषसामान्यप्रतिषेधानाक्रमणे सति भक्ष्यपक्षे पतितत्वात् भक्ष्यत्वेन **समुद्धिष्टान् **एवं **पञ्चनखांश्** च **सर्वान्** नरमार्जारादीन् न भक्षयेत् ॥ ५.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	Let him not eat solitary or unknown beasts and birds, though they may fall under (the categories of) eatable (creatures), nor any five-toed (animals).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -47,11 +47,20 @@ This verse is quoted (along with 92) in *Aparārka* (p. 982) as enumerating the 
 See Comparative notes for [Verse 2.89].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेष्वेकादशसु श्रोत्रादीनि दशैतानि बहिरिन्द्रियाणि नामतो निर्दिष्टानि । पायूपस्थं हस्तपादमिति "द्वन्द्रश्च प्राणितूयसेनाङ्गानाम्" ( पा० सू० २-४-२ ) इति प्राण्यङ्गहन्दूत्वादेकवद्भावः ॥९०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तानि च **श्रोत्रम्** इति । **त्वक् **चर्म तात्स्थ्यात् । अत्र स्पर्शनेन्द्रियं **त्वक्** उच्यते । **चक्षुषी **इति अधिष्ठानभेदात् द्विवचनम् । **श्रोत्रा**दौ च तदादारशक्त्यैक्यालम्बनम् एकवचनम् । **पायुः** अपानम् **उपस्थः** लिङ्गम् । **वाक्** शब्दाभिव्यञ्जकशरीरैकदेशः ॥ २.९० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 090	(Viz.) the ear, the skin, the eyes, the tongue, and the nose as the fifth, the anus, the organ of generation, hands and feet, and the (organ of) speech, named as the tenth.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

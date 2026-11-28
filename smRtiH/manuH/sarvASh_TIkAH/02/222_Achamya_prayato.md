@@ -41,11 +41,20 @@ But in this case there would be a needless repetition. In connection with all ac
 Evening one, seated; the former while stars are visible, the latter before the stars have become visible.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचम्य पावत्रो नित्यमनन्यमनाः शुचिदेशे सावित्रीं जपन्नुभे संध्ये विधिवदुपासीत ॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **आचम्येति** । **प्रयतः **शुचिः सन् **समाहितः **संयतेन्द्रियः उपस्पृश्य **शुचौ देशे जपं **कुर्वन् सन्ध्योपासनोक्तविधिना “यावज्जीवम् उभे सन्ध्ये सेवेत” इति सन्ध्यालोपप्रायश्चित्तप्रसङ्गेनायं सन्ध्योपासनानुवादः । प्रयतत्वं समाहितत्वं शुचिदेशे विध्यर्थम् ॥ २.२२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

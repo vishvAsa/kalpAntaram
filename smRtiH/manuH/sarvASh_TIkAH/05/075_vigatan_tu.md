@@ -61,11 +61,28 @@ In regard to ‘*videśa*’, *Kṛtyasārasamuccaya* (p. 71) quotes Rudradhara 
 See Comparative notes for [Verse 5.73].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ मासत्रये त्रिरात्रं स्यात्षण्मासे पक्षिणी तथा ।**
+
+**अहस्तु नवमादर्वागूर्ध्वस्नानेन शुद्ध्यति ॥१०॥ \]**
+
+विगतं मृतं विदेशस्थं विप्रकृष्टदेशस्थमनिर्गतदशाहाद्यशौचकालं यः शृणोति स यदवशष्टंदशरात्राद्याशौचस्यतावत्कालमविशुद्धो भवति । विगतमित्युपलक्षणं जननेऽप्येतदवगन्तव्यम् । तथा च बृहस्पतिः—
+
+**अन्यदेशमृतं ज्ञातिं श्रुत्वा वा पुत्रजन्म च ।**
+
+**अनिर्गते दशाहे तु शेषाहोभिर्विशुद्ध्यति ॥७५॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विगतं त्व्** इति । **तच् छेषं दशरात्रं स्याद्** इति । देशान्तरस्थं मृतं जातं वा अनिगतदशाहादिकं श्रुत्वा दशरात्रादेर् यच् छिष्टं तावद् एवाशौचवान् भवेन् न तु परिज्ञानात् प्रभृति दशाहाशौचम् आद्रियते ॥ ५.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	He who may hear that (a relative) residing in a distant country has died, before ten (days after his death have elapsed), shall be impure for the remainder of the period of ten (days and) nights only.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -62,6 +62,16 @@ maiden; ten by false testimony regarding kine, a hundred by false testimony rega
 witness kills ten; by that regarding cows, horses, men, or land,—in each succeeding case, ten times as many as in the one preceding; or, by false evidence regarding land, the whole human race.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पशुविषयेऽनृते पञ्च बान्धवान्नरके योजयति, पञ्चानां बान्धवानां हननफलं प्राप्नोति । एवं दश गोविषये, शतमश्वविषये, सहस्रं पुरुषविषये । संख्यागौरवं चेदं प्रायश्चित्तगौरवार्थम् ॥९८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पञ्चेति** । पशुविषये ऽनृते पञ्चबान्धवान् नरकेण योजयति दश गोविषये शतम् अश्वविषये सहस्रं पुरुषविषये ॥ ८.९८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पूर्वापरान् । यद् अयम् आह —

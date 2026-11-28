@@ -94,11 +94,20 @@ vegetables, roots and fruits by water; or by removing just the defiled portion, 
 which has been defiled, and the rest should be threshed and washed.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्नेहाक्तानां चरुस्नुगादीनामुष्णजलेन शुद्धिः ।स्नेहाद्ययुक्तानां तु जलमात्रेणैव शुद्धिर्यज्ञार्थम् ॥११७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चरूणाम्** इति । चरुशूर्पादीनां यज्ञाङ्गभूतानां भाण्डविशेषाणां तदङ्गतयोष्णोदकेन शुद्धिः ॥ ५.११७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 117	The Karu and (the spoons called) Sruk and Sruva must be cleaned with hot water, likewise (the wooden sword, called) Sphya, the winnowing-basket (Surpa), the cart (for bringing the grain), the pestle and the mortar.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

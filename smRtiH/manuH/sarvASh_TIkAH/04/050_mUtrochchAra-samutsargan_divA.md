@@ -81,6 +81,11 @@ covering his head with cloth, with speech in check, avoiding spitting and breath
 grass or wood or leaves or split bamboo or earthen vessels.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**मूत्रोच्चारसमुत्सर्गम् **इति । मूत्रपुरीषोत्सर्गं **दिवा सन्ध्ययोश् **चोत्तराभिमुखो **रात्रौ दक्षिणाभिमुखः कुर्यात् **॥ ४.५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.

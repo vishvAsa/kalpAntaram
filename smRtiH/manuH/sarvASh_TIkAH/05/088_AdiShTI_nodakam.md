@@ -56,11 +56,15 @@ the death-oblations even to his Preceptor;—in *Saṃskāraratnamālā*, (p. 29
 water-offerings.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**आदिष्टी नोदकम्** इति । व्रतादेशयोगाद् आदिष्टी ब्रह्मचारी ब्रह्मचारिणः “शवकर्मणां व्रतान् निवृत्तिर् अन्यत्र मातापित्रोर्” इति वसिष्ठस्मरणान् मातापितृव्यतिरिक्तानां सपिण्डादीनाम् अनिष्टोद्कसमावर्तनान् न कुर्यत् । समाप्ते पुनः ब्रह्मचर्ये तेभ्यो ऽनिष्टोदकं दत्वा त्रिरात्रेणैव शुध्यति ॥ ५.८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 088	He who has undertaken the performance of a vow shall not pour out libations (to the dead) until the vow has been completed; but when he has offered water after its completion, he becomes pure in three days only.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

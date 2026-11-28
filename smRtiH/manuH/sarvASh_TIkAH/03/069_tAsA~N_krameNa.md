@@ -57,11 +57,20 @@ worshipping of Gods and Pitṛs, and offerings should be made to Men also.’
 shall honour Gods, Pitṛs, Sages, Guests and other strangers who come to him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तासां चुल्लयादिस्थानानां यथाक्रमं निष्कृत्यर्थमुत्पन्नपापनाशार्थं गृहस्थानां पञ्चमहायज्ञाः प्रतिदिनं मन्वादिभिरनुष्ठेयतया स्मृताः । एवं च निष्कृत्यर्थमित्यभिधानाद्धिसास्थानत्वेन च कीर्तनात् “सूनादोषैर्न लिप्यते” ( म. स्मृ. ३ /७१ ) इति वक्ष्यमाणत्वात्पञ्चसूनानां पापहेतुकत्वं, पञ्चयज्ञानां च तत्पापनाशकत्वमवगम्यते । प्रत्यहमित्यभिधानात्प्रतिदिनं तत्पापक्षयस्यापेक्षितत्वात्संध्यावन्दना दिवन्नित्यत्वमपि न विरुष्यते ॥६९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तासाम्** इति । **तासां **चुल्ल्यादीनां सूनानां यथाक्रमं **निष्कृत्यर्थं **तदुत्पन्नपापनिर्हरणार्थं **प्रत्यहं पञ्च महायज्ञाः **गृहस्थानां मन्वादिभिः स्मृताः ॥ ३.६९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

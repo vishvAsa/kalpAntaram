@@ -74,11 +74,15 @@ simultaneously, then for three days.’
 not study during the night: if it thunders in the morning they shall not study during the day and night.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**प्रादुष्कृतेष्व्** इति । अग्नीनां पुनर् अपासितभस्मतया प्रकटीकरणवेलायां सन्ध्याकाले विद्युद्गर्जितशब्दाव् एव यदा भवतो न वर्षं तदा यावज् ज्योतिः तावद् एवानध्यायः नाकालिकम्, दिवादित्यज्योतिः रात्रौ तारकाः । अतः पूर्वं सन्ध्यायाम् एतद् उत्पाते दिवैवानध्यायः पश्चिमायां चोत्पाते रात्राव् एव । शेषेषु च पुनर् वर्षाख्ये तृतीय उपजाते **यथा दिवा** तथा **रात्राव्** अप्य् अनध्यायः इत्य् उक्तानुवादः ॥ ४.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

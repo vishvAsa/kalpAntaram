@@ -40,11 +40,20 @@ strength of the Veda; for an intentional sin is not destroyed by the Veda.’
 by water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदज्ञोऽपि ब्राह्मणः शूद्रयाजकस्य लोभात्प्रतिग्रहं कृत्वा शीघ्रंशरीरादिना विनाशं गच्छति, सुतरामवेदवित् ।अपक्वमृन्मयशरावादिकमिवोदके ॥१७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+वेदज्ञो ऽपि **विप्रः** शूद्रयाजकसकाशाल् लोभेन दानादि प्रतिगृह्य मृन्मयापक्वशरावाद्युदक इवाशु **विनाश्म् **उपैति । प्रसङ्गाल् लाघवार्थं अप्रकृतम् अप्य् एतद् उक्तम् । अन्यत्र हि क्रियमाणे शूद्रयाजकग्रहणं कर्तव्यं स्यात् ॥ ३.१७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

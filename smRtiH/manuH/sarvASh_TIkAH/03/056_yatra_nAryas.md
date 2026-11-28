@@ -34,11 +34,20 @@ honoured;—and in *Aparārka* (p. 17).
 and fondled; where women are honoured, there the gods rejoice; where they are not honoured, there all rites are fruitless.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्र कुले पित्रादिभिः स्त्रियः पूज्यन्ते तत्र देवताः प्रसीदन्ति । यत्र पुनरेता न पूज्यन्ते तत्र देवताप्रसादाभावाद्यागादिक्रियाः सर्वा निष्फला भवन्तीति निन्दार्थवादः ॥४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यत्रेति **। यस्मिन् कुले पित्रादिभिः स्त्रियः पूज्यन्ते **तत्र देवताः **प्रसीदन्ति । **यत्र** पुनर् **एता न पूज्यन्ते तत्र **देवताप्रसादाभावात् यागादि**क्रियाः सर्वा निष्फला **भवन्तीति ॥ ३.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	Where women are honoured, there the gods are pleased; but where they are not honoured, no sacred rite yields rewards.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -45,6 +45,16 @@ shall bring up the food, with both hands, then serve it, with a calm mind, keepi
 2370).—‘Serving shall not be done at the Śrāddha with any article made of iron, nor by one who is without the Pavitra and the kuśa, nor with one hand.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उभयोरिति अधिकरणसप्तमीयम् । उभयोः करयोर्मुक्तमस्थितं यदन्नं ब्राह्मणान्तिकमानीयते तदसुरा दुष्टबुद्धय आच्छिन्दन्ति तस्मान्नैकहस्तेनानीय परिवेष्टव्यम् ॥२२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उभयोर्** इति । उभाभ्यां हस्ताभ्याम् अगृहीतं **यद् अन्नं** ब्राह्मणान्तिकम् आनीयते दीयते वा तत् **असुराः **देवद्विषः **दुष्ट**बुद्धयः** **आच्छिन्दति । तस्मान् नैकेन (स्मरन्) हस्तेनानीय परिवेष्टव्यम् ॥ ३.२२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.

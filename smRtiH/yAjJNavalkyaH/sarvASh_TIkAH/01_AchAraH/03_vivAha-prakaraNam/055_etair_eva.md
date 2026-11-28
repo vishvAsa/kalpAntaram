@@ -1,6 +1,7 @@
 +++
 title = "055 एतैर् एव"
 +++
+
 <details><summary>मूलम्</summary>
 
 एतैर् एव गुणैर् युक्तः  
@@ -19,11 +20,11 @@ _एवं कन्याग्रहणनियमम् उक्त्व�
 एतैर् एव पूर्वोक्तैर् गुणैर् युक्तो दोषैश् च वर्जितो वरो भवति । तस्यायम् अपरो विशेषः । सवर्ण उत्कृष्टो वा न हीनवर्णः । श्रोत्रियः स्वयं च श्रुताध्ययनसंपन्नः । यत्नात् प्रयत्नेन पुंस्त्वे परीक्षितः । परीक्षोपायश् च नारदेन दर्शितः ।
 
 > यस्याप्सु प्लवते बीजं ह्लादि मूत्रं च फेनिलम् ।   
-> पुमान् स्याल् लक्षणैः एतैर् विपरीतैस् तु षण्डकः ॥ [२] इति । (च्ड़्। न्स्म् १२.१०)
+> पुमान् स्याल् लक्षणैः एतैर् विपरीतैस् तु षण्डकः ॥ [^२] इति । (च्ड़्। न्स्म् १२.१०)
+
+[^२]: Added verses in ms. ka.: hlādiphenilamūtraś ca guruśukrarṣabhasvaraḥ | pumān syād anyathā pāṇḍuduścikitsyo mukhe bhagaḥ || śubhabījavati kṣetre putrāḥ saṃtānavardhanāḥ | niṣṭhā vivāhamantrāṇāṃ tāsāṃ syāt saptame pade ||
 
 युवा न वृद्धः । धीमान् लौकिकवैदिकव्यवहारेषु निपुणमतिः । जनप्रियः स्मितपूर्वमृद्वभिभाषणादिभिर् अनुत्तरक्तजनः ॥ १.५५ ॥
-
-[२]: Added verses in ms. ka.: hlādiphenilamūtraś ca guruśukrarṣabhasvaraḥ | pumān syād anyathā pāṇḍuduścikitsyo mukhe bhagaḥ || śubhabījavati kṣetre putrāḥ saṃtānavardhanāḥ | niṣṭhā vivāhamantrāṇāṃ tāsāṃ syāt saptame pade ||
 </details>
 
 <details><summary>अपरार्कः</summary>

@@ -22,6 +22,11 @@ When, invested with minute particles, the Individual enters the moveable or immo
 ‘*Seed*’—The source of the physical body;—‘*Immoveable*,’ that which is the cause of the birth of trees, &c.—‘*Moveable*,’ animate.—‘*Enters into*,’ becomes enclosed in;—then ‘*united with the aforesaid*,’—*i.e*., with Prāṇa and other constituents of the subtile body)—then ‘*it assumes*,’ attaches to itself, the body; *i.e*., takes up the new corporeal frame.—(56)
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+किं शरीरान्तरनिरपेक्ष एव मूर्तिं परित्य्जतीत्य् आह – **यदेति ।** **यदा** सूक्ष्मप्रमाणः सन् स्थावरबीजं जङ्गमबीजं वा अन्यद् अधितिष्ठति **तदा** इदं शरीरं त्यजति । **संसृष्टः** प्राणादिसंयुक्तः, यथोक्तं बृहदारण्यके- “तम् उत्क्रामन्तं प्राणो ऽनूत्क्रामति प्राणम् अनूत्क्रामन्तं सर्वे प्राणा अनूत्क्रामन्ति” इति ॥ १.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.

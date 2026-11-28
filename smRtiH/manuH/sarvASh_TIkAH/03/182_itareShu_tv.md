@@ -46,11 +46,20 @@ This verse is quoted in *Aparārka* (p. 454).
 avoided: those *fit for the line* alone should be invited; if one feeds the sinful man, he goes to hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इतोभ्यो विशेषेणानुक्तफलेभ्यः पङ्क्तिभोजनानर्हेभ्यः स्तेनादिभ्यो यथाकीर्तितेभ्यो यद्दत्तमन्नं तद्दातुर्भोजनार्थं मेदोरुधिरमांसमज्जास्थि भवतीति पण्डिता वदन्ति । अत्रापि जन्मान्तरे भेदःशोणितादिभुजां जातिषु जायन्त इत्यर्थः ॥१८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । इतरेभ्यः अनुक्तफलेभ्यो ऽपाङ्क्त्रेभ्यः यद् दत्तम् अन्नं तत् मेदशोणितमांसमज्जास्थि भवतीति विद्वांसः । अथ “सोमविक्रयिणे विष्ठा” इतिवद् व्याख्येयम् ॥ ३.१८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

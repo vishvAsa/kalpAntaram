@@ -11,11 +11,8 @@ Him to whom her father may give her,—or her brother with the father’s permis
 
 **भ्राता वानुमते पितुः** । यथैव पित्रानुज्ञातस्य भ्रातुर् दातृत्वम्, एवं पितुर् निरपेक्षस्यापि दातृत्वश्रुतौ भार्याया अनुमते सति दानं बोद्धव्यम् । सर्वत्र सहाधिकाराद् उभयोश् च दुहितरि स्वाम्यात् । असति पितरि मात्रापि देयेति नवमे दर्शितम् । मात्रापित्रोर् अपत्यं तन्निमित्तं च स्वाम्यम् इति युक्ता इतरेतरापेक्षा । **शुश्रूषेत** आराधयेत् । **संस्थितं च** मृतं च, **न लङ्घयेत्** । लङ्घनम् अतिक्रमणम् । न स्वातन्त्र्येणासीतेत्य् अर्थः । यथा जीवति भर्तरि तत्परवती एवं मृते ऽपि तदैव तत्परतन्त्रया भवितव्यम् । यत आह- "प्रदानं स्वाम्यकारकम्[^२७७]" (म्ध् ५.१५०) । यदैव पित्रा दत्ता तदैव पितुः स्वाम्यं निवर्तते। यस्मै दीयते तस्योत्पद्यते । अतश् च न विवाहकाल एव दानं प्राग् अपि विवाहाद् वरणकाले अस्ति दानं ॥ ५.१४९ ॥
 
-
 [^२७७]:
      M G: svāmikārakam
-
-_किमर्थस् तर्हि विवाहः ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -56,11 +53,20 @@ lord’s death will go to heaven like life-long students, even though she has no
 never approaches another man, she attains fame in this world and rejoices in the company of the Goddess Umā.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मै पिता एनां दद्यात्पितुरनुमत्या भ्राता वा, तं जीवन्तं परिचरेन्मृतं च नातिक्रामेत् । व्यभिचारेण तदीयश्राद्धतर्पणादिविरहितया पारलौकिककृत्यखण्डनेन च ॥१५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्मै दद्याद्** इति । **यस्मै पिता **पित्रनुमते **भ्राता एनां दद्यात् तं जीवन्तं **परिचरेत्, मृतं च नातिक्रमेत् व्यभिचारेण ॥ ५.१५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 151	Him to whom her father may give her, or her brother with the father's permission, she shall obey as long as he lives, and when he is dead, she must not insult (his memory).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

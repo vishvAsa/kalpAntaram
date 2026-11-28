@@ -55,11 +55,20 @@ cloth, woolen and jute are purified by sprinkling water.’
 fire and sun’s rays; they are not defiled by the touch of semen or of a dead body.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शङ्खस्य स्पृश्यपशुशृङ्गाणां स्पृश्यपश्चस्थिभवस्य गजादिदन्तस्य च क्षौमवत्पिष्टश्वेतसर्षपकल्केन गोमूत्रजलयोरन्यतरयुक्तेन शास्त्रविदा शुद्धिः कर्तव्या ॥१२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्षौमवद्** इति । शङ्खशृङ्गास्पृश्यास्थिदन्तमलानां **क्षौमवद्** गौरसर्षपचूर्णेन सोदकेन गोमूत्रेण वा मलोपघातविशेषज्ञेन **शुद्धिः कार्या** ॥ ५.१२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 121	A man who knows (the law) must purify conch-shells, horn, bone and ivory, like linen cloth, or with a mixture of cow's urine and water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

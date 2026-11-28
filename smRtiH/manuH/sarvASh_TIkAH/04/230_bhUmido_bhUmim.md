@@ -35,6 +35,16 @@ as Agni;—and by the giving of silver, he obtains beauty.’
 *Yājñavalkya* (1.210).—(See above.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूमिदो भूमेराधिपत्यं, सुवर्णदश्विरजीवित्वं, गृहदः श्रेष्ठानि वेश्मानि, रूप्यदः सकलजननयनमनोहरं रूपं लभते ॥२३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भूमिद** इति । **भूमिदो** भूम्याधिपत्यं च सुवर्णदो **दीर्घम् आयुः, गृहदः** श्रेष्ठानि गृहाणि, **रूप्यदः **उत्कृष्टं **रूपं** लभते ॥ ४.२३० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),

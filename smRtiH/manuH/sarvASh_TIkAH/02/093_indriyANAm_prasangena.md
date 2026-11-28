@@ -45,11 +45,38 @@ never attains Yoga; therefore the Yogin should make an effort to avoid addiction
 his teeth; but longing for life and longing for wealth never fade, even while the man is fading away. That which cannot be avoided by foolish-minded persons, that which does not fade even while the man is fading away, that which is a mortal disease,—such Desire when one renounces, then alone does he attain happiness.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मादिन्द्रियाणां विषयेषु प्रसक्त्या दृष्टादृष्टं च दोषं निःसंदेहं प्राप्नोति । तान्येव पुनरिन्द्रियाणि सम्यङ् नियम्य सिद्धिं मोक्षादिपुरुषार्थयोग्यतारूपां लभते । तस्मादिन्द्रियसंयमं कुर्यादिति शेषः ॥९३॥
+
+किमिन्द्रियसंयमेन विषयोपभोगादेरलब्धकामो निवत्स्यतीत्याशङ्क्याह—
+
+**न जातु कामः कामानामुपभोगेन शाम्यति ।**
+
+**हविषा कृष्णवर्त्मेवभूय एवाभिवर्धते ॥९४॥**
+
+न कदाचित्कामोऽभिलाषः काम्यन्त इति कामा विषयास्तेषामुपभोगेन निवर्तते, किंतु घृतेनाग्निरिवाधिकाधिकतममेव वर्धते, प्राप्तभोगस्यापि प्रतिदिनं तदधिकभोगवाञ्छादर्शनात् । अत एव विष्णुपुराणे ययातिवाक्यम्—
+
+**यत्पृथिव्यां व्रीहियवं हिरण्यं पशवः स्त्रियः ।**
+
+**एकस्यापि न पर्याप्तं तदित्यतितृषं त्यजेत् ॥**
+
+तथा—
+
+**पूर्णं वर्षसहस्रं मे विषयासक्तचेतसः ।**
+
+**तथाप्यनुदिनं तृष्णा ममैतेष्वेव जायते ॥९४॥**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुना इन्द्रियसंयमप्रयोजनम् आह **इन्द्र्याणाम्** इति । **इन्द्रियाणां **विषयासक्त्या दृष्टादृष्टदोषं निश्चितं पुरुषः प्राप्नोति । **तान्य् एव संयम्य** पुनः दृष्टादृष्टार्थ**सिद्धिं **निश्चयेन प्राप्नोति ॥ २.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

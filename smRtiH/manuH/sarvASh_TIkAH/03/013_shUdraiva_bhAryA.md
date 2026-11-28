@@ -49,11 +49,20 @@ order;—*i.e*., where the bridegroom’s caste is lower than that of the bride;
 See Comparative notes for [Verse 3.12].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शूद्रस्य शूद्रैव भार्या भवति न तूत्कृष्टा वैश्यादयस्तिस्रः।वैश्यस्य च शूद्रा वैश्या व भार्या मन्वादिभिः स्मृता । क्षत्रियस्य वैश्याशूद्वे क्षत्रिया च । ब्राह्मणस्य क्षत्रिया वैश्या शूद्रा ब्राह्मणी च । वसिष्ठोऽपि “शूद्रामप्येके मन्त्रवर्जम्” इति द्विजातीनां मन्त्रवर्जितं शूद्राविवाहमाह ॥१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्रेति **। **शूद्रय्स् शूद्रैव भार्या **भवति, नोत्कृष्टापकृष्टे शूद्रा वैश्या च वैश्यस्य मन्वादिभिः स्मृता । वैश्या शूद्रा क्षत्रिया च क्षत्रियस्य, क्षत्रिया वैश्या ब्राह्मणी च ब्राह्मणस्य । “शूद्राम् प्य् एके मन्त्रवर्जम्” इति **वसिष्ठ**स्मरणात् मन्त्रवर्जिता एषां द्विजातीनां भवति ॥ ३.१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

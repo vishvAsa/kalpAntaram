@@ -47,11 +47,20 @@ This verse is quoted also in *Nirṇayasindhu* (p. 166);—in
 See Comparative notes for [Verse 3.45].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अत्र रात्र्यहःशब्दावहोरात्रपरौ । शोणितदर्शनात्प्रभृति स्त्रीसंपर्कगमनादौ शिष्टनिन्दितै-श्चतुभिरन्यैरहोरान्नैः सह षोडशाहोरात्राणि मासि मासि स्त्रीणामृतुः स्वभावे भवः स्वाभाविकः । व्याध्यादिना तु न्यूनाधिक कालोऽपि भवति ॥४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋतुर्** इति । **चतुर्भिर्** दिवसैः उत्तमजननिन्दितैः सह षोडशाहोरात्राणि स्त्रीणां रोग्याद्यजनितऋतुक्रमः ॥ ३.४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 046	Sixteen (days and) nights (in each month), including four days which differ from the rest and are censured by the virtuous, (are called) the natural season of women.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

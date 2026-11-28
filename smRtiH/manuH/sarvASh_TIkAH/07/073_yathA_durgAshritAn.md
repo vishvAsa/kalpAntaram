@@ -23,6 +23,11 @@ This verse explains the use of making forts; the sense being that since even ext
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 202).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । **यथैतान्** मृगादीन् दुर्गवर्तिनो व्याधादयः **शस्त्रवः** **न हिंसन्ति** अशक्तत्वात्, एवं दुर्गाश्रितं राजानं **न शत्रव** इति ॥ ७.७३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दृष्टानत्श्लोकाव् आदरप्रतिपत्त्यर्थौ ॥ ७.७२–७३ ॥

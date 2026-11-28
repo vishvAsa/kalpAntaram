@@ -26,6 +26,16 @@ The husband is ‘*the importer of happiness*’ to his wife ‘*out of season*�
 ‘*In the next world*.’—Since it is only along with her husband that the wife is entitled to the performance of religious acts, and the acquiring of their results,—the husband is called ‘*the importer of happiness in the next world*,’—(151).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यतः मन्त्रसंस्कारो विवाहस्तकर्ता भर्ता "ऋतावुपेयात्सर्वत्र वा प्रतिषिद्धवर्जम्" इति गोतमवचनादृतुकाले, अन्यदा च नियमिह लोके च सुखस्य दाता तदाराधनेन च स्वर्गादिप्राप्तेः परलोकेऽपि सुखस्य दातेति ॥१५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनृताव्** इति । यो विवाहकृद् भर्ता “सर्वत्र वा प्रीतिविवर्जितम्” इति गौतमदर्शनाद् ऋतुकाले अन्यदा च स्त्रिया **नित्यम्** इह लोके च **सुखस्य दाता** तदाराधनेनैव च स्वर्गादिलोकप्राप्तेः **परलोके च** सुखस्य दाता ॥ ५.१५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 153	The husband who wedded her with sacred texts, always gives happiness to his wife, both in season and out of season, in this world and in the next.

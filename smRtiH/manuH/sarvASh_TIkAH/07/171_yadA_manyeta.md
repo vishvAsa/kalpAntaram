@@ -36,6 +36,16 @@ himself stronger than another, he shall declare war on him. He shall undertake t
 when it is full of crops, and the king thereof is weak, while the attacking king himself has his men and conveyances fit.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदाऽऽत्मीयममात्यादिसैन्यं हर्षयुक्तं धनादिना पुष्टं तत्त्वतो जानीयात् ,शत्रोश्चामात्यादिबलं विपरीतं तदा तं लक्षीकृत्य यायात् ॥१७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदामन्येतेति** । यदा स्वकम् अमात्यादिसैन्यं परितुष्टं धनादिना पुष्टं परमर्थेन जानीयात्, शत्रोश् च **विपरीतं** तदा तस्योपरि **यायात्** ॥ ७.१७१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रहृष्टपुष्टैः स्वकेवलकारणतः परस्य च विपरीते [सति] विगृह्य संधाय वा यायात् ॥ ७.१७१ ॥

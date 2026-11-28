@@ -12,11 +12,8 @@ One should never pass faeces or urine, while looking at the wind or fire, or a B
 
 संमुखीनत्वाद् वाय्वादीनाम् अङ्गविप्रेक्षितेनापि न मूत्रयन् पश्येत् । वायोश् चारूपत्वाद् दर्शनं तत्प्रेरितवर्णलोष्ठादिभ्रमणाद् अवसेयम् । वायुचक्रे[^११७] त्व् अयं प्रतिषेधो विप्रयुक्तः । सर्वतो हि वायुर् वाति ॥ ४.४८ ॥
 
-
 [^११७]:
      M G 1st ed.: vākyacakre; G 2nd ed.: vātyācakre
-
-_अस्यार्थवादः ।_[^११८]
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,6 +36,11 @@ This verse is quoted in *Madanapārijāta* (p. 43), which explains ‘*paśyan*�
 **
 
 See Comparative notes for [Verse 4.45].
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वाय्वग्निब्राह्मणादित्यम्** इति । **वाय्वग्निब्राह्मणादित्योदकगा** अवलोकयन् न **कदाचिन् **मूत्रपुरीषोत्सर्गं कुर्यात् वायोश् च सम्मुखीभावो ऽवलोकनम् ॥ ४.४८ ॥
 </details>
 
 <details><summary>Bühler</summary>

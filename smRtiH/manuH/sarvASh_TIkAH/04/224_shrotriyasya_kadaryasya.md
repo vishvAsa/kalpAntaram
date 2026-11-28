@@ -54,6 +54,16 @@ if he is endowed with faith; but never of that man who sacrifices for, or initia
 teacher should not be eaten, if it is not offered with respect.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एकोऽधीतवेदः कृपणश्च, परो दाता वृद्धिजीवी च तयोरुभयोरपि गुणदोषवत्त्वं विचाय देवास्तुल्यमन्नमनयोरिति निरूपितवन्तः, उभयोरपि गुणदोषसाम्यात् ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्रोत्रियस्येति **। एको ऽधीतवेदः कृपणः पर उदारो वृद्धिजीवी वा तयोर् गुणम् उभयं विचार्य देवास् तुल्यम् अन्नम् अनयोर् इति कल्पितवन्तः, उभयोर् अपि गुणयोगात् ॥ ४.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).

@@ -40,6 +40,16 @@ Do. (2.18.2).—‘Abstention from injuring living beings, truthfulness, abstent
 he must drink water purified (by straining) with a cloth; he must utter speech purified by truth; ho must perform acts purified by his mind.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+केशास्थ्यादिपरिहारार्थं दृष्टिशोधितभूमौ पादौक्षिपेत्।जलेषु क्षुद्रजन्त्स्वादिवारणार्थं वस्त्रशोधितं जलं पिबेत्। सत्यपवित्रां वाचं वदेत्। ततश्चमौनेन सह सत्यस्य विकल्पः। प्रतिषिद्धसङ्कल्पशून्यमनसा सर्वदा पवित्रात्मा स्यात्॥४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दृष्टिपूतम्** इति । प्राण्युपघातपरिहारार्थं चक्षुःशोधितं **पदं** क्षिपेत् । उदकसूक्ष्मजन्तुपरिहारार्थं च वस्त्रसंशोधितं **जलं पिबेत्** । **सत्य**पवित्रीकृतां च **वाचं वदेत्** । एवं च मौनेन हास्यविकल्पः असत्सङ्कल्पेन परिहारेण च मनसा पवित्रीकृतात्मा सर्वदा स्यात् ॥ ६.४६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रसिद्धार्थश्लोकः ॥ ६.४६ ॥

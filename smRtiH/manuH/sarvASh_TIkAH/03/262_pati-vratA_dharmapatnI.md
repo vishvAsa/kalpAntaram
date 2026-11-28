@@ -68,6 +68,16 @@ into the sky.’
 Brāhmaṇa or the fire, the goat or the bull; or it may be thrown into water.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धर्मार्थकामेषु मनोवाक्कायकर्मभिः पतिरेव मया परिचरणीय इति व्रतं यस्याः सा पतिव्रता, धर्मपत्नी सवर्णा प्रथमोढा श्राद्धक्रियाणां श्रद्धाशालिनी पुत्रार्थिनी तेषां पिण्डानां मध्यमंपितामहपिण्डं भक्षयेत्सम्यक् **“आधत्त पितरो गर्भम्”** इत्यादिगृह्योक्तमन्त्रेण ॥२६२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पतिव्रता धर्मपतीति** । मनोवाक्कायकर्मभिः धर्मार्थकामेषु पतिर् एव मया (परि)चरणीय इति व्रतं यस्याः सा **पतिव्रता धर्मपत्नी **प्रथमोढा सवर्णा श्रद्धावती पुत्रार्थिनी तेषां पिण्डानां **मध्यमपिण्डं सम्यक् **“आधत्त पितरो गर्भं” इत्यादिसूत्रकारोक्तमन्त्रेण्**आद्यात्** ॥ ३.२६२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.

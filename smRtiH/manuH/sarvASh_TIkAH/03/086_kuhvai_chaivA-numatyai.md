@@ -51,6 +51,16 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 402), where it is explaine
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुह्वाअनुमत्यै प्रजापतये द्यावापृथिवीभ्यामग्नये स्विष्टकृत इत्येवं स्वाहाकारान्तान्होमान्कुर्यात् । श्रुत्यन्तरेष्वग्निविशेषणत्वेन स्विष्टकृतो विधानात्केवलं स्विष्टकृन्निदंशेऽप्यग्निविशेषणत्वेनैव प्रयोगः ।पाठादेवान्तत्वे सिद्धे स्विष्टकृतेऽन्तत इत्यभिधानं स्मृत्यन्तरीयहोमसमुच्चयेऽप्यन्तत्वज्ञापनार्थम् ॥८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुह्वै चैवेति **। “स्वाहाकारप्रदा(धा)ना होमा” इति स्मरणात् अग्नये स्वाहा सोमाय स्वाहा इत्येवमादौ कृत्वा ततो ऽग्नीषोमाभ्यां स्वाहेत्य् अग्नीषोमयोः समस्तहोर् होमं कुर्यात् । तद् अनु विश्वेभ्यो देवेभ्यो हुत्वा धन्वन्तरये **कुह्वै** अनुमत्यै प्रजापतये द्यावापृथिवीभ्यां अन्ते अग्नये स्विष्टकृत इत्य् एवं गृह्ये ऽग्निविशेषणत्वात् स्विष्टकृत एते स्वाहाकारान्तहोमाः कार्याः ॥ ३.८५–८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 086	Further to Kuhu (the goddess of the new-moon day), to Anumati (the goddess of the full-moon day), to Pragapati (the lord of creatures), to heaven and earth conjointly, and finally to Agni Svishtakrit (the fire which performs the sacrifice well).

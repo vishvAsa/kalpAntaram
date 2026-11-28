@@ -117,6 +117,11 @@ belonged to the grandfather but became lost, is recovered by the father by his o
 father through his own effort,—all that the father cannot he forced to share with his sons.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्पुनः पितृम्बन्धि धनंतेनासामर्थ्येनोपेक्षितत्वादनवाप्तंपुत्रः स्वशक्त्या प्राप्नुयात्तत्स्वयमर्जितमनिच्छन्पुत्रैः सह न विभजेत्॥ २०९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पितामहधनस्येतरे ऽपीशत इत्य् अनया शङ्कया प्रतिषेधः । अनेन च दर्शनेन सत्यां विभागप्रतिपत्तौ वित्तं सर्वं विभजनीयम् । पित्रा पुत्रविभागस्यैतद् दर्शनम् । जीवपितृकाणाम् अस्ति विभाग इत्य् एतद् दर्शयति ॥ ९.२०९ ॥

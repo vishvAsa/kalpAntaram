@@ -46,6 +46,16 @@ born in our family as may feed at the Śrāddha the Brāhmaṇa who is a Yogin! 
 *Mahābhārata* (13. 90. 51).—\[Reproduces the first half of Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्ञानप्रधानेभ्यः पित्रर्थान्नानि यत्नादातव्यानि, देवान्नानि पुनर्व्यायावधृतार्थशास्त्रानुसारेण चतुर्भ्योऽपि ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+इति किम् आह **ज्ञाननिष्ठेष्व्** इति । ज्ञानप्रधानेभ्यो यत्नेन पित्रर्थानि देयानि । देवार्थानि पुनः शास्त्रमर्यादानतिक्रमेण चतुर्भ्यो ज्ञाननिष्ठादिभ्यो ऽपीति ॥ ३.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Oblations to the manes ought to be carefully presented to those devoted to knowledge, but offerings to the gods, in accordance with the reason (of the sacred law), to (men of) all the four (above-mentioned classes).

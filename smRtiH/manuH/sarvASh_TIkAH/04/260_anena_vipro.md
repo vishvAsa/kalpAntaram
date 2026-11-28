@@ -56,11 +56,28 @@ the night and the twilights offers prayers, becomes purified by Brahman and beco
 *End of Adhyāya IV*.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वस्योकस्य फलकथनमिदम् । अनेन शोस्त्रोक्ताचारेण वेदविद् ब्राह्मणो वर्तमानो नित्यकर्मानुष्ठानात्क्षीणपापः सन्ब्रह्मज्ञानप्रकर्षेण ब्रह्मैव लोकस्तस्मिन्लीनोमहिमानं सर्वोत्कर्षं प्राप्नोति ॥२६०॥ क्षे. श्लो. १९॥
+
+इति श्रीकुल्लूकभट्टकृतायां मन्वर्थमुक्तावल्यां मनुवृत्तोचतुर्थोऽध्यायः ॥४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । **अनेन **उक्तशास्त्राचारेण वेदार्थवित् ब्राह्मणः नित्यकर्मानुष्ठानेनोपक्षीणपापः सन् **ब्रह्मलोके **महिमानम अश्नुते ॥ ४.२६० ॥
+
+
+इति श्रीभट्टमाधवात्मजगोविन्दराजविरचितायां   
+मन्वाशयसारिण्यां टीकायां गार्हस्थसदाचारश्   
+चतुर्थो ऽध्यायः  
+पञ्चमो ऽध्यायः
+</details>
+
 <details><summary>Bühler</summary>
 
 260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

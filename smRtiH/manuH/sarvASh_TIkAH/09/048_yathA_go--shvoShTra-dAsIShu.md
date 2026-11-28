@@ -47,6 +47,11 @@ married the girl with *mantras*,—says Aṅgiras: but Uśanas says that when th
 seed grow without the soil, hence the child belongs to both—say some people.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा गवादिषु परकीयेष्वात्मवृषभादिकं नियुज्य वत्सोत्पादको न तद्भागी, तथा परकीयभार्यास्वपि नोत्पादकः प्रजाभागी भवति ॥ ४८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवम्,

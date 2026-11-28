@@ -37,6 +37,18 @@ ground, ho should dismiss them, pronouncing *svadhā-om*.’
 ground, with the mantra *Ye agni*, etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वर्णशब्दः प्रकारवाची । सर्वप्रकारकमन्नादिकं व्यञ्जनादिभिरेकीकृत्योदकेनाप्लावयित्वा
+
+कृतभोजनानां ब्राह्मणानां पुरतो भूमौ “दर्भेषु विकिरश्च यः” ( म. स्मृ. ३ / २४५ ) इति वक्ष्यभाणत्वा-द्दर्शोपरि निक्षिपेत्त्यजेत् ॥२४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सार्ववर्णिकम्** इति । सर्वप्रकारम् **अन्नाद्यम्** एकीकृत्य उदकेन प्लावयित्वा **भुक्तवतां** ब्राह्मणानाम् अग्रे विक्षिपन् भूमौ “दर्भेषु विकिरश् च यः” इति वक्ष्यमाणलिङ्गात् दर्भेषु समुत्सृजेत् ॥ ३.२४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 244	Let him mix all the kinds of food together, sprinkle them with water and put them, scattering them (on Kusa grass), down on the ground in front of (his guests), when they have finished their meal.

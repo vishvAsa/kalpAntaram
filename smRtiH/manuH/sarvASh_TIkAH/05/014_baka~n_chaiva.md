@@ -82,11 +82,20 @@ Pāṭhīna, the Rohita, the Rājīva, Siṃhatuṇḍa and Śakula, one should 
 *Yājñavalkya* (1.173-175).—(See above under 12 and 13.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वकबालाकाद्रोणकाकखञ्जनान्, तथा मत्स्यादान्पक्षिव्यतिरिक्तानपि नक्रादीन्विड्वराहांश्च । विडिति विशेषणमारण्यसूकराभ्यनुज्ञानार्थम् ।मत्स्यांश्च सर्वान्वर्जयेत् ॥१४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बकं चैवेति** । **बकं बलाकं काकोलं** च द्रोणकाकं “काकोलो द्रोणकाक उदाहृतः” इति त्रिकाण्डपाठात् । **कञ्जरीटा**ख्यं पक्षिणं **मत्स्यादांश् **च अपक्षिणो ऽपि नक्रादीन् ग्रामसूकरांश् च **मत्स्यांश् **च सर्वान् वर्जयेत् ॥ ५.१४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 014	The Baka and the Balaka crane, the raven, the Khangaritaka, (animals) that eat fish, village-pigs, and all kinds of fishes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

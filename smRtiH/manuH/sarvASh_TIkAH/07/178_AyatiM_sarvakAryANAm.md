@@ -29,6 +29,21 @@ He shall fully think over the future and the present condition of all undertakin
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 328).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वेषां कार्याणामल्पानां बहूनामण्यायतिमुत्तरकालं गुणदोषं विचारयेत् । वर्तमानकालं च शीघ्रसंपादनाद्यर्थं विचारयेत् । अतीतानां च सर्वकार्याणांगुणदोषौकिमेषांकृतं विघटितं, किं वावशिष्टमित्येवं यथावद्विचारयेत् ॥१७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आयतिम्** इति । सर्वेषां स्वल्पानाम् अपि कार्याणाम् आगामिनि काले गुणदोषा इत्य् एवं विचारयेत् वर्तमानकाले च क्षिप्रसम्पादनार्थं सर्वेषां काऋयाणां गुणदोषौ किम् एषां कृतं विचारितं किं वावशिष्टम् इत्य् एवं यावद् विचारयेत् ॥ ७.१७८ ॥
+</details>
+
+<details><summary>भारुचिः</summary>
+
+अनेकमुखत्वात् कार्याणां क्षणिकत्वाच् च तस्यां तस्याम् अवस्थायां तत्तत्कार्यम् आपद्यत इति सामान्यतः सर्वकार्यावधारणं दर्शयति ॥ ७.१७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 178	Let him fully consider the future and the immediate results of all undertakings, and the good and bad sides of all past (actions).

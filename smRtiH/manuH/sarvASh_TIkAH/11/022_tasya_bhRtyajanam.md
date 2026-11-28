@@ -30,6 +30,16 @@ Even if the king’s treasury be empty, he shall make this provision, even out o
 See Comparative notes for [Verse 11.19].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्य ब्राह्मणस्यावश्यभरणीयपुत्रादिवर्गंज्ञात्वा श्रुताचारोचिततदनुरूपं वृत्तिं स्वगृहाद्राजा कल्पयेत्॥ २२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **तस्येति** । तस्य ब्राह्मणस्यावश्यभरणीयपुत्रादिप्रैमाणं विज्ञायानुष्ठानबुद्धौ तदनुरूपां जीविकां धर्माद् अनपेतां स्वगृहाद् राजा प्रकल्पयेत्॥ ११.२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 क्षुदवसन्नात्मकभृत्यस्याइतद् उच्यते विशेषेण ॥ ११.२१ ॥

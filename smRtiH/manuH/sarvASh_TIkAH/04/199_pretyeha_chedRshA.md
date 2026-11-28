@@ -41,11 +41,15 @@ It is not only that his purpose is not accomplished, in fact, such Brāhmaṇas�
 See Comparative notes for [Verse 4.195].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**अलिङ्गीति** । अब्रह्मचारी ब्रह्मचार्यादिवेषेण यस् तद्वृत्त्या जीवति स ब्रह्मचार्यादीनां यत् पापं तद् आत्मन्य् आहरति । श्वादियोनौ च **जायते **। तस्माद् एतन् न कर्तव्यम् ॥ ४.२०० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

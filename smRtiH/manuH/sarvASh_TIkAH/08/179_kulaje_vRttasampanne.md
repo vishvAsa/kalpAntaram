@@ -76,6 +76,16 @@ another, in confidence and without suspicion, it is called by the learned a *Dep
 another man, through fear of the King, robbers or other dangers, or for the purpose of deceiving one’s heirs, it is called a *Deposit*. Let a man make a deposit, after duly considering the place, house, master of the house, the power, means, quality, veracity and kindred of the depositary.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सत्कुलप्रसूते, सदाचारवति, धर्मवेदिनि, सत्याभिधायिनि, बहुपुत्रादिपरिजने, ऋजुप्रकृतौ मनुष्ये व्यभिचाराभावान्निक्षेप स्थापयेत् ॥१७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुलज** इति । महाजने आचारवर्तिनि धर्मज्ञे सत्यवादिनि बहुसुहृत्सुजनके धनवति ऋजुप्रकृतौ मनुष्ये व्यभिचाराभावान् निक्षेपं छादयेत् (स्थापयेत्) इति सुहृदुपदेशो ऽयं दृष्टार्थः ॥ ८.१७९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निक्षेपिलक्षणविध्यर्थः श्लोकः । **कुलजे** प्रकृष्टाभिजने । [**वृत्तसंपन्ने**] आचारवति । प्रकरणाद् अर्थव्यवहारे, इतरत्र वा । एवं चार्थव्यवहारे शुचिर् भवति यदि धर्मज्ञतया **सत्यवादी** भवति । तथा च सति वृत्तविशेषणम् इदं विज्ञेयम् । एवंवृत्तो यदि भवति ततो ऽयं निक्षेपयोग्यः संपद्यते । **महापक्षश्** चागम्यश् चाटविकादीनां भवति, स्वपक्षपराभवभयाच् च न विकारं याति । एवं च धनित्वोपदेशो व्याख्येयः । **आर्यश्** चैवंवृत्तः शूद्रो ऽपि विज्ञेयः, अविक्रियात्मकत्वाद् इति । अन्ये तु द्विजातिम् आचक्षते, तस्य चादृष्टार्थं ग्रहणम् आहुर् इति ॥ ८.१७८ ॥

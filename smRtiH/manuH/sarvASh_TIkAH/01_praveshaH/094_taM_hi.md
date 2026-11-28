@@ -36,11 +36,15 @@ By the said act (of conveying the oblations and offerings) is accomplished ‘*t
 the Brāhmaṇas, for the guarding of the Vedas, for the satisfaction of Pitṛs and Gods and for the protection of Dharma. Those Brāhmaṇas who are devoted to learning and study, are the source of everything, superior to these are those who are devoted to religious acts; and superior even to these are those who are the best knowers of the science of the self.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+कस्य पुनर् अयम् उत्तमाङ्गाद् उद्भूत इत्य् अत आह – **तम्** इति । **तं **ब्राह्मणं **स्वयम्भूः **आत्ममुखात् **तपः **कृत्वा देवपित्रन्नवहनार्थं जगद्रक्षार्थं च प्रथमसृष्टौ सृष्टवान् ॥ १.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -45,6 +45,16 @@ Do. (2.17.10, 11).—‘Alter having caused the hair of his head, his beard, the
 devoted to the well-being of all creatures, calm, shall carry three staves and a water-pot, living all alone by himself; and he shall approach the village only for alms.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निखश्मश्नुः, भिक्षापात्रवान्, दण्डी, कुसुम्भः कमण्डलुस्तद्यूक्तः, सर्वप्राणिनोऽपो..रिभ्रमेत्॥५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कॢप्तकेशनखश्मशुर्** इति । लूनकेशनखश्मश्रुः पात्री दण्डकुसुम्भवा सर्वभूतान्य् अपीडयन् नियतो बुद्धिमान् सर्वदा विचरेत् ॥ ६.५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 052	His hair, nails, and beard being clipped, carrying an alms-bowl, a staff, and a water-pot, let him continually wander about, controlling himself and not hurting any creature.

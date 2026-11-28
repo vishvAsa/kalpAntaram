@@ -60,6 +60,16 @@ King shall inflict one of the various kinds of punishments on him,
 the four gradations of fines; he shall inflict gentle admonition when the offence is very light; harsh reproof, for a crime of the first degree; a fine for crime of the middle degree, and arrest in the case of high treason. Banishment also may be resorted to by the King.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अधार्मिकं चौरादिकमपराधापेक्षया त्रिभिरुपायैः प्रयत्नेन नियमयेत् । तानाह—कारःगारप्रवेशनेन, निगडादिबन्धनेन, करचरणच्छेदनादिनानाप्रकारहिंसनेन ॥३१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अधार्मिकम्** इति । अधार्मिकं चौरम् अपराधापेक्षया त्रिभिर् नियमनप्रकारैः प्रयत्नेन नियच्छेत् । बन्धनागारस्थापननिगडादिबन्धनकरचरणकर्तनादि नानाप्रकारहिंसनैर् इति ॥ ८.३१० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ताडनादिना यथापराधम् । यो यथापराध्यति, तं तथापराधानुरूपेण दण्डेन योजयेद् अरागद्वेषो धर्मतुलाम् आश्रित्य । कस्य पुनर् हेतोः । येन — ॥ ८.३०९ ॥

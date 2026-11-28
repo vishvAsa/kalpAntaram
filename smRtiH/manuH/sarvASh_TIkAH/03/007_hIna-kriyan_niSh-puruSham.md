@@ -59,11 +59,28 @@ notes;—‘*Hīnakriyam*’, not performing the prescribed duties, *i.e*., not 
 See Comparative notes for [Verse 3.6].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+जातकर्मादिक्रियारहितं, स्त्रीजनकं, वेदाध्यापनशुन्यंबहुदीर्घरोमान्वितं अर्शोनामव्याधियुक्तः, क्षयो राजयक्ष्मा, मन्दानलापस्मारश्चित्रकुष्ठयुक्तानां च कुलानि वर्जयेदिति पूर्वक्रियासंबन्धः। दृष्टमूलता चास्य प्रतिषेधस्य मातुलवदुत्पन्ना अनुवहन्ते । तेन हीनक्रियादिकुलात्परिणीतायां सन्ततिरपि तादृशी स्यात् । "व्याध्यः सञ्चारिणः” इति वैद्यकाः पठन्ति—
+
+**सर्वे संक्रामिणो रोगा वर्जयित्वा प्रवाहिकाम् । इति ।**
+
+अवेदमूला कथमियं प्रमाणमिति चेत् ? न, दृष्टार्थतयैव प्रामाण्यसंभवात् । तदुक्तं भविष्यपुराणे—
+
+**सर्वा एता वेदमूला दृष्टार्थाःपरिहृत्य तु।**
+
+मीमांसाभाष्यकारेणापि स्मृत्यधिकरणेऽभिहितम् "ये दृष्टार्थास्ते तत्प्रमाणं, ये त्वदृष्टार्थास्तेषु वैदिकशब्दानुमानम्” इति ॥७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हीनक्रियम्** इति । यागादिरहितं कुलं स्त्रीजनकं वेदशून्यं प्रचुरतरदीर्घतोमाञ्चितम् आर्शाद्याख्यव्याध्युपेतं राजयक्ष्मिमन्दाग्न्यपस्मारिश्वित्रिकुष्ठीनां च सम्बन्धीनि **कुलानि वर्जयेत् **॥ ३.७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 007	(Viz.) one which neglects the sacred rites, one in which no male children (are born), one in which the Veda is not studied, one (the members of) which have thick hair on the body, those which are subject to hemorrhoids, phthisis, weakness of digestion, epilepsy, or white or black leprosy.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

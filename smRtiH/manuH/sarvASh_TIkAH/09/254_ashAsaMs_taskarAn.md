@@ -46,6 +46,11 @@ to be construed with ‘*saḥ*’ understood.
 See Comparative notes for [Verse 9.253].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा पुनर्नृपतिश्चौरादीननिराकुर्वन् षड्भागाद्युक्तं करंगृह्णाति तस्मै राष्ट्रवासिनो जनाः कुप्यन्ति। कर्मान्तरार्जिताप्यस्य स्वर्गप्राप्तिरनेन दुष्कृतेन प्रतिबध्यते॥ २५४॥
+</details>
+
 <details><summary>Bühler</summary>
 
 254	The realm of that king who takes his share in kind, though he does not punish thieves, (will be) disturbed and he (will) lose heaven.

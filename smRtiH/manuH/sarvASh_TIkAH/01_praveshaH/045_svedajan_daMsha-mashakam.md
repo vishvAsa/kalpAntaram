@@ -28,6 +28,16 @@ Beetles, mosquitoes, lice, flies, bugs, and all their like are one group born fr
 The two halves form two distinct sentences. So Burnell; but Buhler takes the whole as one sentence.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वेदः पार्थिवद्रव्याणां तापेन क्लेदः ततो दंशमशकादि जायते। ऊष्मणश्च स्वेदहेतुणापादपि अन्यद्दंशादिसदृशंपुस्तिका - पिपीलिकादि जायते॥४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वेदजम्** इति । **स्वेदः **पार्तिवद्रव्याणां अन्तःक्लेदः । **अन्यद् **अपि च यदृशमशकादिसदृशं पिपीलिकादि तत् । **यूका मत्कुणाः **स्वेदाद् एव जायन्ते ॥ १.४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.

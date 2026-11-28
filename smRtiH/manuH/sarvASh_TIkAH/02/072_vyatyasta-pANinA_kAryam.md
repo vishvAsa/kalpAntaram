@@ -70,11 +70,20 @@ concentrating his mind, he shall touch the teacher below his knees down to his f
 right band; hands should be joined in saluting a Vedic scholar; in the case of the teacher, the feet should he clasped.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पादोपसंग्रहणं कार्यमित्यनन्तरमुक्तं, तद् व्यत्यस्तपाणिना कार्यमिति विधीयते । कोदृशो व्यत्यासः कार्य इत्यत आह-सव्येन पाणिना सव्यः पादो, दक्षिणेन पाणिना दक्षिणः पादो गुरोः रूप्रष्टव्यः । उत्तानहस्ताभ्यां चेदं पादयोः स्पर्शनं कार्यम् । यदाह पैठीनसिः - "उत्तानाभ्यां हस्ताभ्यां दक्षिणेन दक्षिणं सव्यं सव्येन पादावभिवादयेत्” । दक्षिणोपरिभावेन व्यत्यासो वाऽयं, शिष्टसमाचारात् ॥७२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+कथं पुनः पदोपसङ्ग्रहणं कर्तव्यम् इत्य् अत आह **व्यत्यस्तपाणिनेति** । इतरेतरदिगर्पितहस्तेन **गुरोः **पादोपसर्पणं कर्तव्यम् । वामेन च हस्तेन वामपादः स्पर्शनीयः **दक्षिणेन तु दक्षिणः **॥ २.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

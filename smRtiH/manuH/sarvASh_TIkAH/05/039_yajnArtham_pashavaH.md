@@ -41,11 +41,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 538).
 *Viṣṇu* (51.61).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यज्ञसिद्ध्यर्थं प्रजापतिना आत्मनैवादरेण पशवः सृष्टोः । यज्ञश्वाग्नौ प्रास्ताहुतिन्यायात्सर्वस्यास्य जगतो विवृद्ध्यर्थः । तस्माद्यज्ञे वधोऽवध एव, वधजन्यदोषाभावात् ॥३९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यज्ञार्थम्** इति । यज्ञसम्पत्त्यर्थं प्रजापतिना आत्मनैवादरेण **पशवः सृष्टाः **। यज्ञश् च “अग्नौ प्रास्ता” इति न्यायेनास्य जगतः भूत्यभिवृद्ध्यर्थम्, **तस्माद् यज्ञे **यो **वधः **सो ऽधर्माख्यवधकार्याभावाद् **अवध **एव ॥ ५.३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 039	Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices (have been instituted) for the good of this whole (world); hence the slaughtering (of beasts) for sacrifices is not slaughtering (in the ordinary sense of the word).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

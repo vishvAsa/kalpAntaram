@@ -81,11 +81,20 @@ for the apostate until he passes through the Upanayana; so long as he is not bor
 Vedic (tutorial), or marital or commercial,—should he ever held with them by any cultured person who is true to his *dharma*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतैरपूतैर्व्रात्यैर्यथाविधिप्रायश्चित्तमकृतवाद्भः सह आपत्कालेऽपि कदाचिदध्यापनकन्यादानादीन् सम्बन्धान्ब्राह्मणो नानुतिष्ठेत् ॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यावद् **विधिवत्** यथाशास्त्रं एते अपूताः कृतप्रायश्चित्ता न भवन्ति तावद् **एतैः सहापद्य् अपि **कदाचित् अध्ययनकन्यादानादीन् **सम्बन्धान् **ब्रह्मणो **नाचरेत् **॥ २.४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

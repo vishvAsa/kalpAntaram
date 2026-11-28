@@ -52,6 +52,18 @@ The epithet ‘*eternal*’ qualifies the ‘*sacrifice*’; the sacrifice havin
 The meaning of this verse, which Buhler attributes to Medhātithi, is one that the latter has not put forward at all. His explanation is somewhat different, as will be clear from the translation. He has however noted an explanation by ‘others’, which is rightly rendered by Buhler as—‘The Lord created the multitude of the gods whose nature is sacrifice and of those endowed with life.’—According to Rāghavānanda it means—‘The Lord created among beings endowed with life the (to us) invisible multitude of the gods who, by the result of their acts, have obtained their divine station, or who subsist on offerings.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स ब्रह्मा देवानां गणमसृजत्। प्राणिनामिन्द्रादीनां कर्माणि आत्मा स्वभावो येषां तेषामप्राणिनांच ग्रावादीनां (३)[^50] साध्यानां च देवविशेषाणां समूहं यज्ञं च ज्योतिष्टोमादिकं कल्पान्तरेऽप्यनुमीयमानत्वान्नित्यम्।साध्यानां च गणस्य पृथग्वचनं सूक्ष्मत्वात्॥२२॥
+
+[^50]: " 'देवानां साध्यानां' ख० ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कर्मात्मनाम्** इति । कर्माङ्गभूतानां देवानां प्राणवताम् इन्द्रादीनां यतः अप्राणा अपि यक्षादयो देवाः सन्ति, साध्यानां देवगणानां देवविशेषाणां समूहं ज्योतिष्टोमादिकं च कल्पान्तरे ऽप्य् अनुष्ठानान् नित्यं सृष्टवान् । साध्यगणस्य सूक्षमत्वात्** **पृथङ्निर्देशः ॥ १.२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 022	He, the Lord, also created the class of the gods, who are endowed with life, and whose nature is action; and the subtile class of the Sadhyas, and the eternal sacrifice.

@@ -64,11 +64,20 @@ This verse is quoted in *Saṃskāramayūkha* (p. 42), which explains ‘*paribh
 See Comparative notes for [Verse 2.200].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुरोः परीवादाच्छिष्यो मृतः खरो भवति । गुरोर्निन्दकः कुक्कुरो भवति । परिभोक्ता अनुचितेन गुरुधनेनोपजीवकः कृमिर्भवति । मत्सरी गुरोरुत्कर्षासहनः कीटो भवति । कीटः कृमिभ्यः किंचित्स्यूलो भवति ॥२०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परीवादाद्** इति । परीवादकर्ता जन्मान्तरे **खर** उत्पद्यते । **श्वा **च **निन्दा**कर्ता । अननुज्ञातगुरुधनोपजीवकः **कृमिर् भवति** । गुरुगुणासहनः **कीटः, **कृमेर् ईषदुपचितः प्राणि भवतीति पृथक्कथनम्, अत एव न कर्तव्यम् इति । न चाद्यार्थस्य लोकस्य पूर्वार्धवादित्वं युक्तम्, श्रुतशब्दानुपादानात् । उत्तराभ्यां च विध्यर्थाभ्यां साहचर्यात् । श्रवणनिषेधे दण्डापूपिकासिद्धः करणनिषेध इति चेत्, फलाभिधानं तर्हि कुतः सिद्धम्॥ २.२०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 201	By censuring (his teacher), though justly, he will become (in his next birth) an ass, by falsely defaming him, a dog; he who lives on his teacher's substance, will become a worm, and he who is envious (of his merit), a (larger) insect.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

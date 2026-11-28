@@ -49,11 +49,20 @@ daughter.’
 wise men do not become too much. attached to women.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्त्रीणामयं स्वभावः यदिह शृङ्गारचेष्टया व्यामोह्य पुरुषाणां दूषणम्। अतोऽर्थादस्माद्धेतोः पण्डिताः स्त्रीषु न प्रमत्ता भवन्ति ॥२१३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स्वभाव** इति । स्वरूपम् एतत् स्त्रीणां यन् मनुष्याणां स्मरोद्रेकजननम् । **अतो** ऽस्माद् धेतोः प्राज्ञः न स्पर्शनादिप्रमादं भजते ॥ २.२१३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 213	It is the nature of women to seduce men in this (world); for that reason the wise are never unguarded in (the company of) females.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -41,11 +41,20 @@ This verse is quoted in *Nṛsiṃhaprasāda* (Śrāddha, p. 15b);—in
 See Comparative notes for [Verse 5.111].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+"अग्निव वरुणानीरकामयत" इत्यादि वेदे श्रूयते । तथा "अग्नेः सुवर्णमिन्द्रियम्, वरुणानीनां रजतम्" इत्यादिश्रुतिष्वग्न्यापः संयोगात्सुवर्णं रजतं चोद्भूतं यस्मादतस्तयोः स्वेन कारणेनैव जलेनात्यन्तोपघातेनाग्निना निर्णैकः शुद्धिहेतुर्गुणवत्तरः प्रशस्ततरः ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अपाम्** इति । “अग्निर् वै वारुणानीरकामयत” इत्यादि वेदे श्रूयते । तत्राग्नेः सुवर्णम् इन्द्रियं वरुणादीनां रजतम् इत्य् एवं श्रूयते । एवं चाग्न्यापःसंयोगाद् यतः सुवर्णं रूप्यं चोद्भूतम् अतः तयोः स्वकारणेनैवोदकाख्येन तथैककारणकेन भस्मनैव शोधनं प्रशस्यतरम् एवं च मृदः काञ्चनरजतयोर् भस्मातिशयवत् ॥ ५.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	From the union of water and fire arose the glittering gold and silver; those two, therefore, are best purified by (the elements) from which they sprang.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

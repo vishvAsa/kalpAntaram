@@ -62,6 +62,16 @@ neighbours and senior inhabitants and natives of the district shall he consulted
 may he placed on the deposition of neighbours. If the statements of the neighbours disagree, documents may be taken as proof. If conflicting documents are produced, reliance may he placed upon the statements of aged inhabitants of the village or town, and on those of guilds and corporations.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि प्रच्छन्नप्रकाशलिङ्गदर्शनेऽपि प्रःच्छन्नाङ्गारतुषादिकुम्भा अमी स्थानान्तरं नीत्वा निखाता **‘नायं सीमातरुर्न्यग्रोधः’** **‘स नष्ट’** इत्यादि समस्त एव यदि सन्देहः स्यात्तदा साक्षिप्रमाण एव सीमाविवादनिश्चयो भवेत् ॥२५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यदीति** । लिङ्गदर्शने ऽपि ईषद् उभयत्र सीमां प्रति संशय एव भवेत् तदा साक्षिप्रत्ययः सीमाविवादनिर्णयः स्यात् ॥ ८.२५३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 [न कुतश्चिल् लिङ्ग्]ओत्पत्ताव् उभयथा लिङ्गानुस्मृतौ च साक्षिप्रत्ययः ॥ ८.२५२ ॥

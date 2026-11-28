@@ -40,11 +40,28 @@ not used either in charity, or in enjoyment, or in acquiring fame, or in acquiri
 is held superior to charity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ पात्रभूतो हि यो विप्रः प्रतिगृह्य प्रतिग्रहम् ।**
+
+**असत्सु विनियुञ्जीत तस्मै देयं न किञ्चन ॥१६॥**
+
+**संचयं कुरुते यस्तु प्रतिगृह्य समन्ततः ।**
+
+**धर्मार्थं नोपयुङ्क्तेच न तं तस्करमर्चयेत् ॥१७॥ \]**
+
+दानाख्यं धर्ममैष्टिकं पौर्तिकमन्तर्वेदिकं बहिवदिकं च सर्वदा विद्यातपोयुक्तं ब्राह्मणनासाद्य परितुष्टान्तःकरणयुक्तः यथाशक्ति कुर्यात् ॥२२७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दानधर्मम्** इति । आन्तर्वेदिको बहिर्वेदिकश् च यो दानाख्यो धर्मः तं श्रुताध्ययनादिसर्वगुणोपेतं ब्राह्मणं प्राप्य परितोषाख्येन चित्तधर्मेण यथाशक्ति नित्यं कुर्यात् ॥ ४.२२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

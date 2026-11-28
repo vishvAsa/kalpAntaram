@@ -34,6 +34,16 @@ This verse is quoted in *Yatidharmasaṅgraha* (p. 20), according to which this 
 See Comparative notes for [Verse 6.39].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद् द्विजात्सूक्ष्ममपि भयं भूतानां न भवति तस्य देहाद्विमुक्तस्य वर्तमानदेहनाशे कस्मादपि भयं न भवति॥४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्माद्** इति । यस्य द्विजस्य सकाशाद् भूतानां सूक्ष्मम् अपि **भयं नोत्पद्यते तस्य** साम्प्रतिकशरीरपाताद् अनन्तरं कस्माच्चिद् अपि **भयं न** भवति ॥ ६.४० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अग्रे दृश्यताम्।

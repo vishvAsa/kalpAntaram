@@ -45,11 +45,15 @@ It is quoted in *Hemādri* (Śrāddha, p. 481);—in *Nṛsiṃhaprasāda* (Śr�
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूतिग्रहणपूर्वकं ग्रामाणां राज्ञवाज्ञाकारि । कुत्सितनखकृष्णदन्तः । गुरुप्रतिकूलाचरणशीलत्यक्तश्रौतस्मार्ताग्निकलोपजीविनश्च हव्यकव्ययोर्वर्ज्या इति पूर्वस्यैवात्रानुषङ्ग उत्तरत्र एव च॥१५३॥
+</details>
+
 <details><summary>Bühler</summary>
 
 153	A paid servant of a village or of a king, man with deformed nails or black teeth, one who opposes his teacher, one who has forsaken the sacred fire, and a usurer;
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

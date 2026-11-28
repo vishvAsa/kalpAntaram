@@ -25,6 +25,16 @@ One should not entertain the idea that ‘punishment can be meted out by mere wo
 This verse is quoted in *Vivādaratnākara* (p. 647) which adds that punishment is called ‘*sumahattejaḥ*’ in the sense that it is extremely sharp;—and in *Vivādacintāmaṇi* (p. 262), which says that ‘*bāndhava*’ here stands for the *son*,—and that ‘*sumahat tejaḥ*’ refers to its forcible character.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यतो दण्डः प्रकृष्टतेजःस्वरूपस्तेन स्वशास्खैरसंस्कृतात्मभिः दुःखेन ध्रियतेऽतो राजधर्मरहितं नृपमेव पुत्रबन्धुसहितं नाशयति॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दण्द** इति । यतो यत् तत् सुमहत् तेजः स दण्डः सहजाद् एव विनयशून्यात्मभिश् च दुःखेन कर्तुं शक्यते ऽन्यायवर्तिनं राजानम् एव पुत्रादि बान्धवसहितं विनाशयति ॥ ७.२८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 येषां स्वाभाविको विद्योपनीतश् च विनयस् ते कृतात्मानः । तैर् अयम् शको धारयितुम् । व्परीतं तस्माच् **चलितं दण्द एव सबान्धवं हन्ति** ॥ ७.२८ ॥

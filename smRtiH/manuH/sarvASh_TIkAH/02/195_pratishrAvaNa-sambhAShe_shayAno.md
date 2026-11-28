@@ -56,11 +56,22 @@ address the teacher lying down; nor without rising while the teacher is standing
 seated or lying down, or eating, or with face turned away.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रतिश्रवणमाज्ञाङ्गीकरण, संभाषणं च गुरोः शय्यायां सुप्तः, आसनोपविष्टो, भुञ्जानः, तिष्ठन्, विमुखश्च न कुर्यात् ॥१९५॥
+
+कथं तर्हि कुर्यात् ? तदाह
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिश्रवणसम्भाषे** इति । आज्ञाङ्गीकरणकार्यार्थसम्भाषणे शयितः उपविष्टः अश्नन्न् उत्थितः अनभिमुखो न कुर्यात् ॥ २.१९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

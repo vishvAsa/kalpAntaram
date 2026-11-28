@@ -55,6 +55,32 @@ satisfies the gods and the Pitṛs with honey and clarified butter;—he who rea
 satisfies the gods with offerings of milk;—when he reads the Yajuṣ verses, with offerings of clarified butter;—when he reads the Sāma verses, with offerings of honey;—when he reads the Atharvāñgiras verses, with offerings of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and the Purāṇas,—with offerings of nectar. When he reads the Ṛk verses, streams of milk reach his Pitṛs;—when he reads the Yajuṣ verses, streams of clarified butter;—when he reads the Sāma verses, streams of honey;—when he reads the tharvāúgiras verses, streams of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī hymns, the Itihāsas and Purāṇas, streams of nectar.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अब्दमित्यन्तसंयोगे द्वितीया ।यो वर्षमप्येक स्वाध्यायसहरहविहिताङ्गयुक्तं नियत-
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+क्षेत्रसन्ध्याविधी समानकालावपि शक्यावनुष्ठातुम् । सदाशब्दो नित्यतामाह । उभयसन्ध्याशेषः आसीत् भासनमनूर्ध्वतावस्थानमुपविष्टो भवेत्, ऋक्षं नक्षत्रम्' आतद्विभावनात् आर्कदर्शनादिति य आकारः स शानुषक्तव्यः । सम्यक्शब्दो दर्शनविभावनयो विशेषणं सम्यग्यदा परिपूर्णमण्डल आदित्यो भवति नक्षत्राणि च भास्वन्ति स्वभासा युक्तानि नादित्यतजीभिभूतानि इति ॥
+
+न्द्रियः प्रयतो जपति, तस्यैव स्वाध्यायो जपयज्ञः क्षीरादीनि क्षरति क्षीरादिभिर्देवान्पितॄन्श्च प्रीणाति । ते च प्रीताः सर्वकामजपयज्ञकारिणस्तर्पयन्तीत्यथः । अत एव याज्ञवल्क्यः—
+
+**मधुना पयसा चव स देवांस्तर्पयेद् द्विजः ।**
+
+**पितॄन्मधुघृताभ्यां च ऋचोऽधीते हि योऽन्वहम् ॥ ( या० स्मृ० १-४१ )**
+
+इत्युपक्रम्य चतुर्णामेव वेदानां पुराणानां जपस्य च देवपितृतृप्तिफलमुक्त्वा शेषे
+
+**ते तृप्तास्तर्पयन्त्येनं सर्वकामफलैः शुभैः ।** ( या० स्मृ० १-४७ )
+
+इत्युक्तवान् ॥१०७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । एवं ब्रह्मयज्ञाख्यं **स्वाध्यायम्** अरण्ये गमनाद्युक्तविधानेन संयतमनाः **शुचिः **सन् **यः **संवत्सरम् **अधीते **तस्यैष **पयोदधिघृतमधूनि नित्यं** ददातीति । एवं च नित्यत्वे ऽपि फलकामनया फलम् अप्य् अतो भवति दर्शपौर्णमास्वत् ॥ २.१०७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.

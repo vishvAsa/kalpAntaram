@@ -71,11 +71,24 @@ The confusion of thought in regard to the exact meaning of this and the followin
 became assigned to whichever thing at the beginning of creation, that thing take to those same functions, whenever they are created again and again.’ ‘Harmfulness or harmlessness, gentleness or ferociousness, righteousness or unrighteousness, truthfulness or untruthfulness, with one or the other of these they are obsessed, and hence are they fond of just those.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हिंस्रं कर्म सिंहादेः करिमारणादिकम्। अहिंस्रं हरिणादेः। मृदु दयाप्रधानं विप्रादेः। क्रूरं क्षत्रि(४)[^55]यादेः। धर्मो यथा ब्रह्मचार्यादेः गुरुशुश्रूषादिः। अधर्मो यथा तस्यैव मांसमैथुनसेवनादिः। ऋतं सत्यं तच्च प्रायेण देवानाम्। अनृतमसत्यं तदपि प्रायेण मनुष्याणाम्। तथा च श्रुतिः – “सत्यवाचो देवा अनृतवाचो। मनुष्याः” इति। तेषां मध्ये यत्कर्म स(५)[^56]प्रजापतिः सर्गादौ यस्याधारयत्सृष्ट्युत्तरकालमपि स तदेव कर्म प्राक्तनादृष्टवशात्स्वयमेव भेजे॥२९॥
+
+[^55]: " 'क्रूरं क्षत्रियादेः' नास्ति क०"
+
+[^56]: "'स' नास्ति क० ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एतत् प्रपञ्चार्थम् आह **हिंस्राहिंस्रे** इति । **हिंसं कर्म व्याघ्रादेः, अहिंस्रं **रुरुप्रभृतेः, **मृदु** दयोपेतं ब्राह्मणादेः, **क्रूरं **क्षत्रियादेः । **धर्मो** यथा काकादेः परापत्यपोषणादिः । यद्य् अपि न ततस् तस्य धर्मो भवति परोपकारत्वात् धर्मत्वम् उपचर्यते । **अधर्मो **यथा बकादेः । एतद् अपि पूर्ववद् उपचारतो वञ्चनापरत्वाद् उच्यते । **ऋतं** देवानाम् **अनृतं **मनुष्याणाम्, तद् उक्तम् – सत्यवाचो देवाः अनृतं वै मनुष्या इति । यद्य् अपि **धर्माधर्म**ग्रहणेन एतत् सर्वं गतं तथापि स्वरूपभेदावलम्बनं पृथक् पृथक् द्वन्द्वतो ऽभिधानम् । तेषाम् अन्यत् **यद्** एव कर्म **यस्य** प्रजापतिर् **अददात्** दत्तवान् सृष्ट्यादौ तत् तद् एव सृष्ट्युत्तरकाले ऽप्य् असौ जायमानः **स्वयम्** एव भजते । यथाकर्म सृष्टं स्थावरजङ्गमम् इति वक्ष्यति । अतः प्राक्कल्पार्जितकर्मवशेन **यद् यस्य सो ऽददात्** इति द्रष्टव्यम् ॥ १.२९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

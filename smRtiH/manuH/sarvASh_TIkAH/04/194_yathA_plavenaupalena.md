@@ -25,11 +25,20 @@ The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
 ‘*Pratīpsakaḥ*’ is another reading; this would be derived from the root ‘*āp,’ to obtain*, with the derivative affix, and then the nominal ‘*ṇvul*’ added to it. The meaning of both would be the same.—(194)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा पाषाणमयेनोडुपादिना जले तरंस्तेनैव सहाधो गच्छति । एवं दानप्रतिग्रहशास्त्रानभिज्ञौ दातृग्राहको नरकं गच्छतः । “अतपास्त्वनधीयानः" ( म.स्मृ. ४-१९० ) इति प्रतिग्रहीतृप्राधान्येन निन्दोक्ता। इह तु दातृप्राधान्येनेत्यपुनरुक्तिः॥१९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । **तथा निमज्जतो विप्राव् अग्ञौ दातृप्रतीच्छकौ** । यथाश्ममयेन नावादिन तरन् तेनैव सह (नरके) उदके ऽन्तर्धीयते एवं दातृप्रतिग्रहीतारौ प्रतिग्रहशास्त्रानभिज्ञौ अनर्हदानप्रतिग्रहकर्तारौ नरकं यातः । दाता किल प्रतिग्रहीतृपोतावतरणमार्गेण संसारार्णवपारम् उत्तितीर्षुः यदि बालिशतया उपप्लवप्रख्यप्रतिग्रहीतृसमवलम्बनम् उररीकरोति तदा प्रत्युत तेनैव समम् अगाधोदध्यन्तर्धानवेदनासन्निहितम् अधिकतराम् अर्थान्तरतयानर्थान्तरम् अधिकम् अपि मज्जत इत्य् उपमार्थः । “अतपास् त्व् अनधीयानः” इति प्रतिग्रहीतृप्राधान्येनोक्तम्, इदं तु दातृप्राधान्येनेति अपौनरुक्त्यं (अप्रसिद्धात्) प्रतिषिद्धाद् यत्नतः परिहारार्थम् ॥ ४.१९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 194	As he who (attempts to) cross water in a boat of stone sinks (to the bottom), even so an ignorant donor and an ignorant donee sink low.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

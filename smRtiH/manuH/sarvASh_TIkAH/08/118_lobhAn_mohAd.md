@@ -60,6 +60,11 @@ Do. (Aparārka, p. 680).—‘Of false witnesses, the whole property should be c
 punished with line which is double the value of the suit; but the Brāhmaṇa should be banished. The witness who having made a statement before others, conceals it from the court, through folly,—should be made to pay a fine eight times the value of the suit; but the Brāhmaṇa should he banished.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**लोभाद्** इति । लोभविपरीतज्ञानभयमैत्रीकामक्रोधाद् अज्ञानमौर्ख्यैः बालभावात् साक्ष्यम् असत्यम् उच्यते इति दण्डवैचित्र्यार्थो ऽयम् उपन्यासः ॥ ८.११८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अनृतवचने कारणनिर्देशो ऽयंदण्डविशेषार्थः ॥ ८.११९ ॥

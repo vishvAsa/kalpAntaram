@@ -52,6 +52,16 @@ begin to serve each article separately.’
 meat, cakes, curds, butter, milk-pudding, mixed rice, and preparations of fruits.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अन्नस्येति तृतीयार्थे षष्ठी । वर्धितं पूर्णं पिठरादिपात्रं स्वयं पाणिभ्यां गृहीत्वा पितृृश्च चिन्तयत्र-सवन्त्यगारादानीय ब्राह्मणानां समीपे परिवेषणार्थमत्वरया स्थापयेत् ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**पाणिभ्याम्** इति । अन्नपूर्णपात्रं कराभ्यां गृहीत्वा **पितृन् **स्मरन् विप्रसमीपे परिवेषणार्थं **शनैः** स्थापयेत् ॥ ३.२२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.

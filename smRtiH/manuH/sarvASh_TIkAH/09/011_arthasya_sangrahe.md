@@ -61,6 +61,16 @@ in work, happy, averse to expensive ways, devoted to her husband, she shall how 
 articles in good array, to maintain saving habits, to be careful with her domestic utensils,’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धनस्य संग्रहणे विनियोगे च द्रव्यशरीरशुद्धौभत्रग्निशुषादिकेन्नसाधने पारिणाद्यस्य गृहोपकरणस्य शय्याऽऽसनकुण्डकटाहादेरवेक्षणे एनां नियोजयेत् ।वेक्षणे अवस्य आदिलीपः ॥ ११ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तान् उपायान् आह **अर्थस्येति** । धनावस्थानविनियोगयोस् तथा द्रव्यशरीरशुद्धौ शौचे धर्मे च शयनासनादिषु प्रतिजागरणे एवं च तद्व्यापृतमना श्रान्ता स्वपिति संयोगं न स्मरति ॥ ९.११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पारीणह्यम् आसनशयनोपधानास्त्रणादि "पत्नी हि पारीणह्यस्येशे" इति श्रुतेः ॥ ९.११ ॥

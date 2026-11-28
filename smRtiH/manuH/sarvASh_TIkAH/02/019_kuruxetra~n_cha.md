@@ -58,11 +58,20 @@ notes:—‘*Matsya*, *Virātdeśa*,—*Pāñchāla*’ the *Kānyakubja* and ad
 See Comparative notes for [Verse 2.18 (The Practice of Good Men)].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मत्स्यादिशब्दाः बहुवचनान्ता एव देशविशेषवाचकाः । पञ्चालाः कान्यकुब्जदेशाः । शूरसेनकामथुरादेशाः । एष ब्रह्मर्षिदेशो ब्रह्मावर्तात्किञ्चिदूनः ॥१९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कुरुक्षेत्रम्** इति । **मत्स्या**दिः विराटदेशाः **पाञ्चालाः **कान्यकुब्जा आहिच्छत्रः **शूरसेनकाः **माधुराः एष **ब्रह्मर्षिदेशा**ख्यो देशः **ब्रह्मावर्ताद् **ईषन्न्यूनः ॥ २.१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

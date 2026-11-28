@@ -40,11 +40,22 @@ is presented without asking, conveyances, house, fish, Priyaṅgu corn, garlands
 *Yājñavalkya* (1.214).—(See under 247.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गन्धोन्गन्धवन्ति कर्पूरादीदि, धानाः भृष्टयवतण्डुलान्, पयः क्षीरं, पूर्वमाहरणोपाय-
+
+निबन्वेन गवादीनामप्रत्याख्यानमुकं, शय्यादीनि त्वयाचिताहृतान्यपि दात्रा स्वगृहास्य तान्ययाचितोपकल्पितानि न प्रत्याचक्षीत ॥२५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शय्यां गृहम्** इति । शयनगृहदर्भोदकपुष्परत्नदधिधानामत्स्यक्षीरमांसशाकानि गन्धवन्ति च कर्पूरादीनि अयाचितोपस्थितानि न प्रत्याचक्षीत । एधोदकादिवाक्यपठितस्योदकस्येह पुनः पाठः श्लोकद्वयस्य पठितयोः प्रत्याख्याने तुल्यत्वज्ञापनार्थः । तथा च गौतमः- “एदादीनि शय्यादिभिः सह” एकस्मिन् सूत्रे सह पठितवान् ॥ ४.२५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 250	A couch, a house, Kusa grass, perfumes, water, flowers, jewels, sour milk, grain, fish, sweet milk, meat, and vegetables let him not reject, (if they are voluntarily offered.)
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

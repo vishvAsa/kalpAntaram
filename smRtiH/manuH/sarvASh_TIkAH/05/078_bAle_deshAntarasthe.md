@@ -45,11 +45,20 @@ those who have renounced domestic life, and those who are not
 *Sapiṇḍas*, die, the purification is immediate.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बालेऽजातदन्ते मृते जातदन्ते "नृणामकृतचूडानाम् ” ( म. स्मृ. ५-६७ ) इत्येकाहोरा-त्राभिधानाद्देशान्तरस्थे च सपिण्डे मृत इत्येकाहाशौचविषयम् । पूर्वश्लोके दशाहाशौचिनस्त्र्यह विधानात्पृथक् पिण्डे समानोदके त्रिरात्रमुक्तम् । तत्र त्रिरात्रव्यपगमे सर्वष्वेषु सचैलं स्नात्वा सद्यो विशुद्धो भवति ॥७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**बाल** इति । **आदेशान्तरस्थे **ऽपि दन्तजात्यूने **बाले देशान्तरस्थे **वा बाले ऽपि **असपिण्डसमानोदके । देशान्तरस्थेति **। मृते सचैलं स्नात्वा **सद एव विशुध्यति **। देशान्तरस्थसपिण्डजननमरणयोस् तच्छेषशुद्धिर् उक्ता । समानोदकानां च त्र्यहाच् छुद्धिर् उक्ता तद्वैकल्पिकम् अनेन सद्यःशौचम् उच्यते ॥ ५.७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 078	If an infant (that has not teethed), or a (grownup relative who is) not a Sapinda, die in a distant country, one becomes at once pure after bathing in one's clothes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

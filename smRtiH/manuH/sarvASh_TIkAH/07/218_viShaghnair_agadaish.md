@@ -39,6 +39,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 161), which explains �
 effects of poison and of sickness.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विषनाशिभिरौषधैः सर्वाणि भोज्यद्रव्याणि योजयेत् । विषहरणानि च रत्नानि यत्नवान्सर्वदा धारयेत् ॥२१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विषघ्नैर्** इति । **विषघ्नैर् **औषधप्रयोगैः सर्वद्रव्यानि भोगभोज्यादीनि लक्षयेत् । विषघ्नानि च रत्नानि गरुडोद्गीर्णनागमणिप्रभृतीनि यत्नवान् सर्वदा धारयेत् ॥ ७.२१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 218	Let him mix all his food with medicines (that are) antidotes against poison, and let him always be careful to wear gems which destroy poison.

@@ -51,11 +51,19 @@ king’s spy.’
 sentiments by conjecture and by external gestures, accurate of memory, polite and soft in speech, agile in movements, capable of bearing up with all sorts of privations and difficulties, ready-witted and expert in all things,—such a person is fit to become a spy.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स नगराधिकृतस्तान्सर्वान्ग्रामाधिपत्यादीनसति प्रयोजने सर्वदा स्वयं स्वबलेनानुगच्छेत् । तेषां च नगराधिकृतपर्यन्तानां सर्वेषामेव यद्राष्ट्रे स्वचेष्टितं तत्तद्विषयनियुक्तैश्चरैः सम्यक्प्रजाः परिणयेदवगच्छेत् ॥१२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**स** इति । **स** नागरिक एकग्रामाधिपत्यादीन् बलपूरणाय सति प्रयोजने सर्वदा स्वयं पश्चात् यातात् । **तेषां** नागरिकपर्यन्तानां राष्ट्रेषु यदाचरितं तद्विषयनियुक्तैः **चारैर्** यथा तद् राजा आगमयेत् ॥ ७.१२२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अयम् अधिपतीन् सदा परिक्रामेत् परिरक्षणाय, तेषां च वृत्तं राज[चरैः] कापटिकादिभ्या आगमयेत् ॥ ७.१२२ ॥
-
-_यत्कारणम् ।_
 </details>
 
 <details><summary>Bühler</summary>

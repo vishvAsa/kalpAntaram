@@ -32,6 +32,16 @@ This verse is quoted in *Mitākṣarā* (on 1.301);—in *Vīramitrodaya* (Lak�
 See Comparative notes for [Verse 7.45](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200709.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दण्डपातनं, वाक्पारुष्यं, अर्थदूषणं चेति क्रोधजेऽपि व्यसनगणे दोषबहुलत्वादतिशयितदुःखसाधनं मन्येत॥५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दण्डस्येति **। वाक्पारुष्यदण्डपारुष्यार्थदुषणात्मकं त्रिकं क्रोधजव्यसनगनमध्याद् दोषभूयस्त्वे सति सर्वदा दोषहेतुं बुध्येत ॥ ७.५१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अयम् अपि त्रिको गणः पैशुनादिभ्यः पापीयान् इति सुप्रतीतम् ॥ ७.५१ ॥

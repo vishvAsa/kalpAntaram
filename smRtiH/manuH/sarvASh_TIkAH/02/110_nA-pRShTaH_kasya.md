@@ -37,11 +37,20 @@ not prepared to render such respect as lies within his power.’
 asked without due respect, it destroys the questioner, as fire burns straw; therefore the Veda should not be expounded to those who do not render proper respect.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदन्येनाल्पाक्षरं विस्वरं चाधीतं तस्य तत्त्वं न वदेत् ।शिष्यस्य त्वपृच्छतोऽपि वक्तव्यम् । भक्तिश्रद्धादिप्रश्नधर्मोल्लङ्घनमन्यायस्तेन पृच्छतो न ब्रूयात् ।जानन्नपि हि प्राज्ञो लोके मूक इव व्यवहरेत् ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नापृष्ट** इति । पूर्वोक्तव्यतिरेकेणान्यस्य **कस्यचिद्** अधीयानस्य विस्वरादिकृतवतः **अपृष्टो न **कथयेत् । नापि वितण्डया **पृच्छतः** । किं तर्हि । तत्र **जानन्न् अपि **प्राज्ञः बधिर इव **लोके **व्यवहरेत् । अत्रार्थवादो निषेधार्थः ॥ २.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

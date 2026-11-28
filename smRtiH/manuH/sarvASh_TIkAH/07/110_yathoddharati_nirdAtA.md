@@ -50,6 +50,16 @@ illegal exactions from the kingdom, he quickly loses his prosperity and becomes 
 removing of dangerous elements and honouring the twice-born—for these purposes has the king been created.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा क्षेत्रे धान्यतृणादिकयोः सहोत्पन्नयोरपि धान्यानि लवनकर्ता रक्षति, तृणादिकं चोद्वरति, एवं नृपती राष्ट्रे दुष्टान्हन्यान्न त्वदुष्टांस्तदीयसहजान्भ्रातृृनपि, निर्दातृदृष्टान्तादवसीप्रते। शिष्टसहितं च राष्ट्रं रक्षेत् ॥११०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथोद्धरतीति **। यथा क्षेत्रस्य कक्षस्योत्पाटयिता कक्षं नाशयति धान्यं च रक्षति, एवं नृपो ऽनुकूलान् राष्ट्रियान् रक्षेत् प्रतिकूलांश् च हन्यात् ॥ ७.११० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 110	As the weeder plucks up the weeds and preserves the corn, even so let the king protect his kingdom and destroy his opponents.

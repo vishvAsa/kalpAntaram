@@ -32,11 +32,20 @@ Bhṛgu, to the sages who had questioned Manu*.\]
 With this verse ends the *Introductory Section* of the work, describing the Origin of the Law and the authorship of the ordinances.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स भृगुर्मनुना तथोक्तोऽयं श्रावयिष्यतीति यस्मादेषोऽधिजग इत्युक्तस्ततोऽनन्तरमनेकमुनिसन्निधौ गुरुसम्भावनया प्रीतमनास्तानृषीन् प्रत्युवाच श्रूयतामिति॥६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत** इति । **स भृगुः मनुना तथोक्तः **अयं श्रावयिष्यतीत्य् अनेन प्रकारेणार्थाद् उक्तो न तु त्वं श्रावयेति । **ततो** ऽनन्तरं **स** (गुरुः) **भृगुः** सम्भावनया **प्रीतात्मा तान् ऋषीन् श्रूयताम् इत्य् **उवाच ॥ १.६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 060	Then that great sage Bhrigu, being thus addressed by Manu, spoke, pleased in his heart, to all the sages, 'Listen!'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

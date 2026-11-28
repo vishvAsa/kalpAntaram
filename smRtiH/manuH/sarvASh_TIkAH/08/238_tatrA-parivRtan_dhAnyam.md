@@ -38,6 +38,16 @@ road, the responsibility falls on the herdsman and on the owner of the field.’
 near a highway, or near a village, or in a field adjacent to the pasture-ground; or if it has been done in an unenclosed field.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्मिन्परिहारस्थाने यदि केनचिददत्तावृतिकं धान्यमुप्यते, तच्चेत्पशवो भक्षेयुः, तत्र पशुपालानां नृपो दण्डं न कुर्यात् ॥२३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तत्रेति** । तस्मिन् व्यवहारस्थाने यदि केनचिद् धान्यम् उप्येत अदत्तवृत्तिके चेद् यदि पशवो भक्षयेयुः तदा तत्र पशुपालानां राजा दण्डं न कुर्यात् ॥ ८.२३८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यदि तु तत्र भूलोपात् समुप्यते न केनचित् परिवृतं च भवेत्, ततस् तद्भक्षणे गोभिर् न दोषः स्यात् पशुरक्षिणाम् ॥ ८.२३७ ॥

@@ -24,6 +24,16 @@ The twice-born person, who, by this successive process, goes forth (as a mendica
 This verse describee the reward following from true knowledge and from the proper fulfilment of the duties of the particular life-stage.—(85).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनेन यथाक्रमोक्तानुष्ठानेन यः प्रव्रज्याश्रममाश्रयति स इह लोके पापं विसृज्य परं ब्रह्म प्राप्नोति, ब्रह्मसाक्षात्कारेणोपाधिशरीरनाशाद् ब्रह्मण्यैक्यं गच्छति॥८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । उक्तेनाश्रमसम्बन्धेन यो द्विजः प्रव्र्ज्याम् आश्रयति इहैव लोके कल्मषं निर्दह्य क्षयात् परं ब्रह्मरूपं सम्पद्यते ॥ ६.८५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अयं श्लोकः परव्रज्याधिकारस्तुत्यर्थः, आश्रमसमुच्चयस्तुत्यर्थो वा ॥ ६.८५ ॥

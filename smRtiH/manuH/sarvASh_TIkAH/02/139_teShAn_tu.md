@@ -36,11 +36,22 @@ This verse also is simply quoted in *Vīramitrodaya* (Saṃskāra, p. 477);—an
 See Comparative notes for [Verse 2.138].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषामेकत्रमिलितानां देशाधिपस्नातकौ मान्यौ । राजस्नातकयोरपि स्नातक एव राजापेक्षया मान्यः । अतो राजशब्दोऽत्र पूर्वश्लोके न केवलजातिवचनः, किन्त्वभिषिकक्षत्रियजातिवचनः, क्षत्रियजात्यपेक्षया “ब्राह्मणं दशवर्षं तु” (अ० २ श्लो०१३५) इत्यनेन ब्राह्मणमात्रस्य मान्यत्वाभिधानात्स्नातक ग्रहणवैयर्थ्यात् ॥१३९॥
+
+आचार्यादिशब्दार्थमाह तैः शब्दैरिह शास्त्रे प्रायो व्यवहारात् ।
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम्** इति । **तेषां तु** पुनः चक्रादीनाम् एकवर्त्मनि वर्तिनां चक्रादिभिः प्रकृतेन पथो दानेन **राजस्नातकौ मान्यौ** । राजस्नातकयोः एकवर्त्मनि वर्तिनोः **स्नातको मानं** भजते ॥ १.१३९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

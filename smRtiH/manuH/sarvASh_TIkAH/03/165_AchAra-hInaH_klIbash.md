@@ -44,11 +44,20 @@ This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 688);�
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+गुर्वतिथिप्रत्युत्थानाद्याचारवर्जितः, क्लीबो धर्मकृत्यादौ निरुत्साह, नपुंसकस्योकत्वात् । नित्यं याचनेन परोद्वेजकः, स्वयंकृतया कृष्या यो जीवति, वृत्त्यन्तरेऽपि वा सम्भवत्यस्वयंकृतयाऽपि, श्लोपदी व्याधिना स्थूलचरणः, केनापि निमित्तेन साधूनां निन्दाविषयः ॥१६५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आचारहीन** इति । प्रत्युत्थानाद्याचारवर्जितः, **क्लीबः **निरुत्साहः, नपुंसकस्योक्तत्वात्, सर्वदा याच्ञास्वभावः । अस्वयङ्कृतं वापि यः कृष्या वृत्त्यन्तरसम्भवे ऽपि जीवति, **श्लीपदी **व्याधिविशेषाद् उच्छून्नैकचरणः साधुभिर् निन्दितः केनापि निमित्तेनेत्य् एतत् । उभयत्र बहिःकार्याः ॥ ३.१६५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 165	He who does not follow the rule of conduct, a (man destitute of energy like a) eunuch, one who constantly asks (for favours), he who lives by agriculture, a club-footed man, and he who is censured by virtuous men,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

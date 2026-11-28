@@ -52,6 +52,25 @@ and having passed through the animal bodies, the sinners are born as human being
 wine-drinker has black teeth, the gold stealer has deformed nails; the violator of the Guru’s bed suffers from skin diseases; the stealer of food becomes dyspeptic; the stealer of words, dumb; the mixer of grains has a limb too many; the back-biter has stinking nostrils; the stealer of sesamum becomes the oil-drinking animal; calumniator has stinking mouth; one who has intercourse with another’s wife and one who steals a Brāhmaṇa’s property becomes a Brahmarākṣasa in a desolate forest; those who steal gems are born in low castes; one who steals clothes suffers from white leprosy.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इह जन्मनि निषिद्धाचरणैः केचित्पूर्वजन्मकृतैर्दुष्टस्वभावा मनुष्या कौनख्यादिकं रूपविपर्ययं प्राप्नुवन्ति ॥ ४८ ॥
+
+**सुवर्णचौरः कौनख्यं सुरापः श्यावदन्तताम् ।  
+ब्रह्महा क्षयरोगित्वं दौश्चर्म्यं गुरुतल्पगः ॥ ४६ ॥  
+पिशुनः पौतिनासिक्यं सूचकः पूतिवक्त्रताम् ।  
+धान्यचौरोऽङ्गहीनत्वमातिरेक्यं तु मिश्रकः ॥ ५० ॥  
+अन्नहर्ताऽऽमयावित्वं मौक्यं वागपहारकः ।  
+वस्त्रापहारकः श्वैत्र्यं पङ्गतामश्वहारकः ॥ ५१ ॥  
+\[दीपहर्ता भवेदन्धः काणो निर्वापको भवेत् ।  
+हिंसया व्याधिभूयस्त्वमरोगित्वमहिंसया ॥ ६ ॥\]**
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इहेति** । केचिद् दुष्टात्मानो मनुष्या इह विरुद्धाचरणैः कौनख्यादिकं रूपविषयं प्राप्नुवन्त्य् अन्ये च प्राग्जन्मार्जितैर् दुष्कृतैर् इति ॥ ११.४७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च œऊर्वकृताद् एव कर्मणो ऽभ्युदयप्रत्यव्याव् इति यत् सांख्यैर् उच्यते तद् अवसन्नम् । सो ऽयम् अधुनाकुशलकर्मनिमित्तो रूपविपर्ययप्रपञ्चो ऽनुक्रम्यते प्रायश्चित्तानुष्ठानशेषतया ॥ ११.४७ ॥

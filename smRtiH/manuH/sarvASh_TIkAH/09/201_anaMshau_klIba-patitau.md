@@ -72,6 +72,11 @@ wife of equal caste, yet he cannot inherit property if he is devoid of good qual
 the insane, the idiot, the blind, the outcast, the outcast’s child and the religious hypocrite, do not share in the inheritance; but food and clothing are given to all these, except the outcast. The sons of these however, if they are free from defects, should receive their share in the property.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नपुंसकपतितजात्यन्धश्रोत्रविकलोन्मत्तजडमुकाश्च ये च कुणिङ्ग्वादयो विकलेन्द्रियास्ते पित्रादिधनहरा न भवन्ति। किन्तु ग्रासाच्छादनभागिनः॥ २०१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 इत्य् अनेन पीठसर्पिपंग्वादयो ऽपि गृह्यन्ते सामर्थ्यात् ॥ ९.२०१ ॥

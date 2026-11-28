@@ -46,11 +46,20 @@ This is quoted in *Aparārka* (p. 103);—in *Hemādri* (Kāla, p. 722);—in
 See Comparative notes for [Verse 3.45].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वोक्तास्वपि दशसु मध्ये षष्ठ्यष्टम्याद्यासु रात्रिषु गमने पुत्रा उत्पद्यन्ते । अयुग्मासु पञ्च-मोससम्यादिषु दुहितरः । अतः पुत्रार्थी युग्मासु ऋतुकाले भार्योगच्छेत् ॥४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**युग्मास्व्** इति । **युग्मासु** षष्ट्यष्टम्याद्यासु गच्छतः **पुत्रा जायन्ते** । **अयुग्मासु **सप्तमीनवम्याद्यासु स्त्रियः । अतः **पुत्रार्थी युग्मासु** ऋतुकाले भार्यां व्रजेत्, यास्व् अल्पीभावाद् आर्तवस्य । तथा चायुर्वेदः “युग्मास्व् अल्पी भवत्य् आर्तवम् अयुग्मासु तस्मात् पुत्रस्य दुहितुर् जन्मोत्पद्यते” ॥ ३.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

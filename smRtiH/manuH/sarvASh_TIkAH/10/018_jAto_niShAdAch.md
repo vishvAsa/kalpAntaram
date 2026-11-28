@@ -55,6 +55,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 514).
 See Comparative notes for [Verse 10.6].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निषादाच्छूद्रायां जातो जात्या पुक्कसो भवति । निषाद्यांपुनः शूद्राद्यो जातः स कुक्कुटकनामा स्मृतः ॥ १८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **जातो निषादाच् छूद्रायां जात्या भवति पुल्कसः ।**

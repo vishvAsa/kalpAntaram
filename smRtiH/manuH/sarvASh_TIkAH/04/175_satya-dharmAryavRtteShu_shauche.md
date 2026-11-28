@@ -54,11 +54,20 @@ What has been already said before, is repeated over and over again, because whol
 generative organ, the stomach, the hands, the feet, speech and eyes. He shall be devoted to Truthfulness and Rightful Conduct. He shall be the instructor of well-disciplined pupils; practised in cleanliness, and devoted to the Veda;—ever harmless, mild, firmly active, self-controlled and charitable.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सत्यधर्मसदाचारशौचेषु सर्वदा रतिं कुर्यात् । शिष्यांश्चानुशासनीयान्भार्यापुत्रदासच्छात्रान् "रज्ज्वा वेणुदलेन वा” ( म. स्मू. ८-२९९ ) इति प्रकारेण शासयेत् । उक्तानामष्यभिधानादादरार्थं वाग्बाहूदरसंयतश्च स्यात् । वाक्संयमः सत्यभाषिता । बाहुसंयमो बाहुबलेन कस्याप्यपीडनम् ।उदरसंयमो यथालब्धाल्पभोजनम् ॥१७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यत एवम् अतः **सत्यधर्मार्यवृत्तेष्व्** इति । **सत्यधर्म**साध्वाचारशौचेषु, सर्वदा रतिं भावयेत् । शासनीयांश् च भार्यादीन् “पृष्ठतस् तु शरीरस्य” इत्यादिशास्त्रमर्यादया **वाग्बाहूदर**सयमयुक्तो नियमयेद् इत्य् उक्तम् । पुनर्वचन अशिष्टानाम् अभिनिवेशदार्ढ्यार्थम् ॥ ४.१७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 175	Let him always delight in truthfulness, (obedience to) the sacred law, conduct worthy of an Aryan, and purity; let him chastise his pupils according to the sacred law; let him keep his speech, his arms, and his belly under control.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

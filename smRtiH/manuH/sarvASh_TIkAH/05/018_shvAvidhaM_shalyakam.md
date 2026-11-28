@@ -46,11 +46,20 @@ This verse is quoted in *Mitākṣarā* (on 1.177);—in *Vīramitrodaya* (Āhni
 See Comparative notes for [Verse 5.17].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+श्वाविधं सेधाख्यं प्राणिभेदं, शल्यकं तत्सदृशं स्थूललोमानं, तथा गोधागण्डककच्छपशशाल्पञ्चनखेषु भक्ष्यान्मन्वादयः प्राहुः । तथोष्ट्रवर्जितानेकदन्तपङ्क्त्येपेतान् ॥१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्र प्रतिप्रसवम् आह **श्वाविधं **शल्यकं** गोधां खड्गकूर्मशशांस् तथेति **। **श्वाविधं** सेधाख्यं प्राणिभेदं **शल्यकं **चाषं **गोधां** च प्राणिविशेषं **खड्गं** गण्डकं **कूर्मं** कच्छपं **शशं** च पञ्चनखेषु मध्यात् भक्षणार्हान् मन्वादय आहुः । तथा एकदन्तपङ्क्त्युपेतेषु मध्यात् उष्ट्रवर्जितान् अजादीन् इति भावः ॥ ५.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	The porcupine, the hedgehog, the iguana, the rhinoceros, the tortoise, and the hare they declare to be eatable; likewise those (domestic animals) that have teeth in one jaw only, excepting camels.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

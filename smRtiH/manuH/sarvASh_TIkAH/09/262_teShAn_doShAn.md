@@ -29,6 +29,11 @@ This verse is quoted in *Vivādaratnākara* (p. 293), which adds the following n
 See Comparative notes for [Verse 9.261].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां प्रकाशाप्रकाशतस्कराणां स्वकर्मणि चौर्यादौ ये पारमार्थिका दोषाः संविच्छेदादयस्तांल्लोके प्रख्याप्य तद्गतघनशरीरादिसामर्थ्यापेक्षयाऽपराधापेक्षया चराजा दण्डं कुर्यात्॥२६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 कस्य पुनर् हेतोस् तत्र दण्डानुष्ठानं राज्ञः शिष्यते। येन,

@@ -79,6 +79,11 @@ month, even the slayer of a learned Brāhmaṇa.’
 approached a river, he suspends his breath sixteen times and takes only one meal of sacrificial food, each day, for a month.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सव्याहृतिसप्रणवाः सावित्रीशिरोयुक्ताः पूरककुम्भकरेचकादिविधिना प्रत्यहं षोडश प्राणायामाः कृता मासाद् ब्रह्मघ्नमपि निष्पापं कुर्वन्ति। अपिशब्दादातिदेशिकब्रह्महत्याप्रायश्चित्ताधिकृतमपि। एतच्च प्रायश्चित्तं द्विजातीनामेव न स्त्रीशूद्रादेर्मन्त्रानधिकारात्॥२४८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ब्रह्महत्यायाम् अभिधाय, रहस्यं सुरापस्येदानीम् आह ॥ ११.२४५ ॥

@@ -48,6 +48,11 @@ under 3.259, to the effect that the performance of expiatory rites is necessary 
 See Comparative notes for [Verse 9.235].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+शास्त्रविहितं प्रायश्चितं पुनः कुर्वाणा ब्राह्मणादयस्त्रयो वर्णा राज्ञा ललाटेऽङ्कनीया न भवेयुः \। उत्तमसाहसं पुनर्दण्डमीयाः ॥ २४० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पूर्वे वर्णाः ब्राह्मणादयः । प्रमादवधे च पञ्चशतो दण्ड इत्य् एतद् अर्थाद् गम्यते ॥ ९.२४० ॥

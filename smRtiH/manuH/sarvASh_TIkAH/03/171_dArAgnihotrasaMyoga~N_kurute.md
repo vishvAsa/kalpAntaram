@@ -120,11 +120,20 @@ marries before such brothers as are the sons of uncles or of step-mothers, or of
 *Yama* (Parāśaramādhava, p. 690).—(Do.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अग्निहोत्रशब्दोऽयमग्निहोत्राद्याधानपरः । यः सहोदरे ज्येष्ठे भ्रातर्यनूढेऽनग्निके च दारपरिग्रहंश्रौतस्मार्ताग्निहरणं च कुरुते स परिवेत्ताज्येष्ठश्च परिवत्तिर्भवति ॥१७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+परिवेत्त्रादीन् अप्रसिद्धत्वाल् लक्षयति **दानाग्निहोत्रसंयोगम्** इति । यो ज्येष्ठे भ्रातरि अकृतदारके सति दारश्रौतस्मार्ताग्न्यानयनं कुरुते **स परिवेत्ता, **ज्येष्ठश् च **परिवित्तिर्** बोध्यः ॥ ३.१७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

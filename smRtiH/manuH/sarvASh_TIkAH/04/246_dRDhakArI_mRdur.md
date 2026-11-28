@@ -29,11 +29,20 @@ He who acts resolutely, is gentle and tolerant, who does not associate with pers
 ‘*Self-control*’ being mentioned separately, the term, ‘*dāntaḥ*,’ should he taken to mean ‘tolerant of opposition.’—(246)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रारब्धसम्पादयितादृढकारी मृदुरनिष्ठरः, दमस्य पृथगुपादानाद्इति शीतातपादिद्वन्द्वसहिष्णुग्रहीतव्यः । क्रूराचारैः पुरुषैः संसर्गंपरिहरन् परहिंसानिवृत्तः, तथाव्रत एव नियमदमेन्द्रियसंयमाख्येन च दानेन स्वर्गं प्राप्नोति ॥२४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दृढकारीति** । आरब्धसम्पादनशक्तिः अक्रूरः शीतातपादि, द्वन्द्वसहिष्णुः निर्दयाचारैः सहावसन् अहिंसको यः स एवं नियमः सदमेनोपशमेन इन्द्रियसंयमाख्येन दानेन च स्वर्गं प्राप्नुयात् ॥ ४.२४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

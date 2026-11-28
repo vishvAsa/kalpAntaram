@@ -38,11 +38,20 @@ which notes that what this forbids is the marrying and begetting of child on a �
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सवर्णामपरिणीय दैवात्स्नेहाद्वा शूद्रापरिणेतुर्ब्राह्मणस्य गमननिषेधोऽयं निन्दया निषेधस्मृत्यनुमानात् शूद्रां गत्वा ब्राह्मणो नरकं गच्छति । जनयित्वा सुतं तस्यामिति ऋतुकालगमननिषेधपरम् । ब्राह्मण्यादेव हीयत इति दोषभूयस्त्वार्थम् ॥१७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**शूद्राम्** इति । **शूद्रां **गत्वा **ब्राह्मणो **नरकं व्रजति, इत्य् अत्यन्तप्रतिषेधः । शेषो ऽर्थवादः । **सुतं **शूद्रायाम् उत्पाद्य **ब्राह्मण्याद् एव **भ्रश्यतीत्य् अयं सुतोत्पत्तिनिषेधार्थवादः । एवं चेहार्थवादो यो ब्राह्मणग्रहणाद् अत्यन्तप्रतिषेधः सुतोत्पत्तिनिषेधो ब्रह्मणनविषयाद् एव ॥ ३.१७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

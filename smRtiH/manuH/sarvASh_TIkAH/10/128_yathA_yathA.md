@@ -18,6 +18,16 @@ As the Śūdra, free from envy, maintains the right course of conduct, so does h
 The meaning of this verse has been already explained.—(128)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+परगुणानिन्दकः शुद्रो यथा यथा द्विजात्याचारमनिषिद्धमनुतिष्ठति तथा तथा जनैरनिन्दित इह लोके उत्कृष्टः स्मृतः स्वर्गादिलोकं च प्राप्नोति॥ १२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति ** । यस्माद् अनिन्दकः शूद्रो यथावद् द्विजात्याचारम् अनिषिद्धम् अनुतिष्ठति तथा तथा अगर्हितः सन्न् इह लोके कीर्तिं परलोके स्वर्गं प्राप्नोति ॥ १०.१२८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स्मार्तानां कर्मणां शूद्रक्रियापक्षे स्तुतिर् अनुष्ठानप्ररोचनार्था ॥ १०.१२८ ॥

@@ -51,6 +51,16 @@ of those acquired,—these are the two fields over which the ingenuity and prowe
 facilitating the augmentation of what has been acquired and the proper consignment of the thriving object to the care of a deserving person, suppression of wrong, following of the path of rectitude, and the doing of good to one who has done, good—these are the functions of the king.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अजितं भूमिहिरण्यादि जेतुमिच्छेत् । जितं प्रयत्नतो रक्षेत् । रक्षितं च वाणिज्यादिना वर्धयेत् । वृद्धं च पात्रेभ्यो दद्यात् ॥९९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अलब्धम्** इति । अजितं भूहिरण्यसुवर्णादि जेतुं यत्नं कुर्यात् । जितं च यत्नतो रक्षेत् । रक्षितं च वृद्धिं नयेत् । एवम् अस्य महाधनत्वात् स्वपरपरिभवो न भवति । वर्धितं च पात्रेभ्यो दद्यात् । तथा सति परलोकाभ्युदयो ऽप्य् अस्य भवति ॥ ७.९९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 [**लिप्सेता**]लिप्समानः संतुष्टः सन् राजा सपत्नैर् महद्भिर् दायादैर् वर्धमानैर् उच्छिद्येताल्पतन्त्रत्वाद्, अर्जितं चारक्षन् केवलेनार्जितक्लेशेन फलरहितेन संक्षिप्यते, **रक्षितं** च सम्यग् अवर्धयन् क्षीयते । तदुपयुञ्जानो ऽन्यस्याभावात् तदार्जितं रक्षितं वर्धितं च यन् महता यत्नत्रयेण तदप्रयच्छन् पात्रेभ्यः परलोकाद् धीयते । निष्का[मतयास्यैव यत्न]त्रयसाध्यं क्लेशत्रयम् आपद्यते ॥ ७.९९ ॥

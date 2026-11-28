@@ -51,11 +51,20 @@ obtains as alms, he should present to the teacher; he should always do, with min
 teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्येण प्रेरितो न प्रेरितो वा स्वयमेव प्रत्यहमध्ययने गुरुहितेषु चोद्योगं कुर्यात् ॥१९१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नोदित** इति । **गुरुणा **नियुक्तः अनियुक्तो वा गृहीताध्ययनभागाभ्यासयत्नम् आचार्यपरिचार्यायत्नं यावद् ब्रह्मचर्यं **कुर्यात्** ॥ २.१९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

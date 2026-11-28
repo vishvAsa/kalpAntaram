@@ -51,6 +51,11 @@ own capacity (to earn) is not desirous of any share in the ancestral property, s
 See Comparative notes for [Verse 9.204].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजानुगमनादिकर्मणा यो धनमर्जितुं शक्तोभ्रातॄणां साधारणं धनं नेच्छति स स्वीयादंशात्किचिदुपजीवनं दत्त्वा भ्रातृभिः पृथक्कार्यः। तेन तत्पुत्रास्तत्र धने कालान्तरे न विवदन्ते॥ २७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अददताम् अपि तु नैव विरोधो ऽस्ति ॥ ९.२०७ ॥

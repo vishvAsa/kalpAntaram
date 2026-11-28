@@ -35,6 +35,16 @@ The sons of Atri are called ‘*Barhiṣads*.’— (196)
 This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दैत्यादीनां प्रथमाध्यायोदितभेदानामत्रिपुत्रा बर्हिषदो नाम पितरः स्मृताः ॥१९६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैत्यदानवयक्षाणाम्** इति । दैत्यादीनां प्रथमाध्यायोक्तभेदानां अत्रिपुत्राः **बर्हिषदो** नाम पितरः स्मृताः ॥ ३.१९६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 196	The Barhishads, born of Atri, are recorded to be (the manes) of the Daityas, Danavas, Yakshas, Gandharvas, Snake-deities, Rakshasas, Suparnas, and a Kimnaras,

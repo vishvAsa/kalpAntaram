@@ -37,6 +37,16 @@ If the soil were the more important factor, all the products would have been of 
 See Comparative notes for [Verse 9.31].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूमावेकस्मिन्नपि केदारे कर्षकैवपनकालोप्तानि ब्रीहिमुद्गादीनि नानारूपाण्येव वीजस्वभावाज्जायन्ते, न तु भूमेरकत्वादेकरूपाणि भवन्ति॥ ३८ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं च **भूवाव् इति** । भूमाव् एकस्मिन्न् अपि क्षेत्रे कर्षकैर् योग्यवापनकाले कलममुद्गादीनि विचित्राण्य् उप्तानि बीजानि अन्यरूपाणि च बीजस्वभावानुवर्तमानाज् जायन्ते भूमाव् अनेकरूपाणि भवन्ति ॥ ९.३८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 यतश् च ।

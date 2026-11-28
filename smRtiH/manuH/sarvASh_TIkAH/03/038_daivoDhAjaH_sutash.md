@@ -60,6 +60,16 @@ girl married by the Daiva form purifies ten past and ten future generations on t
 purifies seven generations below and seven above, and also oneself; the Ārṣa-born, five; and the Daiva-born, three.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दैवविवाहोढायाः पुत्रः सप्त परान्पित्रादीन्सप्तावरान्पुत्रादींश्च, आर्षविवाहोढायाः पुत्रस्त्री-न्पित्रादीस्त्रीश्च पुत्रादीन्, प्राजापत्यविवाहोढायाः पुत्रः षट् पित्रादीन्षट् पुत्रादीन आत्मानं चैनसो मोचयतीति पूर्वस्यैव सर्वत्रानुषङ्गः ।कायोढज इति “ङ्यापोः संज्ञाछन्दसोर्बहुलम्" ( पा. सू. ६ / ३ / ६३ ) इति ह्रस्वत्वम् । ब्राह्माद्यष्टविवाहोद्देशक्रमानुसारेण मन्दफलस्यार्षस्येह बहुफलप्राजापत्यात्पूर्वाभिधानम् । ब्राह्मादिविवाहोद्देशश्लोक एव कथमयं क्रम इति चेत् ? “पञ्चानां तु त्रयो धर्म्याः” ( म. स्मृ. ३ / २५ ) इत्यत्र प्राजापत्यग्रहणार्थम् । अन्यथा त्वार्षस्वच ग्रहणं स्यात् ॥३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवोढाज **इति । दैवविवाहोत्पन्नः पुत्रः **सप्त परान् **पित्रादीन् **सप्त अवरान्** पुत्रादीन् पापान् मोचयति । आर्षविवाहोत्पन्नश् च **त्रीन् **पुत्रादीन् **त्रींश् **च पुत्रादीन् । तथा प्राजापत्यविवाहोढाजोत्पन्नश् च **षट् **पुत्रादीन् **षट्** पित्रादींश् च ॥ ३.३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).

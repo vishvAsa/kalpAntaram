@@ -88,11 +88,20 @@ into fire; there is to he no invocation, nor dismissal.’
 making them sit facing the east......... he shall offer him water and seat; and also water for washing, after he has eaten the food offered to him to the best of one’s capacity.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पितृप्रयोजने पञ्चयज्ञान्तर्गते एकमपि ब्राह्मण भोजयेत् । अपिशब्दात्सम्भवे बहूनपि । पार्वणधर्मग्रहणाच्च वैश्वदेवब्राह्मणभोजनप्राप्तावाह-न कञ्चिद्वैश्वदेवार्थं ब्राह्मणमत्र भोजयेत् ॥८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । पञ्चयज्ञान्तर्गते पितृप्रयोजने **एकम् अपि** शक्त्या सति सम्भवे बहून् अपि विप्रान् भोजयेत् । श्राद्धशब्देनोदनात् वैश्वदेवब्राह्मणभोजने प्राप्ते आह **न चैवेति** । विश्वान् देवान् उद्दिश्य अन्यं ब्राःमणं न किञ्चिद् भोजयेत् ॥ ३.८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

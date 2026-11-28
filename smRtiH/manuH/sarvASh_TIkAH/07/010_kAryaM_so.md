@@ -41,11 +41,19 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 392); in the same work
 See Comparative notes for [Verse 7.3](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200663.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स राजा प्रयोजनापेक्षया स्वशक्तिंदेशकालौचावेक्ष्य कार्यसिद्ध्यर्थं तत्त्वतोविश्वरुपं बहूनि रूपाणि करोति। जातिविवक्षया बहुष्वेकवचनम्। अशक्तिदशायां क्षमते शक्तिंप्राप्योन्मूलयति, एवमेकस्मिन्नपि देशे काले च प्रयोजनानुरोधेन शत्रुर्वा मित्रं वा उदासीनोवा भवति, अतो राजवल्लभोऽहमिति बुद्ध्या नावज्ञेयः॥१०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कार्यम्** इति । स राजा प्रयोजनं पर्यालोच्यात्मशक्तिं **देशकालौ च **स्नेहवैरकरणोचितैः सम्यग् **अवेक्ष्य** शास्त्रव्यवस्था**सिद्ध्यर्थं** मित्रशत्रुमध्यस्थतया मुहुर् मुहुर् नाना**विश्वरूपं** **कुरुते** ॥ ७.१० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अतश् चासौ वाल्लभ्यान् मैत्र्यात् स्वाजन्यद्वारेण वा नावमन्तव्यः ॥ ७.१० ॥
-
-_यतश् च तस्य सम्यग् उपचरितस्य-_
 </details>
 
 <details><summary>Bühler</summary>

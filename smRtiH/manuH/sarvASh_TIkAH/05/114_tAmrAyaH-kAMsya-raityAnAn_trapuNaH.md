@@ -59,11 +59,26 @@ are impure while contained in vessels belonging to *Mlecchas*, but pure as soon 
 heating; for milk, flooding; curd and thickened milk are purified by throwing out the defiled part.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयो लोहं, रीतिः पित्तलं तद्भवं पात्रं रैत्यं, त्रपु रङ्गम्, एषां भस्माम्लोदकैः शोधनं कर्तव्यम् ।यथार्हं यस्य यदहंति ।
+
+**अम्भसा हेमरौप्यायः कांस्यं शुद्ध्यति भस्मना ।**
+
+**अम्लैस्ताम्रंच रैत्यं च पुनःपाकेन मृन्मयम् ॥**
+
+इति बृहस्पत्यादिवचनाद्विशेषोऽत्र बोद्धव्यः ॥११४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ताम्रायःकांस्यरैत्यानाम् **इति । ताम्रलोहकांस्यपित्तलत्रपुसीसानां भस्मोदकलाञ्जिककादिभिर् मलनिर्हरणातिक्रमेण शौचं कर्तव्यम् । इदं च यत्र मृद्भस्मनाम् उच्च्छिष्टादिमलनिर्हरणासामर्थं तद्विषयम्, यथार्हवचनात् ॥ ५.११४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 114	Copper, iron, brass, pewter, tin, and lead must be cleansed, as may be suitable (for each particular case), by alkaline (substances), acids or water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -36,11 +36,15 @@ on his study, should avoid the days unfit for study; and the teacher, carrying o
 knowledge in the fertile soil of the true pupil, except on the days unfit for study.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**इमान्** इति । पूर्वोक्तेन विधानेन्**आधीयानः **शिष्यांश् चाध्यापयन् वक्ष्यमाणान् अनध्यायान् सर्वदा वर्जयेत् ॥ ४.१०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 101	Let him who studies always avoid (reading) on the following occasions when the Veda-study is forbidden, and (let) him who teaches pupils according to the prescribed rule (do it likewise).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

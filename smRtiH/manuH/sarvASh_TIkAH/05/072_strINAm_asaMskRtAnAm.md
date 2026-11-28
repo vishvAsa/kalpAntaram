@@ -109,11 +109,15 @@ without, water, and not actually given away, is to he regarded as
 days for her relations on both sides. In the case of girls, betrothed or not betrothed, married or not married, the impurity for parents lasts three days, and for others according to rule.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**स्त्रीणाम्** इति । वाग्दत्तानां न विवाहितानां भर्त्रादयस् त्र्यहाच् छुध्यन्ति । भ्रात्रादयः पुनः स्त्रीणाम् अकृतचूडानाम् इत्य् एतद् उक्तेन विधिनेति ॥ ५.७२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 072	(On the death) of females (betrothed but) not married (the bridegroom and his) relatives are purified after three days, and the paternal relatives become pure according to the same rule.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -21,11 +21,20 @@ The rite in honour of the Pitṛs should not be looked upon as inferior to that 
 The entire series of purely laudatory descriptions has now come to an end.—(201)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋषिभ्यो मरीच्यादिभ्य उक्तक्रमेग पितरो जाताः, पितृभ्यो देवमानवा जाताः । देवेभ्यश्च जङ्गमस्थावरं जगत्क्रमेण जातम् । तस्मात्सोमपादिप्रभवत्वात्स्वपितृपितामहप्रपितामहानामेषां श्राद्धे पूजनीयाः । सोमपाऽऽदयोऽपि पूजिताः सन्तः श्राद्धफलदानाय कल्पन्त इति । प्रकृतश्च पित्रादिश्राद्धस्तुत्यर्थोऽयं सोमपाऽऽद्विपितृगणोपन्यासः । अथवा आवाहनकाले निजपित्रादयो ब्राह्मणादिभिः सोमपाऽऽदिरूपेण ध्येयाः । एवं व्यवस्थाज्ञानमनुष्ठानपरता च स्यात् ॥२०१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋषिभ्यः पितर** इति । मरीच्यादिभ्य उक्तं नामभ्यो ये सोमपादयो जाताः, तेभ्यश् च देवदानवं जातम् । **देवेभ्यश्** च स्थावरजङ्गमरूपं **सर्वं जगत् **क्रमेण जातम् । एवं चोक्तपितृभवत्वात् पितृपितामहप्रपितामहादीनां तत्पूजायां ते पूजिता भवन्तीत्य् एतत्प्रतिपादनार्थं सोमपादिपितृगणोपन्यासः प्रकृतपितृपूजास्तुत्यर्थं विज्ञेयः ॥ ३.२०१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 201	From the sages sprang the manes, from the manes the gods and the Danavas, but from the gods the whole world, both the movable and the immovable in due order.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

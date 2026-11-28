@@ -35,6 +35,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, pp. 251-252).
 kingdom he shall apportion the livelihood of his dependents; or he may provide this to the extent that may be necessary for retaining their services:—48,000 *paṇas* should be set apart for the maintenance of priests, preceptors, chief-minister, army-commander, heir-apparent, queen-mother and queen, etc., etc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+राजोपयुक्तकर्मनियुक्तानां स्त्रीणां दास्यादीनां कर्मकरजनस्य चोत्कृष्टमत्र्यमापकृष्टस्थान योग्यानुरूपेण प्रत्यहं कर्मानुरूपेण वृत्तिं कुर्यात् ॥१२५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**राजकर्मस्व् इति । **राजोपयोगिकर्मसु **युक्तानां** दास्यादिस्त्रीणां दासवर्गस्य चोत्कृष्टहीनस्थानानुरूपेणैव कर्मानुरूपेण **प्रत्यहं वृत्तिं** दद्यात् ॥ ७.१२५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 वस्त्रसंस्काराद्युपलेपनभोजनादिलक्षणेत्य् अर्थः॥ ७.१२५ ॥

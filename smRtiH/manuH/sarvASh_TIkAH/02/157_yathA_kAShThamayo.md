@@ -45,11 +45,20 @@ is expressed in slightly different words (12. 30. 40 ff.) and with added similes
 ‘*dhāraka*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा काष्टघटितो हस्ती, यथा चर्मनिर्मितो मृगः, यश्च विप्रो नाधीते, त्रय एते नाममात्रं दधति न तु हस्त्यादिकार्यं शत्रुवधादिकं कर्तुं क्षमन्ते ॥१५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथेति** । दारुमयो **यथा हस्ती **न युद्धादिसमर्थः **यथा चर्ममयो मृगः** आखेटकादाव् अकिञ्चित्करः, एवम् **अनधीयानो **ब्राह्मणः** **ब्राह्मणसम्पाद्यासु प्रतिग्रहादिक्रियासु । एवं च त्रयो ऽप्य् एते नाममात्रं धारयति । न तु हस्त्यादिसम्पाद्याः क्रियाः कुर्वन्ति ॥ २.१५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

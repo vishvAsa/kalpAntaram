@@ -38,11 +38,20 @@ See Explanatory notes for [Verse 4.224].
 See Comparative notes for [Verse 4.224].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तान्देवानागत्य ब्रह्मा प्रोवा व, विषममन्नं मा समं कुरुत ।विषमसमीकरणमनुचितम् । कः पुनरनयोर्विशेष इत्यपेक्षायां स एवावोचत्—दानशीलवाधुषिकस्यापि । श्रद्धयाऽन्नं पवित्रं भवति । कृपणान्तं पुनरश्रद्धया हतं दूषितमवसम् । प्रागुभयप्रतिषेधेऽपि श्रद्धादत्तविद्वद्वार्धुषिकान्नविशुद्धिबोधनपरमिदम् ॥२२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तान्** इति । **तान्** देवान् ब्रह्मा आगत्य **विषमं** यत् तत् **मा समम्** इति व्याचष्ट । यस्माद् वदान्यान्नं श्रद्धया पविर्तीकृतं भवति । कदर्यान्नं पुनः अश्रद्धया दूषितम् इत्य् उभयप्रतिषेधे ऽपि श्रद्धावद् वार्धुषिकान्नप्रतिप्रसवार्थम् इदम् ॥ ४.२२५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 225	The Lord of created beings (Pragapati) came and spake to them, 'Do not make that equal, which is unequal. The food of that liberal (usurer) is purified by faith; (that of the) of the) other (man) is defiled by a want of faith.'
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

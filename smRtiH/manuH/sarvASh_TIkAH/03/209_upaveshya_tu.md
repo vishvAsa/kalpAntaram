@@ -52,6 +52,16 @@ incense and lamp, he shall offer clothes and also water for washing.’
 offering of sandal-paste, garlands, incense, lamp, and clothes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तान्विप्रानामन्त्रितानासनेषूपवेश्य कुङ्कुमादिगन्धमाल्यधूपादिभिः स्पृहणीयगन्धैदवपूर्वकमर्चयेत् ॥२०९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**उपवेश्येति** । **तान् विप्रान् **अनिन्दितान् **आसनेषूपवेश्य **अनन्तरं कुङ्कुममाल्यधूपादिभिः स्वामोदैः देवब्राह्मणपूर्वकम् **अर्चयेत्** ॥ ३.२०९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 209	Having placed those blameless Brahmanas on their seats, he shall honour them with fragrant garlands and perfumes, beginning with (those who are invited in honour of) the gods.

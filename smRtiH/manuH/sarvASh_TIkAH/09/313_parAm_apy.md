@@ -59,6 +59,11 @@ it is augmented by the Brāhmaṇas, embellished by the counsel of ministers, an
 never take a Brāhmaṇa’s property; he shall always protect it.... Even though the Brāhmaṇa be devoid of learning or of vicious conduct, he shall never bear ill-will towards him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कोषक्षयादिना प्रकृष्टामप्यापदंप्राप्तो राजा ब्राह्मणान्न प्रकोपयेत्। यस्मात्ते रुष्टाः सबलवाहनमेनं सद्य एव शापाभिचाराभ्यां हन्युः॥ ३१३॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अभिचाराभिशापाभ्याम् । तथा च तत्प्रतापं दर्शयति ॥ ९.३१३ ॥

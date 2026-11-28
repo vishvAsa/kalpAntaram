@@ -29,6 +29,11 @@ He shall detect and exterminate them by means of clever reformed thieves, who as
 See Comparative notes for [Verse 9.264-266].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषांसाहाय्यं प्रतिपद्यमानैस्तच्चरितानुवृत्तिभिः संधिच्छेदादिकर्मानुष्ठानवेदिभिः पूर्वचौरैश्चाररुपैश्चारमायामिपुणैस्तस्कराञ्जनीयादुत्सादयेच्च ॥ २६७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 267	By the means of clever reformed thieves, who associate with such (rogues), follow them and know their various machinations, he must detect and destroy them.

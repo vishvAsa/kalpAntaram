@@ -49,11 +49,20 @@ Others however explain that the term ‘*vara*’ has no particular gender of it
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 460).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सावित्रीमात्रवेत्ताऽपि वरं सुयन्त्रितः शास्त्रनियमितो विप्रादिर्मान्यः । नायन्त्रितो वेदत्रयवेत्ताऽपि निषिद्धभोजनादिशीलः प्रतिषिद्धविक्रेता च । एतच्च प्रदर्शनमात्रम्, सुयन्त्रितशब्देन विधिनिषेधनिष्ठत्वस्य विवक्षितत्वात् ॥११८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अत्रार्थवादः **सावित्रीमात्रसार** इति । यदि **विप्रः सुयन्त्रितः **अभिवादाचारानुष्ठानयन्त्रितात्मा भवति तदा **सावित्रीमात्र**प्रधानो ऽपि तावन्मात्राध्येतापि **वरं** प्रशस्तः । न त्व् अनाचारस् **त्रिवेदो ऽपि **प्रशस्यः, यतः असाव् अयन्त्रितत्वात् **सर्वाशी सर्वविक्रयी **च भवति ॥ २.११८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

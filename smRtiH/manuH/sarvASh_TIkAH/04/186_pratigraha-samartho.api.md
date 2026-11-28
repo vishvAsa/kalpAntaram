@@ -11,11 +11,8 @@ Though entitled to accept presents, he shall avoid addiction to it; because, by 
 
 परस्माद् अदृष्टप्रयुक्ताद् यल् लभ्यते स **प्रतिग्रहः** । तत्र **समर्थः** शक्तो **ऽपि प्रसङ्गं** पुनः प्रवृत्तिं **वर्जयेत्** । श्रुताध्ययनशीलसंपत्तिर् द्रव्यविधिज्ञता च सामर्थ्यम् । "तस्माद् अविद्वान् बिभियात्<sup> </sup>[^२४१]" (म्ध् ४.१९१) इत्य् अत्रोक्तम् अप्य् एतद् उत्तरार्थं पुनर् अनूद्यते ॥ ४.१८६ ॥
 
-
 [^२४१]:
      M G J: avidvān na bibhīyāt
-
-_तद् दर्शयति_ ।
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -39,11 +36,20 @@ from persons whose gifts should not be accepted; by the acceptance of such gifts
 not accept them, he obtains those spacious regions which are meant for the extremely charitable persons.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विद्यातपोवृत्तसंपन्नतया प्रतिग्रहेऽधिकार्यपि तत्र पुनः पुनः प्रवृत्तिं त्यजेत् । यस्मात्प्रतिग्रहणास्य वेदाध्ययनादिनिमित्तप्रभावः शीघ्रमेव विनश्यति । यात्रामात्रप्रसिद्ध्यर्थमित्युक्तेऽपि सामान्येनार्जनसङ्कोचे विशेषेण प्रतिग्रहस्य ब्राह्मप्रभावप्रशमनफलत्वकथनार्थं वचनम् ॥१८६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रतिग्रहसमर्थम्** इति । श्रुताध्ययनादिना **प्रतिग्रहेण समर्थो ऽपि **तत्र पुनःप्रवृत्तिं वर्जयेत् । यस्मात् **प्रतिग्रहेणास्या**ध्ययनादिनिमित्तप्रभावः क्षिप्रम् एव प्रलीयते “यात्रामात्रप्रसिद्ध्यर्थम्” इत्यादिनोक्तम् अप्य् एतत् **तेजः **प्रशमफलकथनार्थं पुनर् उच्यते ॥ ४.१८६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 186	Though (by his learning and sanctity) he may be entitled to accept presents, let him not attach himself (too much) to that (habit); for through his accepting (many) presents the divine light in him is soon extinguished.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -44,6 +44,16 @@ This same idea is asserted by the clause—‘*in that same proportion their ard
 This same principle applies also to such enjoyments as are not forbidden for cultured men,—such, for instance, as intercourse with one’s own wife, enjoying things obtained with money obtained from the sanctioned sources of income, and so forth;—ton much addiction to all which becomes forbidden.—(73)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा यथा शब्दादिविषयान्विषयलोलुपा नितान्तं सेवन्ते तथा तथा विषयेष्वेव तेषां प्रावीण्यं भवतीति॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथा यथेति** । शब्दादिविषयोपभोगवर्धका यथा विषयोपभोगाभ्यासं कुर्वन्ति तथा तथा विषयेष्व् एव तेषां प्रावीण्यम् एकरसीभावो जायते ॥ १२.७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 073	In proportion as sensual men indulge in sensual pleasures, in that same proportion their taste for them grows.

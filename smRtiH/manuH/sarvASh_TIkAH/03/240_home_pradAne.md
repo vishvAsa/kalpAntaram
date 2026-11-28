@@ -52,11 +52,20 @@ This verse is quoted in *Aparārka* (p. 472);—in *Śrāddhakriyākaumudī*, wh
 See Comparative notes for [Verse 3.239].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्माद्धोमेऽग्निहोत्रादौ प्रदाने गोहिरण्यादौ, भोज्ये स्वाभ्युदयार्थं ब्राह्मणभोजने, दैवे हविषि दर्शपौर्णमासादौ, पित्र्ये श्राद्धादौ, यदेभिर्वीक्ष्यते क्रियमाणं कर्म तद्यदर्थं क्रियते तन्न साधयति ॥२४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्माद् **होम** इति । अग्निहोत्रादि**होमे दाने **धर्मार्थं ब्राह्मणभोजने हव्यकव्ययोश् च यत् कर्म चण्डालादिभिर् अवेक्ष्यते यत् यद् अर्थं क्रियते तत् न साधयति ॥ ३.२४० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 240	What (any of) these sees at a burnt-oblation, at a (solemn) gift, at a dinner (given to Brahmanas), or at any rite in honour of the gods and manes, that produces not the intended result.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

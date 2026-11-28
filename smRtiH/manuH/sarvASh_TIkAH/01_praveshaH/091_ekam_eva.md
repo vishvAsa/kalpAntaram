@@ -28,11 +28,15 @@ the classification of sacrifices and other acts (as to which of these should be 
 This verse is quoted in the *Vīramitrodaya* — *Paribhāṣā*, p. 45;—and in the *Varṣakriyākaumudī* (p. 568), which explains ‘*Prabhuḥ*,’ ‘as Brahmā,’ and ‘*Anasūyayā*’ as ‘without dishonesty.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**एकम्** इति । स **प्रभुः **अनिन्दया ब्राह्मणादिपरिचरणं **कर्मा**दिष्टवान् ॥ १.९१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

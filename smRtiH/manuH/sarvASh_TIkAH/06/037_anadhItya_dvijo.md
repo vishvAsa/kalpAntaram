@@ -26,6 +26,16 @@ The twice-born person, who seeks Liberation, without having studied the Vedas, w
 See Comparative notes for [Verse 6.36].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाध्ययनमकृत्वा पुत्राननुत्पाद्य यज्ञांश्चाननुष्ठाय मोक्षमिच्छन्नरकं व्रजति॥३७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनधीत्य द्विजो वेदम् अनुत्पाद्य तथा सुतम्** इति । वेदाध्ययनप्रजोत्पादन-यज्ञानुष्ठानान्य् अकृत्वा मोक्षम् इच्छन् नरकं व्रजति ॥ ६.३७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 037	A twice-born man who seeks final liberation, without having studied the Vedas, without having begotten sons, and without having offered sacrifices, sinks downwards.

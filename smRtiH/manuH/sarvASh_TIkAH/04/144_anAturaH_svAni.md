@@ -30,11 +30,20 @@ Unless he be in trouble, he shall not, without cause, touch his cavities. He sha
 *Viṣṇu* (71.79).—‘He should not touch his cavities, without cause.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनातुरः सन् स्वानि खानीन्द्रियच्छिद्राणि रोप्राणि च गोप्यान्युपस्थकक्षादिगतानि निर्निमित्तं न स्पृशेत् ॥१४४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनातुर **इति । स्वस्थः सन् **स्वानि **छिद्राणि **रोमाणि च **पायूपस्थगतानि **अनिमित्तं न स्पृशेत् **॥ ४.१४४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

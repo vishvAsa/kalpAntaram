@@ -1,6 +1,7 @@
 +++
 title = "028 आगमस् तु"
 +++
+
 <details><summary>मूलम्</summary>
 
 आगमस् तु कृतो येन  
@@ -122,7 +123,7 @@ _लेख्यकृत्पुत्रस् तु किम् इति 
 
  
 
-लेख्यस्वरूपाज्ञत्वात्[९] तद्दोषानपाकरणमात्रम् एव स्यात् । न तु प्रमाणरहितं स्वामित्वम् अपीत्य् अभिप्रायः । प्रामाण्यं च विशुद्धागमस्यैव बोगस्य, न तु भुक्तिमात्रस्येत्य् अर्थः ॥ २९ ॥
+लेख्यस्वरूपाज्ञत्वात्[^९] तद्दोषानपाकरणमात्रम् एव स्यात् । न तु प्रमाणरहितं स्वामित्वम् अपीत्य् अभिप्रायः । प्रामाण्यं च विशुद्धागमस्यैव बोगस्य, न तु भुक्तिमात्रस्येत्य् अर्थः ॥ २९ ॥
 
-[९]: Ganapati Sastri's edition places here (na?), assuming that there should be a negative here. But we already have the negative in -anapākaraṇa-; the son, because he does not know the details of the document cannot eliminate its defects.
+[^९]: Ganapati Sastri's edition places here (na?), assuming that there should be a negative here. But we already have the negative in -anapākaraṇa-; the son, because he does not know the details of the document cannot eliminate its defects.
 </details>

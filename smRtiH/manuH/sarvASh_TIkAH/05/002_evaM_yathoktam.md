@@ -25,11 +25,20 @@ The Text now shows what the great Sages asked.
 Those Twice-born men who perform the duty exactly in the form in which it has been described in the present Treatise:—that all *twice born men* are indicated by the terms ‘*vipra*’ ‘*brahmana*’, in the Text will be clear from what is going to be said in verse 26 below, where ‘twice-born’ is the term used;—‘*how is it that Death orerpotrers them*’—while still in the state of the ‘Student,’ or in that of the^(;) Accomplished Student’? How is this, when, in reality, they should live the full spun of humun life? The span of a man’s life is a hundred years; so that the death of Brāhmaṇas before that is not proper; specially as it has been declared that ‘from right conduct one attains longevity’ (4.156), and ‘no calamity befalls persons who recite the Veda and. offer oblations’ (4.146). (2).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवं यथोक्तं स्वधर्मं कुर्वतां ब्राह्मणानां श्रुतिशास्त्रज्ञानां वेदोदितायुषः पूर्वं कथं मृत्युः प्रभवति । आयुरल्पत्वहेतोरधर्माचरणस्याभावात् । सकलसंशयोच्छेदनसमर्थत्वात्प्रभो इति संबोधनम् ॥२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **एवम्** अतिक्रान्तं शास्त्रोक्तं **स्वधर्मम् **आचरतां **वेदशास्त्र**ज्ञानां ब्राह्मणानां **कथं** भाव्यम्, आयुःक्षयकारणस्य धर्मलोपादेर् अभावात् ॥ ५.२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 002	'How can Death have power over Brahmanas who know the sacred science, the Veda, (and) who fulfil their duties as they have been explained (by thee), O Lord? '
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

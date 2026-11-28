@@ -56,6 +56,11 @@ by her kinsmen should go to her husband, in the absence of kinsmen. The sisters 
 *strīdhana*. Such is the lawful law of partition.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यत्पुनः स्त्रिया आसुरराक्षसपैशाचेषूक्तलक्षणेषु विवाहेषु यत्स्त्रियाः पड्विधं धनमपि तदनपत्यायां मृतायां मातापित्रोरिष्यते॥ १९७॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतेष्व् आसुरादिषु कल्या[नेषु तयोः] प्रत्यर्पयितव्यं धनम् ॥ ९.१९७ ॥

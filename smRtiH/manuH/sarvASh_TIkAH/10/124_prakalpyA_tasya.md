@@ -22,6 +22,16 @@ maintenance, ‘*out of their,family*’;—that is, he should be looked after l
 ‘*Having considered*’ his own ‘*capacity*,’ as also, the man’s ‘*skill*’—application to work, and ‘*the burden of persons to be supported by him*,’—*i.e*., his wife and children, they shall take into consideration all the persons to be supported by him, and make provision for the maintenance of all these.—(124)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्य परिचारकशूद्रस्य परिचर्यासामर्थ्यंकर्मोत्साहं पुत्रदारादिभर्तव्यपरिमाणं चावेक्ष्य तर्ब्राह्मणैः स्वगृहादनुरूपा जीविका कल्पनीया॥ १२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्रकल्प्येति** । तस्य शुश्रूषोः शूद्रस्य शुश्रूषासामर्थम् उत्साहं पुत्रदारादिभर्तव्यपरिमाणताम् अपेक्ष्य तैर् ब्राह्मणैः स्वगृहाद् अनुरूपा जीविका कल्पनीया॥ १०.१२४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 सत्याम् अपि धर्मार्थायां विप्रसेवायां प्रकल्प्या तस्य तैर् वृत्तिः । अर्थाच् चैतद् आपद्यते वृत्तितो ऽप्य् आश्रितस्य, किं पुनर् अवृत्तेः शूद्रस्य । पुत्रवच् चास्य शुश्रूषा न वृत्तिपरिक्रयेण, येनासौ धर्मोपनतः । एवंविधस्यापि च शूद्रस्य ॥ १०.१२४ ॥

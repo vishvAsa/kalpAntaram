@@ -23,11 +23,24 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 507);—and in
 *Hemādri* (Śrāddha p. 782).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ अमृतं ब्राह्मणस्यान्नं क्षत्रियान्नं पयः स्मृतम् ।**
+
+**वैश्यान्नमन्नमित्याहुः शूद्रस्य रुधिरं स्मृतम् ॥१४॥ \]**
+
+प्रतिपदनिर्दिष्टेभ्यो येऽन्ये क्रमेणाभोज्यान्ना अस्मिन्प्रकरणे पठितास्तेषां यदन्नं तत् त्वगस्थिरोमाणि, यास्तदीयास्त्वचः तासां कीकसस्य रोम्णां च भुक्तानां यो दोषः स एव तदन्नस्यापि भुक्तस्य बोद्धव्यः ॥२२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । साक्षादुक्तफलेभ्यो **ये अन्ये **क्रमेण **भोज्यान्नाः **कथिताः तत्सम्बन्ध्यन्नं चर्मास्थिरोमाणि प्रशस्तबुद्धयो वदन्ति ॥ ४.२२१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

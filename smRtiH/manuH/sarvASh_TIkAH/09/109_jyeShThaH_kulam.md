@@ -39,6 +39,11 @@ This verse is quoted in *Vivādaratnākara* (p. 457), which adds the following n
 See Comparative notes for [Verse 9.105].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अकृतावभागा ज्यष्ठो यदि धामिको भवति तदानुजानामपि तदनुयायित्वेन धार्मिकत्वाज्ज्येष्ठःकुलं वृद्धिंनयति। यद्यधार्मिको भवति तदानुजानामपि तदनुयायित्वाज्ज्येष्ठःकुलं नाशयति। तथा गुणवान्ज्येष्ठो लोके पूज्यतमः साधुभिश्चागर्हिता भवति॥ १०९॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति,

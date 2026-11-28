@@ -20,6 +20,16 @@ By duly performing the duties laid down in connection with times of distress, th
 This is the reiteration of the scriptural and logical conclusion that when fallen in distress, one should not hesitate to accept improper gifts and so forth.—(130)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अमीचतुर्णांवर्णानामापद्यनुष्ठेया धर्मा उक्ताः। यान् सम्यगाचरन्तो विहितानुष्ठान्निषिद्धानाचरणाच्च निष्पापतया ब्रह्मज्ञानलाभेन परमां गतिं मोक्षलक्षणां लभन्ते॥ १३०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एत** इति । चतुर्णां वर्णानाम् आपद्य् अनुष्ठेया धर्माः त एते कथिताः । यान् सम्यग् आचरन्तो आत्मसंरक्षणे सत्यात्मज्ञानाद्यवाप्त्या ब्रह्मप्राप्तिं भजन्ते ॥ १०.१३० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आत्मकुटुम्बप्राणधारणस्य प्रयोजनातिशयदर्शनाद् धर्मतन्त्रसंयोगे च तदनुष्ठानार्थस्याग्निहोत्रादेर् नित्यस्य कर्मणियम् (?) एव स्थितिर् उपपन्ना- **यान् सम्यग् अनुतिष्ठन्त** इत्य् एवमादि । अथ वा महाफलानाम् अल्पप्रत्यवायानुषङ्गापक्षयेदं स्तुतिवचनम् उपपन्नम्, आपद्धर्मोपसंहारार्थम् ॥ १०.१३० ॥

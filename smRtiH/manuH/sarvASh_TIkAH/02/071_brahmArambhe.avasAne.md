@@ -97,11 +97,20 @@ Vedic lecture, and also at its close, the teacher’s feet should be clasped, as
 Veda, looking at the teacher’s face, keeping the hands in control, placed over the knees.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वेदाध्ययनस्यारम्भे कर्तव्ये समापने च कृते गुरोः पादोपसंग्रहणं कर्तव्यम् । हस्तौ च संहत्वसंश्लिष्टौकृत्वाऽध्येतत्र्यम् । स एव ब्रह्मांञ्जलिः स्मृत इति पूर्वश्लोकोक्तब्रह्माञ्जलिशब्दार्थ-व्याकारः ॥७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्रह्मारम्भ** इति । अन्वाहिकवेदपाठारम्भान्तयोः **सदा **अहर् अहः **गुरोः **पादोपसङ्ग्रणकं कर्तव्यम् । संहतौ च कच्छपके इति प्रसिद्धसन्निवेशेन हस्तौ कृत्वाध्येतव्यम् । यस्मात् **स ब्रह्माञ्जलि**शब्देनोच्यत इत्य् ऋषिभिः **स्मृतः** इत्य् अलौकिकत्वात् ब्रह्माञ्जलिस्वरूपनिरूपणम् ॥ २.७१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

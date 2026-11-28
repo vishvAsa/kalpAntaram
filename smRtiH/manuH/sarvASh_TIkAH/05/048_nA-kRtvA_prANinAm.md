@@ -45,6 +45,16 @@ These verses are quoted in *Parāśaramādhava* (Ācāra, p. 719), which adds th
 Verse 48 only is quoted in *Prāyaścittaviveka* (p. 279).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्राणिहिंसाव्यतिरेकेण न क्वचिन्मांसमुत्पद्यते । प्राणिवधश्च न स्वर्गनिमित्तं, नरकहेतुरेव यस्मात्, तस्मादविधिना मांसं न भक्षयेदिति ॥४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं मांसभक्षणप्रसङ्गेन गुणदोषानभिधायाधुना प्रकृतम् अनुसर्तुम् आह **नाकृत्वेति **। प्राणिहिंसाम् अन्तरेण **न** **क्वचिन् मांसम् उत्पद्यते** । **प्राणिवधश्** च स्वर्गनिमित्तं न भवति, प्रत्युत नरकादिहेतुः **तस्माद् **अविधिना मांसभक्षणं वर्जयेत् ॥ ५.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	Meat can never be obtained without injury to living creatures, and injury to sentient beings is detrimental to (the attainment of) heavenly bliss; let him therefore shun (the use of) meat.

@@ -38,11 +38,20 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 See Comparative notes for [Verse 3.39].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मादिभ्यश्चतुभ्योऽज्येष्वासुरादिषु चतुर्षुविवाहेषु क्रूरकर्माणोमृषावादिनो वेदद्वेषिणो यागादिधर्मद्वेषिणः पुत्रा जायन्ते ॥४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरेष्व्** इति । ब्राह्मादिभ्यश् चतुर्भ्यो ऽन्येषु आसुरादिषु दुष्ट**विवाहेषु** क्रूरकर्माणो ऽ**नृतवादिनो **वेदयागादिद्वेषिणश् च **सुता जायन्ते **॥ ३.४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 041	But from the remaining (four) blamable marriages spring sons who are cruel and speakers of untruth, who hate the Veda and the sacred law.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

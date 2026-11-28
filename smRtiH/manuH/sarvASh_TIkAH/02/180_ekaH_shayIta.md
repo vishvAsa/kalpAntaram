@@ -41,11 +41,20 @@ that in the case of the Brāhmaṇa under vow of studentship, intentional emissi
 couch and teeth-cleansing should be avoided; he should sleep alone, on kuśa-grass, and should never emit his semen anywhere.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सर्वत्र नीचशय्यादावेकाकी शयनं कुर्यात् । इच्छया न स्वशुक्रं पातयेत् । यस्मादिच्छया स्वमेहनच्छुकं पातयन्स्वकीयव्रतं नाशयति । व्रतलोपे चावकीर्णिप्रायश्चित्तं कुर्यात् ॥१८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एक** इति । नान्येन सह **शयीत । सर्वत्र** गुरुगृहे पितृगृहादौ । न च स्त्रीप्रयोगात् प्रकारान्तरेणापि रेतः प्रक्षारयेत् **क्वचिद्** अयोनाव् अपि । यस्माद् बुद्धिपूर्वं **रेतः** **स्कन्दयन्** आत्मनो ब्रह्मचर्यं खण्डयति ॥ २.१८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -54,11 +54,20 @@ to renounce meat and other things must be regarded as conducive to Heaven only, 
 It is quoted in *Prāyaścittaviveka* (p. 277), which remarks that this refers, to such meat as is left, after the offerings to the gods and Pitṛs have been made;—as regards wine, the abandoning of it is ‘conducive to great rewards’ only for those for whom wine is not forbidden,—and as regards ‘sexual intercourse,’ the abandoning that leads to great rewards is that of the intercourse which is sanctioned ‘on all except the sacred days,’ and ‘that for the sake of pleasure.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादीनां वर्णानां यथाऽधिकारमविहिताप्रतिषिद्धभक्षणादौ न कश्चिद्दोषः । यस्मात्प्राणिनां भक्षणपानमैथुनादौ प्रवृत्तिः स्वाभाविकोऽयं धर्मः ।वर्जनं पुनर्महाफलम् । अविहिताप्रतिषिद्धमद्यमैथुननिवृत्तेर्महाफलकथनार्थोऽयमुक्तस्यैव मांसवर्जनमहाफलकथनस्या-नुवादः ॥५६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न मांस्भक्षणे दोष** इति । शिष्टाप्रतिषिद्धमांसभक्षणमद्यपानमैथुनाचरणे **न** कश्चिद् **दोषो** यस्माज् जङ्गमात्मकभूतानां एषा अशनपानमैथुनात्मिका **प्रवृत्तिः **स्वाभाविको ऽयं व्यापारः । वर्जनं पुनर् महापलम् । इति मांसवर्जनफलप्रसङ्गेन अशिष्टाप्रतिषिद्धमद्यमैथुनादिनिवृत्तिफलकथनपरम् एतत् ॥ ५.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	There is no sin in eating meat, in (drinking) spirituous liquor, and in carnal intercourse, for that is the natural way of created beings, but abstention brings great rewards.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

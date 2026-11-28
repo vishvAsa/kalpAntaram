@@ -48,11 +48,20 @@ This verse is quoted in *Parāśaramādhava*, (Ācāra, p. 688) without comment;
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्रीडार्थं शुनः पोषयति, श्येनैर्जीवति क्रयविक्रयादिना, कन्याभिगन्ता, हिंसारतः, शुद्रोयक्लृप्तवृत्तिः । “वृषलपुत्रश्च" इति पाठान्तरम् ।वृषला एव केवलाः पुत्रा यस्येत्यर्थः । विनायकादिगणयागकृत् ॥१६४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्वक्रीडीति** । श्वभिः यः क्रीडति, याजकक्रियादिजीवकः कन्याया निन्दकः हिंसारतः, शूद्रजीव्नः । वृषलपुत्र इति वा पाठः । चतुर्दश्यादौ विनायकादिगणयागकृत् इत्य् एव उभयत्र वर्जनीयाः॥ ३.१६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

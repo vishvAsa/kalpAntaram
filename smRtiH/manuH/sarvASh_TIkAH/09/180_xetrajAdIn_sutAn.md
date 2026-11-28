@@ -58,6 +58,11 @@ Body-born and the Appointed Daughter continue the family.—As in default of cla
 the Appointed Daughter is there, the *Kṣetraja* and other sons, belonging as they do to different *gotras*, are only continuers of the family; and they perform the *śrāddha* as slaves.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतान्क्षेत्रेजादीनेकादश पुत्रान्, पुत्रोत्पादनविधिलोपः पुत्रकर्तव्यश्राद्वादिलोश्चमा भूदित्येवमर्थं पुत्रप्रतिच्छन्दकान्मुनय आहुः॥ १८०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एकादशानाम् अविशेषेण प्रतिनिधिवचनात् कानीनादयो ऽपि पूर्वैर् अविशिष्टाः प्रतीयन्ते । अतो यद् एषाम् अदायादबान्धवत्वम् उक्तं प्रजीवनविषये पाक्षिकदानार्थं तत् स्याद् इति व्याख्यातम्, किं अयं प्रधानेन विशिष्टकार्यप्रतिनिधिः यथा मीमांसका आहुर् इति । नेत्य् उच्यते, विषमसमीकरणस्यायुक्तत्वात् । तथा चोक्तम् "तादृशं गुणम् आप्नोति कुपुत्रैः संतरंस् तमः" इत्य् एवमादि । तथा चेदम् आहैषाम् निन्दावचनं समानबलत्वप्रतिषेधार्थम् ॥ ९.१८० ॥

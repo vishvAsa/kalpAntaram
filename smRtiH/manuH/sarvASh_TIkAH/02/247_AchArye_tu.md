@@ -45,6 +45,16 @@ with his son, as with the teacher himself:—or with the teacher’s wife, or wi
 either with his son, or with his wife or with his fire.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नैष्ठिकल्यायमुपदेशः । आचार्य मृते तत्सूते विद्यादिगुणयुक्त, तद्भावे गुरुपत्न्यां तदभावे गुरोः सपिण्डे पितृव्यादौ गुरुवच्छुश्रूषामनुतिष्ठेत् ॥२४७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+नैष्ठिकधर्मविध्यर्थम् आह **आचार्य **इति । **आचार्ये **प्रमीते **गुरुवत् गुरुपुत्रदारसपिण्डानां** पूर्वस्य पूर्वस्याभावे उत्तरोत्तरस्य शुश्रूषा कुर्यात् ॥ २.२४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.

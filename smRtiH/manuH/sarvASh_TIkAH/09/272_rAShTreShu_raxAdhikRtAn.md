@@ -28,6 +28,11 @@ This verse is quoted in *Aparārka* (p. 850);—in *Vivādaratnākara* (p. 341),
 principality, and the neighbours called in to save life and property are reckoned as equal to thieves when they stand neutral during the attack (by robbers). He on whose ground a robbery has been committed must trace the thieves to the best of his power, or else he must make good what has been stolen, unless the foot-prints can be traced from that ground to another man’s ground; when the foot-prints cannot be traced any further, the neighbours, road-inspectors and governors of that region shall be made responsible for the loss. When a bouse has been plundered, the King shall cause the detectives, the guards and the inhabitants of that region to make good the loss, if the thief is not caught.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ये राष्ट्रेषु रक्षानियुक्ताः, ये व सीमान्तवासिनः कुराः सन्तश्चौर्योपदेशे मध्यस्था भवन्ति तांश्चौरवत्क्षिप्रं दण्डयेत् ॥ २७२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 आत्ययिकेष्व् एतान् अननुधातताञ् चोरसंवादेन प्रमादाद् वा चोरवच् छिष्यात् । निमित्तभेदाच् चानुशासनभेदो विज्ञेयः ॥ ९.२७२ ॥

@@ -23,6 +23,11 @@ The king thus duly doing his lawful work, may seek to acquire tracts of land not
 This verse is quoted in *Vivādaratnākara* (p. 618).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनेनोक्तप्रकारेण धर्मादनपेतान् व्यवहारान् निर्णयन् राजा जनानुरागादलब्धान्देशांलुब्धुमिच्छेल्लब्धांश्च सम्यक्पालयेत्। एवं सम्यग्व्यवहारदर्शनस्यालब्धप्रदेशप्राप्त्यर्थत्वमुक्तम्॥ २५१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 येन चोपायेन [प्रजापरिपालनं राज्ञो भवति स इदानीम् उच्यते । एवमर्थश् च पूर्व उपसंहारो विज्ञेयः ॥ ९.२५१ ॥

@@ -65,11 +65,20 @@ those of silver;—whatever is offered with a vessel—howsoever small—made of
 carefully offer into vessels, such as may be available; but specially in those of silver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषां पितॄणां रूप्यमयपात्रैःरूप्ययुक्तैर्वा ताम्रादिपात्रैर्जलमपि श्रद्धया दत्तमक्षयसुखहेतुः सम्पद्यते किं पुनः प्रशस्तपायसादीति ॥२०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**राजतैर् **इति । तेषां पितॄणां रौप्यपात्रैः रौप्ययुक्तैर् वा पानीयम् अपि भक्त्या दत्तम् अक्षय्यसुखहेतु सम्पद्यते । किं पुनः प्रशस्तामिषादीनि घृतादीनि दानपात्रविशेषफलम् एतत् ॥ ३.२०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

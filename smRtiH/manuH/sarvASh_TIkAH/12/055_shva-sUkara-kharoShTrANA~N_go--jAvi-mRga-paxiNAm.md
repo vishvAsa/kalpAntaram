@@ -30,6 +30,16 @@ This verse is quoted in *Madanapārijāta* (p. 700);—and in *Mitākṣarā* (3
 See Comparative notes for [Verse 12.53].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कुक्कुरसूकरगर्दभोष्ट्रगोच्छागमेषमृगपक्षिचण्डालानां पुक्कसानां चनिषादेन शूद्रायांजातानां सम्बन्धिनींजातिं ब्रह्महाप्राप्नोति तत्र पापशेषगौरवलाघवापेक्षयाक्रमेण सर्वयोनिप्राप्तिर्बोद्धव्या। एवमुत्तरत्रापि॥५५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्वशूकरखरोष्ट्राणाम्** इति । श्वशूकरखरोष्ट्रगोच्छागैडकमृगपक्षिनां चाण्डालानां शूद्रेण ब्राह्मणीजातानां सम्बन्धिनीं जातिं ब्रह्महा प्राप्नोति ॥ १२.५५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 055	The slayer of a Brahmana enters the womb of a dog, a pig, an ass, a camel, a cow, a goat, a sheep, a deer, a bird, a Kandala, and a Pukkasa.

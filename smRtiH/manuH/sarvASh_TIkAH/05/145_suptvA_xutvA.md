@@ -90,11 +90,20 @@ weeping, on becoming angry, on touching a cat or a rat, on laughing, on lying, o
 water twice; on touching his hairless lips, on putting on clothes, on passing semen, faeces or urine, on improper speaking, on yawning, when going to study, on the approach of an asthmatic ñt, on passing through a road-crossing or a crematorium,—and also during the two twilights,—the Brāhmaṇa shall sip water, even though he may have sipped it already.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+निद्राक्षुद्भोजनश्लेष्मनिरसनमृषावादजरुपानादि कृत्वाऽध्ययनं चिकीर्षुः शुचिरप्याचामेत् ॥ यत्तु "भुक्त्वा चोपस्पृशेत्सम्यक्” इति, तथा “अध्येष्यमाणस्त्वाचान्तः ( म.स्मृ. २-७० ) इति द्वितीयाध्यायोक्तं, तद् व्रताङ्गत्वेन । इह तु भुक्त्वाऽऽचमनविधानं पुरुषार्थमध्ययनाङ्गतयाऽऽचमनविधानं गृहस्थादीनामपीति ॥१४५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सुप्त्वेति** । स्वप्नक्षुत्भोजनश्लेष्मनिरसनासत्याभिधानोदकपानानि कृत्वाध्ययनं च प्रारिप्सन् शुचिर् अपि सन्न् आचामेत् । तत्र “भुक्त्वा चोपस्पृशेत् सम्यग्” इति द्वितीयाध्याये भुक्त्वाचमनम् उक्तं व्रताङ्गत्वार्थम् इह तु शौचार्थम् उच्यते । तथा वेदाध्ययनं काले ऽप्य् अध्येषमाणस् त्व् आचान्तो वेदम् अध्येष्यमाणश् चेति द्विभक्तम् अपीहेतरविधिवत् सार्थं निरूप्यते ॥ ५.१४५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 145	Though he may be (already) pure, let him sip water after sleeping, sneezing, eating, spitting, telling untruths, and drinking water, likewise when he is going to study the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -33,11 +33,20 @@ This verse is quoted in *Mitākṣarā* (on 2.127) to the same effect as the las
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+साध्वाचारा स्त्री मृते भर्तर्यकृतपुरुषान्तरमैथुना पुत्ररहिताऽपि स्वर्गं गच्छति । यथा ते सनकवालखिल्यादयः स्वर्गं गताः ॥१६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मृत** इति । साध्वी स्त्री मृते भर्तरि अकृतपुंसं प्रयोगा **अपुत्रापि** सती स्वर्गं प्राप्नोति । यथा ते वालखिल्याद्या ब्रह्मचारिणः प्राप्ताः, दृष्टोपकारापेक्षयापि च ॥ ५.१६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 160	A virtuous wife who after the death of her husband constantly remains chaste, reaches heaven, though she have no son, just like those chaste men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

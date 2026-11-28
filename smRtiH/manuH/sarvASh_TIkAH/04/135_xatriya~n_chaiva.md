@@ -39,11 +39,20 @@ self,—these should never be despised.’
 shall never despise the following three, even though they be very much reduced—the Brāhmaṇa, the Kṣatriya, the serpent and other poisonous animals.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वृद्ध्यथेभूधातुः । भूष्णुर्वर्धिष्णुः धनगवादिना वर्धनशीलः क्षत्रियं सर्पं बहुश्रुतं च ब्राह्मणं नावजानीयात् । कृशानपि तत्काले प्रतीकाराक्षमान् ॥१३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**क्षत्रियं चैवेति** । यो भवनशीलः क्षत्रियसर्पविद्वद्ब्राह्मणान् तदानीं दुर्बलान् अपि कदाचिन् नावजानीयात् ॥ ४.१३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

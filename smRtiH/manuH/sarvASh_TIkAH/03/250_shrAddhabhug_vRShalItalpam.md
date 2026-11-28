@@ -47,11 +47,22 @@ This also has to be explained as before; that is, the rule applies to both (the 
 Veda, or enters the bed of a woman (the rest as in Manu).’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वृषलीशब्दोऽत्रस्त्रीपर इत्याहुः । निरुक्तं च “कुर्वन्ति वृषस्यन्ती चपलयति भर्तारमिति वृषली ब्राह्मणस्य परिणीता ब्राह्मण्यपि वृषली" इति । श्राद्धं भुक्त्वा तदहोरात्रे यः स्त्रीसम्प्रयोगं
+
+करोति तस्य पितरस्तस्याः पुरीषे मासं शेरत इति निवृत्त्यर्था निन्दा ॥२५०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**श्राद्धभुग्** इति । आमन्त्रितस् तु यः श्राद्धे (इति) भोजनात् प्राक् ब्रह्मचर्यम् उक्तम् । अनेन तु तदुत्तरकालं तद् अहोरात्रम् उच्यते । **वृषली** च व्याख्याता । श्राद्धं भुक्त्वा यः तद् अहोरात्रं स्त्रीसंयोगं भजते तस्य तद्विष्ठायां **मासं पितरः **अवतिष्ठन्ते इत्य् अतश् च इयान् अस्या धर्मयोगो भवति ॥ ३.२५० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 250	If the partaker of a Sraddha (-dinner) enters on the same day the bed of a Sudra female, the manes of his (ancestors) will lie during that month in her ordure.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

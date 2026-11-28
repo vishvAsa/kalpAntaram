@@ -39,6 +39,16 @@ stopped the work through some disability—if, on recovery, he comes and complet
 See Comparative notes for [Verse 8.215].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदा व्याध्यादिपीडया कर्म न करोति स्वस्थः सन् याद्दग्भापितं तादृशकर्म कुर्याद्वेतनं च चिरकालादपि लभेतैव ॥२१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आर्त** इति । यदा पुनः पीडादिना वा कर्म न करोति तदा स्वस्थः सन् पूर्वं यादृक् निरूपितं तादृक् कुर्यात् तां च वृत्तिं सकलाद् अपि कालाल् लभेतैव ॥ ८.२१६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 प्रतीतार्थः श्लोकः ॥ ८.२१५ ॥

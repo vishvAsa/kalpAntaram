@@ -78,11 +78,20 @@ mosquitoes.’
 disrespect towards any one.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयमपि पुरुषमात्रस्यैव धर्मो नाध्यापकस्य ।आर्तः पीडिताऽपि नारुंतुदः स्यान्न मर्मपीडाकरं तत्त्वदूषणमुदाहरेत् । तथा परस्य द्रोहोऽपकारस्तदर्थं कम बुद्धिश्च न कर्तव्या । तथा यया वाचाऽस्य परो व्यथते तां मर्मस्पृशमथालोक्यां स्वर्गादिप्राप्तिविरोधिनीं न वदेत् ॥१६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अतश् च **नारुन्तुद** इति । मर्मस्पृक् अत्य्**आर्तो **ऽ**पि न स्यात्** न परहिंसार्थव्यापारबुद्धिः स्यात् । **यया **च **वाचा **लोकः एनं द्वेष्टि तां स्वर्गादिलोकप्रतिबन्धिकां नोच्चारयेत् ॥ २.१६१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 161	Let him not, even though in pain, (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter speeches which make (others) afraid of him, since that will prevent him from gaining heaven.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

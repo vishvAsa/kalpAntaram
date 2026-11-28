@@ -93,11 +93,20 @@ performance of all acts, as also before the Twilight Prayers, one should sprinkl
 pointing eastwards, with mind collected, he should perform throe Breath-suspensions and then the Twilight Prayers.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्राक्कूलान्प्रागग्रान्दुर्भानध्यासीनः पवित्रैः कुशैः करद्वयस्थैःपवित्रीकृतः “प्राणायामास्त्रयः पञ्चदशमात्राः" इति गौतमस्मरणात्पञ्चदशमात्रैस्त्रिभिः प्राणायामैः प्रयतः । अकारादिलध्वक्षरकालश्च मात्रा । ततोऽध्ययनार्थमोंकारमर्हति ॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्राक्कूलान्** इति । “प्राणोपस्पर्शनं दर्भैः प्राक्कूलेष्व् आसनं च” इति गौतमस्मरणात् प्रागग्रेषु च दर्भेष्व् आसीनः, अत एव च **पवित्रैर् **दर्भैर् एव प्राणस्थानाद् हृदयस्पृष्टैः पवित्रीकृतः प्राणायामैश् च श्वासनिरोधरूपैः “त्रिभिः प्राणायामः त्रिपञ्चदशमात्रा” इति गौतमोक्तप्राणायामैः पवित्रीकृतः ततः ओङ्कारं पूर्वोक्तं कर्तुं योग्यो भवति ॥ २.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	Seated on (blades of Kusa grass) with their points to the east, purified by Pavitras (blades of Kusa grass), and sanctified by three suppressions of the breath (Pranayama), he is worthy (to pronounce) the syllable Om.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

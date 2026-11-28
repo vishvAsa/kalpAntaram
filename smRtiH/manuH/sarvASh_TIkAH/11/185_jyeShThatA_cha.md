@@ -43,6 +43,16 @@ Others again hold that the withholding of ‘property’ is meant to apply to th
 See Comparative notes for [Verse 11.182].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ज्येष्ठस्य यत्प्रत्युत्थानादिकं कार्यं तत्तस्य न कार्यम्। ज्येष्ठलभ्यं च तस्य विंशत्युद्धारादिकं धनं न देयम्। यद्यपि ऋक्थप्रदानप्रतिषेधादवाप्युद्धारप्रतिषेधः सिद्धस्तथापि यवीयसस्तत्प्राप्त्यर्थमनूद्यते। तस्यैव ज्येष्ठस्य सम्बन्धिधनंसोद्धारांशं तदनुजो गुणाधिको लभते॥१८५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ज्येष्ठतेति** । ज्येष्ठकार्यं प्रत्युत्थानादि तस्य न कार्यं ज्येष्ठलभ्यं चोद्धारधनं नास्य देयम् । एतच् च पूर्वसिद्धम् एव यवीयसः प्राप्त्यर्थम् अनूद्यते । तस्य च ज्येष्ठसम्बन्धिनम् उद्धारांशं तदनुजो गणाधिको लभते ॥ ११.१८४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 186	And (if he be the eldest) his right of primogeniture shall be withheld and the additional share, due to the eldest son; and his stead a younger brother, excelling in virtue, shall obtain the share of the eldest.

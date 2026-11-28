@@ -28,11 +28,20 @@ This verse serves the purpose of indicating the upshot of the entire eulogium pr
 *Anupūrvaśaḥ*;—‘Incidentally’ (Medhātithi);—‘in due order’ (Rāmacandra).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य कर्मज्ञानार्थं शेषाणां क्षत्रियादीनां च स्वायंभुवो ब्रह्मपौत्रो धीमान्सर्वविषयज्ञानवान्मनुरिदं शास्त्रं विरचितवान्॥१०२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+अधुनोक्तब्राह्मणस्तुतेः फलम् आह – **तस्येति** । ईदृग् एतन् महच्छास्त्रं यद् उक्तलक्षणस्य **ब्राह्मणस्य **प्रधानतः कार्याकार्यविवेकार्थं **शेषाणां** क्षत्रियादिसङ्करपर्यन्तानाम् अनुषङ्गतः तद्**विवेदार्थम् **एतत् प्रजापतिनप्ता प्रशस्तबुद्धिमान् **मनुः** कल्पितवान् ॥ १.१०२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

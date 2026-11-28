@@ -61,11 +61,20 @@ those of silver;—whatever is offered with a vessel—howsoever small—made of
 carefully offer into vessels, such as may be available; but specially in those of silver.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+क्रोधरहिताः, बहिः शौचं मृद्वारिभ्यामन्तःशौचं रागद्वेषादित्यागस्तद्युक्ताः, सर्वदा स्त्रीसंयोगादिशून्याः, त्यक्तयुद्धाः, दयाद्यष्टगुणयोगो महाभागता तद्वन्तः, अनादिदेवतारूपाः पितरस्तस्मात्क्रोधादिरहितेन भोक्त्रा कर्त्रा च भवितव्यम् ॥१९२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अक्रोधना** इति । क्रोधशून्याः मृद्वार्यादिशुद्धिनिरताः सर्वदावर्जितस्त्रीसम्प्रयोगाः त्यक्तायुधाः महात्मानः अनादिदेवतारूपाः **पितरः **अतः क्रोधादिरहितैः श्राद्धब्राह्मणैर् भाव्यम् ॥ ३.१९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

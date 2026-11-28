@@ -35,6 +35,16 @@ This verse sums up the foregoing section, and its second half introduces the nex
 See Comparative notes for [Verse 9.48].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतद्बीजयोन्योः प्राधान्याप्राधान्यं युष्माकमुक्तम् । अतोऽनन्तरं स्त्रीणां सन्तानाभावे यत्कर्तव्यं तद्वक्ष्यामि ॥ १६ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतद्** इति । एतद् बीजयोन्योः सारफल्गुत्वं युष्माकं कथितम् । अतो ऽनन्तरं स्त्रीणां सन्तानाभावे यत् कर्तव्यं तद् वक्ष्यामि ॥ ९.५६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ९.५६ ॥

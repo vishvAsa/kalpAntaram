@@ -48,11 +48,22 @@ the house, to a distance marked by the throw of an arrow, he shall perform the e
 second line as ‘*Ucchiṣṭotsarjanañ caivadūre kāryam hitaiṣiṇā*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नैर्ऋत्यामिषुविक्षेपमतीत्याभ्यधिकं भुवः ।
+
+इति विष्णुपुराणवचनादेवंविधादग्निगृहस्य दूरान्मूत्रपुरीषपादप्रक्षालनसकलोच्छिष्टान्नानि निषिच्यत इति निषेकं रेतश्चोत्सृजेत् ॥१११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दूराद्** इति । “क्षिप्रं गत्वा क्षेपमात्रं शरस्य” इति पुराणस्मरणद् एवंविधात् गृहस्य दूरात् मूत्रपुरीषपादधावनोदकोच्छिष्टपरिषेकोदकाद्य् उत्सृजेत् ॥ ४.१५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

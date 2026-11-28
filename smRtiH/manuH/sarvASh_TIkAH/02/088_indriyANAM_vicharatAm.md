@@ -67,11 +67,15 @@ composed, has his senses under control; just as good horses are under ṭhe cont
 roaming sense-organs, it deprives him of his wisdom; just as the storm destroys the boat in water. Therefore that man whose sense-organs have been withdrawn from the objects of sense, has his wisdom firmly established.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**इन्द्रियाणाम्** इति । **इन्द्रियाणां** चक्षुरादीनां **विषयेषु **रूपादिषु **अपहारिषु **च उपभोगार्थम् आकर्षनशीलेषु यथेच्छं प्रवर्तमानानां नियमने प्रयत्नं कुर्यात्, यथा शिक्षितः सारथिः रथ्यारब्धानाम् अश्वानां नियमने यत्नं करोति ॥ २.८८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 088	A wise man should strive to restrain his organs which run wild among alluring sensual objects, like a charioteer his horses.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

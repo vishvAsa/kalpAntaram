@@ -57,6 +57,16 @@ touches another person with vomitings, urine or ordure; and sixfold if the middl
 hold of the neck, or breasts or hair or mouth of a person of the higher caste, the fine shall be 30; 63, for uprooting his hair and for threatening him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दपण श्लेष्मणा ब्राह्मणानपमानयतः शूद्रस्य राजा द्वावोष्ठौ छेदयेत् । मूत्रप्रक्षेपेणापमानयतो मेढ्रम् । शर्धनं कुत्सितो गुदशब्दस्तेनावमानयतो दर्पान्न प्रमादादू गुदं छेदयेत् ॥२८२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अवनिष्ठीवनाद्** इति । निष्ठीवनेन श्लेष्मणां मर्षेण श्लेष्माणं वमयन् शूद्रस्य द्वाव् अप्य् ओष्ठौ छेदयेद् एवं मूत्रेणावमानयतो लिङ्गम् अधमाङ्गध्वनिनावमानयतः पायुं छेदयेत् ॥ ८.२८२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 282	If out of arrogance he spits (on a superior), the king shall cause both his lips to be cut off; if he urines (on him), the penis; if he breaks wind (against him), the anus.

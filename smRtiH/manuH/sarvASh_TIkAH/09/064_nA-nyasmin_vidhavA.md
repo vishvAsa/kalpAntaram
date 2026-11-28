@@ -150,6 +150,16 @@ It is quoted in *Nṛsiṃhaprasāda* (Vyavahāra, 38a);—in *Smṛticandrikā*
 See Comparative notes for [Verse 9.60].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणादिभिर्विधवा स्त्री भर्तुरन्यस्मिन्देवरादौ न नियोजनोया स्त्रियमन्यस्मिन्नियुञ्जा नास्ते स्त्रीणामेकपतित्वधर्ममनादिसिद्धं नाशयेयुः ॥ ६४ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं नियोगम् उक्त्वा दूषयितुम् आह “**नान्यस्मिन् विधवा नारी नियोक्तव्या कदाचन**” इति । विधवा नारी अन्यस्मिन् देवरादौ न नियोजनीया, यस्मात् ते देवरादौ नियोजयन्तो ऽनादिधर्मम् एकपत्नीव्रतं प्रतिषेधं नाशयेयुः ॥ ९.६४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 064	By twice-born men a widow must not be appointed to (cohabit with) any other (than her husband); for they who appoint (her) to another (man), will violate the eternal law.

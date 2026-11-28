@@ -36,11 +36,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 527), as reiterative of wh
 for ‘*Prajāpatirakalpayat*.’)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्राणितीति प्राणो जीवः शरीरान्तर्गतो भोक्ता तस्यादनीयं सर्वमिदं ब्रह्मा कल्पितवान् । किम् ? तदाह–जङ्गमं पश्चादि, स्थावरं व्रीहियवादि सर्वं तस्य भोजनम् । तस्मात्प्राणधारणार्थं जीवो मांसं भक्षयेत् ॥२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**प्राणस्येति **। कोष्ठ्यस्य वायोः शरीरावस्थित्यर्थम् इदं सर्वं प्रजापतिर् अन्नं कल्पितवान् । किं तत् । अत आह पश्वादि **जङ्गमं** मूलफलादि च **स्थावरं सर्वं प्राणस्य भोजनम्** । तस्मात् प्राणात्यये मांसम् अदनीयम् इति प्राणात्यये मांसभक्षणार्थवादः ॥ ५.२८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 028	The Lord of creatures (Pragapati) created this whole (world to be) the sustenance of the vital spirit; both the immovable and the movable (creation is) the food of the vital spirit.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

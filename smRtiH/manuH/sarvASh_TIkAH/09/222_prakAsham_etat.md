@@ -31,6 +31,11 @@ This verse is quoted in *Vivādaratnākara* (p. 611);—in
 See Comparative notes for [Verse 9.221].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+प्रकटमेतच्चौर्यंयद्यूतसमाह्वयौ तस्मात्तन्निवारणे राजा नित्यं यत्नयुक्तः स्यात्॥ २२२॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > प्**रकाशम् एतत् तास्कर्यं यद् एवनसमाह्वयौ ।**

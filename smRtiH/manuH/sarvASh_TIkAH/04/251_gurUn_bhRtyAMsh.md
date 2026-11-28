@@ -14,8 +14,6 @@ For the purpose of bringing relief to his teachers and dependents, and for the p
 - वृद्धौ तु मातापितरौ भार्या साध्वी सुतः शिशुः । (म्ध् ११.५ अद्देद् वेर्से)[^३०१]
 
 तान् उद्धर्तुम् इच्छुः क्षुधावसन्नान् । **देवतातिथींश् चार्चिष्यन्** नित्यकर्मसंपत्यर्थम् इत्यर्थः । **सर्वतः प्रतिगृह्णीयात्** साधुभ्यो ऽसाधुभ्यश् च । **न तु तृप्येत् स्वयं ततः** । तृप्तिः क्षुन्निवृत्तिर् उपभोगश् च, तन् न कुर्यात् । गुर्वादिप्रयोजनम् एव तद् ग्रहीतव्यं न त्व् आत्मार्थम् ॥ ४.२५१ ॥
-
-_कथं तर्ह्य् आत्मा यापयितव्यः । अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -53,11 +51,20 @@ the sake of one’s teacher and dependants, and for one’s own livelihood, one 
 dependants one may accept food from the Śūdra; but he himself shall not partake of it.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापित्रादीन्गुरूभृत्यांश्च भार्यादीन् क्षुवावसन्नानुद्धर्तुमिच्छत्पतितादिवर्जं सर्वतः शुद्रादेरसाधुभ्यश्च प्रतिगृह्णीयात्, न तु तेन धनेन स्वयं वर्तेत ॥२५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरून् भृत्यान्** इति । मातापित्रादीन् **गुरून्** **भृत्यान्** भार्यापुत्रादीन् अवश्यम्भरणीयान् क्षुधावसन्नान् उद्धर्तुम् इच्छन् **देवतातिथींश्** च पूजयिष्यन् अनापत्प्रकरणात् पतिताद्यत्यन्तकुत्सितवर्जं **सर्वतः प्रतिगृह्णीयात् ** न रूपान्तरसद्भावे सति तेन धनेन आत्मनस् तृप्तिं कुर्यात् । मुख्योपायपरिक्षये हि अवृत्तिकर्शितः संसीदन्न् इत्य् आपद्धमं वक्ष्यति ॥ ४.२५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

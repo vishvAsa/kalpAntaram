@@ -38,11 +38,15 @@ This verse is quoted in *Nityācārapradīpa* (p. 386), which explains that ‘*
 *Yama* (in Parāśaramādhava, p. 300).—\[Same as Manu.\]
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+तथा चाह **ऋषय** इति । **प्रज्ञाम्** इति । यद्माद् **ऋषयो दीर्घसन्ध्य्**आनुष्ठानात्** दीर्घम् आयुः** प्रज्ञावन्तश् च **यशः **स्वर्याताश् च **कीर्तिइम्** अध्ययनादिसम्पत्तिश् च प्राप्तवन्तः तस्माद् एतत् कामेन दीर्घसन्ध्यानुष्ठानं कर्तव्यम् ॥ ४.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	By prolonging the twilight devotions, the sages obtained long life, wisdom, honour, fame, and excellence in Vedic knowledge.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

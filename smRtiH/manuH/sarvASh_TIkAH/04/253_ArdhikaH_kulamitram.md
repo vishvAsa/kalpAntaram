@@ -46,11 +46,20 @@ ploughman,—these five Śūdras are those whose food may be eaten even by Brāh
 made with milk may be eaten even from a Śūdra.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आर्धिकःकार्षिकः।संबन्धिशब्दाश्चैते ।यस्य कृषिं करोति स तस्य भोज्यान्नः ॥ एवं स्वकुलस्य मित्रं, यो यस्य गोपालो, यो यस्य दासः, यो यस्य नापितः कर्म करोति, यो यस्मिन्नात्मानं निषेदयति दुर्गतिरहं त्वदीयसेवां कुर्वन्निति च त्वत्समीपे वसामीति यः शूद्रस्तस्य भोज्यान्नः ॥२५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आर्धिक **इति । **शूद्रेषु **मध्यात् कर्षककुलमित्रगोपालदासनापिता **भोज्यान्नाः । यश् च **त्वदाश्रितो ऽहम् इत्य् एवम् **आत्मानं **समर्पयेत् । शूद्रश् च नापितादिकर्मणा जीवेत् कारुककर्मभिः इति वक्ष्यति ॥ ४.२५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 253	His labourer in tillage, a friend of his family, his cow-herd, his slave, and his barber are, among Sudras, those whose food he may eat, likewise (a poor man) who offers himself (to be his slave).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

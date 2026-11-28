@@ -53,11 +53,20 @@ It is quoted in *Smṛticandrikā* (Saṃskāra, pp. 190 and 231), which adds th
 See Comparative notes for [Verse 3.23].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणस्य प्रथमं पठितान्ब्राह्मादीश्चतुरः । क्षत्रियस्य राक्षसमेकमेव ।वैश्यशूद्रयोरासुरम् । एताच्छ्रेष्टान् ज्ञातारौ जानन्ति । अत एव ब्राह्मणादिष्वासुरादीनां पूर्वविहितानामप्यत्रानुपादानं जघन्यत्वज्ञापनार्थम् ।तेन प्रशस्तविवाहासम्भवे जवन्यस्यापि परिग्रह इति दर्शितम् । एवमुतन्त्रापि विगर्हितपरित्यागो बोद्धव्यः ॥२४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चतुर** इति । **ब्राह्मणस्याद्यांश् चतुरः** । **क्षत्रियस्य राक्षसम् एकं वैश्यशूद्रयोश् चासुरं** स्मृत्यर्थोपनिबन्धनकाराः **प्रशस्तान्** मन्यन्ते । अत्र चारुरादीनां ब्राह्मणादिषु पूर्ववाक्यविहितानाम् इह निराकरणात् विकल्पतो नित्यासम्भवे वैकल्पिकेषु प्रवृत्तिः । एवम् उत्तरत्रापि वेदितव्यम् ॥ ३.२४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 024	The sages state that the first four are approved (in the case) of a Brahmana, one, the Rakshasa (rite in the case) of a Kshatriya, and the Asura (marriage in that) of a Vaisya and of a Sudra.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

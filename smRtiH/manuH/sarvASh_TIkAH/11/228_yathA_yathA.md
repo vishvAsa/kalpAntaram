@@ -28,6 +28,16 @@ In the expression ‘*naro-dharmam*,’ an ‘a’ is to be understood between t
 See Comparative notes for [Verse 11.228].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यथा यथा स्वयं पापं कृत्वा नो भाषते लोके ख्यापयति तथा तथा तेन पापेन सर्पइव जीर्णत्वचा मुच्यत इति ख्यापनविधेरनुवादः॥२२८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथा यथेति** । मनुष्यः पापं कृत्वा तेन पापेन स्वयम् एव यथा यथा ख्यापयति मयेदं दुष्टं कर्म कृतम् इति निन्दति तथा तथा तं शरीरस्थं क्षेत्रज्ञं पुण्यपापयोः तदाश्रयत्वात् तेन पापेन जीर्णचर्मेव सर्पस् तस्मात् पापात् प्रमुच्यते इति ख्यापनार्थवादः॥ ११.२२७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 229	In proportion as a man who has done wrong, himself confesses it, even so far he is freed from guilt, as a snake from its slough.

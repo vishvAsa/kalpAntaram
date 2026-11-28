@@ -50,6 +50,11 @@ This verse is quoted in *Madanapārijāta* (p. 126).
 See Comparative notes for [Verse 4.67].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**विनीतैर्** इति । सुशिक्षितैः पुनः क्षिप्रगामिभिः देवमण्याद्यावर्तादियुक्तैः ककुदादिशून्यैः शोणादिवर्णसम्पन्नैः स्वाकृतिभिः **प्रतोदेना**त्यर्थम् अव्यथयन् **व्रजेत् **॥ ४.६८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 068	Let him always travel with (beasts) which are well broken in, swift, endowed with lucky marks, and perfect in colour and form, without urging them much with the goad.

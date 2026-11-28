@@ -33,6 +33,16 @@ This verse is quoted in *Aparārka* (p. 601);—in *Kṛtyakalpataru* (9b);—an
 See Comparative notes for [Verse 8.20].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्य राज्ञो धर्मविवेचनं शुद्रः कुरुते, तस्य पश्यत एव पङ्के गौरिव तद्राष्ट्रमवसन्नं भवति ॥२१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **यस्येति **। **यस्य** राज्ञः **शूद्रो** धर्मविचारं **कुरुते** **तस्य पश्यत** एव कर्दम इव **गौः तद् राष्ट्रम्** अवसीदति ॥ ८.२१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **[यस्य शूद्रस् तु कुरुते] राज्ञो धर्मविवेचनम् ।**

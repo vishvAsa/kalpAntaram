@@ -58,11 +58,24 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 606), which explains �
 The *Hāralatā*, which has both lines of (62) explains the meaning as—‘The untouchability due to death pertains to all *sapiṇḍas*, and that due to birth pertains to the parents of the child only, but the full period (ten days) of ‘impurity’ attaches to the mother only, that attaching to the father disappears immediately on bathing.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ जननेऽप्येवमेव स्यान्मातापित्रोस्तु सूतकम् ।**
+
+**सूतकं मातुरेव स्यादुपस्पृश्य पिता शुचिः ॥५॥ \]**
+
+“स्नानं मैथुनिनः स्मृतम्” ( स० स्मृ० ५-१४४ ) इति मैथुने स्नानं विधास्यति, तेन मैथुनं विनापि कामतो रेतस्खलने स्नात्वा पुमान्शुद्धो भवति । अकामतस्तु स्वप्नादौ रेतः पाते "मूत्रवद्रेतस उत्सर्गः" इत्यापस्तम्बोक्तेःस्नानं विनाऽपि गृहस्थस्य शुद्धिः । ब्रह्मचारिणस्त्वकामतोऽपि "स्वप्ने सिक्त्वा ब्रह्मचारी" ( म. स्मृ. २-१८१ ) इत्यनेन स्नानादिना शुद्धिरुक्ता।बैजिके तु सम्बन्धे परपूर्वभार्यायामपत्योत्पत्तौ त्र्यहमाशौचं भवति । तथा च विष्णुः—"परपूर्वभार्यासु त्रिरात्रम्” ।रेतःपातिनामाशौचमप्रकृतमपि जननप्रकरणे प्रसङ्गात्तदनुगुणतयोक्तम् । यत्र रेतःपातमात्रेण स्नानं तत्रापत्योत्पत्तौ त्रिरात्रमुचितम् ॥६३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निरस्य त्व् **इति । “स्नानं मैथुनिनः स्मृतम्” इति मिथुने स्नानविधानान् मैथुनाद् अन्यत्राबुद्धिपूर्वं रेतः स्रावे सत्य् उपस्पृश्यैव पुमान् शुद्ध्यति । तथा च मूत्रवद् रेतस उत्सर्गे शौचम् इत्य् आपस्तम्बो ऽब्रवीद् एतच् चेह प्रसङ्गेनाह । यत्र पुनर् जनने बीजनिमित्तमात्र एवाभिसम्बन्धो न शास्त्रतो यथा परपूर्वाभार्याप्रसवे तत्र त्र्यहम् आशौचम् अनुवर्तते । तथा च विष्णुः- “परपूर्वासु भार्यासु प्रसूतासु त्रिरात्रम्” इति ॥ ५.६३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 063	But a man, having spent his strength, is purified merely by bathing; after begetting a child (on a remarried female), he shall retain the impurity during three days.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

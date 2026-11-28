@@ -37,6 +37,11 @@ This verse is quoted in *Vivādaratnākara* (p. 528), as containing the sanction
 See Comparative notes for [Verse 9.149].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्वा स रिक्थप्रकारमनुद्धृतोद्धारं दशधा कृत्वा, विभागधर्मज्ञो धर्मादनपेतं विभागमनेन वक्ष्यमाणविधिना कुर्वीत ॥ १५२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धर्म्यवचनाद् अत्र सर्वेषु यथोक्तकारिष्व् अयं विभागः । सो ऽयम् उच्यते ॥ ९.१५२ ॥

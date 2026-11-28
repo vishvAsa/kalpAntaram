@@ -93,6 +93,11 @@ It is quoted in *Vyavahāramayūkha* (p. 45) as debarring from all inheritance t
 See Comparative notes for [Verse 9.149](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201526.html#comparative-notes "English translation of verse").
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणक्षत्रियवैश्यानां शुद्रापुत्रो धनभाङ् न भवति, किंतु यदेव धनमस्मै पिता दद्यात्तदेव तस्य भवेत् । एवं च पूर्वोक्तविभागनिषेधाद्विकल्पः स च गुणवद्गुणापेक्षः । अथवा अनूढशूद्रापुत्रविषयोऽयं दशमभागनिषेधः ॥ १५५ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पित्रधीनो ऽस्यांश इत्य् अयम् अपरः कल्पो गुणसंबन्धापेक्षः पूर्वविधेः । एवं च सति पूर्वोत्तरयोर् विरोधाद् अनयोर् विकल्पो गुण[संबन्धापे]क्षः । अथ वा अनूढाशूद्रापुत्रस्यायं विधिर् ज्ञेयः । पूर्वस् तूढापुत्रस्य । तथा च गौतमः शूद्रप्रकरण आहापरिगृहीतास्व् अपि "शुश्रूषुश् चेल् लभेत वृत्तिमूलम् अन्तेवासिविधिना" ॥ ९.१५५ ॥

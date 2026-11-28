@@ -42,11 +42,24 @@ This verse is quoted in *Madanapārijāta* (p. 556), which explains ‘*parīk�
 examine the Brāhmaṇa; at that in honour of Pitṛs he shall examine him with care.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ तेषामन्ये पङ्क्तिदूष्यास्तथाऽन्ये पङ्क्तिपावनाः ।**
+
+**अपाङ्क्तेयान्प्रवक्ष्यामि कव्यानर्हान्द्विजाधमान् ॥९॥ \]**
+
+धर्मज्ञो दैवश्राद्धे भोजनार्थं न ब्राह्मणं यत्नतः परीक्षेत ।लोकप्रसिद्धिमात्रेणासौ साधुतय भोजयितव्यः ।पित्र्ये पुनः कर्मण्युपस्थिते पितृपितामहाद्यभिजन परीक्षा कर्तव्येति प्रयत्नतः शब्दरूयार्थः ॥१४९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति** । धर्मज्ञः **दैवे कर्मणि **भोजनार्थं **ब्राह्मणं न परीक्षेत** लोकप्रसिद्धिमात्रेणैवासौ तथा प्रतिपद्य तत्र भोजनीयः । **पित्र्ये कर्मण्य् उपस्थिते **“दूराद् एव परीक्षेत" इत्युक्तनीत्या **यत्नतः परीक्षेत** ॥ ३.१४९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 149	For a rite sacred to the gods, he who knows the law will not make (too close) inquiries regarding an (invited) Brahmana; but when one performs a ceremony in honour of the manes, one must carefully examine (the qualities and parentage of the guest).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

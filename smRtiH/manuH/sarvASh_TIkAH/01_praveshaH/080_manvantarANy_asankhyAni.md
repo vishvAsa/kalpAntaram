@@ -41,11 +41,20 @@ It is in view of this fact that the author has added the qualifying term ‘*as 
 ‘*Krīḍan*’—*cf*. Brahmasūtra—‘*Lokavattu līlākaivalyam*.’ This idea of creation being a ‘sport’ for God is common in Hindu Theism.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद्यपि चतुर्दशमन्वन्तराणि पुराणेषु परिगण्यन्ते, तथापि सर्गप्रलयानामानन्त्यादसंख्यानि। आवृत्त्या सर्गः संहारश्वासंख्यः। एतत्सर्वं क्रीडन्निव प्रजापतिः पुनः पुनः कुरुते। सुखार्था हि प्रवृत्तिः क्रीडा। तस्य चाप्तकामत्वान्न सुखार्थितेति इवशब्दः प्रयुक्तः। परमे स्थानेऽनावृत्तिलक्षणे तिष्ठतीति परमेष्ठी। प्रयोजनं विना परमात्मनः सृष्ट्यादौ कथं प्रवृत्तिरिति चेल्लीलयैव एवं स्वभावत्वादित्यर्थः। व्याख्यातुरिव करताडनादौ। तथा च शारीरकसूत्रम् —"लोकवत्तुलीलाकैवल्यम्” ( २ / १ / ३३ )॥८०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यद्य् अपि पुराणे चतुर्दश मन्वन्तराणि सङ्ख्यायन्ते तथापि आवृत्त्या असङ्ख्यानि यदा भवन्ति तदा सृष्टिसंहारौ भवतः । **एतच् **च सृष्टिसंहाराख्यं वस्तु परमे अनावृत्तिलक्षणे स्थाने स्थितत्वात् **परमेष्ठी **प्रजापतिः **क्रीडन्न् इवैतत् पुनः पुनः कुरुते** । न केवलं तदिच्छैवात्र कारणं यावत् प्राणिकर्माण्य् अपीत्य् अतः **एव**शब्दः ॥ १.८० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

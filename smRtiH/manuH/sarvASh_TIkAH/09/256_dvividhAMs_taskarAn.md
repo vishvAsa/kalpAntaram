@@ -53,6 +53,11 @@ others, have to be distinguished:—the one kind *open* and the other kind
 receive bribes, robbers, gamblers, public prostitutes, those who roam about in disguise, those who make a living by teaching auspicious ceremonies,—these and such like persons are considered *open* rogues. Rogues acting *in secret* are those who roam in the woods, or he concealed, as well as those who make a profession of stealing. They attack and rob people who do not beware of them. Those who infest a country, a village, or a house, or disturb a sacrificial act, cut purses, and other persons of this sort also are considered to be *secret rogues*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चार एव चौरज्ञानहेतुत्वाञ्चक्षुरिव यस्यासौ राजा, चारैरेव प्रकटतया गूढतया द्विप्रकारान्यायेन परधनग्राहिणो जानीयात्॥ २५६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 चारचक्षुर्भिः पार्थिवैः परद्रव्यनिर्हरतां तास्कर्यं विज्ञेयम् । आदरार्थं चायम् उपदेशः आदाव् एषां विज्ञेयः ॥ ९.२५६ ॥

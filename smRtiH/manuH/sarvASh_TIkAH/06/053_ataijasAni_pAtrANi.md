@@ -62,6 +62,22 @@ for Renun dates; the Renunciate should avoid these.’
 never in the leaves of the *Vaṭa* or *Aśvattha* or *Karañja* or *Kumbhī* or *Tinduka* or *Kobidāra* or *Arka*; never, even in distress, in a vessel made of bell-metal, or gold or silver or copper or tin or zinc.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+देवर्जितानि निश्छिद्राणि भिक्षोर्भिक्षापात्राणि भवेयुः। तथा यमः—
+
+**सुवर्णरूप्यपात्रेषु ताम्रकांस्यायसेषु च।**
+
+**    गृह्णन्भिक्षां न धर्मोऽस्ति गृहीत्वा नरकं व्रजेत्॥**
+
+प्रतिपात्राणां जलेनैव तु शुद्धिः यज्ञे चमसानामिव॥५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अतैजसानीति** । सौवर्णलोहादिवर्जितानि अच्छिद्राणि भिक्षाभोजनपात्राणि स्युर् निर्व्रणानि च तेषां च उदकेनैव शुद्धिर् यज्ञे चमसानाम् इव ॥ ६.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	His vessels shall not be made of metal, they shall be free from fractures; it is ordained that they shall be cleansed with water, like (the cups, called) Kamasa, at a sacrifice.

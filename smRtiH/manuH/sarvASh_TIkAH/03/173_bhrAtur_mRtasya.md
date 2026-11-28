@@ -53,11 +53,20 @@ husband of a woman who has had a previous husband,—the wise called
 *Prajāpati* (quoted in do.).—\[Reproduces Manu.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मृतस्य भ्रातुर्वक्ष्यमाणनियोगधर्मेणापि नियुक्तायां भार्यायां सकृत्सकृदृतावृतावीत्यादिविधिं हित्वा कामेनानुरागं भाववेदाश्लेषचुम्बनादि कुर्यादसद्धाप्रवर्तेत स विधिपतिर्ज्ञातव्यः। अतः श्राद्धनिषिद्धपात्रमध्यपाठादस्यापि हव्यकव्यपात्रयोर्निषेधः कल्पनीयः ॥१७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**भ्रातुर्** इति । **मृतस्य भ्रातुः** वक्ष्यमाणनियोगे **धर्मेणापि नियुक्तायां भार्यायां यो **नियोगधर्मं हित्वा कामेन हेतुभूतेनानुरागं भावयेत् **सो ऽग्रेदिधिषूपतिः** निषिद्धत्वात् । अत्र वृत्तवशात् सत्यभामावच् चाग्रशब्दस्याप्रयोगः ॥३.१७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 173	He who lasciviously dallies with the widow of a deceased brother, though she be appointed (to bear a child by him) in accordance with the sacred law, must be known to be a Didhishupati.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

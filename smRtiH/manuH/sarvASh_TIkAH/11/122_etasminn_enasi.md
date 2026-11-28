@@ -40,6 +40,16 @@ They are quoted in *Parāśaramādhava* (Prāyaścitta, p. 436);—in
 See Comparative notes for [Verse 11.118].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतस्मिन्नवकोर्णाख्ये पाप उत्पन्ने पूर्वोक्तं गर्दभयागादि कृत्वा "गर्दभचर्म परिधाय” इति हारीतस्मरणात्स गर्दभसम्बन्धिचर्मप्रावृतोऽवकर्ण्यहमिति स्वकर्मख्यापन कुवेन्सप्त गृहाणि भैक्षं चरेत् ॥ १२२ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतस्मिन्न्** इति । **सप्तागारं चरेद् भैक्ष्यं स्वकर्म परिकीर्तयन्** । अवकीर्णाख्ये पाप उत्पन्ने पूर्वोक्तगर्दभयागादि कृत्वा तद्गर्दभसम्बन्धि चर्म प्रावृत्याकीर्ण्य् अस्मीत्य् एवं स्वकर्म ख्यापयन् सप्तगृहं भैक्ष्यं चरेत् ॥ ११.१२२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 123	When this sin has been committed, he shall go begging to seven houses, dressed in the hide of the (sacrificed) ass, proclaiming his deed.

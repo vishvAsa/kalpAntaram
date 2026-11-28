@@ -21,11 +21,24 @@ He becomes the sanctifier of his company; ‘*company*’ stands here for a numb
 He alone is entitled to receive the gift of this earth extending to the oceans; ‘knowledge of Dharma’ establishes a claim to become the recipient; hence it is that a full knowledge of Dharma is sought to be acquired.—(105)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**\[ यथा त्रिवेदाध्ययनं धर्मशास्त्रमिदं तथा।**
+
+**अध्येतव्यं ब्राह्मणेन नियतं स्वर्गमिच्छता॥११॥ \]**
+
+इदं शास्त्रमधीयान इत्यनुवर्तते। अपाङ्क्तेयोपहतां पङ्क्तिमानुपूर्व्या निविष्टजनसमूहं पवित्रीकरोति। वंशभवांश्च सप्त परान्पित्रादीन्, अवरांश्च पुत्रादीन्। पृथिवीमपि सर्वो सकलधर्मज्ञतया पात्रत्वेन ग्रहीतुं योग्यो भवति॥१०५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+किं च **पुनातीति** । भोजनादानपङ्क्तिसम्बन्धाद् अपवित्रीभूतां **पङ्क्तिं** शास्त्रस्थत्वात् पङ्क्तिपावनत्वे सति पवित्रीकरोति । तथैवान्वयात् **सप्त परान् **अतीतान् पित्रादीन् **सप्तावरान्** आगामिनः **पुनाति । **समग्रां चेमां **प्र्थिवीं **प्रतिग्रहीतुम् अर्हति । विदुषः प्रतिग्रहदोषापाकरणसामर्थात् ॥ १.१०५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

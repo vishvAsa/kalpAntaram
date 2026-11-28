@@ -29,6 +29,16 @@ This verse is quoted in *Mitākṣarā* (3.302), which notes that it applies to 
 slaying of the learned Brāhmaṇa, or to the *unintentional repeated* slaying of the unlearned Brāhmaṇa;—in *Parāśaramādhava* (Prāyaścitta, p. 456);—and in *Nṛsiṃhaprasāda* (Prāyaścitta 32a).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+त्रिभिः पराकैः पूतो मन्त्रब्राह्मणात्मिकां वेदसंहितामरण्ये वारत्रयमभ्यस्य वा प्रयतोबाह्याभ्यन्तरशौचयुक्तः सर्वैर्महापातकैर्मुच्यते॥२५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अरण्य** इति । यद् वा पराकत्रयेणापनीतपापः सन् अटव्यां त्रीन् वारान् वेदसंहितां संयमवान् आवर्त्य सर्वाणि पातकानि महापातकोपपातकादीन्य् अपि हन्ति ॥ ११.२५७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अविशेषवचनाद् यां कांचिद् वेदसंहिताम् इति ॥ ११.२५५ ॥

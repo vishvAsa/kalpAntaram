@@ -50,11 +50,20 @@ recipients; specially the Yogins.’
 son,—these deserve to be offered the seat at the Śrāddha to the Pitṛs; the qualified maternal uncles also deserve to be honoured.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+स्वस्त्रीयो भागिनेयः, गुरुर्विद्यागुरुराचार्यादिः, विद दुहिता तस्याः पतिर्विपतिर्जामाता, बन्धुर्मातृष्वसृपितृष्वसुपुत्रादिः, एतान्मातामहादीन्दश मुख्यश्रोत्रियाद्यसम्भवे भोजयेत् ॥१४८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मातामहम्** इति । मातामहमातुलभागिनेयश्वशुरविद्यागुरुदौहित्रर्त्विग्याज्यान् **भोजयेत्** । विट् प्रजा तस्याः पतिं **विट्पतिं** जामातरं **बन्धुं **च सगोत्रादिकम् ॥ ३.१४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 148	One may also entertain (on such occasions) one's maternal grandfather, a maternal uncle, a sister's son, a father-in-law, one's teacher, a daughter's son, a daughter's husband, a cognate kinsman, one's own officiating priest or a man for whom one offers sacrifices.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

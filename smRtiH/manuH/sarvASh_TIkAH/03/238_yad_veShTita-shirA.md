@@ -63,11 +63,20 @@ on.’
 vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वस्त्रादिवेष्टितशिरा यदन्नं भुते, तथा दक्षिणामुखः, सपादुकश्च, तद्राक्षसा भुञ्जते न पितरः ।तस्मादेवंरूपं न कर्तव्यम् ॥२३८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यद्** इति । उष्णीषादिना **वेष्टितशिराः **यद् अन्नं ब्राह्मणो **बुङ्क्ते **तथा **दक्षिणामुखः सोपानत्क**पादश् **च** **तद्** अन्नं **रक्षांसि **अश्नन्ति, न पितरः । तस्माद् एतत् परिहरणीयम् ॥ ३.२३८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -52,11 +52,20 @@ commended, they offer the balls before the feeding; but at those that are commen
 down for the offering of the balls, one should follow the practice of his own rescension.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण पिण्डानां प्रदानं कृत्वा प्रकृतवरयाचनानन्तरं तान्पिण्डान्गां ब्राह्मणं छागं वा भोजयेत्, अग्नौ जले वा क्षिपेत् ॥२६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **एवं** “त्रींस् तु तस्माद् धविःशेषात्” (३.२१५) इत्यादिप्रक्रियया पिण्डा**निर्वपणं कृत्वा तान्** पिण्डान् **अनन्तरं** प्रक्रान्तवरयाचनानन्तरं गोविप्राजानाम् अन्यतमम् आशयेत् । अग्नाव् उदके **वा क्षिपेत् ** ॥ ३.२६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

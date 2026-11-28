@@ -85,11 +85,15 @@ devoted to Vedic Study.’
 moment sacred to Brahman; at that time should the wise man always rise and ponder over his welfare.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्म** इति । रात्रेः पश्चिमे **मुहूर्ते** प्रति**बुध्येत **। ततो **धर्मार्तौ** इतरेतराविरोधेनार्जनार्थं विचारयेत् । तथा धर्माऋथतन्मूलभूतं **कायक्लेशं** इयता कालक्लेशेन इयान् इयान् धर्मो (ऽर्थो) वार्ज्यत् इत्य् एवं चिन्तयेत् । वेदस्य च कः पारमार्थिको ऽर्थः स्याद् इत्य् एवं तम् अपि चिन्तयेत् ॥ ४.९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 092	Let him wake in the muhurta, sacred to Brahman, and think of (the acquisition of) spiritual merit and wealth, of the bodily fatigue arising therefrom, and of the true meaning of the Veda.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

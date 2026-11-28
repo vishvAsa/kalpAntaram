@@ -28,6 +28,16 @@ horses, pigs and camels; and the wine-drinker, among asses, *Pukkasas* and *Vena
 (See texts under 11.49 *et seq*.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अयं जीवो येन येन पापेन कर्मणा इह लोके कृतेन यद्यज्जन्म प्राप्नोति तत्सर्वं क्रमेण शृणुत॥५३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । क्षेत्रज्ञो येन येनेह कर्मणा कृतेन यां यां योनिम् अस्मिंल् लोके प्राप्नोति तत् कर्मफलं सर्वक्रमेण शृणुतेति निषिद्धाचरणफलाभिधानोपन्यासार्थः श्लोकः ॥ १२.५३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 053	What wombs this individual soul enters in this world and in consequence of what actions, learn the particulars of that at large and in due order.

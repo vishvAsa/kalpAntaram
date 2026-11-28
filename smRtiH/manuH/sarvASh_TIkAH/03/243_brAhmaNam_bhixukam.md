@@ -46,11 +46,20 @@ food, or a guest, should arrive, he shall, on being permitted by the Brāhmaṇa
 one shall welcome the Ascetic and the Religious Student.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणमतिथिरूपम् अन्यं वा भक्षणशीलं भोजनार्थं तत्कालोपस्थितं श्राद्धपात्रब्राह्मणैरनुज्ञातो यथाशक्त्यन्नभोजनेन भिक्षादानेन चार्हयेत् ॥२४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ब्राह्मणं भिक्षुकं वापीति** । **ब्राह्मणम् **अतिथिरूपं अन्यं वा **भिक्षुकं भोजनार्थं** तत्कालम् आगतं श्राद्धब्राह्मणैर् अनुज्ञातो दाता यथाशक्त्या अन्नदानेन पूजयेत् ॥ ३.२४३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

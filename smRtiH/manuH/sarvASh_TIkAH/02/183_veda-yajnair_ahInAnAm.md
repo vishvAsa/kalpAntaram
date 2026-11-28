@@ -73,11 +73,20 @@ Religious Student are entitled to cooked food only.’
 from the right sources, he may heg from all the four castes.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वदयज्ञैश्चात्यक्तानां स्वकर्मसु दक्षाणां गृहेभ्यः प्रत्यहं ब्रह्मचारी सिद्धान्नभिक्षासमूहमाहरेत् ॥१८३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वेदयज्ञैर्** इति । वेदवेदार्थानुष्ठानयुक्तानां **स्वकर्मसु** च वृत्त्यर्थेषु अध्यापनादिषु **प्रशस्तानां** स्ववृत्त्या जीवतां **गृहेभ्यो ब्रह्मचारी **शुचिः सन् प्रत्यहं **भैक्षम् आहरेत् **॥ २.१८३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

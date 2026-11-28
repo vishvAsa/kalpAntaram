@@ -78,6 +78,16 @@ Paṇas, is 1¼ Paṇas; it is 5 Paṇas in business transactions; 10 Paṇas fo
 debtor exactly as he had lent it to him. As regards interest, he shall take, in the direct order of the castes, 2, 3, 4 or 5 percent., per month, if no pledge has been given; or the debtor of any caste may pay as much as has been promised by him. After the lapse of one year, let them pay interest according to the afore-mentioned rule, even though it may not have been agreed upon. By the use of the pledge, interest becomes forfeited.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वसिष्टेनोक्तां वृद्धिं धर्म्यत्वाद्धनवृद्धिकरीं वृद्धिजीवी गृह्णीयात् । तामेव दर्शयति—सतेप्रयुक्तेऽशीतिभागं प्रतिमासं वृद्धिं गृह्णीयात् ॥१४०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वसिष्ठविहिताम्** इति । वसिष्ठोक्तां वृद्धिं धर्मत्वाद् धनवृद्धिकरीं वृद्धिजीव्य् उत्पादयेत् । साकल्यत आह अशीतिभागम् इति । शते प्रयुक्ते मासाद् गतात् तस्माच् छताद् अशीतिभागं वृद्ध्यर्थं गृह्णीयात् ॥ ८.१४० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अशीतभागः प्रथमः कल्पः प्रयुक्तस्यार्थस्य वृद्धिः ॥ ८.१३९ ॥

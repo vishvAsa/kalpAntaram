@@ -52,11 +52,20 @@ This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 52), as supporti
 expounded,—so says the Brāhmaṇa-text.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तथा त्रिभ्य एववेदेभ्य ऋग्यजुःसामभ्यः तदित्यच इति प्रतीकेनानूदितायाः सावित्र्याः पादं पादमिति त्रीन्पादान्ब्रह्मा चकर्ष परमे स्थाने तिष्ठतीति परमेष्ठी ॥७७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“ब्रह्मणः प्रणवं कुर्यात्” इत्य् अस्यार्थवादम् आह **अकारम्** इति । त्रिभ्य इति अकारोकारमकारात्मकः किलोङ्कारः । एतच् चाक्षरत्रयं **वेदत्रयात्** सारभूतं **प्रजापतिर्** उद्धृतवान् । तथा **भूर् भुवः स्वर् इत्य्** एतच् च महाव्याहृतित्रयम् उद्धृतवान् इदं (इत्थं) चेयं व्याहृतिस्तुतिः । अध्ययनकाले तद्विधानार्था अत्राकस्मात् स्तुतिर् वर्तत इति प्रयोजनात् “तत् सवितुर् वरेण्यम्” इत्य् अस्याः सवितृदेवताकाया ऋचः पादं पादं यथाक्रमं त्रिभ्य एव वेदेभ्यः परमेष्ठी हिरण्यगर्भः प्रजापतिः उद्धृतवान् इत्य् अयम् अपि अध्ययनकाल(ः) विध्यर्थः सावित्र्यर्थवादः ॥ २.७६–७७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 077	Moreover from the three Vedas Pragapati, who dwells in the highest heaven (Parameshthin), milked out (as it were) that Rik-verse, sacred to Savitri (Savitri), which begins with the word tad, one foot from each.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -59,11 +59,20 @@ This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta
 See Comparative notes for [Verse 2.177].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तैलादिना शिरःसहितदेहमर्दनलक्षणं, कज्जलादिभिश्च चक्षुषोरञ्जनं, पादुकायाश्छन्नस्य च धारणं, कामं मैथुनातिरिक्तविषयाभिलाषातिशयम्, मथुनस्य स्त्रिय इत्यनेनैव निषिद्धत्वात् । क्रोधलोभनृत्यगीतवीणापणवादि वर्जयेत् ॥१७८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अभ्यङ्गम्** इति । **अभ्यङ्गम् अञ्जन**घृताद्यभ्यञ्जन्**ओपानच्छत्रधारणकामक्रोध**-परद्रव्यादि**गीतवादनानि** वर्जयेत् । **कामः **भोजनाद्यभिलाषातिशयः । मन्मथस्य स्त्रीग्रहणेन निषिद्धत्वात् ॥ २.१७८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 178	From anointing (his body), applying collyrium to his eyes, from the use of shoes and of an umbrella (or parasol), from (sensual) desire, anger, covetousness, dancing, singing, and playing (musical instruments),
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

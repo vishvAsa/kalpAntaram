@@ -36,6 +36,16 @@ This verse is quoted in *Mitākṣarā* (3.300) as prescribing a second kind of 
 or learned in the three Vedas, constitute the *Pariṣad*, Assembly; whatever this Assembly declares is the *Law*; or what is declared by a single person thoroughly cognisant of the Self.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋग्यजुःसामवेदशाखानां येऽध्येतारस्तदर्थज्ञाश्च त्रयः सा धर्मसंदेहनिरासार्थं त्र्यवरा परिषद्बोद्धव्या॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**ऋग्वेदविद्** इति । ऋग्यजुःसामवेदानां ये ऽर्थज्ञास् तु यस्माद् धर्मसन्देहव्युदासार्थं त्यवरा परिषद् बोद्धव्या ॥ १२.११२ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 चतुर्दशविद्यास्थानपारगा एवैते पूर्वोक्ताः शिष्टलक्षणप्राप्तास् त्रित्वेनोच्यन्ते । अथ वा तल्लक्षणयुक्तः ॥ १२.११२ ॥

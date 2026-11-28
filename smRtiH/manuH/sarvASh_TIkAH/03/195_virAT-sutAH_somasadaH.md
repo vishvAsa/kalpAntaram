@@ -51,6 +51,16 @@ The *Agniṣvāttas*, who are the Pitṛs of Agni and other Gods, relish the cak
 This verse is quoted in *Hemādri* (Śrāddha, p. 55).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+विराट्सुताः सोमसदो नाम साध्यानां पितरः ।अनिष्वात्ता मरीचेः पुत्रा लोकविख्याता देवानां पितरः ॥१९५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विराट्सुता** इति । **विराट्सुताः सोमसदो** नाम **साध्यानां पितरः देवानां च **मरीचिपुत्राः **अग्निष्वात्ताख्याः** लोके ख्याताः ॥ ३.१९५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.

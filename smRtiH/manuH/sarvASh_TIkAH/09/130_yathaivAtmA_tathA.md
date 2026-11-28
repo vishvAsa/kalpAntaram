@@ -41,6 +41,11 @@ This verse is quoted in *Vivādaratnākara* (p. 591);—in *Vivādacintāmaṇi*
 himself on a wedded wife of equal caste to be a legitimate son of the body. They quote the following: “From the several limbs of my body art thou produced, from my heart art thou born; thou art my very *self* called a son; mayst thou live a hundred years.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आत्मस्थानीयः पुत्रः, "आत्मा वै पुत्रनामासि" इति मन्त्रलिङ्गात्तत्समा च दुहिता, तस्या अप्यङ्गेभ्य उत्पादनात्। अतस्तस्यां पुत्रिकायां पितुरात्मस्त्वरूपायां विद्यमानायामपुत्रस्य मृतस्य पितुर्धनंपुत्रिकाव्यतिरिक्तः कथमन्यो हरेत्॥ १३०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पितरि प्रेते सपुत्रा अपुत्रा वा पुत्रिका धनं हरेत् तदीयम् ॥ ९.१३० ॥

@@ -39,6 +39,16 @@ about creation in a particular manner;—from out of the ‘Mind’ (*i.e*., the
 *Mahābhārata*, 12.232.4-7.—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मनो महत् सृष्टिं करोति परमात्मनः स्रष्टुमिच्छया प्रेर्यमाणम् तस्मादाकाशमुत्पद्यते तश्चपूर्वोत्तानुसारादहङ्कारतन्मात्र-क्रमेण। आकाशस्य शब्दं गुणं विदुर्मन्वादयः॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**मन** इति । तन् **मनः** प्रजापतिसम्बन्धि तदैव स्रष्टुम् इच्छया प्रेर्यमाणं **सृष्टिं कुरुते** ॥ १.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.

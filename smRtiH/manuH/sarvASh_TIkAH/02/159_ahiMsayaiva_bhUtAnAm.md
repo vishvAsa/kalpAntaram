@@ -46,11 +46,28 @@ hurting him; in case of this being impossible, the chastisement should be inflic
 some fault, the Teacher should admonish him; and until the pupil desists, the following punishments may be inflicted in accordance with the gravity of the offence: threatening, fasting, water-bath, refusing to see him.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+भूतानां शिष्याणां प्रकरणाच्छ्रेयोऽर्थमनुशासनमन तिहिंसया कर्तव्यम्, “रज्ज्वा बेणुदलेन वा ( अ० ८. श्लो० ९९ ) इत्यल्पहिंसाया अभ्यनुज्ञानात् । वाणी मधुरा प्रीतिजननीणा या नोच्चैरुच्यते सा शिष्यशिक्षायै धर्मबुद्धिमिच्छता प्रयोक्तव्या ॥१५९॥
+
+इदानीं पुरुषमात्रस्य फलं धर्म वाङ्मनः संयममाह नाध्यापयितुरेव—
+
+**यस्य वाङ्मनसी शुद्धे सम्यग्गुप्ते च सर्वदा ।**
+
+**स वै सर्वमवाप्नोति वेदान्तोपगतं फलम् ॥१६०॥**
+
+बस्य वाङ्मनोमय शुद्धं भवति । वामभृतादिभिरदुष्टा, मनश्च रागद्वेषादिभिरदूषित भवति । एते वाह मक्सी निषिद्धविषयप्रकरण सर्वदा यस्य पुंसः सुरक्षिते भवतः स नेतरन्तेऽवगतं सर्वं फलं सर्वज्ञत्वंसर्वेशानादिरूपं मोक्षलाभादवाप्नोति ॥१६०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+शियाचार्यप्रक्रमे अधुनाचर्यस्यापि किञ्चिन् नियमम् आह **अहिंसयैवेति** । “रज्ज्वा वेणुदलेन वा” इति शरीरपृष्टे ईषत्ताडनस्य वक्ष्यमाणत्वात् अतिताडनपरिहारेणैव **भूतानां** भार्यादीनाम् अपि भूतग्रहणान् न शिष्याणाम् एव प्रकृतानाम् आचार्येण वेदाध्ययनादि कर्तव्यम् । तदर्थं च **वाग्** एवानाक्रोशरूपानुच्चैर् वक्तव्या अनुशासनाद् धर्माद् **धमम् इच्छता** ॥ २.१५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

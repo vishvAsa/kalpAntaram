@@ -28,11 +28,19 @@ In the manner described above, he who punishes thieves, obtains ‘*fame*’—p
 This sums up the section.—(343)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अनेनोक्तविधानेन राजा चौरनियमनं कुर्वाण इह लोके ख्यातिं परलोके चोत्कृष्टसुखं प्राप्नुयात् ॥३४३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेनेति** । अनेनोक्तविधानेन चौरनियमनं कुर्वन् नृप इहलोके यशोलाभं परत्र चोत्तमं सुखं प्राप्नुयात् ॥ ८.३४३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारार्थः श्लोकः ॥ ८.३४२ ॥
-
-_साहसम् अधुनोच्यते ।_
 </details>
 
 <details><summary>Bühler</summary>

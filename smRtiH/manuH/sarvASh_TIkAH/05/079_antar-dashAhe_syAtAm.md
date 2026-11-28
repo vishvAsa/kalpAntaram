@@ -89,11 +89,26 @@ purification comes on the lapse of the succeeding one; but if the second impurit
 or death should occur, the Brāhmaṇa shall remain impure till the expiry of those ten days.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+दशाहादिमध्ये यदि पुनर्मरणे मरणं जनने जननं स्यात्पुनःशब्दात्सजातीयावगमात्तदा तावत्कालमेव विप्रादिरशुद्धःस्यात्, यावत्पूर्वजातदशाहाद्यशौचं नापगतं स्यात्तावत्पूर्वा शौचव्यपगमेनैव द्वितीयेऽपि मृतके सूतके च शुद्धिरित्यर्थः ॥७९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अन्तर्दशाह** इति । **तावत् स्याद् अशुचिर् विप्रो यावत् तत् स्याद् अनिर्दशम्** । दशाहादिमध्ये यदि जन्मपुनर्मरणे मरणं जनने जननं स्यात् । पुनःशब्दात्,
+
+> सूतके सूतकं भूयो यद्य् अपि स्यात् कथञ्चन ।
+
+> तच्छेषेणैव शुद्धिः स्यान् मृतके मृतकं तथा ॥
+
+इत्य् अङ्गिरसः स्मरणात् । च तदा तावत्कालम् एव ब्राह्मणादेर् आशौचं स्याद् यावत् पूर्वोत्पन्नम् आशौचं नापगतं तत् पश्चाद् अतीतम् । दशाहादि यावत् तत्रापि च “रात्रिशेषे द्वाभ्यां प्रभाते तिसृभिः” इति गौतमीयो विशेषो द्रष्टव्यः ॥ ५.७९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 079	If within the ten days (of impurity) another birth or death happens, a Brahmana shall remain impure only until the (first) period of ten days has expired.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

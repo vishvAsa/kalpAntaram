@@ -66,11 +66,15 @@ prescribed in the Veda have been grouped under three heads—(1)
 over his mind, his speech, his nose, his ears, his eyes, his tactile organ, his generative organ, and his stomach, attains immortality.’
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+यस्मात् **यस्येति** । **यस्य वाङ्मनसी शुद्धे **विकाररहितौ सत्य् अपि न कालुष्यं गच्छतः । **सम्यग् गुप्ते** चोत्पन्ने न कथञ्चित् कालुष्येण तत् कार्यं कुरुतः **सर्वदा **यावज्जीवम् उपनिषदुक्तं मोक्षाख्यं **फलम्** अखिलं प्राप्नोति ॥ २.१६० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 160	He, forsooth, whose speech and thoughts are pure and ever perfectly guarded, gains the whole reward which is conferred by the Vedanta.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

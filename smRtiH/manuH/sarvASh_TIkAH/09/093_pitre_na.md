@@ -52,6 +52,11 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 772);—in
 living at her father’s house, before she has been betrothed to a man, has to be considered as a degraded woman; by taking her without the consent of her kinsmen, a man commits no wrong.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ऋतुयुक्तां कन्यां वरः परिणयन्पित्रे शुल्कं न दद्यात् । यन्मात्स पिता \। ऋतुकार्यापत्योत्पत्तिनिरोधात्कन्यायाः स्वामित्वाद्धीयते ॥ १३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 स्मृत्यन्तरेष्व् अयं श्लोको न त्व् अत्र समाम्नायते ॥ ९.९३ ॥

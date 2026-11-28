@@ -57,11 +57,20 @@ he is ill, omits the Twilight Prayers, he incurs sin and is despised in the worl
 observe not the Twilight Prayers,—are wicked and injure the sun.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यः पुनः पूर्वसंध्यां नानुतिष्ठति, पश्चिमां च नोपास्ते, तत्तत्कालविहितं जपादि न करोतीत्यर्थः स शूद्र इव सर्वस्माद् द्विजातिकर्मणोऽतिथिसत्कारादेरपि बाह्यः कार्यः । अनेनैव प्रत्यवायेन संध्योपासनस्य नित्यतोक्ता।नित्यत्वेऽपि सर्वदाऽपेक्षितपापक्षयस्य फलत्वमविरुद्धम् ॥१०३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं कथञ्चिद् अकृतैनसो ऽननुष्ठानप्राप्तौ नित्यताम् आह **नेति** । **यः** पुनः **पूर्वां** सन्ध्यां नानुतिष्ठति यो वा **पश्चिमां नोपास्ते** **सो **ऽध्ययनदानादि**द्विजकर्मणः **सर्वस्माच् **छूद्रवत् **परिहरणीयः । इत्य् एवं निन्देयम् अवश्यानुष्ठानार्था ॥ २.१०३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

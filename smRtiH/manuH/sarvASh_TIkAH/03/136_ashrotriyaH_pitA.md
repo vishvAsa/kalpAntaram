@@ -17,11 +17,20 @@ If a father happen to be ignorant of the Veda, whose son is thoroughly versed in
 This verse is intended to propound a doubt (as to which of the two is superior).—(136)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+योऽश्रोत्रियपितृकः स्वयं च श्रोत्रियः, यः श्रोत्रियपितृकः स्वयं वा अश्रोत्रियः ॥१३६॥ तयोः कः श्रेष्ट इत्युपन्यस्य विशेषमाह—
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अश्रोतिय** इति । यः अश्रोत्रियपुत्रः आत्मना श्रोत्रियो, यः श्रोत्रियपुत्रः आत्मना चाश्रोत्रियः ॥ ३.१३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 136	If there is a father ignorant of the sacred texts whose son has learned one whole recension of the Veda and the Angas, and a son ignorant of the sacred texts whose father knows an entire recension of the Veda and the Angas,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

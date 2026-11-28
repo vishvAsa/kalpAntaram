@@ -40,11 +40,20 @@ Prahuta, and Prāśita.’
 fire; those not offered into the fire are the*Prahuta*; and the feeding of Brāhmaṇas constitutes the *Brahmaṇi-huta*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नामभेदेऽपि वाक्यभेद इति दर्शयितुं पञ्चमहायज्ञानां मुन्यन्तरकृतान्यहुतादीनि संज्ञान्त- राज्यभिधेयानि ॥७३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं चाकरणनिन्दया एषां नित्यताम् आह **अहुतं च हुतं चेति** । उत्तरश्लोके एषां व्याख्यार्थो भविष्यति । एतान् एव पञ्चमहायज्ञान् एभिर् नामान्तरैः मुनय आचक्षते । नाममात्रभेदो न वस्तुभेद इत्य् एतत् प्रतिपादयितुं सञ्ज्ञान्तरप्रदर्शनम् एतत् ॥ ३.७३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 073	They call (these) five sacrifices also, Ahuta, Huta, Prahuta, Brahmya-huta, and Prasita.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -45,6 +45,16 @@ his life... Rice must be used for those sacrifices for which cakes mixed with me
 Śruti, as also all acts, he shall perform with oils extracted from fruits.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+वसन्तोद्भवैः शरदुद्भवैमध्यैर्यागाङ्गभूतैर्मुन्यन्नैर्नीवारादिभिः स्वयमानीतैः पुरोडाशांश्चरुन् यथाशाखं तत्तद्योगादिसिद्धये सम्पादयेत्॥११॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**वासन्तशारदैर्** इति । वसन्तोद्भवैः यागार्हैः **स्वयम् आनीतैर्** **मुन्यन्नैः पुरोडाशांश् चरूंश् च** यथाशास्त्रं प्रतियोगं प्रतिपादयेत् ॥ ६.११ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 वैखानसोक्ता एवैते चरुपुरोडाशाः स्मार्ता वेदितव्याः ॥ ६.११॥

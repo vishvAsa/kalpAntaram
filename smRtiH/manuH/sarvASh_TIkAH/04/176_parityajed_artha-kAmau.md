@@ -70,11 +70,20 @@ accosting and saluting.’
 trying to attain the other three purposes, and he shall follow the path of liberation without disregarding the other three. This is the golden mean.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यावयकामौ धर्मविरोधिनौ भवेतां तौ परिहरेत् । यथा चौर्यादिनाऽर्थोपपादनं, दीक्षादिने यजमानस्य पत्न्युपगमः । उदर्क उत्तरकालस्तत्रासुखं यत्र धर्मे तं धर्ममपि परित्यजेत् । यथा पुत्रादिवर्गपोष्ययुक्तस्य सर्वस्वदानम् ।लोकविक्रुष्टं यत्र लोकानां विक्रोशः, यथा कलौ मध्यमाष्टकादिषु गोवधादिः ॥१७६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**परित्यजेद्** इति । सत्य् अपि च त्रिवर्गस्य पुरुषार्थत्वाभिधाने **पर्तित्यजेद्** इति । **धर्मम् अप्य् असुखोदर्कं लोकसङ्क्रुष्टम् एव च **। धर्मविरुद्धाव् अर्थकामौ असुखोत्तरकालं चाशक्तस्य तीव्रतपश्चरणादिरूपं धर्मं लोकाभिशापजनकं च मधुपर्कगोवधादिरूपं नाचरेत् ॥ ४.१७६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

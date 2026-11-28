@@ -42,11 +42,20 @@ This verse is quoted in *Aparārka* (p. 194).
 See Comparative notes for [Verse 4.135].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एतत्रयमवमानितं सदवमन्तारं विनाशयति । क्षत्रियसर्पौ दृष्टशक्त्या ब्राह्मणश्चाभिचारादिनाऽदृष्टेन ।तस्मात्कल्याणबुद्धिरेतन्यं सर्वदा नावजानीयात् ॥१३६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एतत् त्रयम्** इति । यस्माद् **एतत् त्रयम् **अवज्ञातं **पुरुषं **विनाशयति । क्षत्रियसर्पौ दृष्टशक्त्या ब्राह्मणस् त्व् अभिचारादिना । तस्मात् प्रशस्तबुद्धिः **एतत् त्रयं **सर्वदा न तिरस्कुर्यात् ॥ ४.१३६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

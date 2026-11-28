@@ -28,6 +28,16 @@ The conditions of the Conscious Entity, Soul, are due to Virtue and Vice.
 ‘*In his own mind*’—through the help of the scriptures. This verse sums up the contents of the entire ordinances.—
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अस्य जीवस्य एता धर्माधर्महेतुकाः स्वर्गनरकाद्युपभोगोचितप्रियाप्रियदेहप्राप्तीरन्तःकरणे ज्ञात्वा धर्मानुष्ठाने मनः सदासंगतं कुर्यात्॥२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एता** इति । अस्य क्षेत्रज्ञस्यैता धर्महेतुकाः स्वर्गादाव् इष्टानिष्टशरीरप्राप्तीः स्वबुद्ध्या ज्ञात्वा धर्मानुष्ठाने जानीयाद् यैर् युक्तो महात्मा इमान् सर्वान् स्थावरजङ्गमरूपान् पदार्थान् निःशेषेण व्याप्य स्थितः सर्वगत्वात् ॥ १२.२३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 > **एतां दृष्ट्वास्य जीवस्य गतिं स्वेनैव चेतसा ।**

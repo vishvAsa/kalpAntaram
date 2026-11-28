@@ -43,6 +43,11 @@ This verse is quoted in *Madanapārijāta* (p. 227), which explains ‘*lohānā
 See Comparative notes for [Verse 9.326].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मणिमुक्ताविद्रुमलोहवस्त्राणां, गन्धानां कर्पूरादीनां, रसाना लवणादीनामुत्तममध्यनानांदेशकालापेक्षया मुल्योत्कर्षापकर्ष वैश्यो जानीयात्॥ ३२९॥
+</details>
+
 <details><summary>Bühler</summary>
 
 329	(A Vaisya) must know the respective value of gems, of pearls, of coral, of metals, of (cloth) made of thread, of perfumes, and of condiments.

@@ -36,6 +36,16 @@ This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 406);—and in
 See Comparative notes for [Verse 7.91].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सुप्तं, मुक्तसन्नाहं, विवस्त्रं, अनायुधं, अयुध्यमानं, प्रेक्षकंअन्येन सह युध्यमानं च न हन्योत्॥१२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न सुप्तम्** इति । **सुप्तं **विगतसन्नाहम् अपरिधानान् आयुधप्रधनप्रेक्षकान् अन्यैश् च युध्यमानान् न हन्यात् ॥ ७.९२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 092	Nor one who sleeps, nor one who has lost his coat of mail, nor one who is naked, nor one who is disarmed, nor one who looks on without taking part in the fight, nor one who is fighting with another (foe);

@@ -39,6 +39,11 @@ What is referred to here is what has been mentioned above (under the Heads of Di
 The first half of the verse sums up the foregoing section and the latter introduces the next.—(218)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एषा व्यवस्था वेतनादानाख्यकर्मणो निःशेषेणोक्ता । अतोऽनन्तरं संविद्वयतिक्रमकारिर्णा दण्डादिव्यवस्थां वदिष्यामि ॥२१८॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः श्लोकः ॥ ८.२१७ ॥

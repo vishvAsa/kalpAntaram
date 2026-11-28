@@ -261,6 +261,11 @@ property should be taken either by her husband, or by her mother or by her broth
 her husband, if they were married in the first four forms of marriage; it shall go to her parents, if she had been married in the last four forms of marriage.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अपुत्रायां पुत्रिकायां कथञ्चन मृतायां तदीयधनं तद्भर्तैवाविचारयन्गृह्णीयात्। पुत्रिकायाः पुत्रसमत्वेनानपत्यस्य, पत्नीरहितस्य, मृतपुत्रस्य पितुर्धनग्रहणप्रसकौ तन्निवारणार्थमिदं वचनम्॥ १३५॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 पुत्रिकायाः पितर्य् अपुत्रे उपरते, तद्धने च सर्वस्मिन् पुत्रिकया गृहीते, यद्य् अपुत्र्[आ पुत्रिका म्रियेत तदा तद्धनं] भर्तुः स्यात् । नासौ श्वशुरसपिण्डैर् ज्ञातिभिर् वानुयोज्यः ॥ ९.१३५ ॥

@@ -68,11 +68,21 @@ when saluting a person who is not learned enough to know the proper form of retu
 bowing the head; all ladies are to be saluted with one’s name; not so one’s mother or the wives of Elders—say some.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नामधेयस्य उच्चारितस्य सतो ये केचिदभिवाद्याः
+संस्कृतानभिज्ञतयाऽभिवादमभिवादार्थं न जानन्ति तान्प्रत्यभिवादनेऽप्यसमर्थत्वात्प्राज्ञ इत्यभिवाद्यशक्तिविज्ञोऽभिवादयिताभिवादये-ऽहमित्येवं ब्रूयात् । स्त्रियः सर्वास्तथैव ब्रूयात् ॥१२३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+एवं सर्वत्र स्वनामोच्चारणप्राप्ताव् आह **नामधेयस्येति** । नाम्नः उच्चारितस्य सतो यद् अभिवादनं अभिवाद्या न बुध्यन्ते असंस्कृतत्वाद् अनभिज्ञा ये **तान् प्राज्ञः **“अभिवादये ऽहम्” इत्य् एवं ब्रूयात् । **स्त्रियश्** चाभिज्ञा अप्य् एवम् एव ब्रूयात् ॥ २.१२३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 123	To those (persons) who, when a name is pronounced, do not understand (the meaning of) the salutation, a wise man should say, 'It is I;' and (he should address) in the same manner all women.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

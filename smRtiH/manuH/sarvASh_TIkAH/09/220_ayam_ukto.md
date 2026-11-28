@@ -16,6 +16,11 @@ Thus has been expounded to you Partition, and the appointing of the ‘soil-born
 (No Bhāṣya)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एष दायभागः पुत्राणां क्षेत्रजादीनां क्रमेण विभागकरणप्रकारो युष्माकमुक्तः। इदानीं द्यूतव्यवस्थां शृणुत॥ २२०॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 उपसंहारोपन्यासार्थः स्लोकः ॥ ९.२२० ॥

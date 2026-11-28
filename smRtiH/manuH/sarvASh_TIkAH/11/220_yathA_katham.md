@@ -46,6 +46,21 @@ month, is the penance called *Sāmānya* - *Cāndrāyaṇa*.
 morsels during one month, this would be another kind of *Cāndrāyaṇa*. One who performs the *Cāndrāyaṇa* for the sake of spiritual merit (and not as an expiatory penance), obtains the regions of the Moon.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नीवारादिहविष्यसंबन्धिनां ग्रासानां द्वे शते चत्वारिंशदधिके कदाचिद्दश कदाचित्पञ्च कदाचित्षोडश कदाचिदुपवास इत्येवमाद्यनियमेन यथाकथंचित्पिण्डान्मासेन संयतवान्भुञ्जानश्चन्द्रसलोकतां याति। एवं पापक्षयार्थमभ्युदयार्थं चेदमुक्तम्। अत एव याज्ञवल्क्यः—
+
+**धर्मार्थं यश्चरेदेतच्चन्द्रस्यैति सलोकताम्।  
+कृच्छकृच्छर्मकामस्तु महतीं श्रियमाप्नुयात्॥(या. स्मृ. ३-३२६-२७)**
+
+अतः प्राजापत्यादिकृच्छ्रमव्यभ्युदयफलमिति याज्ञवल्क्येनोकम्॥२२२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यथा कथञ्चिद्** इति । निवारादि हविष्यान्नसम्बन्धिनां हविष्याणां ग्रासानां च द्वे शते चत्वारिंशदधिके कदाचिद् एकं कदाचिद् पञ्च कदाचित् षोडश कदाचिद् उपवास इत्य् एवमादि अनियमने यथा कथञ्चित् मासेन संयमवान् अश्नंश् चन्द्रलोकं प्राप्नोति । अतश् चाभ्युदयार्थम् अप्य् एतत् कार्यम् ॥ ११.२१९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 221	He who, concentrating his mind, eats during a month in any way thrice eighty mouthfuls of sacrificial food, dwells (after death) in the world of the moon.

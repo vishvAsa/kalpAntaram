@@ -36,6 +36,11 @@ It is quoted in *Madanapārijāta* (p. 675), to the effect that the property of 
 See Comparative notes for [Verse 9.186].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणसम्बन्धि धनंन राज्ञा कदाचिद् ग्राह्यमिति शास्त्रमर्यादा । किन्तूक्तलक्षणब्राह्मणाभावे ब्राह्मणमात्रेभ्योऽपि देयम् । क्षत्रियादिधनं पुनः पूर्वोतरिक्थहराभावे राजा गृह्णीयात् ॥१८९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 ऋज्वर्थः श्लोकः ॥ ९.१८९ ॥

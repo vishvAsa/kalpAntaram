@@ -58,6 +58,16 @@ of a superior,—an iron pin, ten inches long, shall be thrust into his mouth.�
 superior caste in terms indicating contempt, an iron-rod, ten inches long, shall be thrust red-hot into his mouth.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अभिद्रोह आक्रोशः । ब्राह्मणादीनां **‘रे त्वं यज्ञदत्त ब्राह्मणापसद’** इत्याक्रोशेन नामजात्यादिग्रहणं कुर्वतो लोहकीलोऽग्निना प्रदीप्तो दशाङ्गुलो मुखेषु क्षेप्तव्यः ॥२७१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नामजातिग्रहम्** इति । एषां द्विजातीनाम् आक्रोशबुद्ध्या नामोच्चार्य जात्युच्छारणं च शूद्रस्य कृतवतः आयसकीलो ऽग्निना दीप्यमानो दशाङ्गुलप्रमाण आस्ये प्रक्षेप्तव्यः ॥ ८.२७१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अवचनीयैर् अभिद्रोहेणाक्रोशतः शूद्रस्यानेन प्रकारेण वध उपदिश्यते ॥ ८.२७० ॥

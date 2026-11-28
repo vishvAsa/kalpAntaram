@@ -69,6 +69,16 @@ character, men who are holy and love truth, are fit to be witnesses;—or men of
 straightforward and unexceptionable as to their descent, their actions and their fortunes. They shall not be less than three in number, unimpeachable, honest and pure-minded. They shall be Brāhmaṇas, Kṣatriyas or Vaiśyas or irreproachable Śūdras. Each of these shall be witness for his own order; or all of them may be witnesses for all.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+धनिभिरुत्तमर्गादभिः ऋणादानादिव्यवहारेषु यथाविधाः साक्षिणः कर्तव्यास्तथाविधान्वदिष्यामि । यथा च तैरपि सत्यं वक्तव्यं तमपि प्रकारं वक्ष्यामि ॥६१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**या** इति । यथाविधाः साक्षिण ऋणादानादिव्यवहारेषु उत्तमर्णादिभिः कर्तव्याः तथाविधान् कथयिष्यामि यथा च तैः सत्यं कर्तव्यं तम् अपि प्रकारम् अभिधास्यामि ॥ ८.६१ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 धनव्यवहारे च साक्षिणां लक्षणम् उच्यमानम्, अन्येष्व् अपि व्यवहारेषु कार्यसामान्याद् अविरोधाच् चेत्थंभूता एव प्रतीयेरन् ॥ ८.६१ ॥

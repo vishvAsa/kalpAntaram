@@ -63,6 +63,16 @@ substances used for flavouring for others, and animals. Salt and prepared food m
 for other substances of the same kind, be it for one more valuable or for one worth less. But salt must never be exchanged for other substances used for flavouring. It is permitted to barter sesamum, rice, cooked food, learning, and slaves.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+रसागुडादयो रसंर्घृतादिभिः परिवर्तनीयाः। लवणंपुना रलान्तरेण न परिवर्तनीयं, सिद्वान्नं चामान्नेन परिवर्तनीयं, तिला धान्येन वान्यप्रस्थेनेत्येवं तत्समाः परिवर्तनीयाः॥६४
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**रसा **इति । रसा गुडादयो रसैर् घृतादिभिः परिवर्तनीयाः । लवणं पुना रसान्तरेण न परिवर्तनीयम् । सिद्धान्नम् असिद्धान्नेन परिवर्तनीयम् । तिला धान्येन प्रस्थः प्रस्थेनेत्य् एवं विनिमातव्याः ॥ १०.९४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 **लवणस्य तिलैर्** विनिमयप्रतिषेधाद् **रसैर्** अन्यैस् तिलानि मातव्याः । **तिला धान्येन** व्रीह्यदिना; **तत्समम्** एव प्रस्थः प्रस्थे[न] निमातव्यः । न त्व् अल्पार्घितया ॥ १०.९४ ॥

@@ -67,11 +67,24 @@ This verse is quoted in *Aparārka* (p. 88), which explains it to mean that ‘s
 See Comparative notes for [Verse 3.13].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि कथंचित्सवर्णानुक्रमेणाक्रमेण वा शूद्राऽपि परिणीयते तदा भार्यात्वेन प्रसतानि त त्कर्तृकानि दैवेत्यनेन निषिध्यन्ते । दैवं होमादि, पित्र्यं श्रद्धादि, आतिथेयमतिथिभोजनादि, एतानि यस्य शूद्रासंपाद्यानि तद्धव्यं कव्यं पितृदेवा नाश्नन्ति । न च तेनातिथ्येन स गृही स्वर्गं याति ।
+
+यस्तु तत्कारयेन्मोहात्सजात्या स्थितयान्यया ॥ ( म. स्मृ. ९ / ८७ )
+
+इति सवर्णायां सन्निहितायां निषेधं वक्ष्यति । अयं त्वसन्निहितायामपीत्यपुनरुक्तिः ॥१८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**दैवपित्र्यतिथेयानि** इति । “यस् तु तत्कारयेन् मोहात् सजात्या स्थितयान्यया” (म्ध् ९.८७) इति निषेधं वक्ष्यति । अतो ऽसन्निहितायाम् अपि सजात्यायां यागश्राद्धातिथिदानानि यस्य शूद्रया दत्तानि तद् धव्यकव्यं **पितृदेवा **नोपजीवन्ति । **न च **तेनातिथेयेन **स** गृहस्थः **स्वरं गच्छति **॥ ३.१८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 018	The manes and the gods will not eat the (offerings) of that man who performs the rites in honour of the gods, of the manes, and of guests chiefly with a (Sudra wife's) assistance, and such (a man) will not go to heaven.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

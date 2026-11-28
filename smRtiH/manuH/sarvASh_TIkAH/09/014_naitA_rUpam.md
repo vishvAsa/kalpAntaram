@@ -40,6 +40,16 @@ the poor leech draws blood only, the woman draws your riches, your property, you
 or hated; they betake themselves to all men; just as creepers growing in a thick forest hang themselves on all trees.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+नैताः कमनीयरूपं विवारयन्ति । न चासांयौवनादिके वयस्यादरो भवति । किन्तु सुरूपं कुरूपं वा पुमानित्येतावतैव तमुपभुञ्जते ॥ १४ ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नैता **इति । नैता सुरूपकुरूपविचारं कुर्वन्ति । न ह्य् आसां यौवनवान् पुरुषश् च प्रियो भवति । अपि तु सुरूपं वा विरूपं वा पुमान् इत्य् एवावतैव ताः नरम् उपभुञ्जन्ते । अपि च पुम्मात्रदर्शणेन धर्यचलनायासां ताः पुंश्चल्यः ॥ ९.१४ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतास्व् अवस्थासु वर्तमाना विसंज्ञाः सत्यः । यतः पानादीन् वर्जयेयुः ॥ ९.१४ ॥

@@ -57,11 +57,22 @@ Medhātithi takes the verse simply as describing how the Creator created all bei
 Hopkins remarks that ‘*ātmamātrā*’ stands for ‘the *spiritual* atom as opposed to the *elementary*,—not reflexive *elements of himself*.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तेषां षण्णां पूर्वोक्ताहंकारस्य तन्मात्राणां च ये सूक्ष्मा अवयवास्तान् आत्ममात्रासु षण्णां स्वविकारेषु योजयित्वा मनुष्यतिर्यक्स्थावरादीनि सर्वभूतानि परमात्मानिर्मितवान्। तत्र तन्मात्राणां विकारः पञ्चमहाभूतानि अहंकारस्येन्द्रियाणि पृथिव्यादि(३)[^44]रूपतया परिणतेषु तन्मात्राहंकारयाजनां कृत्वा सकलस्य कार्योजातस्य निर्माणम्। अत एवामितौजसामनन्तकार्यनिर्माणेनातिवीर्यशालिनाम्॥१६॥
+
+[^44]: " पृथिव्यादिभूतेषु शरीररूपतया' ख० ।"
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तेषाम् **इति । **तेषां षण्णां **पूर्वप्रयुक्तानां महतः शब्दादितन्मात्राणां च **अमितौजसां** अनन्तकार्यनिर्वर्तनेन अतिवीर्यतां ये **सूक्ष्मा** **अवयवाः** तान् **आत्ममात्रासु **अधिकारभागेषु योजयित्वा सर्वाणि भूतानि मनुष्यादीनि निर्मितवान् ॥ १.१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

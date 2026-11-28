@@ -50,6 +50,11 @@ father rejoices at it; because through him he becomes freed from his debts to th
 desire sons, hoping that one of them may repair to Gayā and bring about their salvation.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मात्पुंनामधेयनरकात्सुतः पितरं त्रायते तस्मात्त्राणादात्मनैव ब्रह्मणा पुत्र इति प्रोक्तः। तस्मान्महोपकारकत्वात्पुत्रस्य युक्तं तदीयपुंसन्तानस्य दायभागित्वमिति पूर्वदार्ढ्यार्थमिदम्॥ १३८।
+</details>
+
 <details><summary>भारुचिः</summary>
 
 गम्यमानस्य नामधेयगतस्यार्थरूपस्यात्र प्रमाणभावो नामधेयनिर्वचनेन प्रदर्शितः । यतश् चैतद् एवम् अतः कार्यसामान्यात् ॥ ९.१३८ ॥

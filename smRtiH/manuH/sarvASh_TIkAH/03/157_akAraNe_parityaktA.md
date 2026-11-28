@@ -79,11 +79,20 @@ with the latter person himself, as such a relation of the ‘heinous criminal’
 See Comparative notes for [Verse 3.150].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातुः पितुर्गुरूणां च परित्यागकारणं विना त्यक्ता शुश्रूषारकर्ता, पतितैश्वाध्ययनकन्या दामादिमिः सम्बन्धैः सम्पर्कं गतः । पतितत्वादेवास्य निषेध इति चेत् ? न, संवत्सरात्प्रागिदं भविष्यति, संवत्सरेण पततीति वक्ष्यमाणत्वात् ॥१५७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अकारणपरित्यक्तेति** । मातृपितृविद्यागुऋऊणां निष्कारणं **परित्यक्ता पतितैश्** चाध्ययनकन्यादानादिसम्बन्धः सम्पर्कं गतः अर्वाग् अपि संवत्सरात् । संवत्सरेण तु पतितत्वाद् एव गतर्थता “संवत्सरेण पतति” इति ॥ ३.१५७ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

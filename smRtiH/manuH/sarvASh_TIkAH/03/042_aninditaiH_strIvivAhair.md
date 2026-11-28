@@ -36,11 +36,21 @@ This verse also is quoted in *Vīramitrodaya* (Saṃskāra, p. 865);—in
 See Comparative notes for [Verse 3.39].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सङ्क्षेपेण विवाहानां फलकथनमिदम् \।
+अगर्हितैर्भार्याप्राप्तिहेतुभिर्विवाहैरगर्हिता मनुष्याणां सन्ततिर्भवति, गर्हितैस्तु गर्हिता । तस्माद् गर्हितविवाहान्न कुर्यात् ॥४२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनिन्दितैर्** इति । अगर्हितैः भार्याप्राप्तिहेतुभिः विवाहैः अगर्हितानि मनुष्याणाम् अपत्यानि भवन्ति । गर्हितैश् च गर्हितानि भवन्ति । **तस्मात् **गर्ह्यान्** विवर्जयेत्** न कुर्यात् ॥ ३.४२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

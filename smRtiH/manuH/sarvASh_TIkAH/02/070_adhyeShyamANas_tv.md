@@ -59,11 +59,20 @@ or a half or a quarter of it, without the teacher’s permission, is a
 *stealer of Veda*, and falls into hell.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+अध्ययनं करिष्यमाणः शिष्यो यथाशास्त्रं कृताचमन उत्तराभिमुखः कृताञ्जलिः पवित्रवस्त्रः कृतेन्द्रियसंयमो गुरुणा अध्याप्यः । “प्राङ्मुखो दक्षिणतः शिष्य उदङ्मुखो वा” इति गौतमवचनात्प्रा-ङ्मुखस्याप्यध्ययनम् । ब्रह्माञ्जलिंकृत इति “वाऽऽहिताग्न्यादिषु” ( पा० सु० २ / २ / ३७ )इत्यनेन कृतशब्दस्य परनिपातः ॥७०॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अध्येष्यमाण **इति । प्रत्यासन्नाध्ययनः शिष्यः कृतशास्त्रचोदितेतिकर्तव्यतायुक्ताचमनः **कृत**वक्ष्यमाण**ब्रह्माञ्जलिः** स्थूलवसनः सन् **जितेन्द्रियः उदङ्मुखो ऽध्याप्यः **॥२.७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

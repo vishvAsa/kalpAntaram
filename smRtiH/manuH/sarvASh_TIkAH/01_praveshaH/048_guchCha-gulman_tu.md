@@ -27,11 +27,15 @@ Then there are the various plants with many stalks, growing from one or several 
 Burnell represents Medhātithi to explain ‘*guccha-gulma*’ as ‘one root and many roots’. This is not fair. What Medhātithi says is that the names ‘*guccha-gulma*’ are applied to clusters of short-growing creepers which may have one root or several roots.’ Kullūka defines ‘*guccha*’ as the single shoot springing from the root and having no boughs, and ‘*gulma*’ as a clump of shoots coming up from one root According to Medhātithi the difference between the two consists in the fact that while the former has flowers, the latter has none.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**गुच्छगुल्मम्** इति । मूलत एव येषां लतावृन्दं भवति । न तु प्रकाण्डानि ते **गुच्छाः **मल्लिकाद्याः । **गुल्मास्** तु अस्पष्टह्रस्वप्रायलतात्मकाः अप्रकाण्डाः पुष्पकाद्याः । **तृणजातयो** दूर्वाद्याः **प्रताना **तन्तुरूपाः त्रपुषालाबुप्रभृतयः **वल्ल्यः** व्रतत्यो गूडुच्यादयः ॥ १.४८ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

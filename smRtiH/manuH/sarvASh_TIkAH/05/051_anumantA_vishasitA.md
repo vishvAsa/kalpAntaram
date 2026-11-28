@@ -144,11 +144,26 @@ This has been fully discussed under 8.104.—(51).
 This verse is quoted in *Aparārka* (p. 251)—in *Mitākṣarā* (on 1.181), as describing the eight kinds of ‘killer’;—and in *Smṛtisāroddhāra* (p. 301), which has the following notes:—‘*ghātakāḥ*’, partakers in the sin,—‘*anumantā*’, who acquiesces in the act,—‘*viśasitā*’, who cuts the limbs,—‘*nihantā*’, who actually does the act that deprives the animal of the life,—‘*saṃskartā*,’ who cooks the meat,—‘*upahartā*’, who serves the meat.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदनुमतिव्यतिरेकेण हननं कर्तुं न शक्यते सोऽनुमन्ता, विशसिता अङ्गानि यः कर्तर्यादिना पृथक्पृथक् करोति, क्रयविक्रयीमांसस्य क्रेता विक्रेता च, संस्कर्ता पाचकः, उपहर्ता परिवेषकः, खादको भक्षयिता ।गोविन्दराजस्तु यः क्रीत्वा विक्रीणाति स क्रयविक्रयीत्येकमेवाह । तद्युक्तम्,
+
+**हननेन तथा हन्ता धनेन क्रयिकस्तथा ।**
+
+**विक्रयी तु धनादानात्संस्कर्ता तत्प्रवर्तनात् ॥**
+
+इति यमवचनेन पृथङ् निर्देशात् । घातकत्ववचनं चेहमशास्त्रीयपशुवधेऽनुमत्यादयोऽपि न कर्तव्या इत्येवंपरम्, विधिनिषेधपरत्वाच्छास्त्रस्य खादकादीनां पृथक्प्रायश्चित्तदर्शनात् ॥५१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनुमन्तेति** । अन्येन हन्यमानम् अवलोक्य साध्व् अयं हन्ता करोतीति यो ऽनुमोदते सो ऽ**नुमन्ता । विशसिता **अङ्गविभागकरो न हन्ता (**निहन्ता)** वधकः, **क्रयविक्रयी **क्रीत्वा विक्रीणीते, **संस्कर्ता **रन्धकः **उपहर्ता **परिवेष्टा **खादको** भक्षयिता, एते **घातका **इति । अत्र च निहन्तारं वर्जयित्वा अन्येषाम् अघातकानां घातकवचनम् अशास्त्रितप्राणिवधे ऽनुमोदनादीन्य् अपि न कार्याणीत्य् एवमर्थं न तु घातकत्वप्रतिपादनार्थं कर्तव्याकर्तव्यप्रतिपादनपरत्वाद् अस्य शास्त्रस्य घातकखादकादीनां पृथक् प्रायश्चित्तदर्शनात् ॥ ५.५१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 051	He who permits (the slaughter of an animal), he who cuts it up, he who kills it, he who buys or sells (meat), he who cooks it, he who serves it up, and he who eats it, (must all be considered as) the slayers (of the animal).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -25,6 +25,11 @@ Control over Speech, control over the Mind and control over the Body,—the man 
 This verse is quoted in *Nirṇayasindhu* (p. 454);—in *Aparārka* (p. 951);—in *Parāśaramādhava* (Ācāra, p. 553);—in *Madanapārijāta* (p. 374);—and in *Nṛsiṃhaprasāda* (Saṃskāra 70a).
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**वाग्दण्ड** इति । यस्य वाङ्मनःकायिकानाम् अशुभानां सङ्कल्पव्यापारपरिहारेण बुद्धाव् अवस्थितं स त्रिदण्डी उच्यते, न तु दण्डत्रयसाधारणमात्रेणैव ॥ १२.१० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 त्र्यधिष्ठाना एव दण्डास् त्रयः ॥ १२.१० ॥

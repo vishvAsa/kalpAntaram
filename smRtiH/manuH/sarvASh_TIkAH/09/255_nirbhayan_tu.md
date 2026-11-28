@@ -38,6 +38,11 @@ This verse is quoted in *Vivādaratnākara* (p. 294).
 See Comparative notes for [Verse 9.253].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्य राज्ञो बाहुवीर्याश्रयेण राष्ट्रं चौरादिभयरहितं भवति तस्य नित्यं तद् वृद्धिं गच्छति। उदकसेकेनेव वृक्षः॥ २६॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 दृष्टार्थसंबन्धेनेयम् अदृष्टफलस्तुतिः ॥ ९.२५४–५५ ॥

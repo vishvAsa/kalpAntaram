@@ -115,11 +115,20 @@ fifth year.’
 *Vyāsa* (Do.).—\[Lays down the auspicious days, etc.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+चूडाकरण प्रथमे वर्षे तृतीये वा द्विजातीनां धमतो धर्मार्थं कार्यम्, श्रुतिचोदनात् । “यत्रबाणाः सम्पतन्ति कुमारा विशिखा इव" इति मन्त्रलिङ्गात्कुलधर्मानुसारेणायंव्यवस्थितविकल्पः । अत एवाश्वलायनगृह्यम्–"तृतीये वर्षे चौलं यथाकुलधर्मं वा” ( अ. १ खं. १७ ) ॥३५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**चूडाकर्मेति** । **द्विजातीनां प्रथमे **वर्षे **तृतीये वा **चूडाकरणम् । **धर्मतो** धर्मेणादृष्टार्थं कार्यम्, “ॐ यत्र बाणाः सम्पतन्ति कुमारा विशिखा इव” इति श्रुतिलिङ्गात् । अनेनैतद् दर्शयति – यद् एवं प्रायाः वेदलिङ्गमूलाः स्मृतय इति ॥ २.३५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

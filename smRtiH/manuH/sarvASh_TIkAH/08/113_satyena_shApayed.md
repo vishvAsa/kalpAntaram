@@ -46,6 +46,16 @@ the Kṣatriya to *declare the truth*; the Vaiśya should be addressed thus—�
 Kṣatriya by his conveyance and by his weapons, the Vaiśya by his gold, grains, cows and so forth; or all by venerable deities or deified ancestors, or by their own pious gifts or meritorious deeds.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+ब्राह्मणं सत्यशब्दोच्चारणेन शापयेत् । क्षत्रियं वाहनायुधं मम निष्फलं स्यादित्येवम् । वैश्यं गोबीजकाञ्चनानि च मम निष्फलानि स्युरित्येवम् । शूद्रं च सर्वाणि मे पातकानि स्युरित्येवं शापयेत् ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सत्येनेति **। ब्राह्मणं वादिनं सत्यशब्दोच्चारणेन शापयेत् । क्षत्रियं च वाहनायुधं निष्फलं स्याद् इत्य् एवम् । वैश्यं च गोबीजकाञ्चनादीनि ते निष्फलानि स्युर् इत्य् एवम् । शूद्रं सर्वाणि ते पातकानि स्युर् इत्य् एवं शापयेत् ॥ ८.११३ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 असाक्षिके तत्त्वाभिगमार्थं ब्राह्मणादीन् वर्णान् अभियुक्तान् यथोपदेशं शपथैर् एभिः शापयेत् ॥ ८.११४ ॥

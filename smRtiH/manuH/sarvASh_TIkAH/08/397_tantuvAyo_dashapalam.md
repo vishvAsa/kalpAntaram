@@ -68,6 +68,16 @@ of cotton and woolen cloth, there is an increase of 10 *Palas* per cent .; this 
 wool-worked, there is a decrease by the thirtieth part. In the case of cloth of silk or of bark, there is neither decrease nor increase.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तन्तुवायो वस्त्रनिर्माणार्थं दश पलानि सूत्रं गृहीत्वा पिष्टभक्ष्याद्यनुप्रवेशादेकाशपलं वस्त्रं दद्यात् । यदि ततो न्यूनं दद्यात्तदा द्वादश पणान् राज्ञा दाप्यः, स्वामिनश्च तुष्टिः कर्तव्यैव॥ ३९७॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**तन्तुवाय** इति । तन्तुवायिना छेदे दशपलादिसूत्रस्य गृहीत्वा पिष्टखल्यानुप्रवेश्याद् एकादशपलं वासो दद्यात् । अतो यच् छिष्टं तत् तद् द्वादशगुणं दण्ड्यः ॥ ८.३९७ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 छिन्नं द्वादशगुणं दाप्यः । एवं सर्वद्रव्याणां लोहादीनां छेदने । साहसप्रकरणे च तत्सादृश्याद् इमौ श्लोकाव् उच्येते ॥ ८.३९५ ॥

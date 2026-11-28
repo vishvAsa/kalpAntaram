@@ -47,11 +47,20 @@ This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p. 394);�
 may arrive at the time.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उक्तभोजनकाले क्षत्रियादिव्यतिरिक्तान्सखिसहाध्यायिप्रभृतोन्सम्प्रोत्या गृहमागतान् न त्वतिथिभावेन, तस्य प्रतिषेधात् । यथाशक्ति प्रकृष्टमन्नं कृत्वा भार्याया भोजनकाले भोजयेत् । गृहस्थस्यापि स एव भोजनकालः, “अवशिष्टं तु दम्पती" ( म. स्मृ. ३ / ११६ ) इति चक्ष्यमाणत्वात् । आत्मना सहेति वक्तव्ये वचनत्रैवित्रीयमाचार्यस्य ।गुरोस्तु भोजनकालानभिधानं प्रभुत्वेन स्वाधीनकालत्वात् ॥११३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इतरान्** इति । उक्तक्षत्रियादिव्यतिरिक्तान् सखिबन्धुसहाध्यायिप्रभृतीन् **प्रीत्या** हेतुभूतया **गृहम् आगतान् अन्नं यथाशक्ति **संस्कृत्य भार्या भोजनकाले **भोजयेत् **। आत्मनो ऽपि कालः “अवशिष्टं तु दम्पती” इति वक्ष्यमाणत्वात् । गुरोस् तु कालान्वभिधानप्रभुत्वेन स्वायत्तकालत्वात् ॥ ३.११३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

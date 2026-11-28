@@ -26,11 +26,20 @@ The term, ‘*Teachers*, ‘here includes all *dependants* also.
 *Viṣṇu* (57. 15).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मातापित्रादिषु मृतेषु तैर्वा जीवद्भिरपि स्वयोगावस्थितैर्विता गृहान्तरे ।वसन्नात्मनो वृत्तिमन्विच्छन्सर्वदा साधुभ्यो गृह्णीयादेव ॥२५२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**गुरुष्व्** इति । मात्रादिष्व् **अतीतेषु तैर् वा विना गृहे वसन् **आत्मजीवम् अन्विच्छन् अनापदि सर्वदा साधुभ्य एव प्रतिगृह्णीयात् ॥ ४.२५२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

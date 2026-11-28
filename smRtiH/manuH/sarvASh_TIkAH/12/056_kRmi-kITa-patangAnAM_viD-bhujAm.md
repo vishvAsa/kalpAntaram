@@ -32,6 +32,16 @@ This verse is quoted in *Mitākṣarā* (3.208);—and in *Parāśaramādhava* (
 See Comparative notes for [Verse 12.53].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृमिकीटशलभानां पुरीषभक्षिणां पक्षिणां हिंसनशीलानां च व्याघ्रादीनां प्राणिनां जातिं सुरापो ब्राह्मणो गच्छति॥१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृमिकीटपतङ्गानाम्** इति । कृमिकीटशलभानां पुरीषबक्षिणां च पक्षिणां हिंसनशीलानां च व्याघ्रादीनां प्राणिनां च सम्बन्धिनीं योनिं सुरापो ब्राह्मणो याति ॥ १२.५६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 056	A Brahmana who drinks (the spirituous liquor called) Sura shall enter (the bodies) of small and large insects, of moths, of birds, feeding on ordure, and of destructive beasts.

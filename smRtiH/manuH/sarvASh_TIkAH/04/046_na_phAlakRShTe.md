@@ -45,6 +45,11 @@ which explains ‘*cityām*’ as ‘On a fire-altar.’
 See Comparative notes for [Verse 4.45].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**न फालकृष्ट** इति । तथा **फालकृष्टे** उदके इष्टकाचिते चाग्न्यधिकरणे पर्वते देवायतने पिपीलिकाकृष्टे मृत्सञ्चये च न कदाचित् कुर्यात् ॥ ४.४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,

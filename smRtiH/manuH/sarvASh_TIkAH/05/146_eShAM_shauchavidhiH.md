@@ -22,6 +22,16 @@ The term ‘*rule regarding cleanliness*’, though a general one, yet, by reaso
 ‘*Duties of women*,’—such duties as have to be performed exclusively by women; those that are common to men and women—such as the performance of sacrifices and the like—are not described here.—(144).
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एष वर्णानां जननमरणादौ दशरात्रादिरशौचविधिः समग्रो व्याणां तैजसादीनां चेलादीनां च जलादिना शुद्धिविधिर्युष्माकमुक्तः । इदानीं स्त्रीणामनुष्ठेयं धर्मं शृणुत ॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एष** इति । **एष** जननादिशौचविधिः समग्रो द्रव्याणां च तैजसानां शुद्धिः सकला सर्ववर्णानां ब्राह्मणादीनां सम्बन्धिनी युष्माकम् उक्ता, अधुना तु स्त्रीणां यो ऽनुष्ठेया धर्मास् ताञ् छृणुत ॥ ५.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	Thus the rules of personal purification for men of all castes, and those for cleaning (inanimate) things, have been fully declared to you: hear now the duties of women.

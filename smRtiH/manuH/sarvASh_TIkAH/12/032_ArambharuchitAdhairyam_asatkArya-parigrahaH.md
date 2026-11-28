@@ -44,6 +44,16 @@ If we read ‘*dainya*’ (*for* ‘-*dhairya*’), it should he understood to m
 attached to objects of sense, a man abounds in the attribute of *Rajas*, and is re-born among men. Lethargic, cruel in bis acts, covetous, heretic, addicted to begging, careless, of bad character, a man abounds in the attribute of *Tamas*, and is born among animals.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+फलार्थं कर्मानुष्ठानशीलता, अल्पेऽप्यर्थे वैक्लव्यं, निषिद्धकर्माचरणम् अजस्रंशब्दादिविषयोपभोग इत्येतद्रजोभिधानगुणस्य कार्यम्॥३२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आरम्भरुचितेति** । फलार्थं कर्मारम्भायासकृत्ता स्वल्पे ऽप्य् अनर्थे वैक्लव्यं शास्त्रविरुद्धकर्माचरणम् अनवरतं शब्दादिविषयोपभोग इत्य् एतत् रजोऽभिधानगुणसम्बन्धिकार्यम् ॥ १२.३२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 032	Delighting in undertakings, want of firmness, commission of sinful acts, and continual indulgence in sensual pleasures, (are) the marks of the quality of Activity.

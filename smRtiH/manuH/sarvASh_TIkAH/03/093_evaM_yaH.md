@@ -65,11 +65,20 @@ This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), where it is noted th
 See Comparative notes for [Verse 3.84].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेण यः सर्वभूतान्यन्नदानादिना नित्यं पूजयति, स परं स्थानं ब्रह्मात्मकं तेजोमूर्ति प्रकाशम् अवक्रेणवर्त्मनाऽचिरादिमार्गेण प्राप्नोति । ब्रह्मणि लीयत इत्यर्थः । ज्ञानकर्मभ्यां मोक्षप्राप्तेः । तेजोमूर्तिरिति सविसर्गपाठे प्रकृष्टब्रह्मबोधस्वभावो भूत्वेति व्याख्या ॥९३॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एवम्** इति । **एवम्** उक्तनीत्या अभिहितसर्वभूतानि नित्यम् अन्नादिना यः पूजयति सः तेजःशरीरो भूत्वा स्पष्टेन मार्गेण येनाशुप्राप्येन शरीरपातसमनन्तरम् एव तेन ब्रह्मलोकं गच्छति इति पञ्चयज्ञफलकथनम्, न चानित्यतापत्तिर् इत्य् उक्तम् ॥ ३.९३ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

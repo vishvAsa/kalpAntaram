@@ -35,6 +35,16 @@ it in a dish made of leaves, or on a single leaf, or in his hand, or in a potshe
 speech controlled, shall eat eight mouthfuls.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+तस्याप्यसम्भवे ग्रामादानीय ग्रामस्यान्नस्याष्टौ ग्रासान्पर्णशरावादिखण्डेन पाणिनैव वा गृहीत्वा वानप्रस्थो भुञ्जीत॥ २८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+तदभावे तु **ग्रामाद् **इति । **ग्रामाद्** आनीय ग्रामस्याप्य् अन्नस्याष्टौ ग्रासान् पर्णपुटिकया हस्तेन वा शरावादिखण्डेन वा प्रतिगृह्य वानप्रस्थो ऽश्नीयात् ॥ ६.२८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 028	Or (the hermit) who dwells in the forest may bring (food) from a village, receiving it either in a hollow dish (of leaves), in (his naked) hand, or in a broken earthen dish, and may eat eight mouthfuls.

@@ -30,6 +30,16 @@ This verse is quoted in *Kṛtyakalpataru* (35a);—in *Aparārka* (p. 674);—a
 \[See the texts under [79 *et seq*.]\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो धर्मनिश्चयनिमित्तं पृष्टः सन्नसत्यं ब्रूयात् स पापवानधोमुखो महान्धकारे यो नरकसंगच्छति ॥९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अवाग् **इति । यो धर्मनिश्चयनिमित्तं पृष्टः सन् असत्यं प्रश्नं ब्रूयात् स पापी अधोमुखो ऽतिसान्द्रे तमसि नरके पतेत् ॥ ८.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	'Headlong, in utter darkness shall the sinful man tumble into hell, who being interrogated in a judicial inquiry answers one question falsely.

@@ -44,6 +44,16 @@ Gift*; it reaches neither the gods nor Pitṛs; devoid of virtue, it wanders abo
 verbal variation.\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+सा दक्षिणा दानक्रिया सम्भोजनी सह भुज्यते यया सा सम्भोजनी गोष्ठी बहुपुरुषभोजनात्मिका पिशाचधर्मत्वात्पैशाची मन्वादिभिरुक्ता । सा च मैत्रीप्रयोजनकत्वान्न परलोकफला इह लोक एवास्ते ।यथान्धा गौरेकस्मिन्नेव गृहे तिष्ठति न गृहान्तरगमनक्षमा ॥१४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्भोजिनीति **। **सा दक्षिणा **तद्दानं सह भुज्यते ययेति **सम्भोजिनी** या गोष्ठी पिशाचधर्मत्वात् **पैशाची** मन्वादिभिर् उक्ता । सा च मित्रार्थत्वाद् **इह लोके एवास्ते अन्धा गौर् **यथैकस्मिन् गृहे । न परलोके प्रत्युपकाराय भवति ॥ ३.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	A gift (of food) by twice-born men, consumed with (friends and relatives), is said to be offered to the Pisakas; it remains in this (world) alone like a blind cow in one stable.

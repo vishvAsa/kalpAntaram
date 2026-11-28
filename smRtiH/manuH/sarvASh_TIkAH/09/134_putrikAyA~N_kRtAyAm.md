@@ -44,6 +44,11 @@ Body-horn son and the Appointed Daughter continue the family. No one hut a Body-
 Body-born son, the other sons are entitled to only a fourth part of the share, if they belong to the same caste as the father; if they belong to lower castes, they are entitled to food and clothing only.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+कृतायां पुत्रिकायां यदि तत्कर्तुः पुत्रोऽनन्तरं जायते, तदा तयोर्विभागकाले समो विभागो भवेत्। नोद्धारः पुत्रिकायै देयः। यस्माज्ज्येष्ठाया अपि तस्या उद्धारविषये ज्येष्ठता नादरणीया॥ १३४॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं च सति पुत्रांशदानम् अज्येष्ठत्वान् नास्ति ॥ ९.१३४ ॥

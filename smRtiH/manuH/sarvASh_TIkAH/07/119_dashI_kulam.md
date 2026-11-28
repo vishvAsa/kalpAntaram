@@ -29,6 +29,24 @@ Five times this land appertains to the Lord of Ten villages; and an entire villa
 This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 251), which adds the following notes:—‘*Kulam*’ is a portion of the village, called ‘*pādukā*,’ says *Kalpataru*:—others however hold that it stands for as much land as can be cultivated by two ploughs. That much of land he should have for his livelihood.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+**   अष्टागवं धर्महलं षड्गवं जीवितार्थिनाम् ।**
+
+**   चतुर्गवं गृहस्थानां त्रिगवंब्रह्मधातिनाम् ॥**
+
+इति हारीतस्मरणात् । षङ्गवं मध्यमं हलमिति तथाविधहलद्वयेन यावती भूमिर्वाह्यते तत्कुलमिति वदति तद्दशग्रामाधिपतिर्वृत्यर्थं भुञ्जीत । एवं विंशत्यधिपति;पञ्च कुलानि, शताधिपतिर्मध्यमं ग्रामं, सहस्राधिपतिर्मध्यमं पुरम् ॥११९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+****अष्टागवं धर्महलं षड्गवं जीविकार्थिनाम् ।
+
+> चतुर्गवं गृहस्थानां द्विगवं ब्रह्मघातिनाम् ॥
+
+इति **हारीतः** । षड्गवं मध्यमं हलम्, तद्द्विगुणं कुलं मन्यन्ते । तेन मध्यमेन हलद्वयेन यावती भूर् वाह्यते तत्फलं दशाधिपतिः भृत्यर्थं भुञ्जीत । एवं विंशत्यधिपतिः पञ्चकुलानि शताधिपतिर् मध्यमं ग्रामम्, **सहस्राधिपतिर्** मध्यमं **पुरम्** ॥ ७.११९ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अधिपतीनाम् इयं वृत्तिकल्पना श्लोक[द्वयेन] ॥ ७.११८–१९ ॥

@@ -52,6 +52,16 @@ This verse is quoted in *Mitākṣarā*, (on 2.127) to the same effect as the pr
 See Comparative notes for [Verse 5.154].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+बाल्यत एव ब्रह्मचारिणामकृतदाराणां सनकवालखिल्यादीतां ब्राह्मणानां बहूनि सहस्राणि कुलवृद्ध्यर्थं संततिमनुत्पाद्यापि स्वर्ग गतानि ॥१५९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**अनेकानीति** । बाल्यत एव ब्रह्मचारिणाम् अकृतदाराणां वालखिल्यानां ब्राह्मणानां पुराणोपवर्णितानां बहुसहस्राण्य् अष्टाशीतिकुलवृद्ध्यर्थम् अपत्यान्य् अनुत्पाद्यैव स्वर्गं गतानि ॥ ५.१५९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 159	Many thousands of Brahmanas who were chaste from their youth, have gone to heaven without continuing their race.

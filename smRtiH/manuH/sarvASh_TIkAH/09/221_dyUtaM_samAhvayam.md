@@ -48,6 +48,11 @@ Do. (17.2).—‘The master of the gaming house shall arrange the game and pay t
 shall arrange the gambling and pay the dues; and the interest he shall receive from the gamblers would be ten per cent.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्यूतसमाह्वयौ वक्ष्यमाणलक्षणौ राजा स्वराष्ट्रान्निवर्तयेत्। यस्मादेवौ द्वौ दोषौ राज्ञां राज्यविनाशकारिणौ॥ २२१॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 येन,

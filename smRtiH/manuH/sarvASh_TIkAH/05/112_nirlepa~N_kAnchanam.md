@@ -93,11 +93,20 @@ iron; lead by heating in fire; vessels made of ivory, bone, horn, silver and gol
 purified by water; metal things are cleansed by washing with water and scrubbing with stone.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+उच्छिष्टादिलेपरहितंसौवर्णभाडं, जलभवं च शङ्खमुक्तादि, पाषाणमयं च राजतमनुपस्कृतं रेखादिगुणान्तराधानरहितं तथा विधमलासंभवाज्जलेनैव भस्मादिरहितेन शुद्ध्यति ॥११२॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**निर्लेपम्** इति । उच्छिष्टादिलेपरहितं पानीयपानाद्युपहतं सौवर्णभाण्डम् अब्जं च रूप्यमारकतपूरितम् अद्भिर् एव केवलाभिर् विशुध्यति, न मृद्भस्मसहिताभिः ॥ ५.११२ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 112	A golden vessel which shows no stains, becomes pure with water alone, likewise what is produced in water (as shells and coral), what is made of stone, and a silver (vessel) not enchased.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

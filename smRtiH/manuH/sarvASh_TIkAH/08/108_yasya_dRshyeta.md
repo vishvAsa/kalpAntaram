@@ -42,6 +42,16 @@ three weeks—such as an illness, or fine, or death of a relative, or a heavy vi
 two weeks, some calamity befalls the man, he should be regarded as a sinner. If he alone, and none other, should suffer from illness, or death of a relative, or fine, this would be an indication of his sin.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्य साक्षिण उक्तसाक्ष्यस्य सप्ताहमध्ये व्याध्यग्निदाहसंनिहितपुत्रादिज्ञातिमरणानामन्यतमं भवति, दैवसूचितमिथ्याभिदोषत्वादृणमुत्तमर्णस्य दण्डं च राज्ञा दाप्यः ॥१०८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**यस्येति** । यस्य साक्षिण उक्तसाक्ष्यस्य सप्ताहस्य मध्यान् निमित्तान्तरं विनापि व्याध्यग्निबन्धुदाहमरणानाम् अन्यतमम् उत्पद्यते सदैव प्रतिपादितमिथ्याभावात् तादृशदण्डं दाप्यः ऋणं च ॥ ८.१०८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अर्वाक् सप्ताहात् साक्षी कुटुम्बरोगादिदर्शनेन मिथ्यावचनस् साक्षाद् एव प्रतिपादितो दण्डयितव्यः । यावन्तं तदनृतेन दापितो वा दण्डितश् च । ऋणव्यवहारार्थं त्व् अन्यत्र शास्त्रसामर्थ्यापेक्षया । एवम् उभयं मिथ्यावचनेषु साक्षिषु प्रकल्प्यम् । असाक्षिकेषु तावद् व्यवहारेष्व् एवम् अन्मानसाक्षिनिमित्तो निर्णयः ॥ ८.१०९ ॥

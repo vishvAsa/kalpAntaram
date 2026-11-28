@@ -31,6 +31,11 @@ This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri* 
 See Comparative notes for [Verse 3.269].
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**दशमासांस् तु तृप्यन्तीति** । **दशमासान् **आरण्यसूकरमहिष**मांसैस्** **तृप्यन्ति** । **एकादश** शशकच्छपमांसेन ॥ ३.२७० ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 270	Ten months they are satisfied with the meat of boars and buffaloes, but eleven months indeed with that of hares and tortoises,

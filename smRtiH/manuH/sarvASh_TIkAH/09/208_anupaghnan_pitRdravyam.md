@@ -51,6 +51,11 @@ It is quoted in *Aparārka* (p. 723), which explains ‘*śrama*’ as ‘soldie
 See Comparative notes for [Verse 9.204].
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पितृधनानुपघातेन यत्कृप्यादिक्लेशादर्जयेत्तत्स्वचेष्टाप्राप्तमनिच्छन्भ्रातृभ्यो दातुं नार्हति॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 अर्थात् कामस्य दानम् अनुजानाति ॥ ९.२०८ ॥

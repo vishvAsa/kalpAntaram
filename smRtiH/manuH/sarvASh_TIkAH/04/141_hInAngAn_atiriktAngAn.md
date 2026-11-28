@@ -52,6 +52,16 @@ person.’
 calling the blind *one with excellent eyes*, the Caṇḍāla a *Brāhmaṇa*; nor should one call the Śūdra a *Śūdra* or the outcast an *outcast*; such words, though truthful are twice as bad as untruthful words.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+हीनाङ्गाधिकाङ्गमूर्खवृद्धकुरूपार्थहीनहीनजातीन्काणशब्दाह्वानादिना न निन्देत्॥१४१॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**हीनाङ्गान्** इति । हीनाङ्गाधिकाङ्गमूर्खातिवृद्धविरूपदरिद्रवैधवेयादीन् काणादिशब्दाह्वानादिना नोपहसेत् ॥ ४.१४१ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 141	Let him not insult those who have redundant limbs or are deficient in limbs, nor those destitute of knowledge, nor very aged men, nor those who have no beauty or wealth, nor those who are of low birth.

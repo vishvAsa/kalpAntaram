@@ -30,11 +30,20 @@ This verse is quoted in *Nityācārapradīpa* (p. 492).
 ‘*maṅgalācārayuktānām*.’\]
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मङ्गलाचाराभ्यां युक्तानां नित्यं शुचीनां जपहोमरतानां दैवमानुषोपद्रवो न जायते॥१४६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+यथा चाह **मङ्गलाचारयुक्तानाम्** इति । मङ्गलाद्यनुष्ठानशीलानां शुद्धानां जपहोमपरायणानां दैवपुरुषकृत उपद्रवो **न विद्यते** ॥ ४.१४६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

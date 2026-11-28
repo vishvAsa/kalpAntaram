@@ -35,6 +35,16 @@ This verse is quoted in *Aparārka* (p. 635), which says that what is meant is t
 owner establish his claim to a lost property; if he fails to establish his claim, he shall be fined; he should be made to pay a fine the fifth part of the value of the article concerned.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यस्मिन् वस्तुनि संभोगो विद्यते क्रयादिरूपस्त्वागमो नास्ति, तत्र प्रथमपुरुषगोचर आगत एव प्रमाणं, न संभोग इति शास्त्रमर्यादा ॥२००॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**सम्भोग** इति । यस्मिन् वस्तुनि भोगो दृश्यते आगमः पुनः क्रियादिः न क्वचिद् अस्ति तत्रागमः कारणं न सम्भोगो ऽतश् च शुद्धागमस्य दशवर्षभोगेनापि कार्यसिद्धिः ॥ ८.२०० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एवं चागमाद् अशुद्धद्रव्यस्य दशवर्षभोगेनापि न स्वामित्वम् । यतश् चैतद् एवम् अतः — ॥ ८.१९९ ॥

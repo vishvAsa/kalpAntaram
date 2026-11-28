@@ -46,11 +46,20 @@ guests; of the highly flavoured foods, he shall not eat any except what has been
 vegetables,—these he shall not eat if they have not been offered to the guest.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यद् घृतदध्याद्युत्कृष्टमतिथिर्न प्रत्याचष्टे तत्तस्मै अदत्त्वा न स्वयं भोक्तव्यम् ।धनाय हितं धनस्य निमित्तं वा धन्यम् । एवं यशस्यादयोऽपि शब्दाः । अतिथिभोजनफलकथनमिदम् । न चानावश्यकतापत्तिः, "सर्वं सुकृतमादत्ते" ( म. स्मृ. ३ / १०० ) इत्यादिदोषश्रवणात् ॥१०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**नेति **। यद् अतिथये रोचते तत् तस्मा अदत्वा आत्मना नाश्नीयात् । अतिथिभोजनं च धनख्यात्या दुःस्वर्गनिमित्तम् इत्य् आतिथेयफलकथनं न त्व् अनित्यतापत्तिः “सर्वं सुकृतम् आदत्ते” इत्याद्युक्तत्वात् ॥ ३.१०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 106	Let him not eat any (dainty) food which he does not offer to his guest; the hospitable reception of guests procures wealth, fame, long life, and heavenly bliss.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

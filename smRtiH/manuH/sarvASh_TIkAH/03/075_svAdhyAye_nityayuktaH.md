@@ -11,11 +11,8 @@ One should be constantly engaged in Vedic Study, as also in acts in honour of th
 
 यद् उक्तं पञ्चसु महायज्ञेष्व् एकैकस्मिन् पृथगधिकारो न समुदाय एको ऽधिकार इति, तद् अनेन प्रकटीक्रोति । यदा दारिद्र्यादिदोषाद् अन्यतो वा कारणात् कथंचिद् असंपत्तौ नातिथ्यादिपूजा घटेत ततः **स्वाध्याये नित्ययुक्तेन** भवितव्यम् । **दैवे कर्मणि**[^१३६] । वैश्वदेवदेवताभ्यो ऽग्नौ होमो दैवं कर्म । भूतयज्ञपितृयज्ञयोः सत्य् अपि दैवत्वे प्रकरणाद् अग्नाव् एव होमो दैवम् उच्यते । अत्र अर्थवादम् आह । **दैवे कर्मणि युक्तः** तत्परो **बिभर्ति** धारयति **चराचरं** स्थावरं जङ्गमं च । सर्वस्य जगतः स्थितेर् हेतुर् भवतीत्य् अर्थः ॥ ३.६५ ॥
 
-
 [^१३६]:
      M G 1st ed.: daivakarmaṇi
-
-_कथं पुनर् अग्न्याहुत्या सर्वस्य जगतः स्थितिर् भवतीत्य् अत आह ।_
 </details>
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
@@ -35,11 +32,20 @@ A commendatory exaggeration is added—‘*He who is engaged in*’—*i.e*., bu
 towards the east or the north............ one should study the Veda.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यदि दारिद्र्यादिदोषेणातिथिभोजनादिकं कर्तुं न क्षमते तदा ब्रह्मयज्ञे नित्ययुक्तो भवेत्। दैवे कर्मण्यग्नौ होमे च। होमस्य स्तुतिमाह-यतो दैवकर्मपर इदं स्थावरजङ्गसं धारयति॥७५॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+“स्वाध्याये नित्ययुक्तः स्यात् दैवे पित्र्ये च कर्मणि । उभयत्रापि युक्तो हि” (३.७५) इति । ब्रह्मयज्ञदेवयज्ञानुष्ठाने नित्यं यत्नवान् स्यात् । तस्माद् एवं यज्ञानुष्ठानपर इदं स्थावरजङ्गमरूपं जगत् धारयति ॥ ३.७५ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 075	Let (every man) in this (second order, at least) daily apply himself to the private recitation of the Veda, and also to the performance of the offering to the gods; for he who is diligent in the performance of sacrifices, supports both the movable and the immovable creation.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

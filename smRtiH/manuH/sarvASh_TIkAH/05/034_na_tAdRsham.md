@@ -27,11 +27,20 @@ This verse is quoted in *Vīramitrodaya*, (Āhnika, p. 531).
 Vi *ṣ* ṇ u (51.62).—(Same as Manu.)
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+मृगवधजीविनो व्याधादेर्धननिमित्तं मृगाणां हन्तु तथाविधं पापं भवति, यादृशमदेवपितृशेषभूतमांसानि खादतः परलोके भवतीति पूर्वानुवाद एव ॥३४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**न तादृशम्** इति । मृगवधजीविशबलादिव्यतिरिक्तस्य धननिमित्तं मृगाणां हन्तुः न तथाविधं पापं भवति यादृगकृतदेवाद्यर्चनानि **खादतः** परलोके भवतीतिपूर्वार्थवाद एव ॥ ५.३४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 034	After death the guilt of one who slays deer for gain is not as (great) as that of him who eats meat for no (sacred) purpose.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

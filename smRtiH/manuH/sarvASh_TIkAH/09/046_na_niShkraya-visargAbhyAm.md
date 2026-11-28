@@ -59,6 +59,11 @@ The reason for this lies in the fact that verse 3.4, which contains the injuncti
 This verse is quoted in *Smṛtitattva* (II, p. 149), which explains ‘*niṣkraya*’ as *selling* and ‘*visarga*’ as *renouncing*, *divorcing*.
 </details>
 
+<details><summary>गोविन्दराजः</summary>
+
+**नेति **। **एवं धर्मं विजानीमः प्राक् प्रजापतिनिर्मितम्** । बन्धविक्रयादिना त्यागेन न च भार्यात्वात् स्त्री भर्तुर् अपैत्य् एवं प्रजापतिना स्मृतम् । पूर्वम् एव स्त्री च आत्मसात् कर्तुं न शक्येति ॥ ९.४६ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 एतद् दर्शयत्य् अनेन  

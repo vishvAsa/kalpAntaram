@@ -56,11 +56,20 @@ that towards the teacher himself,—so says the Śruti.’
 prevents him from doing wrong, the sub-teacher, the paternal uncle, the maternal grandfather, the maternal uncle, the father-in-law, the elder brother, one’s relations,—the behaviour towards these should be like that towards the teacher.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+आचार्यव्यतिरिक्ता उपाध्यायादयो विद्यागुरवः तेष्वेतदेवेति सामान्योपक्रमः । किं तत् ? आचार्य इव नित्या सार्वकालिकी वृत्तिर्विधेया। तथा स्वयोनिष्वपि पितृव्यादिषु तद्वृत्तिः तथा अधर्मान्निषेधत्सु धर्मतत्त्वं चोपदिशत्सु गुरुवद्वतितव्यम् ॥२०६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**विद्यागुरुष्व् एवेम् एवेति** । आचार्याद् अन्येषु उपाध्यायादिषु **विद्यागुरुष्व् एवम् एव **वर्तेत । तथा **स्वयोनिषु गुरुषु** अधर्मनिवर्तकौषधाद्युपदेष्टृष्व् एव **नित्या वृत्तिः** ॥ २.२०६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 206	This is likewise (ordained as) his constant behaviour towards (other) instructors in science, towards his relatives (to whom honour is due), towards all who may restrain him from sin, or may give him salutary advice.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

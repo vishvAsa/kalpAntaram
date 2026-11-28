@@ -47,11 +47,21 @@ thread, daily studying the Veda, avoiding the Śūdra’s food, approaching his 
 conducive to the accomplishment of Dharma, for all men.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+इन्द्रियाणामर्था रूपरसगन्धस्पर्शादयस्तेषु निषिद्वेष्वपि स्वदारसुतादिषु न प्रसज्येत नातिप्रसक्तिमत्यन्तसेवनात्मिकां कुर्यात् । कामत उपभोगार्थम् । अतिप्रसक्तिनिवृत्त्युपायमाह– अतिप्रसक्तिमिति
+।विषयाणामस्थिरत्वस्वर्गापवर्गात्मकश्रेयोविरोधित्वादिभावनया मनसा सम्यक्निवर्तयेत् ॥१६॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**इन्द्रियार्थेष्व्** इति । चक्षुरादिग्राह्येषु रूपादिषु **सर्वेषू**पभोगहेतोः सङ्गं न कुर्यात् । अप्रतिषिद्धानाम् अपि चैतेषां स्वदारगमनादीनां अतिशयप्रसङ्गम् अस्थिरत्वादिदोषसम्भावनया **मनसा **सम्यङ् **निवर्तयेत् **॥ ४.१६ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 016	Let him not, out of desire (for enjoyments), attach himself to any sensual pleasures, and let him carefully obviate an excessive attachment to them, by (reflecting on their worthlessness in) his heart.
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

@@ -76,6 +76,16 @@ offerings have been made to the Viśvedevas, the Householder shall keep aside fo
 *Bhikṣuka*, seeker for Alms.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+एवमुक्तप्रकारेणैतद्वलिकर्म कृत्वा गृहभोक्तृभ्यः पूर्वमतिथिं भोजयेत् । भिक्षवे परिव्राजे ब्रह्मचारिणे प्रथमाश्रमिणे च विधिवत्स्वस्तिवाच्य भिक्षादानमपूर्वमिति गौतमाद्युक्तविधिना भिक्षां दद्याव। ग्रासप्रमाणा च भिक्षा भवति । “ग्रासमात्रा भवैद्भिशा" इति शातातपवचनात् । सम्भवे त्वधिकमपि देयम् ॥९४॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**कृत्वेति** । **एवम् **उक्तस्वरूपेण **एतद् बलिकर्म **कृत्वा सर्वगृहभोक्तृभ्यः पूर्वं **अतिथिं **पूजयेत् । भिक्षणशीलाय ब्रह्मचारिणे समकालम् एव “स्वस्तिवाच्य भिक्षादानं अप्पूर्वम्” इति गौतमोक्तविधानेन भिक्षां दद्यात् ॥ ३.९४ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.

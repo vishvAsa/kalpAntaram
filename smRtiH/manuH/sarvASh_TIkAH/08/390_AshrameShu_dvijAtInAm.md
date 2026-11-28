@@ -41,6 +41,16 @@ In the case of householders, even though they also belong to an ‘order,’—y
 This verse is quoted in *Vyavahāramayūkha* (p. 4);—in *Vīramitrodaya* (Vyavahāra, 10a), which explains ‘*āśrameṣu kārye*’ as ‘business arising out of the life-stages’;—and in *Kṛtyakalpataru* (10a), which explains ‘*āśrameṣu*’ as ‘in the matter of the life-stages’,—and ‘*na vibrūyāt*,’ as ‘should not apportion victory and defeat.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+द्विजातीनां गार्हस्थ्याद्याश्रमविषये कायंऽयं शास्त्रार्थो नायं शास्त्रार्थ इति परस्परं जातविवादानां राजा स्वीयहितं चिकीर्षुरयं शास्त्रार्थ इति सदृशान्विशेषेण न ब्रूयात् ॥ ३९० ॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**आश्रमेष्व्** इति । द्विजानां गृहस्थानाम् आश्रमविषये शास्त्रार्थो ऽयं नेत्य् एवं परस्परं विवदमानानां राजा आत्मने दृष्टादृष्टहितं कर्तुम् इच्छन् नायं शास्त्रार्थ इति महासनविशेषेण ब्रूयात् ॥ ८.३९० ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 तपस्विव्ध्यर्थः श्लोकः ॥ ८.३८८ ॥

@@ -59,11 +59,20 @@ Gustatory and the Olfactory organs,—these five and the arms, the penis, the ar
 engendered.
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+पूर्वपण्डिता यान्येकादशेन्द्रियाण्याहस्तान्यर्वाचां शिक्षार्थं सर्वाणि कर्मतो नामतश्च क्रमाद्वक्ष्यामि ॥८९॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**एकादशेति **। यानि पूर्वे मन्वादयो विद्वांसः **इन्द्रियाण्य् **उक्तवन्तः **तानि यथावत् **कार्त्स्न्येन्**आनुपूर्वशः **कर्मेण **सम्यङ्** यथारूपं बुद्ध्यथ तथा **वक्ष्यामि **॥ २.८९ ॥
+</details>
+
 <details><summary>Bühler</summary>
 
 089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,
 </details>
-
 
 <details><summary>भारुचिः</summary>
 

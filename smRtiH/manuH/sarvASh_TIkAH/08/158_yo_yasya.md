@@ -72,6 +72,16 @@ for delivering the assets of the debtor—it is for these four different purpose
 the absconding debtor, the surety should be given time, extending up to a month and a half; if he produces him by that time, he should he absolved from responsibility. If, even on the lapse of the time, he is unable to produce him, he should be made to pay the debt.’
 </details>
 
+<details><summary>कुल्लूकः</summary>
+
+यो मनुष्यो यस्य दर्शनाय प्रतिभूस्तिष्ठेत् धनदानकाले ममायमधमर्णो दर्शनीय इति, तं तस्मिन्काल उत्तमर्णस्यादर्शयंस्तद्धनं दातुं यतेत ॥१५८॥
+</details>
+
+<details><summary>गोविन्दराजः</summary>
+
+**य** इति । अदर्शयन् मतं तस्य यतेत स्वधनाद् ऋणम् । प्रतिभूः दानकाले मय अयं दर्शनीय इत्य् एवं धनं प्रयोगकाले ऽन्यदा च यो यस्याधर्मर्णस्योत्तमर्णप्रतिभूत्वेन तिष्ठेत् । स तम् अधर्मर्णं तस्मिन् काले उत्तमर्णस्यादर्शयन् स्वधना ऋणदानं यतेत ॥ ८.१५८ ॥
+</details>
+
 <details><summary>भारुचिः</summary>
 
 निगदव्याख्यात एवायं श्लोकः । इदानीम् अस्य दर्शनप्रतिभुवो ऽधमर्णम् उत्तमर्णस्यादर्शयतः स्वधनाद् ऋणदानप्राप्तौ सत्याम् मृतस्य "रिक्थभाज ऋणं प्रतिकुर्युः" इत्य् अनेन शास्त्रेणार्थतश् च तत्पुत्रदानं प्राप्तं सत् प्रतिषिध्यते ॥ ८.१५७ ॥
