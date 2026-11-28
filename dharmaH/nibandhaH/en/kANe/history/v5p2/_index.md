@@ -23,9 +23,7 @@ VOL. V (PART II)
 
 ([[Santis;|Śāntis ;]] Purāṇas and Dharmaśāstra; Tantras and [[Dharmafāstra|Dharmaśāstra]] ; 
 
-[[Pārvamimārgā|Pūrvamīmāṁsā]] and Dharmaśāstra ; Sāṅkhya, Yoga, Tarka and [[Dharmajāstra|Dharmaśāstra]] ; Cosmology, Karma and [[Punar 
-
-janma;|Punar-janma;]] Fundamental and leading characteristics of Hindu culture and civilization ; 
+[[Pārvamimārgā|Pūrvamīmāṁsā]] and Dharmaśāstra ; Sāṅkhya, Yoga, Tarka and [[Dharmajāstra|Dharmaśāstra]] ; Cosmology, Karma and [[Punar janma;|Punar-janma;]] Fundamental and leading characteristics of Hindu culture and civilization ; 
 
 Future Trends. ) 
 

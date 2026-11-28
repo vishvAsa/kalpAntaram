@@ -7,21 +7,13 @@ title = "+1.2"
 - **Remaining work**: Proofread front/back matter & lists (`000/{General_Index,Synopsis_of_Contents}.md`, `Dharmasastra_Works_and_Writers/_index.md` raw Note on Kāmarūpa, `Appendix_A_List_of_Works_on_dharmashAstra.md`, `Appendix_B_List_of_Authors_on_dharmashAstra.md`), clean `v1p2/_index.md` title-page OCR + `078` odd asterisks, and spot-check unbracketed (`edits==0`) chapters (`066-074,077-079,086-087,098,108,111-114,118-119`). (`000/{Table_of_Contents,Preface,Corrections_and_Additions}.md` completed by `"Gemini 4 Hydrogen"`.)
 </details>
 
-HISTORY OF DHARMASĀSTRA 
+HISTORY OF [[DHARMASĀSTRA|DHARMAŚĀSTRA]] 
 
 ( ANCIENT AND MEDIÆVAL RELIGIOUS AND CIVIL LAW) 
 
+[[|By]]
+
 PANDURANG VAMAN KANE National Professor of Indology 
-
-ACHACO 
-
-LAR 
-
-RAL 
-
-LIBRA 
-
-K-29 
 
 Volume 1 Revised and Enlarged 
 
@@ -35,10 +27,6 @@ Copies can be had direct from the Bhandarkar Oriental Research Institute,
 
 Poona 411004, India 
 
-wallca gent. .taate 5-10-83 Saas F11. R294.604lk 
-
-i ne famill मनीय तत्व पस्तकालय 
-
 Volume I, Part II Second Edition 
 
 1975 
@@ -47,4 +35,4 @@ Printed and published by Dr. R. N. Dandekar, Honorary Secretary,
 
 Bhandarkar Oriental Research Institute, at the 
 
-Bhandarkar Institute Press, Poona, 
+Bhandarkar Institute Press, [[Poona,|Poona.]] 

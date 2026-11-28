@@ -38,43 +38,18 @@ In the present edition (of the H. of Dh.) the Chitraśālā edition of the Mahā
 
 In the following table an attempt (not meant to be exhaustive) is made to indicate where Dharmaśāstra topics have been [[deult|dealt]] with in the Mahābhārata at some length. 
 
-Abhiseka ( coronation )-śānti | Dāyablariga - Anuśāsana 
-
-40. 
-
-45.47 Arījaku (evils of anarchy) Putrits ( of various kinds ) 
-
-Santi 67. 
-
-Anusāsapa 48, 49. Ahimsa-Ādi. 11, Anuśāsana Prayuscitta-Santi 34, 35, 
-
-115. 1 ff, Asvamedhika, 
-
-165. 34 \#f. chap. 28 and 43, Sānti. Bhaks yābhuksya-Sānti 36,78. 
-
-330. Āśrama-dharmas-Sānti 61, 
-
-Rājanīti-Sabhā 5, Vanapar 
-
-va 150, Udyoga 212-15 
-
-33-34, Santi 59 |--Anusisana 104 Āśvumedhika 45. 
-
-130, Asrama 
-
-āsika 5-7 Apad--dharma-Sinti 131 ff. Upavāra-Anusāsana 
-
-| Varnadharma-śānti 60, 106-107. 
-
-(mixed cas Tirthas-Vanaparva 82 ft,Anu 
-
-tes ) Sānti 65,297 ; śāsana 25-26, Salya 35-54. 
-
-Anusāgana 48-49. Dāna-Vanaparva 186, Sānti Vivāha--Anuśāsana 44-46. 
-
-234, Aduśisana 57-99. I friidilid-Striparva 26-27, Dandastuti-Sānti 15, 121. 
-
-Anuśāsana 87-92. 
+| Topic — Parvans | Topic — Parvans |
+|---|---|
+| Abhiṣeka (coronation)—Śānti 40. | Dāyabhāga—Anuśāsana 45–47 |
+| Arājaka (evils of anarchy) Śānti 67. | Putras (of various kinds) Anuśāsana 48, 49. |
+| Ahiṃsā—Ādi. 11, Anuśāsana 115. 1 ff, Āśvamedhika, chap. 28 and 43, Śānti. 330. | Prāyaścitta—Śānti 34, 35, 165. 34 ff. |
+| Āśrama-dharmas—Śānti 61, 212–15 | Bhakṣyābhakṣya—Śānti 36, 78. |
+| Ācāra—Anuśāsana 104 / Āśvamedhika 45. | Rājanīti—Sabhā 5, Vanaparva 150, Udyoga 33–34, Śānti 59–130, Āśramavāsika 5–7 |
+| Āpad-dharma—Śānti 131 ff. | Varṇadharma—Śānti 60, (mixed castes) Śānti 65, 297; Anuśāsana 48–49. |
+| Upavāsa—Anuśāsana 106–107. | Vivāha—Anuśāsana 44–46. |
+| Tīrthas—Vanaparva 82 ff, Anuśāsana 25–26, Śalya 35–54. | Śrāddha—Strīparva 26–27, Anuśāsana 87–92. |
+| Dāna—Vanaparva 186, Śānti 234, Anuśāsana 57–99. | |
+| Daṇḍastuti—Śānti 15, 121. | | 
 
 Many difficult questions arise about the two epics (which have come down to us in different recensions ), such as the origin and development of the two epics, the inter-relation of the two, the dates of the two epics; the strata, if any, in the two epics; the literature known to them, their versification ; their influence on the early and later Dharmaśāstra works ; their influence in comparatively early times on peoples beyond India. A great deal has been written on these topics by Western and Indian writers for over a century. Considerations of space make it impossible to enter upon the detailed discussion of the questions stated above. Yet a few remarks must, be made on some of the topics discussed by scholars. The following works and papers will give some idea of the problems connected with these two heirlooms of Indian [[antiquitaine|antiquity]] " Zur Geschichte and Critik des Mahābhārata " by [[Holtzmit|Holtzmann]] (Kiel, 1892-94 );' Das Rāmāyana, Geschichte und Inhalt ' [[Apa YUMO|by]] Dr. Jacobi ( Bonn, 1893 ), 'The Great Epic of India' by [[Premiere|Prof.]] E. W. Hopkins (1901); Das Mahābhārata &c. by Dahlmann 
 
@@ -336,45 +311,25 @@ In the two epics genealogies of ancient kings occur fre quently and it is imposs
 
 [[P383]]dhi-son Ksupa-son Ikṣvāku (chap. 4.3-14 ). If we now turn to the Rāmāyana, chap. 110 of the Ayodhyākānda furni. shes a long pedigree (in verses 5-34 ) as follows: Brahmā Marici-Kaśyapa-Vivasvat-Manu Vaivasvata Prajāpati-Iks vāku (the first king of Ayodhyā )-Kuksi-Vikukṣi-Bana Anaraṇya-Pythu-Triśajku -- Dhundumāra - Yuvadāśva - Mān dhātr-Susandhi-Dhruvasandhi-- Bharata-Asita-Sāgara - A82 mañja - Aṁśumān - Dilipa - Bhagiratha - Kakustha - Raghu Pravṛddha. Kalmāsarāda -Saṅkhana - Sudarsana - Agnivarṇa Sighraga-Maru-Prasuśruva-Ambarisa-Nahusa-Nābhāga-Aja Daśaratha-Rāma. This pedigree contradicts the one in Manu smrti ( 1.34-35 ) set out a little above, where Marici is one of the ten sons of Manu. Let us now turn to the Raghuvamsa, where ( in 1.11-12 ) it is stated that Vaivasvata Manu was the first king, that among his descendants was king Dilipa, whose son was Raghu whose son was Aja whose son was Dasaratha. It should be noted that in the Ayodhyākānda two kings inter vene between Dilipa and Raghu and between Raghu and Aja ten kings are named. Hence it follows that the Ayodhyā. kānda pedigree is either an inflated one or that Kālidasa had a different pedigree before him at least from Dilipa downwards or that Kūlidasa was not aware of the longer pedigree. From the Raghuvamsa itself it appears that Kūlidāsa knew the story of Sagara as an ancestor of Rama and the story of his Aśvamedha horse being carried to the bottom of the earth and the digging of the earth for finding it and the ocean being filled with the waters of Ganges ( Raghu. XIII. 31 ); he also knew the story of Bhagiratha taking the Ganges from the matted hair of Śiva (Raghu IV.32 ) to the earth and of Kaku stha being a descendant of Iksvāku ( Raglu VI. 71 ). It is not unlikely that a very long pedigree was manufactured for the glory of the family of Rama and Kalidasa was not pre pared to accept it in its entirety. It may be noted that Bāna in the Harsacarita ( 6th ucchvĀsa p. 38 of my edition ) holds that Raghu was the son of Dilipa. 
 
-Both the epics inspired many later writers to compose Sanskrit dramas based on the characters and the various stories contained in them. The Dasarūpaka416 recommend 
+Both the epics inspired many later writers to compose Sanskrit dramas based on the characters and the various stories contained in them. The Daśarūpaka[^415] recommends [[P384]]that intending dramatists should rely upon the Rāmāyana and the [[Bșhatkatbā|Bṛhatkathā]] for plots. Dr. V. Raghavan recently published a work on 'Some old lost Rāma plays' (Annamalai University, 1961).
 
-Pooh 
-
-416 इत्याद्यशेषमिह वस्तुविभेदजातं रामायणादि च विभाव्य बृहत्कथां च । साम। 
-
-त्रयेत्तदनु नेतृरसानुगुण्याचित्रा कथामुचितचारुवचःप्रपश्चैः ॥ दशरूपक I. OE
-
-[[P384]]that intending dramatists should rely upon the Rāmāyana and the [[Bșhatkatbā|Bṛhatkathā]] for plots. Dr. V. Raghavan recently published a work on 'Some old lost Rāma plays' (Annamalai University, 1961). 
+[^415]: इत्याद्यशेषमिह वस्तुविभेदजातं रामायणादि च विभाव्य बृहत्कथां च । आसूत्रयेत्तदनु नेतृरसानुगुण्याच्चित्रां कथामुचितचारुवचःप्रपञ्चैः ॥ दशरूपक I. 67. 
 
 It appears from Kautilya's Arthaśāstra that it knew the central story of the Mahābhārata and that of the Rāmāyana. For example, on I. 6. 8 ( Arthaśāstra ) it is stated that Rāvana perished since he did not restore another's wife owing to pride and Duryodhana perished because he on account of pride did not agree to give a portion of the kingdom. In Arthaśāstra VIII. 3. 41-43 reference is made to Jayatsena and Duryodhana winning in gambling because of expertness in it and Nala and Yudhisthira lost in gambling. In the Mahābhārata, however, Nala's opponent is said to have been Puskara ( and not Jayatsena). There is little to show that the Arthasāstra refers to literary works like the Mahābhārata and the Rāmāyana and not to tales current among people in its day. 
 
-The Mahābbārata is predominently a Vaimna vite work and contains two of the five jewels of Vuisuavism viz. the Gītā and the one thousand names of Viṣṇu (in Anuśāsana parva 149. 14-120). 
+The Mahābhārata is [[predominently|predominantly]] a [[Vaimna vite|Vaiṣṇavite]] work and contains two of the five jewels of [[Vuisuavism|Vaiṣṇavism]] viz. the Gītā and the one thousand names of Viṣṇu (in Anuśāsana parva 149. 14–120).
 
-But it is not at all so thorough going in its dogma as are some medieval South Indian works of the 11th and later centuries A. D. The Anuśāsana ( 17. 31–153 ) contains 1008 names of Śiva also. In many places the identity of Śiva and Viśṇu is emphasized as in Vanaparva and Santiparva.416 There are grand eulogies of Śiva in Dronaparva 80. 39-48 and Sau ptikaparva 17 ( this last by Krsna ). In Anuśāsana (16.8) Śiva is identified with Bruhman. 
+But it is not at all so [[thorough going|thoroughgoing]] in its dogma as are some medieval South Indian works of the 11th and later centuries A. D. The Anuśāsana ( 17. 31–153 ) contains 1008 names of Śiva also. In many places the identity of Śiva and [[Viśṇu|Viṣṇu]] is emphasized as in Vanaparva and [[Santiparva.416|Śāntiparva.]][^416] There are grand eulogies of Śiva in [[Dronaparva|Droṇaparva]] 80. 39–48 and [[Sau ptikaparva|Sauptikaparva]] 17 ( this last by [[Krsna|Kṛṣṇa]] ). In Anuśāsana (16.8) Śiva is identified with [[Bruhman.|Brahman.]]
 
-418 शिवाय विष्णुरूपाय विष्णवे शिवरूपिणे । दक्षयज्ञविनाशाय हरिरुद्राय वै नमः ॥ 
+[^416]: शिवाय विष्णुरूपाय विष्णवे शिवरूपिणे । दक्षयज्ञविनाशाय हरिरुद्राय वै नमः ॥ [[q948|वनपर्व]] 39. 76–77; vide also [[afra 342, 33 aratah #Ai af affalas|शान्ति 342. 33 यस्त्वां वेत्ति स मां वेत्ति यस्त्वामनु]] स मामनु । नावयोरन्तरं किंचिन्मा ते भूद्बुद्धिरन्यथा [[.|।]] निष्कलं सकलं [[कृत्य|कृत्य (?)]] निर्गुणं गुणगोचरम् । योगिनां परमानन्दमक्षरं मोक्षसंज्ञितम् ॥ अनुशासन [[18. 8.|16. 8.]] Compare निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम् ॥ अमृतस्य [[पर|परं]] सेतुं [[Tetraf919754|दग्धेन्धनमिवानलम् ॥ श्वेताश्व०]] [[VI-19;|VI. 19;]] [[FASHICH arghita qeyd racire E14479:|ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं]] [[Il|पश्यते निष्कलं ध्यायमानः ॥]] [[gugata.|मुण्डकोप.]] III 1. 8. 
 
-q948 39. 76–77; vide also afra 342, 33 aratah \#Ai af affalas स मामनु । नावयोरन्तरं किंचिन्मा ते भूद्बुद्धिरन्यथा.। निष्कलं सकलं कृत्य निर्गुणं गुणगोचरम् । योगिनां परमानन्दमक्षरं मोक्षसंज्ञितम् ॥ अनुशासन 18. 8. Compare निष्कलं निष्क्रिय शान्तं निरवयं निरञ्जनम् ॥ अमृतस्य पर सेतु 
+[[P385]]The [[Mausala parva|Mausalaparva]][^417] ( chap. 7) [[varrates|narrates]] that, after [[Krona|Kṛṣṇa]] passed away, Arjuna went alone to Dvārakā in order to bring his wives and the Yādava women to the [[Pārdava capi tal,|Pāṇḍava capital,]] that Arjuna was attacked by the [[Abhiras|Ābhīras]] on his way and the [[Abhiras|Ābhīras]] forcibly carried away many ladies and some went with them of their own free will. Moreover, in [[Salya Parva|Śalyaparva]] 61. 28 [[ff,418|ff.,]][^418] where Duryodhana, being mortally wounded by a mace stroke on the thigh by [[Bhima|Bhīma]], severely upbraided [[Vasudeva|Vāsudeva]] for the breaches of the rules such as putting up [[Sikhandip|Śikhaṇḍin]] against [[Bhisma|Bhīṣma]] and Yudhiṣṭhira's prevarication about the death of [[Asvatthāmā.|Aśvatthāmā.]] Then [[Vasudeva|Vāsudeva]] referred to Duryodhana's evil deeds ( verses 42-47 ), such as not giving [[&|a]] share to [[Pandavas|Pāṇḍavas]] in the paternal estate, poisoning [[Bbima|Bhīma]], trying to burn [[Pandavas|Pāṇḍavas]] together with their mother in [['|‘]]jatugṛha’, taking by force [[Draupadi|Draupadī]] to the [[Sabbā|Sabhā]] when she was in her monthly period, assault on the very young [[Abhi manyu|Abhimanyu]] by many of Duryodhana's partisans, and added that he [[Wag|was]] killed for all these misdeeds. The text says that the gods showered flowers on Duryodhana and Gandharvas played on musical instruments &c. (verses 55-58). If the great epic had been a thoroughgoing [[Vaishave|Vaiṣṇava]] work these incidents would not have been mentioned by it.
 
-Tetraf919754 VI-19; FASHICH arghita qeyd racire E14479: Il gugata. III 1. 8. 
+A few passages[^419] common to two or more works with slight variations from among (Arthaśāstra of [[Kauṭily., Makābhārata,|Kauṭilya, Mahābhārata,]] Manu, Mahābhāṣya, and [[Rāmāyana|Rāmāyaṇa]] are here set out and some have already been mentioned above ).
 
-[[P385]]The Mausala parva[^417] ( chap. 7) varrates that, after Krona passed away, Arjuna went alone to Dvārakā in order to bring his wives and the Yādava women to the Pārdava capi tal, that Arjuna was attacked by the Abhiras on his way and the Abhiras forcibly carried away many ladies and some went with them of their own free will. Moreover, in Salya Parva 61. 28 ff,418 where Duryodhana, being mortally wounded by a mace stroke on the thigh by Bhima, severely upbraided Vasudeva for the breaches of the rules such as putting up Sikhandip against Bhisma and Yudhisthira's prevarication about the death of Asvatthāmā. Then Vasudeva referred to Duryodhana's evil deeds ( verses 42-47 ), such as not giving & share to Pandavas in the paternal estate, poisoning Bbima, trying to burn Pandavas together with their mother in 
+[^418]: दुर्योधनो वासुदेवं वाग्भिरुग्राभिरादयत् । कंसदासस्य दायाद न ते लज्जास्त्यनेन वै॥ अधर्मेण गदायुद्धे यदहं विनिपातितः । ऊरू भिन्धीति भीमस्य स्मृतिं मिथ्या [[44E537|प्रयच्छता]] [[I ... Parerga greint eraara Porame: 1 PETE977:|। ... शिखण्डिनं पुरस्कृत्य घातितस्ते पितामहः ।]] [[Ara eral ari y a 11 31rarat ha: TUOI Type 01. 27–32.|अश्वत्थाम्नः सनामानं हत्वा नागं सुदुर्मते ॥ आचार्यो न्यासितः शस्त्रं ॥ शल्यपर्व]] 61. 27–32.
 
-jatugļha', taking by force Draupadi to the Sabbā when she was in her monthly period, assault on the very young Abhi manyu by many of Duryodhana's partisans, and added that he Wag killed for all these misdeeds. The text says that the gods showered flowers on Duryodhana and Gandharvas played on musical instruments &c. (verses 55-58). If the great epic had been a thoroughgoing Vaishave work these incidents would not have been mentioned by it. 
-
-A few passages 419 common to two or more works with slight variations from among (Arthaśāstra of Kauṭily., Makābhārata, Manu, Mahābhāṣya, and Rāmāyana are here set out and some have already been mentioned above ). 
-
-417 मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाचान्या: 
-
-Taa: 11 H14O 7.59. 418 दुर्योधनो वासुदेवं वाग्भिरुग्राभिरादयत् । कंसदासस्य दायाद न ते लजास्त्यनेन वै॥ 
-
-अधर्मेण गदायुद्धे यदहं विनिपातितः । उरू भिन्धीति भीमस्य स्मृति मिथ्या 44E537 I ... Parerga greint eraara Porame: 1 PETE977: 
-
-Ara eral ari y a 11 31rarat ha: TUOI Type 01. 27–32. 419 (1) FTTET TI-*. I, 15.60, \#VII. 105, atfeet 140.24. 
-
-(2) faggatus: 17-1914: 1 **. 1. 4. 6-6,49. V11.102-3, anfa 
-
-140. 6-7, Tae 140. 7-8. (3) FITOTT:-. 1. 4. 13, I. 13.8, Sifa 18.30, 67. 16, 42 v1.0 (4) Harilor rando- AI XI, 180, IECT 165. 37. 
+[^419]: (1) [[FTTET TI-*.|नास्य गुह्यं—कौ.]] I. 15.60, [[#VII. 105, atfeet|मनु VII. 105, शान्ति]] 140.24. (2) [[faggatus: 17-1914: 1 **. 1. 4. 6-6,49. V11.102-3, anfa|नित्यमुद्यतदण्डः स्यात्—इत्याचार्याः । कौ. I. 4. 5–6, मनु. VII. 102–3, आदि]] 140. 6–7, [[Tae|शान्ति]] 140. 7–8. (3) [[FITOTT:-. 1. 4. 13, I. 13.8, Sifa 18.30,|मात्स्यन्यायः—कौ. I. 4. 13, I. 13. 5, शान्ति 15. 30,]] 67. 16, [[42 v1.0|मनु VII. 20.]] (4) [[Harilor rando- AI XI, 180, IECT|संवत्सरेण पतति—मनु XI. 180, शान्ति]] 165. 37. 
 
 
 [[P386]] 
@@ -389,7 +344,7 @@ There are several recensions of the Rāmāyaṇa, three being well-known, viz. t
 
 [[Jū11. 34. 37 and TFT. 67. 11 (5674 stund and a h all).|उद्योग. 34. 37 and शान्ति. 67. 11 (इन्द्राय स प्रणमते नमते यो बलीयसे ॥).]] (7) कल्याणी बत गाथेयं लौकिकी प्रतिभाति मे । एति जीवन्तमानन्दो नरं [[वर्ष|वर्षशतादपि ॥]] 
 
-[[Tarifa il g=37\#173 34. 6, 16*103 129. 2 ( Gorrocio's od.x262|सुन्दरकाण्ड 34. 6, युद्धकाण्ड 129. 2 ( Gorrecio's ed. 126. 2 );]] the महाभाष्य quotes the quarter एति जीवन्तमानन्दः on PATRE ([[Kielbord|Kielhorn]] vol. I. p. 277 ) and on III. 1. 67 [[anfaa 6 ( katha|वार्तिक 6 ( Kielhorn]] vol. II. p. 59 ). 
+[[Tarifa il g=37\#173 34. 6, 16*103 129. 2 ( Gorrocio's od.x262|सुन्दरकाण्ड 34. 6, युद्धकाण्ड 129. 2 ( Gorrecio's ed. 126. 2 );]] the महाभाष्य quotes the quarter एति जीवन्तमानन्दः on [[PATRE|Pāṇ. I. 3. 12]] ([[Kielbord|Kielhorn]] vol. I. p. 277 ) and on III. 1. 67 [[anfaa 6 ( katha|वार्तिक 5 ( Kielhorn]] vol. II. p. 59 ). 
 
 [[P387]]having the more original text; ( 2 ) each recension has a good number of verses, longer [[pageages|passages]] and sometimes whole cantos which are not found in one of the other two recensions or in both the other recensions ; (3) the sequence of the verses is often different in two or sometimes in all three recensions. Jacobi found that in the first 30 cantos of Kiṣkindhā 749 verses were common out of a total of 1303 verses in Southern recension and 1228 in East Bengal recension. Prof. C. Bulcke finds that of the [[4202,|4202½]] verses of the N. W. version of Sundarakāṇḍa, 31 percent are absent from the Bengal version and 28 percent from the Southern Recension and 13 percent exclusively belong to the N. W. recension (vide Poona Orientalist, vol. 25 at p. 37) and adds that the narrative changes very little and that the additional verses are often due to repetition of laments, consolations and fuller descriptions of events already narrated. He advances the plausible theory that all three recensions were reduced to writing independently on the basis of a text which had been transmitted orally for several centuries by professional singers who had committed the poem to memory. Prof. C. Bulcke (of Allahabad University ) in his careful paper on the ( three Rāmāyaṇa recensions) examines these divergences in the recensions (in J. O. R., Madras vol. 17 pp. 1-32 ) and arrives at the conclusion that, in spite of the [[divergeuces|divergences]] the subject matter of the Rāmāyaṇa viz. the narrative itself has been changed very little. He examines 152 cases from the seven kāṇḍas and shows, (A) how in some cases the subject matter occurring in the Southern recension is absent from one recension or from both of the other recensions ; (B) the subject matter not found in the [[Southeru|Southern]] recension is in some cases present in one or both of the other recensions; and lastly (C) there are other differences among the [[tbree|three]] recensions which cannot be classified under either A or B. He points out places where entire sargas or fairly long passages are not present in all the recen sions even if they do not contain any new subject matter. 
 

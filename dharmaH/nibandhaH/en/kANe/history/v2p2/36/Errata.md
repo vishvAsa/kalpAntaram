@@ -1,9 +1,10 @@
 +++
 title = "Errata"
-
+proofreader = [ "Gemini 4 Hydrogen",]
 +++
 
 [[P1367]]
+
 ## ERRATA
 
 (A few misprints due to the loss of such loose parts as anusvāras have not been specified here, since they can be easily detected)
